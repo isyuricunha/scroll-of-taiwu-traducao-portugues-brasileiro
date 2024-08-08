@@ -1,0 +1,887 @@
+Campo
+Vazio e desabitado.
+Espaço aberto plano onde pode ocorrer construção.
+Reservatório
+Rios, lagos, oásis e outras áreas de água. Estas áreas aquáticas e férteis proporcionam pesca e transporte desenvolvidos.
+O Reservatório tem chance de crescer e expandir no sexto mês de cada ano. A chance de crescimento aumenta com a construção de recursos "Poço". Fornece materiais de "culinária".
+Colinas de Pedra
+Colinas formadas por inúmeras rochas, ricas em jazidas de minérios como cobre e ouro.
+Stone Hills tem chance de crescer e se expandir no nono mês de cada ano. A chance de crescimento aumenta com a construção de recursos "Mineshaft". Fornece materiais de "Ferraria".
+Bosques
+Uma área onde a natureza floresce. Não só há sol suficiente, mas as chuvas são regulares e há muitas árvores de excelente qualidade.
+The Woodlands tem chance de crescer e se expandir no segundo mês de cada ano. A chance de crescimento aumenta com a construção de recursos "Plantação de Árvores". Fornece materiais de "Carpintaria".
+Montanha em direção ao céu
+Uma montanha que está sozinha. Seu pico eleva-se até as nuvens, cercado por falésias íngremes. Rico em minérios e gemas.
+A Skyward Mountain tem chance de crescer no oitavo mês de cada ano. A chance de crescimento aumenta com a construção de recursos "Monumento". Fornece materiais de "Ferraria" e "Corte de pedras preciosas".
+Paraíso das Ervas
+Solo rico e água límpida com clima ameno. O terreno é muito complexo, com muitas ravinas e grutas, propícias ao cultivo de vários tipos de ervas valiosas.
+O Herb Paradise tem chance de crescer e se expandir no sexto mês de cada ano. A chance de crescimento aumenta com a construção de recursos "Campo Medicinal". Fornece materiais de "Medicina".
+Pântano Venenoso
+Um pântano venenoso coberto de miasma e assoreado de lama. Existem muitas árvores estranhas no pântano e muitas cobras e insetos mortais prosperam lá dentro.
+O Poison Swamp tem chance de crescer e se expandir no nono mês de cada ano. A chance de crescimento aumenta com a construção de recursos "Canal do Pântano". Fornece materiais de "Toxicologia".
+Vale das Flores
+Com clima ameno, o vale é coberto por arbustos e inúmeras espécies de flores. É um ambiente adequado para o cultivo de plantas utilizadas na confecção de tecidos.
+O Flower Valley tem chance de crescer e se expandir no quarto mês de cada ano. A chance de crescimento aumenta com a construção de recursos "Valley Farmers". Fornece materiais de "tecelagem".
+Depósito de gemas
+Um depósito de raras pedras coloridas e jade. As pedras preciosas são cristalinas e brilhantes, brilhando como joias da terra.
+O Depósito de Gemas tem chance de crescer no décimo segundo mês de cada ano. A chance de crescimento aumenta com a construção de recursos "Gem Mine". Fornece materiais de "corte de gemas".
+Planície Fértil
+Um terreno fértil adequado para o cultivo de árvores de fruto e culturas. O terreno é de fácil desenvolvimento, com muita água e luz, e muito rico na produção de alimentos e madeira.
+A Planície Fértil tem chance de crescer e se expandir no quarto mês de cada ano. A chance de crescimento aumenta com a construção de recursos "Roda D'água". Fornece materiais de "Cozinha" e "Carpintaria".
+Habitat Selvagem
+Uma região rica em carne e peles com um ambiente ecológico diversificado. Muitos tipos de animais selvagens prosperam na área, com muitas espécies raras e exóticas.
+O Wild Habitat tem chance de crescer e se expandir no segundo mês de cada ano. A chance de crescimento aumenta com a construção de recursos "Pasto". Fornece materiais de "Cozinha" e "Tecelagem".
+Lagoa de Lava
+Crateras cheias de lava e chamas vulcânicas estão espalhadas por toda a área. O calor é tão intenso que muitas vezes a chama geotérmica cai no chão e queima durante três dias sem se apagar. A área está repleta de minério de ouro e prata de alta qualidade.
+A Lagoa de Lava tem chance de crescer no sétimo mês de cada ano, mas não se expande naturalmente. A chance de crescimento aumenta com a construção de recursos "Teleférico de Aço". Fornece materiais de "Ferraria".
+Cratera do Meteoro
+A cratera formada pela queda de um meteorito. Ele está repleto de ferro especial forjado por meteoros, com o qual apenas os verdadeiros mestres da forja são capazes de trabalhar.
+A Cratera do Meteoro tem chance de crescer no décimo mês de cada ano, mas não se expande naturalmente. A chance de crescimento aumenta com a construção de recursos "Pilha Explosiva". Fornece materiais de "Ferraria".
+Selva Primitiva
+Uma floresta densa e intocada, cheia de flores e gramíneas exóticas. É escuro e úmido, dificultando muito o processo de colheita.
+A Selva Primitiva tem chance de crescer no sétimo mês de cada ano, mas não se expande naturalmente. A chance de crescimento aumenta com a construção de recursos "Cedar-Heart Wall". Fornece materiais "Caprentry".
+Floresta Taishi
+Taishi, A Floresta do Grande Começo, é uma terra quase totalmente vazia. A única coisa que você vê enquanto você caminha por seus terrenos é um número esparso de árvores estranhas. Seus troncos roxos crescem altos e largos, cortando-se em uma borda íngreme no topo. Cada um mostra sinais de idade incontável com uma única fruta crescendo em seus galhos.
+A Floresta Taishi tem chance de crescer no sexto mês de cada ano, mas não se expande naturalmente. A chance de crescimento aumenta com a construção de recursos "Suspensões oscilantes". Fornece materiais de "Carpintaria".
+Ravina da Primavera Eterna
+Uma ravina de montanha isolada que flui infinitamente com água preciosa. Todas as estações são como a primavera no país das maravilhas do pêssego, e todas as ervas cultivadas lá dentro são cultivadas indefinidamente.
+A Ravina da Primavera Eterna tem chance de crescer no quinto mês de cada ano, mas não se expande naturalmente. A chance de crescimento aumenta com a construção de recursos "Canal de Água". Fornece materiais de "Medicina".
+Ninho de cobras
+Uma caverna ocupada por uma miríade de cobras venenosas. O denso veneno se espalhou pelos arredores, deixando solo estéril e árvores podres em seu rastro. Vislumbres de numerosos ossos brancos podem ser vistos da entrada, sua atmosfera desolada intensificada pela escuridão sem fim quando você olha para dentro.
+O Snake Hole tem chance de crescer no quinto mês de cada ano, mas não se expande naturalmente. A chance de crescimento aumenta com a construção de recursos "Feeding Cage". Fornece materiais de "Toxicologia".
+Terra das Fragrâncias
+Uma terra misteriosa cheia de flores, plantas e cristais hipnotizantes com aromas estranhos. Seu caráter único propicia a produção de tecidos especiais.
+A Terra das Fragrâncias tem chance de crescer no décimo primeiro mês de cada ano, mas não se expande naturalmente. A chance de crescimento aumenta com a construção de recursos "Cloud Canopy". Fornece materiais de "tecelagem".
+Veia do Dragão
+O sopro da veia do dragão é oculto e nutrido, levando a uma vitalidade próspera. O auspicioso feng shui do céu, da terra, do yin e do yang está perfeitamente harmonizado aqui.
+A Veia do Dragão tem chance de crescer no terceiro mês de cada ano, mas não se expande naturalmente. A chance de crescimento aumenta com a construção de recursos "Residência Feng Shui". Fornece materiais de "tecelagem".
+Linha Ley
+A linha ley é a essência central da terra, composta de estreitas cavernas subterrâneas cheias de minerais e plantas misteriosas.
+A Linha Ley tem chance de crescer no décimo segundo mês de cada ano. A chance de crescimento aumenta com a construção de recursos "Mausoléu Oculto". Fornece materiais de "corte de gemas".
+Gelo Eterno
+Nascido em ambientes de frio extremo, o gelo se forma após centenas de milhões de anos. É tão resistente que não pode ser quebrado por cortes e cortes, e não pode ser derretido por qualquer tipo de fogo.
+O Gelo Eterno tem chance de crescer no primeiro mês de cada ano. A chance de crescimento aumenta com a construção de recursos “Estátuas Divinas”. Fornece materiais de "corte de gemas".
+Ervas daninhas
+Em meio à densa folhagem, numerosos insetos cantam sob o céu noturno.
+As ervas daninhas têm chance de crescer e se expandir no terceiro mês de cada ano.
+Pedras
+Em meio ao solo rochoso, numerosos insetos cantam sob o céu noturno.
+As pedras não crescem naturalmente nem se expandem.
+Ruínas
+Em meio às estruturas quebradas, numerosos insetos cantam sob o céu noturno.
+As ruínas não crescem naturalmente, nem se expandirão.
+Bem
+É feito de lama e areia, coberto de vegetação e empilhado com pedras. É usado para armazenamento de água e instalações de controle de enchentes.
+Deve ser construído junto ao “Reservatório”. Aumenta sua chance de crescimento anual. Você precisará enviar aldeões para operá-lo. Os materiais alimentares para “Cozinhar” podem ser colhidos, assim como os recursos alimentares todos os meses.
+Mina
+O poço da mina atinge vários metros de profundidade no solo, cortado para explorar um veio de minério.
+Deve ser construída junto às “Stone Hills”. Aumenta sua chance de crescimento anual. Você precisará enviar aldeões para operá-lo. Os materiais de minério para "Ferraria" podem ser colhidos, assim como o recurso de minério todos os meses.
+Plantação de árvores
+Empregar agricultores para cultivar, manter e irrigar as árvores das “Florestas”.
+Deve ser construída junto ao “Bosques”. Aumenta sua chance de crescimento anual. Você precisará enviar aldeões para operá-lo. Os materiais de madeira para “Carpintaria” podem ser colhidos, assim como o recurso madeira todos os meses.
+Monumento
+Monumentos gravados com muitas imagens ou poemas, esculpidos na face da falésia.
+Deve ser construído próximo à "Skyward Mountain". Aumenta sua chance de crescimento anual. Você precisará enviar aldeões para operá-lo. Materiais de minério e jade para "Ferraria" e "Corte de pedras preciosas" podem ser colhidos, assim como o recurso de minério ou jade todos os meses.
+Campo da Medicina
+Empregue agricultores para cultivar, manter e irrigar as ervas do "Paraíso das Ervas".
+Deve ser construído junto ao “Paraíso das Ervas”. Aumenta sua chance de crescimento anual. Você precisará enviar aldeões para operá-lo. Os materiais herbáceos para "Medicina" podem ser colhidos, assim como os recursos herbáceos todos os meses.
+Canal do Pântano
+Canais cavados livremente que despejam continuamente lama e esgoto de vários lugares no pântano.
+Deve ser construído próximo ao "Pântano Venenoso". Aumenta sua chance de crescimento anual. Você precisará enviar aldeões para operá-lo. Materiais de ervas para "Toxicologia" podem ser colhidos, assim como recursos de ervas todos os meses.
+Agricultores do Vale
+Empregar agricultores para cultivar, manter e irrigar as flores e plantas.
+Deve ser construída junto ao “Vale das Flores”. Aumenta sua chance de crescimento anual. Você precisará enviar aldeões para operá-lo. Os materiais de tecido para “Tecelagem” podem ser colhidos, assim como o recurso de tecido todos os meses.
+Mina de joias
+Minas escavadas para mineração de gemas. Comparada à mineração a céu aberto, é mais difícil, mas mais lucrativa.
+Deve ser construído próximo ao “Depósito de Gemas”. Aumenta sua chance de crescimento anual. Você precisará enviar aldeões para operá-lo. Os materiais de jade para “Gemcutting” podem ser colhidos, assim como o recurso de jade todos os meses.
+Roda d'água
+Com o fluxo de água como energia, vastos campos podem ser irrigados.
+Deve ser construída junto à “Planície Fértil”. Aumenta sua chance de crescimento anual. Você precisará enviar aldeões para operá-lo. Alimentos e materiais de madeira para "culinária" e "carpintaria" podem ser colhidos, assim como alimentos e/ou recursos de madeira todos os meses.
+Pasto
+Contrate pastores para criar animais nas pastagens férteis e protegê-los de doenças, desastres naturais e feras.
+Deve ser construído junto ao “Habitat Selvagem”. Aumenta sua chance de crescimento anual. Você precisará enviar aldeões para operá-lo. Materiais de alimentos e tecidos para “Cozinhar” e “Tecelagem” podem ser colhidos, assim como os recursos de alimentos ou tecidos todos os meses.
+Teleférico de aço
+Um grande cabo de aço atravessa as crateras vulcânicas, para que as áreas centrais possam ser acessadas à vontade.
+Deve ser construído próximo ao "Lago Pond" usando a "Fivela de Aço" como material central. Aumenta sua chance de crescimento anual. Você precisará enviar aldeões para operá-lo. Os materiais de minério para "Ferraria" podem ser colhidos, assim como o recurso de minério todos os meses.
+Pilha de Explosão
+É um método popular de aquecer minério com calor intenso por meio de bombas incendiárias, para facilitar sua decomposição.
+Deve ser construído próximo à "Cratera do Meteoro" usando a "Pólvora Negra" como material central. Aumenta sua chance de crescimento anual. Você precisará enviar aldeões para operá-lo. Os materiais de minério para "Ferraria" podem ser colhidos, assim como o recurso de minério todos os meses.
+Parede Cedro-Coração
+Espinhos e muros altos cercam a selva, protegendo a floresta primitiva da intrusão humana e animal para que seu ambiente único possa ser preservado.
+Deve ser construído próximo à “Selva Primordial” usando o “Coração de Cedro de Cem Anos” como material central. Aumenta sua chance de crescimento anual. Você precisará enviar aldeões para operá-lo. Os materiais de madeira para “Carpintaria” podem ser colhidos, assim como o recurso madeira todos os meses.
+Suspensões oscilantes
+As duas casas aéreas de madeira suspensas por lingas em ambos os lados da árvore gigante podem ser levantadas e abaixadas, permitindo que as pessoas subam e desçam na madeira gigante.
+Deve ser construído próximo à “Floresta Taishi” usando a “Roda Diamante” como material central. Aumenta sua chance de crescimento anual. Você precisará enviar aldeões para operá-lo. Os materiais de madeira para “Carpintaria” podem ser colhidos, assim como o recurso madeira todos os meses.
+Canal de Água
+A construção de canais artificiais de desvio de água ajuda a preciosa água a se espalhar por mais áreas, ao mesmo tempo que reduz o assoreamento.
+Deve ser construído próximo à "Everspring Ravine" usando o "Jade Pottery Tube" como material principal. Aumenta sua chance de crescimento anual. Você precisará enviar aldeões para operá-lo. Os materiais herbáceos para "Medicina" podem ser colhidos, assim como os recursos herbáceos todos os meses.
+Gaiola de alimentação
+Carregado com gado, ovelhas, peixes e insetos para alimentar as cobras venenosas para que possam crescer e se multiplicar.
+Deve ser construído próximo ao "Poço das Cobras" usando a "Gaiola de Alimentação das Cobras" como material principal. Aumenta sua chance de crescimento anual. Você precisará enviar aldeões para operá-lo. Materiais de ervas para "Toxicologia" podem ser colhidos, assim como recursos de ervas todos os meses.
+Dossel de Nuvem
+O crepe de seda embebido em óleo é tecido em um dossel branco para proteger o terreno e as plantas do vento e da chuva.
+Deve ser construído próximo ao "Fragrance Land" usando o "Silver Line White Canopy" como material principal. Aumenta sua chance de crescimento anual. Você precisará enviar aldeões para operá-lo. Os materiais de tecido para “Tecelagem” podem ser colhidos, assim como o recurso de tecido todos os meses.
+Residência Feng Shui
+A residência é organizada de acordo com o método auspicioso do Feng Shui e tem o efeito mágico de evitar desastres e nutrir a veia do dragão.
+Deve ser construído próximo à “Veia do Dragão” usando as “Pedras Feng Shui” como material central. Aumenta sua chance de crescimento anual. Você precisará enviar aldeões para operá-lo. Os materiais de tecido para “Tecelagem” podem ser colhidos, assim como o recurso de tecido todos os meses.
+Mausoléu Escondido
+Construída na entrada da Linha Ley, evita o vazamento de sua energia espiritual e a protege da invasão de espíritos malignos.
+Deve ser construído próximo à “Linha Ley” usando a “Besta de Prevenção do Mal Zhen Yuan” como material principal. Aumenta sua chance de crescimento anual. Você precisará enviar aldeões para operá-lo. Os materiais de jade para “Gemcutting” podem ser colhidos, assim como o recurso de jade todos os meses.
+Estátuas Divinas
+Quatro estátuas feitas à imagem dos deuses do gelo têm quase três metros de altura, puxando quatro serras de pedra que cortam o gelo.
+Deve ser construído próximo ao "Gelo Eterno" usando a "Serra Oólita" como material central. Aumenta sua chance de crescimento anual. Você precisará enviar aldeões para operá-lo. Os materiais de jade para “Gemcutting” podem ser colhidos, assim como o recurso de jade todos os meses.
+Aldeia Taiwu
+A vila de Taiwu é o coração da região, lar do antigo clã Taiwu e de seu povo. É um lugar de ambientes extremos e adversidades, seu povo adere ao modo de ser um com a natureza. Os animais brincam livremente pelo terreno e as casas ficam abertas sem fechaduras ou portas vigiadas, revelando a sua natureza pacífica diferente do mundo humano lá fora.
+Você pode exibir grilos aqui para proporcionar diversão às pessoas.\nQuanto maior for a vila de Taiwu, maior será o limite de construção.
+Salão Ancestral
+Incenso e oferendas queimam dentro de seus salões o tempo todo, com pessoas entrando e saindo frequentemente para adorar os ancestrais de Taiwu. Funciona como um ponto de encontro para os mais velhos da família Taiwu discutirem e educarem as gerações futuras.
+Você pode gastar "Prestígio" para instruir outros membros do clã em técnicas marciais e artísticas para melhorar seu "Talento" usando a "Genealogia do Clã Taiwu" como material de coração para construir. Quanto maior o Salão Ancestral, mais “Prestígio” você receberá a cada mês.
+Dormitório
+Uma casa acolhedora para os aldeões viverem. No seu interior está equipada com vários quartos para alojamento dos aldeões e uma ampla área de estar onde fazem as suas refeições diárias.
+Se um aldeão estiver sem teto, seu humor e reputação com você começarão a declinar. Quanto maior o Dormitório, mais aldeões poderão viver lá dentro.
+Residência
+Uma casa elegante para os aldeões viverem. Os quartos são espaçosos e bem decorados com belas decorações, e atrás da casa há um jardim com flores e plantas dispostas.
+Para os personagens que moram no prédio, seu humor e reputação com você melhorarão regularmente. Quanto maior for a Residência, mais rápido ela aumentará.
+Armazenar
+Construído em um local fresco e ventilado, seu design permite que ele permaneça aquecido no inverno e fresco no verão, o que é conveniente para armazenar diversos tipos de recursos.
+Aumenta o limite máximo de recursos que um local pode armazenar. Quanto maior for o armazenamento, maior será o limite.
+Galinheiro premiado
+Construído para criar todos os tipos de galinhas premiadas. O galinheiro é feito com grama e cinza de madeira como base, depois coberto com grama macia, tornando-o quente no inverno e fresco no verão, livre de umidade e pragas de insetos.
+Pode aumentar o número de galinhas premiadas que podem ser criadas. Quanto maior a escala do Galinheiro Premiado, mais galinhas premiadas podem ser adotadas.
+Plataforma de Reencarnação
+O edifício é composto por seis pequenas pontes de materiais diferentes que conectam cinco plataformas de pedra. As cinco plataformas simbolizam “a entrada de Deus nos cinco caminhos”, enquanto as seis pontes representam os caminhos para a reencarnação das almas.
+Construída usando a “Roda dos Seis Caminhos” como material central, a plataforma envia almas errantes para a reencarnação.
+Caravanas de Chá
+Grupo empresarial formado por comerciantes que transportam grandes quantidades de suprimentos e vendem chá ao longo da “Rota da Seda” na Região Oeste e nas Planícies Centrais.
+Construído usando o 'Mapa da Região Oeste' como material principal. Ao enviar mercadores para o oeste, você pode colher tesouros exóticos.
+Sala de Treinamento
+A sala de treinamento é um local para a prática de artes marciais. O prédio é espaçoso e arejado, e a atmosfera da sala pode ser organizada de acordo com o humor do praticante. Existem vários acessórios para treinamento na sala.
+Aumenta a eficiência do estudo dos livros de artes marciais para personagens dentro da área de influência da seita/cidade à qual este edifício pertence.\nQuanto maior o Centro de Treinamento, mais aumenta a eficiência do estudo.\nO efeito de vários Salões de Treinamento não se acumula .
+Agência de acompanhantes
+A agência de acompanhantes trata da proteção de pessoas ou objetos importantes. Para ter sucesso é preciso estar conectado com forças boas e más no mundo marcial.
+Este edifício de extensão deverá ser construído junto ao edifício “Sala de Treinamento”. Precisa ser operado por até 3 aldeões para ganhar “Dinheiro”. Quanto maior a Agência de Acompanhantes, mais “Dinheiro” você ganha.
+Pico de teste
+O Trial Peak é composto por uma série de testes marciais através de vários obstáculos construídos nas falésias. Embora certamente meça a habilidade de um artista marcial, o desafio costuma ser mais difícil mentalmente do que fisicamente.
+Deve ser construído adjacente ao edifício "Training Hall" e ao recurso "Skyward Mountain", usando os "Nine Trials of Talent" como material principal. Precisa ser operado por até 3 aldeões para adquirir novos aldeões talentosos em “Artes Marciais”. Quanto maior o Trial Peak, melhores serão os talentos que podem ser adquiridos.
+Recepção
+Como o Sucessor de Taiwu não pode abrir sua própria escola, o salão de recepção muitas vezes ocupa o lugar da porta da escola para receber artistas marciais. O salão de recepção é de construção muito simples, mas testada pelo tempo, e oferece boas vistas da área.
+Deve ser construído junto ao edifício “Sala de Treinamento”. Precisa ser operado por até 3 aldeões para ganhar “Prestígio”. Quanto maior a Sala de Recepção, mais “Prestígio” você ganha.
+Parede de Meditação
+A Parede de Meditação é feita de gelo extremo e jade frio trabalhado. É um lugar especial para acalmar a mente e o coração e destruir os demônios do coração. Praticar em frente à parede pode simular o potencial de um artista marcial.
+Deve ser construído adjacente ao edifício "Sala de Treinamento" e ao recurso "Gelo Eterno", usando o "Terraço de Jade Frio" como material principal. \nAumenta o limite máximo de talento marcial ao realizar uma "Avanço" para personagens sob a influência da cidade e da seita à qual pertencem.
+Sala do Silêncio
+A Sala do Silêncio está escondida em um lugar tranquilo. Roupas pretas são penduradas nas portas e janelas internas para isolar o interior e o exterior, para que aqueles que praticam as Artes Interiores possam se concentrar na mente e esquecer o mundo exterior.
+Edifício ampliado construído junto à “Sala de Treinamento”. \n reduz a quantidade de "treinamento" necessária para personagens na área de influência da cidade ou seita à qual pertencem para praticar e avançar nas "Artes Internas".
+Floresta dos Poloneses
+Uma grande floresta de postes, com uma enorme quantidade de estacas extremamente altas e pilhas de pedras. Não há outro lugar para descansar, exceto aquelas estacas e pilhas finas.
+Edifício ampliado construído junto à “Sala de Treinamento”. \n reduz a quantidade de "treinamento" necessária para personagens na área de influência da cidade ou seita à qual pertencem para praticar e avançar o "Trabalho de pés".
+Sala de dublês
+A Stunt Room foi construída em um local limpo e desabitado. Embora pequeno em tamanho, é guardado por uma guarnição rigorosa. É o lugar para praticar artes marciais secretas.
+Edifício de expansão construído junto ao “Salão de Treinamento”. \n reduz a quantidade de "treinamento" necessária para personagens dentro da influência da cidade ou seita à qual pertencem, praticando e avançando em "Acrobacias".
+Bonecos de madeira
+Equipado com sessenta manequins de madeira controlados por lingas de trilho de design sutil. Praticar o Fist com eles é como praticar com 60 mestres ao mesmo tempo.
+Edifício ampliado construído junto à “Sala de Treinamento”. \n reduz a quantidade de "treinamento" necessária para personagens na área de influência da cidade ou seita à qual pertencem para praticar e romper o "Punho".
+Manequins de Bronze
+Os Bonecos de Bronze são cuidadosamente elaborados. Cada manequim de bronze tem muitos pontos de acupuntura que estão conectados a engenhocas internas. Quando os pontos de acupuntura são atingidos com diferentes forças dos dedos, diferentes sons serão emitidos.
+Edifício ampliado construído junto à “Sala de Treinamento”. \n reduz a quantidade de "treinamento" necessária para personagens na área de influência da cidade ou seita à qual pertencem para praticar e desenvolver "Técnicas de Dedo".
+Lama
+O Pântano está cheio de lama densa e pesada misturada com areia e ferro, e a profundidade fica apenas na cintura e no abdômen das pessoas comuns. A força das pernas pode ser bastante avançada se ele praticar Chute aqui.
+Edifício ampliado construído junto à “Sala de Treinamento”. \n reduz a quantidade de "treinamento" necessária para personagens na área de influência da cidade ou seita à qual pertencem para praticar e avançar em "Técnicas de Chute".
+Alcance de dardo
+O Dart Range tem setenta grandes alvos de madeira, setenta pequenos alvos de madeira, setenta alvos automáticos e vários pássaros e animais em movimento. É um local dedicado à prática da visão e do vôo das agulhas.
+Edifício ampliado construído junto à “Sala de Treinamento”. \n reduz a quantidade de "treinamento" necessária para personagens na área de influência da cidade ou seita à qual pertencem para praticar e romper "Armas Ocultas".
+Sala de Esgrima
+A Sala de Esgrima é um lugar para se especializar em Espada. A esgrima exige que se siga o coração, por isso é importante manter a mente em paz. Portanto, a sala é construída ao ar livre, em local alto, longe de ruídos.
+Edifício ampliado construído junto à “Sala de Treinamento”. \n reduz a quantidade de "treinamento" necessária para personagens na área de influência da cidade ou seita à qual pertencem para praticar e avançar na "Técnica da Espada".
+Sala da Lâmina
+Um lugar para se especializar em Blade. Existem todos os tipos de lâminas no salão: lâminas longas, lâminas curtas, lâminas duplas, lâminas ocidentais e assim por diante.
+Edifício ampliado construído junto à “Sala de Treinamento”. \n reduz a quantidade de "treinamento" necessária para personagens na área de influência da cidade ou seita à qual pertencem para praticar e avançar na "Técnica da Lâmina".
+Sala da Arma de Pólo
+O espaço aberto cercado por paredes baixas de barro. Enormes tambores ficam ao lado do palco central, várias armas longas estão listadas ao lado.
+Edifício de expansão construído junto ao “Salão de Treinamento”. \n reduz a quantidade de "treinamento" necessária para personagens na área de influência da cidade ou seita à qual pertencem para praticar e romper a "Polearm".
+Batalha de truques
+É um local onde todos os tipos de lâminas de formatos estranhos são coletados e estudados. Possui também diversas salas para os praticantes compartilharem suas opiniões sobre artes marciais especiais.
+Edifício ampliado construído junto à “Sala de Treinamento”. \n pode reduzir o "treinamento" necessário para personagens na área de influência da cidade e da seita à qual pertencem quando praticam e desbravam as "Armas Exóticas".
+Sala do Vento
+A sala de vento possui uma série de mecanismos intrincados de geração de rajadas. O praticante de armas leves deve manter o controle para não se atingir.
+Edifício ampliado construído junto à “Sala de Treinamento”. \n reduz a quantidade de "treinamento" necessária para personagens dentro da influência da cidade ou seita à qual pertencem para praticar e romper "Armas Leves".
+Sala de engenhocas
+A Sala de Contraptions é uma oficina silenciosa e organizada. A sala está equipada com todos os tipos de instrumentos inteligentes, desde pequenos furadores, cones até grandes fundas e tornos. Arma de alcance é a arte de usar engenhocas para causar dano à distância.
+Edifício ampliado construído junto à “Sala de Treinamento”. \n reduz o "treinamento" necessário para personagens na área de influência da cidade ou seita à qual pertencem para praticar e dominar "Armas de longo alcance".
+Vale Vazio
+Este é um vale silencioso feito pelo homem, cercado por colinas que refletem todos os sons dos instrumentos musicais produzidos dentro delas. Nenhum erro, grande ou pequeno, pode escapar do ano.
+Edifício ampliado construído junto à “Sala de Treinamento”. \n reduz a quantidade de "treinamento" necessária para personagens na área de influência da cidade e seita à qual pertencem para praticar e romper a "Melodia".
+Torre Isolada
+A torre Isolada possui 9 níveis, simbolizando os 9 passos para a imortalidade. Existem apenas disposições muito espartanas dentro da torre que ajudam a forçar a concentração dos praticantes.
+Este é um edifício de extensão construído próximo ao "Salão de Treinamento" usando a "Pedra de Bloqueio de Ruído" como material principal. \nIsso pode aumentar a taxa de sucesso de "Artes Internas" para personagens sob a influência da cidade e da seita à qual pertencem.
+Escadas de Nuvem
+Os estágios das nuvens são uma série de pequenos degraus ao redor de uma árvore gigante que se estende por cem jiang do solo. Esses passos são tão pequenos e fracos que até os pássaros são desafiados a subir neles, e ainda mais para um praticante de footwork.
+Este é um edifício de extensão construído próximo ao “Salão de Treinamento” usando “Kirin Chisel” como material principal. \nPode aumentar a taxa de sucesso da "Técnica de Footwork" para personagens sob a influência da cidade e da seita à qual pertencem.
+Quarto secreto
+Enterrada no subsolo e acessível apenas por passagens escondidas, esta sala secreta mantém a prática de acrobacias em segredo absoluto. No interior encontram-se livros e desenhos que funcionam como auxiliares de estudo.
+Este é um edifício de extensão construído próximo ao "Salão de Treinamento" usando a "Máquina de Furos de Vento" como material principal. \nEste edifício pode aumentar a taxa de sucesso de "Acrobacias" para personagens sob a influência da cidade e da seita à qual pertencem.
+Anel Tigre
+O anel do tigre é um pouco mais alto que o corpo humano em todas as direções, o que torna impossível escapar. Somente treinando habilidades de punho é possível derrotar as feras que residem dentro dele.
+Este é um edifício de extensão construído próximo ao “Salão de Treinamento” usando a “Gaiola de Criação de Tigres” como material principal. \nPode aumentar a taxa de sucesso de personagens sob a influência da cidade e da seita à qual pertencem quando rompem o "Punho".
+Parede do casulo
+A parede do casulo tem duas camadas - na direção do praticante há uma parede de pedra e atrás dela estão os casulos do bicho-da-seda. Algumas habilidades com os dedos são necessárias para quebrar casulos atrás da parede apenas com os dedos, mas os verdadeiros mestres podem quebrar a parede sem quebrar nenhum casulo.
+Um edifício de extensão construído próximo ao "Salão de Treinamento" usando "Eternal Cocoon" como material principal. \n pode aumentar a taxa de sucesso de personagens sob a influência da cidade e da seita à qual pertencem quando rompem as "Técnicas dos Dedos".
+Telhado de teia
+O telhado da teia era coberto por uma rede feita de cordas grossas. Um deles ganha força e habilidade em seus chutes, mantendo-se pendurado de cabeça para baixo.
+Um edifício de extensão construído próximo ao “Salão de Treinamento” com “Dragon Bone Golden Hook” como material principal. \n pode aumentar a taxa de sucesso de personagens sob a influência da cidade e da seita à qual pertencem quando rompem o "trabalho braçal".
+Quarto Pardal
+Não há luz na sala dos pardais. O praticante de uma arma escondida precisa de uma audição muito boa para acertar os 24 pardais dentro desta sala com apenas um punhado de cinábrio. Os verdadeiramente habilidosos podem acertar os pássaros sem matá-los.
+Este é um edifício de extensão construído próximo ao "Salão de Treinamento" usando a "Parede de Bloqueio de Luz" como material central. \nIsso pode aumentar a taxa de sucesso das "Armas Ocultas" para personagens sob a influência da cidade e da seita à qual pertencem.
+Tumba da Espada
+Um espadachim não pode empunhar nenhuma espada se as considerar como bastões anônimos. Somente compreendendo a intenção de milhares de espadas alguém pode realmente ser um espadachim. Este monte de espadas fora de uso mostra como o trabalho interno que o espadachim suportou.
+Um edifício de extensão construído próximo ao “Salão de Treinamento” usando “Pedra de Enterro da Espada” como material principal. \n pode aumentar a taxa de sucesso de personagens sob a influência da cidade e da seita à qual pertencem ao romper a "Técnica da Espada".
+Estágio Asura
+Na arte das lâminas, as habilidades ficam em segundo lugar em relação ao impulso. Aqui, um praticante de lâminas colidiu muitas lâminas para treinar seu estado mental.
+Este é um edifício de extensão construído próximo ao “Salão de Treinamento” usando a “Pedra Calmante da Lâmina” como material principal. \nIsso pode aumentar a taxa de sucesso das "Técnicas da Lâmina" para personagens dentro da influência da cidade e da seita à qual pertencem.
+Formação Cavalo de Ferro
+A formação do pônei de ferro tem quinze metros de comprimento e sessenta centímetros de largura. Ambas as extremidades da longa formação têm dez cavalos de guerra com armadura de ferro. Uma vez iniciada a formação, os cavalos de ferro avançam e recuam uns contra os outros, o som é incrível, não conseguem resistir a centenas de batalhas do corpo.
+Um edifício de expansão construído próximo ao “Salão de Treinamento” com “Cavalo de Ferro Quebrado” como material principal. \n pode aumentar a taxa de sucesso de personagens sob a influência da cidade e da seita à qual pertencem ao romper a "Polearm".
+Diagrama de Oito Formações
+A malandragem das armas exóticas muitas vezes depende dos cinco elementos e das oito direções, dependendo dos diagramas. Este campo é construído sobre o princípio de diagramas e treinar armas exóticas significa uma melhor compreensão de seu uso.
+Este é um edifício de extensão construído próximo ao “Salão de Treinamento” usando a “Pedra do Olho de Formação” como material principal. \n pode aumentar a taxa de sucesso de personagens sob a influência da cidade e da seita à qual pertencem quando rompem as "Armas Exóticas".
+Beco da Web
+O beco de teias tem apenas um degrau de largura e é coberto por tiras de tecido que o atravessam, parecendo uma teia de aranha. É necessário controle extremo para que uma arma leve possa atacar e recuar com facilidade.
+Este é um edifício de extensão construído próximo ao “Salão de Treinamento” com “Corda Macia de Cem Voltas” como material central. \n pode aumentar a taxa de sucesso de personagens sob a influência da cidade e da seita à qual pertencem quando rompem as "Armas Leves".
+Sala de Reflexões
+As muitas joias cravadas nas paredes desta sala refletirão a luz da lua em uma infinidade de formas e cores. Este truque pode ajudar na concentração necessária para armas de longo alcance.
+Este é um edifício de extensão construído próximo ao “Salão de Treinamento” usando a “Pérola Perseguidora de Luz” como material principal. \n pode aumentar a taxa de sucesso de personagens sob a influência da cidade e da seita à qual pertencem quando rompem as "Armas de longo alcance".
+Salão das Sete Cordas
+Sete cordas feitas de materiais exóticos e nas cores do arco-íris estão penduradas neste salão. Eles ressoam respectivamente com a energia interna e o humor do praticante de música - felicidade, raiva, tristeza, consideração, tristeza, preocupação e medo.
+Este é um edifício de extensão construído próximo ao “Salão de Treinamento” usando “Seven Color Heartstrings” como material principal. \n pode aumentar a taxa de sucesso de personagens sob a influência da cidade e da seita à qual pertencem quando rompem a "Melodia".
+Sala de musica
+A casa qin é limpa e elegante, rodeada por um manto verde, construída num local com um caminho sinuoso. Embora seja chamada de Casa Qin, a casa possui todos os instrumentos, sinos, tambores, flautas e flautas, pois o Qin é a primeira das “quatro artes dos literatos”, por isso é chamada de Casa Qin.
+Pode aumentar a eficiência dos personagens sob a influência da cidade ou seita a que pertencem ao estudar livros de “Música”. \nQuanto maior o tamanho da casa, maior o aumento na eficiência, mas os efeitos de múltiplas casas não se acumulam.
+Teatro
+Local de lazer onde se reúnem músicos. Eles tocam música bastante cerimonial, executam principalmente danças e canções elegantes e refinadas, profundamente apreciadas pelos literatos.
+Este é um edifício de extensão construído junto à “Sala de Música” e necessita de ser operado pelos aldeões. \nO objetivo principal do edifício é ganhar "dinheiro de prata" tocando música.
+Academia Musical
+Um local folclórico de ensino de música, uma escola elegante para músicos apreciarem música, trocarem e transmitirem conhecimentos musicais e técnicas de performance.
+Trata-se de um edifício de extensão junto à Casa da Música, que utiliza o “Echo Stage” como material central, que necessita do envio de aldeões para funcionar. \nVocê pode encontrar pessoas talentosas que possuem excelentes habilidades em "música".
+Teatro
+O Teatro reúne trupes e artistas de todos os cantos do país. Não são necessários ingressos, qualquer pessoa pode jogar à vontade. É o berço de muitas músicas populares.
+Este é um edifício de extensão construído junto à “Sala de Música” e necessita de ser operado pelos aldeões. O principal objetivo do \n é ganhar "prestígio" criando óperas.
+Descanso à beira-rio
+Construído à beira rio, parece um pequeno e delicado pavilhão à beira-rio. A superfície da água é ondulada e misteriosa, proporcionando uma sensação intangível.
+Deve ser construído adjacente ao edifício "Sala de Música" e ao recurso "Reservoi", usando a "Pedra Chaosin" como material principal. \nEste edifício aumentará a chance de flash de percepção dentro da influência da cidade ou seita ao ler livros de "Música".
+País das maravilhas
+Um lugar natural longe dos ruídos das atividades humanas, como um país das fadas no mundo. É mais adequado para treinar e praticar sua capacidade de compreensão.
+Usando "Worldly Immortal Root" como material do coração, um edifício de extensão é construído próximo à "Sala de Música", que precisa ser adjacente à "Everspring Ravine". \nPode aumentar as conquistas de "Música" das pessoas sob a influência da cidade ou seita à qual pertence.
+Palácio da Fênix
+O Phoenix Palace tem um metro de altura e é cercado por árvores verdes, pássaros e flores. Também se refere à cena mágica da música das fadas vibrando no palco.
+Um edifício de extensão construído ao lado da “Sala de Música” com “Seven Colorful Sycamore Frame” como material principal, que precisa ser operado pelo despacho dos aldeões. \n pode reduzir significativamente a desordem respiratória interna dos personagens sob a influência da cidade e da seita à qual pertencem no final de cada mês.
+Sala de Xadrez
+A Sala de Xadrez é cercada por pinheiros e ciprestes. É quadrado, de aparência e móveis simples. No piso interno, há dezenove linhas desenhadas nas direções vertical e horizontal, e a mesa de xadrez é colocada no local central de Tianyuan.
+Pode melhorar a eficiência dos personagens sob a influência da cidade ou seita à qual pertencem ao estudar o livro "Game Hen". \nQuanto maior o tamanho do jogo, mais a eficiência aumentará, mas o efeito de múltiplos jogos xuan não será acumulado.
+Pavilhão de Xadrez
+O Pavilhão de Xadrez é amplo e luminoso, com mesas grandes e pequenas. Bons jogadores costumam vir a este lugar para “conversar” com os amigos. Os criados entregam chá constantemente e o serviço é muito atencioso.
+É um edifício de extensão construído junto à “Sala de Xadrez” e necessita de ser operado pelos aldeões. \nO objetivo principal do edifício é ganhar dinheiro jogando.
+Batalha de xadrez
+Venha e participe de uma batalha de xadrez nesta plataforma de pedra ao ar livre. A plataforma está localizada em uma área movimentada, onde muitas pessoas vêm e se divertem assistindo os jogadores do GO jogarem uns contra os outros.
+Um edifício de extensão é construído próximo à "Sala de Xadrez" usando a "Placa de Pedra do Cavalheiro" como material principal, e os aldeões devem ser enviados para operá-lo. \nVocê pode encontrar pessoas talentosas com excelentes habilidades em "xadrez".
+Biblioteca de Xadrez
+A Biblioteca de Xadrez ocupa uma área muito ampla e há um grande número de Manuais de Xadrez Go engenhosamente projetados no jardim. Para proteger os Manuais do Go Chess, eles são frequentemente gravados em tábuas e placas de pedra.
+É um edifício de extensão construído ao lado da “Sala de Xadrez” e precisa ser operado pelo envio de aldeões. \nO principal objetivo do edifício é exibir jogos de xadrez para ganhar “prestígio”.
+Casa Esmaltada
+Esta esplêndida casa tem sete andares. A sala de xadrez está localizada no último andar. Por volta do período em que a guilda estava em construção, havia muitos estrangeiros nas terras da China. A Glaze House era um pavilhão para entretenimento e bate-papo com jogadores de xadrez estrangeiros.
+Um edifício de extensão é construído próximo à "Sala de Xadrez" com "Peças de Pedras Preciosas" como material principal, e deve ser adjacente ao "Depósito de Pedras Preciosas". \nEste edifício aumentará a chance de percepção dentro da influência de sua cidade ou seita para poder ler o livro de "Xadrez".
+Estágio de espelho
+Como flores no espelho, ou a ilusão da lua refletida na água. Pode-se enfrentar situações que mudam rapidamente durante os jogos de xadrez. É importante superar sentimentos de agitação, para que você possa ter paz de espírito.
+Um edifício de extensão construído próximo à “Sala de Xadrez” com “Espelho Vazio” como material central, que precisa ser adjacente ao “Gelo Eterno”. \nO edifício pode aumentar as conquistas de "Xadrez" de pessoas sob a influência da cidade ou seita à qual pertence.
+Sala de Estratégia
+Há mapas pendurados na parede, mesas compridas no centro e todo tipo de informação. A sala onde a estratégia pode ser formulada e diversas ações planejadas.
+Este é um edifício de extensão construído próximo à "Sala de Xadrez" com o "Guia do Fundador" como material principal. \n pode aumentar o limite superior do número de colegas estagiários de Taiwu.
+Sala de estudo
+Livros e pergaminhos estão nas prateleiras. Os quatro tesouros estão sobre a mesa: caneta, tinta, papel, esmalte. Há luzes e chá, bem como várias antiguidades.
+Aumenta a eficiência dos personagens sob a influência da cidade ou seita a que pertencem ao estudar livros de "Literatura". \nQuanto maior o tamanho da sala de estudo, maior será a eficiência, mas o efeito de múltiplas salas de estudo não será acumulado.
+Livraria
+A livraria é uma loja frequentada por literatos e estudiosos que compram e vendem livros. Os livros da livraria são em sua maioria copiados à mão e muito ricos em conteúdo, incluindo os Quatro Livros e os Cinco Clássicos, cartazes e romances.
+O edifício de extensão foi construído próximo à “sala de estudo” e precisa ser operado pelos moradores. \nO objetivo principal do edifício é ganhar "dinheiro de prata" comprando e vendendo livros.
+Academia
+A academia é um local para palestras e ensino particulares. É também uma importante instituição de coleta e pesquisa de literatura.
+Um edifício de extensão é construído próximo à "Sala de Estudo" com "inscrições famosas" como material principal, e os moradores devem ser enviados para operá-lo. \nVocê pode encontrar pessoas talentosas com excelentes qualificações em Literatura.
+Escritório Acadêmico
+Com coleções extremamente ricas, é o salão onde os grandes confucionistas estudam livros e registros antigos.
+O edifício de extensão foi construído próximo à “Sala de Estudo” e precisa ser operado pelo envio de moradores. \nO objetivo principal do edifício é obter “prestígio” através da compilação de livros.
+Colina do Poema
+A montanha está cheia de monumentos de pedra e, à primeira vista, a montanha está cheia de “Ba Xia” que carregam monumentos de pedra e estão caídos no chão. A caligrafia e as marcas dos caracteres nos monumentos são todas iguais, e o “Deus, Ar, Osso, Sangue e Carne” nas entrelinhas são todos bonitos e elegantes.
+Um edifício de extensão construído junto à "Sala de Estudos" utilizando a "Estátua da Tartaruga Jubarte" como material central, que deve ser adjacente às "Colinas de Pedra". \nEste edifício aumentará a chance de pessoas dentro da influência de sua cidade ou seita terem um "Flash de percepção" ao lerem livros sobre "Literatura".
+Quarto Everbright
+Um pequeno prédio decorado com muito mármore branco e cristais estranhos. O prédio brilha à noite, como uma lua brilhante. Não há luz no prédio, mas a noite aqui ainda é clara.
+Um edifício de extensão é construído próximo à "Sala de Estudo" com a "Pedra do Luar" como material central, e deve ser adjacente à "Linha Ley". \nPode aumentar o alcance da "Literatura" das pessoas sob a influência da cidade ou seita a que pertence.
+Biblioteca
+Uma instalação privada para coleta, manutenção e trabalhos de cópia de todos os tipos de livros. É terminantemente proibida a entrada de estranhos na Biblioteca, que expõe a essência dos vários programas e os segredos deixados pelos sábios das dinastias passadas.
+Um edifício de extensão é construído próximo à “Sala de Estudo” com o “Gabinete dos Mil Livros” como material principal, e os moradores devem ser enviados para operá-lo. \nVocê pode reparar os livros colocados nele.
+Sala de Arte
+Art Room tem três andares de altura, oco para pendurar um longo rolo de vários metros. A parede externa da Sala de Arte é decorada com pinturas coloridas, o que harmoniza com o ateliê do último andar.
+Pode aumentar a eficiência dos personagens sob a influência da cidade ou seita a que pertencem ao estudar livros de "Pintura". \nQuanto maior o tamanho da Sala de Arte, maior será o aumento na eficiência, mas os efeitos de múltiplas Salas de Arte não se acumulam.
+Oficina de pintura
+Na Oficina de Pintura está separada em duas zonas por uma cortina preta. Uma é vender cópias de pinturas famosas ao longo dos tempos; a outra é para vender a pintura original criada pelo proprietário.
+Edifício ampliado construído junto à “Sala de Arte”, que necessita do envio de aldeões para funcionar. \nO objetivo principal do edifício é ganhar “dinheiro” vendendo e comprando pinturas.
+Salão de pintura
+O Salão de Pintura é o lar de um grande número de pessoas talentosas que gostam do Paint. É um clube elegante que aprecia e troca pinturas. Não há cores no pavilhão para não atrapalhar a visualização das pinturas.
+Um edifício de extensão é construído próximo à "Sala de Arte" com a "Cor da Parede de Cor Pura" como material principal, e os aldeões devem ser enviados para operá-lo. \nVocê pode encontrar pessoas talentosas com excelentes qualificações em "pintura".
+Jardim da Arte
+Lindo jardim com diversos pavilhões e palcos decorados por destacados artistas.
+Este é um edifício de extensão construído ao lado da “Sala de Arte” que requer o envio de moradores para funcionar. \nO principal objectivo do edifício é ganhar “prestígio” através da abertura de exposições.
+Oficina de Pigmentos
+Pegue todos os tipos de flores e plantas exóticas para fazer pigmentos especiais.
+Edifício de ampliação construído junto à “Sala de Arte” tendo como material central a “Argamassa Baise”, que deverá ser adjacente ao “Vale das Flores”. \nEste edifício aumentará a chance de que as pessoas dentro da influência da cidade ou seita à qual ele pertence tenham um "Flash de percepção" ao estudar livros de "Pintura".
+Galeria
+Um pavilhão construído com madeira nobre. Este pavilhão colorido é perfumado e elegante.
+Um edifício de extensão construído junto à “Sala de Arte” tendo como material central a “Madeira Perfumada de Cem Cores”, que deve ser adjacente à “Terra das Fragrâncias”. \nO edifício aumentará o alcance da "Pintura" das pessoas sob a influência da cidade e da seita à qual pertence.
+Sala de maquiagem
+Também conhecido como Pavilhão Huamei, refere-se ao pavilhão onde beldades se maquiam com pó branco, ruge e delineador escuro, criando um encanto encantador. Este pavilhão é muito conceituado e admirado pelas pessoas. Muitas vezes há anedotas como “Um dia, uma nova maquiagem descarta o visual antigo, e os seis palácios competem pelas sobrancelhas escuras e esfumaçadas”.
+Um edifício de extensão construído ao lado da "Sala de Arte" usando o "Jade Mirror Flower Terrace" como material central. \n pode aumentar muito a boa vontade com o primeiro contato de Taiwu.
+Observatório
+Uma enorme plataforma para observar as sombras da luz do dia e as estrelas da noite. Além de observar o sol, a lua e as estrelas, também é usado para identificar “os quatro períodos e os seis qi” para prever a fortuna.
+Pode aumentar a eficiência dos personagens sob a influência da cidade ou seita a que pertencem ao estudar livros sobre "artes e matemática". \nQuanto maior o tamanho do observatório, maior será o aumento na eficiência, mas os efeitos de múltiplos observatórios não se acumulam.
+Sala de Adivinhação
+Um local para adivinhação. Existem muitas formas de leitura da sorte, como leitura de ossos, leitura de rostos, kau cim, bazi, coculação de flores de ameixa, etc.
+Este é um edifício de extensão construído junto ao “Observatório” e necessita de ser operado pelos moradores. \nO objetivo principal do edifício é ganhar "dinheiro de prata" por meio de adivinhação.
+Sala do Necromante
+Um necromante é um cultivador proficiente na técnica dos cinco elementos, um médico feiticeiro e também um pesquisador de alquimia. Esta é a sala que abriga e abastece os necromantes.
+Um edifício de extensão é construído próximo ao "Observatório" usando o "Instrumento Sundial Star" como material principal, e os moradores devem ser enviados para operá-lo. \nVocê pode encontrar pessoas talentosas com excelentes qualificações na área de "artes e matemática".
+Altar-mor
+Um local para grandes cerimônias rituais. No centro da praça, encontra-se um alto altar de pedra, com um enorme tripé de cobre, em forma de oração ao céu e à terra.
+O edifício de extensão construído junto ao “Observatório” será operado através do envio de aldeões. \nO objetivo principal do edifício é obter “prestígio” através de rituais e orações.
+Escolha de estrela
+O Star Pick não é apenas super alto, mas também construído em um pico muito alto, como se você pudesse alcançar as nuvens e pegar as estrelas com suas próprias mãos aqui.
+Um edifício de extensão construído junto ao "Observatório" com a "Pérola Stargazing" como material central, que deve ser adjacente à "Montanha Skyward". \nEste edifício aumentará a chance de pessoas dentro da influência de sua cidade ou seita terem um "Flash de percepção" quando estudarem livros sobre "Astrologia".
+Torre Kunlun
+Uma torre construída com as mais raras pedras, metais e madeiras coletadas nas cinco grandes montanhas. A torre é dedicada ao “Deus da Montanha Kunlun“, que se acredita ser o deus das Veias do Dragão.
+Um edifício de extensão construído próximo ao “Observatório” usando a “Estátua do Deus da Montanha Kunlun” como material do coração, que deve ser adjacente à “Veia do Dragão”. \nEste edifício aumentará as conquistas de "Astrologia" das pessoas sob a influência da cidade ou seita à qual pertence.
+Observatório de Vida e Morte
+“Há desgraças e bênçãos para as pessoas, e longevidade. Ambos nascem e perecem de novo, e ambos perecem e nascem de novo”. As duas serpentinas estelares do nascimento e da morte são uma positiva e outra negativa, um lado é pintado com as sete estrelas da Ursa Maior e o outro lado com as seis estrelas da Ursa Maior, e os dois lados giram com o vento e são invertido de tempos em tempos.
+Este é um edifício de extensão construído próximo ao "Observatório" usando a "Carta de Duas Estrelas da Vida e da Morte" como material central. \n pode melhorar o legado de vida de Taiwu.
+Clarificador
+Um pequeno salão construído no poço profundo onde foi escavada a nascente. No Clarificador são instaladas instalações de purificação de água para otimizar a qualidade da água.
+Aumenta a eficiência dos personagens dentro da área de influência da cidade ou seita a que pertencem ao estudar livros de “Apreciação”. \nQuanto maior o tamanho do Clarificador, maior será o aumento na eficiência, mas os efeitos de vários Clarificadores não se acumulam.
+Casa de chá
+Além da área onde as pessoas comuns bebem chá, a casa de chá também possui assentos elegantes e valiosos serviços de chá para os ricos.
+Este é um edifício de extensão construído próximo ao “Clarificador” e precisa ser operado pelos moradores. \nO objetivo principal do prédio é vender chá para ganhar dinheiro.
+Taberna
+A tarverna pode armazenar uma grande quantidade de vinhos finos. Lindas mulheres vendem vinho aqui dia e noite.
+Este é um edifício de extensão construído próximo ao “Clarificador” e precisa ser operado pelos moradores. \nO objetivo principal do prédio é vender bebidas alcoólicas para ganhar “dinheiro de prata”.
+Parque dos Aromas
+Instituição privada especializada na identificação de bebidas e chás. Hospedado por uma celebridade respeitada.
+Um edifício de extensão é construído próximo ao “Clarificador” com o “Forno Dourado de Incenso” como material principal, e os aldeões devem ser enviados para operá-lo. \nVocê pode encontrar pessoas talentosas com excelentes qualificações em "Apreciação".
+Mansão Quatro Mares
+Esta mansão está aberta sete dias por ano e é conhecida como “Four-Seas Club”. O anfitrião contrata especialistas para coletar o chá e o vinho mais famosos do mundo, para os mestres do chá e do vinho apreciarem.
+Este é um edifício de extensão construído próximo ao “Clarificador” e precisa ser operado pelos moradores. \nO principal objectivo do edifício é ganhar “prestígio” através da apreciação do chá e do vinho.
+Barra Flutuante
+Um bar administrado por tribos bárbaras do norte. Você pode desfrutar de vinhos exóticos e das danças executadas por belas damas.
+Um edifício de extensão é construído próximo ao “Clarificador” tendo “Tesouros Exóticos” como material central, e deve ser adjacente ao “Reservatório”. \nEste edifício aumentará a chance de pessoas dentro da influência da cidade ou seita terem um "Flash de percepção" ao lerem os livros de "Apreciação".
+Jardim Místico
+“Gruas brancas no cuiwei, essência amarela do riacho tranquilo. Sei que os visitantes do mundo não são tão bons quanto as pessoas nas montanhas”. O chamado país das fadas na terra nada mais é do que este jardim divino no paraíso do mundo.
+Usando "Pedra da Paisagem Mundial" como material principal, um edifício de extensão é construído próximo ao "Clarificador", que precisa ser adjacente à "Ravina da Primavera Eterna". \nEste edifício aumentará a obtenção da "Apreciação" das pessoas sob a influência da cidade e da seita a que pertence.
+Jardim de chá
+O jardim de chá é construído na encosta baixa do norte, voltado para o terreno fértil. É um jardim para cultivar árvores de chá, colher chá cru e fritar chá.
+Um edifício de extensão é construído próximo ao "Clarificador" com o "Lago do Dragão das Nuvens" como material principal, e fica adjacente à "Planície Fértil", operada por despachantes aldeões. \nColhe chá.
+Vaporizador de vinho
+Uma oficina que utiliza equipamentos especiais para fazer shochu forte e perfumado.
+Um edifício de extensão é construído próximo ao "Clarificador" com "Placa de orvalho de Jade Dourada" como material principal, e fica adjacente à "Planície Fértil", operada por despachantes aldeões. \nColhe vinho.
+Sala de Forjamento
+Equipado com fornos, foles e bigornas.
+Você pode fabricar, reparar e refinar ferramentas de metal. \nAumenta a eficiência dos personagens sob a influência da cidade ou seita à qual pertencem ao estudar livros de "Ferraria". \nQuanto maior o tamanho da Sala de Forjamento, maior será a eficiência, mas os efeitos de múltiplas salas de forjamento não se acumulam.
+Ferreiro
+Criar e vender uma variedade de eletrodomésticos de metal para ganhar a vida. Pequenas como ferramentas de pregos, grandes como espadas e armaduras, podem ser compradas na ferraria.
+Este é um edifício de extensão construído próximo à “Sala de Forja” e precisa ser operado pelos moradores. \nO objetivo principal do edifício é vender ferramentas de metal para ganhar "dinheiro de prata".
+Oficina
+Uma enorme fundição a céu aberto com muitos ferreiros e aprendizes.
+Um edifício de extensão é construído próximo à "Sala de Forja" com a "Forja do Forno Vermelho" como material principal, e os aldeões devem ser enviados para operá-lo. \nVocê pode encontrar pessoas talentosas que possuem excelentes habilidades em "forjar".
+Loja de ouro
+A loja de ouro é uma loja que troca ouro e prata ou comercializa eletrodomésticos de ouro e prata. Devido ao valor e importância da ourivesaria, apenas aqueles de alto prestígio e prestígio podem hospedá-la.
+Este é um edifício de extensão construído próximo à “Sala de Forja” e precisa ser operado pelos moradores. \nO objetivo principal do edifício é vender ferramentas de metal para ganhar “prestígio”.
+Fole Hidráulico
+Ele é instalado na beira da água, e utiliza o fluxo de água para puxar o ventilador para abrir e fechar, e conduz o dispositivo de tratamento de jateamento. Comparado com a explosão de mão de obra, o dreno de água é mais poderoso.
+O edifício de expansão construído junto à “Sala de Forja” deverá ser contíguo ao “Reservatório”. \n aumenta a chance de que pessoas sob a influência da cidade ou seita à qual pertencem tenham um "Flash de percepção" ao estudar o livro "Ferraria".
+Poço de Meteoros
+O meteorito de ferro é extremamente resistente e a água e o fogo não conseguem invadir. Requer muitos esforços para refiná-lo em um dispositivo.
+Um edifício de extensão construído próximo à "Sala de Forja" com o "Arado de Ferro Celestial" como material central, que deve ser adjacente à "Cratera do Meteoro". \nPode aumentar as conquistas de "Ferraria" das pessoas sob a influência da cidade e da seita à qual pertence.
+Lagoa de lavagem
+Primeiro, colete o minério da jazida que foi espalhado pelo vento e pela chuva, ou que foi quebrado pelo processo de mineração, e depois lave e selecione novamente com água para obter mais pedras de ouro.
+O edifício de extensão foi construído próximo à "Sala de Forjamento" usando "Areia Dourada Grossa" como material principal, e é adjacente às "Colinas de Pedra". \nColhe materiais de ouro e prata para "Ferraria".
+Refinaria
+Depois que a pedra de ouro é transformada em líquido, as impurezas são removidas por técnicas complexas e então a essência de ouro puro pode ser extraída.
+Um edifício de extensão é construído próximo à "Sala de Forja" com o "Lago de Afundamento de Fogo" como material principal, e deve ser adjacente às "Colinas de Pedra", e os aldeões devem ser enviados para operá-lo. \nVocê pode coletar materiais de ferro para "Ferraria".
+Tratamento de Água Mística
+Com sete pedras bem construídas em nome de sete estrelas como o Sol, a Lua, Vênus, Júpiter, Mercúrio, Marte e Saturno, e a água coletada através delas, podemos construir as armas mais espirituais.
+Este é um edifício de extensão construído próximo à “Sala de Forjamento” usando a “Casa de Água do Rei Dragão” como material principal. \nIsso permitirá que a "Sala de Forjamento" adjacente produza ferramentas de metal de melhor qualidade.
+Fornalha Infernal
+Construído sobre a piscina de fogo, é utilizado para retirar o ferro fundido do fogo subterrâneo. A temperatura no forno é extremamente alta, de modo que qualquer pedra derrete.
+Trata-se de um edifício de extensão construído junto à “Sala de Forja” tendo como material central o “Queimador de Lenha de Deus” e adjacente ao “Lago do Fogo”. \nIsso pode reduzir os requisitos para obtenção de "Metalurgia" ao criar, reparar e refinar equipamentos de ouro e ferro.
+Sala de Carpintaria
+Serras, plainas, cinzéis, brocas, réguas, tinteiros, etc. estão todos disponíveis no Carpinteiro.
+Você pode fabricar, reparar e refinar instrumentos de madeira. \nAumenta a eficiência dos personagens na área de influência da cidade ou seita à qual pertencem ao estudar livros de "Carpintaria". \nQuanto maior o tamanho da Sala de Carpintaria, mais a eficiência aumenta, mas os efeitos de múltiplas Salas de Carpintaria não se acumulam.
+Carpintaria
+A marcenaria atua principalmente no comércio de pequenos itens de carpintaria, como mesas, cadeiras, utensílios ou lanternas.
+O edifício de extensão construído junto à “Sala de Carpintaria” necessita de ser operado por despacho de aldeões. \nO objetivo principal do edifício é vender ferramentas de madeira para ganhar dinheiro.
+As Sete Oficinas
+As sete oficinas destinam-se às necessidades de sete diferentes ofícios de carpintaria utilizados em obras públicas, conforme registado na história. Seus produtos incluem instrumentos musicais, armas, carroças ou navios.
+Um edifício de extensão é construído próximo à "Sala de Carpintaria" com a "Carpintaria Hakuho" como material principal, e os aldeões devem ser enviados para operá-lo. \nÉ possível encontrar pessoas com excelentes qualificações em “carpintaria”.
+Equipe de construção
+A equipe de construção é especializada na construção de edifícios, mas também pode ajudar na construção de estradas e pontes.
+Edifício de ampliação construído junto à “Sala de Carpintaria” que necessita do envio de aldeões para funcionar. \nO objetivo principal do edifício é vender ferramentas de madeira para ganhar “prestígio”.
+Piscina de óleo preto
+O Black Oil Pool coleta óleos e seiva de pântanos vizinhos para tratar madeira. A madeira tratada possui propriedades mais estáveis, o que facilita o seu trabalho.
+O prédio de expansão construído próximo à “Sala de Carpintaria” deve ser adjacente ao “Pântano Venenoso”. \nEste edifício aumentará a chance de que as pessoas dentro da influência da cidade ou seita à qual ele pertence possam ter um "Flash de percepção" ao ler livros de "Carpintaria".
+Arboreto
+O Arboreto é um conjunto de árvores exóticas de todos os tipos, em diversos formatos. Ao trabalhar e olhar para eles, um marceneiro obtém conhecimento e avanço em habilidades.
+Edifício ampliado em “Ágar Translúcido” e construído junto à “Sala de Carpintaria”, que deverá ser contígua à “Selva”. \nEste edifício aumentará o nível de "Carpintaria" das pessoas sob a influência da cidade ou seita à qual pertence.
+Campo de exploração madeireira
+Quando se trata de derrubar árvores, nada se compara a equipes de trabalho organizadas e armadas com um conjunto completo de ferramentas em um acampamento madeireiro.
+Um edifício de extensão é construído próximo à “Sala de Carpintaria” com “Cem Serras” como material central, que é adjacente aos “Bosques” e precisa ser operado por despachos de aldeões. \nMateriais de madeira para carpintaria podem ser colhidos.
+Fazenda Florestal
+Uma fazenda florestal regulamenta o corte de árvores em sua área para proteger a floresta. Também cultiva e cuida de árvores dignas de proteção.
+Um edifício de extensão é construído próximo à "Sala de Carpintaria" com o "Dragão de Água Panshan" como material principal, e é adjacente às "Florestas" e precisa ser operado pelos moradores. \nVocê pode colher materiais de vime e bambu para "Carpintaria".
+Klin para tratamento de madeira
+Este klin foi projetado para secar a madeira e mantê-la fresca. A madeira tratada com ele é imune ao calor ou à umidade e pode durar muito tempo.
+Edifício de ampliação construído junto à “Sala de Carpintaria” utilizando “carvão betuminoso frio de osso de prata” como material central. \nIsso permitirá que a "Sala de Carpintaria" adjacente produza ferramentas de madeira de melhor qualidade.
+Bosques Sagrados
+Este é um diagrama criado pela transformação das raízes das árvores sagradas. Enquanto crescer a partir do solo, quando colocado dentro do diagrama, todas as suas propriedades serão ampliadas para que todos possam vê-lo.
+O edifício de extensão foi construído próximo à "Sala de Carpintaria" com "Raízes de Godwood" como material principal, e deve ser adjacente à "Floresta Taishi". \nEste edifício reduzirá a necessidade de obtenção de "Carpintaria" para fabricar, reparar e refinar ferramentas de madeira.
+Sala de ervas
+Vários materiais medicinais são preparados rolando, fritando, concentrando, etc., e são transformados em cremes curativos, poções e pílulas.
+Pode fazer elixires. \nAumenta a eficiência dos personagens sob a influência da cidade ou seita à qual pertencem ao estudar livros sobre "artes médicas". \nQuanto maior o tamanho do dispensário, mais a eficiência aumenta, mas os efeitos de múltiplos dispensários não se acumulam.
+Farmacia
+Lojas que preparam e vendem medicamentos mediante receita médica. Além disso, há médicos nas antigas drogarias que podem realizar tratamentos médicos no local, massagens, aplicação de agulhas, etc.
+Este é um edifício de extensão construído próximo à “Sala de Ervas” e precisa ser operado pelos moradores. \nO objetivo principal do edifício é ganhar "dinheiro de prata" vendendo poções.
+Salão do Herbalista
+Uma sala para experimentação e desenvolvimento de novos medicamentos. Tem dezenas de aprendizes e é também um local onde médicos prestigiados realizam consultas e discutem Medicina.
+Um edifício de extensão é construído próximo à "Sala de Ervas" com o "armário de remédios de mogno" como material principal, e os moradores devem ser enviados para operá-lo. \nVocê pode encontrar pessoas talentosas e com excelentes qualificações na área de "medicina".
+Hospital de Bem-Estar
+O Hospital de Bem-Estar é um lugar para receber e socorrer os pobres e doentes. Além de distribuir remédios, possui cozinha de enfermaria e acomodações simples.
+Este é um edifício de extensão construído próximo à “Sala de Ervas” e precisa ser operado pelo envio de aldeões. \nO objetivo principal do prédio é vender pílulas para ganhar “prestígio”.
+Hospital de animais
+Um hospital que trata gado e animais selvagens. Embora as salas veterinárias sejam discretas, os tratamentos médicos estão por vezes ligados a tratamentos humanos, e muitos medicamentos brilhantes passaram pelo processo de nascimento e verificação aqui, e depois desempenharam o seu papel nos pacientes.
+Edifício de expansão construído junto à “Sala de Ervas”, que necessita de ser contíguo ao “Habitat Selvagem”. \nIsso aumenta a chance de que as pessoas sob a influência da cidade ou seita à qual pertence tenham um "Flash de percepção" ao estudar livros sobre "Medicina".
+Caixão Congelado
+As amostras de pacientes são especialmente importantes quando se estuda Medicina. Porém, a carne humana é fácil de quebrar depois de morta, por isso o Caixão Congelado é construído para preservar os restos mortais do falecido, que pode ser usado por anos sem apodrecer.
+Usando o “Cold Jade Ice Coffin” como material do coração, o edifício de extensão construído ao lado da “Herbal Room” precisa ser adjacente ao “Eternal Ice”. \nPode aumentar as conquistas da "Medicina" das pessoas sob a influência da cidade e da seita à qual pertence.
+Jardim de ervas
+Uma plantação de ervas que segue o modelo do ambiente de vida das ervas selvagens. A composição do jardim é muito particular, sendo necessário planejar em função do “yin e yang, frio e calor, e cinco sabores” das ervas.
+Um edifício de extensão é construído próximo à "Sala de Ervas" com "Four Seasons Light Beads" como material central. Deve ser adjacente ao “Herb Paradise” e os aldeões devem ser enviados para operá-lo. \nVocê pode colher ervas Yang para "Remédio".
+Sala de Cultivo
+As ervas mais raras, frequentemente associadas a coisas específicas. O chamado “cultivo medicinal” consiste em cultivar essas ervas raras com itens especiais para atingir o propósito de cultivo e reprodução.
+Um edifício de extensão é construído próximo à "Sala de Ervas" com a "Pedra de Abertura Meridiana" como material central. Deve ser adjacente ao “Herb Paradise” e os aldeões devem ser enviados para operá-lo. \nÉ necessário enviar aldeões para operá-lo. Você pode colher ervas Yin para "Remédio".
+Caldeirão Inteligente
+Um caldeirão que pode alterar a potência de aquecimento para se adequar à natureza dos materiais médicos. Deixe ferver a sopa médica, o calor pode ser preciso.
+Um edifício de extensão é construído próximo à "Sala de Ervas" com "Carvão Sem Fumaça de Água e Fogo" como material principal. \nEste edifício permitirá que a "Sala de Ervas" adjacente produza pílulas de melhor qualidade.
+Ravina de Shennong
+A Ravina Shennong é o lugar mais espiritual do mundo, não importa o tipo de vegetação, depois de transplantada para a Ravina Shennong, ela pode crescer ou não, mas também nunca morrerá.
+Usando "Farming God's Blood" como material do coração, um edifício de extensão é construído próximo à "Herbal Room", que precisa ser adjacente à "Everspring Ravine". \n pode reduzir a exigência de "Medicina" ao fazer poções.
+Porão
+A adega foi construída no subsolo profundo e frio. Na sala existem utensílios para o preparo de venenos, onde também se reproduzem cobras e plantas altamente venenosas.
+Você pode fazer venenos e extinguir venenos para itens. \nAumenta a eficiência dos personagens sob a influência da cidade ou seita à qual pertencem ao estudar livros de "Toxicologia". \nQuanto maior o tamanho da câmara, maior o aumento na eficiência, mas os efeitos de múltiplas câmaras não se acumulam.
+Mercado de veneno
+O mercado de venenos vende venenos comuns, como o arsênico, para matar ratos e pragas, e possui registros detalhados de vendas e compras. Porém, o cidadão comum não sabe, aqui também estarão escondidos para vender outros venenos terríveis que prejudicam a vida das pessoas.
+Este é um edifício de extensão construído junto à “Adega” e necessita de ser operado pelos aldeões. \nO objetivo principal do edifício é vender venenos para ganhar dinheiro.
+Oublieta
+Uma masmorra onde pecadores são presos e torturados. A existência da prisão escura é bem conhecida, não é segredo. As pessoas traiçoeiras e perversas costumam vir aqui após o incidente.
+Este é um edifício de extensão construído junto à “Adega” utilizando a “Moldura da Morte” como material central, que requer o envio de aldeões para funcionar. \nVocê pode encontrar pessoas com excelentes qualificações na área de "Toxicologia".
+Médico Louco
+Mad Medics são diferentes, não convencionais e ainda menos respeitados pelo mundo. Esses médicos secretos ficam felizes com as doenças mais difíceis, mas não com salvar vidas.
+Trata-se de um edifício ampliado construído junto à “Adega”, que necessita do envio de aldeões para funcionar. \nO objetivo principal do edifício é vender venenos para ganhar "prestígio".
+Testes em Animais
+Os recintos secretos onde o gado e os animais são mantidos. Sempre que o envenenador precisa testar a toxicidade do mesmo veneno, muitas vezes é necessário envenenar brutalmente centenas de vidas aqui.
+O edifício de expansão construído junto à “Adega” necessita de ser contíguo ao “Habitat Selvagem”. \n pode aumentar a chance de que personagens sob a influência da cidade ou seita à qual pertencem tenham um "Flash de percepção" ao estudar livros de "Toxicologia".
+Câmara Fechada
+O processo de refinamento do veneno é complicado e demorado. É muito fácil que outras pessoas sejam feridas pela névoa de gás venenoso produzida no processo de refino e, portanto, mais problemas, por isso este edifício está sempre escondido do público.
+Um edifício de extensão construído junto à “Adega” com “Incenso da Evitação” como material central, que deve ser adjacente à “Selva”. \nPode aumentar a habilidade de "Toxicologia" das pessoas sob a influência da cidade e da seita à qual pertence.
+Piscina de Miasma
+Condensando e refinando o veneno da poça tóxica. Além de fornecer água venenosa para refino, a piscina de miasma também pode ser usada para criar flores e insetos suscetíveis a infecções tóxicas.
+Este é um edifício de extensão construído próximo ao "Cellar" e "Poison Swamp" usando o material principal "Ghost Swallowing Miasma Furnace". \nVocê pode colher ervas Yang para "Toxicologia".
+Zona Infectada
+As ruínas onde vivem as pessoas infectadas pela peste, também o local ideal para o crescimento de itens tóxicos. As cavernas abandonadas são escuras e os ossos rosnam e fedem, como um inferno na terra.
+Ele é construído próximo ao “Porão” e ao “Pântano Venenoso” usando a “Gaiola de Alimentação” como material principal, e os aldeões devem ser despachados para operá-lo. \nVocê pode colher as ervas Yin para "Toxicologia".
+Poça de Sangue
+A poça de sangue é uma poça de pedra assustadora cheia de sangue de muitos animais e seres humanos vivos. Substâncias tóxicas comuns são frequentemente digeridas por poças de sangue e imediatamente se tornam venenos raros.
+Este é um edifício de extensão construído junto à "Adega" usando "Bloodstone" como material principal. \nEste edifício permitirá que a sala adjacente produza venenos de melhor qualidade.
+Espinha do Dragão
+Uma alta coluna de madeira feita de madeira perfumada misturada com veneno. O núcleo da coluna é oco, no qual a misteriosa espinha do dragão é queimada, e qualquer cobra venenosa que o tocar será domesticada.
+Esta é uma extensão da “Adega”, que é construída junto ao “Poço da Cobra”, utilizando a “Madeira de Dragão Perfumada Maravilhosa” como material central. \nEste edifício pode diminuir a exigência da habilidade "Toxicologia" ao fazer venenos.
+Sala de Tecelagem
+A Sala de Tecelagem é pequena, mas possui jardins requintados e móveis elegantes. É onde os trabalhadores fazem a tecelagem, a costura e o desenho.
+Você pode fabricar, reparar e refinar produtos de brocado. \nAumenta a eficiência dos personagens sob a influência da cidade ou seita à qual pertencem ao estudar livros de "tecelagem de brocados". \nQuanto maior o tamanho da casa de bordado, mais a eficiência aumenta, mas o efeito de múltiplas casas de bordado não se acumula.
+Loja de tecidos
+Além de vender tecidos acabados e cetim, uma Loja de Tecidos também confecciona, costura e repara todo tipo de tecidos grandes e pequenos.
+Este é um edifício de extensão construído próximo à “Sala de Tecelagem” e precisa ser operado pelos moradores. \nO objetivo principal do edifício é vender produtos de brocado para ganhar dinheiro.
+Oficina de tecidos
+A Oficina de Tecidos está dividida em duas áreas de tecelagem e tinturaria. Na área de Tecelagem existem 12 tecelões, responsáveis ​​pelos tecidos têxteis e de peles; há 26 tintureiros na área de tinturaria, responsáveis ​​pelo branqueamento ou tingimento do tecido.
+Um edifício de extensão é construído próximo à "Sala de Tecelagem" com "Tear Dye" como material principal, e os aldeões devem ser enviados para operá-lo. \nVocê pode encontrar pessoas talentosas e com excelentes qualificações em "tecelagem de brocados".
+Exposição de Tecidos
+Um lindo loft com lindos tecidos e brocados. Naquela época, independentemente de serem ricos ou pobres, o talento mais atraente da mulher é o bordado. Assim, a Exposição de Tecidos muitas vezes se transformava em casamenteira para mulheres talentosas conhecerem seus homens.
+Este é um edifício de extensão construído próximo à “Sala de Tecelagem” e precisa ser operado pelos moradores. \nO principal objetivo do edifício é vender produtos de brocado para ganhar “prestígio”.
+Sala de Costura
+Um local para decorar os esplêndidos tecidos, também chamado de Pavilhão Estrela. A chamada “estrela” refere-se às pedras preciosas incrustadas no tecido. O tecido decorado é brilhante como se estivesse coberto pela luz das estrelas.
+O prédio de expansão construído próximo à “Sala de Tecelagem” precisa ser adjacente ao “Depósito de Gemas”. \nIsso pode aumentar a chance de que personagens sob a influência da cidade ou seita à qual pertencem tenham um "Flash de percepção" ao estudar livros de "Tecelagem".
+Tear de Osso de Cobra
+O tear em forma de osso de cobra tem uma estrutura incomparavelmente inteligente e a eficiência é muito maior do que a máquina comum. O misterioso osso de cobra é extremamente resistente e pode completar a técnica de tecelagem que uma máquina comum nunca conseguirá completar.
+Um edifício de extensão construído próximo à "Sala de Tecelagem" usando o "Esqueleto da Serpente Negra" como material central, que deve ser adjacente ao "Poço da Cobra". \nEste edifício pode aumentar a habilidade de "Tecelagem" das pessoas na área da cidade e da seita à qual pertence.
+Flores caem
+A Queda das Flores é uma cachoeira artificial alta e baixa cheia de água de piscina encharcada de flores. Os resíduos de pele lavados nele tornam-se imediatamente frescos e bonitos.
+Um edifício de extensão é construído próximo à “Sala de Tecelagem” com “Sementes de Cem Flores” como material central, que é adjacente ao “Vale das Flores” e precisa ser operado pelos moradores. \nVocê pode colher tecidos vegetais para "Tecelagem".
+Parque de Tecidos
+Um jardim natural rodeado de belas paisagens. No jardim são cultivadas uma variedade de flores e minhocas famosas, que aqui podem ser feitos tecidos raros. Vários tipos de animais exóticos são criados, para que sua preciosa pele possa ser retirada.
+Um edifício de extensão é construído próximo à "Sala de Tecelagem" com "Ovos Fetais Exóticos" como material central, e é adjacente ao "Vale das Flores", e os aldeões devem ser enviados para operá-lo. \nVocê pode colher tecido animal para "Tecelagem".
+Campo da Seita KongSang
+No campo da Seita KongSang, existem raros bichos-da-seda que podem cuspir seda colorida. A cor da seda é suave e o toque é macio. Se algum tecido puder ser misturado com este tipo de seda, ele ficará radiante imediatamente.
+O edifício de extensão próximo ao “Edifício do Bordado” foi construído com “bichos-da-seda de 12 cores” como material central. \nIsso permitirá que o "Edifício de Bordados" adjacente produza produtos de brocado de melhor qualidade.
+Transporte Automático
+Feito de grama perfumada e longarina, esse tipo de lançadeira é magnético ao tecido, por isso pode conectar fios e transformá-los em tecido. Extremamente incrível.
+Um edifício de extensão é construído próximo à “Sala de Tecelagem” com “Ímã de Cristal Colorido” como material central, e precisa ser adjacente à “Terra das Fragrâncias”. \nEste edifício pode reduzir o requisito de obtenção de "Tecelagem" ao criar, reparar e refinar itens de Tecelagem.
+Sala de lapidação
+Uma sala cheia de pedras preciosas e jade, cheia de ferramentas complicadas. O processamento de lapidação de gemas é extremamente sofisticado e requer muitas ferramentas elaboradas.
+Você pode fabricar, reparar e refinar produtos de jade. \nAumenta a eficiência dos personagens sob a influência da cidade ou seita à qual pertencem ao estudar livros de "Gemcutagem". \nQuanto maior o tamanho da casa, maior o aumento na eficiência, mas os efeitos de múltiplas casas não se acumulam.
+Joalheria
+A joalheria compra e vende uma variedade de joias valiosas e objetos de jade, e muitas vezes também repara e recria vários tesouros danificados.
+Este é um edifício de extensão construído próximo à “Sala de Corte de Gemas” e precisa ser operado pelos moradores. \nO objetivo principal do edifício é vender produtos de jade para ganhar "dinheiro de prata".
+Pilha de gemas cruas
+A oficina de pedra bruta foi construída ao ar livre e armazenava uma grande quantidade de pedra. Os pedreiros podem selecionar as pedras brutas necessárias a um custo muito pequeno, de modo que os artesãos perspicazes e habilidosos muitas vezes conseguem fazer fortuna e ganhar fama e fortuna.
+Um edifício de extensão é construído próximo à "Sala de Corte de Gemas" usando "Sanzan Mawashi" como material principal, e os moradores devem ser enviados para operá-lo. \nVocê pode encontrar pessoas talentosas com excelentes habilidades em "Gemcutting".
+Loja de curiosidades
+Existem muitos tesouros antigos na loja. Na maior parte do tempo, apenas as trocas “tesouro por tesouro” são aceitas aqui.
+Este é um edifício de extensão construído próximo à “Sala de Corte de Gemas” e precisa ser operado pelos moradores. \nO objetivo principal do edifício é vender produtos de jade para ganhar “prestígio”.
+Gravador
+Facetar gemas e jade com uma variedade de ferramentas de ouro e pedra de diferentes durezas ajuda o artesão a compreender melhor suas propriedades.
+O edifício de expansão construído próximo à “Sala de Corte de Gemas” deve ser adjacente às “Colinas de Pedra”. \nEste edifício aumentará a chance de pessoas dentro da influência de sua cidade ou seita terem um "Flash de percepção" ao estudar livros de "Corte de pedras preciosas".
+Espelho de Sangue
+O Espelho de Sangue é feito de pedra vermelha preciosa, construída sobre a piscina de fogo. Quando o espelho brilha com luz vermelha, você pode ver o interior das gemas e ver os prós e os contras delas.
+Um edifício de extensão é construído próximo à "Sala de Corte de Gemas" com "Fire Pond Red Crystal" como material central, e deve ser adjacente ao "Lava Pond". \nEste edifício aumentará a habilidade de "Lapidação de Pedras Preciosas" das pessoas dentro da influência da cidade ou seita à qual pertence.
+O Campo de Joias
+Está cheio de lama e areia especiais. Os pequenos embriões de pedra são enterrados no campo. Depois de dezenas de dias, as roupas de pedra irão descascar, mostrando as joias brilhantes em seu interior.
+Um edifício de extensão é construído próximo à "Sala de Corte de Gemas" com "Areia Grossa de Joias" como material central, que é adjacente ao "Depósito de Gemas" e requer o envio de moradores para operar. \nVocê pode colher materiais de jade para "Gemcutting".
+Mesa de corte de diamante
+Uma mesa de resolução de pedras feita de diamante, também conhecida como serra de diamante. A serra de diamante é tão dura que pode ser usada para cortar qualquer pedra teimosa que seja invulnerável a espadas, fogo e água.
+Um edifício de extensão é construído próximo à “Sala de Corte de Gemas” com “Serra de Diamante” como material central, que é adjacente ao “Depósito de Gemas” e precisa ser operado pelo envio de aldeões. \nVocê pode colher materiais de pedra para o "Gemcutting".
+Bancada de trabalho
+Projetada por um artesão famoso, a mesa requintada é tão inteligentemente construída e funcional que pode moer e processar essas pedras preciosas e jades tão finas quanto moscas, sem qualquer diferença.
+Um edifício de extensão é construído próximo à "Sala de Corte de Gemas" usando os "Oito Tesouros Lingering" como material principal. \nIsso permitirá que o "Gemcutting" adjacente produza produtos de jade de melhor qualidade.
+Parede de Luz de Deus
+A parede tem quase dois metros de altura e é feita de longarinas milenares retiradas dos veios da terra. Também é chamada de “A Mãe de Jade“. É um tesouro que pode desencadear a espiritualidade das gemas.
+Este é um edifício de extensão construído próximo à “Sala de Corte de Gemas” com “Millennium Jade Mother” como material central, e deve ser adjacente à “Linha Ley”. \nEste edifício reduzirá a necessidade de "conquistas de lapidação" na fabricação, reparo e refinamento de itens de lapidação.
+Sala Nuvem
+O Cloud Room é silencioso e arrumado, com a fragrância de sândalo persistindo em seu interior. É a sala onde vivem os monges. O mobiliário do quarto é muito simples, a estante de livros, a cama simples e o antigo queimador de incenso são tudo o que temos aqui.
+Aumenta a eficiência dos personagens sob a influência da cidade ou seita a que pertencem ao estudar livros "taoístas". Quanto maior o tamanho da \n sala de nuvem, mais a eficiência aumentará, mas o efeito de múltiplas salas de nuvem não será acumulado.
+Ritos Taoístas
+Existem duas áreas de “yang” e “yin” no local onde o taoísmo ora por bênçãos. A área Yang é usada para dissipar desastres, exorcizar espíritos malignos e orar pela paz mundial; enquanto a área Yin é usada para superar a alma dos mortos, desvendar o ódio entre as pessoas e oferecer sacrifícios aos ancestrais.
+O edifício de extensão construído próximo à "Sala das Nuvens" será operado por despachos de aldeões. \nO objetivo principal do edifício é receber oferendas para o puja de bênção.
+Templo Taoísta
+O templo taoísta é um lugar tranquilo e natural para cultivar sacerdotes taoístas.
+Usando o “Incense Tablet” como material principal, você pode construir um edifício de extensão próximo à “Cloud Room” e enviar aldeões para administrá-lo. \nVocê pode encontrar pessoas talentosas com excelentes qualificações no "Taoísmo".
+Templo de Sanqing
+O Templo Sanqing é um palácio dedicado ao “ancestral Sanqing“: Yuqing Origin Primus, Shangqing Treasure Primus e Taiqing Moral Primus. A estrutura do Templo Sanqing é complexa, mas ordenada, solene e simples. Padrões dos tesouros taoístas clássicos são pintados no topo do templo; os pilares são gravados com pedras preciosas, padrões de Taiji e padrões de leques de tesouros.
+O edifício de extensão construído próximo à "Sala das Nuvens" será operado pelo envio de aldeões. \nO principal objetivo do edifício é ganhar “prestígio” prestando homenagem aos moradores.
+Penhasco da Índia
+Um pequeno povoado que foi construído na falésia. “Não coma grãos, apenas chupe o vento e beba o orvalho; pegue as nuvens e os dragões como seus veículos e viaje pelo mundo.“
+Um edifício de extensão construído próximo à “Sala das Nuvens” com o “Esconderijo do Primeiro Mestre Taoísta” como material central, que deve ser adjacente à “Montanha Skyward”. \nEste edifício aumentará a chance de pessoas dentro da influência de sua cidade ou seita terem um "Flash de percepção" ao estudarem os livros do "Taoísmo".
+Caverna Chaoyuan
+A terra do tesouro que conduz às posses taoístas. Simboliza o reino mais elevado do processo de cultivo taoísta.
+O edifício de extensão construído próximo à “Sala das Nuvens” com “Nuvens da Montanha Imortal” como material central precisa ser adjacente à “Veia do Dragão”. \nAumenta as conquistas do "Taoísmo" das pessoas sob a influência da cidade ou seita à qual pertencem.
+Sala de Alquimia
+Uma sala onde é feito o chamado “elixir da vida”. É o lugar para praticar a fabricação de pílulas taoístas.
+O “Forno de Alquimia de Ouro Roxo” é usado como material principal para construir um edifício de extensão próximo à “Sala das Nuvens”. \n pode restaurar a longevidade ao nível de escala da sala de dan para os personagens dentro da influência da cidade e da seita à qual pertence.
+Quarto Zen
+Uma sala de estar para praticar meditação. A Sala Zen é construída entre a grama e as árvores. Tamanho bastante pequeno.
+Aumenta a eficiência dos personagens sob a influência da cidade ou seita à qual pertencem ao estudar livros de "Estudos Budistas". \nQuanto maior o tamanho da Sala Zen, maior será o aumento na eficiência, mas os efeitos de múltiplas Salas Zen não se acumulam.
+Mosteiro
+O templo aceita doações dos fiéis e também ajudará os necessitados. A doação dos monges ao mundo não se limita à propriedade. Por exemplo, dependendo do mito, Sakyamuni cortou sua própria carne para alimentar a águia, que estava morrendo de fome e perseguindo um pombo, para evitar que ambos morressem. A “doação” é a forma mais importante de cultivo budista.
+O edifício de extensão construído ao lado da "sala Zen" será operado por despachos de aldeões. \nO objetivo principal do edifício é receber esmolas orando por bênçãos e pujas.
+Torre Budista
+A torre de madeira de sete andares que consagra a “relíquia”. A construção da Torre Budista é um mérito supremo, assim como a limpeza da torre. É uma prática importante para os discípulos budistas limparem suas almas e facilitarem os outros.
+Um edifício de extensão é construído próximo à "Sala Zen" com as "relíquias dos monges seniores" como material principal, e os aldeões devem ser enviados para administrá-lo. \nVocê pode encontrar pessoas talentosas com excelentes qualificações no "Budismo".
+Dhammasala
+Dhammasala é a sala de aula dos monges. Também desempenha o papel de uma importante biblioteca do Budismo.
+Este é um edifício de extensão construído ao lado da “Sala Zen” e precisa ser operado pelos moradores. \nO principal objetivo do edifício é ganhar “prestígio” através da realização de palestras sobre o Budismo.
+Caverna da Paz
+Os médicos budistas prestam atenção à “cura do coração”. Eles usam decocção e remédios para acalmar as pessoas e eliminar a sensação de mal-entendido; eles também iluminam as pessoas com os “cinco métodos” – visão da impureza, misericórdia, carma, budismo e contagem.
+Um edifício de extensão construído junto à “Sala Zen” tendo como material central a “Medicina do Coração de Buda”, que deve ser adjacente ao “Paraíso das Ervas”. \nEste edifício aumentará a chance de "Flash of Insight" para pessoas dentro da influência de sua cidade ou seita poderem ler livros sobre "Budismo".
+Estágio de Vicissitude
+O Palco da Vicissitude foi construído entre duas árvores e era o local onde os monges sentavam em meditação. O cenário conta a vista como “deixe viver e deixe morrer”. É um nível extremamente elevado do Budismo que se possa olhar para tudo no mundo com um coração normal.
+Um edifício de extensão construído próximo à “Sala Zen” usando a “Árvore Gêmea Murchada” como material central, que deve ser adjacente à “Floresta Taishi”. \nPode aumentar as realizações do "Budismo" das pessoas sob a influência da cidade ou seita à qual pertence.
+Biblioteca Budista
+Os crentes estão copiando e estudando as escrituras e cantando neste pequeno edifício. Qualquer crente pode entrar e emprestar os livros à vontade. Portanto, embora a biblioteca não seja tão solene quanto Dhammasala, ela é ainda mais proeminente em termos de difusão dos espíritos budistas.
+Um edifício de extensão construído próximo à "Sala Zen" usando os "Trinta e Cinco Sutras Verdadeiros" como material central. \n pode reduzir o consumo de iluminação para todas as estratégias de estudo.
+Cozinha
+O piso superior da Cozinha é para cozinhar enquanto o piso inferior é para armazenamento temporário de ingredientes.
+Você pode fazer pratos. \nAumenta a eficiência dos personagens sob a influência da cidade ou seita à qual pertencem ao estudar livros de "culinária". \nQuanto maior o tamanho da Cozinha, mais a eficiência aumenta, mas o efeito de múltiplas Cozinhas não se acumulam.
+Restaurante
+O restaurante tem dois andares e uma linda portaria. O primeiro andar é ocupado por assentos espalhados, enquanto o segundo andar oferece alguns compartimentos pequenos e elegantes.
+Este é um edifício de extensão construído junto à “Cozinha” e necessita de ser operado pelos aldeões. \nO objetivo principal do prédio é vender comida para ganhar dinheiro.
+Banquete Folclórico
+Organizado por pessoas de prestígio, um grande banquete folclórico ao ar livre. Centenas de chefs vêm cozinhar para inúmeras pessoas sentadas em torno de milhares de mesas.
+Um edifício de extensão é construído próximo à “Cozinha” com “Cem Mil Tigelas” como material principal, e os moradores devem ser enviados para operá-lo. \nVocê pode encontrar pessoas talentosas e com excelentes qualificações na área de "culinária".
+Concurso de Culinária
+O Concurso de Culinária é um ponto de encontro onde chefs famosos de todo o mundo discutem culinária e apreciam pratos.
+Este é um edifício de extensão construído junto à “Cozinha” e necessita de ser operado pelos aldeões. \nO principal objectivo do edifício é ganhar “prestígio” através da avaliação dos pratos.
+Fazenda de Alimentação
+Uma fazenda que cria gado raro ou animais selvagens para alimentação. O tamanho da fazenda é muito grande, com centenas de casas. Existem cervos sika, raposas com cara de jade, ursos negros, macacos, tigres, leopardos, elefantes, camelos e assim por diante.
+O edifício de expansão construído junto à “Cozinha” necessita de ser adjacente ao “Habitat Selvagem”. \nIsso pode aumentar a chance de que pessoas dentro da influência da cidade ou seita à qual pertencem tenham um "Flash de percepção" ao estudar livros de "Artes Culinárias".
+Rei Caldeirão
+Feito de uma mistura de cobre cozido e ferro meteórico. Este caldeirão preto tem um fundo de condutividade térmica, mas também tem um corpo que está constantemente frio, por isso requer habilidades culinárias extremamente altas para os chefes cozinharem com ele.
+Um edifício de extensão construído próximo à "Cozinha" com o "Tripé de Ferro Celestial" como material central, que deve ser adjacente à "Cratera do Meteoro". \nPode aumentar a habilidade de "Artes Culinárias" das pessoas sob a influência da cidade e da seita à qual pertence.
+Parque das Estações
+A estrutura do Jardim Quatro Estações é muito peculiar, de acordo com as características habituais das hortaliças da estação, são quatro níveis de canteiros de ar construídos de forma escalonada, independente do frio e do verão, o jardim é verdejante, como a brisa da primavera .
+O edifício foi construído junto à “Cozinha” tendo como material central o “Vento Fluente das Quatro Estações”, e é adjacente à “Planície Fértil”. \nIngredientes vegetarianos e animais para "Cozinhar" podem ser colhidos.
+Aldeia Natural
+Esta aldeia está construída numa estrutura engenhosa e bem planeada, que na verdade forma uma ecosfera perfeita que fornece todos os tipos de materiais naturais.
+O edifício de extensão é construído próximo à “Cozinha” com “Heavens Turn Rainy” como material principal, e é adjacente às “Planícies Férteis” e precisa ser operado pelos moradores. \nVocê pode colher ingredientes de peixes e aves para "Cozinhar".
+Pavilhão das Especiarias
+É utilizado para coletar e cultivar diversos tipos de especiarias, como: alcaçuz, almíscar, cebola, gengibre, pimenta, canela e assim por diante. A maioria dos temperos precisam ser introduzidos de fora do domínio, tais como: erva-doce, salsa, pimenta, hematoxil, etc.
+Este é um edifício de extensão construído junto à “Cozinha” utilizando o “Pote Universal Anfíbio” como material central. \nIsto permitirá que a "Cozinha" adjacente produza pratos de melhor qualidade.
+Palácio do Dragão
+Um iglu construído inteiramente com tijolos de gelo para armazenar alimentos extremamente preciosos e sujeitos à deterioração. Por ser como o Palácio de Cristal do Rei Dragão, é chamado de “Palácio do Dragão“.
+Este é um edifício de extensão construído junto à “Cozinha” utilizando “Telhas de Gelo Cristalino” como material central, que deve ser adjacente ao “Gelo Eterno”. \nEste edifício reduzirá a exigência da habilidade "Artes Culinárias" ao preparar pratos.
+Rua Longa
+Rua larga repleta de lojas. Long Street está localizada na principal via de transporte, reunindo um grande número de pessoas de todas as esferas da vida.
+Aumenta a eficiência dos personagens sob a influência da cidade ou seita à qual pertencem ao estudar livros de "Lore". Quanto maior a escala \n da rua longa, mais a eficiência aumentará, mas o efeito de múltiplas ruas longas não será acumulado.
+Justo
+A Feira é um local onde comerciantes e vendedores reúnem e vendem todo tipo de mercadorias. Em certas épocas, serão criados mercados especiais para vender produtos sazonais.
+O edifício de extensão foi construído próximo à “Long Street” e precisa ser operado pelos moradores. \nO objetivo principal do edifício é vender mantimentos para ganhar "dinheiro de prata".
+Loja de apostas
+Um lugar para os jogos de azar. Existem vários jogos, bem como luta de galos, corridas de cães, lutas de tordos e lutas de críquete. O dinheiro do jogo é enorme, então os guarda-costas podem chegar a cem pessoas.
+O edifício de extensão foi construído próximo à “Long Street” e precisa ser operado pelos moradores. \nO objetivo principal é ganhar dinheiro com jogos de azar.
+Bordel
+O bordel aceita principalmente homens ricos e famosos como clientes. Apesar de terem esse nome, a maioria das mulheres trabalha lá por suas habilidades musicais e artísticas, e não por seus corpos.
+O edifício de extensão foi construído próximo à “Long Street” e precisa ser operado pelos moradores. \nO objetivo principal do edifício é ganhar “dinheiro” entretendo pessoas com sexo.
+Bordel Flutuante
+O bordel flutuante é como um palácio acima da água, tão lindo que quem não é celebridade nem consegue embarcar no navio. As celebridades desfrutam das mais elegantes danças, cantos e damas aqui.
+Um edifício de extensão é construído próximo à “Rua Longa” com “Decorações Douradas” como material central, que deve ser adjacente ao “Reservatório” e deve ser operado por despachantes de aldeões. \nVocê pode encontrar pessoas com alto carisma.
+Goulan Washé
+É um lugar para os civis se divertirem. No campo há contação de histórias, artesãos, malabarismo e óperas, que são muito variadas e animadas.
+Um edifício de extensão é construído próximo à "Long Street" com a "linha da trupe" como material principal, e os moradores devem ser enviados para operá-lo. \nVocê pode encontrar pessoas talentosas com excelentes qualificações em "estudos de conhecimento".
+Parque Jardim
+Um jardim ornamental para os hóspedes desfrutarem. No jardim, a paisagem é pitoresca e as plantações de relva e árvores são cuidadosamente desenhadas.
+O edifício de extensão construído próximo à “Long Street” precisa ser operado por despacho de moradores. \nO objetivo principal do prédio é ganhar “prestígio” para as pessoas brincarem.
+Mega Parque
+Projetado por designers famosos, está construído em uma ampla área com belas paisagens. O Mega Park é como uma pequena cidade com montanhas e rios verdes, ruas, pontes, pavilhões e tudo.
+Um edifício de extensão construído junto à “Long Street” tendo como material central “Jardins e Paisagens Famosas”, que deve ser adjacente ao “Vale das Flores”. \nEste edifício aumentará a chance de ter um "Flash of Insight" para pessoas dentro da influência da cidade ou seita lerem livros sobre "Lore".
+Campo Oculto
+Este campo está cheio de flores e pedras estranhas e é incrivelmente trabalhado em todos os lugares.
+Um edifício de extensão construído próximo a "Long Street" com "Flores e Pedras Exóticas" como material principal precisa ser adjacente a "Everspring Ravine". \nO edifício aumentará a obtenção de "Conhecimento" das pessoas sob a influência da cidade e da seita à qual pertence.
+Loja de penhores
+Uma casa de penhores é um local onde as pessoas comercializam ferramentas, terras, gado ou até mesmo empregados como garantia de empréstimos. O não pagamento dentro do prazo significa perda da garantia.
+O edifício de extensão construído próximo à “Long Street” precisa ser operado pelo envio de moradores. \nVocê pode trocar "dinheiro de prata" por mantimentos.
+Guilda da Sabedoria
+A guilda da sabedoria emprega homens sábios para trabalhar sob o comando de seus mestres. Homens sábios podem significar qualquer pessoa que possua uma habilidade útil, tenha conhecimento excepcional ou seja capaz de planejar e executar planos.
+O edifício de extensão construído próximo à “Long Street” precisa ser operado pelo envio de moradores. \nVocê pode usar "Prestige" para recrutar talentos.
+Capital
+A Capital é o centro económico e político do Império Médio, repleta de ricos e poderosos.
+
+Chengdu
+Chengdu, conhecida como “a terra da abundância”, tem um clima ameno que promove talentos brilhantes. Diz a lenda que seres celestiais vivem na extraordinária montanha Emei.
+
+Guizhou
+Guilin é um lugar pitoresco. É lindo demais para ser apreciado de uma só vez. “Leste ou oeste, a paisagem de Guilin é a melhor“, “O cenário de Guilin é o mais adorável de todos” são elogios comuns.
+
+Xiangyang
+Xiangyang está localizada ao norte do rio Xiang.A majestade da cidade é facilmente acessível de todos os lados. Portanto, também é de grande importância estratégica.
+
+Taiyuan
+Taiyuan é cercada por montanhas em três lados. É considerada a cidade mais importante do norte pela sua magnificência e prosperidade.
+
+Cantão
+Guangzhou é uma aglomeração de três cidades menores. Muitos comerciantes estrangeiros reuniram-se em Guangzhou, seguidos por vários tipos de pessoas excêntricas e bizarras.
+
+Qingzhou
+Qingzhou é um dos “nove estados antigos“, elevando-se na parte leste da China. Qingzhou recebe o nome da tradição Yin-Yang, que argumenta que “a madeira representa o leste e Qing ou “verde” representa a madeira”.
+
+Jiangling
+Jiangling fica no pivô da rede de transporte, conhecida como “Capital do Primeiro”. A educação superior e a alfabetização estão nutrindo a sabedoria e atraindo pessoas inteligentes.
+
+Fucheu
+Fuzhou está florescendo devido ao seu próspero comércio marítimo e à grande população. Como as árvores Banyan podem ser encontradas em todos os lugares, Fuzhou também é chamada de “Cidade Banyan“
+
+Liaoyang
+Liaoyang, a pérola do norte, ocupa um grande território. É a antiga capital mais famosa do norte e recuperada várias vezes dos reinos do norte pela sua extrema importância estratégica.
+
+Qinzhou
+Qinzhou está localizada na fronteira oeste. Sua natureza incivilizada permite a manipulação do Vajrayana para transformá-lo no degrau do rejuvenescimento do Antigo Império Zhangzhung.
+
+Dalí
+As pessoas em Dali não são sofisticadas e estão comprometidas com o budismo. Dali é composto por um grande número de clãs. Esses clãs têm relacionamentos amigáveis. Juntos eles prosperam.
+
+Shouchun
+Shouchun é a capital da região de Huainan e é fácil controlar a área circundante a partir daí. Tanto o povo Chu quanto o Tofu são originários de lá.
+
+Hangzhou
+Diz-se que o estado mais importante do sudeste é Hangzhou, que tem sido próspero desde os tempos antigos.
+
+Yangzhou
+As três cidades de Yangzhou são repletas de embarcações de recreio e canções à noite. Tão bom que um poeta certa vez declarou que dois terços da beleza da noite pertencem aqui.
+
+Templo Shaolin
+O Templo Shaolin é uma das escolas mais respeitadas de artes marciais. O Bodhidharma entrou no campo das artes marciais após realizar o espírito Zen, e nos nove anos de meditação no Templo Shaolin, ele criou as “Setenta e duas Artes Marciais Especiais”, levando Shaolin ao topo do Wulin.
+
+Seita Emei
+“Todas as artes marciais do mundo nasceram em Emei”. Emei é uma das três escolas de artes marciais mais consagradas, assim como seu seguinte nome - “o show mundial”. As artes marciais Emei são combinações de suavidade e resistência, entrelaçadas com os espíritos do Tao e do Zen. Emeizando！
+
+Vale das Flores
+Flowers Valley é como a primavera em todas as estações. Existem sete grandes cachoeiras e quatorze piscinas naturais no vale. Por causa dos cervos brancos que vivem no vale, ele também é chamado de “Vale dos Cervos Brancos”. Flowers Valley é famosa por sua pesquisa médica e excelentes técnicas de acupuntura. Os médicos de Flowers Valley são admirados pelo mundo por suas habilidades de cura incomparáveis, retidão e espírito de justiça.
+
+Seita Wudang
+Juntamente com Shaolin e Emei, são chamadas as três seitas mais famosas das artes marciais. A escola de artes marciais Wudang é profunda e profunda, o cultivo interno mais importante, o ancestral fundador da escola do verdadeiro monarca do taoísmo profundo, Taiji Shen Gong é famoso em todo o mundo, conhecido como o primeiro das artes marciais internas do mundo.
+
+Seita Yuanshan
+Existem muitos discípulos na Escola Yuanshan e é seu dever manter a retidão das artes marciais. A Grande Montanha tem um monte de espadas para o monaquismo, e a Pequena Montanha tem um monte de espadas para a prática budista. O grande e o pequeno Yuanshan estão unidos no mesmo espírito e, com a habilidade divina de combinar espadas e facas, são capazes de eliminar o diabo e defender o caminho, e sua fama se espalha por toda parte.
+
+Clã Cara de Leão
+As artes marciais Lion-Face são arrogantes e poderosas. Embora não prestem muita atenção ao cultivo das Artes Interiores, eles são especializados em habilidades duras de ataque e defesa descritas como “quebrar ouro e pedras”, ou invulneráveis.
+
+Seita Ranshan
+A Escola Ranshan é especializada em aprender e pregar durante viagens. Eles adquirem uma enorme quantidade de conhecimentos em todo o mundo, agem como debatedores bem informados e com lógica clara. Eles prestam muita atenção ao autocultivo e aos hábitos saudáveis ​​diários, para que possam viver muito com menos possibilidade de apresentarem sérios riscos à saúde.
+
+Pico XuanNyu
+O Pico XuanNyu, ou também conhecido como Pico da Donzela de Jade, é onde “O Gelo Negro” está localizado. Diz-se que houve uma filha celestial que caiu no pico e deixou nele uma arte celestial. Se uma mulher praticar isso, ela poderá se tornar elegante, pura e, eventualmente, imortal.
+
+Mansão da Espada
+Sword Manor, fundada pelo grande mestre espadachim Ouye Zi, está localizada na montanha Zhanlu. É bem conhecido por sua técnica de forja e a maioria das armas mundialmente famosas são forjadas aqui.
+
+Seita KongSang
+A escola KongSang Sect também é conhecida como escola dos reis da medicina. Embora a montanha KongSang Sect seja uma montanha coberta de neve, existem todos os tipos de gramíneas exóticas entre as colinas. Os discípulos da Seita KongSang são especializados em venenos e remédios. Seu remédio pode trazer os mortos de volta à vida, enquanto seu veneno pode matar pessoas sem serem notados.
+
+Vajrayana
+O Imaculado Vajrayana é um ramo secreto do antigo reino de Zhang Zhung. Com uma grande popularidade de discípulos poderosos, ainda é considerada uma escola hostil no mundo Wulin, por agir de forma feroz e sinistra.
+
+Cinco Imortais
+Os Cinco Imortais, também conhecidos como Os Cinco Venenos, é uma escola localizada no território Miao. Influenciados por seus credos extremos, os crentes mantêm o espírito de “Olho por Olho”. A escola ensina o refinamento do veneno, cria muitas criaturas tóxicas horríveis, que o povo Wulin, independentemente do bem ou do mal, foge de seus crentes.
+
+Penhasco de Jieqing
+O JieQing é comumente conhecido como o lugar onde “pessoas e fantasmas estão na mesma estrada”. Os discípulos trabalham secretamente e são os melhores em armaduras de acrobacias, como as agulhas voadoras. Eles também são descritos como assassinos habilidosos.
+
+Altar Fulong
+O Altar Fulong foi construído na ilha Chiming, no Mar da China Oriental. A escola Fulong Altar é dividida em duas seitas: a seita Situ é famosa por suas ferozes habilidades com lâminas, enquanto a seita Long é extremamente sofisticada em habilidades com punhos. Diz-se que existem vulcões na ilha, que os discípulos até praticam neles as suas artes marciais.
+
+Sangue Hou
+Desde que os demônios Xiangshu começaram a afetar o mundo, os espíritos malignos gradualmente se reuniram para criar o Blood Hou. Os discípulos são ensinados com os poderes mágicos do caos. Embora suas mentes estejam corrompidas, nem mesmo o Buda poderá salvá-los. O íntegro povo Wulin sempre trata as tripulações do Blood Hou como os maiores inimigos.
+
+Vila
+A fumaça sobe na aldeia. O caminho simples de terra batida espalha-se entre os campos e as sebes.
+
+Cidade
+Uma cidade com uma grande população. Ligado ao caminho principal, possui uma estação.
+
+Acampamento
+Uma terra protegida por muros e rios com moradores autossuficientes
+
+Cabana de Bambu
+Uma cabana de bambu construída no meio de um riacho na montanha. Os pedaços de bambu nas paredes da cabana há muito ficaram amarelos e pretos com o tempo.
+
+Uma cabana de bambu foi construída no meio de um riacho na montanha.
+
+Pavilhão de Clássicos Budistas
+Durante o período Taihe da Dinastia Wei do Norte, o monge Tianzhu Trento viajou para as Planícies Centrais para se estabelecer e pregar. Trento construiu o Templo Shaolin como um local para os textos budistas do mundo, passando seus anos coletando muitas escrituras. Nas gerações posteriores, o mundo tornou-se caótico e muitas escolas de pensamento viram uma grande perda nas suas escrituras. Para proteger esse conhecimento, o Templo Shaolin construiu o Pavilhão Clássico Budista e copiou as artes marciais de todas as seitas e as armazenou dentro dele. Aos poucos começaram a aparecer rumores sobre sua existência: o templo esconde todas as artes marciais e todas as leis.
+
+Pico Dourado
+Golden Peak foi construído no topo da montanha Emei. Quando o sol se põe, uma luz dourada brilhante brilhará em seu pico, por isso é chamado de "Pico Dourado". Quando houver injustiça no Sudoeste, todas as seitas do Sudoeste se reunirão no topo do Pico Dourado. A Seita Emei é conhecida por sua natureza íntegra e é a primeira a defender as seitas do Sudoeste, então os artistas marciais também chamam o Pico Dourado de "Terra Santa do Sudoeste". Se você é inimigo do Emei, você é inimigo do Sudoeste.
+
+Lago dos Cervos Brancos
+O Vale das Cem Flores permanece escondido do mundo, sem ser perturbado pelo caos lá fora. O Lago White Deer está localizado nas profundezas do vale e é difícil para estranhos entrarem. Há rumores de que alguém uma vez encontrou uma trilha auspiciosa de cervos brancos aqui, daí o nome. Os discípulos do Vale das Cem Flores costumam alimentar os cervos no Lago dos Cervos Brancos e ocasionalmente testemunham a visão de dragões negros da inundação.
+
+Terraço Sete Estrelas
+“A rotação das sete estrelas da Ursa Maior consiste em 24 pontos de Qi, ao longo de doze dias, em doze meses”. A Plataforma Sete Estrelas é construída de acordo com as posições estelares de Tianshu, Tianxuan, Tiangui, Tianquan, Yuheng, Kaiyang e Yaoguang. A plataforma é coroada no topo de Wudang e fica de frente para o céu a mais de três mil metros de altura. No palco, se você concentrar sua respiração, o Qi do seu corpo se integrará naturalmente com o céu e a terra.
+
+Prisão de Pedra
+Nos tempos caóticos do XiangShu, os estudiosos se reuniram no Monte Yuan e construíram a Prisão de Pedra. É uma masmorra para os discípulos que violaram os preceitos da seita e para aqueles que cometeram os crimes mais imperdoáveis, e aqueles que são culpados muitas vezes enfrentam a parede e meditam por vários anos para se livrarem de seus demônios.
+
+Plataforma do Rei Leão
+A Plataforma do Rei Leão tem um metro de altura e quase dois metros de largura, e o anel é esculpido em todos os lados com a cabeça do majestoso leão com juba dourada. Segundo a lenda, quando os ancestrais do Portão do Leão Dourado chegaram pela primeira vez a Guangdong, eles desafiaram os artistas marciais no topo da plataforma com o voto de vida ou morte, varrendo os trinta e seis salões de Guangzhou. Desde então, a plataforma localizada na Colina do Lótus é usada para desafiar alguém para uma batalha de vida ou morte.
+
+Pavilhão Qinglang
+O Pavilhão Qinglang fica no topo do Monte Ran, escondido nas nuvens e névoas que o cobrem, e é como um palácio imortal. Diz a lenda que o Pavilhão contém os restos mortais dos ancestrais dos mestres Qinglang, e aqueles que puderem entrar no Pavilhão poderão obter o profundo poder das gerações anteriores do Monte Ran.
+
+Espelho Jade Brilhante
+As lendas dizem que há muito tempo uma donzela celestial desceu ao Pico Xuan Nui e deixou para trás um espelho de jade, que as pessoas mais tarde chamaram de 'Yiming Jue'. O espelho é nebuloso e difícil de olhar, mas entre as sombras você pode ver a figura de uma mulher de jade, dançando com uma espada ou dedilhando uma corda. As mulheres que meditam diante do espelho podem se iluminar, vislumbrando os segredos do palácio celestial.
+
+Fornalha de Espada Ancestral
+No passado, Ouyezi montou um forno na montanha Zhanlu para forjar uma espada. A fornalha foi alimentada pelo Mestre da Chuva, seu fogo germinou pelo golpe do Deus do Trovão, infundido com a essência do Dragão Verdadeiro e seu carvão dado pelo Imperador do Céu. Depois de três anos, a espada foi forjada e, quando passou a existir, iluminou o céu e a terra, o sol e a lua escurecendo em sua presença. Ouyezi sabia que havia forjado o trabalho de sua vida, e todas as espadas posteriores empalidecerão diante de sua presença. No final ele selou a fornalha e saiu.
+
+Caldeirão do Rei da Medicina
+Nas lendas, Qin Shi Huang convocou o mundo a se reunir no palácio em Xianyang para refinar o remédio imortal. Após a queda da dinastia Qin, os monges budistas entraram nas montanhas para evitar o desastre, trazendo consigo o caldeirão medicinal. O Caldeirão do Rei da Medicina foi originalmente forjado para o refinamento da medicina imortal e, com o veneno medicinal acumulado ao longo dos anos, ele não pode mais ser tocado facilmente.
+
+Cinco estátuas Vajra
+Existem cinco estátuas Vajra no pátio interno da Seita Vajra. Um com um esqueleto na cintura, outro com ouro na manga, outro com roupas desgrenhadas, outro com lábios do tamanho de um balde e outro com um pote na mão. Olhando mais de perto, elas parecem ser diferentes das autênticas estátuas Vajra do Budismo, como se implicassem atos de matar, roubar, devassidão, desonestidade e bebida.
+
+Vale do Banho dos Cinco Venenos
+Na Seita dos Cinco Imortais existe um vale que leva a um lago profundo. A água muitas vezes muda de cor, brilhando em vermelho, dourado, azul, verde ou branco, exibindo uma infinidade de mudanças misteriosas e estranhas. Segundo a lenda, esta piscina é uma convergência dos venenos mais fortes do mundo. Quando nasceu, atraiu a cobra dourada, o escorpião vermelho, o sapo de jade, a centopéia azul e a aranha verde, que espreitam lá dentro. Fora da Seita dos Cinco Imortais, humanos e animais raramente são vistos a cem milhas ao redor do vale. Aqueles que enfrentam a jornada raramente são vistos novamente, sem sequer ossos para enterrar.
+
+Abismo sem vida
+O Abismo Sem Vida é um lugar de morte quase certa. Há rumores de que o penhasco que leva ao Abismo Sem Vida é onde o Clã Qing realiza comissões de assassinato. Se um assassino do Clã Qing quiser receber uma comissão, ele deve escalar o penhasco e aceitar a comissão para mostrar sua determinação de morrer para completar o assassinato. Abaixo do penhasco precário, ossos brancos podem ser vistos empilhados como uma montanha.
+
+Palácio do Dragão Dourado
+O Golden Dragon Palace foi construído na passagem da montanha vulcânica. O Verdadeiro Dragão Ancestral do Altar Fulong criou este palácio para ser transmitido às gerações futuras. O palácio está repleto de dragões dourados, e os servos podem ser vistos limpando suas estátuas de vez em quando para limpar as manchas de poeira. Se houver um evento importante na ilha, o Mestre da Ilha adorará os dragões dourados do Palácio do Dragão Dourado, chamando de volta o espírito do Verdadeiro Ancestral Dragão do Altar Fulong para obter sua bênção.
+
+Lagoa de Sangue
+A Lagoa de Sangue é o local proibido do Culto de Sangue, e aqueles que não têm grande apoio no Culto não podem entrar. Segundo a lenda, o lago está cheio de sangue de dezenas de milhares de animais, espíritos malignos e pessoas, além de uma miríade de diferentes tipos de veneno. É um dos lugares mais venenosos e malignos do mundo, onde as pessoas jogadas dentro experimentam um destino pior que a morte, resultando no nascimento de um demônio.
+
+Caravanas de Gado
+A gangue de gado que serve é organizada pelos lacaios do campo e se torna uma equipe de comerciantes, que é transmitida pelo povo há centenas de anos, vendendo mercadorias principalmente em algumas lojas de departamentos diárias.
+
+Livraria WenShan
+O imperador estava em apuros, os rituais e a música entraram em colapso, a antiga dinastia de pessoas perspicazes, a fim de sobreviver à cultura e à educação, e construiu o Pavilhão Wenshan Shuhai. O pavilhão Wenshan Shuhai recebe os livros canônicos do mundo, envolvendo cem linhas e cem indústrias.
+
+Comércio Penta-Lago
+Desde o surgimento da Câmara de Comércio dos Cinco Lagos, nos tempos difíceis, os comerciantes têm vendido mercadorias de sul a norte e de oeste a leste, cobrindo todo o mundo e vendendo mercadorias para os quatro mares e até mesmo para lugares distantes. como o Ocidente.
+
+Loja de Campeões
+Os remanescentes da antiga dinastia mais de 80.000 soldados, ou artesãos, ou comerciantes, o estabelecimento do Grande Martial Kui, especializado na venda de todos os tipos de espadas e lanças, armaduras de ouro e jade, embora não continuem a proteger o povo, mas também considerou ensinar as pessoas a pescar?
+
+Salão de Rejuvenescimento
+Para o alívio do mundo caótico, as empresas farmacêuticas mundiais juntas para construir o Spring Hall, enviaram milhares de médicos, o desenvolvimento de uma centena de tipos de elixires, que podem ter um medicamento secreto à venda, poucos estranhos podem saber.
+
+Praça Mestre
+Foi fundada por Lu Ban, o ancestral dos artesãos, e depois reconstruída por seus discípulos durante cem anos. É famosa por sua arte mecânica, e os vários tipos de pivôs arquitetônicos criados por ela são considerados engenhosos.
+
+Casa dos Estranhos
+Bens estranhos reunidos, o acúmulo de tesouros, então o número de bens estranhos é rápido. Os bens ímpares Zhai são construídos com o apoio de pessoas poderosas ao redor do mundo, que recebem bens raros e exóticos do mundo, absolutamente nada mundanos.
+
+Academia Taiwu
+Pincel e tinta podem ser como nuvens e fumaça, e os volumes são perfumados por todas as montanhas e rios. Existem vários volumes de livros técnicos no pavilhão de livros, que é o local para os moradores de Taiwu lerem e estudarem.
+Com a "Arte Clássica" como material principal, os moradores de Taiwu podem aprender Belas Artes por conta própria.
+Escola Marcial Taiwu
+Todos os tipos de artes marciais, apresentando artes marciais, tão poderosas, podem abalar o mundo. Existem vários volumes de livros de artes marciais no pavilhão de livros aqui, que é o lugar para os moradores de Taiwu lerem e estudarem detalhadamente.
+Com o "Clássico das Artes Marciais" como material principal, os aldeões de Taiwu podem aprender artes marciais por conta própria.
+Eminente Pagode Sarira
+Todos os monges do Templo Shaolin construíram respeitosamente o Eminente Pagode Sarira. O corpo do pagode é gravado com escrituras budistas, as relíquias de Bodhidharma são consagradas no pagode e estátuas douradas de Buda são construídas. Os monges os adoram dia e noite...
+
+Grande Tesouro
+Este lugar é um tesouro usado para armazenar suprimentos. Comida, prata, ouro, pedra, jade, bem como objetos preciosos, brinquedos, espadas antigas e instrumentos musicais famosos, todos os tipos de coisas são guardados aqui, e alguém é designado para guardá-los estritamente. Pode-se dizer que é tão segura quanto uma cidade protegida por um muro de metal e um fosso de água fervente.
+Pode ser acessado por pessoas da facção atual para armazenar e recuperar itens.\nSe quiser acessar os itens no Tesouro, você precisa depositar itens com um valor de contribuição não inferior ao valor de contribuição dos itens que deseja trocar. .\nDepositar itens será favorecido e apoiado por personagens dessa facção.\nPersonagens que não estão nesta facção e invadirem, perturbarem ou saquearem o tesouro serão severamente punidos pelos guardas e receberão repulsa das pessoas dessa facção. ..
+Tesouro Municipal
+Tesouro da Aldeia
+Tesouro da Fortaleza
+Tesouro das Sete Riquezas
+"Rico com sete tesouros, ensinado a alimentá-los.".\nEste lugar é um tesouro usado para armazenar suprimentos. Comida, prata, ouro, pedra, jade, bem como objetos preciosos, brinquedos, espadas antigas e instrumentos musicais famosos, todos os tipos de coisas são guardados aqui, e alguém é designado para guardá-los estritamente. Pode-se dizer que é tão segura quanto uma cidade protegida por um muro de metal e um fosso de água fervente.
+Pavilhão do Tesouro Sagrado
+"O Pavilhão do Tesouro Sagrado armazena tesouros, escondendo o segredo de Emei dentro dele".\nEste lugar é um tesouro usado para armazenar suprimentos. Comida, prata, ouro, pedra, jade, bem como objetos preciosos, brinquedos, espadas antigas e instrumentos musicais famosos, todos os tipos de coisas são guardados aqui, e alguém é designado para guardá-los estritamente. Pode-se dizer que é tão segura quanto uma cidade protegida por um muro de metal e um fosso de água fervente.
+Tesouro que salva vidas
+"Tesouro que salva vidas contém remédios secretos de sábios do Vale das Cem Flores".\nEste lugar é um tesouro usado para armazenar suprimentos. Comida, prata, ouro, pedra, jade, bem como objetos preciosos, brinquedos, espadas antigas e instrumentos musicais famosos, todos os tipos de coisas são guardados aqui, e alguém é designado para guardá-los estritamente. Pode-se dizer que é tão segura quanto uma cidade protegida por um muro de metal e um fosso de água fervente.
+Tesouro do Céu e da Terra
+"O Céu e a Terra convergem como um só, espalhando bênçãos por todas as estações".\nEste lugar é um tesouro usado para armazenar suprimentos. Comida, prata, ouro, pedra, jade, bem como objetos preciosos, brinquedos, espadas antigas e instrumentos musicais famosos, todos os tipos de coisas são guardados aqui, e alguém é designado para guardá-los estritamente. Pode-se dizer que é tão segura quanto uma cidade protegida por um muro de metal e um fosso de água fervente.
+Antiga Mansão Jinyang
+"Uma terra abençoada há milênios, onde os tesouros brilham na luz que flui".\nEste lugar é um tesouro usado para armazenar suprimentos. Comida, prata, ouro, pedra, jade, bem como objetos preciosos, brinquedos, espadas antigas e instrumentos musicais famosos, todos os tipos de coisas são guardados aqui, e alguém é designado para guardá-los estritamente. Pode-se dizer que é tão segura quanto uma cidade protegida por um muro de metal e um fosso de água fervente.
+Tesouro do Rei Leão
+"Tesouros recompensam o valente herói, enquanto o rei leão revela sua magnífica glória".\nEste lugar é um tesouro usado para armazenar suprimentos. Comida, prata, ouro, pedra, jade, bem como objetos preciosos, brinquedos, espadas antigas e instrumentos musicais famosos, todos os tipos de coisas são guardados aqui, e alguém é designado para guardá-los estritamente. Pode-se dizer que é tão segura quanto uma cidade protegida por um muro de metal e um fosso de água fervente.
+Tesouro Escondido
+"Tesouros escondidos além do mundo podem não ser reais; um coração imbuído de profunda sabedoria voa através do Portão do Dragão".\nEste lugar é um tesouro usado para armazenar suprimentos. Comida, prata, ouro, pedra, jade, bem como objetos preciosos, brinquedos, espadas antigas e instrumentos musicais famosos, todos os tipos de coisas são guardados aqui, e alguém é designado para guardá-los estritamente. Pode-se dizer que é tão segura quanto uma cidade protegida por um muro de metal e um fosso de água fervente.
+Pavilhão de Varredura de Neve
+"A donzela divina de brilho claro não deixa rastros, varrendo silenciosamente a neve no pequeno pavilhão".\nEste lugar é um tesouro usado para armazenar suprimentos. Comida, prata, ouro, pedra, jade, bem como objetos preciosos, brinquedos, espadas antigas e instrumentos musicais famosos, todos os tipos de coisas são guardados aqui, e alguém é designado para guardá-los estritamente. Pode-se dizer que é tão segura quanto uma cidade protegida por um muro de metal e um fosso de água fervente.
+Tesouro de Armamento Precioso
+"Armas preciosas armazenadas no arsenal, onde faíscas voam das lâminas. Guardados por ferro preto, a entrada de desocupados é proibida".\nEste lugar é um tesouro usado para armazenar suprimentos. Comida, prata, ouro, pedra, jade, bem como objetos preciosos, brinquedos, espadas antigas e instrumentos musicais famosos, todos os tipos de coisas são guardados aqui, e alguém é designado para guardá-los estritamente. Pode-se dizer que é tão segura quanto uma cidade protegida por um muro de metal e um fosso de água fervente.
+Pavilhão da Glória Fugaz
+"No vale, a vida persiste por milênios; no mundo, a glória é apenas uma ilusão passageira".\nEste lugar é um tesouro usado para armazenar suprimentos. Comida, prata, ouro, pedra, jade, bem como objetos preciosos, brinquedos, espadas antigas e instrumentos musicais famosos, todos os tipos de coisas são guardados aqui, e alguém é designado para guardá-los estritamente. Pode-se dizer que é tão segura quanto uma cidade protegida por um muro de metal e um fosso de água fervente.
+Tesouro imensurável do Buda
+"Os eternos ensinamentos sagrados são verdadeiramente transmitidos, guiando todos os seres para fora de sua confusão".\nEste lugar é um tesouro usado para armazenar suprimentos. Comida, prata, ouro, pedra, jade, bem como objetos preciosos, brinquedos, espadas antigas e instrumentos musicais famosos, todos os tipos de coisas são guardados aqui, e alguém é designado para guardá-los estritamente. Pode-se dizer que é tão segura quanto uma cidade protegida por um muro de metal e um fosso de água fervente.
+Mansão dos Cinco Sábios
+"Os Cinco Sábios escondem imortais e espíritos; a torre da vila se alegra com a colheita abundante".\nEste lugar é um tesouro usado para armazenar suprimentos. Comida, prata, ouro, pedra, jade, bem como objetos preciosos, brinquedos, espadas antigas e instrumentos musicais famosos, todos os tipos de coisas são guardados aqui, e alguém é designado para guardá-los estritamente. Pode-se dizer que é tão segura quanto uma cidade protegida por um muro de metal e um fosso de água fervente.
+Tesouro Sombrio
+"Ouro e prata trocados por ossos brancos, sangue deteriorado trocado por restos de fortuna".\nEste lugar é um tesouro usado para armazenar suprimentos. Comida, prata, ouro, pedra, jade, bem como objetos preciosos, brinquedos, espadas antigas e instrumentos musicais famosos, todos os tipos de coisas são guardados aqui, e alguém é designado para guardá-los estritamente. Pode-se dizer que é tão segura quanto uma cidade protegida por um muro de metal e um fosso de água fervente.
+Tesouro do Dragão Verdadeiro
+"Ouro vermelho sacrificado ao verdadeiro dragão, o cofre de fogo forja o valente".\nEste lugar é um tesouro usado para armazenar suprimentos. Comida, prata, ouro, pedra, jade, bem como objetos preciosos, brinquedos, espadas antigas e instrumentos musicais famosos, todos os tipos de coisas são guardados aqui, e alguém é designado para guardá-los estritamente. Pode-se dizer que é tão segura quanto uma cidade protegida por um muro de metal e um fosso de água fervente.
+Tesouro do Rei Hou
+"O Rei Hou guarda o portão, demônios e fantasmas protegem o cofre, os vivos apresentam tesouros, os mortos mostram o caminho".\nEste lugar é um tesouro usado para armazenar suprimentos. Comida, prata, ouro, pedra, jade, bem como objetos preciosos, brinquedos, espadas antigas e instrumentos musicais famosos, todos os tipos de coisas são guardados aqui, e alguém é designado para guardá-los estritamente. Pode-se dizer que é tão segura quanto uma cidade protegida por um muro de metal e um fosso de água fervente.
