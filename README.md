@@ -4,7 +4,7 @@
 
 **Ajude a manter o projeto via Pix:** pix@yuricunha.com
 
-**Participe da comunidade no Discord:** [Clique aqui](https://discord.com/invite/aYbWBr4)
+**Participe da comunidade no Discord:** https://discord.com/invite/aYbWBr4
 
 ---
 
