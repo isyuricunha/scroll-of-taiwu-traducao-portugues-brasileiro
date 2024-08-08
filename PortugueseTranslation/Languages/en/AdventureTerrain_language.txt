@@ -1,0 +1,46 @@
+Desconhecido
+Lugar desconhecido...
+Colinas
+Este é um lugar onde as montanhas sao contínuas e os cumes se estendem, olhando para os picos através das montanhas.
+Desfiladeiro
+As falésias erguem-se em ambos os lados do desfiladeiro, tornando-o muito majestoso e imponente, e a estrada no vale é tao íngreme que dificulta a passagem de veículos e cavalos.
+Caverna
+Cavernas formadas naturalmente no solo, falésias e penhascos, onde os canais sao tao estreitos que apenas uma pessoa pode dobrar o tronco para os lados para passar.
+Rio
+Os rios sao lamacentos, com depósitos de sedimentos, e seus cursos de água correm de leste a oeste, de norte a sul, e até mesmo por milhares de quilômetros.
+Lago
+O lago tem águas claras e correntes suaves, onde crescem muitos animais vivos, como plantas aquáticas, peixes e camaroes.
+Lago
+As piscinas sao claras, estreitas e profundas, escuras e secretas, com alguns peixes e camaroes crescendo nelas.
+Cabana
+Uma cabana comum de palha, feita de palha, gabioes de bambu e barro, só é usada como abrigo do vento e da chuva.
+Vila
+Um assentamento formado por diversas famílias. Os habitantes trabalham ao nascer do sol e descansam ao pôr do sol, vivendo da agricultura, da tecelagem, da pesca e da caca.
+Cidade
+Um mercado populoso. Há encontros regulares na cidade, muitas mercadorias circulando e muitos shows e encontros de malabarismo.
+Flores
+Os prados estao cobertos de flores. As flores estao em plena floracao, como um mar de cores, mudando de tempos em tempos, perfumadas por dezesseis quilômetros e muitas vezes vibrando com abelhas e borboletas.
+Floresta
+Uma terra onde as árvores se reúnem. Entre eles estao árvores e arbustos com folhagens exuberantes, brisas frescas, frutas cheirosas e galhos altos onde pássaros e animais costumam se alimentar.
+Floresta
+Campos dispersos de grama e árvores. O terreno é aberto, verde e contínuo, onde muitas vezes descansam pássaros e animais.
+Acampamento
+Um lugar onde os artistas marciais estao estacionados. Está rodeado por cercas e muros e tem algum poder defensivo.
+têmpora
+Os templos comuns, a maioria dos quais doados por residentes próximos, contêm estátuas de Buda, Bodhisattvas, Reis Celestiais e Luohan.
+Templo Taoísta
+É um lugar onde os monges taoístas praticam, ou onde os ancestrais dos deuses e deusas taoístas sao adorados e frequentemente orados pelo povo.
+Remanescente
+Um edifício ou endereco que sobrou dos tempos antigos. É possível vislumbrar a existência dos povos antigos e encontrar alguns artefactos raros deixados para trás.
+Regiao selvagem
+Um deserto desolado, aberto e vazio. Sua terra é árida e as poucas gramíneas, árvores, pássaros e animais crescem aqui com dificuldade, enquanto as pessoas sao raras.
+Ruínas
+Nao sei o que aconteceu aqui, mas o prédio agora é um monte de ruínas, inutilizável, com apenas os corvos circulando no céu em busca de companhia.
+Deserto
+O deserto é uma vasta extensao de areia amarela sem grama, o que torna difícil navegar sem preparacao, embora ocasionalmente você possa encontrar oásis de água rica e grama.
+Túmulo
+As antigas tumbas escondidas deixadas pelos predecessores podem conter órgaos, segredos e tesouros, além de ossos.
+Penhasco
+As falésias extremamente íngremes e altas sao quase impossíveis de escalar, com ocasionais pinheiros e ciprestes exóticos crescendo no topo delas, criando uma paisagem única.
+Abismo
+O abismo sem fundo é tao profundo que ninguém se atreve a olhar para ele, entao ninguém sabe que perigos existem nele.

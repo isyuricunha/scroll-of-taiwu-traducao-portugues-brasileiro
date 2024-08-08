@@ -1,0 +1,12 @@
+Plain
+Fertile and broad plains spread as far as one can see...\n<size=10> </size>\n·Resource Output: <color=#pinkyellow>A lot of Food, Wood, and Fabric.</color>\n·Suitable for: <color=#pinkyellow>Painting, Appreciation, Carpentry, Weaving, Culinary Arts, and Lore.</color>
+Mountain
+Mountains are grand and lofty, reminding one of stone forest...\n<size=10> </size>\n·Resource Output: <color=#pinkyellow>A lot of Ore, some Jade and Fabric.</color>\n·Suitable for: <color=#pinkyellow>Martial Arts, Literature, Astrology, Smithing, Gemcutting, and Taoism.</color>
+Forest
+Verdant forests full of luxurious vegetation...\n<size=10> </size>\n·Resource Output: <color=#pinkyellow>A lot of Wood, some Fabric and Herbs.</color>\n·Suitable for: <color=#pinkyellow>Carpentry, Medicine, Toxicology, Weaving, Buddhism, and Culinary Arts.</color>
+Swamp
+A dense network of wide lakes and remote streams...\n<size=10> </size>\n·Resource Output: <color=#pinkyellow>A lot of Food, Wood, and Herbs.</color>\n·Suitable for: <color=#pinkyellow>Music, Appreciation, Carpentry, Medicine, Toxicology, and Lore.</color>
+Seaside
+The seaside is boundless, and the mountains on the island stand tall...\n<size=10> </size>\n·Resource Output: <color=#pinkyellow>A lot of Ore, Jade, and Food.</color>\n·Suitable for: <color=#pinkyellow>Martial Arts, Music, Appreciation, Smithing, Gemcutting, and Lore.</color>
+Snowy Mountains
+Mountains that have been covered in snow for years, yet still haven't frozen...\n<size=10> </size>\n·Resource Output: <color=#pinkyellow>A lot of Jade, some Ore and Herbs.</color>\n·Suitable for: <color=#pinkyellow>Martial Arts, Chess, Literature, Astrology, Gemcutting, and Taoism.</color>

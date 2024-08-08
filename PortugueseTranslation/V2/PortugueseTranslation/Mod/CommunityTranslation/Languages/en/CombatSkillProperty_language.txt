@@ -1,0 +1,74 @@
+Current Power
+Power Cap
+Cast Speed
+Stance/Inhale Cost
+Ext/Int Ratio
+Inner Conversation Rate
+Total Internal Force
+Gain Internal Force
+Elemental Convertion
+Universal Slots
+Mobility Cost
+MOV·Spd
+Increase Might
+Increase Finesse
+Increase Swiftness
+Increase BRE
+Weaken Footwork
+Footwork Cost
+Increase Ext. Def.
+Increase Int. Def.
+Increase Diversion
+Increase Parry
+Increase Evasion
+Increase Focus
+Counterattack Power
+Ph Reflect
+Qi Reflect
+Reflect Range
+Duration
+Increase ATK
+Increase Accuracies
+Might Ratio
+Finesse Ratio
+Swiftness Ratio
+Attack Range
+Attack Chest
+Attack Waist
+Attack Head
+Attack Arms
+Attack Legs
+Severity of sealed acupoints
+Severity of flaws
+Apply Acritoxin
+Apply Umbritoxin
+Apply Cryotoxin
+Apply Pyrotoxin
+Apply Necrotoxin
+Apply Oneirotoxin
+Requirements
+Break Row
+Quick Row
+Aegis Row
+Nadis Row
+Requires Throw Style
+Requires Shot Style
+Requires Drive Style
+Requires Hack Style
+Requires Stab Style
+Requires Slash Style
+Requires Punch Style
+Requires Point Style
+Requires Hold Style
+Requires Sound Style
+Requires Wrap Style
+Requires Spell Style
+Requires Ware Style
+Requires Drug Style
+Requires Toxic Style
+Requires Sweep Style
+Jump Speed
+Sealing Chance
+Sealing Duration
+Increase ATK
+Increase Accuracy

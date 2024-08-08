@@ -1,0 +1,10 @@
+Vermelho
+Marrom
+Amarelo
+Verde
+Ciano
+Azul
+Tolet
+Branco
+Cinza
+Preto
