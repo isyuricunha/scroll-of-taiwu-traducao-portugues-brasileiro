@@ -9,7 +9,7 @@ return {
 	BackendPlugins = {
 		[1] = "TaiwuCommunityTranslation.Backend.dll",
 	},
-	Source = 0,
+	Source = 1,
 	FileId = 3305308095,
 	Version = "0.0.71.78",
 	GameVersion = "0.0.72.14",
@@ -33,6 +33,9 @@ return {
 			LogList = {
 				[1] = "corrigido strings\ncorrigido variaveis\nmais 10k palavras",
 			},
+		},
+		[5] = {
+			Timestamp = 1723180406,
 		},
 	},
 	ChangeConfig = false,
