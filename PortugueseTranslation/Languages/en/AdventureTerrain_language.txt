@@ -1,46 +1,46 @@
 Desconhecido
 Lugar Desconhecido...
 Montanhas
-Este é um lugar onde as montanhas são contínuas e as cristas se estendem, e olhando através das montanhas se vêem os picos.
+Este é um lugar onde as montanhas sao contínuas e as cristas se estendem, e olhando através das montanhas se vêem os picos.
 Cânion
-Os penhascos se erguem em ambos os lados do desfiladeiro, tornando-o muito majestoso e imponente, e a estrada no vale é tão íngreme que é difícil para veículos e cavalos passarem.
+Os penhascos se erguem em ambos os lados do desfiladeiro, tornando-o muito majestoso e imponente, e a estrada no vale é tao íngreme que é difícil para veículos e cavalos passarem.
 Caverna
-Cavernas formadas naturalmente no solo, penhascos e rochedos, onde os canais são tão estreitos que apenas uma pessoa consegue passar de lado, inclinando o corpo.
+Cavernas formadas naturalmente no solo, penhascos e rochedos, onde os canais sao tao estreitos que apenas uma pessoa consegue passar de lado, inclinando o corpo.
 Rio
-Os rios são lamacentos, com depósitos de sedimentos, e seus cursos d'água correm de leste a oeste, de norte a sul, percorrendo até milhares de milhas.
+Os rios sao lamacentos, com depósitos de sedimentos, e seus cursos d'água correm de leste a oeste, de norte a sul, percorrendo até milhares de milhas.
 Lago
-O lago tem águas cristalinas e correntes suaves, onde crescem muitos animais aquáticos, como plantas aquáticas, peixes e camarões.
+O lago tem águas cristalinas e correntes suaves, onde crescem muitos animais aquáticos, como plantas aquáticas, peixes e camaroes.
 Lagoa
-As lagoas são claras, estreitas e profundas, escuras e secretas, com poucos peixes e camarões crescendo nelas.
+As lagoas sao claras, estreitas e profundas, escuras e secretas, com poucos peixes e camaroes crescendo nelas.
 Cabana
-Uma cabana simples de palha, feita de sapê, gabiões de bambu e barro, usada apenas para abrigo contra o vento e a chuva.
+Uma cabana simples de palha, feita de sapê, gabioes de bambu e barro, usada apenas para abrigo contra o vento e a chuva.
 Aldeia
-Um assentamento formado por várias famílias. Os habitantes trabalham ao nascer do sol e descansam ao pôr do sol, vivendo da agricultura, tecelagem, pesca e caça.
+Um assentamento formado por várias famílias. Os habitantes trabalham ao nascer do sol e descansam ao pôr do sol, vivendo da agricultura, tecelagem, pesca e caca.
 Vila
-Um mercado populoso. Há reuniões regulares na vila, com muitas mercadorias circulando e vários shows de malabarismo e encontros.
+Um mercado populoso. Há reunioes regulares na vila, com muitas mercadorias circulando e vários shows de malabarismo e encontros.
 Flores
-Os prados estão cobertos de flores. As flores estão em plena floração, como um mar de cores, mudando de tempos em tempos, perfumando por dez milhas, e frequentemente com abelhas e borboletas esvoaçando.
+Os prados estao cobertos de flores. As flores estao em plena floracao, como um mar de cores, mudando de tempos em tempos, perfumando por dez milhas, e frequentemente com abelhas e borboletas esvoacando.
 Floresta
-Uma terra onde as árvores se reúnem. Entre elas estão árvores e arbustos com folhagem exuberante, brisas frescas, frutos perfumados e galhos altos onde pássaros e animais se alimentam.
+Uma terra onde as árvores se reúnem. Entre elas estao árvores e arbustos com folhagem exuberante, brisas frescas, frutos perfumados e galhos altos onde pássaros e animais se alimentam.
 Floresta
 Campos dispersos de grama e árvores. O terreno é aberto, verde e contínuo, onde pássaros e animais frequentemente vêm descansar.
 Acampamento
-Um lugar onde artistas marciais estão estacionados. É cercado por cercas e muros, e possui algum poder defensivo.
+Um lugar onde artistas marciais estao estacionados. É cercado por cercas e muros, e possui algum poder defensivo.
 Templo
 Templos comuns, a maioria dos quais foram doados por residentes próximos, contendo estátuas de Buda, Bodhisattvas, Reis Celestiais e Luohan.
 Templo Taoísta
-É um lugar onde monges taoístas praticam ou onde os ancestrais dos deuses e deusas taoístas são adorados e frequentemente orados pelo povo.
+É um lugar onde monges taoístas praticam ou onde os ancestrais dos deuses e deusas taoístas sao adorados e frequentemente orados pelo povo.
 Ruínas
-Um edifício ou endereço remanescente dos tempos antigos. É possível ter um vislumbre da existência do povo antigo e encontrar alguns artefatos raros deixados para trás.
+Um edifício ou endereco remanescente dos tempos antigos. É possível ter um vislumbre da existência do povo antigo e encontrar alguns artefatos raros deixados para trás.
 Selva
-Uma selva desolada, aberta e vazia. Sua terra é estéril, e as poucas ervas, árvores, pássaros e animais crescem aqui com dificuldade, enquanto as pessoas são raras.
+Uma selva desolada, aberta e vazia. Sua terra é estéril, e as poucas ervas, árvores, pássaros e animais crescem aqui com dificuldade, enquanto as pessoas sao raras.
 Ruínas
-Não sei o que aconteceu aqui, mas o edifício agora é um monte de ruínas, não mais utilizável, com apenas corvos circulando no céu como companhia.
+Nao sei o que aconteceu aqui, mas o edifício agora é um monte de ruínas, nao mais utilizável, com apenas corvos circulando no céu como companhia.
 Deserto
-O deserto é uma vasta extensão de areia amarela sem vegetação, tornando difícil a navegação sem preparação, embora ocasionalmente se encontrem oásis com água abundante e vegetação.
+O deserto é uma vasta extensao de areia amarela sem vegetacao, tornando difícil a navegacao sem preparacao, embora ocasionalmente se encontrem oásis com água abundante e vegetacao.
 Túmulo
-Os túmulos antigos escondidos deixados pelos antecessores podem conter órgãos, segredos e tesouros além dos ossos.
+Os túmulos antigos escondidos deixados pelos antecessores podem conter órgaos, segredos e tesouros além dos ossos.
 Penhasco
-Os penhascos extremamente íngremes e altos são quase impossíveis de escalar, com o ocasional pinheiro exótico e ciprestes crescendo no topo, criando uma paisagem única.
+Os penhascos extremamente íngremes e altos sao quase impossíveis de escalar, com o ocasional pinheiro exótico e ciprestes crescendo no topo, criando uma paisagem única.
 Abismo
-O abismo sem fundo é tão profundo que ninguém se atreve a olhar para dentro dele, então ninguém sabe quais perigos se escondem lá dentro.
+O abismo sem fundo é tao profundo que ninguém se atreve a olhar para dentro dele, entao ninguém sabe quais perigos se escondem lá dentro.

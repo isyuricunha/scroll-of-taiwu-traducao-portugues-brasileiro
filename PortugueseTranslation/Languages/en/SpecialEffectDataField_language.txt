@@ -2,35 +2,35 @@ MIG
 FIM
 SWI
 BRE
-Penetração Ext.
-Penetração Int.
+Penetracao Ext.
+Penetracao Int.
 DIV
 PAR
 EVA
 FOCO
 Def. Ext.
 Def. Int.
-Recuperação de Postura
-Recuperação de Inspiração
+Recuperacao de Postura
+Recuperacao de Inspiracao
 Vel. de Mov.
-Recuperação Ext.
-Vel. de Lançamento
-Recuperação Int.
+Recuperacao Ext.
+Vel. de Lancamento
+Recuperacao Int.
 CD de Troca de Arma
 Vel. de Ataque
-Bônus de Razão Int.
-Respiração Int.
+Bônus de Razao Int.
+Respiracao Int.
 Res. a Acritoxina
 Res. a Umbritoxina
 Res. a Criotoxina
 Res. a Pirotoxina
 Res. a Necrtoxina
 Res. a Oneirotoxina
-Lesão Ext.
-Lesão Int.
+Lesao Ext.
+Lesao Int.
 Humor
 Quantidade de Qi Verdadeiro Obtida
-Taxa de Recuperação de Estamina
+Taxa de Recuperacao de Estamina
 Alcance Mínimo de Ataque
 Alcance Máximo de Ataque
 Sete Instintos

@@ -5,7 +5,7 @@ Jiao Vermelho
 Jiao Amarelo
 Jiao Yin-Yang
 Jiao Relâmpago Voador
-Jiao Fogo do Trovão
+Jiao Fogo do Trovao
 Jiao Olho Dourado
 Jiao Lago Verde
 Jiao Nuvem Queimada
@@ -16,14 +16,14 @@ Jiao Osso Refinado
 Jiao Oceano Perturbado
 Jiao Nuvens Pendentes
 Jiao Profundidade Abissal
-Jiao Trovão Celestial
+Jiao Trovao Celestial
 Jiao Estrada Desolada
 Jiao Qilin
-Jiao Prisão Fantasma
+Jiao Prisao Fantasma
 Jiao Montanha Imortal
 Jiao Lago Flamejante
 Jiao Colina Ardente
-Jiao Quatro Mudanças
+Jiao Quatro Mudancas
 Jiao Cem Joias
 Jiao Mar Calmo
 Jiao Que Engole o Céu

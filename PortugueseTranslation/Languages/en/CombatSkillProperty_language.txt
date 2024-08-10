@@ -1,16 +1,16 @@
 Poder Atual
 Limite de Poder
-Velocidade de Lançamento
-Custo de Postura/Inalação
-Razão Ext/Int
-Taxa de Conversação Interna
-Força Interna Total
-Ganhar Força Interna
-Conversão Elemental
-Espaços Universais
+Velocidade de Lancamento
+Custo de Postura/Inalacao
+Razao Ext/Int
+Taxa de Conversacao Interna
+Forca Interna Total
+Ganhar Forca Interna
+Conversao Elemental
+Espacos Universais
 Custo de Mobilidade
 MOV·Vel
-Aumentar Força
+Aumentar Forca
 Aumentar Finesse
 Aumentar Agilidade
 Aumentar BRE
@@ -18,25 +18,25 @@ Enfraquecer Movimento
 Custo de Movimento
 Aumentar Def. Ext.
 Aumentar Def. Int.
-Aumentar Distração
+Aumentar Distracao
 Aumentar Defesa
-Aumentar Evasão
+Aumentar Evasao
 Aumentar Foco
 Poder de Contra-ataque
-Reflexão de Ph
-Reflexão de Qi
-Alcance de Reflexão
-Duração
+Reflexao de Ph
+Reflexao de Qi
+Alcance de Reflexao
+Duracao
 Aumentar ATK
-Aumentar Precisão
-Razão de Força
-Razão de Finesse
-Razão de Agilidade
+Aumentar Precisao
+Razao de Forca
+Razao de Finesse
+Razao de Agilidade
 Alcance de Ataque
 Ataque no Peito
 Ataque na Cintura
-Ataque na Cabeça
-Ataque nos Braços
+Ataque na Cabeca
+Ataque nos Bracos
 Ataque nas Pernas
 Gravidade dos Pontos de Acupuntura Selados
 Gravidade das Falhas
@@ -59,16 +59,16 @@ Requer Estilo de Apunhalamento
 Requer Estilo de Corte
 Requer Estilo de Soco
 Requer Estilo de Pontada
-Requer Estilo de Imobilização
+Requer Estilo de Imobilizacao
 Requer Estilo de Som
 Requer Estilo de Enrolamento
-Requer Estilo de Feitiço
+Requer Estilo de Feitico
 Requer Estilo de Arma
 Requer Estilo de Droga
 Requer Estilo Tóxico
 Requer Estilo de Varredura
 Velocidade de Salto
 Chance de Selamento
-Duração de Selamento
+Duracao de Selamento
 Aumentar ATK
-Aumentar Precisão
+Aumentar Precisao

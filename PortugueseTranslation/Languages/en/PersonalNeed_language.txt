@@ -1,6 +1,6 @@
 Restaurar Humor
 Restaurar Saúde
-Estabilizando Respiração Interna
+Estabilizando Respiracao Interna
 Restaurar Qi
 Curar
 Desintoxicar
@@ -16,11 +16,11 @@ Aprender Arte Marcial
 Aprender Habilidades para Vida
 Necessário experimentar
 Por favor, ensine e estude
-Pedir um avanço
+Pedir um avanco
 Demonstrando Afeto
 Formar uma equipe
-Buscar vingança
+Buscar vinganca
 Prestar homenagens aos falecidos
 Passar a noite juntos
 Encontrar o tesouro
-Formação de relações
+Formacao de relacoes

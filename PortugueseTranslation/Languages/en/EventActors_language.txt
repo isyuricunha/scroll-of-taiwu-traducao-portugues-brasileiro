@@ -1,6 +1,6 @@
 Jovem Desconhecido
 Donzela Desconhecida
-Criança Desconhecida
+Crianca Desconhecida
 Mulher Desconhecida
 
 
@@ -13,10 +13,10 @@ Discípulos de Emei
 Discípulos das Cem Flores
 Discípulos de Wudang
 Discípulos de Yuanshuan
-Discípulos do Portão do Leão
+Discípulos do Portao do Leao
 Discípulos de Ranshan
 Discípulos de Xuannyu
-Discípulos da Mansão da Espada
+Discípulos da Mansao da Espada
 Discípulos de Kongsang
 Discípulos do Vajrayana
 Discípulos dos Cinco Imortais
@@ -30,20 +30,20 @@ Paciente
 Lenhador
 
 Criado
-Ancião
-Irmão de Clã
-Irmã de Clã
+Anciao
+Irmao de Cla
+Irma de Cla
 Criado Demoníaco
 Cue E
 Pastor
 Guia
 Chefe de Família
 Feiticeira
-Ladrão
+Ladrao
 Benfeitor
 Inimigo
 Velha
-Criança
+Crianca
 Dignitário Prestigioso
 Adivinho
 Casamenteiro
@@ -78,7 +78,7 @@ Comerciante de Grilos
 Mendigo
 Discípulo Sênior
 Discípulo Passageiro
-Monge Ancião
+Monge Anciao
 Jovem Monge
 Insider
 Filhote de Javali da Montanha
@@ -94,7 +94,7 @@ Fazendeiro
 
 Monge Reparador de Pagoda
 Acadêmico
-Discípulos do Salão do Leão Voador
+Discípulos do Salao do Leao Voador
 Mestre Estrangeiro
 Árvore Divina da Montanha
 Árvore Divina da Caverna
@@ -122,14 +122,14 @@ Médico Divino
 
 
 
-Reflexão Vazia da Mulher Celestial
-Reflexão Cinza
+Reflexao Vazia da Mulher Celestial
+Reflexao Cinza
 O Homem de Preto
 Menina
 Sombra
-Artesão
-Irmão Mais Velho do Clã Huanlong
-Irmã Mais Nova do Clã Huanlong
+Artesao
+Irmao Mais Velho do Cla Huanlong
+Irma Mais Nova do Cla Huanlong
 Menina na Névoa
 Habitante
 Habitante
@@ -139,7 +139,7 @@ Vovó
 Menina Miao
 Jovem Miao
 Discípulo na Névoa
-Criança na Névoa
+Crianca na Névoa
 Barqueiro
 Guarda
 Pequena Sombra

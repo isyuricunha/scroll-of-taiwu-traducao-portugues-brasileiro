@@ -1,19 +1,19 @@
 Avatar de XiangShu
-Presença de XiangShu
+Presenca de XiangShu
 Avatar de Zizhu
-Coração Puro
+Coracao Puro
 Viagem com Roupa Leve
 Lei Abrangente
-Pintura Imitando Dragão
+Pintura Imitando Dragao
 Pergaminho Rasgado do Olho da Mente
 Escritura dos Oito Limites
 Livro da Sombra Escura
 Espada Divina Sem Nome
 Dez Demônios Derrotados
-Única Traçada Divide os Céus
+Única Tracada Divide os Céus
 Origem Primordial
-Nove Imitações Manuscrito Verdadeiro
-Técnica Divina de Comunicação Celestial
+Nove Imitacoes Manuscrito Verdadeiro
+Técnica Divina de Comunicacao Celestial
 Voz Absoluta da Deusa
 Mestre de Wulin
 Soberano dos Grilos
@@ -23,7 +23,7 @@ Mestre da Técnica de Chutes
 Mestre das Armas Ocultas
 Mestre da Técnica de Espada
 Mestre da Técnica de Lâmina
-Mestre da Lança
+Mestre da Lanca
 Mestres de Armas Exóticas
 Mestre das Armas Macias
 Mestre das Armas de Longa Distância
@@ -31,7 +31,7 @@ Mestre da Melodia
 Mestre Ferreiro
 Mestre Carpinteiro
 Mestre Teceiro
-Mestres Artesãos
+Mestres Artesaos
 Mestre da Medicina
 Mestre dos Venenos
 Sábio da Culinária

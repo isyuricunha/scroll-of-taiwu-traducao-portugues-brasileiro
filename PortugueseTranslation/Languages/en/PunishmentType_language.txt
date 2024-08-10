@@ -1,9 +1,9 @@
-Matar uma pessoa com reputação
-Matar pessoas de má reputação
-Matar pessoas de alta reputação
-Prisão de pessoas notórias
-Prisão de pessoas de má reputação
-Proteger pessoas de alta reputação
+Matar uma pessoa com reputacao
+Matar pessoas de má reputacao
+Matar pessoas de alta reputacao
+Prisao de pessoas notórias
+Prisao de pessoas de má reputacao
+Proteger pessoas de alta reputacao
 Matar colegas de discípulos
 Prender colegas de discípulos
 Aventura amorosa
@@ -20,20 +20,20 @@ Endurecimento de itens
 Quebrar a dieta
 Envolvido por cônjuge
 Assassinato secreto de outros
-Detenção secreta de outros
+Detencao secreta de outros
 Fazer amizade com discípulos do Shaolin
 Fazer amizade com discípulos da Escola Emei
 Fazer amizade com os discípulos do Vale das Cem Flores
 Fazer amizade com os discípulos da Seita Wudang
 Fazer amizade com um discípulo da Seita Yuanshan
-Fazer amizade com um discípulo do Clã do Rosto de Leão
+Fazer amizade com um discípulo do Cla do Rosto de Leao
 Fazer amizade com os discípulos da Seita Ranshan
 Fazer amizade com os discípulos da Seita XuanNyu
-Fazer amizade com os discípulos da Mansão da Espada
+Fazer amizade com os discípulos da Mansao da Espada
 Fazer amizade com um discípulo da Seita KongSang
 Fazer amizade com os discípulos do Vajrayana
 Fazer amizade com os discípulos do Culto dos Cinco Imortais
 Fazer amizade com os discípulos da Porta JieQing
 Fazer amizade com os discípulos do Altar Fulong
-Fazer amizade com um discípulo do Culto dos Cães de Sangue
-Forçado a pular turno durante Debates
+Fazer amizade com um discípulo do Culto dos Caes de Sangue
+Forcado a pular turno durante Debates

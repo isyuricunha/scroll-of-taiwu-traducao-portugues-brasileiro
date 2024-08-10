@@ -1,10 +1,10 @@
 Pais  
-Irmãos Juramentados  
+Irmaos Juramentados  
 Cônjuge  
 Filhos  
-Facção  
+Faccao  
 Inimigo  
 Amigo  
-Admiração  
+Admiracao  
 Mestre  
-Irmãos
+Irmaos

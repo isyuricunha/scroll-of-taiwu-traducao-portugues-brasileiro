@@ -13,9 +13,9 @@ Exorcismo Reduzido
 Limite de Cativos
 Limite de Cativos Aumentado
 Limite de Cativos Reduzido
-Preço
-Preço Aumentado
-Preço Reduzido
+Preco
+Preco Aumentado
+Preco Reduzido
 Valor
 Valor Aumentado
 Valor Reduzido

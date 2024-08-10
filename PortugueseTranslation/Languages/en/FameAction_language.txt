@@ -1,6 +1,6 @@
 Matar em público
 Punir em público
-Detenção em público
+Detencao em público
 Punir o mal
 Justo como os Céus
 Libere seu inimigo
@@ -8,8 +8,8 @@ Conflito com o bem
 Conflito com o mal
 Fazer amizade com o Bem
 Fazer amizade com o Mal
-Irmão Juramentado do Bem
-Irmão Juramentado do Mal
+Irmao Juramentado do Bem
+Irmao Juramentado do Mal
 Amar o Bem
 Amar o Mal
 Adotar o Bem
@@ -30,24 +30,24 @@ Roubar itens
 Saque de Tumbas
 Envenenar pessoas
 Retirada
-Intimidação·M
-Intimidação·P
+Intimidacao·M
+Intimidacao·P
 Vencer um duelo
 Perder um duelo
-Ações bondosas
+Acoes bondosas
 Malícia
-Ações justas
+Acoes justas
 Desrespeitoso
-Ações rebeldes
+Acoes rebeldes
 Despreocupado
-Ações egoístas
+Acoes egoístas
 Satisfatórias
-Amor não tradicional
+Amor nao tradicional
 Vulnerabilidade
 Ser Beneficiado
 Ser Reprimido
 Ser Enganado
-Ser Ameaçado
+Ser Ameacado
 Ser Elogiado
 Ser Ridicularizado
 Bom Predecessor
@@ -73,7 +73,7 @@ Tanto o bem quanto o mal
 Vitória no debate
 Derrota no debate
 Obra-prima Fabricada
-Nuvens de Vapor e Mudanças do Dragão
+Nuvens de Vapor e Mudancas do Dragao
 Tesouro Invadido
 Tesouro Saqueado
 Espalhar Bondade
