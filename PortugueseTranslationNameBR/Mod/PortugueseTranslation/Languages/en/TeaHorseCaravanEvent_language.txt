@@ -1,0 +1,36 @@
+Encontrar uma miragem
+Encontrou uma miragem, reputação aumentada
+Descobrir Selvagens
+Selvagens descobertos, reputação aumentada
+Descobrir Animais
+Animais raros descobertos, reputação aumentada
+Descobrir Plantas
+Plantas raras descobertas, reputação aumentada
+Relatar Experiências
+As experiências foram relatadas, reputação aumentada
+Descobrir um assentamento
+Um assentamento foi descoberto, reputação aumentada
+Observar o clima
+Clima raro encontrado, reputação aumentada
+Ficar Perdido
+Ficou perdido, reputação diminuída
+Encontrar ladrões
+Encontrou ladrões, algumas mercadorias foram perdidas
+Cair em um buraco
+Caiu em um buraco, algumas mercadorias foram perdidas
+Encontrar os restos de uma caravana
+Encontrou os restos de uma caravana e obteve algumas mercadorias
+Ajudar alguns viajantes
+Ajudou alguns viajantes, resultando em suprimentos reduzidos
+Mau tempo
+Enfrentou mau tempo, resultando em suprimentos reduzidos
+Receber Assistência
+Recebeu assistência e suprimentos aumentados
+Caça Selvagem Ocasional
+Caça foi encontrada e suprimentos aumentados
+Descobrir frutas da floresta
+Encontrou o bosque de frutas e suprimentos puderam ser coletados
+Descobrir uma aldeia
+Aldeias foram encontradas e suprimentos puderam ser trocados
+Encontrar uma caravana
+Quando as duas caravanas se encontraram, suprimentos puderam ser trocados

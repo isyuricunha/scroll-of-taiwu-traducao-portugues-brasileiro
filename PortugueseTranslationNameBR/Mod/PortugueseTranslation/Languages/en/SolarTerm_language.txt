@@ -1,0 +1,48 @@
+1: Início da Primavera
+Início da Primavera, as flores de ameixeira estão especialmente bonitas.
+2: Chuva de Água
+Chuva de Água, as flores de ameixeira florescem na chuva.
+3: Despertar dos Insetos
+Despertar dos Insetos, as florestas de juncos adormecidos despertam com o trovão do barulho.
+4: Equinócio da Primavera
+Equinócio da Primavera, borboletas dançam entre as flores.
+5: Claridade Pura
+Claridade Pura, pipas voam com linhas quebradas.
+6: Chuva dos Grãos
+Chuva dos Grãos, bebendo o delicado chá verde de brotos.
+7: Início do Verão
+Início do Verão, as amoras parecem cerejas.
+8: Grãos Cheios
+Grãos Cheios, os bichos-da-seda são criados e cultivados.
+9: Grãos em Espiga
+Grãos em Espiga, a pureza das sementes é julgada.
+10: Solstício de Verão
+Solstício de Verão, o arroz floresce como de costume.
+11: Calor Suave
+Calor Suave, os ventos quentes amadurecem os feijões.
+12: Grande Calor
+Grande Calor, aproveite as flores de lótus vermelhas ao lado do lago.
+13: Início do Outono
+Início do Outono, feche-se e vá dormir.
+14: Limite do Calor
+Limite do Calor, os girassóis começam a sorrir.
+15: Orvalho Branco
+Orvalho Branco, andorinhas e gansos retornam para casa.
+16: Equinócio de Outono
+Equinócio de Outono, os jardins se enchem com o aroma de canela.
+17: Orvalho Frio
+Orvalho Frio, os vegetais amadurecem nos campos à medida que o frio chega.
+18: Descida da Geada
+Descida da Geada, os catkins de junco escapam para os céus.
+19: Início do Inverno
+Início do Inverno, o inverno oferece três sinais de sorte.
+20: Neve Leve
+Neve Leve, penas de ganso caem do céu.
+21: Grande Neve
+Grande Neve, as flores de ameixeira frias se dispersam ao vento.
+22: Solstício de Inverno
+Solstício de Inverno, a pesada neve a tempo prenuncia um bom ano de colheita.
+23: Frio Suave
+Frio Suave, o viajante sente saudades de casa.
+24: Grande Frio
+Grande Frio, uma reunião acontece no final do ano.

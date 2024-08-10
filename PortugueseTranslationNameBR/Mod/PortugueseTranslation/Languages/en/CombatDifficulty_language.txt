@@ -1,0 +1,4 @@
+Normal  
+Difícil  
+Mais Difícil  
+Mortal

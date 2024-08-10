@@ -1,0 +1,10 @@
+Qi Verdadeiro Espalhado
+As perdas de {0} <color=#brightblue>são reduzidas em 30%</color>, e os ganhos <color=#brightblue>são aumentados em 60%</color>；O <color=#pinkyellow>poder das técnicas de {0}</color> <color=#brightred>é reduzido em 20%</color>；O <color=#pinkyellow>dano de retrocesso das técnicas de {0}</color> <color=#brightblue>é reduzido em 50%</color>, mas a chance de retrocesso <color=#brightred>é aumentada em 100%</color>.
+Qi Verdadeiro Desperdiçado
+As perdas de {0} <color=#brightblue>são reduzidas em 15%</color>, e os ganhos <color=#brightblue>são aumentados em 30%</color>；O <color=#pinkyellow>poder das técnicas de {0}</color> <color=#brightred>é reduzido em 20%</color>；O <color=#pinkyellow>dano de retrocesso das técnicas de {0}</color> <color=#brightblue>é reduzido em 25%</color>, mas a chance de retrocesso <color=#brightred>é aumentada em 50%</color>.
+Qi Verdadeiro Normal
+As perdas ou ganhos de {0} <color=#pinkyellow>não são afetados</color>；O <color=#pinkyellow>poder das técnicas de {0}</color> <color=#pinkyellow>não é afetado</color>；A chance e o dano de retrocesso das <color=#pinkyellow>técnicas de {0}</color> <color=#pinkyellow>não são afetados</color>.
+Qi Verdadeiro Abundante
+As perdas de {0} <color=#brightred>são aumentadas em 30%</color>, e os ganhos <color=#brightred>são reduzidos em 15%</color>；O <color=#pinkyellow>poder das técnicas de {0}</color> <color=#brightblue>é aumentado em 20%</color>；O <color=#pinkyellow>dano de retrocesso das técnicas de {0}</color> <color=#brightred>é aumentado em 50%</color>, mas a chance de retrocesso <color=#brightblue>é reduzida em 25%</color>.
+Qi Verdadeiro Ascendente
+As perdas de {0} <color=#brightred>são aumentadas em 60%</color>, e os ganhos <color=#brightred>são reduzidos em 30%</color>；O <color=#pinkyellow>poder das técnicas de {0}</color> <color=#brightblue>é aumentado em 20%</color>；O <color=#pinkyellow>dano de retrocesso das técnicas de {0}</color> <color=#brightred>é aumentado em 100%</color>, mas a chance de retrocesso <color=#brightblue>é reduzida em 50%</color>.

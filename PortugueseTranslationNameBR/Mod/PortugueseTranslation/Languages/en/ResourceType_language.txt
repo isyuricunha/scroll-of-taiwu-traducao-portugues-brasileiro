@@ -1,0 +1,16 @@
+Comida  
+Grãos comuns, aves, etc.  
+Madeira  
+Madeira comum, galhos de bambu, vinhas, etc.  
+Minério  
+Metais preciosos como ouro, ferro, cobre, etc.  
+Jade  
+Jades e pedras preciosas  
+Tecido  
+Plantas comuns, seda, pele, etc.  
+Ervas  
+Materiais medicinais comuns provenientes de vários tipos de vegetação, minério, insetos, bestas, etc.  
+Dinheiro  
+Moedas feitas no estilo da dinastia anterior.  
+Prestígio  
+O prestígio obtido pela admiração e respeito dos outros.

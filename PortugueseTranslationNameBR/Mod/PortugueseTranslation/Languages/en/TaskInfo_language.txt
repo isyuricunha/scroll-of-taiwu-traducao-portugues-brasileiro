@@ -1,0 +1,1541 @@
+Grilo cantando
+Pai Adotivo pediu para capturar <color=#orange>Grilos</color>
+Vá para um bloco com um <color=#orange>ícone de críquete</color> e clique nele. Em seguida, consuma <color=#orange>「Bug Net」</color> para comecar a capturá-lo. Nao desanime se você perder. Basta ir para outro local com um ícone de críquete e tentar novamente.
+Eu deveria pegar alguns grilos para meu pai adotivo...
+
+Macacos Feroz do Vale
+Vá e afaste o Rei Macaco
+Vá até a borda do mapa onde está o ícone <color=#orange>「Heroic Monkey」</color> e clique nele para ir ao esconderijo do Rei Macaco.
+Esses macacos machucam as pessoas, entao por que nao ir ao esconderijo deles para afastá-los...
+
+Voltar para a Cabana de Bambu
+Volte para a <color=#orange>Cabana de Bambu</color>
+Vá para <color=#orange> 「Deep Valley - Bamboo Hut」</color> e clique no ícone para abrir a aventura <color=#orange> 「Return to Bamboo Hut」</color>.
+O Pai Adotivo está me esperando há muito tempo, devo voltar para Bamboo Hut o mais rápido possível...
+
+Saída do Vale
+Vá até a borda do Deep Valley para encontrar uma saída
+Vá para <color=#orange>「Deep Valley Exit」</color> na borda do mapa Deep Valley, clique no ícone do encontro e saia de Deep Valley.
+Já que o Pai Adotivo me instruiu, eu deveria deixar Deep Valley imediatamente...
+
+Descendo o rio
+Desca o rio e saia da área
+Vá até a borda do mapa, encontre o ícone <color=#orange>「Down the river」</color> e clique nele para entrar na aventura.
+Vá até o rio e saia deste lugar assim como o Pai Adotivo me instruiu...
+
+Peca uma embarcacao
+Vá para <color=#orange>Hidden Village</color> e peca um barco emprestado
+Procure por <color=#orange>「Hidden Village」</color> no mapa. Será que há algum barco na aldeia que possa me ajudar a atravessar o rio escuro?
+Agora a única maneira de sair daqui é pegar um barco emprestado em uma vila próxima...
+
+Prato Velho
+Procure vegetais selvagens para o Velho Taoísta
+Procure <color=#orange>Vegetais Silvestres</color> pela vila e entregue-os ao Velho Taoísta.
+O velho taoísta quer vegetais silvestres, só posso procurar um pouco...
+
+Encontre o jovem
+Encontre <color=#orange>Jovem</color>
+Encontre o <color=#orange>Jovem</color> e fale com ele.
+Felizmente também posso pedir conselhos aos aldeoes daqui... Mas nao sei de onde essas pessoas sao realmente...
+
+Colhendo vegetais silvestres
+Colete <color=#orange>Comida</color>
+Quando você estiver em um bloco de recursos, selecione <color=#orange>「Coletar」</color> e selecione <color=#orange>「Recurso」</color> para obter um certo número de recursos. A quantidade de um determinado recurso será afetada pelo status do mundo e pelo tipo de recursos que as diferentes pecas produzem.
+Nao é difícil colher vegetais silvestres, colher alguns e voltar...
+
+Cozinhar pratos
+Use <color=#orange>Cozinha</color> para cozinhar alimentos
+Clique no <color=#orange>Ícone da Indústria</color> na 「Hidden Village」 para abrir a tela da indústria. Selecione o edifício <color=#orange>「Cozinha」</color>, pressione o botao <color=#orange>「Crafting」</color> e adicione uma ferramenta, recursos e um ingrediente para cozinhar um prato.
+Se você cozinhar alguns vegetais selvagens para o Velho Taoísta, poderá pegar um barco emprestado...
+
+Encontre um oficial
+Encontre um <color=#orange>oficial</color>
+Encontre um <color=#orange>Oficial</color> e converse com ele.
+
+Pegue um barco à forca
+Escolha se quer pegar o barco e sair sozinho
+Volte para <color=#orange>「Hidden Village」</color> e tome sua decisao.
+O que devo fazer agora? Devo pegar o barco e partir sozinho...
+
+Roubar um barco
+Vá ao longo do <color=#orange>Rio Negro</color>
+Depois de obter <color=#orange>「Um barco seguro」</color>, vá até a borda do mapa até o ícone <color=#orange>「Dark River」</color> para entrar em uma aventura que permitirá que você saia esta área.
+Como o barco foi obtido, siga rapidamente ao longo do rio escuro para sair e encontrar o Pai Adotivo...
+
+Pegue um barco
+Volte para a Vila Oculta e encontre um barco para sair
+Volte para <color=#orange>「Hidden Village」</color> e pegue o item <color=#orange>「Um barco seguro」</color>.
+Tantas coisas aconteceram depois que saí do vale, espero que o Pai Adotivo possa me explicar. Eu deveria pegar o barco na vila e sair deste lugar...
+
+Atravessar o rio
+Pegue <color=#orange>um barco seguro</color> e saia deste lugar
+Vá para a aventura <color=#orange>「Dark River」</color> e use o item <color=#orange>「Um barco seguro」</color> para entrar.
+Tantas coisas aconteceram depois que saí do vale, espero que o Pai Adotivo possa me explicar. Já consegui o barco, agora devo deixar este lugar...
+
+Encontre o jovem Urchiin
+Encontre <color=#orange>Jovem Ourico</color>
+Encontre o <color=#orange>Jovem Ourico</color> e fale com ele.
+
+Encontre Huanyue
+Encontre <color=#orange>Huanyue</color>
+Encontre <color=#orange>Huanyue</color> e fale com ela.
+
+Mudancas na aldeia
+Volte correndo para a <color=#orange>Pequena vila</color>
+Vá para o bloco 「Aldeia Oculta」 e clique no ícone da aventura para entrar na aventura <color=#orange>「Mudancas na vila」</color>.
+Parece que alguém ainda está na pequena aldeia! Vá e pegue-os!
+
+Expulso da aldeia
+Nesse caso é só pegar o barco e ir embora...
+
+Estacao do Exílio
+Encontre uma estacao que leva à <color=#orange>Taiwu Village</color>
+Explore o mapa e encontre uma <color=#orange>「Estacao」</color> para encontrar uma maneira de chegar à <color=#orange>「Taiwu Village」</color>.
+Deve haver uma estacao aqui que possa ir para a vila de Taiwu, preciso visitá-la o mais rápido possível...
+
+Encontre um caminho para Taiwu
+Vá para <color=#orange>Vila Taiwu</color>
+Explore o mapa e vá para <color=#orange>「Taiwu Village」</color>.
+Ouvi dizer que a Vila Taiwu está aqui, entao vamos lá rápido...
+
+Reconstruindo o Salao Ancestral
+Construa o <color=#orange>Salao Ancestral de Taiwu</color>
+No bloco 「Taiwu Village」, clique no <color=#orange>Ícone da Indústria</color> para entrar na tela da indústria. Clique no botao <color=#orange>「Construir」</color> no canto inferior direito para entrar no modo de construcao e selecione <color=#orange>「Salao Ancestral」</color>. Certifique-se de ter recursos suficientes para construí-lo. Para construí-lo, você pode selecionar manualmente os trabalhadores ou clicar no botao 「Auto Organizar」 para definir automaticamente os trabalhadores mais eficientes possíveis. Em seguida, pressione o botao 「Iniciar construcao」 e selecione o espaco disponível na tela da indústria para iniciar a construcao. Você terá que esperar um certo tempo antes que a construcao seja concluída.
+Eu deveria construir este Salao Ancestral enquanto espero o retorno do Pai Adotivo...
+
+Revitalizar Taiwu
+Crie edifícios na aldeia
+Vá para <color=#orange>「Indústria」</color> em 「Taiwu Village」 e clique em 「Construir」 para criar um edifício. Na tela 「Estudo」 você pode clicar no botao <color=#orange>「Belas Artes」</color> para estudar livros de Belas Artes e desbloquear novos edifícios baseados nos livros que você leu. Os recursos naturais crescerao e se expandirao em diferentes estacoes. Alguns edifícios específicos promoverao o crescimento dos recursos naturais. Edifícios e recursos naturais podem ser removidos acessando a aba <color=#orange>Remover</color> na tela de informacoes. Quando um edifício ou recurso é removido, você esvazia um espaco e recupera alguns recursos.
+Para revitalizar a Vila Taiwu, terei que criar alguns edifícios...
+
+Marcar localizacao
+<color=#orange>Envie aldeoes</color> para coletar recursos
+Quando você estiver em um bloco de recursos, clique no botao <color=#orange>「Enviar」</color> para enviar um aldeao da vila de Taiwu para coletar recursos daquele bloco. Clique no ícone do personagem no meio da tela de envio para enviar manualmente um aldeao específico ou clique em <color=#orange>「Envio Automático」</color> para enviar automaticamente um aldeao aleatório. Depois de despachar um aldeao, você pode selecionar um recurso específico e ganhá-lo todos os meses.
+Sao tantos recursos... Eles têm que ser reunidos através de esforcos coletivos...
+
+Notícias sobre um Imortal
+Encontre a aventura <color=#orange>「Tumba Antiga do Imortal」</color>
+Enquanto cuido da Vila Taiwu, estou procurando uma aventura <color=#orange>「Tumba Antiga do Imortal」</color>. Talvez eu deva esperar um pouco...
+Nao sei onde fica essa “Antiga Tumba do Imortal”...
+
+Antiga Tumba do Imortal
+Encontre a <color=#orange>Antiga Tumba do Imortal</color>
+A suposta <color=#orange>Tumba Antiga do Imortal</color> realmente existe. Eu deveria ir e dar uma olhada...
+Esta "Antiga Tumba do Imortal" parece estar associada a Taiwu, esta viagem pode ser capaz de responder algumas das minhas perguntas...
+
+Mistério dos Imortais
+Retorne à <color=#orange>Vila Taiwu</color>
+Retorne para <color=#orange>「Aldeia Taiwu」</color>.
+Mais e mais mistérios estao sendo resolvidos... Vamos voltar para a aldeia primeiro...
+
+Pessoa estranha apareceu
+Conheca a pessoa estranha
+Conheca a pessoa estranha perto da <color=#orange>「Taiwu Village」</color>
+Essa pessoa estranha está vindo para a Vila Taiwu?! Se eu nao estiver na aldeia, a aldeia será destruída!
+
+Pessoa estranha traz desastre
+Proteja a <color=#orange>「Aldeia Taiwu」</color>!
+Essa pessoa estranha está causando estragos na aldeia, se eu nao voltar, temo que correrei grave perigo!
+
+Avatar desastroso
+Lute contra o <color=#orange>Avatar XiangShu</color>!
+Retorne à área da <color=#orange>Vila Taiwu</color> para lutar contra o Avatar XiangShu e abrir a Tumba da Espada.
+O Avatar XiangShu está furioso, se eu nao voltar para a aldeia, temo que haja mais desastres!
+
+Estacao Taiwu
+Restaurar a <color=#orange>Estacao</color> da Vila Taiwu
+Vá para <color=#orange>「Taiwu Village-Derelict Stagecoach」</color> e entre na aventura <color=#orange>「Derelict Stagecoach」</color>.
+Por enquanto a única coisa que posso fazer é tentar reconstruir a Estacao e me comunicar com várias seitas...
+
+Visitando seitas
+Visite <color=#orange>Seitas</color> para aprender artes marciais
+Pressione <color=#orange>「Mapa Mundial」</color> na parte superior do mapa, no canto inferior direito, selecione uma seita que tenha uma Estacao aberta no menu do Mapa Mundial e gaste dinheiro e tempo para viajar até o seita. O custo aumenta com a distância percorrida. Equipar <color=#orange>「Montagens」</color> melhores pode reduzir o custo da viagem. Se você estiver viajando por uma área que nao possui uma Estacao, você precisará gastar uma certa quantia de <color=#orange>「Prestige」</color> para abrir uma Estacao naquela área. O custo do Prestígio aumenta com cada Estacao aberta.
+Vá rapidamente a várias seitas para praticar artes marciais e conspirem juntos para derrotar XiangShu!
+
+Monge Sem Rosto visita o túmulo
+Fale com o <color=#orange>Shi Shufu</color> perto da Tumba da Espada
+Vá até o bloco onde <color=#orange>Shi Shufu</color> está localizado e fale com ele para obter informacoes.
+Mestre Shi Shufu está explorando perto da Tumba da Espada, por que nao ir e ouvir o que ele encontrou...
+
+Destrua os Montes Demoníacos
+Abra a <color=#orange>Tumba da Espada</color> e conheca o <color=#orange>Avatar XiangShu</color>
+Vá para <color=#orange>「Sword Tomb」</color> para entrar na aventura. Abra o Sword Tomb e enfrente o inimigo. A batalha será extremamente perigosa, entao prepare-se com cuidado...
+As Tumbas de Espadas devem ser a chave para derrotar o XiangShu! Vou abrir as Tumbas de Espadas e descobrir!
+
+Tecelagem de Mo Nyu
+
+Vá para <color=#orange>「Sword Tomb “Weaving of Mo Nyu”」</color> e abra o Sword Tomb para enfrentar o inimigo. Aqui os pássaros pairam, a fumaca verde permanece e é extremamente perigosa...
+
+Vencer o Mal
+
+Vá para <color=#orange>「Sword Tomb “Vanquish Evil”」</color> e abra o Sword Tomb para enfrentar o inimigo. Aqui nao cresce uma única folha de grama, cheio de espíritos malignos, este lugar é extremamente perigoso...
+
+Vassalo Glacial
+
+Vá para <color=#orange>「Sword Tomb “Glacial Vessel”」</color> e abra o Sword Tomb para enfrentar o inimigo. Pingar água aqui vira gelo, esse lugar é extremamente frio e perigoso...
+
+Casulo de Fênix
+
+Vá para <color=#orange>「Sword Tomb “Phoenix Cocoon”」</color> e abra o Sword Tomb para enfrentar o inimigo. Aqui a luz dourada brilha intensamente, a fênix canta e é extremamente perigosa...
+
+Fundicao Espiritual
+
+Vá para <color=#orange>「Sword Tomb “Spirit Smelting”」</color> e abra o Sword Tomb para enfrentar o inimigo. O fogo estranho nao se apaga aqui, e cancoes tristes sao frequentemente cantadas. O perigo aqui é anormal...
+
+Anima Dracônica
+
+Vá para <color=#orange>「Sword Tomb “Draconic Anima”」</color> e abra o Sword Tomb para enfrentar o inimigo. Dragoes de inundacao vêm e vao aqui, há dragoes escondidos cantando, é extremamente perigoso...
+
+Anacoreta
+
+Vá para <color=#orange>「Sword Tomb “Anchorite”」</color> e abra o Sword Tomb para enfrentar o inimigo. Há explosoes de brilho aqui, a névoa é densa e o perigo é anormal…
+
+Acerjail Infernal
+
+Vá para <color=#orange>「Sword Tomb “Infernal Acerjail”」</color> e abra o Sword Tomb para enfrentar o inimigo. Aqui, a floresta de bordo é vermelha brilhante, a matanca é infinita, é extremamente perigoso aqui...
+
+brilho maravilhoso
+
+Vá para <color=#orange>「Sword Tomb “Wonderglow”」</color> e abra o Sword Tomb para enfrentar o inimigo. Aqui o sol brilha, o sol e a lua estao no mesmo céu, e é extremamente perigoso...
+
+Fuja daqui
+Saia daqui rapidamente!
+A terra coberta com pedras de basalto vermelho foi engolida pelos XiangShu... Saia da área, clique no botao <color=#orange>「Mapa Mundial」</color> na parte superior do mapa, no canto inferior direito, e selecione a área sem o <color=#orange>Marcador de Destruicao</color> na tela do Mapa Mundial.
+Esse lugar é muito perigoso, preciso fugir rápido!
+
+Habilidades Mundanas
+Peca a alguém de uma seita para <color=#orange>Consultar uma arte marcial</color>
+Depois de obter permissao para aprender habilidades de uma seita, converse com a pessoa que pertence a essa seita e peca-lhe que lhe ensine habilidades na guia <color=#orange>（Aprenda artes...）</color>. Clique no ícone <color=#orange>「Assentamento」</color> na parte superior do bloco da seita para ver quem pertence à seita.
+Para praticar as técnicas do mundo, para destruir as Tumbas de Espadas e erradicar o XiangShu, sou obrigado a fazê-lo como Taiwu!
+
+Praticando Arte Marcial
+<color=#orange>Pratique</color> habilidades e equipe-as na aba <color=#orange>Carregamento</color>
+Depois de obter os livros, você pode lê-los clicando no botao <color=#orange>「Estudar」</color> no canto inferior esquerdo. Você pode obter <color=#orange>「Sudden Insight」</color> aleatoriamente e usar estratégias de estudo para melhorar a eficiência da leitura. Para praticar artes marciais, vá ao menu <color=#orange>「Martial Arts」</color> e selecione <color=#orange>「Practice」</color>. Lá você pode selecionar uma habilidade que deseja praticar e gastar <color=#orange>「Tempo」</color> e <color=#orange>「Experiência」</color> para praticá-la. Prática e estudo nao entram em conflito um com o outro. Quando a porcentagem de prática de uma habilidade atinge 50%, a habilidade pode ser equipada no slot correspondente na tela <color=#orange>「Loadout」</color> para ser usada em batalha. Quando a porcentagem de prática de uma habilidade atinge 100%, você pode <color=#orange>「Breakthrough」</color> no menu <color=#orange>「Practice」</color> para aumentar seu poder e obter um <color=#orange>「Entendimento」</color> fornecido pelas páginas que você leu.
+Praticar artes marciais é difícil, mas é isso que tenho que fazer...
+
+Nível de suporte da seita
+Obtendo apoio da seita
+Você pode ver o Suporte da Seita atual no canto inferior direito da tela 「Indústria」 ou na parte superior do menu 「Seita」. O nível de habilidades e artes plásticas que serao ensinadas a você depende de quao alto é o seu Apoio à Seita.
+Se você quiser praticar técnicas mais profundas, você precisa obter um suporte de seita superior...
+
+Favor Regional
+Obtendo Favor Regional
+Você pode ver o Favor Regional atual no canto inferior direito da tela 「Indústria」 ou no ícone da área no 「Mapa Mundial」. Você pode obter Favor Regional derrotando 「Outlaws」 e destruindo os 「Outlaws Hideouts」 na área.
+Se você quiser obter mais Favor Regional, você precisa lutar contra pessoas más...
+
+Convidado imortal faz uma visita
+A primeira Tumba da Espada foi destruída, você pode retornar para<color=#orange>「Taiwu Village」</color>.
+Depois de quebrar a Tumba da Espada, por que nao voltar para a vila para ver o que mudou...
+
+Procurando manuais lendários
+Procure por <color=#orange>Manuais Lendários</color>
+Manuais Lendários serao lancados na área <color=#orange>「Legendary Manual Adventure」</color>, todos os tipos de pessoas lutarao por eles. Derrote todos eles para obter o manual ou aproveite quem o adquirir primeiro com a <color=#orange>「Legendary Manual Interaction」</color>.
+Os Manuais Lendários sem dono certamente serao contestados por especialistas de todo o mundo... Aqueles que possuem os Manuais Lendários atrairao inevitavelmente todos os tipos de pessoas...
+
+Interprete o clássico
+Decifre o <color=#orange>Manual Lendário</color>
+Clique em <color=#orange>「Manuais Lendários」</color> para entrar na interface. Ao adquirir um manual lendário, você pode consumir <color=#orange>「Experiência」</color> para abrir os bônus de atributos correspondentes e abrir os slots de efeitos especiais onde você pode colocar armas ou habilidades específicas para obter melhorias especiais; derrotar os demônios nos manuais lendários desbloqueará o resultado inovador, salvando espaco para tais habilidades.
+Esses livros estranhos definitivamente nao sao deste mundo, é como se os deuses os tivessem enviado para cá...
+
+Atraindo os mortos
+A segunda Tumba da Espada foi destruída, você deve retornar para a <color=#orange>「Taiwu Village」</color>.
+Destruiu outra Tumba da Espada, é melhor voltar para a vila para ver se alguém está visitando...
+
+Plataforma de Reencarnacao
+Construa <color=#orange>pontes de alma</color>
+Vá para a Indústria 「Taiwu Village」 e clique no botao Construir para fazer <color=#orange>「Soul Bridges」</color> usando o material principal da 「Wheel of Six Paths」. Entre na tela 「Soul Bridges」 para enviar o falecido para a reencarnacao. Expandir as 「Pontes da Alma」 aumentará o número de locais onde o falecido pode ser enviado para a reencarnacao.
+A vida e a morte sao maneiras diferentes, mas essa coisa pode enviar almas para a reencarnacao, o que é um verdadeiro milagre...
+
+Convidado imortal retorna
+A terceira Tumba da Espada foi destruída, você deve retornar para a <color=#orange>「Taiwu Village」</color>.
+Outra Tumba da Espada foi destruída, talvez seja hora de informar o Mestre Taoísta Ran Chenzi sobre isso...
+
+Bambu misterioso
+Procure a localizacao do <color=#orange>bambu misterioso</color>
+Vá para <color=#orange>「Bambu misterioso」</color> para saber mais.
+O Mestre Taoísta disse que é aqui que o Bambu Misterioso deveria estar, eu deveria dar uma olhada…
+
+Avatar Zizhu
+Faca amizade com <color=#orange>Avatar Zizhu</color>
+Procure <color=#orange>「Zizhu Avatar」</color> vagando pelo mundo e interaja com eles para melhorar sua boa vontade e aprender a causa de sua aparicao...
+Para "Iluminar suas aspiracoes, guiar seu coracao", primeiro devo me tornar amigo desta crianca...
+
+Avatar de Mo Nyu
+Faca amizade com <color=#orange>Mo Nyu</color>
+A crianca fica rodeada de pássaros, brincando e brincando, muito intimista...
+
+Avatar de Yao Chang
+Faca amizade com <color=#orange> Dayue Yao Chang</color>
+Este jovem usa equipamentos resistentes e afiados, dedicado a matar demônios e demônios, e está sempre acompanhado por soldados blindados...
+
+Avatar de Jiu Han
+Faca amizade com <color=#orange>Jiu Han</color>
+O gelo tem seus próprios usos... como moldar e esculpir...
+
+Avatar Huang'er
+Faca amizade com <color=#orange>Jin Huang'er</color>
+O espírito de uma crianca deve ser tratado com bom vinho!
+
+Avatar Yihou
+Faca amizade com <color=#orange>Yi Yihou</color>
+Prenda as flores e use uma coroa, prove o bambu e afine os cordoes, a seda crua e o brocado, tudo pela paixao do amor ardente...
+
+Avatar Wei Qi
+Faca amizade com <color=#orange>Wei Qi</color>
+Se você realmente nao sabe o que é o “Dao”, você pode muito bem seguir os antigos sábios e adorá-los...
+
+Avatar de Yi Xiang
+Faca amizade com <color=#orange>Yi Xiang</color>
+O jade da família He, a pérola do Marquês da Dinastia Sui, pode nao ser perfeito…
+
+Avatar Xue Feng
+Faca amizade com <color=#orange>Xue Feng</color>
+A imortalidade é claro que é apenas um vestido lindo, e as roupas bordadas combinam com ele…
+
+Avatar Shu Fang
+Faca amizade com <color=#orange>Shu Fang</color>
+Das escrituras à história, a boca recita o coracao, esta crianca é realmente um talento incomparável…
+
+Mudanca na tumba da espada
+As Tumbas de Espadas estao temporariamente fechadas, você deve retornar para a <color=#orange>「Taiwu Village」</color>.
+Como as Tumbas de Espadas foram seladas, é impossível destruí-las por enquanto... vamos voltar para a aldeia e fazer uma pausa...
+
+Conheca as caravanas de chá
+Construa <color=#orange>Caravanas de Chá</color>
+Entre na indústria 「Taiwu Village」 e clique no espaco de construcao, use o 「Mapa da Regiao Oeste」 para fazer o edifício <color=#orange>「Caravanas de Chá」</color>. Entre no menu 「Caravanas de Chá」, clique em <color=#orange>「Partir」</color> depois de transportar as mercadorias, e as Caravanas de Chá irao para o oeste no próximo mês. Depois de trocar tesouros raros das regioes ocidentais, você pode clicar em <color=#orange>「Voltar」</color> ou retornar sozinho à Vila Taiwu depois que todas as mercadorias forem trocadas. As Caravanas de Chá consumirao suprimentos todos os meses, e você pode parar no mesmo local para coletar suprimentos no caminho. Você precisa prestar atencao à situacao do abastecimento para evitar perda de mercadorias.
+Acho que deveria haver muitos tesouros raros nas regioes ocidentais que podem ser trocados aqui...
+
+Tesouros Ocidentais
+Presente <color=#orange>Tesouros Ocidentais</color>
+Presenteie <color=#orange>「Tesouros Ocidentais」</color> para <color=#orange>「Avatares」</color> para aumentar seu Favor.
+Os tesouros ocidentais sao tao raros que devem ser um excelente presente... Mas nao sei quem vai gostar deles...
+
+Preparando-se para a Alianca
+Auxiliar na preparacao do <color=#orange>Torneio Mundial de Artes Marciais</color>
+Durante o processo de preparacao do <color=#orange>「Torneio Mundial de Artes Marciais」</color> você pode discutir este assunto com as pessoas t3-t1 de cada seita e doar recursos. Depois que o período preparatório expirar, a seita com maior forca preparatória realizará o <color=#orange>「Torneio Mundial de Artes Marciais」</color>. Este assunto está relacionado ao destino das artes marciais, entao você deve ir participar...
+A conferência de artes marciais está sendo preparada e, quando for realizada, irei assisti-la...
+
+Torneio de Artes Marciais
+Vá para <color=#orange>Torneio Mundial de Artes Marciais</color>
+<color=#orange>「O Torneio Mundial de Artes Marciais」</color> é sobre o destino do mundo das artes marciais, entao nao deixe de comparecer quando for realizado.
+A conferência de artes marciais é extremamente importante, devo comparecer...
+
+Visita de Yufu
+Fale com <color=#orange>Ran Chenzi</color>
+Volte para a área <color=#orange>「Taiwu Village」</color> e procure por <color=#orange>Ran Chenzi</color>.
+A Flor Divina na verdade conhece o Mestre Taoísta Ran Chenzi... Devo pedir ao Mestre Taoísta para aprender mais sobre isso...
+
+Fornalha de Espada FuYu
+Abra a Tumba da Espada e recupere o <color=#orange>Fornalha de Espada FuYu</color>
+Vá para a Tumba da Espada <color=#orange>「Nome da Tumba da Espada」</color> e entre na aventura.
+A Tumba da Espada finalmente reabriu, agora posso entrar lá e recuperar a fornalha da espada...
+
+Encontre a fornalha da espada
+Descubra o mistério da <color=#orange>Fornalha de Espada Fuyu</color>
+Reserve um tempo para explorar as maravilhas do<color=#orange>"Fuyu Sword Furnace"</color>.
+Esta fornalha sagrada deve ter um mistério...
+
+Descida do Avatar de Xuanzhu
+Observe a descida do <color=#orange>Descida do Avatar de Xuanzhu</color>.
+Vá para a aventura <color=#orange>「Xuanzhu Avatar Descent」</color>.
+O que significa “Descida do Avatar de Xuanzhu”?...
+
+As duas belezas competem
+Aguarde <color=#orange>Zi Wuxiao</color>
+Aguarde <color=#orange>「Zi Wuxiao」</color>
+Agora que aquela garota Wuxiao voltou ao mundo atual, onde ela está agora…
+
+Servos ressuscitados
+Pense em como lidar com isso na <color=#orange>Vila Taiwu</color>
+Fique na <color=#orange>Vila Taiwu</color> e pense cuidadosamente em como lidar com os “Servos de Xiangshu”.
+Agora que os Servos de XiangShu apareceram... o mundo está um caos... Temo que algo estranho aconteca...
+
+Exterminar os servos
+Enfrente os <color=#orange>Servos XiangShu</color>
+Vá para a <color=#orange>「Terra Destruída」</color>, conheca os poderosos <color=#orange>「Servos XiangShu」</color> e derrote-os.
+Xu Xiangong foi roubado... Agora a única maneira é enfrentar os Servos XiangShu...
+
+Xu Xiangong mostra o caminho
+Volte para a <color=#orange>「Taiwu Village」</color>.
+Como posso matá-los sozinho? Vamos voltar para a vila de Taiwu para ver se alguém tem uma solucao...
+
+A Terra do Divino
+Vá para <color=#orange>A Terra do Divino</color>
+Quando a aventura <color=#orange>「A Terra do Divino」</color> aparecer, vá e entre nela.
+Depois que Xu Xiangong me mostrar o caminho para a Terra do Divino, irei imediatamente para o reino Xuan Shi e recuperarei a lâmina da espada!
+
+Luz de Selamento Demoníaco
+Vá para <color=#orange>Luz Seladora de Demônio</color>
+Entre na aventura <color=#orange>「Demon Sealing Light」</color>.
+É por pouco, entao corra para a luz divina, incorpore as espadas divinas e sele o demônio!
+
+
+Vá para 「Demon Sealing Light - Mo Nyu」 e incorpore sua espada divina.
+
+
+
+Vá para 「Demon Sealing Light - Vanquish Evil」 e incorpore sua espada divina.
+
+
+
+Vá para 「Demon Sealing Light - Glacial Vassal」 e incorpore sua espada divina.
+
+
+
+Vá para 「Demon Sealing Light - Phoenix Cocoon」 e incorpore sua espada divina.
+
+
+
+Vá para 「Demon Sealing Light - Spirit Smelting」 e incorpore sua espada divina.
+
+
+
+Vá para 「Demon Sealing Light - Draconic Anima」 e incorpore sua espada divina.
+
+
+
+Vá para 「Demon Sealing Light - Anchorite」 e incorpore sua espada divina.
+
+
+
+Vá para 「Demon Sealing Light - Infernal Acerjail」 e incorpore sua espada divina.
+
+
+
+Vá para 「Demon Sealing Light - Wonderglow」 e incorpore sua espada divina.
+
+
+Buda sem limites
+Viaje pelo mundo <color=#orange>para visitar todos os templos</color>
+Vá às <color=#orange>cidades e vilas</color> em diversas regioes do mundo para homenagear os templos. A maioria dos templos está localizada na <color=#orange>área principal da cidade</color> da regiao, e alguns templos estao espalhados em <color=#orange>outras áreas</color>.
+A poeira do mundo, as areias do rio Ganges, as escrituras podem estar longe, ou mesmo debaixo dos seus pés...
+
+Templos Jingji
+
+Viaje para <color=#orange>Jingji</color> para visitar os templos.
+
+Templos Bashu
+
+Viaje para <color=#orange>Bashu</color> para visitar os templos.
+
+Templos de Guangnan
+
+Viaje para <color=#orange>Guangnan</color> para visitar os templos.
+
+Templos Jingbei
+
+Viaje para <color=#orange>Jingbei</color> para visitar os templos.
+
+Templos de Shanxi
+
+Viaje para <color=#orange>Shanxi</color> para visitar os templos.
+
+Templos de Guangdong
+
+Viaje para <color=#orange>Guangdong</color> para visitar os templos.
+
+Templos de Shandong
+
+Viaje para <color=#orange>Shandong</color> para visitar os templos.
+
+Templos de Jinnan
+
+Viaje para <color=#orange>Jingnan</color> para visitar os templos.
+
+Templos de Fujian
+
+Viaje para <color=#orange>Fujian</color> para visitar os templos.
+
+Templos de Liaodong
+
+Viaje para <color=#orange>Liaodong</color> para visitar os templos.
+
+Templos Ocidentais
+
+Viaje para o <color=#orange>Oeste</color> para visitar os templos.
+
+Templos de Yunnan
+
+Viaje para <color=#orange>Yunnan</color> para visitar os templos.
+
+Templos de Huainan
+
+Viaje para <color=#orange>Huainan</color> para visitar os templos.
+
+Templos de Jiangnan
+
+Viaje para <color=#orange>Jiangnan</color> para visitar os templos.
+
+Templos de Jiangbei
+
+Viaje para <color=#orange>Jiangbei</color> para visitar os templos.
+
+Teste de Veneno
+Aceite o pedido do <color=#orange>Mestre da Seita Kongsang</color>
+Aceite o pedido do <color=#orange>Mestre da Seita Kongsang</color> para ajudar Liao Wuming com um teste de veneno.
+Eu me pergunto o que há de tao estranho nesse teste de veneno...
+
+A Pesquisa de Wuming
+Fale com <color=#orange>Liao Wuming</color> após localizá-lo
+Fale com <color=#orange>Liao Wuming</color>, entao <color=#orange>espere</color> até que ele encontre um candidato para o teste de veneno antes de ir ajudar.
+Liao Wuming quer testar o veneno, entao ele precisa encontrar um candidato adequado...
+
+Teste de drogas de Wuming
+Vá para <color=#orange>{0}</color> para ajudar Liao Wuming a testar o veneno.
+Liao Wuming enviou uma carta dizendo que finalmente encontrou uma cobaia para testar veneno em <color=#orange>{0}</color>, vá e ajude-o.
+Já que Liao Wuming encontrou uma cobaia, irei ajudar…
+
+Procure o Mestre da Seita
+Retorne à <color=#orange>Seita Kongsang</color> e fale com o Mestre da Seita
+Retorne à <color=#orange>Seita Kongsang para falar com o Mestre da Seita</color> e informe-os sobre como foi o teste de veneno.
+Este assunto é estranho, será que o veneno estranho nao foi refinado…
+
+<color=#orange>Espere</color> enquanto Liao Wuming procura alguém.
+<color=#orange>Espere calmamente</color> que Liao Wuming termine de encontrar uma cobaia.
+Eu me pergunto quem Liao Wuming encontrará desta vez…
+
+
+Retorne à <color=#orange>Seita Kongsang</color>,<color=#orange>visite seu Mestre da Seita</color> e conte o que aconteceu durante o teste de veneno.
+Eu me pergunto como a Seita Kongsang reagirá ao assunto de Liao Wuming...
+
+
+Vá para <color=#orange>{0}</color> para encontrar Liao Wuming
+
+Retorne à <color=#orange>Seita Kongsang</color>,<color=#orange>visite seu Mestre da Seita</color> e conte-lhes sobre a experiência de testar aquele veneno.
+O teste de veneno é realmente estranho, é melhor eu perguntar ao Mestre da Seita sobre isso...
+
+Procurando por Wuming
+Fale com <color=#orange>Liao Wuming</color>
+Fale com <color=#orange>Liao Wuming</color> e pergunte a ele sobre o estranho veneno.
+“Veneno estranho” é realmente estranho, mas é realmente “veneno”...
+
+Veneno Estranho Concluído
+Retorne à <color=#orange>Seita Kongsang</color> e reporte-se ao Mestre da Seita
+O estranho veneno foi concluído, retorne à <color=#orange>Seita Kongsang</color>, <color=#orange>visite seu Mestre da Seita</color> e informe sobre a conclusao do trabalho de teste de veneno.
+Vamos encontrar o chefe da Kongsang para contar o assunto...
+
+Paradeiro do falecido
+Velho amigo vai embora, nunca experimentando uma vida preciosa
+「Aqueles que sao incapazes de alcancar a imortalidade sao como efêmeras para o mundo.」Com o desaparecimento de Liao Wuming, sua sobrevivência é incerta. Será que poderemos nos encontrar novamente no futuro?
+Com o desaparecimento do velho amigo, me pergunto se poderemos nos encontrar novamente no futuro...
+
+A Morte da Vida Eterna
+Entre na aventura <color=#orange>"A Morte da Vida Eterna"</color>
+Vá para <color=#orange>「Kongsang Mountain」</color> e entre na aventura <color=#orange>「A Morte da Vida Eterna」</color>.
+Acho que o destino do velho amigo nao acabou, ainda dá tempo de nos reencontrarmos...
+
+Coveiro Sangrento
+Vá para <color=#orange>Bloodhound Cult</color> e cave uma sepultura
+Vá para <color=#orange>Bloodhound Cult</color> e interaja com o túmulo de qualquer <color=#orange>membro do Bloodhound Cult</color> para realizar <color=#orange>「Escavacoes de sepulturas」</color> em para investigar o problema dos fantasmas.
+Há rumores estranhos de fantasmas no Vale Blood Hou, talvez eu deva ir investigar...
+
+Sino quebrado
+Vá para <color=#orange>Vale Blood Hou</color>
+<color=#orange>Broken Bell</color> está profundamente relacionado ao Blood Hou Valley, proceda com cautela se decidir investigá-lo.
+Este sino parece estranho, devo ter cuidado...
+
+Velho estranho
+Fique em <color=#orange>Vale Blood Hou</color>
+Esse Velho de Vermelho é bem estranho, talvez eu deva ficar em <color=#orange>Vale Blood Hou</color> para investigar.
+O que o Velho de Vermelho quis dizer quando falou sobre o patriarca...
+
+Velho de vermelho
+Fale cautelosamente com o <color=#orange>Velho de Vermelho</color>
+<color=#orange>Velho de Vermelho</color> apareceu e tive uma conversa cautelosa com ele.
+Esse Velho de Vermelho realmente nao é uma pessoa comum, é melhor tomar cuidado...
+
+Investigar a Luz Sangrenta
+Fique em <color=#orange>Bloody Light<color=#orange> por um mês
+Fique na <color=#orange>Bloody Light</color> e espere o <color=#orange>Velho de Vermelho</color> aparecer.
+O Velho de Vermelho seguiu a campainha e teve que ficar no Farol Sangrento...
+
+O Túmulo dos Mortos
+Entre na aventura <color=#orange>"A Tumba dos Mortos"</color>
+Entre na aventura <color=#orange>"A Tumba dos Mortos"</color>.
+Há uma tumba antiga onde a Luz do Sangue desapareceu, deixe-me explorá-la cuidadosamente...
+
+Ji Xi retorna
+Retorne à <color=#orange>Aldeia Taiwu</color> junto com Ji Xi
+Retorne à <color=#orange>Vila Taiwu</color> junto com Ji Xi. Este corpo parece ter muito a ver com Ji Xi, se você acidentalmente <color=#orange>passar a espada</color>, mais tarde poderá causar consequências irreparáveis.
+Como Ji Xi nao tem onde morar, é melhor levá-la para a vila de Taiwu, para que alguém possa cuidar dela...
+
+Fique na Vila
+Fique na <color=#orange>Taiwu Village</color> para acompanhar Ji Xi
+Fique na <color=#orange>Taiwu Village</color> para acompanhar Ji Xi.
+Ji Xi está sozinha, entao eu deveria ficar com ela na aldeia e nao viajar para muito longe...
+
+Mistério complicado
+Vá para <color=#orange>Mistério complicado</color>
+Quando a aventura <color=#orange>Tricky Mystery</color> aparecer, vá até lá para investigar os estranhos acontecimentos na vila e fique na vila de Taiwu para acompanhar Ji Xi pelo resto do tempo.
+Coisas estranhas parecem acontecer na aldeia, eu deveria ir investigar...
+
+Monstro da Aldeia
+
+Quando um monstro tao maligno apareceu na vila de Taiwu...
+
+
+Fantasmas comedores de gente
+
+Fantasmas canibalizam pessoas, será mesmo obra de Ji Xi...
+
+
+Fantasma Feminino lidera o caminho
+
+Qual é o propósito do fantasma feminino me trazendo aqui...
+
+
+Fantasma Feminino da Meia-Noite
+
+O fantasma feminino da meia-noite, poderia mesmo ser Ji Xi...
+
+
+Velho conhecido em vermelho
+
+O pano era originalmente vermelho e parece familiar...
+
+
+Ji Xi prejudica as pessoas
+
+Será que Ji Xi realmente machucou alguém...
+
+
+Duvidoso e Triste
+<color=#orange>Acontecimentos estranhos na vila</color> podem ser resolvidos
+Existe uma solucao para os estranhos acontecimentos na aldeia. Devo esperar alguns dias para descobrir como resolver isso corretamente ...
+Os estranhos acontecimentos na aldeia devem ser devidamente resolvidos...
+
+Procurando por Ji Xi
+Vá para <color=#orange>{0}</color> para encontrar Ji Xi
+Vá para <color=#orange>{0}</color> para encontrar Ji Xi e falar com ela.
+Já que Ji Xi deixou a vila de Taiwu, por que nao perguntar a ela sobre isso...
+
+Desabamentos da Floresta do Pagode
+Fale com pessoas de <color=#orange>Shaolin</color>
+Fale com as pessoas <color=#orange>Shaolin</color> e <color=#orange>pergunte</color> sobre o colapso da floresta Pagoda
+A Floresta do Pagode está desmoronando, eu me pergunto por que...
+
+Escultura de madeira podre
+Segure Dirty Sculpture e <color=#orange>espere pela oportunidade</color>
+Um pequeno monge confiou a você <color=#orange>devolver a Escultura Suja para Shaolin</color>; No entanto, os colapsos na Floresta do Pagode nao foram nada comuns, entao talvez você consiga encontrar uma <color=#orange>oportunidade</color>, entao por que nao guardá-la por enquanto e <color=#orange>esperar calmamente </color> para uma oportunidade de ouro.
+Talvez esta escultura esconda um segredo profundo, é melhor esperar por agora e observá-lo com atencao...
+
+Devolva a estátua
+Devolva a <color=#orange>Escultura Suja</color> para Shaolin
+<color=#orange>Interaja</color> com um personagem Shaolin para devolver a <color=#orange>Escultura Suja</color> para Shaolin.
+A oportunidade do sonho acabou, e o caminho do Zen e das artes marciais foi cultivado…
+
+Som da meia-noite de Guqin
+<color=#orange>Espere calmamente</color> por um tempo
+Esta situacao é confusa, entao por que nao <color=#orange>esperar calmamente</color> por um momento melhor.
+Essa melodia de Xuannyu e a palavra amor sao realmente difíceis de entender…
+
+Carta de Azure Luan
+<color=#orange>Espere calmamente</color> por uma carta misteriosa
+<color=#orange>Aguarde</color> uma carta misteriosa carimbada com o selo do Luan Azul.
+O remetente desta carta é bastante misterioso. Você precisa prestar mais atencao ao Selo de Azure Luan no futuro...
+
+História de velhos amigos
+Vá e <color=#orange>examine vilas e cidades próximas ao Pico Xuannyu</color>
+Vá e <color=#orange>visite vilas e cidades próximas ao Pico Xuannyu</color> e <color=#orange>interaja com os habitantes locais</color> para saber mais sobre a pessoa misteriosa.
+É muito triste saber que essa pessoa faleceu e tao pouco se sabe sobre ela...
+
+Descobrindo mais
+<color=#orange>Encontre Yun'er</color> para saber mais
+<color=#orange>Encontre Yun'er</color> mais uma vez para saber mais sobre a situacao
+De repente ouvi um som triste no topo do Pico Xuannyu, nao sei se é bom ou ruim...
+
+Luan solitário no espelho
+Entre na aventura <color=#orange>"Lonely Luan in the Mirror"</color>
+Entre na aventura <color=#orange>"Lonely Luan in the Mirror"</color>. Você também pode <color=#orange>Interagir com as pessoas da Seita Xuannyu</color> para perguntar sobre a pessoa misteriosa e o "Espelho de Balada de Lone Luan".
+Ouvi dizer que essa pessoa costumava ir ao topo do Pico Xuannyu para tocar cítara, entao por que nao ir e prestar meus respeitos...
+
+Procure por Yun'er
+Vá para Jade Mirror <color=#orange>para procurar Yun'er</color>
+Se mudar de ideia, você pode ir para a Seita Xuannyu, abrir sua Indústria e clicar no bloco <color=#orange>Espelho de Jade</color> <color=#orange>para procurar por Yun'er</color>.
+No Espelho de Jade, Yun'er me confiou a tarefa de encontrar alguém, sobre o qual eu possa pensar...
+
+Pratique no espelho
+Vá para a Seita Xuannyu, abra sua Indústria e clique no bloco <color=#orange>Espelho de Jade</color> <color=#orange>para procurar Yun'er e entre no espelho para praticar</color>.
+A jovem Yun'er quer ensinar umas às outras as habilidades de Xuannyu. Pode ser uma boa ideia visitá-la perto do Espelho de Jade.
+
+Jade Mirror torna-se espiritual
+Entre na aventura <color=#orange>"A Bright Fairyland"</color>
+Entre na aventura <color=#orange>"A Bright Fairyland"</color>.
+Jade Mirror parece estar reagindo, talvez isso possa nos ajudar a encontrar a localizacao da Irma Sênior...
+
+Procurando por mil Li
+Vá para <color=#orange>{0}</color>
+Vá para <color=#orange>{0}</color> e procure por uma pessoa a quem a alma da Irma Sênior se apegou.
+Jade Mirror revelou onde a Irma Sênior está localizada, agora é a hora de ir procurá-la...
+
+Reuniao Inesperada
+<color=#orange>Aguarde calmamente </color> por uma reuniao em {0}
+<color=#orange>Aguarde calmamente </color> por uma reuniao em {0}.
+Parece que finalmente encontrei a pessoa que Yun'er procurava, mas por que meu coracao está tao inquieto...
+
+Treinamento heterodoxo
+<color=#orange>Avanco Heterodoxo</color> de uma técnica da Seita Wudang
+Faca uma <color=#orange>Avanco Heterodoxo</color> de qualquer técnica da Seita Wudang para levar o Taoísta até você.
+Nao sei quem é esse taoísta. Se eu praticar uma versao heterodoxa da técnica da seita Wudang, ele realmente aparecerá?
+
+Espere pelo taoísta
+<color=#orange>Espere calmamente</color> pelo Daoísta Desgrenhado
+O Taoísta Desgrenhado é misterioso e imprevisível, entao é melhor <color=#orange>esperar calmamente</color>.
+Este assunto é estranho, nao sei o que o Daoísta Desgrenhado quer…
+
+Carta do sacerdote taoísta
+Fale com <color=#orange>Taoísta Desgrenhado</color>
+Visite a <color=#orange>Seita Wudang</color> e fale com o <color=#orange>Taoísta Desgrenhado</color>.
+Vamos para a Seita Wudang para conhecer o Daoísta Desgrenhado...
+
+Visite a caverna
+
+Vá para <color=#orange>{0}</color> para examinar as Cavernas Celestiais.
+
+
+Entregue o Tesouro Espiritual
+
+Visite a Seita Wudang e entregue o tesouro espiritual ao <color=#orange>Taoísta Desgrenhado</color>.
+
+
+Informe-se em Wudang
+Interaja com um <color=#orange>membro da seita Wudang</color>
+A questao do Daoísta Desgrenhado acabou. Interaja com um <color=#orange>membro da Seita Wudang</color> e peca a opiniao da Seita Wudang sobre este assunto.
+Agora que o assunto acabou, irei à Seita Wudang para perguntar…
+
+Distracoes da Prisao de Pedra
+Depois de interagir com a Prisao de Pedra, pergunte ao mestre da seita de Yuanshan
+
+
+
+Diferencas na prisao de pedra
+Há um problema com a Prisao de Pedra de Yuanshan
+
+
+
+Yuanshan duvidoso
+Há algo suspeito em Yuanshan
+
+
+
+Procurando pelo Grande Mestre
+Um acidente aconteceu em Yuanshan, precisamos encontrar o mestre da seita
+
+
+
+Apoie os Três Demônios
+Vá para a aventura 【Apoie os Três Demônios】
+
+
+
+Conflito entre estas tarefas: Prometa ao mestre da seita apoiar os Três Demônios
+
+
+
+Informe o mestre da seita sobre os verdadeiros pensamentos dos Três Demônios
+
+
+
+Conspirar com um tigre pela sua pele
+A jogada de Yuanshan é perigosa
+
+
+
+Estreito Direto
+Yuanshan parece ter sofrido um acidente
+
+
+
+Negociacao com os Três Demônios
+Vá para a aventura 【Negociacao com os Três Demônios】
+
+
+
+Exterminar os Três Demônios
+Os Três Demônios nascem, extermine-os antes que seja tarde demais
+
+
+
+Após as negociacoes com os Três Demônios, eles nao abandonaram os espíritos malignos. Vá e encontre o mestre da seita
+
+
+
+Espíritos malignos estao adormecidos
+Os espíritos malignos estao adormecidos, por enquanto é só esperar
+
+
+
+Exterminar Espíritos Malignos
+Mate o último demônio
+
+
+
+Movimento da Face do Leao
+<color=#orange>Assista com calma</color> aos estranhos acontecimentos no Cla Cara de Leao
+O comportamento dos discípulos do Cla Cara de Leao é estranho, entao você também pode <color=#orange>observar com calma</color>.
+A grande arte mencionada pelo Cla Cara de Leao é tao misteriosa que nao sei que tipo de problema está surgindo lá...
+
+Arte final da cara de leao
+Entre na aventura <color=#orange>"Ultimate Art of Lion Face"</color>
+Entre na aventura <color=#orange>"Ultimate Art of Lion Face"</color>. Se você nao participar da aventura, terá que esperar <color=#orange>3 meses</color> para que a aventura apareca novamente.
+O Cla Cara de Leao parece muito animado, por que nao dar uma olhada...
+
+Espere e veja o que acontece
+<color=#orange>Aguarde calmamente</color> pelas notícias do Cla Cara de Leao
+O assunto do Cla Cara de Leao parece ter chegado ao fim, entao é melhor <color=#orange>aguardar as notícias</color>. Ou você pode aproveitar seu tempo livre para conversar com <color=#orange>Acadêmicos da província de Guangdong</color> para descobrir toda a história da Face do Leao.
+Entao é isso que é a Arte Suprema do Cla Cara de Leao. Eu me pergunto como isso vai mudar no futuro...
+
+Explorando a cara do leao
+Vá para <color=#orange>Lion Face</color> para investigar
+Algo parece ter acontecido no Cla Cara de Leao, e os Fora da Lei estao desenfreados na Montanha Lótus. Vá para a área <color=#orange>Lion Face</color> para investigar.
+Nao recebi uma carta do Cla Cara de Leao, me pergunto o que aconteceu com eles...
+
+Investigar bandidos
+Vá para <color=#orange>Cla Cara de Leao</color>
+Vá para <color=#orange>Cla Cara de Leao</color> para discutir a questao dos Foras da Lei.
+Os bandidos estao desenfreados e o Cla Cara de Leao eventualmente precisará agir. Esse assunto precisa ser discutido urgentemente...
+
+Espere com calma por boas notícias
+<color=#orange>Aguarde calmamente</color> por boas notícias do Cla Cara de Leao
+Por enquanto <color=#orange>Aguarde calmamente</color> pelas boas notícias do Cla Cara de Leao.
+Já que o Mestre do Salao Lei Kun recebeu ordem de expulsar os bandidos, eu deveria apenas esperar pelas boas notícias...
+
+Cara de Leao é diferente
+<color=#orange>Observe com calma</color> o que está acontecendo no Cla Cara de Leao
+Tem havido muitas coisas estranhas acontecendo no Cla Cara de Leao recentemente, entao <color=#orange>eu deveria observá-las com calma</color>.
+A origem de Lei Kun, o mestre do Flying Lion Hall, é desconhecida, e ele provavelmente nao é uma pessoa gentil…
+
+Eliminando Traidores
+<color=#orange>Aniquile</color> os traidores do Cla Cara de Leao o mais rápido possível
+<color=#orange>Aniquile rapidamente</color> os <color=#orange>discípulos do Salao do Leao Voador</color> nas proximidades do Cla Cara de Leao. Se você demorar mais de <color=#orange>3 anos</color>, a situacao se tornará irrevogável!
+Os discípulos do Flying Lion Hall cometem todo tipo de maldade, o que é intolerável!
+
+Banir Estrangeiros
+Junto com o pessoal do Cla Cara de Leao, <color=#orange>expulse</color> os inimigos estrangeiros
+Os discípulos do Cla Cara de Leao estao destruindo os <color=#orange>especialistas estrangeiros</color> perto do Cla Cara de Leao. Você pode escolher <color=#orange>ajudar os discípulos do Cla Cara de Leao</color> a eliminar mais inimigos e competir com eles para ver quem mata mais.
+Mas os generais voadores da Cidade do Dragao estao aqui, e os traidores estrangeiros nao sao ensinados a cruzar as Montanhas Yin!
+
+Participando do banquete comemorativo
+Vá para o <color=#orange>Cla Cara de Leao</color> e participe de um banquete comemorativo.
+O Cla Cara de Leao me convidou para um banquete e, naturalmente, é difícil recusar...
+
+As acoes malignas do Vajrayana
+Vá para <color=#orange>Vajrayana</color> para investigar
+Visite <color=#orange>qualquer cidade ou vila no Vajrayana</color> para examinar os danos sofridos pelos moradores.
+Os residentes daqui parecem ter sofrido muito nas maos do Vajrayana, mas ainda assim temem falar abertamente...
+
+Vá para o Vajrayana
+Visite a <color=#orange>Seita Vajrayana</color>
+Visite a <color=#orange>Seita Vajrayana</color> e faca uma visita ao Eminente Monge.
+Ouvi dizer que o eminente monge das regioes ocidentais chegou ao Vajrayana. É uma boa oportunidade para fazer uma visita...
+
+Mistério das Escrituras Antigas
+Vá para a aventura 「Mistério das Escrituras Antigas」 de <color=#orange>Qinzhou</color>
+Vá para <color=#orange>{0}</color> e entre na aventura <color=#orange>「Ancient Scripture Mystery」</color>.
+Já que já concordei com o pedido do Vajrayana, por que nao explorar o antigo mosteiro...
+
+Assunto da Regiao Oeste
+Vá para o <color=#orange>Oeste</color> e explore todos os lugares
+Vá para o <color=#orange>Oeste</color> e <color=#orange>explore as áreas dentro dele</color>.
+Nos últimos dias tenho me sentido tonto e impotente sem motivo algum, isso é muito estranho...
+
+Entre na <color=#orange>Plataforma de Reencarnacao</color> e ajude o Eminente Monge a reencarnar
+Entre na tela da Indústria da Vila Taiwu, interaja com o edifício <color=#orange>「Plataforma de Reencarnacao」</color> e ajude o Eminente Monge a reencarnar em qualquer caminho.
+A alma do Eminente Monge continua me seguindo o dia todo, eu deveria visitar rapidamente a Plataforma de Reencarnacao para ajudá-lo a reencarnar...
+
+Espere pela Reencarnacao
+<color=#orange>Espere</color> pela reencarnacao do Eminente Monk
+Depois de enviar o Eminente Monge para a Plataforma de Reencarnacao, o <color=#orange>Progresso da Reencarnacao</color> será acumulado com o tempo. Quando estiver cheio, você poderá clicar no botao <color=#orange>「Reencarnacao」</color> na Plataforma de Reencarnacao para ajudar o Eminente Monge a reencarnar.
+A reencarnacao do Eminente Monge ainda requer algum tempo, posso muito bem meditar enquanto espero...
+
+Vá para o Vajrayana
+Visite <color=#orange>Vajrayana</color> para investigar
+Visite <color=#orange>várias cidades e vilarejos do Vajrayana</color> para procurar os monges eminentes e ajudá-los a sair de sua situacao difícil.
+Estou indo para o Vajrayana, na esperanca de encontrar uma maneira de ajudar os eminentes monges a escapar de sua situacao difícil...
+
+Eminente Monge Matéria
+Vá para a <color=#orange>Seita Vajrayana</color> para perguntar sobre o assunto do Eminente Monge
+Visite a <color=#orange>Seita Vajrayana</color> para perguntar sobre o assunto do Eminente Monge. Você também pode interagir com a <color=#orange>populacao local</color> para perguntar sobre ocorrências recentes.
+O assunto do Eminente Monge das Regioes Ocidentais é apenas um boato, entao ainda preciso encontrar alguém para investigar...
+
+Ajudar na Pregacao das Escrituras
+<color=#orange>Divulgue segredos</color> para ajudar o Eminente Monge a divulgar as escrituras
+Interaja com outros personagens e use o segredo <color=#orange>「Passando Escrituras」</color>. Como é muito raro que monges eminentes preguem as escrituras, aqueles que ouvem sobre esse segredo irao espalhá-lo para outras pessoas repetidas vezes. Dessa forma, você poderá apenas <color=#orange>esperar</color> que as pessoas divulguem isso de boca em boca e dentro de alguns meses esse segredo deverá se tornar público. A Seita Vajrayana é implacável e cobica as preciosas escrituras há muito tempo, por isso pode ser <color=#orange>cauteloso</color> em relacao a esse segredo.\nEnquanto espera que as palavras se espalhem, você também pode conversar para a alma do Eminente Monge na Plataforma de Reencarnacao.
+No momento estou ajudando um Eminente Monge a divulgar as escrituras, mas ainda preciso pensar cuidadosamente sobre como agir no futuro...
+
+Negócios Vajrayana
+<color=#orange>Espere</color> até que o assunto Vajrayana seja resolvido
+Como nunca concordei em ajudar a Seita Vajrayana a encontrar as escrituras, eu deveria apenas <color=#orange>esperar</color> até que esse assunto seja resolvido.
+A Seita Vajrayana se comporta de uma forma que irrita a todos, no final eles sofrerao as consequências de suas próprias acoes...
+
+Onde está o Eminente Monge?
+Abandonado
+
+
+
+Entregando Estrutura
+Visite a <color=#orange>Seita Vajrayana</color> para entregar as escrituras, a fim de encerrar sua busca pelas escrituras.
+Agora tudo o que tenho que fazer é entregar as escrituras à Seita Vajrayana para resolver este assunto...
+
+Devolva as Escrituras
+
+
+
+Escrituras verdadeiras sem palavras
+<color=#orange>Aguarde</color> por notícias da Seita Vajrayana
+A Seita Vajrayana já obteve a escritura, devo apenas <color=#orange>esperar</color> por novidades.
+A Seita Vajrayana obteve a escritura, mas nao sei o que acontecerá no futuro...
+
+Banho Secreto dos Cinco Santos
+Mais uma vez visite o <color=#orange>「Banho Secreto dos Cinco Santos」</color>
+Fale com os personagens T3 do Culto dos Cinco Imortais ou entre na tela da Indústria do Culto dos Cinco Imortais, clique no edifício <color=#orange>「Five Poisons Bath Valley」</color> e selecione Taiwu para interagir com o <color=# laranja>「Banho Secreto dos Cinco Santos」</color> servico da seita.
+O Banho Secreto dos Cinco Santos é realmente milagroso, é melhor ir lá mais uma vez...
+
+Tratamento de Cem Flores
+Visite o <color=#orange>Vale das Cem Flores</color> em busca de um tratamento
+Vá para as <color=#orange>áreas próximas ao Vale das Cem Flores</color> para procurar um tratamento para Ran Xindu.
+As habilidades médicas de Hundred Flowers sao incomparáveis ​​no mundo, elas definitivamente serao capazes de diagnosticar e curar a doenca de Ran Xindu...
+
+Procurando por Ran Xindu
+Interaja com <color=#orange>Ran Xindu</color>
+Interaja com o <color=#orange>Ran Xindu</color>, que está localizado nas proximidades do Culto dos Cinco Imortais.
+Agora que concordei com o pedido da Freira Sacren, vamos ver Ran Xindu...
+
+Tratamento Kongsang
+Visite a <color=#orange>Seita Kongsang</color> em busca de um tratamento
+Vá para as <color=#orange>áreas próximas à Seita Kongsang</color> para procurar um tratamento para Ran Xindu.
+Os medicamentos secretos de Kongsang sao famosos em todo o mundo, eles definitivamente serao capazes de diagnosticar e curar a doenca de Ran Xindu...
+
+Carta de Ran Xindu
+<color=#orange>Aguarde</color> pelas notícias de Ran Xindu
+Ran Xindu já retornou ao Culto dos Cinco Imortais, vamos apenas <color=#orange>aguardar</color> por novidades.
+Ran Xindu agora retornou aos Cinco Imortais. Eu me pergunto o que acontecerá no futuro...
+
+Desejo nao realizado
+<color=#orange>Espere</color> por Ran Xindu
+Ainda há um vislumbre de esperanca em meu coracao, vamos apenas <color=#orange>esperar</color> por notícias sobre Ran Xindu.
+Embora a questao dos Cinco Imortais tenha sido resolvida, a relacao entre mim e Ran Xindu nao deve ser rompida…
+
+Mudanca repentina em cinco imortais
+Visite o <color=#orange>Culto dos Cinco Imortais</color>
+Visite o <color=#orange>Culto dos Cinco Imortais</color> e entre na aventura <color=#orange>「Mudanca Súbita em Cinco Imortais」</color>. A situacao no Culto dos Cinco Imortais é crítica e se atrasar por mais de <color=#orange>12 meses</color>, a situacao se tornará irreparável!
+O assunto mencionado na carta de Ran Xindu parece ser extremamente urgente, devo correr para o Culto dos Cinco Imortais…
+
+Caso de assassinato de Emei
+Preste atencao à terrível situacao de Emei
+<color=#orange>Passe algum tempo</color> e volte ao <color=#orange>local onde ocorreu o terrível assassinato</color> em Emei para verificar a situacao.
+Este caso de assassinato em Emei é muito estranho e esquisito, definitivamente nao é um caso de assassinato comum...
+
+Procure mais pistas
+Interaja com <color=#orange>membros da Seita Emei</color> para descobrir mais pistas sobre este caso
+Interaja com <color=#orange>membros da Seita Emei</color> e pergunte sobre o <color=#orange>caso de assassinato de Emei</color> para coletar diferentes pistas.
+Enquanto eu estava no fundo do penhasco, o caso de assassinato em Emei reapareceu. O verdadeiro culpado deveria ser outra pessoa...
+
+Macaco Branco no Vale
+Interaja com o <color=#orange>Macaco Branco</color>
+Vá para <color=#orange>Emei</color> e interaja com o <color=#orange>White Ape</color>.
+O Macaco Branco no vale parece ser um mestre oculto. Você também pode perguntar sobre as pistas ou talvez descobrir novas pistas...
+
+Disputa sobre autenticidade
+<color=#orange>Espere calmamente</color> pelo retorno do White Ape
+<color=#orange>Espere calmamente</color> pelo retorno do White Ape. Durante esse período, você pode interagir com <color=#orange>membros da Seita Emei</color> para perguntar-lhes sobre o <color=#orange>Anciao Recluso</color> e sobre suas <color=#orange>preocupacoes com autenticidade</color>.
+Este Shi Houjiu afirma ser um anciao recluso de Emei, mas seu comportamento é perverso. Será que ele está envolvido no assassinato...
+
+Apreendendo Emei
+Entre na aventura <color=#orange>"O que é Ortodoxo"</color>
+Vá até Emei e entre na aventura <color=#orange>"O que é Ortodoxo"</color>. Emei será apreendido em breve, e se você atrasar por <color=#orange>mais de 6 meses</color>, a situacao se tornará irrevogável!
+O conflito interno na Seita Emei está cada vez pior e uma catástrofe é iminente. Devo tomar uma decisao logo...
+
+Pergunte ao Senhor das Trevas
+Procure o DarkLord de Jieqing para pedir informacoes
+
+
+
+Sob o abismo sem vida
+Vá para a aventura 【Under the Lifeless Abyss】
+
+
+
+Mate sete pessoas
+Mate sete pessoas no total
+Esta tarefa pode exigir a conclusao da terminologia Go: Movimento divino?
+
+
+Sheng
+
+Nascido: Uma pessoa cujos pais morreram
+
+
+Anciao
+
+Antigo: Uma pessoa cujos filhos estao mortos
+
+
+Doenca
+
+Doente: menos de 1/5 da saúde
+
+
+Morte
+
+Morte: A fama na hora da morte é Santa ou Monstruosa
+
+
+Amor de despedida
+
+Amor de despedida: uma pessoa cujo cônjuge morreu e atualmente nao tem cônjuge
+
+
+Rancor
+
+Rancor: Pessoas que têm três ou mais inimigos
+
+
+Saudade
+
+Saudade: o objeto de admiracao nao ama essa pessoa, mas adora outra pessoa
+
+
+Nao há vida sob o abismo
+De volta ao abismo
+
+
+
+Guindaste de Papel da Família Imortal
+Viajar para a Seita Ranshan
+
+
+
+Três Santos Ancestrais
+A manifestacao dos santos é extraordinária, aguarde o acompanhamento
+
+
+
+Ensinando Três Pessoas
+
+
+
+Competicao das Três Seitas
+Participe da Competicao das Três Seitas (Aguarde o evento mensal)
+
+
+
+Espere por uma oportunidade
+<color=#orange>Fique em Shaolin</color> e espere por uma oportunidade
+<color=#orange>Fique em Shaolin</color> e espere por uma oportunidade.
+Os colapsos na Floresta do Pagode parecem ter algumas sutilezas budistas, talvez eu deva esperar aqui um pouco...
+
+Conhecendo o Velho Monge
+<color=#orange>Espere</color> para conhecer o Velho Monge nos seus sonhos
+<color=#orange>Espere</color> para encontrar o Velho Monge em seus sonhos.\nEnquanto estiver segurando a escultura, você poderá encontrá-lo em seus sonhos, mesmo fora de Shaolin.
+O Velho Monge entrou no meu sonho, parece falso mas é real, ainda nao o experimentei totalmente, entao talvez eu deva continuar tentando...
+
+Escultura se estilhaca
+Devolva a <color=#orange>Escultura Quebrada</color> para Shaolin
+<color=#orange>Interaja</color> com um personagem Shaolin para devolver a <color=#orange>Escultura Quebrada</color> para Shaolin.
+A estátua está quebrada, acho que a oportunidade acabou, deveria devolver essa coisa...
+
+Batalha de Zen e Artes Marciais
+
+
+
+Concentre-se na prática
+Concentre-se em <color=#orange>praticar</color> as habilidades de Shaolin
+Aumente o nível de prática da habilidade Shaolin <color=#orange>{0}</color> ensinada pelo Velho Monge para 100%
+O Velho Monge me ensinou em meu sonho, entao seguirei suas instrucoes e praticarei com dedicacao...
+
+O Velho Monge está de volta
+Medite e <color=#orange>espere</color> que o Velho Monge apareca em seus sonhos
+Medite e <color=#orange>espere</color> para encontrar o Velho Monge em seus sonhos.\nEnquanto estiver segurando a escultura, você poderá encontrá-lo em seus sonhos, mesmo fora de Shaolin.
+Agora que aprendi a arte marcial de Shaolin, me pergunto o que o Velho Monge vai me ensinar em meus sonhos nos próximos dias...
+
+Cavando em busca de tesouro
+Experimente <color=#orange>Escavar</color> em Shaolin
+Tente <color=#orange>Escavar</color> em Shaolin para encontrar um tesouro secreto mencionado pelo Velho Monge.
+Enterrado sob Shaolin, me pergunto que tipo de tesouro é esse...
+
+Ensinamentos do Velho Monge
+<color=#orange>Espere {0} meses</color> para lutar contra o Velho em um sonho novamente
+Estude diligentemente e <color=#orange>espere {0} meses</color> para lutar contra o Velho em um sonho novamente\nEnquanto estiver segurando a escultura, você poderá encontrá-lo em seus sonhos, mesmo fora de Shaolin.
+O julgamento ainda nao acabou, ainda tenho que trabalhar duro e me preparar para uma luta com o Velho Monge nos sonhos...
+
+Clássicos Budistas
+<color=#orange>Espere</color> para conhecer o Velho Monge nos seus sonhos
+Você obteve Clássicos Budistas, agora só precisa <color=#orange>esperar</color> para encontrar o Velho Monge em seus sonhos.\nEnquanto estiver segurando a escultura, você poderá encontrá-lo em seus sonhos mesmo fora de Shaolin.
+Eu obtive as escrituras budistas contadas pelo Velho Monge, me pergunto quais ensinamentos estao escritos nelas...
+
+Lendo as Escrituras
+<color=#orange>Estude</color> Clássicos Budistas
+Para terminar de estudar <color=#orange>{0}</color>, você deve estudar <color=#orange>pelo menos 3 páginas dele</color>; Se você já fez isso, basta <color=#orange>esperar</color> para encontrar o Velho Monge nos seus sonhos.
+O Dharma é vasto e ilimitado, eu deveria seguir as instrucoes do Velho Monge e me concentrar totalmente em estudá-lo...
+
+Pagodes de Shaolin
+Vá para <color=#orange>Shaolin</color> e observe a Floresta do Pagode
+Vá para <color=#orange>Shaolin</color> e clique no botao Indústria para observar a Floresta do Pagode.
+Escondido no fundo do Pagode de Shaolin, me pergunto que tipo de tesouro é esse...
+
+Piso do Pavilhao de Clássicos Budistas
+Vá para o <color=#orange>Pavilhao dos Clássicos Budistas</color> para procurar tesouros
+Vá para <color=#orange>Shaolin</color>, clique no botao Indústria e depois clique em <color=#orange>Pavilhao dos Clássicos Budistas</color> para procurar tesouros.
+Escondido dentro do pavilhao das escrituras de Shaolin, me pergunto que tipo de tesouro é esse...
+
+Histórias sobre cara de leao
+Visite as <color=#orange>Aldeias e Cidades</color> de Guangdong para conhecer histórias
+Visite <color=#orange>Aldeias e Cidades</color> em diversas áreas de Guangdong para aprender histórias sobre o Cla Cara de Leao.
+As histórias sobre o Cla Cara de Leao sao hilárias, entao você também pode prestar mais atencao nelas enquanto viaja...
+
+Vá para Cara de Leao
+Existem inúmeros rumores, vá para <color=#orange>Lion-Face Clan</color> para investigar.
+A reputacao do Cla Cara de Leao “se espalha por toda parte”, mas nao sabemos que tipo de pessoas estao nesta seita...
+
+<color=#orange>Espere</color> até que o Cla Cara de Leao expulse os estrangeiros
+<color=#orange>Espere</color> até que o Cla Cara de Leao expulse os inimigos estrangeiros.
+Os membros do Cla Cara de Leao estao cheios de espírito de luta, posso apenas sentar e assistir...
+
+Estabelecendo Salao Ancestral
+Retorne à <color=#orange>Vila Taiwu</color>.
+O Salao Ancestral foi concluído, devo voltar à Vila Taiwu para dar uma olhada nele...
+
+Mantenha a Árvore Divina
+Mantenha a Árvore Divina, entre na caverna e obtenha o tesouro espiritual
+Selecione <color=#orange>Semente da Árvore Divina</color> em seu inventário para plantar e <color=#orange>crie a Árvore Divina</color> investindo recursos, recitando escrituras taoístas e eliminando lacaios Xiangshu próximos. Uma Árvore Divina requer 90.000 recursos para crescer totalmente, e essa quantidade pode ser reduzida recitando as escrituras taoístas e eliminando os lacaios próximos. Após a conclusao do cultivo, você pode entrar na caverna através da Árvore Divina para <color=#orange>obter o tesouro espiritual e entregá-lo ao Taoísta Desgrenhado</color> para prática.
+O crescimento de uma Árvore Divina realmente requer muita reflexao...
+
+Plantando Árvores Divinas
+
+Selecione <color=#orange>Semente da Árvore Divina</color> em seu inventário para plantar. Árvores Divinas nao podem ser plantadas perto de Tumbas de Espadas, Pedra Negra ou Assentamentos. Várias Árvores Divinas podem ser plantadas ao mesmo tempo, mas nao podem estar muito próximas umas das outras. Se uma Árvore Divina for plantada perto do covil do Fora da Lei, ela será removida e Taiwu receberá a quantidade correspondente de Favor.
+
+
+Protegendo Árvores Divinas
+
+Interaja com a Árvore Divina e entre no menu <color=#orange>Defenda a Árvore Divina</color>. Enquanto a Árvore Divina cresce, todos os meses haverá uma chance de vários <color=#orange>lacaios Xiangshu</color> aparecerem perto da Árvore Divina. Todo mês, os lacaios de Xiangshu moverao uma peca em direcao à Árvore Divina ao longo do caminho marcado. Se conseguirem alcancar a peca da Árvore Divina, ela será destruída. <color=#orange>Envie os aldeoes</color> para o caminho de movimento dos lacaios para bloquear seu progresso. Um aldeao só pode bloquear um lacaio Xiangshu na mesma peca. Bloquear com sucesso <color=#orange>reduzirá a saúde do aldeao</color>.
+
+
+Estude o Taoísmo
+
+Estude livros do Taoísmo, melhore seu <color=#orange>conquista do Taoísmo</color> e abra a caverna celestial.
+
+
+Troca por sementes
+
+Vá para a Seita Wudang e interaja com <color=#orange>Disheveled Daoist</color> para trocar por Divine Tree Seeds.
+
+
+Fofoca Wudang
+<color=#orange>Aguarde calmamente</color> pelas notícias da seita Wudang
+<color=#orange>Aguarde calmamente</color> pelas notícias da Seita Wudang.
+O Daoísta Desgrenhado praticou do seu próprio jeito, me pergunto se Wudang mudará como resultado...
+
+Método Taoísta
+<color=#orange>Aguarde calmamente</color> pelas notícias do Taoísta Desgrenhado
+<color=#orange>Aguarde calmamente</color> pelas notícias do Taoísta Desgrenhado.
+Entreguei o tesouro espiritual ao Daoísta Desgrenhado, mas nao sei o que ele fará com ele…
+
+Auxiliar em uma cerimônia
+Ajude o <color=#orange>Taoísta Desgrenhado</color> com seu método
+Vá até o Cla Wudang e interaja com <color=#orange>Disheveled Daoist</color> para ajudá-lo com seu método.
+Nao sei o que aconteceu com o método taoísta, entao vamos para a seita Wudang…
+
+Espere pelo destino imortal
+
+A Árvore Divina cresceu. <color=#orange>Espere</color> pela oportunidade de entrar na caverna celestial.
+
+
+Discuta rumores
+<color=#orange>Visite o Cla Cara de Leao</color> e encontre seu Mestre da Seita
+<color=#orange>Visite o Cla Cara de Leao</color> e encontre seu Mestre da Seita para discutir rumores sobre Cara de Leao.
+Os rumores sao estranhos, é melhor ir ao Cla Cara de Leao para discutir com o Mestre da Seita o mais rápido possível…
+
+<color=#orange>Pratique</color> habilidades de Xuannyu
+Depois de praticar 100% a técnica Xuannyu <color=#orange>{0}</color> ensinada por Yun'er, vá até o Espelho de Jade e <color=#orange>procure Yun'er para entrar no espelho para praticar</color>.
+A jovem senhorita Yun'er me ensinou essa técnica, entao vou praticá-la com seriedade para corresponder às expectativas dela...
+
+A Vontade do Céu é Imprevisível
+Retorne ao Pico Xuannyu <color=#orange>para procurar Yun'er</color>
+Volte ao Pico Xuannyu e vá até o Espelho de Jade <color=#orange>para procurar Yun'er</color>.
+A vontade do céu é imprevisível, desta vez a busca pela pessoa falhou, entao tive que voltar de maos vazias…
+
+Finalmente conheca uma linda mulher
+Volte para a <color=#orange>Seita Xuannyu</color> com Shi Weizhi
+Volte rapidamente para a Seita Xuannyu e vá até o Espelho de Jade <color=#orange>para procurar Yun'er</color>.
+A vontade do céu nao me decepcionou. Finalmente encontrei a pessoa. Vamos voltar correndo para a Seita Xuannyu...
+
+A jovem senhorita Yun'er finalmente realizou seu desejo de se reunir com sua irma mais velha. Eu me pergunto o que acontecerá a seguir...
+
+Perguntando sobre o paradeiro
+Retorne à <color=#orange>Seita Xuannyu</color>
+Retorne à <color=#orange>Seita Xuannyu</color> para perguntar mais sobre o paradeiro da Irma Sênior.
+Desta vez procurei amargamente pela Irma Sênior com a orientacao de uma Mulher Celestial, mas no final falhei de alguma forma...
+
+É difícil desatar os fios do amor
+Vá para Jade Mirror <color=#orange>para procurar Yun'er</color>.
+Yun'er e sua irma mais velha compartilham um amor profundo, o que é realmente comovente...
+
+Dao do Amor Guqin
+Interaja com <color=#orange>membros da seita Xuannyu</color>
+Interaja com os membros da seita Xuannyu <color=#orange>e pergunte a opiniao deles sobre a palavra "Amor"</color>.
+As questoes do passado foram resolvidas, mas nao sei como a seita Xuannyu vê a palavra amor…
+
+Prática Intensiva
+Melhore sua forca e <color=#orange>entre no Espelho de Jade para praticar</color> novamente.
+Melhore sua forca e vá até o Espelho de Jade da Seita Xuannyu para encontrar Yun'er, e <color=#orange>entre no Espelho de Jade para praticar</color> mais uma vez.
+O julgamento nao foi concluído, parece que ainda preciso trabalhar mais, vamos procurar a jovem senhorita Yun'er novamente...
+
+Vá para Jade Mirror <color=#orange>e entre nele para praticar</color>
+Vá para o Espelho de Jade da Seita Xuannyu e procure Yun'er para <color=#orange>entrar no Espelho de Jade para praticar</color>.
+A jovem senhorita Yun'er ainda tem algumas habilidades para me ensinar, devo ir ao Espelho de Jade em breve...
+
+A turbulência de Emei
+<color=#orange>Observe com calma</color> o que está acontecendo na Seita Emei
+Um conflito interno comecou na Seita Emei. <color=#orange>Devo agir com calma e observá-lo cuidadosamente</color>.
+White Ape ficou gravemente ferido e um conflito interno comecou na Seita Emei, tudo por causa de Shi Houjiu. Que caminho devo seguir...
+
+Promessa de Little Rock
+Interaja com <color=#orange>Shi Houjiu</color>
+Vá para <color=#orange>Seita Emei</color> e interaja com <color=#orange>Shi Houjiu</color>.
+Parece que White Ape e Shi Houjiu retornaram, eu deveria ir investigar...
+
+Espelho do Luan Solitário
+Reúna partituras de músicas famosas de todo o mundo
+Quando você chegar em qualquer <color=#orange>Seita, Cidade ou Prefeitura (Área Nao Destruída)</color>, a música local será gravada em "Lone Luan's Ballad Mirror".\nSe você abrir seu inventário e selecionar <color =#orange>"Lone Luan's Ballad Mirror"</color>, uma <color=#orange>Music Bar</color> aparecerá acima do botao "Note". Clique na barra de música para reproduzir qualquer música gravada em vez da atual.
+Ao viajar pelo mundo, qualquer música famosa ouvida em vários lugares pode ser copiada uma por uma nesta partitura...
+
+Espere pelo Macaco Branco
+Aguarde o retorno do <color=#orange>White Ape</color>
+White Ape nao está em seu antigo lugar. <color=#orange>Aguarde</color> pelo seu retorno.
+Já que o White Ape foi treinar, voltarei outro dia...
+
+Espere pelo pequeno Shi
+Aguarde o retorno de <color=#orange>Shi Houjiu</color>
+Shi Houjiu nao está em seu antigo lugar. <color=#orange>Espere</color> pelo retorno dele.
+A atitude de Shi Houjiu parece ter mudado. Vamos ver como ele está outro dia...
+
+Siga Fuyu
+Acompanhe o <color=#orange>Fuyu Hilt</color>
+Vá para o local de <color=#orange>Fuyu Hilt</color>.
+Nao... nao... nao posso perder o Fuyu de novo...
+
+Retirar bagagem
+Recolher <color=#orange>bagagem</color> abandonada
+Vá para a área da vila de Taiwu, vá até onde o ícone <color=#orange>「Devolver estoque」</color> está localizado e clique nele para pegar a <color=#orange>Bagagem</color> abandonada.
+Parece haver um destino nao resolvido na antiga terra de Taiwu...
+
+Recuperar Belas Artes
+Recuperar <color=#orange>Belas Artes</color> dissipadas
+Vá para a área da Vila Taiwu, vá até onde o ícone <color=#orange>「Devolver Inventário」</color> está localizado e clique nele para pegar as <color=#orange>Belas Artes</color> dissipadas. .
+
+Recuperar Artes Marciais
+Recuperar <color=#orange>Artes Marciais</color> abolidas
+Vá para a área da Vila Taiwu, vá até onde o ícone <color=#orange>「Retornar Inventário」</color> está localizado e clique nele para pegar as <color=#orange>Artes Marciais</color> dissipadas. .
+
+Estranho na Vila
+Volte para a <color=#orange>Vila Taiwu</color>
+Retorne à <color=#orange>Vila Taiwu</color> para descobrir o assunto.
+Ouvi dizer que uma pessoa estranha estava visitando a aldeia, mas nao sei de onde veio...
+
+Desafie o Dragao Divino
+Saia para <color=#orange>desafiar um Dragao Divino</color>
+Viaje pelo mundo em busca de Dragoes Divinos e use <color=#orange>「Um Fio Dourado」</color> para subjugar os Dragoes Divinos.
+Já que atendi ao pedido do irmao e da irma do Cla Huanlong, devo ir explorar os vestígios dos Dragoes Divinos…
+
+Nascimento na Lagoa Espiritual
+Crie um Jiao em crescimento usando <color=#orange>Jiao Pond</color>
+Vá para <color=#orange>「Taiwu Village」</color> pressione o botao "Indústria" e vá para <color=#orange>「Jiao Pond」</color> para criar um Jiao.
+Agora que a Lagoa Jiao foi construída, você pode ir até a aldeia e tentar criar Jiao...
+
+Raca Nove Filhos
+
+
+
+Desafie o Dragao Branco
+
+Vá até <color=#orange>{0}</color> para desafiar o <color=#orange>Dragao Branco</color> localizado no <color=#orange>Lago do Trovao</color>.
+
+
+Desafie o Dragao Negro
+
+Vá até <color=#orange>{0}</color> para desafiar o <color=#orange>Dragao Negro</color> localizado na <color=#orange>Lagoa Inundada</color>.
+
+
+Desafie o Dragao Verde
+
+Vá até <color=#orange>{0}</color> para desafiar o <color=#orange>Dragao Verde</color> localizado no <color=#orange>Lago do Vento</color>.
+
+
+Desafie o Dragao Vermelho
+
+Vá até <color=#orange>{0}</color> para desafiar o <color=#orange>Dragao Vermelho</color> localizado no <color=#orange>Lago das Chamas</color>.
+
+
+Desafie o Dragao Amarelo
+
+Vá até <color=#orange>{0}</color> para desafiar o <color=#orange>Dragao Amarelo</color> localizado no <color=#orange>Lago de Areia</color>.
+
+
+Crie e treine Jiao
+
+Vá até o Lago Jiao e coloque um <color=#orange>「Jiao Egg」</color> dentro, entao <color=#orange>Selecione um Plano de Criacao</color> para comecar a criacao.\nO tempo de criacao depende do escolhido. Plano de Criacao. <color=#orange>Todo mês ele consumirá uma certa quantidade de recursos</color>.\nSe o <color=#orange>Nível de domesticacao</color> do Jiao ficar muito baixo, é possível que ele tente escapando da Lagoa Jiao; Se ele escapar, ele vagará pela <color=#orange>Área da Vila Taiwu</color> e você terá que <color=#orange>lutá-lo e usar uma corda para pegá-lo</color> e devolvê-lo. o Lago Jiao.\nAssim que a criacao de Jiao estiver completa, <color=#orange>ele poderá sair do Lago Jiao</color> e poderá ser usado como montaria.
+
+
+Criacao Jiao
+
+Assim que a criacao de Jiao estiver completa, dois Jiao do sexo oposto podem ser usados ​​para <color=#orange>procriar</color> para dar à luz novos <color=#orange>「Ovos de Jiao」</color>.\ nAtravés da criacao e reproducao, é possível melhorar continuamente os atributos do Jiao; Se um atributo de um Jiao <color=#orange>atingir o Pinnacle</color>, e <color=#orange>os atributos restantes tiverem pelo menos dois atributos Outstanding</color>, é possível ir para o <color= #orange>canto inferior direito do menu do Lago Jiao</color> para tentar <color=#orange>「Transformar-se em um Filho Dragao」</color>.
+
+
+Um passo, um Gu
+Vá para a <color=#orange>vizinhanca do Culto dos Cinco Imortais</color> e proceda com cautela
+Há muitas coisas estranhas acontecendo no Culto dos Cinco Imortais, entao devo <color=#orange>proceder com cautela nas proximidades</color>.
+Este lugar é cheio de colinas verdejantes e águas límpidas, mas na realidade o perigo espreita em cada canto, devo proceder com muita cautela...
+
+Método de remocao de Gu
+Pergunte aos <color=#orange>personagens do Culto dos Cinco Imortais</color> sobre o assunto Gu
+Interaja com os <color=#orange>personagens do Culto dos Cinco Imortais</color> e pergunte-lhes sobre o assunto Gu.
+As técnicas Gu do povo Miao sao misteriosas e imprevisíveis. Eu me pergunto se o Culto dos Cinco Imortais tem uma solucao...
+
+Visite o <color=#orange>「Banho Secreto dos Cinco Santos」</color>
+Se este Banho Secreto dos Cinco Santos é realmente tao milagroso, ainda preciso experimentá-lo para descobrir...
+
+O verdadeiro desejo da freira sagrada
+O assunto do Vale do Banho dos Cinco Venenos é realmente estranho, seria melhor apenas <color=#orange>esperar</color> um pouco para ver se há alguma mudanca.
+O que vi no Vale do Banho dos Cinco Venenos foi realmente estranho. Nao sei o que esse “desejo acalentado” significava...
+
+Espere e veja
+<color=#orange>Espere</color> que tudo no Culto dos Cinco Imortais se resolva
+Já que nunca concordei com o pedido da Freira Sagrada, eu deveria apenas <color=#orange>esperar</color> que esse assunto seja resolvido.
+As coisas no território Miao sao tao complicadas que nao quero me envolver...
+
+Danca Pan Wang
+Entre na aventura <color=#orange>「Panwang Dance」</color>
+Vá para <color=#orange>「Vale das Cem Flores」</color> e entre na aventura <color=#orange>「Panwang Dance」</color>.
+O Festival Panwang é um grande evento em Guangnan, você também pode se juntar a Ran Xindu para se divertir...
+
+Receita de Cem Flores
+Fale com <color=#orange>personagens do Vale das Cem Flores</color> para perguntar sobre doencas
+Interaja com os personagens <color=#orange>T3 ou superiores do Vale das Cem Flores</color> para perguntar sobre a doenca de Ran Xindu.
+Já estou aqui há algum tempo, me pergunto se o Vale das Cem Flores já encontrou uma cura eficaz...
+
+Cerimônia das Estrelas
+Entre na aventura <color=#orange>「Cerimônia das Estrelas」</color>
+Vá para <color=#orange>「Kongsang Mountain」</color> e entre na aventura <color=#orange>「Star Ceremony」</color>.
+A Cerimônia da Estrela é um ritual antigo em Liaodong. Você também pode visitá-lo com Ran Xindu...
+
+Prescricao de Kongsang
+Fale com <color=#orange>personagens da Seita Kongsang</color> para perguntar sobre doencas
+Interaja com os personagens <color=#orange>T3 ou superiores da Seita Kongsang</color> para perguntar sobre a doenca de Ran Xindu.
+Já estou aqui há algum tempo, me pergunto se a Seita Kongsang já encontrou uma cura eficaz...
+
+Procurando inseto mandarim
+Vá para o <color=#orange>Culto dos Cinco Imortais</color> para procurar pelo inseto mandarim de Ran Xindu.
+Ran Xindu só sobrou esse inseto mandarim, nao posso deixá-lo se perder de novo...
+
+Desejo Acalentado Completo
+O assunto dos Cinco Imortais está quase resolvido, eu deveria apenas <color=#orange>esperar</color> até que tudo se resolva completamente.
+A questao dos Cinco Imortais foi resolvida, nao há mais necessidade de pensar nisso…
+
+Onde fica o antigo templo budista
+
+
+
+Paradeiro do Eminente Monge
+<color=#orange>Aguarde</color> por uma alteracao
+A Seita Vajrayana descobriu o paradeiro do Monge Eminente, eu deveria apenas <color=#orange>esperar</color> por uma mudanca.
+A Seita Vajrayana descobriu o paradeiro dos eminentes monges das regioes ocidentais, nao sei o que acontecerá a seguir...
+
+Monges das Planícies Centrais
+Converse com <color=#orange>monges das Planícies Centrais</color>
+Faca uma visita aos <color=#orange>monges das Planícies Centrais</color> e converse com eles.
+Muitos monges das Planícies Centrais ficam admirados, é uma boa oportunidade para discutir com eles...
+
+Confusao nas Escrituras
+Fale com os <color=#orange>monges eminentes das regioes ocidentais</color>
+Fale com os <color=#orange>monges eminentes das regioes ocidentais</color> para transmitir as perguntas dos monges das Planícies Centrais.
+As escrituras ainda possuem muitas passagens difíceis de entender, ainda precisamos buscar conselhos dos eminentes monges...
+
+Monges Eminentes Dissipam Dúvidas
+<color=#orange>Espere</color> que monges eminentes dissipem dúvidas
+<color=#orange>Espere</color> que monges eminentes das regioes ocidentais expliquem os significados profundos das escrituras
+Os eminentes monges ainda precisam refletir sobre as questoes, talvez fosse melhor voltar e buscar conselhos depois de algum tempo...
+
+O estranho assunto do povo Miao
+As coisas no território Miao sao estranhas e difíceis de entender, seria melhor apenas <color=#orange>esperar</color> pelas mudancas.
+As pessoas dizem que há muitas pessoas e acontecimentos estranhos na regiao de Miao, eu nao deveria ser descuidado...
+
+Veneno do Coracao dos Cinco Santos
+Vá para a <color=#orange>vizinhanca do Culto dos Cinco Imortais</color> para examinar
+Vá para a <color=#orange>vizinhanca do Culto dos Cinco Imortais</color> para examinar.
+Essa garota conhece profundamente as técnicas Gu, mas parece nao ter intencoes maliciosas. Eu me pergunto quais sao as intencoes dela...
+
+Visite Ranshan
+Visite a <color=#orange>Seita Ranshan</color>
+Visite a <color=#orange>Seita Ranshan</color> para verificar os rumores sobre o “Portao do Dragao dos Humanos” e a “Competicao das Três Seitas”.
+Como Ranshan tem a reputacao de “responder a todas as perguntas e atender a todos os pedidos”, eles poderao responder às minhas perguntas...
+
+Sonho de Qinglang
+Entre na aventura <color=#orange>「Dream of Qinglang」</color>
+Entre na aventura <color=#orange>「Dream of Qinglang」</color>.
+Nao sei por que Lord Qinglang me enviou este convite…
+
+Refletir e Ruminar
+<color=#orange>Fique na Seita Ranshan</color> para entender o que você vê na neblina
+<color=#orange>Fique na Seita Ranshan</color> para entender o que você vê na neblina.
+Os assuntos relativos ao Pavilhao Qinglang sao realmente como um mistério dentro de um mistério, eu realmente deveria refletir sobre isso com cuidado...
+
+Assuntos Mundanos Refinam a Mente
+Aguarde <color=#orange>{0} meses</color> antes de retornar para Ranshan
+Eu poderia muito bem deixar Ranshan, viajar e esperar <color=#orange>{0} meses</color> antes de responder...
+É inútil ficar pensando nisso, é melhor deixar de lado os assuntos relativos a Ranshan por um tempo...
+
+Entre na aventura <color=#orange>「Competicao das Três Seitas」</color>
+Entre na aventura <color=#orange>「Competicao das Três Seitas」</color>. Se você nao participar da aventura, a oportunidade de Ranshan desaparecerá...
+A competicao de artes marciais entre os três clas de Ranshan já comecou, por que nao conferir...
+
+Sem perguntas sobre vestígios imortais
+<color=#orange>Espere</color> que as questoes relativas a Ranshan sejam resolvidas
+Os assuntos relativos a Ranshan foram resolvidos, apenas <color=#orange>espere</color> que eles se resolvam.
+As questoes relativas a Ranshan foram resolvidas, nao há mais necessidade de pensar nelas...
+
+Pavilhao Imortal Qinglang
+<color=#orange>Entre no Pavilhao Qinglang</color> para descobrir o motivo pelo qual os discípulos foram possuídos
+<color=#orange>Entre no Pavilhao Qinglang</color> para descobrir a razao pela qual os discípulos que participaram da Competicao das Três Seitas foram possuídos.
+Pavilhao Qinglang, aqui vou eu...
+
+O caminho para a imortalidade é indistinto
+A Competicao das Três Seitas acabou, o assunto relativo a Ranshan foi resolvido
+
+Examine a doenca da loucura
+Visite o <color=#orange>Vale das Cem Flores</color> para entender a estranha doenca
+Se você quiser saber mais sobre a estranha doenca, você deve ir ao <color=#orange>Vale das Cem Flores</color> para bater um papo.
+Esse assunto é muito estranho, eu deveria ir ao Vale das Cem Flores para entender a situacao…
+
+A estranha doenca de Village
+Entre na aventura <color=#orange>「Village's Strange Disease」</color>
+Entre na aventura <color=#orange>「Village's Strange Disease」</color>.
+Nao sei que tipo de perigos estao escondidos nesta aldeia...
+
+Procurando aconselhamento médico
+Visite <color=#orange>Vale das Cem Flores</color> para saber mais sobre diagnóstico e tratamento
+Visite <color=#orange>Vale das Cem Flores</color> para obter informacoes sobre diagnóstico e tratamento.
+O Vale das Cem Flores está cheio de médicos e médicos excelentes, eles com certeza poderao me ajudar na cura desta doenca...
+
+Fundadores das Cem Flores
+<color=#orange>Espere</color> o retorno de dois fundadores
+Os dois fundadores do Vale das Cem Flores estao viajando e nao estao no vale. <color=#orange>Espere</color> pelo retorno deles.
+Nao sei quando os dois fundadores poderao retornar...
+
+Espere por Wuyou
+<color=#orange>Espere</color> pelo retorno de Xuan Wuyou
+<color=#orange>Espere</color> pelo retorno de Xuan Wuyou.
+Agora só posso esperar pacientemente pelo retorno do Sênior Xuan Wuyou...
+
+Siga os fundadores
+Vá para <color=#orange>{0}</color> para encontrar os idosos Bai Wuyang e Xuan Wuyou.
+O que exatamente está escondido nesta aldeia? É melhor encontrar o Sênior Xuan e o Sênior Bai o mais rápido possível...
+
+Aguarde novidades
+<color=#orange>Aguarde</color> notícias sobre os fundadores da Hundred Flowers
+<color=#orange>Aguarde</color> pelas notícias dos idosos Bai Wuyang e Xuan Wuyou.
+Os dois Idosos estao obcecados em eliminar este desastre, mas onde estao eles agora...
+
+Rasgando o coracao
+
+Acesse <color=#orange>{0}</color> para perguntar aos residentes locais e aos discípulos do Vale das Cem Flores que vieram prestar assistência sobre o incidente de <color=#orange>Heart Ripping</color>.
+
+
+Culpado de emboscada
+
+Traga um colega de equipe adulto com um elemento interno <color=#orange>{0}</color> e fique em <color=#orange>{1}</color> por um mês, esperando que o culpado de Heart Ripping apareca acima. Você ainda precisa trazer {2}...
+
+Trouxe um colega de equipe adulto com um elemento interno <color=#orange>{0}</color>. Posso ficar em <color=#orange>{1}</color> por um mês, esperando o culpado de Heart Ripping aparecer.
+Destruicao da Mente
+
+Acesse <color=#orange>{0}</color> para perguntar aos residentes locais e aos discípulos do Vale das Cem Flores que vieram prestar assistência sobre o incidente da <color=#orange>Destruicao da Mente</color>.
+
+
+
+Traga um colega de equipe adulto com um elemento interno <color=#orange>{0}</color> e fique em <color=#orange>{1}</color> por um mês, esperando que o culpado da Destruicao Mental apareca acima. Você ainda precisa trazer {2}...
+
+Trouxe um colega de equipe adulto com um elemento interno <color=#orange>{0}</color>. Posso ficar em <color=#orange>{1}</color> por um mês, esperando o culpado da Destruicao da Mente aparecer.
+Devolva Bai e Xuan para a vila
+Traga o Cervo Branco e a Coruja Negra <color=#orange>de volta para a Vila Taiwu</color>
+Como os dois idosos nao desejam retornar ao Vale das Cem Flores, nao tenho escolha a nao ser trazê-los de volta para a aldeia primeiro...
+
+Yin Yang Harmonioso
+<color=#orange>Resolver</color> conflito entre dois fundadores
+Sênior Bai Wuyang e Sênior Xuan Wuyou ainda têm alguns problemas nao resolvidos. Talvez eles pudessem <color=#orange>ficar</color> na Vila Taiwu, buscando uma oportunidade para <color=#orange>resolver</color> seus conflitos e alcancar a harmonia entre o yin e o yang.
+“Quando o yin e o yang estao equilibrados, a essência e o espírito estarao em boas condicoes; quando o yin e o yang estao separados, a essência e a respiracao se esgotarao…”
+
+Ervas Yang
+
+Fale com o <color=#orange>White Deer</color> e descubra sua comida favorita.
+
+
+Aproxime-se do cervo branco
+
+Use <color=#orange>Ervas Yang</color> para alimentar o Cervo Branco. Depois de alcancar o Favor "Íntimo" com ele, <color=#orange>aguarde uma oportunidade</color> para resolver o conflito e reconciliar o yin e o yang.
+
+
+Ataque de Águias Gigantes
+
+Ultimamente, águias gigantes têm atacado com frequência, causando sofrimento à Coruja Negra. No entanto, White Deer pode ajudar a resolver esse problema. <color=#orange>Espere por uma oportunidade</color> na Vila Taiwu para resolver seu conflito...
+
+
+Ervas Yin
+
+Fale com a <color=#orange>Coruja Negra</color> e descubra sua comida favorita.
+
+
+Aproxime-se da Coruja Negra
+
+Use <color=#orange>Ervas Yin</color> para alimentar a Coruja Negra. Depois de alcancar o Favor "Íntimo" com ele, <color=#orange>aguarde uma oportunidade</color> para resolver o conflito e reconciliar o yin e o yang.
+
+
+Bestas Uivando
+
+Ultimamente, feras selvagens têm uivado durante a noite, causando angústia aos Cervos Brancos. No entanto, Black Owl pode ajudar a resolver esse problema. <color=#orange>Espere por uma oportunidade</color> na Vila Taiwu para resolver seu conflito...
+
+
+Orientacao para Huaju
+
+<color=#orange>Huaju</color>, que se destacou na Competicao dos Três Clas e ascendeu ao céu, agora está visitando a montanha. Eles estao sinceramente buscando aprender mais. Se você tiver algum tempo livre, considere ir até o local deles para orientá-los…
+
+
+Orientacao para Xuanzhi
+
+<color=#orange>Xuanzhi</color>, que se destacou na Competicao dos Três Clas e ascendeu ao céu, agora está visitando a montanha. Eles estao sinceramente buscando aprender mais. Se você tiver algum tempo livre, considere ir até o local deles para orientá-los…
+
+
+Orientacao para Yingjiao
+
+<color=#orange>Yingjiao</color>, que se destacou na Competicao dos Três Clas e ascendeu ao céu, agora está visitando a montanha. Eles estao sinceramente buscando aprender mais. Se você tiver algum tempo livre, considere ir ao local deles para orientá-los…
+
+
+Retorno para Ranshan
+Retorne para <color=#orange>「Ranshan Sect」</color> para dar uma resposta sobre a Competicao dos Três Clas
+A Competicao das Três Seitas está prestes a comecar. Retorne à <color=#orange>「Seita Ranshan」</color> para dar uma resposta a Lord Qinglang.
+Já faz um bom tempo desde o último convite de Ranshan; é hora de retornar a Ranshan e dar uma resposta ao Lorde Qinglang…
+
+Espere pela competicao
+Vá para a Seita Ranshan e <color=#orange>espere</color> pela Competicao das Três Seitas
+Vá para a Seita Ranshan e <color=#orange>espere</color> até que a Competicao das Três Seitas comece.
+Tenho muitas perguntas, talvez durante a Competicao das Três Seitas eu consiga obter algumas respostas...
+
+Proteja a vila de Taiwu
+<color=#orange>Espere</color> pela chegada da Pessoa Ressuscitada
+A Pessoa Ressuscitada, embora seu paradeiro seja desconhecido, eventualmente retornará à Vila Taiwu. Prepare tudo bem e <color=#orange>espere</color> que cheguem.
+Névoa negra envolve a área; Os discípulos do Vale das Cem Flores já estao se deslocando de um lugar para outro, tratando os afetados…
+
+Protecao Cuidadosa
+<color=#orange>Espere</color> pelo retorno da Pessoa Ressuscitada
+A névoa negra está se espalhando. Parece que o Ressuscitado está por perto. Prepare tudo cuidadosamente e <color=#orange>espere</color> na Vila Taiwu pelo retorno deles.
+Uma névoa negra enche o ar, sugerindo que a Pessoa Ressuscitada está realmente por perto…
+
+Pessoa Ressuscitada
+Entre na aventura da <color=#orange>Pessoa Ressuscitada</color>
+Entre na aventura da <color=#orange>Pessoa Ressuscitada</color>.
+O Ressuscitado apareceu, devo ter cuidado...
+
+Nao pergunte por aí
+<color=#orange>Espere</color> que as questoes relativas ao Vale das Cem Flores sejam resolvidas
+<color=#orange>Espere</color> até que as questoes relativas ao Vale das Cem Flores sejam resolvidas.
+O Ressuscitado concluiu aqui o seu assunto e o seu coracao permanece como era antes…
+

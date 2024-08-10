@@ -1,0 +1,12 @@
+Planície
+Planícies férteis e amplas se estendem até onde a vista alcança...\n<size=10> </size>\n·Produção de Recursos: <color=#pinkyellow>Muito Alimento, Madeira e Tecido.</color>\n·Adequado para: <color=#pinkyellow>Pintura, Apreciação, Marcenaria, Tecelagem, Artes Culinárias e Tradição.</color>
+Montanha
+Montanhas são grandiosas e altaneiras, lembrando uma floresta de pedra...\n<size=10> </size>\n·Produção de Recursos: <color=#pinkyellow>Muito Minério, um pouco de Jade e Tecido.</color>\n·Adequado para: <color=#pinkyellow>Artes Marciais, Literatura, Astrologia, Metalurgia, Lapidação de Gemas e Taoísmo.</color>
+Floresta
+Florestas verdejantes cheias de vegetação luxuosa...\n<size=10> </size>\n·Produção de Recursos: <color=#pinkyellow>Muita Madeira, um pouco de Tecido e Ervas.</color>\n·Adequado para: <color=#pinkyellow>Marcenaria, Medicina, Toxicologia, Tecelagem, Budismo e Artes Culinárias.</color>
+Pântano
+Uma densa rede de lagos largos e riachos remotos...\n<size=10> </size>\n·Produção de Recursos: <color=#pinkyellow>Muito Alimento, Madeira e Ervas.</color>\n·Adequado para: <color=#pinkyellow>Música, Apreciação, Marcenaria, Medicina, Toxicologia e Tradição.</color>
+Litoral
+O litoral é vasto, e as montanhas na ilha se erguem majestosas...\n<size=10> </size>\n·Produção de Recursos: <color=#pinkyellow>Muito Minério, Jade e Alimento.</color>\n·Adequado para: <color=#pinkyellow>Artes Marciais, Música, Apreciação, Metalurgia, Lapidação de Gemas e Tradição.</color>
+Montanhas Nevadas
+Montanhas cobertas de neve há anos, mas que ainda não congelaram...\n<size=10> </size>\n·Produção de Recursos: <color=#pinkyellow>Muito Jade, um pouco de Minério e Ervas.</color>\n·Adequado para: <color=#pinkyellow>Artes Marciais, Xadrez, Literatura, Astrologia, Lapidação de Gemas e Taoísmo.</color>

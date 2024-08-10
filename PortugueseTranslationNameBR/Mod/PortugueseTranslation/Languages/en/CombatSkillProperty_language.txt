@@ -1,0 +1,74 @@
+Poder Atual
+Limite de Poder
+Velocidade de Lançamento
+Custo de Postura/Inalação
+Razão Ext/Int
+Taxa de Conversação Interna
+Força Interna Total
+Ganhar Força Interna
+Conversão Elemental
+Espaços Universais
+Custo de Mobilidade
+MOV·Vel
+Aumentar Força
+Aumentar Finesse
+Aumentar Agilidade
+Aumentar BRE
+Enfraquecer Movimento
+Custo de Movimento
+Aumentar Def. Ext.
+Aumentar Def. Int.
+Aumentar Distração
+Aumentar Defesa
+Aumentar Evasão
+Aumentar Foco
+Poder de Contra-ataque
+Reflexão de Ph
+Reflexão de Qi
+Alcance de Reflexão
+Duração
+Aumentar ATK
+Aumentar Precisão
+Razão de Força
+Razão de Finesse
+Razão de Agilidade
+Alcance de Ataque
+Ataque no Peito
+Ataque na Cintura
+Ataque na Cabeça
+Ataque nos Braços
+Ataque nas Pernas
+Gravidade dos Pontos de Acupuntura Selados
+Gravidade das Falhas
+Aplicar Acritoxina
+Aplicar Umbritoxina
+Aplicar Criotoxina
+Aplicar Pirotoxina
+Aplicar Necritoxina
+Aplicar Oneirotoxina
+Requisitos
+Linha de Quebra
+Linha Rápida
+Linha Aegis
+Linha Nadis
+Requer Estilo de Arremesso
+Requer Estilo de Disparo
+Requer Estilo de Impulso
+Requer Estilo de Corte
+Requer Estilo de Apunhalamento
+Requer Estilo de Corte
+Requer Estilo de Soco
+Requer Estilo de Pontada
+Requer Estilo de Imobilização
+Requer Estilo de Som
+Requer Estilo de Enrolamento
+Requer Estilo de Feitiço
+Requer Estilo de Arma
+Requer Estilo de Droga
+Requer Estilo Tóxico
+Requer Estilo de Varredura
+Velocidade de Salto
+Chance de Selamento
+Duração de Selamento
+Aumentar ATK
+Aumentar Precisão
