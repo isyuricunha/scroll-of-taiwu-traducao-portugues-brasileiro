@@ -9,7 +9,7 @@ return {
 	BackendPlugins = {
 		[1] = "TaiwuCommunityTranslation.Backend.dll",
 	},
-	Source = 0,
+	Source = 1,
 	FileId = 3305308095,
 	Version = "0.0.71.78",
 	GameVersion = "0.0.72.14",
@@ -47,6 +47,12 @@ return {
 			Timestamp = 1723302530,
 			LogList = {
 				[1] = "Adventure_language\r\nAccessory_language\r\nMisc_language\r\nLoadingTips_language",
+			},
+		},
+		[8] = {
+			Timestamp = 1723303641,
+			LogList = {
+				[1] = "TaskInfo_language",
 			},
 		},
 	},
