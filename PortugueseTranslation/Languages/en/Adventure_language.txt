@@ -1,6 +1,6 @@
 De volta à cabana de bambu
 Um silêncio total envolve a cabana de bambu. Folhas caídas cobrem o caminho que leva à cabana de bambu. Como se ela estivesse abandonada há muito tempo.
-Rio abaixo
+Descendo o rio
 O grande rio desenhado no mapa do pai justo, quando daqui rio abaixo...
 Bambu misterioso
 Use os punhos da espada lendária para invocar a encarnacao do Swordtomb...
@@ -28,20 +28,20 @@ Mistério complicado - eu
 Recentemente, na vila de Taiwu, tem havido ocorrências frequentes de coisas estranhas, ruídos estranhos no meio da noite, misteriosos e assustadores, o que é a verdade, ou devemos descobrir…
 O que é ortodoxo
 A "autêntica disputa de artes marciais" da Seita Emei está se intensificando e as brigas entre os discípulos sao uma visao comum...\nAtualmente, a vida e a morte do Macaco Branco sao incertas e Shi Houjiu está cobrindo o céu com uma mao. Se os descendentes de Taiwu nao tomarem uma decisao logo, poderao se arrepender pelo resto de suas vidas...
-青琅一梦
-氤氲然山，扑朔迷离，三宗比武，青琅仙阁，一切自有分晓……
+Sonho de Qinglang
+A atmosfera em Ranshan é misteriosa. A Competicao das Três Seitas e o Pavilhao Imortal Qinglang revelarao tudo no devido tempo...
 Negociacao com os Três Demônios
 Espaco reservado
-Competicao dos Três Ancestrais
-时隔多年，三宗比武于然山再次举办……\n一众弟子斋沐盥漱，严整衣冠，静候门中前辈到场。
+Competicao das Três Seitas
+Anos se passaram e a Competicao das Três Seitas é realizada mais uma vez em Ranshan...\nOs discípulos se preparam lavando seus corpos, vestindo-se formalmente e esperando pacientemente pela chegada de seus mais velhos dentro da seita.
 Arte final da cara de leao
 O Cla Lion-Face está realizando uma competicao de “Arte Secreta Suprema”. A parte externa do local é fortemente vigiada e é difícil para pessoas comuns entrarem...
 Veneno do Coracao dos Cinco Santos
 As manchas de sangue da Seita dos Cinco Imortais estavam se espalhando e, por algum motivo, o cheiro era de peixe...
 Mudanca repentina em cinco imortais
 Por alguma razao desconhecida, as manchas de sangue da Seita dos Cinco Imortais se espalharam, o cheiro metálico atingiu suas narinas e os cadáveres do povo Miao espalhados por toda parte, causando uma visao horrível...
-乡村怪病
-本为怡然乡野，如今村舍紧闭，传有诡奇疫病肆虐此地，染病之人药石无医，一时之间，村中人人自危……
+A estranha doenca de Village
+Originalmente uma zona rural pacífica, agora as cabanas da aldeia estao hermeticamente fechadas. Diz-se que há uma epidemia misteriosa e mortal se espalhando por este lugar, com os infectados incapazes de encontrar qualquer cura. Em nenhum momento, todos na aldeia se sentem ameacados por suas vidas...
 Esforcando-se para viver
 Nao
 Um País das Fadas Brilhante 2
@@ -68,13 +68,13 @@ Desgastado de Corpo e Alma
 Apoie os Três Demônios
 Ressuscitar dos Mortos
 
-黑白踪影
-占位
-奇人疑踪
+Tracos de preto e branco
+Espaco reservado
+Vestígios do Suspeito Excêntrico
 O espírito maligno aparece
-决战奇人
+Lutar com e excêntrico
 Pessoa Ressuscitada
-那位“复生之人”果然还是回到了太吾村，却只是遥望村中，既不移，也不动，似乎只是在等待“太吾”来此。
+Como esperado, aquela “Pessoa Ressuscitada” realmente retornou à Vila Taiwu. No entanto, em vez de se moverem ou fazerem qualquer mudanca, eles apenas ficaram ali olhando a vila à distância, aparentemente esperando que “Taiwu” chegasse até eles...
 Festa do chá em casa
 Preparando-se para um chá caseiro com a ajuda de escribas locais...
 Banquete em casa
@@ -98,7 +98,7 @@ As pessoas ao redor desta área sao frequentemente assaltadas e ouvimos dizer qu
 Fortaleza dos Ladroes
 Muitos ladroes ocupam estradas e pontes aqui e formaram uma grande camarilha. Eles agem de maneira tirânica, inúmeras pessoas em centenas de quilômetros foram intimidadas...
 Gangue Traidora
-Este lugar é o lar de muitos excluídos da seita, que, seja por vinganca ou por propósitos traicoeiros, eventualmente se unem para causar danos aos Jianghu...
+Este lugar é o lar de muitos párias da seita, que, por vinganca ou por propósitos traicoeiros, eventualmente se unem para causar danos aos Jianghu...
 Vale do Vilao
 Foras da lei com dívidas de sangue de pessoas decentes e más entrincheiradas aqui, suas vidas estao por um fio, já que vivem uma vida violenta, de modo que sao extremamente ferozes...
 Matriz de aromas
@@ -114,7 +114,7 @@ Matancas sangrentas aconteceram aqui há muito tempo. Algumas pessoas perderam a
 Festa do Demônio
 Este lugar está transbordando de energia demoníaca e pessoas que se tornaram demonizadas estao vindo para cá. Um culto demoníaco sem nome está aqui constantemente brutalizando as pessoas das artes marciais propriamente ditas com métodos terríveis...
 Zona Abandonada
-Esta era uma barreira contra o mundo exterior. Um dia, o conflito interminável com a barreira, e aqueles eremitas que viviam no lugar escondido tiveram que voltar à vida mortal com ódio…
+Esta era uma barreira contra o mundo exterior. Um dia, o conflito interminável até a barreira, e aqueles eremitas que viviam no lugar escondido tiveram que voltar à vida mortal com ódio…
 Salao dos Justos
 O mundo está em crise e hoje em dia existem muitos viloes e o povo está sofrendo. Foi neste momento que os justos se levantaram para livrar o mundo dos viloes. Há muitos homens justos reunidos aqui para matar os viloes...
 Liga de Cavalaria
@@ -208,11 +208,11 @@ Ouvi dizer que Hangzhou está disputando o herdeiro de Taiwu da luz, a luz é br
 Matchmaking - Jiangling (feminino)
 Nove irmas e nove irmas me acompanham até a mesa de reuniao para adorar... Jiangling tem sido o costume de dez irmas, hoje é para o herdeiro de Taiwu usar esse costume para testar as pessoas que buscam casamento...
 Matchmaking - Capital (feminino)
-A capital está realizando uma grande competicao para o herdeiro de Taiwu, a capital em todos os lugares luzes e decoracoes, servos indo e vindo, para atender os quatro lados dos pretendentes, e ouvir alguém dizer “para conseguir mais ajuda”, nao sei o que Isso significa...
+A capital está realizando uma grande competicao para o herdeiro de Taiwu, a capital em todos os lugares luzes e decoracoes, servos indo e vindo, para atender os quatro lados dos pretendentes, e ouvir alguém dizer “para conseguir mais ajuda”, nao sei o que isso significa...
 Bimbo - Liaoyang (mulher)
 Yanshan Sengyun, Liao dobrando a água, acima da pastagem, está realizando uma partida para Taiwu, herdeiro da uniao juvenil do cavalo branco...
 Matchmaking - Qinzhou (feminino)
-Caravanas de Qinzhou de um lado para outro, sinos de camelo, neste dia estao reunidos muitos artistas marciais, diz-se que o herdeiro de Taiwu está realizando um casamento aqui, esperando por heróis na areia amarela para ela enviar os tesouros mais valiosos aqui - água limpa ...
+Caravanas de Qinzhou de um lado para outro, sinos de camelo, neste dia estao reunidos muitos artistas marciais, diz-se que o herdeiro de Taiwu está realizando um casamento aqui, esperando por heróis na areia amarela para que ela envie os tesouros mais valiosos aqui - água limpa ...
 Matchmaking - Qingzhou (feminino)
 A área de Qingzhou está realizando um casamento para o herdeiro Taiwu, pela dama vermelha casamenteira, diz-se que se alguém tiver um destino com ele, o fio vermelho que representa o casamento nascerá em seu pulso…
 Matchmaking-Shouchun (feminino)
@@ -228,7 +228,7 @@ Após o desastre natural, cem feras estao assustadas, soando e nao parando... H�
 Pesquisar Herício
 Ouvi dizer que depois do desastre natural os graos aqui comecaram a crescer, me pergunto se há algo espiritual escondido nisso…
 Pesquisar pavao azul
-As colinas verdes desta área sao lindas, os pássaros cantam e ocasionalmente ouvem alguns gritos estranhos... ou um pavao azul?
+As colinas verdes desta área sao lindas, os pássaros cantam e ocasionalmente ouvem alguns cantos estranhos... ou um pavao azul?
 Pesquisar peixe-dragao
 Após o desastre natural, as montanhas desabaram e os rios transbordaram, formando aqui uma grande área de água...
 Pesquisar bambu ametista
@@ -266,7 +266,7 @@ Após o desastre natural, a grama e as árvores deste lugar murcharam repentinam
 Pesquisar mandala de rosto humano
 Vale profundo tranquilo, o vento mandava uma fragrância estranha... o aroma parece vir de uma curta distância à frente, mas olhei para longe, mas nao vi as flores...
 Pesquisar flor do mal
-Há rumores de que após o desastre natural, este lugar de repente cresceu um mar de flores, no qual há muitas coisas venenosas crescendo...
+Há rumores de que após o desastre natural, este lugar de repente cresceu um mar de flores, no qual crescem muitas coisas venenosas...
 Pesquisar sapo sangrento
 Depois do desastre natural, a maré deste lugar nao desce, as enchentes sao difíceis de acalmar, a água do mar fica vermelha como sangue, esticando um pedaco, muito horrível...
 Swordtomb “Vassalo Glacial”
