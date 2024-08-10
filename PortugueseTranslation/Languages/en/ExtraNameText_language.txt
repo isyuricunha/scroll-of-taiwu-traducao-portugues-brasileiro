@@ -1,6 +1,7 @@
-Taiwu
-Priest
-Taoist
-Nun
-Monk
+Taiwu  
+Sacerdote  
+Taoísta  
+Monja  
+Monge  
 ???
+

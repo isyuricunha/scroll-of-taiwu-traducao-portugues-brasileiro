@@ -1,10 +1,16 @@
-Fino
-Magro
-Médio
-Moderado
-Robusto
-Bem Desenvolvido
-Magro
-Esbelto
-Gordinho
+Magro  
+Esquelético  
+Médio  
+Moderado  
+Robusto  
+Bem Desenvolvido  
+Enxuto  
+Fino  
+Gordinho  
 Redondo
+
+
+
+
+
+
