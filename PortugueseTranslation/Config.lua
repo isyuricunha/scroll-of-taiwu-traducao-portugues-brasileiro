@@ -9,7 +9,7 @@ return {
 	BackendPlugins = {
 		[1] = "TaiwuCommunityTranslation.Backend.dll",
 	},
-	Source = 1,
+	Source = 0,
 	FileId = 3305308095,
 	Version = "0.0.71.78",
 	GameVersion = "0.0.72.14",
@@ -38,21 +38,9 @@ return {
 			Timestamp = 1723180406,
 		},
 		[6] = {
-			Timestamp = 1723282497,
+			Timestamp = 1723350292,
 			LogList = {
-				[1] = "Commits on Aug 9, 2024\r\nUpdate PortugueseTranslation.zip\r\n\r\n@isyuricunha\r\nisyuricunha committed yesterday\r\ncolocando arquivos ingles \r\n\r\n@isyuricunha\r\nisyuricunha committed yesterday\r\nUpdate Config.lua\r\n\r\n@isyuricunha\r\nisyuricunha committed yesterday\r\nRevert \"colocando arquivos ingles\" \r\n\r\n@isyuricunha\r\nisyuricunha committed yesterday\r\nUpdate events.json\r\n\r\n@isyuricunha\r\nisyuricunha committed 13 hours ago\r\nCommits on Aug 10, 2024\r\nnovas traducoes\r\n\r\n@isyuricunha\r\nisyuricunha committed 1 hour ago\r\nremovido \"ç\", \"ã\" e \"õ\" da nova versao \r\n\r\nremovido \"ç\", \"ã\" e \"õ\"\r\n@isyuricunha\r\nisyuricunha committed 1 hour ago\r\narrumado palavras avulsas e string color \r\n\r\nigual -> neutro\r\n<cor# -> <#color\r\n@isyuricunha\r\nisyuricunha committed 1 hour ago\r\nfix: diversas variaveis\r\n\r\n@isyuricunha\r\nisyuricunha committed 14 minutes ago\r\nUpdate PortugueseTranslation.zip\r\n\r\n@isyuricunha\r\nisyuricunha committed 13 minutes ago",
-			},
-		},
-		[7] = {
-			Timestamp = 1723302530,
-			LogList = {
-				[1] = "Adventure_language\r\nAccessory_language\r\nMisc_language\r\nLoadingTips_language",
-			},
-		},
-		[8] = {
-			Timestamp = 1723303641,
-			LogList = {
-				[1] = "TaskInfo_language",
+				[1] = "voltado p versao antiga por bug na nova versao\r\n\r\n",
 			},
 		},
 	},

@@ -1,16 +1,16 @@
-Comida  
-Grãos comuns, aves, etc.  
-Madeira  
-Madeira comum, galhos de bambu, vinhas, etc.  
-Minério  
-Metais preciosos como ouro, ferro, cobre, etc.  
-Jade  
-Jades e pedras preciosas  
-Tecido  
-Plantas comuns, seda, pele, etc.  
-Ervas  
-Materiais medicinais comuns provenientes de vários tipos de vegetação, minério, insetos, bestas, etc.  
-Dinheiro  
-Moedas feitas no estilo da dinastia anterior.  
-Prestígio  
-O prestígio obtido pela admiração e respeito dos outros.
+Food
+Common grains, poultry, etc.
+Wood
+Common wood, bamboo branches, vines, etc.
+Ore
+Precious metals such as gold, iron, copper, etc.
+Jade
+Precious jades and stones
+Fabric
+Common plants, silk, fur, etc.
+Herbs
+Common medicinal materials from various types of vegetation, ore, insects, beasts, etc.
+Money
+Coins made in a style of the previous dynasty.
+Prestige
+The prestige brought about by the admiration and awe of others.

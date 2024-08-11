@@ -1,79 +1,79 @@
-Matar em público
-Punir em público
-Detenção em público
-Punir o mal
-Justo como os Céus
-Libere seu inimigo
-Conflito com o bem
-Conflito com o mal
-Fazer amizade com o Bem
-Fazer amizade com o Mal
-Irmão Juramentado do Bem
-Irmão Juramentado do Mal
-Amar o Bem
-Amar o Mal
-Adotar o Bem
-Adotar o Mal
-Adotado pelo Bem
-Adotado pelo Mal
-Ajudar o Bem
-Ajudar o Mal
-Ensinar o Bem
-Ensinar o Mal
-Curar o Bem
-Curar o Mal
-Agredir pessoas
-Punir o mal
-Roubo de Habilidades
-Roubo de Itens
-Roubar itens
-Saque de Tumbas
-Envenenar pessoas
-Retirada
-Intimidação·M
-Intimidação·P
-Vencer um duelo
-Perder um duelo
-Ações bondosas
-Malícia
-Ações justas
-Desrespeitoso
-Ações rebeldes
-Despreocupado
-Ações egoístas
-Satisfatórias
-Amor não tradicional
-Vulnerabilidade
-Ser Beneficiado
-Ser Reprimido
-Ser Enganado
-Ser Ameaçado
-Ser Elogiado
-Ser Ridicularizado
-Bom Predecessor
-Mau Predecessor
-Juramento
-Mendicância
-Mau Médico
-Agir Justamente
-Matar o Justo
-Corromper a decência pública
-Corromper as regras
-Desconsiderar a decência pública
-Enganar mestres e trair ancestrais
-Ser hostil e ingrato
-Besta em Roupas Humanas
-Humilhado
-Fazer papel de tolo
-Superar dificuldades
-Intimidar os fracos
-Da Seita do Bem
-Da Seita do Mal
-Tanto o bem quanto o mal
-Vitória no debate
-Derrota no debate
-Obra-prima Fabricada
-Nuvens de Vapor e Mudanças do Dragão
-Tesouro Invadido
-Tesouro Saqueado
-Espalhar Bondade
+Killing in public
+Punish in public
+Detain in public
+Punishing evil
+Righteous as Heavens
+Set your enemy free
+Conflict with the good
+Conflict with the evil
+Befriending the Good
+Befriending the Evil
+Good Sworn Sibling
+Evil Sworn Sibling
+Loving the Good
+Loving the Evil
+Adopting the Good
+Adopting the Evil
+Adopted by the Good
+Adopted by the Evil
+Helping the Good
+Helping the Evil
+Teaching the Good
+Teaching the Evil
+Healing the Good
+Healing the Evil
+Assaulting people
+Punish the evil
+Skill Theft
+Item Theft
+Rob items
+Grave Robbery
+Poisons people
+Retreat
+Bully·M
+Bully·P
+Win a duel
+Lose a duel
+Kind actions
+Maliciousness
+Just actions
+Disrespectful
+Rebel actions
+Carefreeness
+Egoist actions
+Satisfactorias
+Untranditional love
+Vulnerableness
+Being Benefited
+Being Reprimanded
+Being Deceived
+Being Threatened
+Being Praised
+Being Derided
+Good Predecessor
+Evil Predecessor
+Swearing
+Beggary
+Bad Doctor
+Act Righteously
+Kill the Righteous
+Corrupt public decency
+Corrupt the rules
+Disregard public decency
+Deceiving master and betraying ancestors
+Be hostile and ungrateful
+Beast in Human Clothes
+Humiliated
+Make a fool of yourself
+Overcome difficulties
+Bully the weak
+From Good Sect
+From Evil Sect
+Both good and evil
+Debate wins
+Debate defeats
+Masterpiece Manufactured
+Clouds Steam and Dragon Changes
+Trespassed Treasury
+Plundered Treasury
+Spread Kindness

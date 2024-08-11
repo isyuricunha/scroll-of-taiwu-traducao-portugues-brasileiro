@@ -1,65 +1,65 @@
-Jovem Desconhecido
-Donzela Desconhecida
-Criança Desconhecida
-Mulher Desconhecida
+Unknown Teenager
+Unknown Maiden
+Unknown Toddler
+Unknown Woman
 
 
 
 
 
-Passante
-Discípulos de Shaolin
-Discípulos de Emei
-Discípulos das Cem Flores
-Discípulos de Wudang
-Discípulos de Yuanshuan
-Discípulos do Portão do Leão
-Discípulos de Ranshan
-Discípulos de Xuannyu
-Discípulos da Mansão da Espada
-Discípulos de Kongsang
-Discípulos do Vajrayana
-Discípulos dos Cinco Imortais
-Discípulos de Jieqing
-Discípulos de Jieqing
-Discípulos do Bloodhound
+Passerby
+Shaolin Disciples
+Emei Disciples
+Disciples of the Hundred Flowers
+Wudang Disciples
+Yuanshuan Disciples
+Lion Gate Disciples
+Ranshan Disciples
+Xuannyu Disciples
+Sword Manor Disciples
+Kongsang Disciples
+Vajrayana Disciples
+Five Immortals Disciples 
+Jieqing Disciples
+Jieqing Disciples
+Bloodhound Disciples
 
-Princesa
-Idoso
-Paciente
-Lenhador
+Princess
+Elderly
+Patient
+Woodcutter
 
-Criado
-Ancião
-Irmão de Clã
-Irmã de Clã
-Criado Demoníaco
+Servant
+Elder
+Clan brother
+Clan sister
+Demonic servant
 Cue E
-Pastor
-Guia
-Chefe de Família
-Feiticeira
-Ladrão
-Benfeitor
-Inimigo
-Velha
-Criança
-Dignitário Prestigioso
-Adivinho
-Casamenteiro
-Caravanas de Camelos
-Encarregado da Casa
-Criado
-Pessoa Local
-Monge Guia
-Discípulo Recebedor
-Guia·P
-Discípulo Protetor
-Criada
-Aprendiz
-Comerciante
-Guia
-Comerciante de Grilos
+Shepherd
+Guide
+Head of House
+Witch
+Thief
+Benefactor
+Enemy
+Old lady
+Child
+Prestigious dignitary
+Fortune-teller
+Matchmaker
+Camel caravanserai
+Housekeeper
+Servant
+Local Person
+Guiding Monk
+Receiving disciple
+Guide·P
+Protector Disciple
+Female Servant
+Journeyman
+Merchant
+Guide
+Cricket Merchant
 
 
 
@@ -75,85 +75,85 @@ Comerciante de Grilos
 
 
 
-Mendigo
-Discípulo Sênior
-Discípulo Passageiro
-Monge Ancião
-Jovem Monge
+Beggar
+Senior Disciple
+Passing Disciple
+Elder Monk
+Young Monk
 Insider
-Filhote de Javali da Montanha
+Mountain Boar Cub
 Shao Nu
 Shao Nian
-Velho Fazendeiro
-Velho Pai
-Taoísta
-Habitante de Taiwu Ferido
-Os Três Ancestrais
-Sacerdote Viajante
-Fazendeiro
+Old Farmer
+Old Father
+Taoist
+Injured Taiwu Villager
+The Three Ancestors
+Roamer Priest
+Farmer
 
-Monge Reparador de Pagoda
-Acadêmico
-Discípulos do Salão do Leão Voador
-Mestre Estrangeiro
-Árvore Divina da Montanha
-Árvore Divina da Caverna
-Árvore Divina do Canyon
-Árvore Divina do Pântano
-Árvore Divina da Colina
-Árvore Divina da Terra dos Sonhos
-Árvore Divina das Planícies
-Árvore Divina do Lago
-Árvore Divina da Floresta
-Árvore Divina da Selva
-Árvore Divina do Rio
-Árvore Divina do Vale
-Prefeito
-Viajante
-Bêbado
-Jovem Taoísta
-Pato
-Médico Divino
-
-
+Pagoda Repairing Monk
+Academic
+Disciples of Flying Lion Hall
+Foreign Master
+Mountain Divine Tree
+Cave Divine Tree
+Canyon Divine Tree
+Swamp Divine Tree
+Hill Divine Tree
+Wonderland Divine Tree
+Plains Divine Tree
+Lake Divine Tree
+Woodland Divine Tree
+Jungle Divine Tree
+River Divine Tree
+Valley Divine Tree
+Mayor
+Traveler
+Drunkard
+Young Taoist
+Duck
+Divine Physician
 
 
 
 
 
 
-Reflexão Vazia da Mulher Celestial
-Reflexão Cinza
-O Homem de Preto
-Menina
-Sombra
-Artesão
-Irmão Mais Velho do Clã Huanlong
-Irmã Mais Nova do Clã Huanlong
-Menina na Névoa
-Habitante
-Habitante
-Monge Fantasma
-Monge Sênior Hun Ling
-Vovó
-Menina Miao
-Jovem Miao
-Discípulo na Névoa
-Criança na Névoa
-Barqueiro
-Guarda
-Pequena Sombra
-Grande Sombra
-Pessoa Ressuscitada
+
+
+Heavenly Woman's Empty Reflection
+Gray Reflection
+The Man in Black
+Girl
+Shadow
+Craftsman
+Huanlong Clan's Elder Brother
+Huanlong Clan's Younger Sister
+Girl within the Mist
+Villager
+Villager
+Ghost Monk
+Senior Monk Hun Ling
+Granny
+Miao Girl
+Miao Youth
+Disciple in the Fog
+Child in the Fog
+Boatman
+Guard
+Tiny Shadow
+Huge Shadow
+Resurrected Person
 Feng Qing
 
 
 
 
 
-Velho na Névoa
-Homem Venerável
-Taverneiro
-Acadêmico
-Homem
-Pessoa Desconhecida
+Old Man in the Fog
+Venerable Man
+Tavern Shopkeeper
+Scholar
+Man
+Unknown Person

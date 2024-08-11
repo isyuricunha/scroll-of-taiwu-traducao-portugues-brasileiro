@@ -1,13 +1,13 @@
-Magro  
-Esquelético  
-Médio  
-Moderado  
-Robusto  
-Bem Desenvolvido  
-Enxuto  
-Fino  
-Gordinho  
-Redondo
+Thin
+Scrawny
+Middling
+Moderate
+Robust
+Well Developed
+Lean
+Slim
+Chubby
+Round
 
 
 
