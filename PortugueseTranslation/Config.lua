@@ -43,6 +43,12 @@ return {
 				[1] = "voltado p versao antiga por bug na nova versao\r\n\r\n",
 			},
 		},
+		[7] = {
+			Timestamp = 1723402371,
+			LogList = {
+				[1] = "removido bug no final da aventura\r\nmelhorado algumas traducoes",
+			},
+		},
 	},
 	ChangeConfig = false,
 	NeedRestartWhenSettingChanged = false,
