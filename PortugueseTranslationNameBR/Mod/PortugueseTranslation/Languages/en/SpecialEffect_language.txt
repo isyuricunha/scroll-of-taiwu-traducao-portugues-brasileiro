@@ -127,13 +127,13 @@ Greatly increases the upper limit of all major attributes of the user (by 20). D
 Chap. Forge
 Increases the power limit of "Sword Manor" techniques by 30%
 Chap. Weave
-Increases the maximum performance of the "protective equipment" equipped by the user
+Increases maximum power of user's "Armor"
 Chap. 5 Metals
 When the user's internal element is "Fire", direct damage and backlash damage dealt to the user by the "Metal" techniques will be reduced.
 Chap. Refining
 The more times the user's current "Weapon" is Refined, the less damage enemy will deal to the user
 Chap. Sacrifice
-Increases the upper limit of the "weapon" equipped by the user
+Increases maximum power of user's "Weapons"
 Summary of\nChihuang
 Increases the power limit of "Kongsang Sect" techniques by 30%
 Shennong\nMateria Medica
@@ -785,7 +785,7 @@ Barefoot
 During this Footwork: The user will not be moved backwards for any reason, and the enemy will have to consume more Footwork to move backwards
 Drunk 8 Immortals
 Recover Inhale
-During this Footwork, whenever the user moves 0.5 distance withing the enemy's Attack Range, the user will have a chance to recover either Stamina, Inhale, Stance, or Attack Tokens. If the user is drunk, this effect will always trigger.
+During this Footwork, whenever the user moves 0.5 distance within the enemy's Attack Range, the user will have a chance to recover either Stamina, Inhale, Stance, or Attack Tokens. If the user is drunk, this effect will always trigger.
 Dragon Tail
 Increase the Weak Points level
 During this Footwork, the level of Weak Points caused by the user to the enemy is increased.
@@ -2553,7 +2553,7 @@ Reverse - Barefoot
 During this Footwork: The user will not be moved forward for any reason, and the enemy will have to consume more Footwork to move forward
 Reverse - Drunk 8 Immortals
 Deplete Attack Tokens
-During this Footwork, whenever the enemy moves 0.5 distance withing the user's Attack Range, the enemy will have a chance to deplete either Stamina, Inhale, Stance, or Attack Tokens. If the user is drunk, this effect will always trigger.
+During this Footwork, whenever the enemy moves 0.5 distance within the user's Attack Range, the enemy will have a chance to deplete either Stamina, Inhale, Stance, or Attack Tokens. If the user is drunk, this effect will always trigger.
 Reverse - Dragon Tail
 Reduce the level of Weak Points
 During this Footwork, it reduces the level of Weak Points caused by the enemy to the user.
