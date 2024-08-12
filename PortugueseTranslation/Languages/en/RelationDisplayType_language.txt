@@ -1,10 +1,10 @@
-Parents
-Sworn Siblings
-Spouse
-Children
-Faction
-Enemy
-Friend
-Adore
-Master
-Siblings
+Pais
+Irmaos de Juramento
+Cônjuges
+Filhos
+Faccoes
+Inimigos
+Amigos
+Admiradores
+Discípulos
+Irmaos

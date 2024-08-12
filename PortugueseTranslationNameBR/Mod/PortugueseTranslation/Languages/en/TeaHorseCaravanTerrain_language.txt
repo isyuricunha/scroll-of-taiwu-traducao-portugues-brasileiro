@@ -1,12 +1,12 @@
-Plain
+Planície
 
-Highland
+Montanha
 
-Woodland
+Área Florestal
 
-Desert
+Deserto
 
-Waterfront
+À Beira d'Água
 
-Town
+Aldeia
 
