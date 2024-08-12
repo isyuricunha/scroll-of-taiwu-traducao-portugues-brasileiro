@@ -9,7 +9,7 @@ return {
 	BackendPlugins = {
 		[1] = "TaiwuCommunityTranslation.Backend.dll",
 	},
-	Source = 0,
+	Source = 1,
 	FileId = 3305308095,
 	Version = "0.0.71.78",
 	GameVersion = "0.0.72.14",
@@ -41,6 +41,18 @@ return {
 			Timestamp = 1723412953,
 			LogList = {
 				[1] = "1.0.9\nrevamp",
+			},
+		},
+		[7] = {
+			Timestamp = 1723493493,
+			LogList = {
+				[1] = "\nv1.0.10: re-criacao\na partir deste momento, foi refeito praticamente todo o trabalho\n\ntraduzido os arquivos:\n\n- AvatarClothColors_language\n- AvatarEyeballColors_language\n- AvatarFeatureColors_language\n- AvatarHead_language\n- AvatarLipColors_language\n- AvatarSkinColors_language\n- CombatDifficulty_language\n- CombatSkillProperty_language\n- Cricket_language\n- ExtraNameText_language\n- InteractionEventOption_language\n- LegacyPointType_language\n- RelationDisplayType_language\n- TeaHorseCaravanTerrain_language\n- ui_language\n\naviso:\nas partes que não foram traduzidas, estao em ingles, pois estou traduzindo diretamente do chines, e a maioria das pessoas sabem ingles",
+			},
+		},
+		[8] = {
+			Timestamp = 1723494234,
+			LogList = {
+				[1] = "resolvido \\n\ntentando mudar o tamanho dos textos",
 			},
 		},
 	},
