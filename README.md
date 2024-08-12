@@ -13,7 +13,7 @@ Olá,
 Este é o mod de tradução para o jogo *Scroll Of Taiwu*. Aqui estão algumas informações importantes:
 
 - **Doações:** Se você gosta do meu trabalho, considere fazer uma doação para me apoiar.
-- **Caracteres Especiais:** Devido a limitações do jogo, alguns caracteres especiais como "ç", "ã" e "ô" foram substituídos. Por exemplo, "coração" aparecerá como "coracao".
+- **Caracteres Especiais:** Devido a limitações do jogo, alguns caracteres especiais como "ç", "ã" e "õ" foram substituídos. Por exemplo, "coração" aparecerá como "coracao".
 - **Progresso da Tradução:** Atualmente, a tradução está 55% completa. Apesar disso, você já poderá entender grande parte do jogo.
 - **Fontes de Tradução:** Estou traduzindo diretamente do chinês e japonês, mantendo a fidelidade às referências originais. As partes ainda não traduzidas estão em inglês para facilitar a compreensão.
 - **Atualizações:** O mod será atualizado duas vezes por semana até que a tradução esteja completa. Vale ressaltar que estou constantemente corrigindo e traduzindo novas partes, então você pode esperar melhorias contínuas.
@@ -39,8 +39,18 @@ Link para versões alternativas (Steam verde): https://github.com/isyuricunha/sc
 - Inscreva-se no link da oficina.
 - Abra o jogo. Clique no último ícone colorido no canto inferior direito da tela principal, o que abrirá outra tela com o nome do mod "[PT-BR] Tradução...". Clique na caixa ao lado esquerdo, abaixo do nome do mod, e depois no botão azul no canto inferior esquerdo. Em seguida, clique no botão à esquerda do menu que aparecerá. O jogo irá reiniciar, mas caso isso não aconteça em cerca de 60 segundos, abra-o manualmente, e ele começará com a tradução já aplicada.
 
-## Versão alternativa (Steam verde):
+## Versão alternativa (Steam verde e Steam Oficial):
 
-- Baixe o arquivo no link indicado anteriormente. Abra a pasta raiz do jogo (isso varia de computador para computador). Se você não souber onde o jogo está instalado, clique com o botão direito no ícone/atalho do jogo e localize a opção "Abrir localização do arquivo" ou algo semelhante.
-- Procure a pasta chamada "Mods" e extraia o arquivo/zip "PortugueseTranslation.zip" dentro dessa pasta.
+- Baixe o arquivo no link indicado anteriormente. Há duas versões disponíveis:
+  - **PortugueseTranslationNameBR:** Versão que permite nomes com mais de 7 caracteres. Deve ser colocada na pasta raiz do jogo.
+  - **PortugueseTranslation:** Versão que só pode ter dois caracteres. Deve ser colocada na pasta "Mod" do jogo.
+
+- **Para instalar a versão "PortugueseTranslationNameBR" (Use para Steam e Steam Verde se quiser nomes grandes ou próprios):**
+  - Abra a pasta raiz do jogo (isso varia de computador para computador). Se você não souber onde o jogo está instalado, clique com o botão direito no ícone/atalho do jogo e localize a opção "Abrir localização do arquivo" ou algo semelhante.
+  - Extraia o arquivo/zip "PortugueseTranslationNameBR.zip" dentro da pasta raiz do jogo.
+
+- **Para instalar a versão "PortugueseTranslation" (Use apenas se nao tiver o jogo na Steam):**
+  - Abra a pasta raiz do jogo e procure a pasta chamada "Mods".
+  - Extraia o arquivo/zip "PortugueseTranslation.zip" dentro da pasta "Mods".
+
 - Abra o jogo. Clique no último ícone colorido no canto inferior direito da tela principal, o que abrirá outra tela com o nome do mod "[PT-BR] Tradução...". Clique na caixa ao lado esquerdo, abaixo do nome do mod, e depois no botão azul no canto inferior esquerdo. Em seguida, clique no botão à esquerda do menu que aparecerá. O jogo irá reiniciar, mas caso isso não aconteça em cerca de 60 segundos, abra-o manualmente, e ele começará com a tradução já aplicada.
