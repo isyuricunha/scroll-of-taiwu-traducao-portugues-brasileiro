@@ -55,6 +55,12 @@ return {
 				[1] = "resolvido \\n\ntentando mudar o tamanho dos textos",
 			},
 		},
+		[9] = {
+			Timestamp = 1723494972,
+			LogList = {
+				[1] = "resolvido \\n",
+			},
+		},
 	},
 	ChangeConfig = false,
 	NeedRestartWhenSettingChanged = false,
