@@ -61,9 +61,15 @@ return {
 				[1] = "resolvido \\n",
 			},
 		},
+		[10] = {
+			Timestamp = 1726060082,
+			LogList = {
+				[1] = "v1.0.12 Latest\r\n\r\n  -- removido caracteres sem exibicao/especiais da 1.0.11  \n\nv1.0.11\n\n-- mais 48 novos arquivos traduzidos\r\n\r\n-- +4138 textos traduzidos :)",
+			},
+		},
 	},
-	ChangeConfig = false,
-	NeedRestartWhenSettingChanged = false,
+	ChangeConfig = true,
+	NeedRestartWhenSettingChanged = true,
 	Cover = "vai-brasil.png",
 	WorkshopCover = "vai-brasil.png",
 	TagList = {
