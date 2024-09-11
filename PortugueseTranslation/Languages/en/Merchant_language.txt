@@ -26,13 +26,13 @@ Líder Marcial · Quatro
 Líder Marcial · Cinco
 Líder Marcial · Seis
 Líder Marcial · Sete
-Revitalização · Um
-Revitalização · Dois
-Revitalização · Três
-Revitalização · Quatro
-Revitalização · Cinco
-Revitalização · Seis
-Revitalização · Sete
+Revitalizacao · Um
+Revitalizacao · Dois
+Revitalizacao · Três
+Revitalizacao · Quatro
+Revitalizacao · Cinco
+Revitalizacao · Seis
+Revitalizacao · Sete
 Gongshu · Um
 Gongshu · Dois
 Gongshu · Três

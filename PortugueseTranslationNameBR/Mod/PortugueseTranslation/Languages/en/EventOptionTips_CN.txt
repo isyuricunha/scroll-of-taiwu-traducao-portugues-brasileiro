@@ -1,46 +1,46 @@
 O número de seguidores de Taiwu é menor que {0}
-O número de seguidores de Taiwu não é menor que {0}
-A energia de ação disponível de Taiwu é maior ou igual a {0}
-{0} não é um seguidor de Taiwu
-Ainda é necessário esperar {0} estações para poder usar
+O número de seguidores de Taiwu nao é menor que {0}
+A energia de acao disponível de Taiwu é maior ou igual a {0}
+{0} nao é um seguidor de Taiwu
+Ainda é necessário esperar {0} estacoes para poder usar
 A afinidade com o oponente atinge ou supera {0}
-A benevolência regional de {0} não é inferior a {1}%
-O dinheiro de Taiwu não é menor que {0}
-A reputação de Taiwu não é menor que {0}
+A benevolência regional de {0} nao é inferior a {1}%
+O dinheiro de Taiwu nao é menor que {0}
+A reputacao de Taiwu nao é menor que {0}
 O número de juramentos de Taiwu é menor que {0}
-A reputação de {0} é positiva quando o evento secreto ocorre
-A reputação de {0} é negativa quando o evento secreto ocorre
+A reputacao de {0} é positiva quando o evento secreto ocorre
+A reputacao de {0} é negativa quando o evento secreto ocorre
 Quando o evento secreto ocorre, {0} é um amigo de {1}
 Quando o evento secreto ocorre, {0} é o parceiro de {1}
 Quando o evento secreto ocorre, {0} é a vítima
-A posição social de Taiwu é {0}
-A benevolência regional de {0} não é inferior a {1}%
+A posicao social de Taiwu é {0}
+A benevolência regional de {0} nao é inferior a {1}%
 A experiência de Taiwu é maior ou igual a {0}
-A pureza de {0} não é inferior a Taiwu
+A pureza de {0} nao é inferior a Taiwu
 O número de seguidores de Taiwu é menor que {0}
-{0} não é um aldeão de Taiwu
+{0} nao é um aldeao de Taiwu
 {0} precisa ser um membro da seita
-Taiwu precisa ter a experiência necessária para usar essa habilidade de ambição
-Taiwu precisa ter a experiência necessária para usar essa habilidade de ambição em relação a {0}
-{0} não pode ter inimizade com Taiwu
-Taiwu possui os recursos para usar essa habilidade de ambição e a habilidade não está em recarga
+Taiwu precisa ter a experiência necessária para usar essa habilidade de ambicao
+Taiwu precisa ter a experiência necessária para usar essa habilidade de ambicao em relacao a {0}
+{0} nao pode ter inimizade com Taiwu
+Taiwu possui os recursos para usar essa habilidade de ambicao e a habilidade nao está em recarga
 {0} precisa ser uma pessoa corrupta
 Taiwu precisa carregar {0}
-A perturbação do qi interno de {0} precisa ser menor que {1}
-A perturbação do qi interno de Taiwu precisa ser menor que {0}
-A posição social de {0} precisa ser {1} ou {2}
+A perturbacao do qi interno de {0} precisa ser menor que {1}
+A perturbacao do qi interno de Taiwu precisa ser menor que {0}
+A posicao social de {0} precisa ser {1} ou {2}
 A afinidade com o oponente atinge ou supera {0}
-{0} não pode ser um monge
+{0} nao pode ser um monge
 {0} precisa ser o senhor da cidade
-{0} não pode ser uma pessoa corrupta ou demoníaca
-{0} não pode ser uma pessoa que se tornou corrupta ou demoníaca devido a livros raros
-{0} não pode ser temporariamente influenciado por efeitos especiais na posição social
+{0} nao pode ser uma pessoa corrupta ou demoníaca
+{0} nao pode ser uma pessoa que se tornou corrupta ou demoníaca devido a livros raros
+{0} nao pode ser temporariamente influenciado por efeitos especiais na posicao social
 A experiência de Taiwu é maior ou igual a {0}
-{0} deve estar ferido, envenenado ou com perturbação do qi interno
+{0} deve estar ferido, envenenado ou com perturbacao do qi interno
 {0} precisa ser adulto
-{0} precisa ter um espaço para consumo
-Taiwu precisa ter um espaço para consumo
+{0} precisa ter um espaco para consumo
+Taiwu precisa ter um espaco para consumo
 Apoio recebido do personagem de terceiro nível da seita Shaolin
 O {0} de Taiwu é maior ou igual a {1}
-Ainda é necessário esperar {0} estações para poder usar
-Este dragão só pode ser domesticado uma vez por mês
+Ainda é necessário esperar {0} estacoes para poder usar
+Este dragao só pode ser domesticado uma vez por mês

@@ -1,5 +1,5 @@
 Ingredientes
-Grãos comuns, cereais, aves e animais, etc.
+Graos comuns, cereais, aves e animais, etc.
 Madeira
 Madeira comum, galhos de bambu, cipós, etc.
 Metais
@@ -13,4 +13,4 @@ Ervas comuns provenientes de várias plantas, minerais, insetos, animais, etc.
 Dinheiro
 Moeda feita de cobre amarelo misturado com prata, de acordo com o estilo da antiga moeda de ouro.
 Prestígio
-Autoridade acumulada pela admiração e respeito de pessoas comuns, membros das artes marciais e até mesmo de inimigos malignos.
+Autoridade acumulada pela admiracao e respeito de pessoas comuns, membros das artes marciais e até mesmo de inimigos malignos.

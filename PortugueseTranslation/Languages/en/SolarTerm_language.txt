@@ -1,25 +1,25 @@
 Início da Primavera
-No início da primavera, as flores de ameixa estão especialmente vibrantes
+No início da primavera, as flores de ameixa estao especialmente vibrantes
 Chuvas de Primavera
-Durante as chuvas de primavera, as flores de pêssego vermelhas estão frescas
+Durante as chuvas de primavera, as flores de pêssego vermelhas estao frescas
 Despertar dos Insetos
-No Despertar dos Insetos, o som do trovão ecoa pelas florestas de bambu
+No Despertar dos Insetos, o som do trovao ecoa pelas florestas de bambu
 Equinócio de Primavera
-No Equinócio de Primavera, as borboletas dançam entre as flores
+No Equinócio de Primavera, as borboletas dancam entre as flores
 Dia de Limpeza dos Túmulos
-No Dia de Limpeza dos Túmulos, as pipas são lançadas, mas algumas se rompem
-Chuvas de Grãos
-Durante as Chuvas de Grãos, o chá novo brilha como esmeralda
-Início do Verão
-No Início do Verão, as amoras são semelhantes às cerejas
+No Dia de Limpeza dos Túmulos, as pipas sao lancadas, mas algumas se rompem
+Chuvas de Graos
+Durante as Chuvas de Graos, o chá novo brilha como esmeralda
+Início do Verao
+No Início do Verao, as amoras sao semelhantes às cerejas
 Pequena Colheita
 Na Pequena Colheita, criamos bichos-da-seda e cultivamos o campo
-Início do Verão
-No Início do Verão, os brotos de arroz são colocados no jardim
-Solstício de Verão
-No Solstício de Verão, as flores de arroz são como tiras brancas de seda
+Início do Verao
+No Início do Verao, os brotos de arroz sao colocados no jardim
+Solstício de Verao
+No Solstício de Verao, as flores de arroz sao como tiras brancas de seda
 Pequeno Calor
-No Pequeno Calor, o vento acelera a maturação dos feijões
+No Pequeno Calor, o vento acelera a maturacao dos feijoes
 Grande Calor
 No Grande Calor, apreciamos as flores de lótus vermelhas à beira do lago
 Início do Outono
@@ -31,7 +31,7 @@ No Orvalho Branco, as andorinhas voltam e os gansos chegam
 Equinócio de Outono
 No Equinócio de Outono, o aroma do osmanthus vermelho enche o jardim
 Orvalho Frio
-No Orvalho Frio, as mudas de vegetais estão verdes nos campos
+No Orvalho Frio, as mudas de vegetais estao verdes nos campos
 Queda de Geada
 Na Queda de Geada, as flores de carrapicho flutuam pelo céu
 Início do Inverno
@@ -45,4 +45,4 @@ No Solstício de Inverno, a neve auspiciosa promete uma colheita abundante
 Pequeno Frio
 No Pequeno Frio, os viajantes sentem saudade e desejam voltar para casa
 Grande Frio
-No Grande Frio, celebramos o fim do ano e a reunião familiar
+No Grande Frio, celebramos o fim do ano e a reuniao familiar

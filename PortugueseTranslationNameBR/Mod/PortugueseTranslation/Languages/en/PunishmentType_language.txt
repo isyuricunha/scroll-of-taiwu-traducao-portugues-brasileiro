@@ -1,8 +1,8 @@
 Matar pessoas de renome
-Matar pessoas com má reputação
+Matar pessoas com má reputacao
 Matar pessoas de grande prestígio
 Prender pessoas de renome
-Prender pessoas com má reputação
+Prender pessoas com má reputacao
 Prender pessoas de grande prestígio
 Matar colegas de seita
 Prender colegas de seita
@@ -18,7 +18,7 @@ Atacar secretamente colegas de seita
 Roubar técnicas de outros mestres
 Envenenar itens
 Quebrar regras alimentares
-Ser envolvido por cônjuge
+Ser envolvido por conjuge
 Matar pessoas secretamente
 Prender pessoas secretamente
 Fazer amizade com discípulos da Seita Shaolin
@@ -36,4 +36,4 @@ Fazer amizade com discípulos da Seita Wu Xian
 Fazer amizade com discípulos da Seita Jie Qing
 Fazer amizade com discípulos da Seita Fu Long Tan
 Fazer amizade com discípulos da Seita Xue Hao
-Forçar alguém a ficar em silêncio durante uma competição de habilidades
+Forcar alguém a ficar em silêncio durante uma competicao de habilidades

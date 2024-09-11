@@ -1,34 +1,34 @@
-Dragão Branco
-Dragão Negro
-Dragão Azul
-Dragão Vermelho
-Dragão Amarelo
-Dragão Yin-Yang
-Dragão Relâmpago
-Dragão Fogo e Trovão
-Dragão Olho Dourado
-Dragão do Lago Verde
-Dragão Nuvem em Chamas
-Dragão do Poço de Lama
-Dragão Chifre Flamejante
-Dragão da Montanha Oculta
-Dragão Ossos Refinados
-Dragão do Mar Revolto
-Dragão das Nuvens
-Dragão das Profundezas
-Dragão do Trovão Celestial
-Dragão da Estrada Deserta
-Dragão Qilin
-Dragão Prisão dos Espíritos
-Dragão da Montanha Imortal
-Dragão do Poço de Fogo
-Dragão da Montanha Incendiada
-Dragão das Quatro Transformações
-Dragão dos Cem Tesouros
-Dragão do Mar Calmo
-Dragão do Céu Devastador
-Dragão das Escamas Caóticas
-Dragão das Cinco Cores
+Dragao Branco
+Dragao Negro
+Dragao Azul
+Dragao Vermelho
+Dragao Amarelo
+Dragao Yin-Yang
+Dragao Relampago
+Dragao Fogo e Trovao
+Dragao Olho Dourado
+Dragao do Lago Verde
+Dragao Nuvem em Chamas
+Dragao do Poco de Lama
+Dragao Chifre Flamejante
+Dragao da Montanha Oculta
+Dragao Ossos Refinados
+Dragao do Mar Revolto
+Dragao das Nuvens
+Dragao das Profundezas
+Dragao do Trovao Celestial
+Dragao da Estrada Deserta
+Dragao Qilin
+Dragao Prisao dos Espíritos
+Dragao da Montanha Imortal
+Dragao do Poco de Fogo
+Dragao da Montanha Incendiada
+Dragao das Quatro Transformacoes
+Dragao dos Cem Tesouros
+Dragao do Mar Calmo
+Dragao do Céu Devastador
+Dragao das Escamas Caóticas
+Dragao das Cinco Cores
 Prisioneiro Niu
 Yazi
 Zhaofeng

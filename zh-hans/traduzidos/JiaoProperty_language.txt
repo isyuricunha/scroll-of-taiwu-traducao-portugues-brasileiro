@@ -10,21 +10,21 @@ Taxa de cair de itens diminuiu
 Capacidade de Tratamento de Desmaio
 Capacidade de tratamento de desmaio aumentou
 Capacidade de tratamento de desmaio diminuiu
-Vagas de Prisão
-Vagas de prisão aumentaram
-Vagas de prisão diminuíram
-Preço
-Preço aumentou
-Preço diminuiu
+Vagas de Prisao
+Vagas de prisao aumentaram
+Vagas de prisao diminuíram
+Preco
+Preco aumentou
+Preco diminuiu
 Valor
 Valor aumentou
 Valor diminuiu
 Humor com Presentes
 Humor com presentes aumentou
 Humor com presentes diminuiu
-Apreciação de Presentes
-Apreciação de presentes aumentou
-Apreciação de presentes diminuiu
+Apreciacao de Presentes
+Apreciacao de presentes aumentou
+Apreciacao de presentes diminuiu
 Comprimento do Corpo
 
 

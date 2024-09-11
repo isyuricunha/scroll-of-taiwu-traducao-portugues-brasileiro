@@ -1,4 +1,4 @@
-Lançar
+Lancar
 Atirar
 Defender
 Cortar
@@ -9,7 +9,7 @@ Ponto
 Pegar
 Som
 Enredar
-Amaldiçoar
+Amaldicoar
 Máquina
 Remédio
 Veneno

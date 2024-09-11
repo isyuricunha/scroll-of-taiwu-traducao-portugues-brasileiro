@@ -1,33 +1,33 @@
 Encontrou uma miragem
-Encontrou uma miragem, aumentando a reputação
+Encontrou uma miragem, aumentando a reputacao
 Descobriu selvagens
-Descobriu selvagens, aumentando a reputação
+Descobriu selvagens, aumentando a reputacao
 Descobriu animais
-Descobriu animais raros, aumentando a reputação
+Descobriu animais raros, aumentando a reputacao
 Descobriu plantas
-Descobriu plantas raras, aumentando a reputação
-Transmitiu informações
-Transmitiu informações, aumentando a reputação
+Descobriu plantas raras, aumentando a reputacao
+Transmitiu informacoes
+Transmitiu informacoes, aumentando a reputacao
 Descobriu um assentamento
-Descobriu um assentamento, aumentando a reputação
+Descobriu um assentamento, aumentando a reputacao
 Encontrou clima raro
-Encontrou um clima raro, aumentando a reputação
+Encontrou um clima raro, aumentando a reputacao
 Perdeu-se
-Perdeu o caminho, resultando em redução da reputação
-Encontrou ladrões
-Encontrou ladrões, perdendo parte dos suprimentos
+Perdeu o caminho, resultando em reducao da reputacao
+Encontrou ladroes
+Encontrou ladroes, perdendo parte dos suprimentos
 Danos devido a terrenos acidentados
 O percurso acidentado causou a perda de alguns suprimentos
-Descobriu destroços de uma caravana
-Descobriu destroços de uma caravana, obtendo alguns suprimentos
+Descobriu destrocos de uma caravana
+Descobriu destrocos de uma caravana, obtendo alguns suprimentos
 Ajudou um viajante
-Ajudou um viajante, resultando em redução dos suprimentos
-Problemas com a adaptação ao ambiente
-Problemas com a adaptação ao ambiente pelo grupo de transporte, resultando em redução dos suprimentos
+Ajudou um viajante, resultando em reducao dos suprimentos
+Problemas com a adaptacao ao ambiente
+Problemas com a adaptacao ao ambiente pelo grupo de transporte, resultando em reducao dos suprimentos
 Recebeu ajuda
 Recebeu ajuda, aumentando os suprimentos
-Encontrou caça
-Encontrou caça, aumentando os suprimentos
+Encontrou caca
+Encontrou caca, aumentando os suprimentos
 Descobriu um pomar
 Descobriu um pomar, podendo buscar suprimentos
 Descobriu uma vila

@@ -34,7 +34,7 @@ Percentual de Precisao
 Percentual de Rapidez
 Alcance do Ataque
 Ataque ao Peito e Costas
-Ataque à Cintura e Abdômen
+Ataque à Cintura e Abdomen
 Ataque à Cabeca
 Ataque às Maos
 Ataque aos Pés
@@ -63,7 +63,7 @@ Necessário para Pegada
 Necessário para Música
 Necessário para Enredamento
 Necessário para Encantamento
-Necessário para Mecânica
+Necessário para Mecanica
 Necessário para Remédio
 Necessário para Veneno
 Necessário para Varredura

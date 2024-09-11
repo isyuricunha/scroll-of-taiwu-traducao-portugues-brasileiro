@@ -1,17 +1,17 @@
 
 
-“Eu ainda preciso proteger meus parentes e amigos. Esta tarefa não pode ser negligenciada, temo que não poderei me encontrar com você...”
-“Eu ainda preciso socorrer meus parentes e amigos. Esta tarefa não pode ser negligenciada, temo que não poderei me encontrar com você...”
+“Eu ainda preciso proteger meus parentes e amigos. Esta tarefa nao pode ser negligenciada, temo que nao poderei me encontrar com você...”
+“Eu ainda preciso socorrer meus parentes e amigos. Esta tarefa nao pode ser negligenciada, temo que nao poderei me encontrar com você...”
 
 
 
 
 
-“Eu ainda preciso buscar livros raros. Esta tarefa não pode ser negligenciada, temo que não poderei me encontrar com você...”
-“Eu ainda preciso adotar crianças abandonadas. Esta tarefa não pode ser negligenciada, temo que não poderei me encontrar com você...”
-“Eu ainda preciso resistir aos três demônios. Esta tarefa não pode ser negligenciada, temo que não poderei me encontrar com você...”
-“Eu ainda preciso expulsar os inimigos que se aproximam. Esta tarefa não pode ser negligenciada, temo que não poderei me encontrar com você...”
-“Eu ainda preciso desafiar meus colegas de seita. Esta tarefa não pode ser negligenciada, temo que não poderei me encontrar com você...”
+“Eu ainda preciso buscar livros raros. Esta tarefa nao pode ser negligenciada, temo que nao poderei me encontrar com você...”
+“Eu ainda preciso adotar criancas abandonadas. Esta tarefa nao pode ser negligenciada, temo que nao poderei me encontrar com você...”
+“Eu ainda preciso resistir aos três demonios. Esta tarefa nao pode ser negligenciada, temo que nao poderei me encontrar com você...”
+“Eu ainda preciso expulsar os inimigos que se aproximam. Esta tarefa nao pode ser negligenciada, temo que nao poderei me encontrar com você...”
+“Eu ainda preciso desafiar meus colegas de seita. Esta tarefa nao pode ser negligenciada, temo que nao poderei me encontrar com você...”
 
-“Eu ainda preciso proteger o armazém. Esta tarefa não pode ser negligenciada, temo que não poderei me encontrar com você...”
-“Eu ainda preciso tratar a doença mental. Esta tarefa não pode ser negligenciada, temo que não poderei me encontrar com você...”
+“Eu ainda preciso proteger o armazém. Esta tarefa nao pode ser negligenciada, temo que nao poderei me encontrar com você...”
+“Eu ainda preciso tratar a doenca mental. Esta tarefa nao pode ser negligenciada, temo que nao poderei me encontrar com você...”
