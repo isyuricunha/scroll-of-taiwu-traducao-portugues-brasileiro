@@ -1,36 +1,36 @@
-Encounter a mirage
-Encountering a mirage, Reputation increased
-Discover Savage
-Savage discovered, Reputation increased
-Discover Animals
-Rare animals discovered, Reputation increased
-Discover Plants
-Rare plants discovered, Reputation increased
-Report Back
-The experiences were reported back, Reputation increased
-Discover a settlement
-A settlement was discovered, Reputation increased
-Read the weather
-Encountered rare weather, Reputation increased
-Got Lost
-Got lost, Reputation decreased
-Encounter thieves
-Encountered thieves, some goods were lost
-Hit a pothole
-Hit a pothole, some goods were lost
-Found the remains of a caravan
-Found the remains of a caravan, and obtained some goods
-Assist some travelers
-Assisted some travelers, resulting in decreased supplies
-Bad weather
-Encountered bad weather, resulting in decreased supplies
-Get Assistance
-Received assistance and increased supplies
-Occasional Wild Game
-Game was found and supplies increased
-Discover forest fruit
-Found the fruit forest and supplies could be foraged
-Discover a village
-Villages was found and supplies could be exchanged
-Meet a caravan
-When the two caravans met, supplies could be exchanged
+Encontrou uma miragem
+Encontrou uma miragem, aumentando a reputação
+Descobriu selvagens
+Descobriu selvagens, aumentando a reputação
+Descobriu animais
+Descobriu animais raros, aumentando a reputação
+Descobriu plantas
+Descobriu plantas raras, aumentando a reputação
+Transmitiu informações
+Transmitiu informações, aumentando a reputação
+Descobriu um assentamento
+Descobriu um assentamento, aumentando a reputação
+Encontrou clima raro
+Encontrou um clima raro, aumentando a reputação
+Perdeu-se
+Perdeu o caminho, resultando em redução da reputação
+Encontrou ladrões
+Encontrou ladrões, perdendo parte dos suprimentos
+Danos devido a terrenos acidentados
+O percurso acidentado causou a perda de alguns suprimentos
+Descobriu destroços de uma caravana
+Descobriu destroços de uma caravana, obtendo alguns suprimentos
+Ajudou um viajante
+Ajudou um viajante, resultando em redução dos suprimentos
+Problemas com a adaptação ao ambiente
+Problemas com a adaptação ao ambiente pelo grupo de transporte, resultando em redução dos suprimentos
+Recebeu ajuda
+Recebeu ajuda, aumentando os suprimentos
+Encontrou caça
+Encontrou caça, aumentando os suprimentos
+Descobriu um pomar
+Descobriu um pomar, podendo buscar suprimentos
+Descobriu uma vila
+Descobriu uma vila, podendo trocar suprimentos
+Encontrou uma caravana
+Encontrou uma caravana, podendo trocar suprimentos

@@ -1,38 +1,38 @@
-White Jiao
-Black Jiao
-Green Jiao
-Red Jiao
-Yellow Jiao
-Yin-Yang Jiao
-Flying Lightning Jiao
-Thunder Fire Jiao
-Golden Eye Jiao
-Green Pool Jiao
-Burnt Cloud Jiao
-Clay Pool Jiao
-Flame Horn Jiao
-Leaning Mountain Jiao
-Refined Bone Jiao
-Disturbed Ocean Jiao
-Draped Clouds Jiao
-Deep Depth Jiao
-Heaven Thunder Jiao
-Desolate Road Jiao
-Qilin Jiao
-Ghost Prison Jiao
-Immortal Mountain Jiao
-Flaming Pond Jiao
-Burning Hill Jiao
-Four Changes Jiao
-Hundred Jewels Jiao
-Calm Sea Jiao
-Heaven-swallowing Jiao
-Mixed Scale Jiao
-Rainbow Jiao
-Qiuniu
+Dragão Branco
+Dragão Negro
+Dragão Azul
+Dragão Vermelho
+Dragão Amarelo
+Dragão Yin-Yang
+Dragão Relâmpago
+Dragão Fogo e Trovão
+Dragão Olho Dourado
+Dragão do Lago Verde
+Dragão Nuvem em Chamas
+Dragão do Poço de Lama
+Dragão Chifre Flamejante
+Dragão da Montanha Oculta
+Dragão Ossos Refinados
+Dragão do Mar Revolto
+Dragão das Nuvens
+Dragão das Profundezas
+Dragão do Trovão Celestial
+Dragão da Estrada Deserta
+Dragão Qilin
+Dragão Prisão dos Espíritos
+Dragão da Montanha Imortal
+Dragão do Poço de Fogo
+Dragão da Montanha Incendiada
+Dragão das Quatro Transformações
+Dragão dos Cem Tesouros
+Dragão do Mar Calmo
+Dragão do Céu Devastador
+Dragão das Escamas Caóticas
+Dragão das Cinco Cores
+Prisioneiro Niu
 Yazi
-Chaofeng
-Pulao
+Zhaofeng
+Puliao
 Suanni
 Baxia
 Bian

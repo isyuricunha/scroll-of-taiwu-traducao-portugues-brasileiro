@@ -1,36 +1,36 @@
-Travel Speed
-Travel Speed Increased
-Travel Speed Decreased
-Max Inv. Weight
-Max Inv. Weight Increased
-Max Inv. Weight Decreased
-Loot
-Loot Increased
-Loot Decreased
-Exorcism
-Exorcism Increased
-Exorcism Decreased
-Captive Limit
-Captive Limit Increased
-Captive Limit Decreased
-Price
-Price Increased
-Price Decreased
-Value
-Value Increased
-Value Decreased
-Gift Bonus
-Gift Bonus Increased
-Gift Bonus Decreased
-Favor Bonus
-Favor Bonus Increased
-Favor Bonus Decreased
-Length
+Velocidade de Viagem
+Velocidade de viagem aumentou
+Velocidade de viagem diminuiu
+Tamanho da Mochila
+Tamanho da mochila aumentou
+Tamanho da mochila diminuiu
+Taxa de Cair de Itens
+Taxa de cair de itens aumentou
+Taxa de cair de itens diminuiu
+Capacidade de Tratamento de Desmaio
+Capacidade de tratamento de desmaio aumentou
+Capacidade de tratamento de desmaio diminuiu
+Vagas de Prisão
+Vagas de prisão aumentaram
+Vagas de prisão diminuíram
+Preço
+Preço aumentou
+Preço diminuiu
+Valor
+Valor aumentou
+Valor diminuiu
+Humor com Presentes
+Humor com presentes aumentou
+Humor com presentes diminuiu
+Apreciação de Presentes
+Apreciação de presentes aumentou
+Apreciação de presentes diminuiu
+Comprimento do Corpo
 
 
-Weight
+Peso
 
 
-Lifespan
+Vida Útil
 
 

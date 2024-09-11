@@ -1,25 +1,25 @@
-Rose Gold
-Dark Peach
-Espresso
-Rosy Brown
-Deep Chestnut
-Brown
-Ivory
-Mushroom
-Chestnut
-Darkish yellow
-Aquamarine
-Cypress green
-Dark Green
-Sky blue
-Gun Powder
-Sea Blue
-Moon white
-Riverbed blue
-Indigo
-Lavender
-Dark purple
-Woody brown
-White
-Grey
-Black
+Cor de Lotus
+Cor de Rosa Claro
+Cor Negra
+Cor de Azul Escuro
+Cor de Chá
+Cor Marrom
+Cor de Marfim
+Cor de Cervídeo
+Cor de Castanha
+Cor Amarelo-Preto
+Verde Água
+Verde Cipreste
+Verde Escuro
+Azul Celeste
+Azul Corvo
+Azul-Marinho
+Branco-Lunar
+Azul Escuro
+Azul Índigo
+Roxo Claro
+Cinza Escuro
+Preto
+Branco
+Cinza
+Preto

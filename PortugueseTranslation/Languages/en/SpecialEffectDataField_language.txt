@@ -1,36 +1,36 @@
-MIG
-FIN
-SWI
-BRE
-Ext. Pen.
-Int. Pen.
-DIV
-PAR
-EVA
-FOC
-Ext. Def.
-Int. Def.
-Stance Recovery
-Inhale Recovery
-MOV·Spd
-Ext. Recovery
-Cast Speed
-Int. Recovery
-Wp·Switch CD
-Attack Speed
-Int Ratio Bonus
-Internal Breath
-Acritoxin Res
-Umbritoxin Res
-Cryotoxin Res
-Pyrotoxin Res
-Necrotoxin Res
-Oneirotoxin Res
-External Injury
-Internal Injury
-Mood
-Amount of True Qi Obtained
-Stamina Recovery Rate
-Minimal Attack Range
-Maximum Attack Range
-Seven Instincts
+Força
+Habilidade
+Velocidade
+Concentração
+Quebra Corporal
+Quebra de Energia
+Dissipação de Força
+Desmontar Técnica
+Esquiva
+Proteção Mental
+Controle Corporal
+Controle de Energia
+Recuperação de Postura
+Recuperação de Energia
+Velocidade de Movimento
+Passos Firmes
+Velocidade de Execução
+Atingir o Objeto de Foco
+Troca de Arma
+Velocidade de Ataque
+Desempenho de Poder Interno
+Regulação da Respiração
+Resistência a Veneno Intenso
+Resistência a Veneno Tóxico
+Resistência a Veneno Gelado
+Resistência a Veneno Escarlate
+Resistência a Veneno Corrosivo
+Resistência a Veneno Ilusório
+Dano Externo Direto
+Dano Interno Direto
+Humor
+Quantidade de Energia Verdadeira Obtida
+Velocidade de Recuperação dos Pés
+Distância de Ataque Mínima
+Distância de Ataque Máxima
+Atributos dos Sete Elementos
