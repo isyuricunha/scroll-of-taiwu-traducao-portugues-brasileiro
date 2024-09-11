@@ -1,0 +1,46 @@
+Desconhecido
+Terra desconhecida…
+Montanhas
+Aqui, as altas montanhas são contínuas e intermináveis, com cristas que se estendem sem parar, vistas de frente como cordilheiras e de lado como picos.
+Desfiladeiro
+Os desfiladeiros têm penhascos íngremes em ambos os lados, erguendo-se com grande majestade e imponência. As estradas dentro dos desfiladeiros são íngremes, tornando difícil o tráfego de veículos e animais.
+Cavernas
+Cavernas formadas naturalmente em superfícies de terra, penhascos e paredões, com passagens estreitas, permitindo apenas o trânsito de uma pessoa de lado.
+Rios
+Os rios têm água turva e são frequentemente carregados de sedimentos. Suas águas correm na direção leste-oeste e se estendem ao norte-sul, às vezes se estendendo por milhares de milhas.
+Lagos
+Os lagos têm água clara e corrente suave, com diversas plantas aquáticas, peixes e camarões.
+Pântano
+Os pântanos têm água cristalina, são pequenos e profundos, com uma aparência obscura e secreta, abrigando uma quantidade reduzida de peixes e camarões.
+Cabana de Palha
+Uma cabana simples feita de palha, bambu e barro, usada apenas para proteger contra vento e chuva.
+Aldeia
+Um assentamento formado por algumas famílias. Os moradores trabalham ao amanhecer e descansam ao anoitecer, vivendo de agricultura, tecelagem e caça.
+Mercado
+Um mercado com uma grande população. A cidade realiza feiras regulares, com frequente troca de mercadorias ao redor, além de várias atrações e locais de reunião.
+Campo de Flores
+Uma área coberta por flores. Com uma profusão de flores, as cores variam com o tempo, exalando um aroma que se espalha por milhas. É comum ver abelhas e borboletas voando.
+Bosque
+Uma área de terra coberta por árvores. Inclui árvores grandes e arbustos, com folhas abundantes, brisa fresca e frutas doces. É comum ver pássaros e animais em busca de comida.
+Campo Selvagem
+Uma área aberta e espaçosa com vegetação dispersa. O terreno é vasto e verdejante, frequentemente visitado por aves e animais que param para descansar.
+Acampamento
+Um local onde soldados estão acampados. Cercado por cercas e muros, oferece certa capacidade de defesa.
+Templo
+Templos comuns, geralmente construídos com doações dos residentes locais, com estátuas de Buda, Bodhisattvas, deuses celestiais e Arhats.
+Templo Taoísta
+Local onde os taoístas praticam sua religião, ou que serve para adorar deuses e mestres taoístas. Tem uma aura mística e é frequentemente visitado por pessoas em busca de bênçãos.
+Ruínas
+Construções ou locais antigos que restaram do passado. É possível vislumbrar vestígios da vida antiga e talvez encontrar algumas relíquias e objetos preciosos.
+Terra Desolada
+Área desolada e vasta. O solo é infértil, com pouca vegetação e animais lutando para sobreviver, e é raramente visitada por pessoas.
+Ruínas
+Não se sabe o que aconteceu aqui antes; as antigas construções agora são apenas um montículo de ruínas, inutilizáveis, com apenas corvos sobrevoando.
+Deserto
+No deserto, não cresce vegetação alguma, apenas uma vasta extensão de areia amarela. Sem preparação adequada, é difícil atravessar, embora às vezes se possa encontrar oásis férteis.
+Túmulo Antigo
+Um túmulo antigo e secreto deixado por pessoas do passado, que além de ossos pode conter armadilhas, segredos e tesouros.
+Penhasco
+Uma encosta extremamente íngreme e alta, quase impossível de escalar. No topo, podem crescer pinheiros e ciprestes únicos, com uma paisagem distinta.
+Abismo
+Um abismo profundo e insondável, ninguém se atreve a explorar, então ninguém sabe quais perigos podem existir lá dentro.
