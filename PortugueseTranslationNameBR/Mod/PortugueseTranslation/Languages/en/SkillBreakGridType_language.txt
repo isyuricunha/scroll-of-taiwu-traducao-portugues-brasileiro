@@ -1,48 +1,48 @@
 Início
-Ponto de partida para o avanço.
+Ponto de partida para o avanco.
 Fim
-Ponto final do avanço.\nSomente ao conectar este espaço, o avanço pode ser bem-sucedido. Caso contrário, nenhum prêmio de avanço será obtido.
+Ponto final do avanco.\nSomente ao conectar este espaco, o avanco pode ser bem-sucedido. Caso contrário, nenhum prêmio de avanco será obtido.
 Resumo
-Sem descriçao
+Sem descricao
 Como de costume
-Avanço conforme o plano.
+Avanco conforme o plano.
 Transmissao
-Ao conectar este espaço, a <color=#brightblue>taxa de sucesso de todos os espaços ao redor aumenta em 30%</color>.
+Ao conectar este espaco, a <color=#brightblue>taxa de sucesso de todos os espacos ao redor aumenta em 30%</color>.
 Maré de Sabedoria
-Para cada espaço ao redor com uma conexao bem-sucedida, a <color=#brightblue>taxa de sucesso deste espaço aumenta em 30%</color>.
-Concentraçao
-Para cada espaço ao redor com uma falha de conexao, a <color=#brightblue>taxa de sucesso deste espaço aumenta em 60%</color>.
+Para cada espaco ao redor com uma conexao bem-sucedida, a <color=#brightblue>taxa de sucesso deste espaco aumenta em 30%</color>.
+Concentracao
+Para cada espaco ao redor com uma falha de conexao, a <color=#brightblue>taxa de sucesso deste espaco aumenta em 60%</color>.
 Estabelecimento
-A <color=#brightred>taxa de sucesso de conexao deste espaço diminui em 100%</color>.\nA taxa de sucesso de conexao de todos os espaços ao redor aumenta em 60%.
+A <color=#brightred>taxa de sucesso de conexao deste espaco diminui em 100%</color>.\nA taxa de sucesso de conexao de todos os espacos ao redor aumenta em 60%.
 Perpetuidade
-O próximo espaço conectado a este <color=#brightblue>certamente terá uma conexao bem-sucedida</color>.
-Inspiraçao
-Conectar este espaço <color=#brightblue>nao aumenta o número de tentativas de avanço</color>.
+O próximo espaco conectado a este <color=#brightblue>certamente terá uma conexao bem-sucedida</color>.
+Inspiracao
+Conectar este espaco <color=#brightblue>nao aumenta o número de tentativas de avanco</color>.
 Esquecimento de Si
-A taxa de sucesso de conexao deste espaço <color=#brightred>diminui em 30%</color>.\nConectar este espaço pode <color=#brightblue>reduzir em 1 a tentativa de avanço</color>.
+A taxa de sucesso de conexao deste espaco <color=#brightred>diminui em 30%</color>.\nConectar este espaco pode <color=#brightblue>reduzir em 1 a tentativa de avanco</color>.
 Retorno
-A taxa de sucesso de conexao deste espaço <color=#brightred>diminui em 60%</color>.\nConectar este espaço pode <color=#brightblue>reduzir em 2 as tentativas de avanço</color>.
+A taxa de sucesso de conexao deste espaco <color=#brightred>diminui em 60%</color>.\nConectar este espaco pode <color=#brightblue>reduzir em 2 as tentativas de avanco</color>.
 Sequência
-A taxa de sucesso de conexao deste espaço <color=#brightblue>aumenta em 60%</color>.\nConectar este espaço adicionará <color=#brightred>1 tentativa extra de avanço</color>.
-Esforço
-A taxa de sucesso de conexao deste espaço <color=#brightblue>aumenta em 100%</color>.\nConectar este espaço adicionará <color=#brightred>2 tentativas extras de avanço</color>.
+A taxa de sucesso de conexao deste espaco <color=#brightblue>aumenta em 60%</color>.\nConectar este espaco adicionará <color=#brightred>1 tentativa extra de avanco</color>.
+Esforco
+A taxa de sucesso de conexao deste espaco <color=#brightblue>aumenta em 100%</color>.\nConectar este espaco adicionará <color=#brightred>2 tentativas extras de avanco</color>.
 Transparência
-Ao conectar este espaço, <color=#brightblue>revela vários espaços nao exibidos</color>.
+Ao conectar este espaco, <color=#brightblue>revela vários espacos nao exibidos</color>.
 Desafio
-A taxa de sucesso de conexao deste espaço <color=#brightred>diminui em 60%</color>.\nConectar este espaço fará com que vários espaços falhados <color=#brightblue>voltem a ser conectáveis</color>.
-Retorno ao Coraçao
-A taxa de sucesso de conexao deste espaço <color=#brightred>diminui em 30%</color>.\nConectar este espaço fará com que todos os “espaços especiais de avanço” ao redor se tornem “como de costume”.
+A taxa de sucesso de conexao deste espaco <color=#brightred>diminui em 60%</color>.\nConectar este espaco fará com que vários espacos falhados <color=#brightblue>voltem a ser conectáveis</color>.
+Retorno ao Coracao
+A taxa de sucesso de conexao deste espaco <color=#brightred>diminui em 30%</color>.\nConectar este espaco fará com que todos os “espacos especiais de avanco” ao redor se tornem “como de costume”.
 Vestido de Noiva
-Ao conectar este espaço, um “espaço de avanço adicional” nao conectado será aleatoriamente transferido para um espaço “como de costume” ao redor deste espaço.
+Ao conectar este espaco, um “espaco de avanco adicional” nao conectado será aleatoriamente transferido para um espaco “como de costume” ao redor deste espaco.
 Desaparecimento
-Conectar este espaço pode <color=#brightblue>reduzir em 3 tentativas de avanço</color>.\nAleatoriamente <color=#brightred>transforma 1 “espaço de avanço adicional” nao conectado em “como de costume”</color>.
+Conectar este espaco pode <color=#brightblue>reduzir em 3 tentativas de avanco</color>.\nAleatoriamente <color=#brightred>transforma 1 “espaco de avanco adicional” nao conectado em “como de costume”</color>.
 Paixao
-Quanto mais o número de tentativas de avanço excede a metade do limite de talento, mais a taxa de sucesso de conexao deste espaço e todos os espaços ao redor <color=#brightblue>aumenta</color>.
-Determinaçao
-Quanto menos o número de tentativas de avanço é menor que a metade do limite de talento, mais a taxa de sucesso de conexao deste espaço e todos os espaços ao redor <color=#brightblue>aumenta</color>.
+Quanto mais o número de tentativas de avanco excede a metade do limite de talento, mais a taxa de sucesso de conexao deste espaco e todos os espacos ao redor <color=#brightblue>aumenta</color>.
+Determinacao
+Quanto menos o número de tentativas de avanco é menor que a metade do limite de talento, mais a taxa de sucesso de conexao deste espaco e todos os espacos ao redor <color=#brightblue>aumenta</color>.
 Habilidade
-Conectar este espaço adicionará <color=#brightred>1 tentativa extra de avanço</color>.\nAo conectar este espaço, imediatamente <color=#brightblue>considera 1 “espaço de avanço adicional” nao conectado como conectado</color>.
-Perfeiçao
-Conhecimento completo sobre este espaço.\nEste espaço certamente <color=#brightblue>terá uma conexao bem-sucedida</color>.
+Conectar este espaco adicionará <color=#brightred>1 tentativa extra de avanco</color>.\nAo conectar este espaco, imediatamente <color=#brightblue>considera 1 “espaco de avanco adicional” nao conectado como conectado</color>.
+Perfeicao
+Conhecimento completo sobre este espaco.\nEste espaco certamente <color=#brightblue>terá uma conexao bem-sucedida</color>.
 Erro Repetido
-Já enfrentou dificuldades neste espaço.\nA taxa de sucesso de conexao deste espaço <color=#brightblue>aumenta em 100%</color>, mas conectar este espaço, seja sucesso ou falha, <color=#brightred>resultará em perda de saúde</color>.
+Já enfrentou dificuldades neste espaco.\nA taxa de sucesso de conexao deste espaco <color=#brightblue>aumenta em 100%</color>, mas conectar este espaco, seja sucesso ou falha, <color=#brightred>resultará em perda de saúde</color>.

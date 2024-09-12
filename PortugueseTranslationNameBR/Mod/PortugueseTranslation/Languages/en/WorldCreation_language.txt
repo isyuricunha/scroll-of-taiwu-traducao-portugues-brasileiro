@@ -1,11 +1,11 @@
-Duraçao da Vida dos Personagens
-Duraçao da vida de todos os personagens no jogo.\n<color=#E3C66DFF>（A duraçao da vida dos personagens nao afeta a dificuldade do jogo.）</color>
+Duracao da Vida dos Personagens
+Duracao da vida de todos os personagens no jogo.\n<color=#E3C66DFF>（A duracao da vida dos personagens nao afeta a dificuldade do jogo.）</color>
 Morte Precoce
 Normal
 Longa
 Extremamente Longa
 Dificuldade de Combate
-Nível de poder e inteligência dos inimigos em combate.\n<color=#E3C66DFF>（Quanto maior a dificuldade do combate, mais poderosos serao os inimigos; quanto maior a inteligência dos inimigos, mais açoes adicionais eles podem realizar, como melhor controle de ataque e defesa, e timing.）</color>
+Nível de poder e inteligência dos inimigos em combate.\n<color=#E3C66DFF>（Quanto maior a dificuldade do combate, mais poderosos serao os inimigos; quanto maior a inteligência dos inimigos, mais acoes adicionais eles podem realizar, como melhor controle de ataque e defesa, e timing.）</color>
 <color=#pinkyellow>Normal</color>
 <color=#9FE0DCFF>Difícil</color>
 <color=#FFE78FFF>Extremamente Difícil</color>
@@ -16,14 +16,14 @@ Eficiência básica de leitura de livros.\n<color=#yellow>（Quanto maior a efic
 <color=#9FE0DCFF>Normal</color>
 <color=#FFE78FFF>Devagar</color>
 <color=#FF5331FF>Livros Celestiais</color>
-Dificuldade de Superaçao
-Taxa de sucesso ao conectar a superaçao de técnicas.\n<color=#yellow>（Quanto maior a taxa de sucesso, mais fácil será escolher as rotas de conexao durante a superaçao.）</color>
+Dificuldade de Superacao
+Taxa de sucesso ao conectar a superacao de técnicas.\n<color=#yellow>（Quanto maior a taxa de sucesso, mais fácil será escolher as rotas de conexao durante a superacao.）</color>
 <color=#pinkyellow>Fácil</color>
 <color=#9FE0DCFF>Normal</color>
 <color=#FFE78FFF>Difícil</color>
 <color=#FF5331FF>Perdido</color>
 Velocidade do Ciclo Celestial
-Eficiência básica da rotaçao do Ciclo Celestial.\n<color=#yellow>（Quanto maior a eficiência da rotaçao, mais energia interna e verdadeira energia você obterá durante a troca de meses ou a rotaçao ativa do Ciclo Celestial.）</color>
+Eficiência básica da rotacao do Ciclo Celestial.\n<color=#yellow>（Quanto maior a eficiência da rotacao, mais energia interna e verdadeira energia você obterá durante a troca de meses ou a rotacao ativa do Ciclo Celestial.）</color>
 <color=#pinkyellow>Rápida</color>
 <color=#FF5331FF>Treinamento Rigoroso</color>
 Número de Viloes
@@ -37,26 +37,26 @@ Quanto mais rápida a incursao, mais fácil será para a Vila Taiwu ser destruí
 <color=#FFE78FFF>Rápido</color>
 <color=#FF5331FF>Extremamente Rápido</color>
 Recursos do Mundo
-Um mundo próspero será benéfico para o desenvolvimento de Taiwu.\nMas mesmo o mundo mais desolado pode se recuperar gradualmente.\n<color=#E3C66DFF>（Os recursos do mundo afetam diretamente a recuperaçao dos recursos em diferentes locais, os ganhos da Vila Taiwu, o lucro de itens vendidos e os recursos detidos pelos habitantes; na dificuldade Taoyuan, a quantidade de recursos coletados também pode variar.）</color>
+Um mundo próspero será benéfico para o desenvolvimento de Taiwu.\nMas mesmo o mundo mais desolado pode se recuperar gradualmente.\n<color=#E3C66DFF>（Os recursos do mundo afetam diretamente a recuperacao dos recursos em diferentes locais, os ganhos da Vila Taiwu, o lucro de itens vendidos e os recursos detidos pelos habitantes; na dificuldade Taoyuan, a quantidade de recursos coletados também pode variar.）</color>
 <color=#pinkyellow>Taoyuan</color>
 <color=#FFE78FFF>Estéril</color>
 <color=#FF5331FF>Desolado</color>
 Número de Habitantes do Mundo
-O número de habitantes determina o limite máximo de NPCs ativos no jogo; quanto mais NPCs, mais interessante é o mundo de Taiwu.\n<color=#E3C66DFF>（Quanto maior a populaçao mundial, melhor deve ser o desempenho do computador.）</color>\n<color=#E4504DFF>（Esta opçao nao pode ser alterada após o início do jogo!）</color>
+O número de habitantes determina o limite máximo de NPCs ativos no jogo; quanto mais NPCs, mais interessante é o mundo de Taiwu.\n<color=#E3C66DFF>（Quanto maior a populacao mundial, melhor deve ser o desempenho do computador.）</color>\n<color=#E4504DFF>（Esta opcao nao pode ser alterada após o início do jogo!）</color>
 Poucos
 Muitos
 Numerosos
-Restriçoes de Posiçao
-Restriçoes de posiçao limitarao as opçoes de eventos disponíveis no jogo de acordo com diferentes posturas sociais, proporcionando uma experiência mais autêntica do mundo de Taiwu.
+Restricoes de Posicao
+Restricoes de posicao limitarao as opcoes de eventos disponíveis no jogo de acordo com diferentes posturas sociais, proporcionando uma experiência mais autêntica do mundo de Taiwu.
 Ativado
 Desativado
 Herdeiros Aleatórios
-Quando a família Taiwu nao tem herdeiros, herdeiros aleatórios aparecerao para garantir a continuidade da família Taiwu.\n<color=#E3C66DFF>（Nao ter herdeiros resultará em falha no jogo!）</color>\n<color=#E4504DFF>（Esta opçao nao pode ser alterada após o início do jogo!）</color>
+Quando a família Taiwu nao tem herdeiros, herdeiros aleatórios aparecerao para garantir a continuidade da família Taiwu.\n<color=#E3C66DFF>（Nao ter herdeiros resultará em falha no jogo!）</color>\n<color=#E4504DFF>（Esta opcao nao pode ser alterada após o início do jogo!）</color>
 Prática dos Inimigos
-Nível de prática dos inimigos em técnicas e número de páginas de livros de habilidades dominados.\n<color=#E3C66DFF>（Quanto mais forte a capacidade de prática dos inimigos, mais avançada será sua prática em técnicas e mais páginas de livros de habilidades eles dominarao.）</color>
+Nível de prática dos inimigos em técnicas e número de páginas de livros de habilidades dominados.\n<color=#E3C66DFF>（Quanto mais forte a capacidade de prática dos inimigos, mais avancada será sua prática em técnicas e mais páginas de livros de habilidades eles dominarao.）</color>
 <color=#9FE0DCFF>Alta</color>
 <color=#FFE78FFF>Extremamente Alta</color>
 <color=#FF5331FF>Especializado</color>
-Mudança de Relaçoes
-Dificuldade na mudança de afinidade entre personagens.\n<color=#E3C66DFF>（Quanto maior a dificuldade de mudança, mais difícil será acumular afinidade com os outros.）</color>
+Mudanca de Relacoes
+Dificuldade na mudanca de afinidade entre personagens.\n<color=#E3C66DFF>（Quanto maior a dificuldade de mudanca, mais difícil será acumular afinidade com os outros.）</color>
 <color=#FF5331FF>Áspero</color>

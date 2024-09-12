@@ -1,6 +1,6 @@
 Jovem Desconhecido
-Moça Desconhecida
-Criança Desconhecida
+Moca Desconhecida
+Crianca Desconhecida
 Mulher Desconhecida
 
 
@@ -43,7 +43,7 @@ Ladrao
 Benfeitor
 Inimigo
 Mulher
-Criança
+Crianca
 Pessoa de grande prestígio
 Adivinho
 Casamenteira
@@ -76,13 +76,13 @@ Comerciante de Gafanhotos
 
 
 Mendigo
-Discípulo Avançado
+Discípulo Avancado
 Discípulo Passageiro
 Monge Velho
 Pequeno Monge
 Pessoa Informada
 Filhote de Javali
-Moça
+Moca
 Jovem
 Velho Agricultor
 Anciao
@@ -95,7 +95,7 @@ Camponês
 Monge da Torre
 Intelectual
 Discípulo da Sala do Leao Voador
-Especialista de Outras Raças
+Especialista de Outras Racas
 Árvore Sagrada da Montanha
 Árvore Sagrada da Caverna
 Árvore Sagrada do Desfiladeiro
@@ -130,7 +130,7 @@ Sombra Negra
 Artífice
 Irmao do Clan Huang Long
 Irma do Clan Huang Long
-Moça na Névoa
+Moca na Névoa
 Aldeao
 Habitante da Vila
 Monge Fantasma
@@ -139,7 +139,7 @@ Vovó
 Mulher Miao
 Jovem Miao
 Discípulo na Névoa
-Criança na Névoa
+Crianca na Névoa
 Barqueiro
 Guarda
 Pequena Sombra Negra

@@ -1,12 +1,12 @@
 Planície
-A planície é vasta e plana, com terras férteis se estendendo por milhas……\n<size=10> </size>\n · Recursos disponíveis: <color=#pinkyellow>abundância de alimentos, madeira, tecidos</color>\n · Desenvolvimento recomendado: <color=#pinkyellow>pintura, apreciaçao, marcenaria, tecelagem, culinária, conhecimentos diversos</color>
+A planície é vasta e plana, com terras férteis se estendendo por milhas……\n<size=10> </size>\n · Recursos disponíveis: <color=#pinkyellow>abundância de alimentos, madeira, tecidos</color>\n · Desenvolvimento recomendado: <color=#pinkyellow>pintura, apreciacao, marcenaria, tecelagem, culinária, conhecimentos diversos</color>
 Montanhas
 As montanhas têm picos majestosos e pedras estranhas em abundância……\n<size=10> </size>\n · Recursos disponíveis: <color=#pinkyellow>abundância de ferro e ouro, além de pedras preciosas e tecidos</color>\n · Desenvolvimento recomendado: <color=#pinkyellow>artes marciais, poesia, caligrafia, matemática, forjamento, habilidades de artesanato, práticas taoístas</color>
 Floresta
 A floresta é densa e antiga, com árvores majestosas……\n<size=10> </size>\n · Recursos disponíveis: <color=#pinkyellow>abundância de madeira, além de tecidos e ervas medicinais</color>\n · Desenvolvimento recomendado: <color=#pinkyellow>marcenaria, medicina, técnicas de veneno, tecelagem, estudos budistas, culinária</color>
 Pântano
-O pântano é cheio de água e rodeado por ravinas silenciosas……\n<size=10> </size>\n · Recursos disponíveis: <color=#pinkyellow>abundância de alimentos, madeira, ervas medicinais</color>\n · Desenvolvimento recomendado: <color=#pinkyellow>música, apreciaçao, marcenaria, medicina, técnicas de veneno, conhecimentos diversos</color>
+O pântano é cheio de água e rodeado por ravinas silenciosas……\n<size=10> </size>\n · Recursos disponíveis: <color=#pinkyellow>abundância de alimentos, madeira, ervas medicinais</color>\n · Desenvolvimento recomendado: <color=#pinkyellow>música, apreciacao, marcenaria, medicina, técnicas de veneno, conhecimentos diversos</color>
 Litoral
-O litoral é vasto e desolado, com ilhas montanhosas……\n<size=10> </size>\n · Recursos disponíveis: <color=#pinkyellow>abundância de ferro e ouro, pedras preciosas, alimentos</color>\n · Desenvolvimento recomendado: <color=#pinkyellow>artes marciais, música, apreciaçao, forjamento, habilidades de artesanato, conhecimentos diversos</color>
+O litoral é vasto e desolado, com ilhas montanhosas……\n<size=10> </size>\n · Recursos disponíveis: <color=#pinkyellow>abundância de ferro e ouro, pedras preciosas, alimentos</color>\n · Desenvolvimento recomendado: <color=#pinkyellow>artes marciais, música, apreciacao, forjamento, habilidades de artesanato, conhecimentos diversos</color>
 Montanha Nevadas
 As montanhas nevadas sao cobertas de neve o ano inteiro, com gelo que nao derrete……\n<size=10> </size>\n · Recursos disponíveis: <color=#pinkyellow>abundância de pedras preciosas, além de ferro, ouro e ervas medicinais</color>\n · Desenvolvimento recomendado: <color=#pinkyellow>artes marciais, xadrez, poesia, caligrafia, habilidades de artesanato, práticas taoístas</color>

@@ -67,13 +67,13 @@ Faca de Pedra
 Faca de Ouro e Prata
 Faca de Vinha
 Faca de Jade
-Lança de Ferro
-Lança
-Lança de Madeira
-Lança de Pedra
-Lança de Ouro e Prata
-Lança de Vinha
-Lança de Jade
+Lanca de Ferro
+Lanca
+Lanca de Madeira
+Lanca de Pedra
+Lanca de Ouro e Prata
+Lanca de Vinha
+Lanca de Jade
 Cítara de Ferro
 Cítara
 Cítara de Madeira
@@ -127,15 +127,15 @@ Armadura de Ouro e Prata
 Armadura de Vinha
 Armadura de Jade
 Armadura de Tecelagem
-Braçadeira de Ferro
-Braçadeira
-Braçadeira de Madeira
-Braçadeira de Pedra
-Braçadeira de Pele
-Braçadeira de Ouro e Prata
-Braçadeira de Vinha
-Braçadeira de Jade
-Braçadeira de Tecelagem
+Bracadeira de Ferro
+Bracadeira
+Bracadeira de Madeira
+Bracadeira de Pedra
+Bracadeira de Pele
+Bracadeira de Ouro e Prata
+Bracadeira de Vinha
+Bracadeira de Jade
+Bracadeira de Tecelagem
 Roupa de Pele
 Roupa
 Roupa de Tecelagem
@@ -163,22 +163,22 @@ Trigo
 Soja
 Cogumelo Fragrante
 Aspargo de Jade
-Lótus da Imposiçao
+Lótus da Imposicao
 Ginkgo
-Cogumelo de Cabeça de Macaco
+Cogumelo de Cabeca de Macaco
 Peixe de Erva
 Camarao Verde
 Carpa de Rocha
 Caranguejo Vermelho
 Lúcio de Quatro Brânquias
-Abalone de Duas Cabeças
+Abalone de Duas Cabecas
 Esturjao
 Veneno Potente
 Pílula Alquímica
 Veneno Amargo
 Veneno Frio
 Veneno Vermelho
-Veneno Corrupçao
+Veneno Corrupcao
 Veneno Ilusório
 Erva de Conexao dos Ossos
 Erva de Pérola Roxa
@@ -200,7 +200,7 @@ Fruta Vermelha
 Cinnabar
 Lótus Bêbada
 Pedra de Prata Fragmentada
-Calamus de Nove Seçoes
+Calamus de Nove Secoes
 Resina de Rinoceronte
 Almíscar
 Insecto Fantasma

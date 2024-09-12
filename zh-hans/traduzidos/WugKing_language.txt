@@ -1,32 +1,32 @@
 A chance de o ataque do arma do hospedeiro atingir o inimigo é reduzida em adicional.
 A chance de o ataque do arma do hospedeiro atingir o inimigo é aumentada em adicional.
-O hospedeiro perderá alguns itens quando houver mudança de mês.
+O hospedeiro perderá alguns itens quando houver mudanca de mês.
 <SpName=sp_icon_poison_3><color=#redpoison>Veneno Vermelho</color> nascerá quando o consumo de veneno exceder 40%.
 Quando o hospedeiro sofre um ataque de veneno, ele recebe um marcador de atordoamento adicional.
 Quando o hospedeiro sofre um ataque de veneno, o inimigo recebe um marcador de atordoamento adicional.
-Quando houver mudança de mês, o hospedeiro também sentirá aversao inexplicável por aqueles com quem a simpatia diminuiu significativamente e será mais propenso a buscar vingança contra inimigos.
+Quando houver mudanca de mês, o hospedeiro também sentirá aversao inexplicável por aqueles com quem a simpatia diminuiu significativamente e será mais propenso a buscar vinganca contra inimigos.
 <SpName=sp_icon_poison_1><color=#gloomypoison>Veneno Sombrio</color> nascerá quando o consumo de veneno exceder 40%.
 A vulnerabilidade e o nível de bloqueio do hospedeiro aumentam em 1 nível.
 A vulnerabilidade e o nível de bloqueio do hospedeiro diminuem em 1 nível.
-A energia interna do hospedeiro será desordenada devido ao nível de ferimentos quando houver mudança de mês.
+A energia interna do hospedeiro será desordenada devido ao nível de ferimentos quando houver mudanca de mês.
 <SpName=sp_icon_poison_4><color=#rottenpoison>Veneno Podre</color> nascerá quando o consumo de veneno exceder 40%.
 Quando a energia verdadeira do hospedeiro diminui, uma energia verdadeira aleatória do hospedeiro diminui ainda mais em 1 ponto.
 Quando a energia verdadeira do hospedeiro aumenta, uma energia verdadeira aleatória do hospedeiro aumenta ainda mais em 1 ponto.
-O aumento da corrupçao e do demônio do hospedeiro quando há mudança de mês será multiplicado por 10.
-Quando a diferença entre o consumo de todos os tipos de veneno for inferior a 10%, nascerá obrigatoriamente.
+O aumento da corrupcao e do demônio do hospedeiro quando há mudanca de mês será multiplicado por 10.
+Quando a diferenca entre o consumo de todos os tipos de veneno for inferior a 10%, nascerá obrigatoriamente.
 Se a saúde do hospedeiro estiver acima de 50%, o dano por ferimento grave que o hospedeiro sofre aumenta adicionalmente e quanto mais o dano por ferimento grave aumenta, mais a saúde do hospedeiro diminui.
 Se a saúde do hospedeiro estiver acima de 50%, o dano por ferimento grave que o hospedeiro sofre é reduzido adicionalmente e quanto mais o dano por ferimento grave diminui, mais a saúde do hospedeiro diminui.
-A saúde do hospedeiro nao pode ser recuperada devido ao estado da energia interna durante a mudança de mês.
+A saúde do hospedeiro nao pode ser recuperada devido ao estado da energia interna durante a mudanca de mês.
 Quando <SpName=sp_icon_poison_0><color=#hotpoison>Veneno Intenso</color><SpName=sp_icon_poison_3><color=#redpoison>Veneno Vermelho</color><SpName=sp_icon_poison_4><color=#rottenpoison>Veneno Podre</color> excedem 30% do consumo de veneno, nascerao obrigatoriamente.
 A chance de a técnica ou arma do hospedeiro ser selada aumenta adicionalmente.
 A chance de a técnica ou arma do hospedeiro ser selada diminui adicionalmente.
-A força interna do hospedeiro nao pode ser recuperada durante a mudança de mês e será grandemente perdida.
+A forca interna do hospedeiro nao pode ser recuperada durante a mudanca de mês e será grandemente perdida.
 <SpName=sp_icon_poison_2><color=#coldpoison>Veneno Frio</color> nascerá quando o consumo de veneno exceder 40%.
-O efeito de supressao da pureza na técnica de pureza concedida por purificaçao, passos divinos e transformaçao é reduzido.
-O efeito de supressao da pureza na técnica de pureza concedida por purificaçao, passos divinos e transformaçao é aumentado.
-Durante a mudança de mês, o Rei Larva de Seda Dourada também devorará aleatoriamente uma larva de cristal no corpo do hospedeiro e aplicará uma grande quantidade de veneno ao hospedeiro.
+O efeito de supressao da pureza na técnica de pureza concedida por purificacao, passos divinos e transformacao é reduzido.
+O efeito de supressao da pureza na técnica de pureza concedida por purificacao, passos divinos e transformacao é aumentado.
+Durante a mudanca de mês, o Rei Larva de Seda Dourada também devorará aleatoriamente uma larva de cristal no corpo do hospedeiro e aplicará uma grande quantidade de veneno ao hospedeiro.
 <SpName=sp_icon_poison_0><color=#hotpoison>Veneno Intenso</color> nascerá quando o consumo de veneno exceder 40%.
-Os efeitos positivos das "Características" do hospedeiro sobre todas as principais e secundárias propriedades, acerto, resoluçao, ataque, defesa e qualidades mudarao temporariamente para efeitos negativos.
-Os efeitos negativos das "Características" do hospedeiro sobre todas as principais e secundárias propriedades, acerto, resoluçao, ataque, defesa e qualidades mudarao temporariamente para efeitos positivos.
+Os efeitos positivos das "Características" do hospedeiro sobre todas as principais e secundárias propriedades, acerto, resolucao, ataque, defesa e qualidades mudarao temporariamente para efeitos negativos.
+Os efeitos negativos das "Características" do hospedeiro sobre todas as principais e secundárias propriedades, acerto, resolucao, ataque, defesa e qualidades mudarao temporariamente para efeitos positivos.
 Todas as pessoas que têm contato com a pele do hospedeiro serao infectadas por uma larva de cristal nao identificada.
 Quando <SpName=sp_icon_poison_1><color=#gloomypoison>Veneno Sombrio</color><SpName=sp_icon_poison_2><color=#coldpoison>Veneno Frio</color><SpName=sp_icon_poison_5><color=#illusorypoison>Veneno Ilusório</color> excedem 30% do consumo de veneno, nascerao obrigatoriamente.

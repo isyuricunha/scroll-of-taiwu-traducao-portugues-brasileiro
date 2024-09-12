@@ -22,8 +22,8 @@ Batalha perigosa com um adversário cuja habilidade nao é inferior à sua.
 Batalha de vida ou morte
 Batalha de vida ou morte com um adversário cuja habilidade nao é inferior à sua.
 
-Espada divina retorna ao coraçao
-Derrotou a encarnaçao do ponto crucial!
+Espada divina retorna ao coracao
+Derrotou a encarnacao do ponto crucial!
 
 Numérica superioridade
 Derrotar o oponente quando nosso número é superior ao deles.
@@ -38,7 +38,7 @@ Energia verdadeira inferior
 Derrotar um oponente cuja energia verdadeira é muito inferior à sua.
 
 Técnica marcial inferior
-Usar uma técnica marcial mais avançada do que a do oponente para derrotá-lo.
+Usar uma técnica marcial mais avancada do que a do oponente para derrotá-lo.
 
 Pureza superior
 Derrotar um oponente cuja pureza é pelo menos 3 níveis inferior à sua.
@@ -67,26 +67,26 @@ Derrotar um oponente cuja pureza é pelo menos 3 níveis superior à sua.
 Rugido do leao do Rio do Leste
 Derrotar um oponente enquanto você está grávida.
 
-Esforço mínimo
+Esforco mínimo
 Restaurar a mente de alguém que caiu na senda do ponto crucial.
 Restaurar a mente de alguém que caiu na senda demoníaca.
 Exorcismo
 Restaurar a mente de alguém que caiu na senda demoníaca cuja pureza é nao inferior à sua.
 Restaurar a mente de alguém que caiu na senda demoníaca cuja pureza é nao inferior à sua.
-Atuaçao heroica
+Atuacao heroica
 Eliminar um maligno que faz o mal.
 
 Eliminar malignos
 Eliminar um maligno cuja pureza é nao inferior à sua.
 
-Destruiçao dos justos
-Matar um herói que pratica a justiça.
+Destruicao dos justos
+Matar um herói que pratica a justica.
 
 Matar heróis
 Matar um herói cuja pureza é nao inferior à sua.
 
 Poder do leao
-Por meio da promoçao do cla do leao, vencer o oponente trouxe mais prestígio.
+Por meio da promocao do cla do leao, vencer o oponente trouxe mais prestígio.
 
 
 
@@ -100,7 +100,7 @@ Treinamento com bonecos de madeira
 Treinar com bonecos de madeira aumenta significativamente a chance de compreensao prática...
 
 Dragao dominando os mares
-Através do desafio do Dragao Divino, a bênçao e a riqueza sao incomensuráveis...
+Através do desafio do Dragao Divino, a bêncao e a riqueza sao incomensuráveis...
 
 Sobrevivência improvável
 Combater em dificuldade extrema aumenta o treinamento recebido e a chance de compreensao prática...
@@ -109,9 +109,9 @@ Sobrevivência impossível
 Combater em dificuldade fatal aumenta significativamente o treinamento recebido e a chance de compreensao prática...
 
 Defesa contra invasoes
-Lutar contra a encarnaçao do ponto crucial saindo da tumba! Aumenta significativamente o treinamento recebido, prestígio e a chance de compreensao prática...
+Lutar contra a encarnacao do ponto crucial saindo da tumba! Aumenta significativamente o treinamento recebido, prestígio e a chance de compreensao prática...
 
-Orientaçao
+Orientacao
 Troca de experiências com um adversário cuja pureza é inferior à sua.
 
 Defesa adequada
@@ -124,5 +124,5 @@ Sem perigos reais
 Batalha de vida ou morte com um adversário cuja pureza é inferior à sua.
 
 Compreensao prática plena
-Ganhar compreensao prática durante o combate, aumentando a força interna e a energia verdadeira em circulaçao.
+Ganhar compreensao prática durante o combate, aumentando a forca interna e a energia verdadeira em circulacao.
 
