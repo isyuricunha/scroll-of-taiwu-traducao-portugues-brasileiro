@@ -1,79 +1,79 @@
-Killing in public
-Punish in public
-Detain in public
-Punishing evil
-Righteous as Heavens
-Set your enemy free
-Conflict with the good
-Conflict with the evil
-Befriending the Good
-Befriending the Evil
-Good Sworn Sibling
-Evil Sworn Sibling
-Loving the Good
-Loving the Evil
-Adopting the Good
-Adopting the Evil
-Adopted by the Good
-Adopted by the Evil
-Helping the Good
-Helping the Evil
-Teaching the Good
-Teaching the Evil
-Healing the Good
-Healing the Evil
-Assaulting people
-Punish the evil
-Skill Theft
-Item Theft
-Rob items
-Grave Robbery
-Poisons people
-Retreat
-Bully·M
-Bully·P
-Win a duel
-Lose a duel
-Kind actions
-Maliciousness
-Just actions
-Disrespectful
-Rebel actions
-Carefreeness
-Egoist actions
-Satisfactorias
-Untranditional love
-Vulnerableness
-Being Benefited
-Being Reprimanded
-Being Deceived
-Being Threatened
-Being Praised
-Being Derided
-Good Predecessor
-Evil Predecessor
-Swearing
-Beggary
-Bad Doctor
-Act Righteously
-Kill the Righteous
-Corrupt public decency
-Corrupt the rules
-Disregard public decency
-Deceiving master and betraying ancestors
-Be hostile and ungrateful
-Beast in Human Clothes
-Humiliated
-Make a fool of yourself
-Overcome difficulties
-Bully the weak
-From Good Sect
-From Evil Sect
-Both good and evil
-Debate wins
-Debate defeats
-Masterpiece Manufactured
-Clouds Steam and Dragon Changes
-Trespassed Treasury
-Plundered Treasury
-Spread Kindness
+Dívidas de sangue sao difíceis de pagar  
+Eliminar o mal em nome do povo  
+Aprisionar pessoas e tirar suas vidas  
+Advertir o mal e punir os traidores  
+Integridade que alcança os céus  
+Soltar o tigre de volta à montanha  
+Confundir certo e errado  
+Odiar o mal como se fosse seu inimigo mortal  
+Fazer amizade com pessoas boas  
+Fazer amizade com pessoas malignas  
+Amizade verdadeira e honrada  
+Conspirar em maldade  
+Talento e beleza em harmonia  
+Desonrar a virtude e a conduta  
+Resgatar e consolar os bons  
+Esconder sujeira e abrigar o mal  
+Apoiar-se em sábios e virtuosos  
+Tratar o ladrao como se fosse parente  
+Praticar a caridade  
+Ajudar pessoas más  
+Um mentor e amigo verdadeiro  
+Apoiar o tirano em suas atrocidades  
+Salvar vidas e curar feridos  
+Criar um tigre para causar desastres futuros  
+Atacar e ferir pessoas  
+Punir os malfeitores  
+Roubar técnicas e habilidades  
+Roubar bens  
+Saquear bens  
+Profanar túmulos e roubar sepulturas  
+Envenenar e causar danos  
+Fugir em desespero  
+Oprimir os mais jovens  
+Aproveitar-se da fraqueza alheia  
+Vencer em uma competiçao de artes marciais  
+Perder em uma competiçao de artes marciais  
+Ter um coraçao bondoso  
+Guiar os malvados pelo caminho errado  
+Falar com retidao e justiça  
+Falar de forma desrespeitosa  
+Ser desenfreado e sem limites  
+Ser livre e indomável  
+Buscar apenas o lucro  
+Dar grande alegria ao povo  
+Boatos maliciosos  
+Ser fraco e facilmente intimidado  
+Receber favores  
+Ser repreendido  
+Ser enganado  
+Ser ameaçado  
+Receber elogios  
+Ser ridicularizado  
+A dívida de gratidao deixada por geraçoes passadas  
+Os pecados deixados pelas geraçoes passadas  
+Palavras e açoes vulgares  
+Mendigar por dinheiro  
+Um médico charlatao que causa a morte  
+Ser um herói que luta pela justiça  
+Matar um guerreiro justo  
+Corromper os costumes e a moralidade  
+Destruir regras de pureza  
+Ignorar as relaçoes humanas  
+Trair seu mestre e ancestrais  
+Ser ingrato e desleal  
+Trajar-se como um cavalheiro, mas ser uma fera  
+Ser humilhado  
+Buscar humilhaçao  
+Enfrentar dificuldades com coragem  
+Intimidar os fracos e temer os fortes  
+Uma escola de renome e justa  
+Uma escola perversa e do caminho exterior  
+Ser tanto justo quanto perverso  
+Vencer em uma competiçao de habilidades  
+Perder em uma competiçao de habilidades  
+Criar obras-primas  
+As nuvens se elevam, o dragao se transforma  
+Invadir o armazém  
+Saquear o armazém  
+Praticar a benevolência e espalhar bênçaos  
