@@ -67,6 +67,12 @@ return {
 				[1] = "v1.0.12 Latest\r\n\r\n  -- removido caracteres sem exibicao/especiais da 1.0.11  \n\nv1.0.11\n\n-- mais 48 novos arquivos traduzidos\r\n\r\n-- +4138 textos traduzidos :)",
 			},
 		},
+		[11] = {
+			Timestamp = 1726176624,
+			LogList = {
+				[1] = "v1.0.13: +5278 textos traduzidos\r\n\n+5278 textos traduzidos\r\narquivos zip atualizados",
+			},
+		},
 	},
 	ChangeConfig = true,
 	NeedRestartWhenSettingChanged = true,
