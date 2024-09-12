@@ -73,6 +73,12 @@ return {
 				[1] = "v1.0.13: +5278 textos traduzidos\r\n\n+5278 textos traduzidos\r\narquivos zip atualizados",
 			},
 		},
+		[12] = {
+			Timestamp = 1726177249,
+			LogList = {
+				[1] = "v1.0.14\r\ncorrigido caracteres especiais esquecidos nos novos arquivos",
+			},
+		},
 	},
 	ChangeConfig = true,
 	NeedRestartWhenSettingChanged = true,
