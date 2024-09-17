@@ -1,0 +1,88 @@
+Saída para Batalha
+Pode usar o comando "Saída para Batalha" para aumentar temporariamente o ataque, defesa, precisão e evasão, substituindo o combatente principal na luta.
+Estou totalmente preparado, deixe-me agir em seu lugar!
+
+Impulso
+Pode usar o comando "Impulso" para acelerar o progresso da técnica do combatente principal.
+Deixe-me usar meu poder para ajudar na execução!
+Avançar Rápido
+Pode usar o comando "Avançar Rápido" para reduzir a distância entre o combatente principal e o inimigo.
+Movimento rápido como o pensamento, avanço impetuoso!
+Recuar
+Pode usar o comando "Recuar" para aumentar a distância entre o combatente principal e o inimigo.
+Perigo próximo, não subestime o inimigo!
+Ataque
+Pode usar o comando "Ataque" para atacar o inimigo.
+Tenho um golpe para surpreender o inimigo!
+Defesa
+Pode usar o comando "Defesa" para aplicar uma técnica defensiva que aumenta o poder de defesa do combatente principal contra os ataques inimigos.
+Deixe-me bloquear este ataque por você!
+Curar
+Pode usar o comando "Curar" para tratar as feridas do combatente principal.
+Ferimentos urgentes, deixe-me tratar rapidamente!
+Remover Veneno
+Pode usar o comando "Remover Veneno" para eliminar o veneno do combatente principal.
+Veneno atacando, deixe-me remover rapidamente!
+Restaurar Defesa
+Pode usar o comando "Restaurar Defesa" para eliminar as falhas de defesa do combatente principal.
+Com minha ajuda, as falhas serão eliminadas!
+Desbloquear
+Pode usar o comando "Desbloquear" para desbloquear os pontos de energia do combatente principal.
+Conduzirei minha energia verdadeira para desbloquear seus pontos!
+Apoio em Batalha
+Pode usar o comando "Apoio em Batalha" para aumentar temporariamente a força, habilidade, velocidade e foco do combatente principal.
+Vou dar suporte em batalha, você faça o melhor que puder!
+Aviso
+Pode usar o comando "Aviso" para aumentar temporariamente a capacidade de absorção de força, desmontar técnicas, esquiva e foco do combatente principal.
+Vou vigiar de perto para que o inimigo não encontre brechas!
+Energia Verdadeira
+Pode usar o comando "Energia Verdadeira" para transferir sua energia verdadeira para o combatente principal.
+Transferirei minha energia verdadeira para você, ajudando na defesa!
+Substituir
+Pode usar o comando "Substituir" para dividir os danos e lesões com o combatente principal.
+
+Contenção
+Capaz de usar o comando "Contenção" para impedir temporariamente que o inimigo use comandos de assistência.
+Deixe-me conter seus movimentos, para que você não se distraia!
+Destruição
+Capaz de usar o comando "Destruição" para lançar um ataque com maior poder destrutivo.
+A técnica está completa, veja este golpe!
+Capaz de usar o comando "Entrar em Combate" para aumentar temporariamente o ataque, defesa, precisão e evasão, substituindo o combatente principal na luta. <color=#brightblue>Inspirado pelo Tambor de Batalha do Leão, o combatente tem seu ataque, defesa, precisão e evasão aumentados.</color>
+Capaz de usar o comando "Acelerar" para aumentar a velocidade de execução das técnicas do combatente principal. <color=#brightblue>Inspirado pelo Tambor de Batalha do Leão, o comando "Acelerar" aumenta ainda mais a velocidade de execução das técnicas.</color>
+Capaz de usar o comando "Avançar" para diminuir a distância entre o combatente principal e o inimigo. <color=#brightblue>Inspirado pelo Tambor de Batalha do Leão, o comando "Avançar" só entra em intervalo de uso após ser usado duas vezes,</color><color=#brightred>mas o intervalo é mais longo.</color>
+Capaz de usar o comando "Recuar" para aumentar a distância entre o combatente principal e o inimigo. <color=#brightblue>Inspirado pelo Tambor de Batalha do Leão, o comando "Recuar" só entra em intervalo de uso após ser usado duas vezes,</color><color=#brightred>mas o intervalo é mais longo.</color>
+Capaz de usar o comando "Atacar" para atacar o inimigo. <color=#brightblue>Inspirado pelo Tambor de Batalha do Leão, o comando "Atacar" causa dano adicional ao valor de bloqueio do inimigo.</color>
+Capaz de usar o comando "Defender" para usar técnicas defensivas e proteger o combatente principal dos ataques inimigos. <color=#brightblue>Inspirado pelo Tambor de Batalha do Leão, o poder das técnicas defensivas é aumentado.</color>
+Capaz de usar o comando "Curar" para curar o combatente principal. <color=#brightblue>Inspirado pelo Tambor de Batalha do Leão, o comando "Curar" é executado muito rapidamente.</color>
+Capaz de usar o comando "Desintoxicar" para remover venenos do combatente principal. <color=#brightblue>Inspirado pelo Tambor de Batalha do Leão, o comando "Desintoxicar" é executado muito rapidamente.</color>
+Capaz de usar o comando "Restaurar" para eliminar falhas do combatente principal. <color=#brightblue>Inspirado pelo Tambor de Batalha do Leão, o comando "Restaurar" elimina mais falhas,</color><color=#brightred>mas o intervalo de uso é mais longo.</color>
+Capaz de usar o comando "Desbloquear" para abrir pontos de acupuntura bloqueados do combatente principal. <color=#brightblue>Inspirado pelo Tambor de Batalha do Leão, o comando "Desbloquear" abre mais pontos de acupuntura,</color><color=#brightred>mas o intervalo de uso é mais longo.</color>
+Capaz de usar o comando "Aumentar Força" para aumentar temporariamente a força, precisão, velocidade e concentração do combatente principal. <color=#brightblue>Inspirado pelo Tambor de Batalha do Leão, o comando "Aumentar Força" tem um efeito mais forte,</color><color=#brightred>mas a duração é mais curta.</color>
+Capaz de usar o comando "Alerta" para aumentar temporariamente a resistência, desarme, esquiva e concentração do combatente principal. <color=#brightblue>Inspirado pelo Tambor de Batalha do Leão, o comando "Alerta" tem um efeito mais forte,</color><color=#brightred>mas a duração é mais curta.</color>
+Capaz de usar o comando "Transferir Energia" para transferir sua energia para o combatente principal. <color=#brightblue>Inspirado pelo Tambor de Batalha do Leão, o comando "Transferir Energia" tem um efeito mais forte,</color><color=#brightred>mas o intervalo de uso é mais longo.</color>
+Capaz de usar o comando "Contenção" para impedir temporariamente que o inimigo use comandos de assistência. <color=#brightblue>Inspirado pelo Tambor de Batalha do Leão, o comando "Contenção" tem uma duração significativamente aumentada.</color>
+Capaz de usar o comando "Destruição" para lançar um ataque com maior poder destrutivo. <color=#brightblue>Inspirado pelo Tambor de Batalha do Leão, o poder das técnicas é ainda mais aumentado.</color>
+Interromper
+Por causa de desconfiança, pode interromper a execução das técnicas do combatente principal.
+Vou interromper sua técnica!
+Armar
+Por causa de desconfiança, pode empurrar o combatente principal para a área de ataque do inimigo quando ele estiver fora dela.
+Vou te colocar em perigo!
+Emboscar
+Por causa de desconfiança, pode emboscar o combatente principal com um ataque de arma, causando falhas e bloqueios.
+Se você não se proteger, não me culpe por atacar!
+Dispersar Técnica
+Por causa de desconfiança, pode eliminar as técnicas defensivas e de movimento do combatente principal enquanto ele as executa.
+Veja os pontos fracos das suas técnicas defensivas e de movimento, estão todos aqui!
+Envenenar
+Por causa de desconfiança, pode usar habilidades médicas ou venenos para causar dano ou envenenar o combatente principal.
+Nossa inimizade é profunda, não me culpe por ser implacável!
+Perturbar
+Por causa de desconfiança, pode diminuir temporariamente a força, precisão, velocidade, concentração, resistência, desarme, esquiva e concentração do combatente principal.
+Vou te distrair, você perderá sem lutar!
+Desorganizar
+Por causa de desconfiança, pode interromper ações do combatente principal como usar itens, curar, desintoxicar, controlar animais ou fugir da batalha.
+Vou desorganizar suas ações!
+Dispersar Energia
+Por causa de desconfiança, pode dispersar a energia do combatente principal.
+Vou dispersar sua energia, vamos ver como você vai lutar!

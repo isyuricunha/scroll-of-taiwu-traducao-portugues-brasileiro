@@ -1,0 +1,171 @@
+Carrinho de Uma Roda
+O carrinho de uma roda é um pequeno veículo com uma única roda sob o assento, que precisa ser empurrado manualmente. Durante o movimento, pode ser amarrado com uma corda para evitar tombar, e ao estacionar, usa-se um suporte para evitar quedas.
+Carrinho de Paz
+O carrinho de paz é um pequeno veículo de duas rodas, geralmente puxado por animais. O corpo do carro é maior que o do carrinho de uma roda, podendo carregar mais mercadorias, economizando esforço durante a viagem.
+Carruagem de Guerra de Uma Tração
+Uma carruagem de guerra usada desde a dinastia Zhou. Esta carruagem tem apenas uma tração, fixada nas costas do animal que puxa a carruagem, usada para controle. Por ser uma carruagem de guerra, tem menor capacidade de carga.
+Carruagem de Dupla Tração
+Um veículo amplamente utilizado durante a dinastia Qin. Pode ser equipado com uma cobertura, e tem duas trações nas laterais, facilitando o controle da direção, tornando a viagem muito estável, daí o nome "carruagem de dupla tração".
+Carruagem de Quatro Cavalos
+"Embora não use seis selos, a carruagem voa como um dragão". A carruagem de quatro cavalos é um veículo que surgiu antes da dinastia Qin, puxado por quatro cavalos velozes. Tem uma cobertura para proteger contra vento e chuva, e barreiras laterais para evitar quedas.
+Boi de Madeira e Cavalo Fluente
+Um veículo especial projetado por Zhuge Kongming, em forma de boi, daí o nome "boi de madeira e cavalo fluente". Durante o movimento, a pessoa monta nas costas do boi, podendo "andar seis pés, o boi anda quatro passos. Carrega um ano de provisões, anda vinte milhas por dia, sem grande esforço para a pessoa".
+Carruagem de Cobertura de Qilin
+"Com nove camadas de cobertura, oito metros e um de altura", originalmente criada por Wang Mang, inspirado em histórias de imortais. Esta carruagem tem nove camadas de cobertura, decorada com qilins, puxada por seis cavalos, e pode ser usada para tocar tambores durante a viagem.
+Carruagem de Torre de Tesouro de Oito Lados
+A carruagem de torre de tesouro de oito lados é um veículo extremamente luxuoso, criado por artesãos para os ricos antigos. Tem a forma de uma torre de tesouro de oito lados, pequena e delicada, decorada com pérolas e jade, brilhante e deslumbrante, com alto custo, e anda suavemente.
+Carruagem de Dragão Negro
+Esta carruagem foi criada inspirada na história do Imperador Amarelo "convocando deuses e espíritos na Grande Montanha Ocidental, dirigindo uma carruagem de elefante, puxada por seis dragões negros". Pode ser puxada por oito cavalos, mantendo-se fresca o dia todo, correndo como o vento, com nuvens subindo durante a viagem.
+Trenó de Tábuas de Bambu
+O trenó de tábuas de bambu é um veículo usado principalmente em estradas lamacentas e nevadas, com fundo liso, feito de tábuas de bambu retas. Precisa ser puxado por animais durante o movimento.
+Carruagem de Cabana Simples
+"Os nobres andam em carruagens pretas, os estudiosos em carruagens de cabana, e os plebeus em carruagens de trabalho". A carruagem de cabana é um veículo pequeno e leve, feito de ramos de bambu e madeira, com uma pequena cabana simples no topo.
+Carruagem de Pântano
+"Os estudiosos vivem uma vida simples, apenas buscando comida e roupas suficientes, andando em carruagens de pântano, conduzindo cavalos de boa qualidade". Esta carruagem tem eixos curtos, usada pelos Zhou para viajar em pântanos, daí o nome carruagem de pântano.
+Carruagem Grande de Phragmites
+A carruagem grande de phragmites pode ser puxada por quatro cavalos, com rodas cobertas de phragmites para um movimento suave. Os imperadores Han frequentemente a usavam para convocar sábios, mostrando a graça imperial.
+Carruagem de Tambor de Milha
+Um veículo inventado durante a dinastia Han, com design engenhoso. Posteriormente, foi modificado, com uma pequena figura batendo um tambor a cada milha, daí o nome carruagem de tambor de milha.
+Carruagem de Quatro Rodas de Wuhou
+Diz-se que a carruagem de quatro rodas de Wuhou foi usada por Zhuge Kongming em batalha. É uma carruagem simples, sem decoração, com rodas em duas fileiras, pequenas na frente e grandes atrás, podendo ser empurrada por pessoas ou puxada por animais.
+Carruagem de Fenghou
+Diz-se que esta carruagem foi criada por Fenghou durante a batalha entre o Imperador Amarelo e Chiyou, inspirada em uma máquina de combate. Esta carruagem, uma vez concluída, não se perde em nenhuma direção, mesmo em nevoeiro denso, daí o nome carruagem de orientação.
+Carruagem de Nuvem de Dragão e Pássaro
+"Dragões e pássaros voam, cavalos celestiais cruzam o céu", os Han consideravam o dragão e o pássaro como deuses do vento. Esta carruagem tem a forma de um veleiro, parecendo um dragão e um pássaro voando, parecendo quebrar o vento e as nuvens de perto, e um navio terrestre de longe.
+Carruagem de Sete Aromas
+"A grande estrada de Chang'an é estreita, com bois azuis e cavalos brancos puxando a carruagem de sete aromas". Diz-se que a carruagem de sete aromas foi usada pelos reis desde as dinastias Shang e Zhou, com o interior revestido de vários aromas raros, anunciando sua chegada com seu perfume.
+Mula
+A mula é um híbrido de cavalo e burro, incapaz de se reproduzir. Tem corpo de cavalo e orelhas longas de burro, sendo resistente e trabalhadora.
+Burro Cinza
+O burro cinza parece um cavalo, mas é menor e tem orelhas longas. Diz-se que foi originalmente criado pelos Xiongnu, sendo forte e dócil.
+Cavalo Magro
+O cavalo magro tem rosto longo e quadrado, crina na cabeça e cauda, e dorme em pé. No entanto, se não for bem cuidado, pode ficar magro e fraco.
+Touro
+O touro é um boi macho, com chifres na cabeça e olhos como amêndoas, sendo dócil e amigável. No entanto, durante a época de acasalamento, luta com outros touros.
+Cavalo Veloz
+O cavalo veloz é um bom cavalo criado com cuidado. Diz-se que "os oito cavalos do imperador" eram usados para puxar a carruagem do imperador Zhou, mostrando seu status.
+Cavalo Branco do Oeste
+Um cavalo originário do oeste, completamente branco, movendo-se como o vento. O imperador Gaozu da dinastia Han sacrificou um cavalo branco para selar um pacto com os reis, mostrando seu valor.
+Cavalo Famoso de Fora da Fronteira
+"Os cavalos de Ferghana são famosos, com ossos magros e proeminentes". Este cavalo é originário de Ferghana, fora da fronteira, sendo capaz de longas corridas, sem temer fome ou frio.
+Boi Azul
+Com corpo cinza-azulado e um único chifre na testa, o boi azul é um animal auspicioso que, segundo a lenda, só aparece em tempos de prosperidade, sendo a montaria dos imortais.
+Cavalo de Sangue Suado
+"O cavalo celestial desce, com suor vermelho como sangue". Este cavalo foi um presente de Zhang Qian ao imperador Wu da dinastia Han, capaz de percorrer mil milhas por dia, com suor vermelho como sangue, também chamado de "cavalo celestial".
+Macaco
+Macacos que vivem nas árvores, com pelos longos e finos, cinco dedos como os humanos, cauda de cerca de um metro, ágeis em escalar.
+Águia Maligna
+Olhos afiados, bico e garras em forma de gancho, pode voar alto no céu, alimentando-se de pássaros, ratos, insetos e cobras.
+Javali
+Focinho longo e proeminente, olhos pequenos e testa estreita, corpo coberto de pelos duros, forte em colisões, alimenta-se de frutas silvestres, carne e vegetais, podendo pesar centenas de quilos.
+Urso Pardo
+Onívoro, gosta de carne, com garras longas e patas grossas, golpes poderosos, olfato aguçado, mas visão fraca. No inverno, devido à escassez de alimentos, hiberna em cavernas.
+Búfalo Selvagem
+Cauda com ponta em forma de pincel, cascos divididos em dois, corpo preto e patas brancas, parecendo nuvens negras cobrindo a neve, chifres longos e curvados para cima, costas altas como colinas, embora herbívoro, é forte e poderoso.
+Serpente Gigante
+Corpo de cerca de três metros, escamas duras, sem garras, rasteja, troca de pele a cada poucos meses, pode se esconder na grama ou se enrolar nos galhos, hiberna no inverno e sai no verão, uma refeição pode sustentá-la por vários dias.
+Leopardo
+Semelhante a um gato selvagem, com pelos nas orelhas, corpo de cerca de um metro, corre rapidamente, patas macias, silencioso, ativo à noite, olhos brilhantes, pelos amarelos com manchas pretas, daí o nome.
+Leão
+Corpo amarelo, com manchas visíveis entre as patas e no abdômen, ponta da cauda preta como uma bola, gosta de viver em grupo, garras afiadas, alimenta-se de bois, ovelhas e cervos. Os machos têm uma juba longa no pescoço, estendendo-se até os ombros, enquanto as fêmeas não.
+Tigre
+Abdômen branco e costas amarelas, listras brilhantes por todo o corpo, formando o caractere "王" na testa, rugido como trovão, audível a quilômetros, corpo forte, corre como o vento, dentes afiados, mata com um golpe.
+Macaco Espiritual
+Ouvidos aguçados e olhos brilhantes, braços longos, bom em escalar, grito claro, muito inteligente, pode lutar com espadas e gosta de beber.
+Pássaro Dourado
+Penas douradas, olhos como fogo, visão excelente, pode ver a centenas de quilômetros, vive em penhascos altos, não se mistura com pássaros comuns.
+Javali Negro
+Corpo coberto de pelos pretos, duro como ferro, presas saindo da boca, afiadas como facas curtas, orelhas largas na base e pontudas na ponta, parecendo folhas de palmeira.
+Urso Branco
+Pelos brancos e fofos, orelhas redondas, ombros salientes, dentes e garras afiadas, corpo grande, geralmente escondido nas montanhas, pode comer cem quilos por dia.
+Boi Kui
+Corpo azul-acinzentado, pesando milhares de quilos, sempre que entra ou sai da água, traz vento e chuva. Seu rugido é como trovão, brilho como sol e lua, o Imperador Amarelo usou sua pele para fazer tambores, cujo som podia ser ouvido a quinhentos quilômetros.
+Píton de Ba
+Originária do sudoeste do país de Ba, cabeça azul e corpo preto, grande e larga, pode engolir elefantes, leva três anos para digerir seus ossos. Diz-se que quem a consome não terá doenças no estômago.
+Leopardo Negro
+Corpo preto como tinta, olhos como vaga-lumes, pode escalar árvores altas e atravessar vales profundos, usa a névoa e a chuva para molhar sua pele, escondendo-se para evitar perigos.
+Leão Dourado
+Pelos brilhantes como ouro, olhos claros como âmbar, corajoso e diligente, sem medo, seu rugido pode subjugar o mal, trazendo clareza aos olhos das pessoas.
+Tigre Branco
+Corpo branco como neve, listras pretas, intimida animais, seu rugido ressoa nas montanhas, diz-se que é o deus das sete constelações ocidentais, responsável pela guerra, afastando o mal e as calamidades.
+Cavalo Magro de Huanxin
+Dragão Branco
+Dragão que vive em abismos frios, cor branca como gelo, dança em vales profundos, traz nuvens e chuva, montá-lo é como flutuar nas nuvens, superando a imortalidade...
+Dragão Negro
+Dragão que vive em abismos frios, cor preta como tinta, dança em vales profundos, traz nuvens e chuva, montá-lo é como flutuar nas nuvens, superando a imortalidade...
+Dragão Azul
+Dragão que vive em abismos frios, cor azul celeste, dança em vales profundos, traz nuvens e chuva, montá-lo é como flutuar nas nuvens, superando a imortalidade...
+Dragão Vermelho
+Dragão que vive em abismos frios, cor vermelha como fogo, dança em vales profundos, traz nuvens e chuva, montá-lo é como flutuar nas nuvens, superando a imortalidade...
+Dragão Amarelo
+Dragão que vive em abismos frios, cor amarela brilhante, dança em vales profundos, traz nuvens e chuva, montá-lo é como flutuar nas nuvens, superando a imortalidade...
+Dragão Yin Yang
+Dragão que vive em abismos frios, cor preta e branca, dança em vales profundos, traz nuvens e chuva, montá-lo é como flutuar nas nuvens, superando a imortalidade...
+Dragão Relâmpago
+Dragão que vive em abismos frios, cor branca e azul, dança em vales profundos, traz nuvens e chuva, montá-lo é como flutuar nas nuvens, superando a imortalidade...
+Dragão Fogo e Trovão
+Dragão que vive em abismos frios, cor branca e vermelha, dança em vales profundos, traz nuvens e chuva, montá-lo é como flutuar nas nuvens, superando a imortalidade...
+Dragão de Olhos Dourados
+Dragão que vive em abismos frios, cor branca e amarela, dança em vales profundos, traz nuvens e chuva, montá-lo é como flutuar nas nuvens, superando a imortalidade...
+Dragão de Lago Azul
+Dragão que vive em abismos frios, cor preta e azul, dança em vales profundos, traz nuvens e chuva, montá-lo é como flutuar nas nuvens, superando a imortalidade...
+Dragão de Nuvem Ardente
+Dragão que vive em abismos frios, cor preta e vermelha, dança em vales profundos, traz nuvens e chuva, montá-lo é como flutuar nas nuvens, superando a imortalidade...
+Dragão de Lago de Lama
+Dragão que vive em abismos frios, cor preta e amarela, dança em vales profundos, traz nuvens e chuva, montá-lo é como flutuar nas nuvens, superando a imortalidade...
+Dragão de Chifre Flamejante
+Dragão que vive em abismos frios, cor azul e vermelha, dança em vales profundos, traz nuvens e chuva, montá-lo é como flutuar nas nuvens, superando a imortalidade...
+Dragão de Montanha Oculta
+Dragão que vive em abismos frios, cor azul e amarela, dança em vales profundos, traz nuvens e chuva, montá-lo é como flutuar nas nuvens, superando a imortalidade...
+Dragão de Ossos Refinados
+Dragão que vive em abismos frios, cor vermelha e amarela, dança em vales profundos, traz nuvens e chuva, montá-lo é como flutuar nas nuvens, superando a imortalidade...
+Dragão de Mar Revolto
+Dragão que vive em abismos frios, cor branca, preta e azul, dança em vales profundos, traz nuvens e chuva, montá-lo é como flutuar nas nuvens, superando a imortalidade...
+Dragão de Nuvem Despedaçada
+Dragão que vive em abismos frios, cor branca, preta e vermelha, dança em vales profundos, traz nuvens e chuva, montá-lo é como flutuar nas nuvens, superando a imortalidade...
+Dragão de Abismo Profundo
+Dragão que vive em abismos frios, cor branca, preta e amarela, dança em vales profundos, traz nuvens e chuva, montá-lo é como flutuar nas nuvens, superando a imortalidade...
+Dragão de Trovão Celestial
+Dragão que vive em abismos frios, cor branca, azul e vermelha, dança em vales profundos, traz nuvens e chuva, montá-lo é como flutuar nas nuvens, superando a imortalidade...
+Dragão de Caminho Desolado
+Dragão que vive em abismos frios, cor branca, azul e amarela, dança em vales profundos, traz nuvens e chuva, montá-lo é como flutuar nas nuvens, superando a imortalidade...
+Dragão de Qilin
+Dragão que vive em abismos frios, cor branca, vermelha e amarela, dança em vales profundos, traz nuvens e chuva, montá-lo é como flutuar nas nuvens, superando a imortalidade...
+Dragão de Prisão Fantasma
+Dragão que vive em abismos frios, cor preta, azul e vermelha, dança em vales profundos, traz nuvens e chuva, montá-lo é como flutuar nas nuvens, superando a imortalidade...
+Dragão de Montanha Imortal
+Dragão que vive em abismos frios, cor preta, azul e amarela, dança em vales profundos, traz nuvens e chuva, montá-lo é como flutuar nas nuvens, superando a imortalidade...
+Dragão de Lago de Fogo
+Dragão que vive em abismos frios, cor preta, vermelha e amarela, dança em vales profundos, traz nuvens e chuva, montá-lo é como flutuar nas nuvens, superando a imortalidade...
+Dragão de Montanha Ardente
+Dragão que vive em abismos frios, cor azul, vermelha e amarela, dança em vales profundos, traz nuvens e chuva, montá-lo é como flutuar nas nuvens, superando a imortalidade...
+Dragão de Quatro Cores
+Dragão que vive em abismos frios, cor branca, preta, azul e vermelha, dança em vales profundos, traz nuvens e chuva, montá-lo é como flutuar nas nuvens, superando a imortalidade...
+Dragão de Cem Tesouros
+Dragão que vive em abismos frios, cor branca, preta, azul e amarela, dança em vales profundos, traz nuvens e chuva, montá-lo é como flutuar nas nuvens, superando a imortalidade...
+Dragão de Mar Pacífico
+Dragão que vive em abismos frios, cor branca, preta, vermelha e amarela, dança em vales profundos, traz nuvens e chuva, montá-lo é como flutuar nas nuvens, superando a imortalidade...
+Dragão Devorador de Céu
+Dragão que vive em abismos frios, cor branca, azul, vermelha e amarela, dança em vales profundos, traz nuvens e chuva, montá-lo é como flutuar nas nuvens, superando a imortalidade...
+Dragão de Escamas Caóticas
+Dragão que vive em abismos frios, cor preta, azul, vermelha e amarela, dança em vales profundos, traz nuvens e chuva, montá-lo é como flutuar nas nuvens, superando a imortalidade...
+Dragão de Cinco Cores
+Dragão que vive em abismos frios, cor manchada, dança em vales profundos, traz nuvens e chuva, montá-lo é como flutuar nas nuvens, superando a imortalidade...
+Qiuniu
+Absorvendo o poder do dragão divino, uma besta transformada de um dragão longo. Tem cabeça de dragão e chifres de boi, gosta de música, devido à sua audição excepcional, pode distinguir todos os sons...
+Yazi
+Absorvendo o poder do dragão divino, uma besta transformada de um dragão longo. Tem cabeça de dragão e corpo de chacal, natureza feroz, gosta de lutar e matar, frequentemente arregala os olhos com raiva...
+Chaofeng
+Absorvendo o poder do dragão divino, uma besta transformada de um dragão longo. Tem asas, parecendo uma besta águia, gosta de perigos e de observar, frequentemente lidera os animais...
+Pulao
+Absorvendo o poder do dragão divino, uma besta transformada de um dragão longo. Tem cinco dedos com membranas, corpo redondo como um dragão, gosta de rugir e gritar, sua voz é mais alta que um sino...
+Suanni
+Absorvendo o poder do dragão divino, uma besta transformada de um dragão longo. Parece um leão, mas é robusto e dócil, gosta de tranquilidade e não de movimento, adora a diversão com luzes e fogos de artifício...
+Baxia
+Absorvendo o poder do dragão divino, uma besta transformada de um dragão longo. Parece uma tartaruga, mas tem força infinita, pode carregar montanhas e caminhar mil milhas...
+Bixi
+Absorvendo o poder do dragão divino, uma besta transformada de um dragão longo. Parece um tigre, gosta de litígios, é majestoso e intimida as pessoas...
+Fuxi
+Absorvendo o poder do dragão divino, uma besta transformada de um dragão longo. Corpo de dragão, cabeça de leão, gosta de literatura, aprecia a elegância das artes e da caligrafia...
+Chiwen
+Absorvendo o poder do dragão divino, uma besta transformada de um dragão longo. Tem cabeça de dragão e corpo de peixe, boca larga e barulhenta, gosta de engolir, parece ter a habilidade de evitar fogo...
