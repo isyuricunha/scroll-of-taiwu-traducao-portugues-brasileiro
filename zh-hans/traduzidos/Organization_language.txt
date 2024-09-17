@@ -3,33 +3,33 @@ Sem seita, livre e independente.
 
 
 Seita Shaolin
-A Seita Shaolin é a mais respeitada entre as artes marciais. O Mestre Bodhidharma combinou meditação com artes marciais, criando as "Setenta e Duas Técnicas", todas incomparáveis.
+A Seita Shaolin é a mais respeitada entre as artes marciais. O Mestre Bodhidharma combinou meditacao com artes marciais, criando as "Setenta e Duas Técnicas", todas incomparáveis.
 Caminho do Zen e das Artes Marciais
-As artes marciais da Seita Shaolin consistem em <SpName=mousetip_gongfa_3>punhos e palmas, <SpName=mousetip_gongfa_4>dedos, <SpName=mousetip_gongfa_9>armas longas (bastão), conhecidas como o Caminho do Zen e das Artes Marciais, combinando treino interno e externo, ataque e defesa, com várias técnicas de movimentação, todas baseadas em uma mente pura.
+As artes marciais da Seita Shaolin consistem em <SpName=mousetip_gongfa_3>punhos e palmas, <SpName=mousetip_gongfa_4>dedos, <SpName=mousetip_gongfa_9>armas longas (bastao), conhecidas como o Caminho do Zen e das Artes Marciais, combinando treino interno e externo, ataque e defesa, com várias técnicas de movimentacao, todas baseadas em uma mente pura.
 Seita Emei
-As artes marciais do mundo vêm de Emei. Emei é uma das três grandes seitas marciais. Como o nome sugere, é "a mais bela do mundo". As artes marciais de Emei combinam força e suavidade, fundindo Taoísmo e Budismo, com treino de sabedoria e meditação.
+As artes marciais do mundo vêm de Emei. Emei é uma das três grandes seitas marciais. Como o nome sugere, é "a mais bela do mundo". As artes marciais de Emei combinam forca e suavidade, fundindo Taoísmo e Budismo, com treino de sabedoria e meditacao.
 Macaco Branco Escondido
-As artes marciais da Seita Emei consistem em <SpName=mousetip_gongfa_3>punhos e palmas, <SpName=mousetip_gongfa_4>dedos, <SpName=mousetip_gongfa_7>espada, <SpName=mousetip_gongfa_10>armas exóticas (duelos), rápidas e ágeis, combinando força e suavidade, aproveitando o melhor de cada seita, inspirando-se em todas as coisas do mundo, mostrando uma grande presença.
+As artes marciais da Seita Emei consistem em <SpName=mousetip_gongfa_3>punhos e palmas, <SpName=mousetip_gongfa_4>dedos, <SpName=mousetip_gongfa_7>espada, <SpName=mousetip_gongfa_10>armas exóticas (duelos), rápidas e ágeis, combinando forca e suavidade, aproveitando o melhor de cada seita, inspirando-se em todas as coisas do mundo, mostrando uma grande presenca.
 Vale das Cem Flores
-O Vale das Cem Flores é famoso por suas habilidades médicas, com técnicas de acupuntura e moxabustão extremamente habilidosas. Seus membros curam o mundo, são justos e benevolentes, sendo muito respeitados.
+O Vale das Cem Flores é famoso por suas habilidades médicas, com técnicas de acupuntura e moxabustao extremamente habilidosas. Seus membros curam o mundo, sao justos e benevolentes, sendo muito respeitados.
 Coruja Misteriosa e Cervo Branco
-As artes marciais do Vale das Cem Flores consistem em <SpName=mousetip_gongfa_4>dedos, <SpName=mousetip_gongfa_12>tiro com arco (caixa de agulhas), <SpName=mousetip_gongfa_13>instrumentos musicais, originalmente técnicas médicas de acupuntura, capazes de desbloquear meridianos, reviver árvores mortas, a vida e a morte não são predestinadas, mas estão nas mãos do praticante.
+As artes marciais do Vale das Cem Flores consistem em <SpName=mousetip_gongfa_4>dedos, <SpName=mousetip_gongfa_12>tiro com arco (caixa de agulhas), <SpName=mousetip_gongfa_13>instrumentos musicais, originalmente técnicas médicas de acupuntura, capazes de desbloquear meridianos, reviver árvores mortas, a vida e a morte nao sao predestinadas, mas estao nas maos do praticante.
 Seita Wudang
-Junto com Shaolin e Emei, é uma das três grandes seitas marciais. As artes marciais da Seita Wudang são vastas e profundas, focando principalmente no cultivo interno. O fundador da seita, Zhenjun, tinha habilidades taoístas profundas, e a habilidade Taiji é famosa em todo o mundo, sendo a principal técnica interna.
+Junto com Shaolin e Emei, é uma das três grandes seitas marciais. As artes marciais da Seita Wudang sao vastas e profundas, focando principalmente no cultivo interno. O fundador da seita, Zhenjun, tinha habilidades taoístas profundas, e a habilidade Taiji é famosa em todo o mundo, sendo a principal técnica interna.
 Tartaruga e Serpente Enroladas
-As artes marciais da Seita Wudang consistem em <SpName=mousetip_gongfa_3>punhos e palmas, <SpName=mousetip_gongfa_7>espada, <SpName=mousetip_gongfa_11>armas flexíveis (pó de poeira), focando na intenção que segue o coração, a energia que atinge a força, frequentemente superando a força com suavidade, controlando o movimento com a quietude, seguindo os verdadeiros princípios taoístas e as leis da natureza.
+As artes marciais da Seita Wudang consistem em <SpName=mousetip_gongfa_3>punhos e palmas, <SpName=mousetip_gongfa_7>espada, <SpName=mousetip_gongfa_11>armas flexíveis (pó de poeira), focando na intencao que segue o coracao, a energia que atinge a forca, frequentemente superando a forca com suavidade, controlando o movimento com a quietude, seguindo os verdadeiros princípios taoístas e as leis da natureza.
 Seita Yuanshan
-A Seita Yuanshan tem muitos discípulos, dedicados a manter o caminho justo das artes marciais. No Grande Monte Yuan, eles praticam o Taoísmo, com um túmulo de espadas, e no Pequeno Monte Yuan, eles praticam o Budismo, com um túmulo de espadas. Os dois montes estão conectados, combinando as habilidades de espada e faca para eliminar demônios e proteger o caminho, sendo muito respeitados.
-Três Demônios da Prisão de Pedra
-As artes marciais da Seita Yuanshan consistem em <SpName=mousetip_gongfa_5>chutes, <SpName=mousetip_gongfa_7>espada, <SpName=mousetip_gongfa_8>faca, com movimentos amplos e vigorosos, simples e robustos, com muitas variações, mas sempre justos e imparciais, avançando e recuando com disciplina, mantendo uma luz suprema.
+A Seita Yuanshan tem muitos discípulos, dedicados a manter o caminho justo das artes marciais. No Grande Monte Yuan, eles praticam o Taoísmo, com um túmulo de espadas, e no Pequeno Monte Yuan, eles praticam o Budismo, com um túmulo de espadas. Os dois montes estao conectados, combinando as habilidades de espada e faca para eliminar demônios e proteger o caminho, sendo muito respeitados.
+Três Demônios da Prisao de Pedra
+As artes marciais da Seita Yuanshan consistem em <SpName=mousetip_gongfa_5>chutes, <SpName=mousetip_gongfa_7>espada, <SpName=mousetip_gongfa_8>faca, com movimentos amplos e vigorosos, simples e robustos, com muitas variacoes, mas sempre justos e imparciais, avancando e recuando com disciplina, mantendo uma luz suprema.
 Seita Shixiang
-As artes marciais da Seita Shixiang são fortes e dominadoras, não focando no cultivo interno, mas suas técnicas de endurecimento do corpo são incomparáveis, capazes de quebrar ouro e pedra, imunes a lâminas e lanças, sendo o ápice das técnicas externas.
+As artes marciais da Seita Shixiang sao fortes e dominadoras, nao focando no cultivo interno, mas suas técnicas de endurecimento do corpo sao incomparáveis, capazes de quebrar ouro e pedra, imunes a lâminas e lancas, sendo o ápice das técnicas externas.
 Versado em Letras e Artes Marciais
-As artes marciais da Seita Shixiang consistem em <SpName=mousetip_gongfa_3>punhos e palmas, <SpName=mousetip_gongfa_8>faca, <SpName=mousetip_gongfa_9>armas longas (lança), com grande força e poder, dominadoras e vigorosas, como levantar montanhas e carregar caldeirões, avançando sem parar, com a força de mil homens.
+As artes marciais da Seita Shixiang consistem em <SpName=mousetip_gongfa_3>punhos e palmas, <SpName=mousetip_gongfa_8>faca, <SpName=mousetip_gongfa_9>armas longas (lanca), com grande forca e poder, dominadoras e vigorosas, como levantar montanhas e carregar caldeiroes, avancando sem parar, com a forca de mil homens.
 Seita Ranshan
-A Seita Ranshan se dedica ao estudo e à prática. Estudo: conhecimento amplo, compreensão das leis, habilidade de debate, invencível em argumentos. Prática: cultivo da verdade e da natureza, consumo de ervas, cura de doenças, prolongamento da vida, esperando pela ascensão.
-Pavilhão Imortal de Qinglang
-As artes marciais da Seita Ranshan consistem em <SpName=mousetip_gongfa_4>dedos, <SpName=mousetip_gongfa_7>espada, <SpName=mousetip_gongfa_10>armas exóticas (talismãs), muitas vezes técnicas taoístas secretas, maravilhosas e incompreensíveis, capazes de invocar vento e trovão, controlar espíritos e fantasmas, difíceis de entender para pessoas comuns.
+A Seita Ranshan se dedica ao estudo e à prática. Estudo: conhecimento amplo, compreensao das leis, habilidade de debate, invencível em argumentos. Prática: cultivo da verdade e da natureza, consumo de ervas, cura de doencas, prolongamento da vida, esperando pela ascensao.
+Pavilhao Imortal de Qinglang
+As artes marciais da Seita Ranshan consistem em <SpName=mousetip_gongfa_4>dedos, <SpName=mousetip_gongfa_7>espada, <SpName=mousetip_gongfa_10>armas exóticas (talismas), muitas vezes técnicas taoístas secretas, maravilhosas e incompreensíveis, capazes de invocar vento e trovao, controlar espíritos e fantasmas, difíceis de entender para pessoas comuns.
 Seita Xuannü
 O Pico Xuannü, também conhecido como Pico da Donzela de Jade, tem gelo misterioso. Diz a lenda que uma deusa desceu ao pico e deixou uma técnica maravilhosa, qualquer mulher que a praticar se tornará graciosa e etérea, com pele de jade e ossos de gelo, ascendendo ao status de imortal.
 Reflexo Invertido na Água
@@ -37,33 +37,33 @@ As artes marciais da Seita Xuannü consistem em <SpName=mousetip_gongfa_3>punhos
 Vila de Forja de Espadas
 A Vila de Forja de Espadas está localizada no Monte Zhanlu, e diz-se que foi fundada pelo mestre ferreiro Ou Yezi. A vila tem uma longa história, e a maioria das armas divinas e afiadas do mundo vem deste lugar, sendo muito admirada pelos praticantes de artes marciais.
 Teste de Espada de Tongsheng
-As artes marciais da Vila de Forja de Espadas consistem em <SpName=mousetip_gongfa_7>espada, <SpName=mousetip_gongfa_8>faca, <SpName=mousetip_gongfa_9>armas longas (bastão), <SpName=mousetip_gongfa_12>tiro com arco (mecanismos), transmitidas pelo mestre Ou Yezi, conhecidas por sua habilidade e engenhosidade, e quando combinadas com armas divinas, são extremamente poderosas.
+As artes marciais da Vila de Forja de Espadas consistem em <SpName=mousetip_gongfa_7>espada, <SpName=mousetip_gongfa_8>faca, <SpName=mousetip_gongfa_9>armas longas (bastao), <SpName=mousetip_gongfa_12>tiro com arco (mecanismos), transmitidas pelo mestre Ou Yezi, conhecidas por sua habilidade e engenhosidade, e quando combinadas com armas divinas, sao extremamente poderosas.
 Seita Kongsang
-A Seita Kongsang, também conhecida como Seita do Rei das Ervas Kongsang. Embora o Monte Kongsang seja uma montanha de neve, ele esconde um paraíso, com inúmeras ervas raras e exóticas. Os discípulos da Seita Kongsang são mestres em medicina e venenos, capazes de ressuscitar os mortos com medicamentos e matar silenciosamente com venenos.
+A Seita Kongsang, também conhecida como Seita do Rei das Ervas Kongsang. Embora o Monte Kongsang seja uma montanha de neve, ele esconde um paraíso, com inúmeras ervas raras e exóticas. Os discípulos da Seita Kongsang sao mestres em medicina e venenos, capazes de ressuscitar os mortos com medicamentos e matar silenciosamente com venenos.
 Veneno Mortal e Fórmulas Secretas
 As artes marciais da Seita Kongsang consistem em <SpName=mousetip_gongfa_3>punhos e palmas, <SpName=mousetip_gongfa_4>dedos, <SpName=mousetip_gongfa_5>chutes, <SpName=mousetip_gongfa_6>armas ocultas, originadas das artes alquímicas, usando venenos e medicamentos secretos para aumentar o poder, capazes de transformar o corpo, sem limites.
 Seita Vajra
-A Seita Vajra é uma ramificação de um antigo reino chamado Xiangxiong. A Seita Vajra tem muitos discípulos, e suas habilidades de proteção são extremamente poderosas, mas suas ações são cruéis e imorais, sendo grandes inimigos dos praticantes de artes marciais justos.
+A Seita Vajra é uma ramificacao de um antigo reino chamado Xiangxiong. A Seita Vajra tem muitos discípulos, e suas habilidades de protecao sao extremamente poderosas, mas suas acoes sao cruéis e imorais, sendo grandes inimigos dos praticantes de artes marciais justos.
 Sutra Sem Palavras
-As artes marciais da Seita Vajra consistem em <SpName=mousetip_gongfa_3>punhos e palmas, <SpName=mousetip_gongfa_7>faca, <SpName=mousetip_gongfa_10>armas exóticas (curtos bastões), baseadas na prática dos três mistérios do ioga, integrando-se em um todo, avançando como um Vajra furioso, defendendo como um rei imperturbável, movendo-se como uma roda preciosa.
+As artes marciais da Seita Vajra consistem em <SpName=mousetip_gongfa_3>punhos e palmas, <SpName=mousetip_gongfa_7>faca, <SpName=mousetip_gongfa_10>armas exóticas (curtos bastoes), baseadas na prática dos três mistérios do ioga, integrando-se em um todo, avancando como um Vajra furioso, defendendo como um rei imperturbável, movendo-se como uma roda preciosa.
 Seita dos Cinco Imortais
-A Seita dos Cinco Venenos de Miaojiang, autodenominada Seita dos Cinco Imortais, tem uma doutrina extremamente radical, retribuindo todas as ofensas. A seita pratica muitas técnicas estranhas e aterrorizantes de venenos e criação de insetos, sendo temida por todos, justos ou malignos.
-Veneno do Coração dos Cinco Santos
-As artes marciais da Seita dos Cinco Imortais consistem em <SpName=mousetip_gongfa_3>punhos e palmas, <SpName=mousetip_gongfa_4>dedos, <SpName=mousetip_gongfa_7>espada, <SpName=mousetip_gongfa_11>armas flexíveis (chicote), originadas dos xamãs de Miaojiang, com técnicas misteriosas e imprevisíveis, além de técnicas exclusivas de venenos e insetos, temidas por todos.
+A Seita dos Cinco Venenos de Miaojiang, autodenominada Seita dos Cinco Imortais, tem uma doutrina extremamente radical, retribuindo todas as ofensas. A seita pratica muitas técnicas estranhas e aterrorizantes de venenos e criacao de insetos, sendo temida por todos, justos ou malignos.
+Veneno do Coracao dos Cinco Santos
+As artes marciais da Seita dos Cinco Imortais consistem em <SpName=mousetip_gongfa_3>punhos e palmas, <SpName=mousetip_gongfa_4>dedos, <SpName=mousetip_gongfa_7>espada, <SpName=mousetip_gongfa_11>armas flexíveis (chicote), originadas dos xamas de Miaojiang, com técnicas misteriosas e imprevisíveis, além de técnicas exclusivas de venenos e insetos, temidas por todos.
 Seita Jieqing
-A Seita Jieqing, também conhecida como o lugar onde humanos e fantasmas coexistem, acolhe muitos criminosos do mundo das artes marciais. Os discípulos da seita agem secretamente, raramente revelando suas presenças. Eles são mestres em técnicas de ocultação e arremesso de agulhas e pedras, matando sem deixar rastros.
+A Seita Jieqing, também conhecida como o lugar onde humanos e fantasmas coexistem, acolhe muitos criminosos do mundo das artes marciais. Os discípulos da seita agem secretamente, raramente revelando suas presencas. Eles sao mestres em técnicas de ocultacao e arremesso de agulhas e pedras, matando sem deixar rastros.
 Sem Vida e Sem Morte
 As artes marciais da Seita Jieqing consistem em <SpName=mousetip_gongfa_4>dedos, <SpName=mousetip_gongfa_6>armas ocultas, <SpName=mousetip_gongfa_7>espada, movendo-se silenciosamente, atacando rapidamente como um raio, com golpes mortais e precisos, matando em um instante, sem qualquer piedade.
 Seita Fulong
-A Seita Fulong está localizada na Ilha Chiming, no Mar do Leste. A seita é dividida em duas linhagens: a linhagem de Situ, com técnicas de faca extremamente poderosas, e a linhagem de Long, com técnicas de punho e palma profundas e excepcionais. Diz-se que há um vulcão na ilha, onde os discípulos praticam suas habilidades.
-Dragão Oculto Transformando-se em Pluma
-As artes marciais da Seita Fulong consistem em <SpName=mousetip_gongfa_3>punhos e palmas, <SpName=mousetip_gongfa_6>armas ocultas, <SpName=mousetip_gongfa_8>faca, com técnicas que frequentemente utilizam a força do álcool, sendo mais poderosas e intensas quando embriagados, com a força de rios e mares, engolindo o sol e a lua.
+A Seita Fulong está localizada na Ilha Chiming, no Mar do Leste. A seita é dividida em duas linhagens: a linhagem de Situ, com técnicas de faca extremamente poderosas, e a linhagem de Long, com técnicas de punho e palma profundas e excepcionais. Diz-se que há um vulcao na ilha, onde os discípulos praticam suas habilidades.
+Dragao Oculto Transformando-se em Pluma
+As artes marciais da Seita Fulong consistem em <SpName=mousetip_gongfa_3>punhos e palmas, <SpName=mousetip_gongfa_6>armas ocultas, <SpName=mousetip_gongfa_8>faca, com técnicas que frequentemente utilizam a forca do álcool, sendo mais poderosas e intensas quando embriagados, com a forca de rios e mares, engolindo o sol e a lua.
 Seita Xuehou
-Desde o caos causado por Xiangshu, muitos malfeitores se reuniram e fundaram a Seita Xuehou. As técnicas demoníacas da seita corrompem a natureza humana, sendo impossível de salvar até mesmo por Bodhisattvas. Os praticantes de artes marciais justos naturalmente se opõem a eles.
+Desde o caos causado por Xiangshu, muitos malfeitores se reuniram e fundaram a Seita Xuehou. As técnicas demoníacas da seita corrompem a natureza humana, sendo impossível de salvar até mesmo por Bodhisattvas. Os praticantes de artes marciais justos naturalmente se opoem a eles.
 Lenda da Donzela do Túmulo de Sangue
-As artes marciais da Seita Xuehou consistem em <SpName=mousetip_gongfa_3>punhos e palmas, <SpName=mousetip_gongfa_4>dedos, <SpName=mousetip_gongfa_5>chutes, <SpName=mousetip_gongfa_6>armas ocultas, todas extremamente malignas e venenosas, utilizando todos os meios possíveis, até mesmo sacrifícios humanos, seguindo o caminho dos demônios, alcançando técnicas imortais e malignas.
+As artes marciais da Seita Xuehou consistem em <SpName=mousetip_gongfa_3>punhos e palmas, <SpName=mousetip_gongfa_4>dedos, <SpName=mousetip_gongfa_5>chutes, <SpName=mousetip_gongfa_6>armas ocultas, todas extremamente malignas e venenosas, utilizando todos os meios possíveis, até mesmo sacrifícios humanos, seguindo o caminho dos demônios, alcancando técnicas imortais e malignas.
 Vila de Taiwu
-A Vila de Taiwu segue o caminho da reclusão, sendo um lugar extremamente austero. Na vila, galos e cães podem ser ouvidos, as portas não são trancadas à noite, e há uma atmosfera de paz, diferente do mundo exterior.
+A Vila de Taiwu segue o caminho da reclusao, sendo um lugar extremamente austero. Na vila, galos e caes podem ser ouvidos, as portas nao sao trancadas à noite, e há uma atmosfera de paz, diferente do mundo exterior.
 
 
 Caminho Desviado
@@ -75,7 +75,7 @@ Pessoas justas, heróis e benevolentes.
 
 
 Garras de Xiangshu
-Nascido da pedra negra, eternamente preso na escuridão demoníaca.
+Nascido da pedra negra, eternamente preso na escuridao demoníaca.
 
 
 Mente perdida, caminho demoníaco inevitável.
@@ -90,7 +90,7 @@ Chengdu tem um clima ameno, com pessoas talentosas, conhecida como "Terra dos De
 
 
 Guizhou
-As montanhas e rios de Guizhou são como pinturas, de beleza incomparável, conhecida como "A beleza de Guizhou supera a do centro da China" e "As paisagens de Guilin são as melhores do mundo".
+As montanhas e rios de Guizhou sao como pinturas, de beleza incomparável, conhecida como "A beleza de Guizhou supera a do centro da China" e "As paisagens de Guilin sao as melhores do mundo".
 
 
 Xiangyang
@@ -110,27 +110,27 @@ Uma das antigas "Nove Províncias", é uma importante cidade oriental. Como "o l
 
 
 Jiangling
-Jiangling é uma antiga capital imperial que conecta o noroeste e o sudeste da China. A terra de Jingchu é um centro de cultura e educação, onde se reúnem muitos estudiosos elegantes.
+Jiangling é uma antiga capital imperial que conecta o noroeste e o sudeste da China. A terra de Jingchu é um centro de cultura e educacao, onde se reúnem muitos estudiosos elegantes.
 
 
 Fuzhou
-Fuzhou tem uma população grande e comércio marítimo próspero, sendo extremamente próspera. É conhecida como "Cidade das Árvores de Banyan" devido ao plantio generalizado de árvores de banyan.
+Fuzhou tem uma populacao grande e comércio marítimo próspero, sendo extremamente próspera. É conhecida como "Cidade das Árvores de Banyan" devido ao plantio generalizado de árvores de banyan.
 
 
 Liaoyang
-Liaoyang tem uma vasta jurisdição, sendo uma importante cidade do norte. Como a antiga capital mais famosa do norte, foi várias vezes a capital de vários países do norte.
+Liaoyang tem uma vasta jurisdicao, sendo uma importante cidade do norte. Como a antiga capital mais famosa do norte, foi várias vezes a capital de vários países do norte.
 
 
 Qinzhou
-Qinzhou é uma terra fronteiriça, com uma população não civilizada. Sob o controle da Seita Vajra, tornou-se a base para a restauração do antigo reino de Xiangxiong.
+Qinzhou é uma terra fronteirica, com uma populacao nao civilizada. Sob o controle da Seita Vajra, tornou-se a base para a restauracao do antigo reino de Xiangxiong.
 
 
 Dali
-O povo de Dali é simples e sincero, devoto do budismo. Embora haja muitas tribos e clãs no país, todos são unidos e amigáveis, apresentando uma cena de prosperidade.
+O povo de Dali é simples e sincero, devoto do budismo. Embora haja muitas tribos e clas no país, todos sao unidos e amigáveis, apresentando uma cena de prosperidade.
 
 
 Shouchun
-Shouchun é a capital de Huainan, conhecida como "a garganta do centro da China". Shouchun não é apenas a terra natal do povo Chu, mas também a "terra do tofu".
+Shouchun é a capital de Huainan, conhecida como "a garganta do centro da China". Shouchun nao é apenas a terra natal do povo Chu, mas também a "terra do tofu".
 
 
 Hangzhou
@@ -138,11 +138,11 @@ Hangzhou
 
 
 Yangzhou
-Yangzhou é uma cidade com três partes, cheia de barcos de recreio e música todas as noites. Dizem que "das três partes da lua brilhante no mundo, duas são em Yangzhou".
+Yangzhou é uma cidade com três partes, cheia de barcos de recreio e música todas as noites. Dizem que "das três partes da lua brilhante no mundo, duas sao em Yangzhou".
 
 
 Vila
-Na vila, a fumaça das cozinhas sobe suavemente. Caminhos de terra simples e bem cuidados se espalham pelos campos e cercas baixas.
+Na vila, a fumaca das cozinhas sobe suavemente. Caminhos de terra simples e bem cuidados se espalham pelos campos e cercas baixas.
 
 
 Cidade
@@ -150,6 +150,6 @@ Uma cidade populosa. Conectada às estradas principais, é próspera e bem conec
 
 
 Fortaleza
-Um ponto estratégico protegido por muralhas e fortalezas. Os residentes são autossuficientes e muitas vezes governam a área.
+Um ponto estratégico protegido por muralhas e fortalezas. Os residentes sao autossuficientes e muitas vezes governam a área.
 
 

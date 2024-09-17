@@ -1,110 +1,110 @@
 Caixa de Carpinteiro
 Uma pequena caixa que carpinteiros comuns carregam consigo, contendo serra, plaina, linha de giz, furadeira de corda e outras ferramentas comuns de carpintaria.
-Caixa de Artesão
-Uma pequena caixa que artesãos habilidosos carregam consigo, contendo ferramentas mais completas que a caixa de carpinteiro, como formão, martelo, esquadro, lima, machado, etc., para trabalhos de carpintaria mais detalhados.
+Caixa de Artesao
+Uma pequena caixa que artesaos habilidosos carregam consigo, contendo ferramentas mais completas que a caixa de carpinteiro, como formao, martelo, esquadro, lima, machado, etc., para trabalhos de carpintaria mais detalhados.
 Plaina Asa de Cigarra
 Esta plaina é engenhosamente projetada, com lâmina dura, capaz de alisar qualquer tipo de madeira. Mesmo iniciantes podem usá-la facilmente, produzindo lascas finas como asas de cigarra, daí o nome "Plaina Asa de Cigarra".
 Caixa de Prata Laqueada
-Uma caixa de tesouro feita de prata, coberta com laca vermelha, de tamanho compacto, fácil de transportar, com espaço interno bem organizado, capaz de armazenar várias ferramentas de carpintaria, muito prática.
+Uma caixa de tesouro feita de prata, coberta com laca vermelha, de tamanho compacto, fácil de transportar, com espaco interno bem organizado, capaz de armazenar várias ferramentas de carpintaria, muito prática.
 Plaina de Âmbar e Ferro Divino
 A lâmina da Plaina de Âmbar e Ferro Divino é feita de um metal raro, resistente à água e à ferrugem; o corpo da plaina é de âmbar, amarelo e translúcido, conferindo um aroma de pinho e cipreste aos objetos de madeira.
 Caixa de Mil Ferramentas
 Esta caixa é feita de ferro e ouro, com uma estrutura precisa, podendo se transformar em várias ferramentas, daí o nome "Caixa de Mil Ferramentas". Diz-se que foi inventada por um antigo mestre carpinteiro, sendo muito conveniente para transportar.
 Plaina Fantasma
-Segundo o "Zhuangzi": "Ziqing esculpiu madeira para fazer um suporte, e o suporte estava tão bem feito que parecia obra de deuses e fantasmas". A Plaina Fantasma é uma réplica da plaina usada pelo famoso artesão Ziqing do período da Primavera e Outono. Se usada com concentração, pode produzir objetos de madeira tão requintados que parecem obra de deuses.
+Segundo o "Zhuangzi": "Ziqing esculpiu madeira para fazer um suporte, e o suporte estava tao bem feito que parecia obra de deuses e fantasmas". A Plaina Fantasma é uma réplica da plaina usada pelo famoso artesao Ziqing do período da Primavera e Outono. Se usada com concentracao, pode produzir objetos de madeira tao requintados que parecem obra de deuses.
 Caixa Mágica do Universo
-Esta caixa parece pequena por fora, mas tem um grande espaço interno, como o conceito budista de "um grão de mostarda contendo o Monte Sumeru". Por isso, é chamada de "Caixa Mágica do Universo".
+Esta caixa parece pequena por fora, mas tem um grande espaco interno, como o conceito budista de "um grao de mostarda contendo o Monte Sumeru". Por isso, é chamada de "Caixa Mágica do Universo".
 Caixa de Tesouro de Gongshu
-Diz-se que esta caixa foi inventada por Gongshu Ban, contendo apenas algumas ferramentas simples, mas com um design único. Mesmo iniciantes podem usá-la com facilidade, demonstrando a essência da carpintaria. A estrutura da caixa reflete o esforço do criador, inspirando novas ideias a cada visualização.
-Forno de Fundição de Bronze
-Um forno de fundição feito de bronze, capaz de realizar fundição e moldagem de materiais metálicos comuns com a ajuda de moldes. Embora a técnica seja antiga, pode simplificar processos complexos.
+Diz-se que esta caixa foi inventada por Gongshu Ban, contendo apenas algumas ferramentas simples, mas com um design único. Mesmo iniciantes podem usá-la com facilidade, demonstrando a essência da carpintaria. A estrutura da caixa reflete o esforco do criador, inspirando novas ideias a cada visualizacao.
+Forno de Fundicao de Bronze
+Um forno de fundicao feito de bronze, capaz de realizar fundicao e moldagem de materiais metálicos comuns com a ajuda de moldes. Embora a técnica seja antiga, pode simplificar processos complexos.
 Forno de Refinamento de Veias Vermelhas
-O Forno de Refinamento de Veias Vermelhas é feito de um metal raro de vulcão, com veias vermelhas. Durante a fundição, as chamas e as veias vermelhas brilham juntas, criando um efeito encantador.
+O Forno de Refinamento de Veias Vermelhas é feito de um metal raro de vulcao, com veias vermelhas. Durante a fundicao, as chamas e as veias vermelhas brilham juntas, criando um efeito encantador.
 Forno de Yin e Yang de Ferro Refinado
-Este forno é feito de ferro refinado, de cor cinza-branca. O fogo yin é azul e o fogo yang é vermelho. Durante a fundição, o metal é repetidamente queimado pelos dois tipos de fogo, daí o nome "Forno de Yin e Yang de Ferro Refinado".
-Forno de Fundição de Ouro Negro
-Um forno de fundição feito de ouro negro, resistente e pesado, suportando altas temperaturas. De formato quadrado, pode suportar milhares de marteladas sem desgaste. Embora não seja fácil de transportar, é muito apreciado pelos ferreiros.
-Forno de Fundição de Energia Primordial
-O Forno de Fundição de Energia Primordial é uma peça única. Durante a fundição, gera duas energias, yin e yang, como no início do caos, criando energia primordial. Por isso, é dito: "Energia primordial no início da separação, duas energias se transformam infinitamente".
+Este forno é feito de ferro refinado, de cor cinza-branca. O fogo yin é azul e o fogo yang é vermelho. Durante a fundicao, o metal é repetidamente queimado pelos dois tipos de fogo, daí o nome "Forno de Yin e Yang de Ferro Refinado".
+Forno de Fundicao de Ouro Negro
+Um forno de fundicao feito de ouro negro, resistente e pesado, suportando altas temperaturas. De formato quadrado, pode suportar milhares de marteladas sem desgaste. Embora nao seja fácil de transportar, é muito apreciado pelos ferreiros.
+Forno de Fundicao de Energia Primordial
+O Forno de Fundicao de Energia Primordial é uma peca única. Durante a fundicao, gera duas energias, yin e yang, como no início do caos, criando energia primordial. Por isso, é dito: "Energia primordial no início da separacao, duas energias se transformam infinitamente".
 Forno de Refinamento de Alma Mística
-Diz-se que "a essência do coração é chamada de alma". Acredita-se que tesouros têm alma, por isso duram mil anos. As ferramentas feitas com este forno têm uma aura mística, flutuando graciosamente, daí o nome "Forno de Refinamento de Alma Mística".
+Diz-se que "a essência do coracao é chamada de alma". Acredita-se que tesouros têm alma, por isso duram mil anos. As ferramentas feitas com este forno têm uma aura mística, flutuando graciosamente, daí o nome "Forno de Refinamento de Alma Mística".
 Forno de Fogo Verdadeiro de Sete Cores
 O fogo verdadeiro é o fogo supremo do mundo. As chamas deste forno têm sete cores, como o fogo alquímico taoísta, eliminando impurezas e tornando os objetos extremamente duros, sendo incomparável.
-Forno de Fundição de Nove Frio
-Nove Frio significa extremo frio. O interior deste forno é extremamente quente, enquanto o exterior é extremamente frio. Perto dele, não se sente calor. Quanto mais forte o fogo, mais intenso o frio, podendo fundir qualquer coisa no mundo.
+Forno de Fundicao de Nove Frio
+Nove Frio significa extremo frio. O interior deste forno é extremamente quente, enquanto o exterior é extremamente frio. Perto dele, nao se sente calor. Quanto mais forte o fogo, mais intenso o frio, podendo fundir qualquer coisa no mundo.
 Forno de Refinamento de Ruoye
-"Na corrente de Ruoye, o cobre é extraído e Ou Yezi o funde para fazer a espada pura". Diz-se que este forno é uma réplica do forno usado por Ou Yezi para fundir a espada pura, usando cobre da corrente de Ruoye. Por isso, é chamado de "Forno de Refinamento de Ruoye". Suas chamas têm três cores: azul, branco e vermelho. Quando a espada é concluída, parece haver um rugido de dragão, sendo extremamente místico.
+"Na corrente de Ruoye, o cobre é extraído e Ou Yezi o funde para fazer a espada pura". Diz-se que este forno é uma réplica do forno usado por Ou Yezi para fundir a espada pura, usando cobre da corrente de Ruoye. Por isso, é chamado de "Forno de Refinamento de Ruoye". Suas chamas têm três cores: azul, branco e vermelho. Quando a espada é concluída, parece haver um rugido de dragao, sendo extremamente místico.
 Areia de Pedra Negra
-Uma das areias comuns usadas para polir jade, de cor preta e textura grossa, adequada para polir e cortar jade. Encontrada em várias regiões, mas a melhor vem de Yanzhao.
+Uma das areias comuns usadas para polir jade, de cor preta e textura grossa, adequada para polir e cortar jade. Encontrada em várias regioes, mas a melhor vem de Yanzhao.
 Areia de Diamante
-Areia de polimento feita de partículas de diamante, de cor transparente e textura dura, adequada para decompor e cortar jade. Não tem local de origem fixo, sendo frequentemente descoberta por acaso.
+Areia de polimento feita de partículas de diamante, de cor transparente e textura dura, adequada para decompor e cortar jade. Nao tem local de origem fixo, sendo frequentemente descoberta por acaso.
 Areia de Pérola de Jade
 Esta areia é feita de pedras raras de cor verde e branca, de textura dura e partículas finas, com brilho semelhante ao jade e à pérola, daí o nome "Areia de Pérola de Jade".
-Areia de Dragão Amarelo
-Esta areia é feita de pedras raras amarelas do sul, com padrões de dragão, daí o nome "Areia de Dragão Amarelo". Usada para polir jade, confere belos padrões ao jade.
+Areia de Dragao Amarelo
+Esta areia é feita de pedras raras amarelas do sul, com padroes de dragao, daí o nome "Areia de Dragao Amarelo". Usada para polir jade, confere belos padroes ao jade.
 Areia de Pedra Preciosa Tricolor
 Esta areia é feita de pedras preciosas tricolores (verde, vermelho e amarelo), usada para polir jade, decompondo-o facilmente. Usada para polir, confere brilho ao jade.
 Areia de Neve
-Esta areia vem das montanhas nevadas, de cor branca e textura fina como a neve. Usada para polir jade, proporciona uma sensação refrescante, não sendo quente no verão, daí o nome "Areia de Neve".
+Esta areia vem das montanhas nevadas, de cor branca e textura fina como a neve. Usada para polir jade, proporciona uma sensacao refrescante, nao sendo quente no verao, daí o nome "Areia de Neve".
 Areia de Sândalo Roxo e Ouro
 Esta areia é feita de pedras raras de cor roxa e dourada, extremamente dura, capaz de polir qualquer jade. Além disso, ao polir jade, confere um aroma agradável, que se intensifica com o uso.
 Areia de Cristal de Sangue e Gelo
-Diz-se que uma besta divina antiga morreu em uma montanha de gelo, e seu sangue não coagula por cem anos, nem apodrece por mil anos, formando cristais de sangue e gelo. Esta areia é vermelha e branca, com uma aura mística. Usada para polir jade, confere uma aura mística ao jade.
-Areia da Filha do Dragão
-Esta areia é feita de pedras raras do Mar do Leste. Ao polir jade, não precisa de água, pois a água surge da areia. Inspirados por isso, os antigos escreveram: "Por que a Filha do Dragão chora continuamente, transformando-se em pedra para os polidores de jade".
+Diz-se que uma besta divina antiga morreu em uma montanha de gelo, e seu sangue nao coagula por cem anos, nem apodrece por mil anos, formando cristais de sangue e gelo. Esta areia é vermelha e branca, com uma aura mística. Usada para polir jade, confere uma aura mística ao jade.
+Areia da Filha do Dragao
+Esta areia é feita de pedras raras do Mar do Leste. Ao polir jade, nao precisa de água, pois a água surge da areia. Inspirados por isso, os antigos escreveram: "Por que a Filha do Dragao chora continuamente, transformando-se em pedra para os polidores de jade".
 Pacote de Agulha e Linha
-Um pequeno saco do tamanho da palma de uma criança, com agulhas de vários comprimentos na lateral; dentro do saco, há linhas de várias cores, usadas para costurar roupas simples.
+Um pequeno saco do tamanho da palma de uma crianca, com agulhas de vários comprimentos na lateral; dentro do saco, há linhas de várias cores, usadas para costurar roupas simples.
 Tear de Bambu Verde
-Um tear feito de bambu verde, fácil de obter material e de uso amplo, mas de textura macia, precisando ser fixado no chão durante o uso.
-Lançadeira Borboleta
-Esta lançadeira é uma ferramenta de tecelagem antiga, de estrutura simples. Durante o uso, a lançadeira se move como uma borboleta, podendo ser usada em pares, daí o nome "Lançadeira Borboleta".
-Lançadeira de Nuvem Flutuante
-A Lançadeira de Nuvem Flutuante é toda branca, movendo-se agilmente como nuvens entrelaçadas, com alta velocidade, capaz de tecer um rolo de tecido em um dia.
+Um tear feito de bambu verde, fácil de obter material e de uso amplo, mas de textura macia, precisando ser fixado no chao durante o uso.
+Lancadeira Borboleta
+Esta lancadeira é uma ferramenta de tecelagem antiga, de estrutura simples. Durante o uso, a lancadeira se move como uma borboleta, podendo ser usada em pares, daí o nome "Lancadeira Borboleta".
+Lancadeira de Nuvem Flutuante
+A Lancadeira de Nuvem Flutuante é toda branca, movendo-se agilmente como nuvens entrelacadas, com alta velocidade, capaz de tecer um rolo de tecido em um dia.
 Tear de Marfim
-Um tear de marfim para tecelagem de padrões, resistente ao vento e à chuva, extremamente valioso, mas de grande porte, precisando ser usado sentado. Diz-se que é um tributo de um pequeno país fronteiriço ao imperador.
-Lançadeira de Cem Flores
-Esta lançadeira tem padrões de cem flores, de formato curto, usada frequentemente para tecer padrões e brocados. O tecido resultante é tão vibrante quanto cem flores, daí o nome "Lançadeira de Cem Flores".
+Um tear de marfim para tecelagem de padroes, resistente ao vento e à chuva, extremamente valioso, mas de grande porte, precisando ser usado sentado. Diz-se que é um tributo de um pequeno país fronteirico ao imperador.
+Lancadeira de Cem Flores
+Esta lancadeira tem padroes de cem flores, de formato curto, usada frequentemente para tecer padroes e brocados. O tecido resultante é tao vibrante quanto cem flores, daí o nome "Lancadeira de Cem Flores".
 Tear de Huangmu
 Huangmu, também conhecida como Huang Daopo, melhorou o tear durante seu exílio no exterior, resultando no Tear de Huangmu. Este tear é fácil de programar e tece rapidamente. Após envelhecer, Huangmu retornou à sua terra natal, revitalizando a tecelagem no sul do rio Yangtze.
-Lançadeira de Sete Cores e Aroma
-A Lançadeira de Sete Cores e Aroma é feita de madeira rara, com cores como um arco-íris e um aroma sutil. Os itens tecidos com esta lançadeira adquirem uma fragrância e um brilho semelhantes ao das nuvens ao amanhecer.
-Lançadeira de Tesouro da Deusa
-Diz-se que esta lançadeira foi usada pela tecelã celestial, com um brilho semelhante ao das nuvens. As roupas tecidas com esta lançadeira são perfeitas, sem costuras visíveis.
+Lancadeira de Sete Cores e Aroma
+A Lancadeira de Sete Cores e Aroma é feita de madeira rara, com cores como um arco-íris e um aroma sutil. Os itens tecidos com esta lancadeira adquirem uma fragrância e um brilho semelhantes ao das nuvens ao amanhecer.
+Lancadeira de Tesouro da Deusa
+Diz-se que esta lancadeira foi usada pela tecela celestial, com um brilho semelhante ao das nuvens. As roupas tecidas com esta lancadeira sao perfeitas, sem costuras visíveis.
 Panela de Pedra
 Uma panela feita de pedra comum, difícil de aquecer, mas excelente para manter o calor. Usada frequentemente para ensopados e assados, diz-se que foi usada por sábios antigos.
-Panela de Cobre com Duas Alças
-Uma panela feita de latão, com duas alças nas bordas para facilitar o manuseio, daí o nome "Panela de Cobre com Duas Alças". Esta panela aquece rapidamente, ideal para fritar alimentos, com uma camada fina de ferro para evitar corrosão.
-Panela de Seis Alças da Fortuna
-Esta panela é feita de ferro fundido, com seis alças na base para suporte. Originária da Dinastia Liao, era frequentemente usada por soldados, ideal para cozinhar. A panela tem padrões de cabaça, simbolizando fortuna e prosperidade.
-Panela do Deus do Fogão
-Diz-se que o Deus do Fogão controla o fogo e os assuntos da cozinha. Esta panela é uma réplica da usada pelo Deus do Fogão antes de ascender ao céu. Cozinhar com esta panela produz um aroma agradável que agrada aos deuses, garantindo uma colheita abundante no próximo ano.
-Panela com Padrões de Besta Glutona
-Diz-se que a besta glutona é uma criatura feroz da antiguidade, conhecida por sua voracidade. Aqueles que apreciam a boa comida se divertem com essa história e se autodenominam "glutões". Esta panela tem padrões da besta glutona, simbolizando pratos deliciosos e inesquecíveis.
+Panela de Cobre com Duas Alcas
+Uma panela feita de latao, com duas alcas nas bordas para facilitar o manuseio, daí o nome "Panela de Cobre com Duas Alcas". Esta panela aquece rapidamente, ideal para fritar alimentos, com uma camada fina de ferro para evitar corrosao.
+Panela de Seis Alcas da Fortuna
+Esta panela é feita de ferro fundido, com seis alcas na base para suporte. Originária da Dinastia Liao, era frequentemente usada por soldados, ideal para cozinhar. A panela tem padroes de cabaca, simbolizando fortuna e prosperidade.
+Panela do Deus do Fogao
+Diz-se que o Deus do Fogao controla o fogo e os assuntos da cozinha. Esta panela é uma réplica da usada pelo Deus do Fogao antes de ascender ao céu. Cozinhar com esta panela produz um aroma agradável que agrada aos deuses, garantindo uma colheita abundante no próximo ano.
+Panela com Padroes de Besta Glutona
+Diz-se que a besta glutona é uma criatura feroz da antiguidade, conhecida por sua voracidade. Aqueles que apreciam a boa comida se divertem com essa história e se autodenominam "glutoes". Esta panela tem padroes da besta glutona, simbolizando pratos deliciosos e inesquecíveis.
 Panela de Aroma Penetrante
 A Panela de Aroma Penetrante é feita de ferro dourado, com poros internos preenchidos com especiarias. O aroma pode durar décadas. Cozinhar com esta panela infunde os pratos com um aroma delicioso.
-Panela dos Oito Tesouros e Seis Direções
-A Panela dos Oito Tesouros e Seis Direções simboliza os "oito tesouros auspiciosos" e as "seis direções" (norte, sul, leste, oeste, cima e baixo). Tem formato hexagonal, com duas alças e seis pés, decorada com padrões dos oito tesouros, capaz de cozinhar uma variedade de pratos.
+Panela dos Oito Tesouros e Seis Direcoes
+A Panela dos Oito Tesouros e Seis Direcoes simboliza os "oito tesouros auspiciosos" e as "seis direcoes" (norte, sul, leste, oeste, cima e baixo). Tem formato hexagonal, com duas alcas e seis pés, decorada com padroes dos oito tesouros, capaz de cozinhar uma variedade de pratos.
 Panela de Ferro Negro com Ouro
-A Panela de Ferro Negro com Ouro é feita de ferro negro, com superfície revestida de ouro. Originalmente usada por famílias ricas para mostrar sua riqueza, é antiaderente, inoxidável e extremamente leve, fácil de manusear até para crianças.
-Panela de Mil Porções
-A Panela de Mil Porções é famosa pelo ditado "mil porções de comida não se comparam a uma panela". Diz-se que foi criada pelo famoso chef Yi Ya da era dos Reinos Combatentes. Cozinhar com esta panela harmoniza os cinco sabores, fazendo os comensais se sentirem nobres e inspirados, como se governassem o mundo. Ou, ao lembrar do passado, sentem uma profunda nostalgia... e assim por diante.
+A Panela de Ferro Negro com Ouro é feita de ferro negro, com superfície revestida de ouro. Originalmente usada por famílias ricas para mostrar sua riqueza, é antiaderente, inoxidável e extremamente leve, fácil de manusear até para criancas.
+Panela de Mil Porcoes
+A Panela de Mil Porcoes é famosa pelo ditado "mil porcoes de comida nao se comparam a uma panela". Diz-se que foi criada pelo famoso chef Yi Ya da era dos Reinos Combatentes. Cozinhar com esta panela harmoniza os cinco sabores, fazendo os comensais se sentirem nobres e inspirados, como se governassem o mundo. Ou, ao lembrar do passado, sentem uma profunda nostalgia... e assim por diante.
 Almofariz de Argila
-Um almofariz feito de argila, leve, composto por um pequeno pilão e um pilão maior, usado para triturar ervas e extrair sucos.
-Caldeirão das Cem Ervas
-Um pequeno caldeirão de três pés usado para preparar medicamentos, feito de bronze, decorado com padrões de cem ervas, em homenagem ao lendário Shennong, que provou centenas de ervas para salvar as pessoas.
+Um almofariz feito de argila, leve, composto por um pequeno pilao e um pilao maior, usado para triturar ervas e extrair sucos.
+Caldeirao das Cem Ervas
+Um pequeno caldeirao de três pés usado para preparar medicamentos, feito de bronze, decorado com padroes de cem ervas, em homenagem ao lendário Shennong, que provou centenas de ervas para salvar as pessoas.
 Forno de Alquimia do Velho Mestre
-Um forno de alquimia usado por taoístas, com formato de caldeirão, corpo redondo e topo pontudo, feito de ferro dourado, decorado com padrões do Velho Mestre ascendendo ao céu. Tem uma tampa para concentrar a energia alquímica.
+Um forno de alquimia usado por taoístas, com formato de caldeirao, corpo redondo e topo pontudo, feito de ferro dourado, decorado com padroes do Velho Mestre ascendendo ao céu. Tem uma tampa para concentrar a energia alquímica.
 Tigela de Jade Verde e Bodhi
-Esta tigela é feita de jade verde raro, que pode nutrir as propriedades medicinais. Decorada com padrões de folhas de bodhi, simbolizando a compaixão suprema. Ao preparar medicamentos, a tigela fica vermelha; ao preparar venenos, a tigela fica verde.
+Esta tigela é feita de jade verde raro, que pode nutrir as propriedades medicinais. Decorada com padroes de folhas de bodhi, simbolizando a compaixao suprema. Ao preparar medicamentos, a tigela fica vermelha; ao preparar venenos, a tigela fica verde.
 Forno do Rei Fantasma
-Diz-se que o Rei Fantasma é um mensageiro do submundo, invisível para os vivos. Ao usar este forno para preparar medicamentos, as chamas são negras, controladas pelo Rei Fantasma, produzindo medicamentos místicos.
-Caldeirão do Rei das Ervas de Madeira Divina
-Diz-se que o Rei das Ervas é o deus da saúde e prosperidade. Este caldeirão é feito de madeira divina obtida pelo Rei das Ervas em um grande lago ocidental. Não queima ao fogo, daí o nome "Caldeirão do Rei das Ervas de Madeira Divina".
+Diz-se que o Rei Fantasma é um mensageiro do submundo, invisível para os vivos. Ao usar este forno para preparar medicamentos, as chamas sao negras, controladas pelo Rei Fantasma, produzindo medicamentos místicos.
+Caldeirao do Rei das Ervas de Madeira Divina
+Diz-se que o Rei das Ervas é o deus da saúde e prosperidade. Este caldeirao é feito de madeira divina obtida pelo Rei das Ervas em um grande lago ocidental. Nao queima ao fogo, daí o nome "Caldeirao do Rei das Ervas de Madeira Divina".
 Tigela de Jade de Sangue
 Diz-se que o jade de sangue é formado pelo sangue fresco, com veios vermelhos visíveis. Esta tigela pode preservar ervas raras e manter venenos frescos. Ao preparar medicamentos, emite um brilho vermelho, parecendo ter vida própria.
-Caldeirão de Vidro Aromático Celestial
-Diz-se que o vidro é uma pedra de cinco cores, clara como cristal e colorida como o amanhecer, deixada pela deusa Nüwa ao reparar o céu. Tem um aroma único. Ao usar este caldeirão para preparar medicamentos, o tempo de cozimento se ajusta automaticamente.
+Caldeirao de Vidro Aromático Celestial
+Diz-se que o vidro é uma pedra de cinco cores, clara como cristal e colorida como o amanhecer, deixada pela deusa Nüwa ao reparar o céu. Tem um aroma único. Ao usar este caldeirao para preparar medicamentos, o tempo de cozimento se ajusta automaticamente.
 Forno de Ossos de Jade Submersos
-Diz-se que os ossos de jade submersos são ossos de uma besta espiritual, transformados ao longo de eras. São frios ao toque, como jade. Ao usar esta tigela para preparar medicamentos, o líquido de jade se forma rapidamente, transformando-se em pílulas.
-Mãos Vazias
+Diz-se que os ossos de jade submersos sao ossos de uma besta espiritual, transformados ao longo de eras. Sao frios ao toque, como jade. Ao usar esta tigela para preparar medicamentos, o líquido de jade se forma rapidamente, transformando-se em pílulas.
+Maos Vazias
 

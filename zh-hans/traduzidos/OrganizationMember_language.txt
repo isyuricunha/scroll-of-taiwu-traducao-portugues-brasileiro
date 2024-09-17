@@ -50,7 +50,7 @@ Chefe da Vila
 
 
 
-Guardião do Túmulo
+Guardiao do Túmulo
 
 
 
@@ -70,7 +70,7 @@ Médico
 
 
 
-Artesão
+Artesao
 
 
 
@@ -80,7 +80,7 @@ Camponês
 
 
 
-Aldeão
+Aldeao
 
 
 
@@ -90,12 +90,12 @@ Desafiante do Destino
 
 
 
-Cabeça do Mal
+Cabeca do Mal
 
 
 
 
-Aberração Maligna
+Aberracao Maligna
 
 
 
@@ -175,7 +175,7 @@ Justiceiro
 
 
 
-Nove Anciões do Inferno Arcano
+Nove Ancioes do Inferno Arcano
 
 
 
@@ -185,12 +185,12 @@ Protetor de Julgamentos Divinos
 
 
 
-Nascidos em Confusão
+Nascidos em Confusao
 
 
 
 
-Nove Seguidores do Coração Caído
+Nove Seguidores do Coracao Caído
 
 
 
@@ -200,7 +200,7 @@ Cem Malignidades
 
 
 
-Manifestação do Coração Demoníaco
+Manifestacao do Coracao Demoníaco
 
 
 
@@ -210,7 +210,7 @@ Olhar Chamador
 
 
 
-Purificação do Bem
+Purificacao do Bem
 
 
 
@@ -227,7 +227,7 @@ Mestre Zen
 Primeiro Assento
 
 
-Ancião
+Anciao
 
 
 Dezoito Arhats
@@ -235,7 +235,7 @@ Dezoito Arhats
 
 
 
-Monge Guardião dos Preceitos
+Monge Guardiao dos Preceitos
 
 
 
@@ -264,7 +264,7 @@ Líder da Seita
 Mestra Sênior
 Mestre
 Esposa do Líder da Seita
-Grão-Mestre Líder
+Grao-Mestre Líder
 
 
 Discípulo do Líder da Seita
@@ -304,8 +304,8 @@ Senhor do Vale
 
 
 Esposa do Senhor do Vale
-Grão-Mestre do Senhor do Vale
-Guardião do Cofre
+Grao-Mestre do Senhor do Vale
+Guardiao do Cofre
 
 
 
@@ -315,7 +315,7 @@ Emissário do Manto de Cervo
 
 
 
-Mãos Habilidosas
+Maos Habilidosas
 
 
 
@@ -340,7 +340,7 @@ Discípulo do Cofre de Flores
 
 
 
-Criança Pastoreira
+Crianca Pastoreira
 
 
 
@@ -349,15 +349,15 @@ Verdadeiro Imortal
 Esposa do Líder da Seita
 Líder Interino
 Mestre Daoísta
-Irmã Interina do Líder da Seita
-Irmão Interino do Líder da Seita
+Irma Interina do Líder da Seita
+Irmao Interino do Líder da Seita
 
 
 
 
 
 
-Discípulo do Salão Zhenwu
+Discípulo do Salao Zhenwu
 
 
 
@@ -386,7 +386,7 @@ Grande Mestre
 
 
 Tio Mestre
-Grão-Mestre
+Grao-Mestre
 
 
 
@@ -411,7 +411,7 @@ Discípulo Protetor
 
 
 
-Discípulo da Prisão de Pedra
+Discípulo da Prisao de Pedra
 
 
 
@@ -436,37 +436,37 @@ Vice-Líder da Seita
 
 Esposa do Vice-Líder
 Senhor Vice-Líder
-Mestre do Salão do Leão Furioso
+Mestre do Salao do Leao Furioso
 
 
-Esposa do Leão Furioso
-Senhor Leão Furioso
-Mestre do Salão do Leão Dourado
+Esposa do Leao Furioso
+Senhor Leao Furioso
+Mestre do Salao do Leao Dourado
 
 
-Esposa do Leão Dourado
-Senhor Leão Dourado
-Mestre do Salão do Leão Adormecido
+Esposa do Leao Dourado
+Senhor Leao Dourado
+Mestre do Salao do Leao Adormecido
 
 
-Esposa do Leão Adormecido
-Senhor Leão Adormecido
-Discípulo do Salão do Leão Furioso
-
-
-
-
-Discípulo do Salão do Leão Dourado
+Esposa do Leao Adormecido
+Senhor Leao Adormecido
+Discípulo do Salao do Leao Furioso
 
 
 
 
-Discípulo do Salão do Leão Adormecido
+Discípulo do Salao do Leao Dourado
 
 
 
 
-Filhote de Leão
+Discípulo do Salao do Leao Adormecido
+
+
+
+
+Filhote de Leao
 
 
 
@@ -480,7 +480,7 @@ Mestre Imortal
 Protetor do Palácio Qinglang
 
 
-Herdeiro das Três Religiões
+Herdeiro das Três Religioes
 
 
 
@@ -514,7 +514,7 @@ Viajante Marcial
 
 
 
-Irmã Sênior
+Irma Sênior
 
 
 
@@ -529,12 +529,12 @@ Emissário do Manto Colorido
 
 
 
-Guardião do Jade
+Guardiao do Jade
 
 
 
 
-Discípulo do Salão Tianyin
+Discípulo do Salao Tianyin
 
 
 
@@ -553,12 +553,12 @@ Criada
 
 
 
-Senhor da Mansão
+Senhor da Mansao
 
 
-Esposa do Senhor da Mansão
-Senhor da Mansão
-Mestre Artesão
+Esposa do Senhor da Mansao
+Senhor da Mansao
+Mestre Artesao
 
 
 
@@ -609,12 +609,12 @@ Rei da Medicina
 
 
 
-Soldado Dragão
+Soldado Dragao
 
 
 
 
-Primeiro Discípulo do Caldeirão
+Primeiro Discípulo do Caldeirao
 
 
 
@@ -624,7 +624,7 @@ Discípulo do Instituto da Fornalha Negra
 
 
 
-Discípulo do Instituto do Rei Dragão
+Discípulo do Instituto do Rei Dragao
 
 
 
@@ -634,7 +634,7 @@ Discípulo do Instituto Zhu Bian
 
 
 
-Criança de Medicina
+Crianca de Medicina
 
 
 
@@ -659,12 +659,12 @@ Protetor Iluminado
 
 
 
-Lutador de Força Vajra
+Lutador de Forca Vajra
 
 
 
 
-Discípulo do Salão da Imobilidade
+Discípulo do Salao da Imobilidade
 
 
 
@@ -679,7 +679,7 @@ Discípulo do Instituto Rakshasa
 
 
 
-Criança do Fogo Puro
+Crianca do Fogo Puro
 
 
 
@@ -778,13 +778,13 @@ Senhor da Ilha
 
 
 Esposa do Senhor da Ilha
-Grão-Mestre Guardião
+Grao-Mestre Guardiao
 Vice-Líder da Seita
 
 
 Esposa do Vice-Líder da Seita
-Grão-Mestre Vice-Guardião
-Ancião do Dragão
+Grao-Mestre Vice-Guardiao
+Anciao do Dragao
 
 
 
@@ -841,7 +841,7 @@ Protetor
 
 
 
-Criança de Sangue
+Crianca de Sangue
 
 
 
@@ -887,7 +887,7 @@ Rico Abastado
 
 
 
-Artesão
+Artesao
 
 
 

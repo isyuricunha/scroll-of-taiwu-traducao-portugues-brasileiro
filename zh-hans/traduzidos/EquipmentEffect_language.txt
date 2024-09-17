@@ -1,29 +1,29 @@
 Quebra da Palma
-Se o inimigo usar luvas de combate e atacar ou usar uma técnica de destruição com essa arma, a força de liberação, defesa contra golpes, esquiva e defesa mental do inimigo serão reduzidas em 20%.
+Se o inimigo usar luvas de combate e atacar ou usar uma técnica de destruicao com essa arma, a forca de liberacao, defesa contra golpes, esquiva e defesa mental do inimigo serao reduzidas em 20%.
 Quebra da Espada
-Se o inimigo usar uma espada e atacar ou usar uma técnica de destruição com essa arma, a força de liberação, defesa contra golpes, esquiva e defesa mental do inimigo serão reduzidas em 20%.
+Se o inimigo usar uma espada e atacar ou usar uma técnica de destruicao com essa arma, a forca de liberacao, defesa contra golpes, esquiva e defesa mental do inimigo serao reduzidas em 20%.
 Quebra da Faca
-Se o inimigo usar uma faca e atacar ou usar uma técnica de destruição com essa arma, a força de liberação, defesa contra golpes, esquiva e defesa mental do inimigo serão reduzidas em 20%.
+Se o inimigo usar uma faca e atacar ou usar uma técnica de destruicao com essa arma, a forca de liberacao, defesa contra golpes, esquiva e defesa mental do inimigo serao reduzidas em 20%.
 Quebra de Veneno
-Se o inimigo usar veneno em pó ou veneno em forma de areia e atacar ou usar uma técnica de destruição com essa arma, a força de liberação, defesa contra golpes, esquiva e defesa mental do inimigo serão reduzidas em 20%.
+Se o inimigo usar veneno em pó ou veneno em forma de areia e atacar ou usar uma técnica de destruicao com essa arma, a forca de liberacao, defesa contra golpes, esquiva e defesa mental do inimigo serao reduzidas em 20%.
 Quebra de Armas Longas
-Se o inimigo usar um bastão ou uma lança e atacar ou usar uma técnica de destruição com essa arma, a força de liberação, defesa contra golpes, esquiva e defesa mental do inimigo serão reduzidas em 20%.
+Se o inimigo usar um bastao ou uma lanca e atacar ou usar uma técnica de destruicao com essa arma, a forca de liberacao, defesa contra golpes, esquiva e defesa mental do inimigo serao reduzidas em 20%.
 Quebra de Armas Flexíveis
-Se o inimigo usar um chicote longo ou uma flauta cerimonial e atacar ou usar uma técnica de destruição com essa arma, a força de liberação, defesa contra golpes, esquiva e defesa mental do inimigo serão reduzidas em 20%.
+Se o inimigo usar um chicote longo ou uma flauta cerimonial e atacar ou usar uma técnica de destruicao com essa arma, a forca de liberacao, defesa contra golpes, esquiva e defesa mental do inimigo serao reduzidas em 20%.
 Quebra de Armas Ocultas
-Se o inimigo usar dispositivos ocultos, armas escondidas ou caixas de agulhas e atacar ou usar uma técnica de destruição com essa arma, a força de liberação, defesa contra golpes, esquiva e defesa mental do inimigo serão reduzidas em 20%.
+Se o inimigo usar dispositivos ocultos, armas escondidas ou caixas de agulhas e atacar ou usar uma técnica de destruicao com essa arma, a forca de liberacao, defesa contra golpes, esquiva e defesa mental do inimigo serao reduzidas em 20%.
 Quebra de Armas Exóticas
-Se o inimigo usar amuletos, armas de combate duplo ou pequenos bastões e atacar ou usar uma técnica de destruição com essa arma, a força de liberação, defesa contra golpes, esquiva e defesa mental do inimigo serão reduzidas em 20%.
+Se o inimigo usar amuletos, armas de combate duplo ou pequenos bastoes e atacar ou usar uma técnica de destruicao com essa arma, a forca de liberacao, defesa contra golpes, esquiva e defesa mental do inimigo serao reduzidas em 20%.
 Quebra de Instrumentos Mágicos
-Se o inimigo usar flautas ou cítaras e atacar ou usar uma técnica de destruição com essa arma, a força de liberação, defesa contra golpes, esquiva e defesa mental do inimigo serão reduzidas em 20%.
+Se o inimigo usar flautas ou cítaras e atacar ou usar uma técnica de destruicao com essa arma, a forca de liberacao, defesa contra golpes, esquiva e defesa mental do inimigo serao reduzidas em 20%.
 Quebra de Metal
-Se o inimigo usar armaduras de metal para bloquear o ataque ou técnica de destruição dessa arma, a resistência física e energética do inimigo serão reduzidas em 20%.
+Se o inimigo usar armaduras de metal para bloquear o ataque ou técnica de destruicao dessa arma, a resistência física e energética do inimigo serao reduzidas em 20%.
 Quebra de Madeira
-Se o inimigo usar armaduras de madeira para bloquear o ataque ou técnica de destruição dessa arma, a resistência física e energética do inimigo serão reduzidas em 20%.
+Se o inimigo usar armaduras de madeira para bloquear o ataque ou técnica de destruicao dessa arma, a resistência física e energética do inimigo serao reduzidas em 20%.
 Quebra de Jade
-Se o inimigo usar armaduras de jade para bloquear o ataque ou técnica de destruição dessa arma, a resistência física e energética do inimigo serão reduzidas em 20%.
+Se o inimigo usar armaduras de jade para bloquear o ataque ou técnica de destruicao dessa arma, a resistência física e energética do inimigo serao reduzidas em 20%.
 Quebra de Tecido
-Se o inimigo usar armaduras de tecido para bloquear o ataque ou técnica de destruição dessa arma, a resistência física e energética do inimigo serão reduzidas em 20%.
+Se o inimigo usar armaduras de tecido para bloquear o ataque ou técnica de destruicao dessa arma, a resistência física e energética do inimigo serao reduzidas em 20%.
 Afiado
 A capacidade dessa arma de penetrar armaduras aumenta em 20%.
 Forjado no Fogo
@@ -36,59 +36,59 @@ Espinho Venenoso
 O efeito de envenenamento dessa arma aumenta em 20%.
 Uso Espiritual
 O requisito para usar essa arma é reduzido em 20%.
-Matança Sangrenta
-Ao atacar ou usar uma técnica de destruição com essa arma, se ela for danificada, o inimigo sofrerá 30% mais danos externos diretos.
-Matança Energética
-Ao atacar ou usar uma técnica de destruição com essa arma, se ela for danificada, o inimigo sofrerá 30% mais danos internos diretos.
-Transformação de Sangue
-Ao atacar ou usar uma técnica de destruição com essa arma, o dano por contragolpe que o atacante sofre nos ferimentos externos é reduzido em 20%.
-Transformação de Energia
-Ao atacar ou usar uma técnica de destruição com essa arma, o dano por contragolpe que o atacante sofre nos ferimentos internos é reduzido em 20%.
+Matanca Sangrenta
+Ao atacar ou usar uma técnica de destruicao com essa arma, se ela for danificada, o inimigo sofrerá 30% mais danos externos diretos.
+Matanca Energética
+Ao atacar ou usar uma técnica de destruicao com essa arma, se ela for danificada, o inimigo sofrerá 30% mais danos internos diretos.
+Transformacao de Sangue
+Ao atacar ou usar uma técnica de destruicao com essa arma, o dano por contragolpe que o atacante sofre nos ferimentos externos é reduzido em 20%.
+Transformacao de Energia
+Ao atacar ou usar uma técnica de destruicao com essa arma, o dano por contragolpe que o atacante sofre nos ferimentos internos é reduzido em 20%.
 Defesa contra Palmas
-Se o inimigo usar luvas de combate e essa armadura bloquear o ataque ou técnica de destruição do inimigo, a força, precisão, velocidade e controle emocional do inimigo serão reduzidos em 20%.
+Se o inimigo usar luvas de combate e essa armadura bloquear o ataque ou técnica de destruicao do inimigo, a forca, precisao, velocidade e controle emocional do inimigo serao reduzidos em 20%.
 Defesa contra Espadas
-Se o inimigo usar uma espada e essa armadura bloquear o ataque ou técnica de destruição do inimigo, a força, precisão, velocidade e controle emocional do inimigo serão reduzidos em 20%.
+Se o inimigo usar uma espada e essa armadura bloquear o ataque ou técnica de destruicao do inimigo, a forca, precisao, velocidade e controle emocional do inimigo serao reduzidos em 20%.
 Defesa contra Facas
-Se o inimigo usar uma faca e essa armadura bloquear o ataque ou técnica de destruição do inimigo, a força, precisão, velocidade e controle emocional do inimigo serão reduzidos em 20%.
+Se o inimigo usar uma faca e essa armadura bloquear o ataque ou técnica de destruicao do inimigo, a forca, precisao, velocidade e controle emocional do inimigo serao reduzidos em 20%.
 Defesa contra Veneno
-Se o inimigo usar veneno em pó ou veneno em forma de areia e essa armadura bloquear o ataque ou técnica de destruição do inimigo, a força, precisão, velocidade e controle emocional do inimigo serão reduzidos em 20%.
+Se o inimigo usar veneno em pó ou veneno em forma de areia e essa armadura bloquear o ataque ou técnica de destruicao do inimigo, a forca, precisao, velocidade e controle emocional do inimigo serao reduzidos em 20%.
 Defesa contra Armas Longas
-Se o inimigo usar um bastão ou uma lança e essa armadura bloquear o ataque ou técnica de destruição do inimigo, a força, precisão, velocidade e controle emocional do inimigo serão reduzidos em 20%.
+Se o inimigo usar um bastao ou uma lanca e essa armadura bloquear o ataque ou técnica de destruicao do inimigo, a forca, precisao, velocidade e controle emocional do inimigo serao reduzidos em 20%.
 Defesa contra Armas Flexíveis
-Se o inimigo usar um chicote longo ou uma flauta cerimonial e essa armadura bloquear o ataque ou técnica de destruição do inimigo, a força, precisão, velocidade e controle emocional do inimigo serão reduzidos em 20%.
+Se o inimigo usar um chicote longo ou uma flauta cerimonial e essa armadura bloquear o ataque ou técnica de destruicao do inimigo, a forca, precisao, velocidade e controle emocional do inimigo serao reduzidos em 20%.
 Defesa contra Armas Ocultas
-Se o inimigo usar dispositivos ocultos, armas escondidas ou caixas de agulhas e essa armadura bloquear o ataque ou técnica de destruição do inimigo, a força, precisão, velocidade e controle emocional do inimigo serão reduzidos em 20%.
+Se o inimigo usar dispositivos ocultos, armas escondidas ou caixas de agulhas e essa armadura bloquear o ataque ou técnica de destruicao do inimigo, a forca, precisao, velocidade e controle emocional do inimigo serao reduzidos em 20%.
 Defesa contra Armas Exóticas
-Se o inimigo usar amuletos, armas de combate duplo ou pequenos bastões e essa armadura bloquear o ataque ou técnica de destruição do inimigo, a força, precisão, velocidade e controle emocional do inimigo serão reduzidos em 20%.
+Se o inimigo usar amuletos, armas de combate duplo ou pequenos bastoes e essa armadura bloquear o ataque ou técnica de destruicao do inimigo, a forca, precisao, velocidade e controle emocional do inimigo serao reduzidos em 20%.
 Defesa contra Instrumentos Mágicos
-Se o inimigo usar flautas ou cítaras e essa armadura bloquear o ataque ou técnica de destruição do inimigo, a força, precisão, velocidade e controle emocional do inimigo serão reduzidos em 20%.
+Se o inimigo usar flautas ou cítaras e essa armadura bloquear o ataque ou técnica de destruicao do inimigo, a forca, precisao, velocidade e controle emocional do inimigo serao reduzidos em 20%.
 Defesa contra Metal
-Se o inimigo usar armas de metal e essa armadura bloquear o ataque ou técnica de destruição do inimigo, a resistência física e energética do inimigo serão reduzidas em 20%.
+Se o inimigo usar armas de metal e essa armadura bloquear o ataque ou técnica de destruicao do inimigo, a resistência física e energética do inimigo serao reduzidas em 20%.
 Defesa contra Madeira
-Se o inimigo usar armas de madeira e essa armadura bloquear o ataque ou técnica de destruição do inimigo, a resistência física e energética do inimigo serão reduzidas em 20%.
+Se o inimigo usar armas de madeira e essa armadura bloquear o ataque ou técnica de destruicao do inimigo, a resistência física e energética do inimigo serao reduzidas em 20%.
 Defesa contra Jade
-Se o inimigo usar armas de jade e essa armadura bloquear o ataque ou técnica de destruição do inimigo, a resistência física e energética do inimigo serão reduzidas em 20%.
+Se o inimigo usar armas de jade e essa armadura bloquear o ataque ou técnica de destruicao do inimigo, a resistência física e energética do inimigo serao reduzidas em 20%.
 Quebra de Tecido
-Se o inimigo usar armas feitas de tecido e essa armadura bloquear o ataque ou técnica de destruição do inimigo, a resistência física e energética do inimigo será reduzida em 20%.
-Ocultação da Lâmina
-A capacidade de penetração de armaduras dessa armadura aumenta em 20%.
+Se o inimigo usar armas feitas de tecido e essa armadura bloquear o ataque ou técnica de destruicao do inimigo, a resistência física e energética do inimigo será reduzida em 20%.
+Ocultacao da Lâmina
+A capacidade de penetracao de armaduras dessa armadura aumenta em 20%.
 Forjado na Neve
 A resistência dessa armadura aumenta em 20%.
 Roupa de Sangue
-A capacidade de penetração de armaduras dessa armadura aumenta em 50%, mas sua resistência é reduzida em 50%.
+A capacidade de penetracao de armaduras dessa armadura aumenta em 50%, mas sua resistência é reduzida em 50%.
 Flexível
-A resistência dessa armadura aumenta em 50%, mas a capacidade de penetração de armaduras é reduzida em 50%.
+A resistência dessa armadura aumenta em 50%, mas a capacidade de penetracao de armaduras é reduzida em 50%.
 O efeito de envenenamento dessa armadura aumenta em 20%.
 O requisito para usar essa armadura é reduzido em 20%.
-Proteção de Sangue
-Se essa armadura bloquear o ataque ou técnica de destruição do inimigo e for danificada, os danos externos diretos causados ao inimigo serão reduzidos em 30%.
-Proteção Energética
-Se essa armadura bloquear o ataque ou técnica de destruição do inimigo e for danificada, os danos internos diretos causados ao inimigo serão reduzidos em 30%.
+Protecao de Sangue
+Se essa armadura bloquear o ataque ou técnica de destruicao do inimigo e for danificada, os danos externos diretos causados ao inimigo serao reduzidos em 30%.
+Protecao Energética
+Se essa armadura bloquear o ataque ou técnica de destruicao do inimigo e for danificada, os danos internos diretos causados ao inimigo serao reduzidos em 30%.
 Rebote de Sangue
-Se essa armadura bloquear o ataque ou técnica de destruição do inimigo, o dano por contragolpe que o atacante sofre nos ferimentos externos aumenta em 20%.
+Se essa armadura bloquear o ataque ou técnica de destruicao do inimigo, o dano por contragolpe que o atacante sofre nos ferimentos externos aumenta em 20%.
 Rebote Energético
-Se essa armadura bloquear o ataque ou técnica de destruição do inimigo, o dano por contragolpe que o atacante sofre nos ferimentos internos aumenta em 20%.
-Reforço
+Se essa armadura bloquear o ataque ou técnica de destruicao do inimigo, o dano por contragolpe que o atacante sofre nos ferimentos internos aumenta em 20%.
+Reforco
 A durabilidade desse equipamento aumenta em 20%.
 Equilíbrio
 O peso desse equipamento é reduzido em 20%.
@@ -105,6 +105,6 @@ O valor desse equipamento aumenta em 75%, mas a popularidade diminui em 75%.
 Colecionável
 A popularidade desse equipamento aumenta em 75%, mas o valor diminui em 75%.
 Feito pelo Pai Adotivo
-A força, precisão e velocidade dessa arma aumentam em 20%; a durabilidade dessa arma aumenta em 100%.
+A forca, precisao e velocidade dessa arma aumentam em 20%; a durabilidade dessa arma aumenta em 100%.
 Teste
 A durabilidade dessa arma é reduzida em 50%, e o requisito para usá-la aumenta em 100%.

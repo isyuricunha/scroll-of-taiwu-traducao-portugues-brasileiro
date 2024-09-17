@@ -1,5 +1,5 @@
 Anel de Ferro Forjado
-Um anel feito de ferro forjado, usado no dedo. Às vezes, durante o ataque, sua dureza permite cortar a pele e a carne do oponente, causando sangramento e ferimentos.
+Um anel feito de ferro forjado, usado no dedo. As vezes, durante o ataque, sua dureza permite cortar a pele e a carne do oponente, causando sangramento e ferimentos.
 Ábaco de Aco
 Um ábaco totalmente feito de aco, brilhante e preto. As contas sao marcadas com símbolos e frequentemente usadas para adivinhacao. Este ábaco contém um mecanismo oculto, permitindo que as contas se projetem para fora do ábaco, o que pode ferir alguém.
 Algema de Lobo Solitário
@@ -191,7 +191,7 @@ Saco de Faixa Roxa
 Bolsa de Flores de Ouro e Prata
 Uma bolsa decorada com fios de ouro e prata, geralmente contendo fragrancias de pétalas de flores. Usada próxima ao corpo, mantém a fragrancia na pele e pode ser pendurada em tendas para repelir insetos e aromatizar o ambiente. Feita de fios de ouro e prata, é muito flexível e nao se desgasta com o tempo.
 Saco do Senhor do Vento
-“À meia-noite, vê-se um objeto grande como um saco, que suga o ar e libera ventos fortes... Pode controlar os ventos e o clima”, o Saco do Senhor do Vento é capaz de capturar e gerar vento, com a forma de um andorinha. Pequeno, mas pode conter a energia do céu e da terra, considerado um item mágico que nao causa carga ao portador.
+“A meia-noite, vê-se um objeto grande como um saco, que suga o ar e libera ventos fortes... Pode controlar os ventos e o clima”, o Saco do Senhor do Vento é capaz de capturar e gerar vento, com a forma de um andorinha. Pequeno, mas pode conter a energia do céu e da terra, considerado um item mágico que nao causa carga ao portador.
 Saco Celestial de Fios Coloridos
 Feito com fios de várias cores, o Saco Celestial de Fios Coloridos brilha como estrelas, extremamente belo e refinado. O saco é rodeado por névoa e vento, e se o estado mental do usuário estiver alinhado, pode ser lancado com a leveza de um voo no céu.
 Saco da Unidade do Céu e da Terra
@@ -461,7 +461,7 @@ Após o desaparecimento do velho monge em um sonho, restou apenas uma sandália 
 Energia Infinita
 Esta energia é transformada dos intestinos de Zhenwu, nao pertence a este mundo. A energia é a fonte de todas as coisas, nascendo e retornando a ela. No entanto, essa energia nao circula por este mundo, portanto, permanece e nao se dispersa. Através da respiracao e meditacao, essa energia parece ir além do céu, permitindo que o praticante sinta uma sensacao de transcendência. No entanto, se o céu fora deste céu é um palácio celestial ou um vazio é incerto.
 Tambor de Batalha do Leao
-O tambor usado pelo cla dos Leoes para inspirar as secoes internas, mostrando a unidade. Embora pareca um tambor de cerdo, seu som é mais profundo e ressonante. À esquerda, há um leao adormecido, o símbolo da Secao do Leao Adormecido; à direita, um leao com crina de brocado, o símbolo da Secao do Leao de Brocado; no centro, um leao feroz, o símbolo da Secao do Leao Furioso. Esses símbolos foram criados pelas secoes do cla, mas devido às constantes disputas, os símbolos foram repetidamente apagados e redesenhados, tornando-se cada vez mais confusos.
+O tambor usado pelo cla dos Leoes para inspirar as secoes internas, mostrando a unidade. Embora pareca um tambor de cerdo, seu som é mais profundo e ressonante. A esquerda, há um leao adormecido, o símbolo da Secao do Leao Adormecido; à direita, um leao com crina de brocado, o símbolo da Secao do Leao de Brocado; no centro, um leao feroz, o símbolo da Secao do Leao Furioso. Esses símbolos foram criados pelas secoes do cla, mas devido às constantes disputas, os símbolos foram repetidamente apagados e redesenhados, tornando-se cada vez mais confusos.
 Espelho Fragmentado de Mingjue
 Uma peca de espelho fragmentado retirada de um Mingjue, com material que nao é metal, pedra ou jade. O espelho tem muitos desenhos visíveis nas bordas: uma imagem de fadas descendo do céu ao redor de um Mingjue; outra mostra o Mingjue com a aparência de uma flor de lótus em plena floracao; outra mostra doze deuses retirando gotas de sangue vermelho do fogo sagrado e colocando-as no Mingjue; e outra mostra muitas pessoas nuas saindo do Mingjue.
 Esfera de Demonio Celestial

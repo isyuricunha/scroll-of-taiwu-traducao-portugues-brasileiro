@@ -1,9 +1,9 @@
-None
+Sem
 
 
 
 
-Heartless
+Desalmado
 
 
 
@@ -40,217 +40,217 @@ Heartless
 
 
 
-Heir·Taiwu
+Herdeiro de Taiwu
 
 
 
 
-V·Head
+Chefe da Vila
 
 
 
 
-Tomb Guard
+Guardiao do Túmulo
 
 
 
 
-Academic
+Homem de Letras
 
 
 
 
-Merchant
+Comerciante
 
 
 
 
-Doctor
+Médico
 
 
 
 
-Craftsman
+Artesao
 
 
 
 
-Farmer
+Camponês
 
 
 
 
-Villager
+Aldeao
 
 
 
 
-Inferno
+Desafiante do Destino
 
 
 
 
-DemonLord
+Cabeca do Mal
 
 
 
 
-D·General
+Aberracao Maligna
 
 
 
 
-Enormity
+Fúria Louca
 
 
 
 
-Sinfulness
+Extremamente Maligno
 
 
 
 
-Villain
+Descontrolado
 
 
 
 
-Evildoer
+Astuto
 
 
 
 
-Dishonor
+Perverso
 
 
 
 
-Bully
+Infame
 
 
 
 
-Recluse
+Mestre Recluso
 
 
 
 
-Legendary
+Herói Famoso
 
 
 
 
-Warrior
+Guerreiro Sem Nome
 
 
 
 
-Sergeant
+Aventureiro Peculiar
 
 
 
 
-Guardian
+Guarda-Costas Famoso
 
 
 
 
-Escort
+Guarda-Costas
 
 
 
 
-Chivalrous
+Jovem Herói Marcial
 
 
 
 
-J·Warrior
+Patrulheiro da Rua
 
 
 
 
-Righteous
+Justiceiro
 
 
 
 
-Hell Master
+Nove Ancioes do Inferno Arcano
 
 
 
 
-God·S
+Protetor de Julgamentos Divinos
 
 
 
 
-The·C
+Nascidos em Confusao
 
 
 
 
-The·FN
+Nove Seguidores do Coracao Caído
 
 
 
 
-A·Sinster
+Cem Malignidades
 
 
 
 
-EvilUprise
+Manifestacao do Coracao Demoníaco
 
 
 
 
-FoulVisage
+Olhar Chamador
 
 
 
 
-Demoniac
+Purificacao do Bem
 
 
 
 
-Corrupted
+Ouvido para o Mal
 
 
 
 
-Chief·A
-Zen·M
+Abade
+Mestre Zen
 
 
-Elder·A
+Primeiro Assento
 
 
-Abbot
+Anciao
 
 
-18·Arhats
+Dezoito Arhats
 
 
 
 
-Observer
+Monge Guardiao dos Preceitos
 
 
 
 
-BodhiHall
+Discípulo do Instituto Bodhi
 
 
 
 
-Prajna·H
+Discípulo do Instituto Prajna
 
 
 
 
-ArhatHall
+Discípulo do Instituto Arhat
 
 
 
@@ -260,252 +260,252 @@ Bhikkhu
 
 
 
-S·Master
-SeniorNun
-Master
-Madame·M
-Sir·M
+Líder da Seita
+Mestra Sênior
+Mestre
+Esposa do Líder da Seita
+Grao-Mestre Líder
 
 
-Head·D
+Discípulo do Líder da Seita
 
 
-Direct·D
+Discípulo Transcendente
 
 
 
 
-Lineal·D
+Herdeiro das Oito Seitas
 
 
 
 
-Formal·N
+Discípulo das Oito Seitas
 
 
 
 
-Novice
+Discípulo das Seitas Diversas
 
 
 
 
-Formal·A
+Discípulo Vagante da Seita Interna
 
 
 
 
-Audience
+Discípulo Vagante da Seita Externa
 
 
 
 
-Valley·L
+Senhor do Vale
 
 
-Madame·VL
-Sir·VL
-CaseHolder
+Esposa do Senhor do Vale
+Grao-Mestre do Senhor do Vale
+Guardiao do Cofre
 
 
 
 
-DeerEnvoy
+Emissário do Manto de Cervo
 
 
 
 
-GoodHand
+Maos Habilidosas
 
 
 
 
-RedCase·D
+Discípulo do Cofre Vermelho
 
 
 
 
-Jade·CD
+Discípulo do Cofre de Jade
 
 
 
 
-Gold·CD
+Discípulo do Cofre de Ouro
 
 
 
 
-Flower·CD
+Discípulo do Cofre de Flores
 
 
 
 
-Deerherd
+Crianca Pastoreira
 
 
 
 
-Pure·One
-Madame·M
-V·Leader
-Taoism·Priest
-Miss·VL
-Sir·VL
+Verdadeiro Imortal
+Esposa do Líder da Seita
+Líder Interino
+Mestre Daoísta
+Irma Interina do Líder da Seita
+Irmao Interino do Líder da Seita
 
 
 
 
 
 
-ZhenWu·D
+Discípulo do Salao Zhenwu
 
 
 
 
-Cloud·D
+Discípulo do Palácio Zixiao
 
 
 
 
-TaiHe·D
+Discípulo do Palácio Taihe
 
 
 
 
-Guide·P
+Daoísta Guia
 
 
 
 
-Amateur
+Discípulo da Seita Externa
 
 
 
 
-G·Master
+Grande Mestre
 
 
-Madame·GM
-Sir·GM
+Tio Mestre
+Grao-Mestre
 
 
 
 
-Exorciser
+Exorcistas
 
 
 
 
-Preacher
+Transmissores do Dao
 
 
 
 
-Friar
+Ascetas
 
 
 
 
-Vanguard
+Discípulo Protetor
 
 
 
 
-Guard
+Discípulo da Prisao de Pedra
 
 
 
 
-Novice
+Discípulo Iniciante
 
 
 
 
-Follower
+Servo dos Votos
 
 
 
 
-GreatAlpha
+Líder da Seita
 
 
-Madame·A
-Sir·Alpha
-GreatBeta
+Esposa do Líder da Seita
+Senhor Líder
+Vice-Líder da Seita
 
 
-Madame·B
-Sir·Beta
-RageAlpha
+Esposa do Vice-Líder
+Senhor Vice-Líder
+Mestre do Salao do Leao Furioso
 
 
-Madame·RA
-Sir·RA
-ProudAlpha
+Esposa do Leao Furioso
+Senhor Leao Furioso
+Mestre do Salao do Leao Dourado
 
 
-Madame·PA
-Sir·PA
-Slumber·A
+Esposa do Leao Dourado
+Senhor Leao Dourado
+Mestre do Salao do Leao Adormecido
 
 
-Madame·SA
-Sir·SA
-RageLion
+Esposa do Leao Adormecido
+Senhor Leao Adormecido
+Discípulo do Salao do Leao Furioso
 
 
 
 
-ProudLion
+Discípulo do Salao do Leao Dourado
 
 
 
 
-Slumber·L
+Discípulo do Salao do Leao Adormecido
 
 
 
 
-Cub
+Filhote de Leao
 
 
 
 
-Lord Qinglang
-Zi
-Uncle·M
-Celestial
+Mestre do Palácio Qinglang
+Filho
+Tio Mestre do Líder da Seita
+Mestre Imortal
 
 
-Guardian
+Protetor do Palácio Qinglang
 
 
-Successor
+Herdeiro das Três Religioes
 
 
 
 
-T·Ranger
+Viajante da Seita Yufu
 
 
 
 
-DS·Ranger
+Viajante da Seita da Espada Divina
 
 
 
 
-YY·Ranger
+Viajante da Seita Yin-Yang
 
 
 
 
-SwordBearer
+Escravo da Espada
 
 
 
 
-Wanderer
+Viajante Marcial
 
 
 
@@ -514,32 +514,32 @@ Wanderer
 
 
 
-G·Mistress
+Irma Sênior
 
 
 
 
-Feather·E
+Emissário do Manto de Penas
 
 
 
 
-SilkEnvoy
+Emissário do Manto Colorido
 
 
 
 
-JadeGuard
+Guardiao do Jade
 
 
 
 
-SkyMelody
+Discípulo do Salao Tianyin
 
 
 
 
-Disciple
+Discípulo da Seita Interna
 
 
 
@@ -548,59 +548,59 @@ Disciple
 
 
 
-Servant
+Criada
 
 
 
 
-Manor·M
+Senhor da Mansao
 
 
-Madame·M
-Sir·Manor
-M·Smith
+Esposa do Senhor da Mansao
+Senhor da Mansao
+Mestre Artesao
 
 
 
 
-Sky·Smith
+Mestre das Sete Estrelas
 
 
 
 
-Mystic·S
+Mestre Xuanhong
 
 
 
 
-Treasure·S
+Mestre da Montanha
 
 
 
 
-Season·S
+Mestre Baibi
 
 
 
 
-Bamboo·S
+Mestre Qingjun
 
 
 
 
-Novice
+Aprendiz
 
 
 
 
-Stoker
+Trabalhador do Fogo
 
 
 
 
 
 
-HerbKing
+Rei da Medicina
 
 
 
@@ -609,197 +609,197 @@ HerbKing
 
 
 
-Dragonor
+Soldado Dragao
 
 
 
 
-Head·D
+Primeiro Discípulo do Caldeirao
 
 
 
 
-Furnance·H
+Discípulo do Instituto da Fornalha Negra
 
 
 
 
-DragonHall
+Discípulo do Instituto do Rei Dragao
 
 
 
 
-ProbeHall
+Discípulo do Instituto Zhu Bian
 
 
 
 
-Apprentice
+Crianca de Medicina
 
 
 
 
-LawKing
+Rei da Lei
 
 
 
 
-WisdomKing
+Rei Iluminado
 
 
 
 
-Elder
+Supremo
 
 
 
 
-Gardian
+Protetor Iluminado
 
 
 
 
-Fighter
+Lutador de Forca Vajra
 
 
 
 
-SilentHall
+Discípulo do Salao da Imobilidade
 
 
 
 
-VajraHall
+Discípulo do Instituto Vajra
 
 
 
 
-Rakshasa·H
+Discípulo do Instituto Rakshasa
 
 
 
 
-Labor
+Crianca do Fogo Puro
 
 
 
 
-Hierarch
+Líder da Seita
 
 
 
 
-Saint
+Santa
 
 
 
 
-Counsellor
+Sacerdote
 
 
 
 
-Patriach
+Chefe da Tribo
 
 
 
 
-Brooder
+Emissária Imortal
 
 
 
 
-VenomEnvoy
+Emissária dos Cinco Venenos
 
 
 
 
-BrooderCrew
+Seguidores da Seita do Veneno das Flores
 
 
 
 
-VenomCrew
+Seguidores da Seita dos Cinco Venenos
 
 
 
 
-Cultist
+Membros da Seita
 
 
 
 
-DarkLord
+Senhor Sombrio
 
 
-Minor·L
-Major·L
-Shadowless
+Pequeno Mensageiro da Morte
+Grande Mensageiro da Morte
+Pessoa Invisível
 
 
 
 
-SevenStar
+Fantasma das Sete Estrelas
 
 
 
 
-ArchCulprit
+Líder dos Assassinos
 
 
 
 
-DeathSworn
+Guerreiro Mortal
 
 
 
 
-Killer
+Assassino
 
 
 
 
-Gatekeeper
+Membro da Seita
 
 
 
 
-Guide
+Guiador
 
 
 
 
-OuterGate
+Membros da Seita Externa
 
 
 
 
-IslandLord
+Senhor da Ilha
 
 
-Madame·A
-Sir·Altar
-ViceLord
+Esposa do Senhor da Ilha
+Grao-Mestre Guardiao
+Vice-Líder da Seita
 
 
-Madame·VA
-Sir·VA
-DragonElder
+Esposa do Vice-Líder da Seita
+Grao-Mestre Vice-Guardiao
+Anciao do Dragao
 
 
 
 
-Flowing Fire Emissary
+Emissário da Chama Veloz
 
 
 
 
-Seawatcher
+Emissário do Mar Patrulhador
 
 
 
 
-Titled·D
+Discípulo com Nome Concedido
 
 
 
@@ -808,40 +808,40 @@ Titled·D
 
 
 
-Outer·D
+Discípulo Externo
 
 
 
 
-Islander
+Membros da Ilha
 
 
 
 
 
 
-Madame·H
-Sir·H
-V·Hierarch
+Esposa do Líder da Seita
+Senhor do Líder da Seita
+Vice-Líder da Seita
 
 
-Madame·VH
-Sir·VH
+Esposa do Vice-Líder da Seita
+Senhor Vice-Líder da Seita
 
 
 
 
-Messenger
+Santo Emissário da Hiena Sanguinária
 
 
 
 
-Protector
+Protetor
 
 
 
 
-BloodChild
+Crianca de Sangue
 
 
 
@@ -855,22 +855,22 @@ Elite
 
 
 
-Servant
+Servos Diversos
 
 
 
 
-Mayor
+Senhor da Cidade
 
 
-Madame·M
-Sir·Mayor
-Official
+Esposa do Senhor da Cidade
+Senhor da Cidade
+Nobre
 
 
 
 
-Rich
+Rico Abastado
 
 
 
@@ -887,25 +887,25 @@ Rich
 
 
 
-Artisan
+Artesao
 
 
 
 
-Poor
+Classe Inferior
 
 
 
 
-Beggar
+Mendigo
 
 
 
 
 
 
-Madame·E
-Sir·Elder
+Esposa do Chefe da Vila
+Senhor do Chefe da Vila
 
 
 
@@ -938,11 +938,11 @@ Sir·Elder
 
 
 
-TownChief
+Prefeito
 
 
-Madame·TC
-Sir·TC
+Esposa do Prefeito
+Senhor do Prefeito
 
 
 
@@ -975,16 +975,16 @@ Sir·TC
 
 
 
-Castellan
+Grande Chefe
 
 
-Madame
-Sir
-Vice·C
+Grande Esposa
+Grande Senhor
+Segundo Chefe
 
 
-Madame·VC
-Sir·VC
+Segunda Esposa
+Segundo Senhor
 
 
 

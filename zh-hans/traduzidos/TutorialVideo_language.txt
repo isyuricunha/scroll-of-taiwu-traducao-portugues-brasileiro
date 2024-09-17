@@ -1,7 +1,7 @@
 Mapa de Movimento
-Operação do Mouse
-Operação do Teclado
-Clique com o botão esquerdo do mouse para selecionar um bloco de terra, clique novamente para mover (cada movimento consome <color=#orange>dias</color>, você pode ver os <color=#orange>dias</color> restantes abaixo da tela)
+Operacao do Mouse
+Operacao do Teclado
+Clique com o botao esquerdo do mouse para selecionar um bloco de terra, clique novamente para mover (cada movimento consome <color=#orange>dias</color>, você pode ver os <color=#orange>dias</color> restantes abaixo da tela)
 Use as teclas <color=#orange>WASD</color> para se mover (cada movimento consome <color=#orange>dias</color>, você pode ver os <color=#orange>dias</color> restantes abaixo da tela)
 Taiwu Concurso · Parte Um
 Vá para onde seu pai adotivo está
@@ -10,74 +10,74 @@ Ver o painel de personagens
 Clique no retrato do personagem no canto inferior esquerdo para abrir o painel do personagem
 Clique em um item para equipá-lo automaticamente na barra correspondente
 Monte o cavalo magro
-Recuperação de peso
+Recuperacao de peso
 Aumentar o limite de peso
-Recuperação de movimento normal
+Recuperacao de movimento normal
 Após equipar a montaria, o limite de peso aumenta
-A recuperação da mobilidade está normal
-Recomeçar
+A recuperacao da mobilidade está normal
+Recomecar
 Abrir indústria
 Entrar na interface da indústria
-Clique no botão <color=#orange>indústria</color> acima do bloco da cidade para entrar na interface da indústria
+Clique no botao <color=#orange>indústria</color> acima do bloco da cidade para entrar na interface da indústria
 Taiwu Concurso · Parte Dois
 Entrar no mapa da indústria
 Atribuir construtores
-Entrar na interface de construção
+Entrar na interface de construcao
 Escolha os construtores
-Coloque a posição do edifício
-Clique no botão <color=#orange>espaço de construção</color> para entrar na interface de construção
-Clique no botão <color=#orange>+</color> para entrar na lista de construtores
+Coloque a posicao do edifício
+Clique no botao <color=#orange>espaco de construcao</color> para entrar na interface de construcao
+Clique no botao <color=#orange>+</color> para entrar na lista de construtores
 Clique na imagem do membro que você deseja atribuir
 Coloque o edifício no mapa da indústria
 Construir chalé de bambu
-Comece a construção
-Construção concluída
-A construção do edifício consome <color=#orange>meses</color>. Clique na área <color=#orange>dias</color> abaixo da tela para <color=#orange>avançar o mês</color>
-Os edifícios industriais construídos serão destacados no painel de <color=#orange>revisão do mês anterior</color>
-Avançar o mês
+Comece a construcao
+Construcao concluída
+A construcao do edifício consome <color=#orange>meses</color>. Clique na área <color=#orange>dias</color> abaixo da tela para <color=#orange>avancar o mês</color>
+Os edifícios industriais construídos serao destacados no painel de <color=#orange>revisao do mês anterior</color>
+Avancar o mês
 Encontre blocos
-Ver informações do bloco
-Navegação automática
-Mova o mouse sobre o bloco para ver informações de recursos. Quanto maior o valor dos recursos, mais pode ser coletado. A probabilidade de obter itens de recursos preciosos também aumenta
+Ver informacoes do bloco
+Navegacao automática
+Mova o mouse sobre o bloco para ver informacoes de recursos. Quanto maior o valor dos recursos, mais pode ser coletado. A probabilidade de obter itens de recursos preciosos também aumenta
 Clique em um bloco para gerar automaticamente o caminho mais rápido até ele. Clique novamente no bloco para ir diretamente ao longo do caminho
 Taiwu Concurso · Parte Três
-Compreensão dos recursos do bloco
+Compreensao dos recursos do bloco
 Coletar recursos
 Escolha o bloco atual
 A coleta de recursos deve ser feita no bloco atual onde o personagem está
-Clique no botão <color=#orange>coletar</color> para escolher o tipo de recurso a ser coletado e iniciar a coleta de recursos
+Clique no botao <color=#orange>coletar</color> para escolher o tipo de recurso a ser coletado e iniciar a coleta de recursos
 Vá coletar madeira de alta qualidade
-Entre na interface de fabricação.
-Interface de Construção de Indústria
-Interface de Fabricação
-Clique no edifício de indústria correspondente para entrar na interface de construção de indústria.
-Clique em <color=#orange>Produzir Madeira</color> para entrar na interface de fabricação.
+Entre na interface de fabricacao.
+Interface de Construcao de Indústria
+Interface de Fabricacao
+Clique no edifício de indústria correspondente para entrar na interface de construcao de indústria.
+Clique em <color=#orange>Produzir Madeira</color> para entrar na interface de fabricacao.
 Fabricar Item
-Interface de Fabricação de Itens
+Interface de Fabricacao de Itens
 Selecionar Ferramentas
 Selecionar Componente Inicial
 Adicionar Recursos
 Fabricar itens requer <color=#orange>Ferramentas</color>, <color=#orange>Componente Inicial</color>, e <color=#orange>Recursos</color>.
 No painel de ferramentas à esquerda, mude para a guia <color=#orange>Armazém</color> e selecione o item <color=#orange>Caixa de Ferramentas</color>.
 No painel de Componente Inicial à direita, mude para a guia <color=#orange>Armazém</color> e selecione o item <color=#orange>Fragmento de Bambu Verde</color>.
-Adicione os <color=#orange>Recursos</color> necessários para fabricar o item, ajustando a quantidade com os botões <color=#orange>+</color> e <color=#orange>-</color>.
-Clique no botão <color=#orange>Fabricar 1 vez</color> para iniciar a fabricação.
+Adicione os <color=#orange>Recursos</color> necessários para fabricar o item, ajustando a quantidade com os botoes <color=#orange>+</color> e <color=#orange>-</color>.
+Clique no botao <color=#orange>Fabricar 1 vez</color> para iniciar a fabricacao.
 Fabricar Espinho de Bambu Verde
 Movimento de Batalha
-Durante a batalha, pressione e segure o botão direito do mouse para mover. Se o mouse estiver à esquerda do personagem, ele se moverá para a esquerda; se estiver à direita, ele se moverá para a direita.
+Durante a batalha, pressione e segure o botao direito do mouse para mover. Se o mouse estiver à esquerda do personagem, ele se moverá para a esquerda; se estiver à direita, ele se moverá para a direita.
 Use as teclas <color=#orange>A</color> e <color=#orange>D</color> no teclado para se mover. <color=#orange>A</color> move para a esquerda, <color=#orange>D</color> move para a direita.
 Taiwu Yawu · Parte IV
 Perto de Xuxian Gong
-Condições para usar a técnica de destruição de habilidades
+Condicoes para usar a técnica de destruicao de habilidades
 Necessário consumir "Técnicas"
 Ataque Normal
-Acerto e Resolução
-Efeito de Resolução
-Usar a técnica de destruição de habilidades requer consumo de <color=#orange>Técnicas</color>. Se não houver quantidade suficiente de <color=#orange>Técnicas</color>, a técnica não poderá ser ativada.
-Clique com o botão esquerdo do mouse ou use a tecla <color=#orange>J</color> para realizar um ataque normal. Cada ataque normal consome a correspondente <color=#orange>Força de Ataque</color> (ícone de <color=#orange>espada</color> abaixo do personagem).
-Quando o <color=#orange>Valor de Ataque</color> do atacante é inferior ao <color=#orange>Valor de Resolução</color> do defensor, o defensor executará uma <color=#orange>Resolução</color>.
-Após uma <color=#orange>Resolução</color>, o atacante não ganha <color=#orange>Técnicas</color> e o defensor não sofre dano.
-Entendimento de Força de Ataque, Acerto e Resolução
+Acerto e Resolucao
+Efeito de Resolucao
+Usar a técnica de destruicao de habilidades requer consumo de <color=#orange>Técnicas</color>. Se nao houver quantidade suficiente de <color=#orange>Técnicas</color>, a técnica nao poderá ser ativada.
+Clique com o botao esquerdo do mouse ou use a tecla <color=#orange>J</color> para realizar um ataque normal. Cada ataque normal consome a correspondente <color=#orange>Forca de Ataque</color> (ícone de <color=#orange>espada</color> abaixo do personagem).
+Quando o <color=#orange>Valor de Ataque</color> do atacante é inferior ao <color=#orange>Valor de Resolucao</color> do defensor, o defensor executará uma <color=#orange>Resolucao</color>.
+Após uma <color=#orange>Resolucao</color>, o atacante nao ganha <color=#orange>Técnicas</color> e o defensor nao sofre dano.
+Entendimento de Forca de Ataque, Acerto e Resolucao
 Parada
 Pontos de Parada
 Quebrando a Parada
@@ -85,86 +85,86 @@ Resfriamento da Parada
 Efeito de Parada
 Cada arma possui seu próprio <color=#orange>Valor de Parada</color>, que corresponde aos <color=#orange>Pontos de Parada</color> do personagem durante a batalha.
 Ao receber um ataque normal, a <color=#orange>Parada</color> é acionada, consumindo pontos correspondentes. O dano só será recebido após esgotar todos os <color=#orange>Pontos de Parada</color>.
-Após usar a <color=#orange>Parada</color>, há um período de resfriamento. Quando o resfriamento termina, os pontos de parada são restaurados ao estado inicial.
-Após uma <color=#orange>Parada</color> bem-sucedida, o atacante ainda ganha <color=#orange>Técnicas</color> e o defensor não sofre dano.
+Após usar a <color=#orange>Parada</color>, há um período de resfriamento. Quando o resfriamento termina, os pontos de parada sao restaurados ao estado inicial.
+Após uma <color=#orange>Parada</color> bem-sucedida, o atacante ainda ganha <color=#orange>Técnicas</color> e o defensor nao sofre dano.
 Entendimento de Parada
-Usando a técnica de destruição de habilidades
-Preparação da técnica de destruição de habilidades 1
-A técnica de destruição de habilidades pode ser usada somente quando há <color=#orange>Técnicas</color> suficientes.
-Clique no ícone da técnica de destruição de habilidades para usá-la. É necessário preparar a técnica de destruição de habilidades antes de usá-la completamente.
-Circulação de Meridianos
-Entrar na interface de circulação de meridianos
+Usando a técnica de destruicao de habilidades
+Preparacao da técnica de destruicao de habilidades 1
+A técnica de destruicao de habilidades pode ser usada somente quando há <color=#orange>Técnicas</color> suficientes.
+Clique no ícone da técnica de destruicao de habilidades para usá-la. É necessário preparar a técnica de destruicao de habilidades antes de usá-la completamente.
+Circulacao de Meridianos
+Entrar na interface de circulacao de meridianos
 Selecionar a técnica interna de gongfu
-Ativar a circulação de meridianos
-Clique no botão <color=#orange>Circulação de Meridianos</color> para entrar na interface de circulação de meridianos.
+Ativar a circulacao de meridianos
+Clique no botao <color=#orange>Circulacao de Meridianos</color> para entrar na interface de circulacao de meridianos.
 Selecione a técnica interna de gongfu que deseja circular.
-<color=#orange>Circulação de Qi</color> durante a ativação da técnica interna irá operar automaticamente na troca de meses
+<color=#orange>Circulacao de Qi</color> durante a ativacao da técnica interna irá operar automaticamente na troca de meses
 Taiwu Treinamento · Parte Cinco
-Realizar a circulação de Qi
+Realizar a circulacao de Qi
 Crescimento de poder interno
-Ative a circulação de Qi através das técnicas internas que ainda não atingiram o limite de crescimento de poder interno. Após a troca de meses, o poder interno do personagem aumentará.
+Ative a circulacao de Qi através das técnicas internas que ainda nao atingiram o limite de crescimento de poder interno. Após a troca de meses, o poder interno do personagem aumentará.
 Ver crescimento do poder interno
 Ativar leitura de livros
 Entrar na interface de leitura de livros
 Selecionar livro
-Clique no botão <color=#orange>Leitura de Livros</color> para entrar na interface de leitura
+Clique no botao <color=#orange>Leitura de Livros</color> para entrar na interface de leitura
 Selecione o livro que deseja estudar. Cada capítulo tem seu próprio progresso de leitura, e quando o progresso de um capítulo atinge 100%, esse capítulo está completamente lido.
-Os livros ativados no slot de <color=#orange>Leitura de Livros</color> serão lidos automaticamente após a troca de meses.
+Os livros ativados no slot de <color=#orange>Leitura de Livros</color> serao lidos automaticamente após a troca de meses.
 Taiwu Treinamento · Parte Seis
 Realizar leitura de livros
-Iluminação Repentina
-Dica de Iluminação Repentina
-Entrar na interface de Iluminação Repentina
-Após a <color=#orange>Troca de Meses</color>, há uma chance de desencadear <color=#orange>Iluminação Repentina</color>, e essa situação será indicada no <color=#orange>Histórico de Eventos</color>.
-Clique no botão <color=#orange>Leitura de Livros</color> e, em seguida, clique no botão <color=#orange>Iluminação Repentina</color> para entrar na interface de Iluminação Repentina.
+Iluminacao Repentina
+Dica de Iluminacao Repentina
+Entrar na interface de Iluminacao Repentina
+Após a <color=#orange>Troca de Meses</color>, há uma chance de desencadear <color=#orange>Iluminacao Repentina</color>, e essa situacao será indicada no <color=#orange>Histórico de Eventos</color>.
+Clique no botao <color=#orange>Leitura de Livros</color> e, em seguida, clique no botao <color=#orange>Iluminacao Repentina</color> para entrar na interface de Iluminacao Repentina.
 Estratégia de Leitura
-Operação de Iluminação Repentina
-Finalizar Iluminação Repentina
-No canto superior direito está a <color=#orange>Estratégia de Leitura</color>, usando <color=#orange>Estratégia de Leitura</color> você pode aumentar significativamente a eficiência da leitura. Utilizar a <color=#orange>Estratégia de Leitura</color> consome o <color=#orange>Valor de Compreensão</color> correspondente.
-Após usar a <color=#orange>Estratégia de Leitura</color>, o progresso de leitura mudará imediatamente. Você pode avançar para o próximo capítulo escolhendo ativamente outras páginas ou preenchendo a estratégia na página atual.
-Quando a estratégia do último capítulo for concluída, fechar a interface de Iluminação Repentina será considerado como o término da iluminação.
-Realizar Iluminação Repentina
+Operacao de Iluminacao Repentina
+Finalizar Iluminacao Repentina
+No canto superior direito está a <color=#orange>Estratégia de Leitura</color>, usando <color=#orange>Estratégia de Leitura</color> você pode aumentar significativamente a eficiência da leitura. Utilizar a <color=#orange>Estratégia de Leitura</color> consome o <color=#orange>Valor de Compreensao</color> correspondente.
+Após usar a <color=#orange>Estratégia de Leitura</color>, o progresso de leitura mudará imediatamente. Você pode avancar para o próximo capítulo escolhendo ativamente outras páginas ou preenchendo a estratégia na página atual.
+Quando a estratégia do último capítulo for concluída, fechar a interface de Iluminacao Repentina será considerado como o término da iluminacao.
+Realizar Iluminacao Repentina
 Treino de Técnicas
 Entrar na interface de treino
-Operação de treino
+Operacao de treino
 Clique no retrato do personagem no canto inferior esquerdo para abrir o painel do personagem, depois selecione a aba <color=#orange>Artes Marciais</color> e, em seguida, a aba <color=#orange>Treinar</color> para entrar na interface de treino.
-Clique (ou segure) o botão <color=#orange>Treinar</color> para realizar o treino. O treino consumirá o <color=#orange>Valor de Experiência</color> no canto superior esquerdo, e quando o progresso do treino atingir 100%, o treino estará concluído.
+Clique (ou segure) o botao <color=#orange>Treinar</color> para realizar o treino. O treino consumirá o <color=#orange>Valor de Experiência</color> no canto superior esquerdo, e quando o progresso do treino atingir 100%, o treino estará concluído.
 Realizar treino de técnicas
-Avanço de Técnicas
-Preparação para avanço
-Selecionar Mantra para avanço
-No tabuleiro de avanço, os mantras disponíveis correspondem a 6 capítulos do livro: <color=#white>Branco (Mantra Geral)</color> corresponde ao capítulo geral, <color=#red>Vermelho (Mantra Invertido)</color> corresponde ao capítulo invertido, <color=#darkcyan>Azul (Mantra Normal)</color> corresponde ao capítulo normal.
-Quando o progresso de leitura de um capítulo do livro atingir 100%, ao preparar o avanço, será possível escolher o mantra correspondente. Para cada grupo, apenas um mantra pode ser selecionado, e após escolher os 6 mantras, o avanço pode ser realizado.
-Realizar avanço de técnicas
-Regras do Avanço
-Avanço bem-sucedido
-Consumo do Avanço
-Espaços normais de avanço
-Espaços especiais de avanço
-Espaços de conquista de avanço
-Conexão falhou
-Avanço falhou
-O avanço precisa partir do <color=#orange>Ponto de Partida</color> até o <color=#orange>Ponto Final</color> para ser considerado um avanço bem-sucedido.
-O <color=#orange>Limite de Talento</color> determina quantas conexões podem ser feitas. Cada conexão consome 1 ponto de talento, e ao exceder o <color=#orange>Limite de Talento</color>, o personagem entrará no estado de <color=#orange>Descontrole Interno</color>.
-O <color=#orange>Espaço Normal</color> no avanço não oferece nenhum efeito especial.
-Avançar em espaços especiais oferece vários efeitos de conexão, mas não proporciona <color=#orange>Conquistas de Avanço</color>.
-Os espaços de conquista de avanço podem fornecer bônus permanentes, então tente conectar o máximo possível de espaços de conquista de avanço para maximizar os benefícios do avanço.
-Conexão falhou, este espaço de avanço será bloqueado e seu efeito não será ativado.
-Se todos os espaços adjacentes falharem na conexão, o avanço será considerado um fracasso.
-Entenda as regras de avanço das técnicas.
+Avanco de Técnicas
+Preparacao para avanco
+Selecionar Mantra para avanco
+No tabuleiro de avanco, os mantras disponíveis correspondem a 6 capítulos do livro: <color=#white>Branco (Mantra Geral)</color> corresponde ao capítulo geral, <color=#red>Vermelho (Mantra Invertido)</color> corresponde ao capítulo invertido, <color=#darkcyan>Azul (Mantra Normal)</color> corresponde ao capítulo normal.
+Quando o progresso de leitura de um capítulo do livro atingir 100%, ao preparar o avanco, será possível escolher o mantra correspondente. Para cada grupo, apenas um mantra pode ser selecionado, e após escolher os 6 mantras, o avanco pode ser realizado.
+Realizar avanco de técnicas
+Regras do Avanco
+Avanco bem-sucedido
+Consumo do Avanco
+Espacos normais de avanco
+Espacos especiais de avanco
+Espacos de conquista de avanco
+Conexao falhou
+Avanco falhou
+O avanco precisa partir do <color=#orange>Ponto de Partida</color> até o <color=#orange>Ponto Final</color> para ser considerado um avanco bem-sucedido.
+O <color=#orange>Limite de Talento</color> determina quantas conexoes podem ser feitas. Cada conexao consome 1 ponto de talento, e ao exceder o <color=#orange>Limite de Talento</color>, o personagem entrará no estado de <color=#orange>Descontrole Interno</color>.
+O <color=#orange>Espaco Normal</color> no avanco nao oferece nenhum efeito especial.
+Avancar em espacos especiais oferece vários efeitos de conexao, mas nao proporciona <color=#orange>Conquistas de Avanco</color>.
+Os espacos de conquista de avanco podem fornecer bônus permanentes, entao tente conectar o máximo possível de espacos de conquista de avanco para maximizar os benefícios do avanco.
+Conexao falhou, este espaco de avanco será bloqueado e seu efeito nao será ativado.
+Se todos os espacos adjacentes falharem na conexao, o avanco será considerado um fracasso.
+Entenda as regras de avanco das técnicas.
 Concentrar Qi verdadeiro
 Entrar na interface de poder interno.
 Limite de Qi verdadeiro
-Clique no botão <color=#orange>Ver Personagem</color> no retrato do personagem para abrir o painel do personagem.
-Clique (ou segure) os botões <color=#orange>+</color> ou <color=#orange>-</color> ao lado de <color=#orange>Destruição</color>, <color=#orange>Leveza</color>, <color=#orange>Defesa</color>, e <color=#orange>Meridianos</color> para ajustar o Qi verdadeiro. Injetar Qi verdadeiro consumirá o <color=#orange>Poder Interno do Dantian</color>.
-A soma total das quatro categorias de Qi verdadeiro não pode exceder o limite de Qi verdadeiro.
+Clique no botao <color=#orange>Ver Personagem</color> no retrato do personagem para abrir o painel do personagem.
+Clique (ou segure) os botoes <color=#orange>+</color> ou <color=#orange>-</color> ao lado de <color=#orange>Destruicao</color>, <color=#orange>Leveza</color>, <color=#orange>Defesa</color>, e <color=#orange>Meridianos</color> para ajustar o Qi verdadeiro. Injetar Qi verdadeiro consumirá o <color=#orange>Poder Interno do Dantian</color>.
+A soma total das quatro categorias de Qi verdadeiro nao pode exceder o limite de Qi verdadeiro.
 Taiwu Treinamento · Parte Sete
-Postura e Energização
-Carregamento da técnica de destruição 2
-Para ativar a técnica de destruição, além de ser necessário ter <color=#orange>Estilo</color> suficiente, é preciso consumir também o <color=#orange>Valor de Postura</color> e o <color=#orange>Valor de Energização</color> correspondentes.
-Durante o carregamento da técnica de destruição, o personagem também pode ser atacado pelo oponente.
-Entenda postura e energização.
+Postura e Energizacao
+Carregamento da técnica de destruicao 2
+Para ativar a técnica de destruicao, além de ser necessário ter <color=#orange>Estilo</color> suficiente, é preciso consumir também o <color=#orange>Valor de Postura</color> e o <color=#orange>Valor de Energizacao</color> correspondentes.
+Durante o carregamento da técnica de destruicao, o personagem também pode ser atacado pelo oponente.
+Entenda postura e energizacao.
 Troca de meses
 Troca de meses manual
-Clique no botão <color=#orange>Troca de Meses</color> na parte inferior da tela e escolha consumir todos os dias restantes deste mês para passar para o próximo mês.
+Clique no botao <color=#orange>Troca de Meses</color> na parte inferior da tela e escolha consumir todos os dias restantes deste mês para passar para o próximo mês.
 

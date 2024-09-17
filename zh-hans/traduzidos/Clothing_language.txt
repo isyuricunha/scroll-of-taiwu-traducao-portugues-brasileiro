@@ -1,198 +1,198 @@
 Roupas de Camponês
-"Roupas curtas e remendadas, cabaças vazias, mas ainda assim tranquilo". As roupas de camponês são feitas de tecido simples, desgastam-se facilmente e estão sempre rasgadas. Os camponeses, acostumados à pobreza, vestem essas roupas, por isso são chamados de "tranquilos".
+"Roupas curtas e remendadas, cabacas vazias, mas ainda assim tranquilo". As roupas de camponês sao feitas de tecido simples, desgastam-se facilmente e estao sempre rasgadas. Os camponeses, acostumados à pobreza, vestem essas roupas, por isso sao chamados de "tranquilos".
 
-Traje de Caçador
-Roupas casuais decoradas com peles de animais. Possui cinto para carregar espadas e armas ocultas; nas costas, pode-se equipar uma aljava ou uma capa para proteção contra o vento, sendo muito conveniente para a caça.
+Traje de Cacador
+Roupas casuais decoradas com peles de animais. Possui cinto para carregar espadas e armas ocultas; nas costas, pode-se equipar uma aljava ou uma capa para protecao contra o vento, sendo muito conveniente para a caca.
 
 Traje Militar
 Roupas casuais baratas e duráveis. Para maior conveniência, podem ser equipadas com bolsos, cintos e almofadas. No entanto, após a lavagem, rasgam-se facilmente e ficam rígidas, frequentemente cobertas de sujeira.
 
 Roupas de Treinamento
-"Treinamento no inverno e no verão", roupas usadas por praticantes de artes marciais durante todo o ano. Mantêm-se quentes no inverno e frescas no verão, com as mãos envoltas em tecido ou equipadas com armaduras para proteger os braços.
+"Treinamento no inverno e no verao", roupas usadas por praticantes de artes marciais durante todo o ano. Mantêm-se quentes no inverno e frescas no verao, com as maos envoltas em tecido ou equipadas com armaduras para proteger os bracos.
 
 Roupas de Seda
 Roupas feitas de materiais de alta qualidade, consistindo em uma camada interna e uma externa. Podem ser adornadas com joias, pingentes de jade ou bordados, sendo acessíveis apenas para famílias ricas.
 
 Manto do Mestre Celestial
-Um manto com frente aberta e mangas largas, usado sobre outras roupas, preso por um cinto. Originalmente feito de penas de garça, simboliza a ascensão dos iluminados. Posteriormente, para facilitar a produção, foi simplificado sem adornos.
+Um manto com frente aberta e mangas largas, usado sobre outras roupas, preso por um cinto. Originalmente feito de penas de garca, simboliza a ascensao dos iluminados. Posteriormente, para facilitar a producao, foi simplificado sem adornos.
 
 Manto de Seda Preciosa
-Considerado um símbolo de santidade no budismo, este manto é feito de pequenos pedaços de tecido costurados juntos. Seus padrões lembram campos arados, simbolizando que fazer o bem é como cultivar a terra, trazendo bênçãos futuras, também chamado de "Roupas do Campo de Bênçãos".
+Considerado um símbolo de santidade no budismo, este manto é feito de pequenos pedacos de tecido costurados juntos. Seus padroes lembram campos arados, simbolizando que fazer o bem é como cultivar a terra, trazendo bêncaos futuras, também chamado de "Roupas do Campo de Bêncaos".
 
 Armadura de General
-A armadura de um general, chamada de "manto", devido aos movimentos necessários para vesti-la. A armadura externa deve ser resistente, mas não pode restringir os movimentos, sendo cara e difícil de fabricar, usada apenas por generais vitoriosos.
+A armadura de um general, chamada de "manto", devido aos movimentos necessários para vesti-la. A armadura externa deve ser resistente, mas nao pode restringir os movimentos, sendo cara e difícil de fabricar, usada apenas por generais vitoriosos.
 
 Traje de Seda Vermelha
-"Os Han herdaram os Qin, mudando o sistema de seis coroas para chapéus pretos e roupas vermelhas". Este traje é leve, de fabricação complexa e decoração luxuosa, usado por imperadores e nobres durante a dinastia Han. Posteriormente, com a decadência dos rituais, tornou-se popular entre o povo.
+"Os Han herdaram os Qin, mudando o sistema de seis coroas para chapéus pretos e roupas vermelhas". Este traje é leve, de fabricacao complexa e decoracao luxuosa, usado por imperadores e nobres durante a dinastia Han. Posteriormente, com a decadência dos rituais, tornou-se popular entre o povo.
 
 Roupas Remendadas
-Originalmente usadas por monges em ascetismo, agora são roupas de mendigos. Feitas de pedaços de tecido descartados por outros. Os monges se autodenominam "pobres", daí o nome "Roupas Remendadas".
+Originalmente usadas por monges em ascetismo, agora sao roupas de mendigos. Feitas de pedacos de tecido descartados por outros. Os monges se autodenominam "pobres", daí o nome "Roupas Remendadas".
 
 Roupas Simples
-Parte superior como camisa, parte inferior como saia, "O Imperador Amarelo, Yao e Shun usavam roupas simples para governar o mundo", uma tradição antiga. Feitas de materiais baratos, sem adornos.
+Parte superior como camisa, parte inferior como saia, "O Imperador Amarelo, Yao e Shun usavam roupas simples para governar o mundo", uma tradicao antiga. Feitas de materiais baratos, sem adornos.
 
 Roupas de Guerreiro
-Originalmente usadas por guerreiros, inspiradas nas roupas dos povos nômades, com punhos apertados e antebraços amarrados para facilitar os movimentos. Podem ser equipadas com mochilas para carregar itens.
+Originalmente usadas por guerreiros, inspiradas nas roupas dos povos nômades, com punhos apertados e antebracos amarrados para facilitar os movimentos. Podem ser equipadas com mochilas para carregar itens.
 
 Roupas de Monge
 Roupas de cor neutra. "As vestes dos monges devem ser de cores neutras, de acordo com os ensinamentos". Usadas por discípulos budistas, indicando que renunciaram ao mundo secular.
 
 Roupas Bordadas
-Roupas longas que cobrem o corpo inteiro, sem deixar a pele exposta ou tocar o chão. Algumas pessoas dobram as mangas para facilitar os movimentos.
+Roupas longas que cobrem o corpo inteiro, sem deixar a pele exposta ou tocar o chao. Algumas pessoas dobram as mangas para facilitar os movimentos.
 
-Roupão do Sábio
-Roupão usado em homenagem ao fundador do taoísmo, Laozi. Usado por taoístas itinerantes, com algumas modificações em relação às roupas tradicionais, frequentemente equipadas com ferramentas rituais para facilitar os movimentos.
+Roupao do Sábio
+Roupao usado em homenagem ao fundador do taoísmo, Laozi. Usado por taoístas itinerantes, com algumas modificacoes em relacao às roupas tradicionais, frequentemente equipadas com ferramentas rituais para facilitar os movimentos.
 
 Roupas de Seda Luxuosa
-Originalmente usadas por imperadores e nobres, feitas de materiais tingidos para criar belos padrões, difíceis de tecer. "Roupas de seda em nove camadas, palácios altos e amplos", posteriormente, a técnica se espalhou entre o povo.
+Originalmente usadas por imperadores e nobres, feitas de materiais tingidos para criar belos padroes, difíceis de tecer. "Roupas de seda em nove camadas, palácios altos e amplos", posteriormente, a técnica se espalhou entre o povo.
 
-Roupão com Cinto de Jade
-Originalmente presenteado pelo imperador a ministros de alta patente, frequentemente acompanhado de cintos de ouro, jade ou bolsas de ouro. De fabricação complexa, um poema Tang diz: "Não diga que você não é nobre, o emblema dourado brilha no roupão roxo". Para maior conveniência, as pessoas fizeram algumas modificações.
+Roupao com Cinto de Jade
+Originalmente presenteado pelo imperador a ministros de alta patente, frequentemente acompanhado de cintos de ouro, jade ou bolsas de ouro. De fabricacao complexa, um poema Tang diz: "Nao diga que você nao é nobre, o emblema dourado brilha no roupao roxo". Para maior conveniência, as pessoas fizeram algumas modificacoes.
 
-Roupão Amarelo com Dragão
-"Roupas cerimoniais do rei, usadas em rituais ancestrais". O roupão amarelo com dragão era usado pelos imperadores nas cerimônias mais solenes desde a dinastia Zhou; adornado com padrões de dragão para simbolizar o poder divino. Em tempos de paz, ninguém mais poderia usá-lo.
+Roupao Amarelo com Dragao
+"Roupas cerimoniais do rei, usadas em rituais ancestrais". O roupao amarelo com dragao era usado pelos imperadores nas cerimônias mais solenes desde a dinastia Zhou; adornado com padroes de dragao para simbolizar o poder divino. Em tempos de paz, ninguém mais poderia usá-lo.
 
 Roupas de Monge Shaolin
-"Os monges podem usar dez cores diferentes". As roupas dos monges Shaolin são geralmente de cor lama ou azul, tingidas com as chamadas "dez cores", sendo as vestes mais comuns no templo Shaolin.
+"Os monges podem usar dez cores diferentes". As roupas dos monges Shaolin sao geralmente de cor lama ou azul, tingidas com as chamadas "dez cores", sendo as vestes mais comuns no templo Shaolin.
 
-Roupão de Arhat Shaolin
-O roupão de Arhat Shaolin é usado pelos discípulos iluminados do Buda, os Arhats. Feito de tecidos antigos, pode variar em estilo, não sendo uniforme.
+Roupao de Arhat Shaolin
+O roupao de Arhat Shaolin é usado pelos discípulos iluminados do Buda, os Arhats. Feito de tecidos antigos, pode variar em estilo, nao sendo uniforme.
 
-Roupão de Monge Shaolin
-Feito de pedaços de tecido costurados, com padrões que lembram campos arados, simbolizando o crescimento do caminho para a iluminação. Usado apenas por monges virtuosos e realizados.
+Roupao de Monge Shaolin
+Feito de pedacos de tecido costurados, com padroes que lembram campos arados, simbolizando o crescimento do caminho para a iluminacao. Usado apenas por monges virtuosos e realizados.
 
-Roupão Elegante de Emei
-O roupão elegante de Emei é de cor clara e design gracioso, feito de seda e tecido fino. Usado pelas discípulas de Emei para praticar artes marciais e realizar tarefas, seus movimentos são leves e elegantes.
+Roupao Elegante de Emei
+O roupao elegante de Emei é de cor clara e design gracioso, feito de seda e tecido fino. Usado pelas discípulas de Emei para praticar artes marciais e realizar tarefas, seus movimentos sao leves e elegantes.
 
 Roupas Luxuosas de Emei
 Mais luxuosas que as roupas taoístas comuns, decoradas com brocados. Usadas pelas discípulas de Emei que vagam pelo mundo. "Ao lado das montanhas de Emei, as flores escondem sua beleza", um elogio às roupas e às discípulas de Emei.
 
 Roupas de Lótus de Emei
-“Lótus vermelha, raiz branca e folhas verdes, budismo e taoísmo são uma família”, as Roupas de Lótus de Emei têm gola reta e mangas largas, amarradas com um cinto, com lótus bordados nos braços e na cintura, simbolizando a iluminação budista e a pureza taoísta.
+“Lótus vermelha, raiz branca e folhas verdes, budismo e taoísmo sao uma família”, as Roupas de Lótus de Emei têm gola reta e mangas largas, amarradas com um cinto, com lótus bordados nos bracos e na cintura, simbolizando a iluminacao budista e a pureza taoísta.
 
 Manto de Agulha de Jade
 O Manto de Agulha de Jade é verde e tem o mesmo formato de um manto comum, mas possui bolsos internos e externos para guardar instrumentos médicos.
 
-Roupão Verde
-Feito de seda, de cor verde como a grama, leve e fino, com um cinto de couro especial para carregar instrumentos médicos e cestas. Usado pelos discípulos do Vale das Cem Flores para coletar ervas, daí o nome “Roupão Verde”.
+Roupao Verde
+Feito de seda, de cor verde como a grama, leve e fino, com um cinto de couro especial para carregar instrumentos médicos e cestas. Usado pelos discípulos do Vale das Cem Flores para coletar ervas, daí o nome “Roupao Verde”.
 
 Manto de Jarro Verde
 O Manto de Jarro Verde é elegante e simples, de cor clara e pura, simbolizando a cura do mundo. É um reconhecimento e elogio aos médicos do Vale das Cem Flores, raramente usado por outros.
 
-Roupão Taoísta de Wudang
-O Roupão Taoísta de Wudang tem gola reta e é curto, chegando aos joelhos, com um cinto azul na cintura, simbolizando a natureza do Tao. É a roupa comum dos discípulos de Wudang.
+Roupao Taoísta de Wudang
+O Roupao Taoísta de Wudang tem gola reta e é curto, chegando aos joelhos, com um cinto azul na cintura, simbolizando a natureza do Tao. É a roupa comum dos discípulos de Wudang.
 
-Roupão Taoísta de Qingyang
-O Roupão Taoísta de Qingyang é usado por praticantes do Taoísmo, feito de material confortável, quente no inverno e fresco no verão. O nome Qingyang simboliza energia positiva e justiça.
+Roupao Taoísta de Qingyang
+O Roupao Taoísta de Qingyang é usado por praticantes do Taoísmo, feito de material confortável, quente no inverno e fresco no verao. O nome Qingyang simboliza energia positiva e justica.
 
-Roupão Taoísta de Zhenwu
-Baseado nas vestes do Imperador Zhenwu, o Roupão Taoísta de Zhenwu é preto e branco, decorado com padrões de Bagua, simbolizando a união do yin e yang e o ciclo eterno do Tao. Apenas os iluminados podem usá-lo.
+Roupao Taoísta de Zhenwu
+Baseado nas vestes do Imperador Zhenwu, o Roupao Taoísta de Zhenwu é preto e branco, decorado com padroes de Bagua, simbolizando a uniao do yin e yang e o ciclo eterno do Tao. Apenas os iluminados podem usá-lo.
 
 
 Roupas de Ascetismo de Yuanshan
-Feitas de cânhamo grosso, simples e rústicas, quentes no verão e frias no inverno. Os usuários amarram tiras de ferro e tecido nos braços e pulsos para facilitar a travessia de montanhas e terrenos perigosos.
+Feitas de cânhamo grosso, simples e rústicas, quentes no verao e frias no inverno. Os usuários amarram tiras de ferro e tecido nos bracos e pulsos para facilitar a travessia de montanhas e terrenos perigosos.
 
-Roupas de Proteção de Yuanshan
-As Roupas de Proteção de Yuanshan são sem mangas, com gola cruzada, decoradas com anéis de ferro no peito e na cintura, simbolizando autocontrole e proteção. Apenas os discípulos de Yuanshan dedicados à proteção do Tao podem usá-las.
+Roupas de Protecao de Yuanshan
+As Roupas de Protecao de Yuanshan sao sem mangas, com gola cruzada, decoradas com anéis de ferro no peito e na cintura, simbolizando autocontrole e protecao. Apenas os discípulos de Yuanshan dedicados à protecao do Tao podem usá-las.
 
-Roupão de Mestre de Yuanshan
-Feito de couro e tecido, não oferece muita proteção contra ataques, mas exala uma aura de justiça e autoridade. Os mestres de Yuanshan, conhecidos por combater demônios, usam essas vestes. Um poema diz: “Olhe para a lâmina ensanguentada, o manto molhado pelo sangue”.
+Roupao de Mestre de Yuanshan
+Feito de couro e tecido, nao oferece muita protecao contra ataques, mas exala uma aura de justica e autoridade. Os mestres de Yuanshan, conhecidos por combater demônios, usam essas vestes. Um poema diz: “Olhe para a lâmina ensanguentada, o manto molhado pelo sangue”.
 
-Armadura de Leão
-A Armadura de Leão é composta por uma armadura de tecido e uma saia, feitas de seda e cânhamo, respiráveis e absorventes de suor. Usada pelos discípulos da Seita do Leão para treinamento e competições, mantendo-os frescos e confortáveis.
+Armadura de Leao
+A Armadura de Leao é composta por uma armadura de tecido e uma saia, feitas de seda e cânhamo, respiráveis e absorventes de suor. Usada pelos discípulos da Seita do Leao para treinamento e competicoes, mantendo-os frescos e confortáveis.
 
-Armadura de Batalha de Leão
-“Cem batalhas na areia amarela, vestindo armadura dourada, não voltarei até derrotar o inimigo”. Feita de couro, com ganchos na cintura e ombreiras decoradas com cabeças de animais, a Armadura de Batalha de Leão é resistente e durável, capaz de suportar ataques pesados, daí o nome “indestrutível”.
+Armadura de Batalha de Leao
+“Cem batalhas na areia amarela, vestindo armadura dourada, nao voltarei até derrotar o inimigo”. Feita de couro, com ganchos na cintura e ombreiras decoradas com cabecas de animais, a Armadura de Batalha de Leao é resistente e durável, capaz de suportar ataques pesados, daí o nome “indestrutível”.
 
-Armadura do Rei Leão
-Feita de armadura de batalha, a Armadura do Rei Leão é cara e bem feita, composta de ferro e cobre, mas mais leve que a armadura de couro comum. Com uma cabeça de leão realista no peito, é chamada de “Leão Vivo”.
+Armadura do Rei Leao
+Feita de armadura de batalha, a Armadura do Rei Leao é cara e bem feita, composta de ferro e cobre, mas mais leve que a armadura de couro comum. Com uma cabeca de leao realista no peito, é chamada de “Leao Vivo”.
 
 Roupas de Viajante
 As Roupas de Viajante têm gola quadrada e mangas estreitas, chegando abaixo dos joelhos, com um cinto largo na cintura para carregar livros e materiais de escrita. Usadas pelos discípulos de Ranshan em suas viagens.
 
-Roupão de Pergunta ao Imortal
-“Na floresta natural, o verdadeiro vento, onde perguntar sobre o imortal”. Feito de seda, leve como penas de pássaro e fino como asas de cigarra, o Roupão de Pergunta ao Imortal flutua sem vento, parecendo celestial.
+Roupao de Pergunta ao Imortal
+“Na floresta natural, o verdadeiro vento, onde perguntar sobre o imortal”. Feito de seda, leve como penas de pássaro e fino como asas de cigarra, o Roupao de Pergunta ao Imortal flutua sem vento, parecendo celestial.
 
-Roupão Sem Poeira
-Feito de material especial, decorado com amuletos de Ranshan, o Roupão Sem Poeira repele poeira, água e fogo, simbolizando a transcendência dos mestres de Ranshan. Apenas os discípulos iluminados podem usá-lo.
+Roupao Sem Poeira
+Feito de material especial, decorado com amuletos de Ranshan, o Roupao Sem Poeira repele poeira, água e fogo, simbolizando a transcendência dos mestres de Ranshan. Apenas os discípulos iluminados podem usá-lo.
 
 Roupas Simples de Xuannü
-Feitas de tecido simples, consistindo em uma camada interna e uma externa, sem adornos, com efeito de aquecimento e proteção contra o frio.
+Feitas de tecido simples, consistindo em uma camada interna e uma externa, sem adornos, com efeito de aquecimento e protecao contra o frio.
 
-Roupão Espiritual de Xuannü
-O Roupão Espiritual de Xuannü é branco como a neve, macio como as nuvens, feito com a pele mais suave da raposa espiritual. Pode "entrar na água sem se molhar, lavar no gelo e ficar limpo", muito mágico.
+Roupao Espiritual de Xuannü
+O Roupao Espiritual de Xuannü é branco como a neve, macio como as nuvens, feito com a pele mais suave da raposa espiritual. Pode "entrar na água sem se molhar, lavar no gelo e ficar limpo", muito mágico.
 
 Roupas Celestiais de Xuannü
-O poema diz: "Lembrando a sombra dos sonhos, caminhando nas ondas, roupas celestiais cortam a névoa da manhã". Dizem que essas roupas são vestes divinas, feitas de seda extremamente fina, sem nenhum espaço entre os fios, sendo "perfeitas e naturais".
+O poema diz: "Lembrando a sombra dos sonhos, caminhando nas ondas, roupas celestiais cortam a névoa da manha". Dizem que essas roupas sao vestes divinas, feitas de seda extremamente fina, sem nenhum espaco entre os fios, sendo "perfeitas e naturais".
 
 Traje de Ferreiro
 Roupas diárias dos ferreiros, feitas de cânhamo grosso, respirável e resistente à sujeira. Geralmente de uma manga ou manga curta, com cinto de couro para carregar ferramentas de forja.
 
-Roupas de Mestre Artesão
-Essas roupas são complexas e luxuosas, feitas especialmente para mestres ferreiros. A armadura externa é leve e flexível, resistente a cortes, com vários bolsos para guardar ferramentas e papéis.
+Roupas de Mestre Artesao
+Essas roupas sao complexas e luxuosas, feitas especialmente para mestres ferreiros. A armadura externa é leve e flexível, resistente a cortes, com vários bolsos para guardar ferramentas e papéis.
 
-Roupão de Grande Artesão
-Roupas de artesãos habilidosos. O Roupão de Grande Artesão é elegante e fluido, com estilo antigo. Nas costas, há um suporte para espada. Um poema diz: "Espada de jade cortada pelo gelo do outono, roupão de pérolas brilhando ao pôr do sol", descrevendo a elegância dos artesãos da vila de forja.
+Roupao de Grande Artesao
+Roupas de artesaos habilidosos. O Roupao de Grande Artesao é elegante e fluido, com estilo antigo. Nas costas, há um suporte para espada. Um poema diz: "Espada de jade cortada pelo gelo do outono, roupao de pérolas brilhando ao pôr do sol", descrevendo a elegância dos artesaos da vila de forja.
 
 Casaco Curto de Herbalista
-Casaco curto de herbalista, simples, feito de algodão, com um pouco de pele de coelho cinza para decoração. Protege contra o frio, mas pode se molhar facilmente com neve e vento.
+Casaco curto de herbalista, simples, feito de algodao, com um pouco de pele de coelho cinza para decoracao. Protege contra o frio, mas pode se molhar facilmente com neve e vento.
 
 Casaco de Seda de Herbalista
-Casaco de seda decorado com pele de animal, leve e bonito, comum em regiões frias. Para proteger contra o vento e o frio das montanhas, foi adicionado um colarinho alto e uma capa externa.
+Casaco de seda decorado com pele de animal, leve e bonito, comum em regioes frias. Para proteger contra o vento e o frio das montanhas, foi adicionado um colarinho alto e uma capa externa.
 
 Casaco Precioso do Rei dos Medicamentos
 "Casaco precioso nas nuvens, colhendo ervas espirituais". Este casaco longo de cinco pés, branco puro, sem costuras, feito de animais adultos sem ferimentos e com pelagem brilhante. A roupa é robusta e imponente.
 
 Manto de Diamante
-Roupas usadas sobre o corpo. O Manto de Diamante é vermelho, com bordas amarelas, tecido leve, deixando o peito e os braços expostos, proporcionando frescor e conforto.
+Roupas usadas sobre o corpo. O Manto de Diamante é vermelho, com bordas amarelas, tecido leve, deixando o peito e os bracos expostos, proporcionando frescor e conforto.
 
 Roupas Preciosas do Venerável
-Roupas preciosas do venerável, feitas por centenas de seguidores, luxuosas e decoradas, usadas com contas de Buda e cabeças de animais, aumentando a autoridade e a bravura.
+Roupas preciosas do venerável, feitas por centenas de seguidores, luxuosas e decoradas, usadas com contas de Buda e cabecas de animais, aumentando a autoridade e a bravura.
 
 Roupas Cerimoniais do Rei Brilhante
 Diz-se que essas roupas foram dadas pelo antigo rei de Xiangxiong ao Rei Brilhante da Seita Diamante. Sem gola e mangas, com uma grande capa, decorada com grandes pedras preciosas e contas de Buda, solenes e majestosas.
 
 Roupas Tingidas de Cera Miao
-Roupas tingidas com a técnica especial dos Miao, desenhadas em seda e cânhamo, tingidas e depois removidas da cera. As roupas apresentam padrões brancos e marcas de gelo, muito bonitas.
+Roupas tingidas com a técnica especial dos Miao, desenhadas em seda e cânhamo, tingidas e depois removidas da cera. As roupas apresentam padroes brancos e marcas de gelo, muito bonitas.
 
-Roupas de Xamã Coloridas
-O "Livro dos Han Posteriores" diz: "Os Miao gostam de roupas coloridas". As Roupas de Xamã Coloridas têm gola inclinada, mangas curtas e saia longa, coloridas e decoradas com prata, luxuosas e deslumbrantes, usadas pelos xamãs da Seita dos Cinco Imortais.
+Roupas de Xama Coloridas
+O "Livro dos Han Posteriores" diz: "Os Miao gostam de roupas coloridas". As Roupas de Xama Coloridas têm gola inclinada, mangas curtas e saia longa, coloridas e decoradas com prata, luxuosas e deslumbrantes, usadas pelos xamas da Seita dos Cinco Imortais.
 
 Roupas Cerimoniais da Seita dos Cinco Imortais
-Roupas cerimoniais da Seita dos Cinco Imortais, feitas por artesãos Miao habilidosos. Feitas com técnicas de tecelagem e bordado, simples e antigas, decoradas com sinos de prata e padrões misteriosos.
+Roupas cerimoniais da Seita dos Cinco Imortais, feitas por artesaos Miao habilidosos. Feitas com técnicas de tecelagem e bordado, simples e antigas, decoradas com sinos de prata e padroes misteriosos.
 
 Roupas Noturnas
-Roupas noturnas, geralmente azul-escuras ou cinza-pretas, usadas por aqueles que se escondem durante o dia e agem à noite, difíceis de detectar. A Seita Qingmen adicionou luvas e protetores de braço para facilitar o movimento.
+Roupas noturnas, geralmente azul-escuras ou cinza-pretas, usadas por aqueles que se escondem durante o dia e agem à noite, difíceis de detectar. A Seita Qingmen adicionou luvas e protetores de braco para facilitar o movimento.
 
 Roupas Sem Sombra
 Roupas Sem Sombra, feitas de materiais caros, complexas de fabricar, leves e de cor escura. "Vem sem sombra, vai sem rastro", permitindo movimentos furtivos e indetectáveis.
 
-Roupão de Estrela Cadente
-"O céu desencadeia a matança, as estrelas giram; eu desencadeio a matança, escondo-me sem forma". O Roupão de Estrela Cadente é elegante e fácil de mover, decorado com pérolas e areia prateada, parecendo estrelas, usado pelo líder sombrio da Seita Qingmen.
+Roupao de Estrela Cadente
+"O céu desencadeia a matanca, as estrelas giram; eu desencadeio a matanca, escondo-me sem forma". O Roupao de Estrela Cadente é elegante e fácil de mover, decorado com pérolas e areia prateada, parecendo estrelas, usado pelo líder sombrio da Seita Qingmen.
 
-Roupas Vermelhas do Dragão Subjugado
-Roupas Vermelhas do Dragão Subjugado, feitas de tecido escasso, usadas apenas para cobrir, deixando grande parte da pele exposta, mostrando padrões vermelhos, daí o nome "Roupas Vermelhas".
+Roupas Vermelhas do Dragao Subjugado
+Roupas Vermelhas do Dragao Subjugado, feitas de tecido escasso, usadas apenas para cobrir, deixando grande parte da pele exposta, mostrando padroes vermelhos, daí o nome "Roupas Vermelhas".
 
-Roupão dos Quatro Mares do Dragão Subjugado
-Roupão dos Quatro Mares do Dragão Subjugado, feito por artesãos experientes em navegação. Justo e sem mangas, à prova d'água e frio, permitindo movimentos rápidos na água, usado por nadadores habilidosos para "buscar dragões no mar e pegar pérolas".
+Roupao dos Quatro Mares do Dragao Subjugado
+Roupao dos Quatro Mares do Dragao Subjugado, feito por artesaos experientes em navegacao. Justo e sem mangas, à prova d'água e frio, permitindo movimentos rápidos na água, usado por nadadores habilidosos para "buscar dragoes no mar e pegar pérolas".
 
 Manto de Fogo Fluente
-Manto de Fogo Fluente, feito de tecido preto e vermelho, com gola reta e sem mangas, decorado com ouro, simbolizando riqueza. Usado apenas por pessoas de alta posição na Ilha Chiming, proibido para outros.
+Manto de Fogo Fluente, feito de tecido preto e vermelho, com gola reta e sem mangas, decorado com ouro, simbolizando riqueza. Usado apenas por pessoas de alta posicao na Ilha Chiming, proibido para outros.
 
-Roupas da Seita do Cão de Sangue
-Roupas comuns dos seguidores da Seita do Cão de Sangue, feitas de tecido barato e resistente à sujeira, de cor cinza, com protetores de braço para facilitar o movimento diário.
+Roupas da Seita do Cao de Sangue
+Roupas comuns dos seguidores da Seita do Cao de Sangue, feitas de tecido barato e resistente à sujeira, de cor cinza, com protetores de braco para facilitar o movimento diário.
 
-Roupas de Seda da Seita do Cão de Sangue
-"Roupas de seda, tecidas com cores, também chamadas de roupas coloridas". Roupas de Seda da Seita do Cão de Sangue, confortáveis e decoradas, feitas com fios coloridos, formando padrões naturais e bonitos, complexas de fabricar, feitas por tecelãs habilidosas.
+Roupas de Seda da Seita do Cao de Sangue
+"Roupas de seda, tecidas com cores, também chamadas de roupas coloridas". Roupas de Seda da Seita do Cao de Sangue, confortáveis e decoradas, feitas com fios coloridos, formando padroes naturais e bonitos, complexas de fabricar, feitas por tecelas habilidosas.
 
-Roupas de Sangue da Mãe Cão
-Roupas de Sangue da Mãe Cão, baseadas em roupas de nobres, de design exagerado e luxuoso, decoradas com fitas amarelas e jade vermelho, imponentes e difíceis de ignorar.
+Roupas de Sangue da Mae Cao
+Roupas de Sangue da Mae Cao, baseadas em roupas de nobres, de design exagerado e luxuoso, decoradas com fitas amarelas e jade vermelho, imponentes e difíceis de ignorar.
 
 Envoltório
 Cobertor para envolver bebês, amarrado com fitas, feito de tecido macio.
 
-Roupas de Criança
-Roupas de criança, coloridas e variadas, decoradas com fios coloridos, bordados de flores, animais, divertidas e alegres, independentemente da classe social.
+Roupas de Crianca
+Roupas de crianca, coloridas e variadas, decoradas com fios coloridos, bordados de flores, animais, divertidas e alegres, independentemente da classe social.
 
 Roupas do Mal
 Usadas por aqueles que perderam toda a consciência devido à tortura de Xiangshu, enquanto seu mestre sofria milhares de anos de tormento, essas roupas gradualmente se tornaram aterrorizantes.
@@ -201,7 +201,7 @@ Manto de Fogo do Karma
 Usado por aqueles que cometeram atos malignos e prejudicaram seres vivos devido à tortura de Xiangshu, enquanto seu mestre sofria milhares de anos de tormento cármico, essas roupas eram constantemente queimadas pelo fogo da ignorância.
 
 Manto Preto de Pedra Negra
-Usado por aqueles que abandonaram tudo e se entregaram completamente ao "abraço" de Xiangshu, pensando e agindo conforme os desejos de Xiangshu, com pedras negras presas ao corpo, sua alma caiu na escuridão.
+Usado por aqueles que abandonaram tudo e se entregaram completamente ao "abraco" de Xiangshu, pensando e agindo conforme os desejos de Xiangshu, com pedras negras presas ao corpo, sua alma caiu na escuridao.
 
 
 
@@ -209,27 +209,27 @@ Usado por aqueles que abandonaram tudo e se entregaram completamente ao "abraço
 Roupas de Desculpas
 Por ter sido ferido por muitas desculpas, Luo Zhou oferece suas mais sinceras desculpas!
 
-Roupas de Orientação
-Por não ter recebido orientação e ter ficado angustiado, Luo Zhou oferece suas mais sinceras desculpas!
+Roupas de Orientacao
+Por nao ter recebido orientacao e ter ficado angustiado, Luo Zhou oferece suas mais sinceras desculpas!
 
 Roupas Manchadas
-"Nuvens escuras manchadas, mas a lua brilhante não pode ser escondida". Que o futuro brilhante pertença a todos os sonhadores que perseguem seus sonhos...
+"Nuvens escuras manchadas, mas a lua brilhante nao pode ser escondida". Que o futuro brilhante pertenca a todos os sonhadores que perseguem seus sonhos...
 
-Roupas de Escamas de Dragão da Alma da Lua
-A montanha celestial esconde a alma da lua, o mundo mortal vê o coração de gelo. Essas roupas são feitas da pele descartada de um dragão divino ao mudar de forma. Ao vestir essas roupas, é como se você nascesse com o dragão, fundindo-se em uma só energia, sem temer o poder disperso do dragão branco...
+Roupas de Escamas de Dragao da Alma da Lua
+A montanha celestial esconde a alma da lua, o mundo mortal vê o coracao de gelo. Essas roupas sao feitas da pele descartada de um dragao divino ao mudar de forma. Ao vestir essas roupas, é como se você nascesse com o dragao, fundindo-se em uma só energia, sem temer o poder disperso do dragao branco...
 
-Roupas de Escamas de Dragão Preto
-Nuvens negras serpenteiam, atravessando as profundezas verdes. Essas roupas são feitas da pele descartada de um dragão divino ao mudar de forma. Ao vestir essas roupas, é como se você nascesse com o dragão, fundindo-se em uma só energia, sem temer o poder disperso do dragão negro...
+Roupas de Escamas de Dragao Preto
+Nuvens negras serpenteiam, atravessando as profundezas verdes. Essas roupas sao feitas da pele descartada de um dragao divino ao mudar de forma. Ao vestir essas roupas, é como se você nascesse com o dragao, fundindo-se em uma só energia, sem temer o poder disperso do dragao negro...
 
-Roupas de Escamas de Dragão Azul
-Coração claro como a água do céu, compondo a canção do imortal. Essas roupas são feitas da pele descartada de um dragão divino ao mudar de forma. Ao vestir essas roupas, é como se você nascesse com o dragão, fundindo-se em uma só energia, sem temer o poder disperso do dragão azul...
+Roupas de Escamas de Dragao Azul
+Coracao claro como a água do céu, compondo a cancao do imortal. Essas roupas sao feitas da pele descartada de um dragao divino ao mudar de forma. Ao vestir essas roupas, é como se você nascesse com o dragao, fundindo-se em uma só energia, sem temer o poder disperso do dragao azul...
 
-Roupas de Escamas de Dragão Vermelho
-Escamas vermelhas enterradas em sangue verde, fogo suspenso iluminando o mundo mortal. Essas roupas são feitas da pele descartada de um dragão divino ao mudar de forma. Ao vestir essas roupas, é como se você nascesse com o dragão, fundindo-se em uma só energia, sem temer o poder disperso do dragão vermelho...
+Roupas de Escamas de Dragao Vermelho
+Escamas vermelhas enterradas em sangue verde, fogo suspenso iluminando o mundo mortal. Essas roupas sao feitas da pele descartada de um dragao divino ao mudar de forma. Ao vestir essas roupas, é como se você nascesse com o dragao, fundindo-se em uma só energia, sem temer o poder disperso do dragao vermelho...
 
-Roupas de Escamas de Dragão Dourado
-Sem manchas de poeira e lama, brilhando como ouro verdadeiro. Essas roupas são feitas da pele descartada de um dragão divino ao mudar de forma. Ao vestir essas roupas, é como se você nascesse com o dragão, fundindo-se em uma só energia, sem temer o poder disperso do dragão amarelo...
+Roupas de Escamas de Dragao Dourado
+Sem manchas de poeira e lama, brilhando como ouro verdadeiro. Essas roupas sao feitas da pele descartada de um dragao divino ao mudar de forma. Ao vestir essas roupas, é como se você nascesse com o dragao, fundindo-se em uma só energia, sem temer o poder disperso do dragao amarelo...
 
 Roupas Incomparáveis da Lua e da Vela
-Dragão enrolado pintando a vela na noite incomparável, a lua iluminando a primeira pessoa na brisa da primavera. Feitas de flores e lua, roupas vermelhas leves, trazendo sorte e felicidade, tudo de bom, o novo ano cheio de belas paisagens...
+Dragao enrolado pintando a vela na noite incomparável, a lua iluminando a primeira pessoa na brisa da primavera. Feitas de flores e lua, roupas vermelhas leves, trazendo sorte e felicidade, tudo de bom, o novo ano cheio de belas paisagens...
 
