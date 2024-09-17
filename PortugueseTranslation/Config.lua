@@ -79,6 +79,12 @@ return {
 				[1] = "v1.0.14\r\ncorrigido caracteres especiais esquecidos nos novos arquivos",
 			},
 		},
+		[13] = {
+			Timestamp = 1726612715,
+			LogList = {
+				[1] = "\n\r\n1.0.15\r\n\r\nFull Changelog: https://github.com/isyuricunha/scroll-of-taiwu-traducao-portugues-brasileiro/compare/v1.0.14...v1.0.15\r\n\r\n +31 arquivos traduzidos\r\n\r\n~ em reta final da tradução, pois ja foram 110 arquivos, restando apenas 28, apesar dos 28 serem os mariores\r\n\r\n⁠traduções-de-jogos⁠",
+			},
+		},
 	},
 	ChangeConfig = true,
 	NeedRestartWhenSettingChanged = true,
