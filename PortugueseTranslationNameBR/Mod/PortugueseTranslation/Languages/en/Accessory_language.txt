@@ -1,6 +1,6 @@
 Anel de Ferro Forjado
 Um anel feito de ferro forjado, usado no dedo. As vezes, durante o ataque, sua dureza permite cortar a pele e a carne do oponente, causando sangramento e ferimentos.
-Ábaco de Aco
+Abaco de Aco
 Um ábaco totalmente feito de aco, brilhante e preto. As contas sao marcadas com símbolos e frequentemente usadas para adivinhacao. Este ábaco contém um mecanismo oculto, permitindo que as contas se projetem para fora do ábaco, o que pode ferir alguém.
 Algema de Lobo Solitário
 A algema de lobo solitário é uma algema longa com espinhos, geralmente fixada em uma arma para aumentar seu poder. Aqueles que veem essa arma em movimento podem achar difícil se aproximar ou podem ser feridos pelos espinhos.
@@ -214,8 +214,8 @@ Ruyi do Dragao e Tigre
 Ruyi, feito pelo Imperador Amarelo, foi originalmente uma arma contra o Chi You e pode repelir demonios. O Ruyi do Dragao e Tigre é gravado com imagens de um dragao azul e um tigre branco, representando o caminho espiritual e a energia. Este tesouro pode canalizar a forca divina e aumentar a coragem para combater demonios.
 Joia da Criacao do Céu
 Segundo o "Livro de Sui": "No início do caos, Pangu abriu o céu e a terra", a Joia da Criacao do Céu é feita com uma pedra primordial que absorveu o poder supremo de Pangu. Esta joia exala constantemente uma forca poderosa, conferindo ao portador uma forca imensa e inigualável.
-Bracelete de Ágata
-O Bracelete de Ágata é esculpido a partir de uma peca única de ágata, com um padrao intrincado. Este bracelete é fresco e transparente, e a agata pode ajudar a prevenir doencas relacionadas ao calor.
+Bracelete de Agata
+O Bracelete de Agata é esculpido a partir de uma peca única de ágata, com um padrao intrincado. Este bracelete é fresco e transparente, e a agata pode ajudar a prevenir doencas relacionadas ao calor.
 Amuleto da Longa Vida
 O Amuleto da Longa Vida tem a forma de um cadeado e é mais valorizado quando feito de jade. Ele simboliza a preservacao da vida e a protecao contra desastres, sendo frequentemente usado por criancas para evitar doencas e mortes prematuras, podendo ser retirado ao alcancar a maturidade.
 Imagem do Imortal da Terra
@@ -250,7 +250,7 @@ Esfera dos Olhos de Demonio
 A esfera possui uma luz que brilha e pisca, alternando entre claro e escuro, como se fossem olhos de demonio que abrem e fecham. Feita de pedra espiritual, pode absorver espíritos malignos e almas errantes do mundo. A cada manha, ao absorver energias malignas, os olhos de demonio parecem abrir uma pequena fenda, e sua energia pode ser usada por uma pessoa para controlar a forca, tornando-a ágil e rápida como um fantasma.
 Espelho Divino
 O espelho divino é feito de pedra divina polida em um espelho plano. Devido à natureza da pedra, quem se olha no espelho pode ver inúmeras formas e aparências, que mudam constantemente. Apenas quem tem a mente focada pode descobrir a verdadeira essência através deste espelho. Este espelho permite ver como as mil formas podem mudar, e as mudancas vêm do próprio coracao. Assim, o formato no espelho pode ser alterado com a intencao do coracao, movendo-se com a rapidez e a habilidade da luz divina.
-Colar de Ágata
+Colar de Agata
 De acordo com o “Taiping Guangji”: “A ágata é formada pelo sangue dos demonios”, um colar feito de pequenas contas de ágata pode ser usado no pulso para promover a circulacao e proteger contra maus espíritos.
 Anel de Pedra Vermelha
 Embora o anel de pedra vermelha nao seja valioso, devido aos seus veios vermelhos e sua beleza translúcida, é bastante apreciado. Diz-se que o anel de pedra vermelha ajuda a proteger o coracao e os vasos sanguíneos contra espíritos malignos, sendo frequentemente usado por mulheres comuns.
@@ -286,7 +286,7 @@ Selo da Via Láctea
 O céu gira com a Via Láctea, e seu mistério é infinito. As pessoas têm dificuldade em pintar a Via Láctea, e mesmo que o facam, nao conseguem capturar a mudanca das estrelas. O Selo da Via Láctea precisa de um estudo profundo da movimentacao das estrelas e é esculpido em pedra divina para formar um selo vivo. Este selo gira a qualquer momento e pode registrar a Via Láctea no céu a qualquer instante. Quem obtém este objeto compreende os princípios misteriosos e entende as mudancas do mundo, adaptando-se sempre às circunstancias.
 Bandeira dos Três Astros
 De acordo com o "Zuo Zhuan" do "Livro das Primavera e Outono": "A bandeira dos Três Astros ilumina com clareza." Os Três Astros referem-se ao sol, à lua e às estrelas. Feita de jade divino em forma de bandeira, ela absorve a luz do céu. Durante o dia, ela absorve a luz do sol, e à noite, junta a luz da lua e das estrelas, tornando-se cada vez mais brilhante e ofuscante. Sob essa luz, a visao de quem está em sintonia com a bandeira torna-se clara e precisa, com a mente clara e sem confusao, movendo-se com clareza como o vento.
-Pecas de Xadrez de Ágata
+Pecas de Xadrez de Agata
 Pecas de xadrez feitas de ágata nas cores preta e branca, brilhantes e sólidas. Devido à complexidade do xadrez, jogar uma partida constantemente pode revelar os profundos princípios táticos e estratégias.
 Papel de Pedra da Luz Clara
 Um papel de pedra esculpido com a lua do mar, revestido com cera ao redor, levemente frio ao toque e brilhante, como o brilho da lua sobre o mar. Este papel é usado para moer tinta, e ao tocá-lo, sente-se a textura como a pele, e ao moê-la, há uma sensacao de nitidez. É amplamente utilizado devido à sua qualidade de tinta que é suave e seca facilmente, adequado para escrita e pintura.
@@ -358,7 +358,7 @@ Lanterna das Sete Estrelas
 A Lanterna das Sete Estrelas, originária da dinastia Shang e Zhou, possui sete chamas. Durante o período dos Três Reinos, Zhuge Liang usava a Lanterna das Sete Estrelas para rituais, acreditando que, se a chama principal nao se apagasse por sete dias, a vida seria prolongada por um ciclo. Esta lanterna utiliza técnicas secretas e pode melhorar a essência pessoal, alterando o karma das vidas passadas.
 Registro do Início Celestial
 “O vazio primordial, origem e criacao do universo, todos os seres comecam, e os cinco ciclos terminam.” O Registro do Início Celestial descreve o mapa estelar primordial e os ciclos de vida e transformacao. Quem compreender os segredos deste registro pode absorver as energias do céu, como o Céu Vermelho, o Céu Amarelo, o Céu Azul, o Céu Branco e o Céu Negro, alcancando o caminho da iluminacao.
-Contas de Água
+Contas de Agua
 Contas de jade em forma de água, totalizando 108, cristalinas e brilhantes. Usadas durante a recitacao de mantras, as contas giram e ajudam a dissipar as 108 aflicoes, trazendo uma mente focada e tranquila.
 Contas de Jade do Buda
 Contas de jade polido que servem como um símbolo de virtude. Além de sua beleza, podem ser usadas para decoracao por pessoas comuns. Usar as Contas de Jade do Buda pode ajudar a evitar desastres e trazer protecao, com sua eficácia aumentando conforme a sinceridade do coracao.
@@ -369,7 +369,7 @@ Amuleto da Verdadeira Forma das Cinco Montanhas
 Amuleto Antimágico
 Embora o Amuleto Antimágico devesse estar cheio de luz e riqueza, ele apenas emite uma luz tênue do fundo. Este amuleto nao é para atrair riqueza, mas para afastar espíritos malignos e demonios. Tem um caráter calmo e proporciona seguranca e tranquilidade.
 Amuleto dos Cinco Dragoes Gelados
-Os Cinco Dragoes Celestiais representam os cinco elementos: madeira, fogo, metal, água e terra. Com rostos humanos e corpos de dragao, segundo a lenda, esses cinco dragoes deixaram ossos gelados no Ártico antes de se tornarem imortais. Este amuleto é esculpido em jade na forma de ossos de dragao, amarrado com corda para ser usado como protecao. Pode ajudar a proteger a energia interna e a manter o foco na busca pela imortalidade. Para aqueles com extrema sinceridade, pode ajudar a encontrar o local onde os ossos dos dragoes estao enterrados.
+Os Cinco Dragoes Celestiais representam os cinco elementos: madeira, fogo, metal, água e terra. Com rostos humanos e corpos de dragao, segundo a lenda, esses cinco dragoes deixaram ossos gelados no Artico antes de se tornarem imortais. Este amuleto é esculpido em jade na forma de ossos de dragao, amarrado com corda para ser usado como protecao. Pode ajudar a proteger a energia interna e a manter o foco na busca pela imortalidade. Para aqueles com extrema sinceridade, pode ajudar a encontrar o local onde os ossos dos dragoes estao enterrados.
 Pagoda dos Quatro Animais
 O céu é dividido em quatro regioes pelos animais sagrados: o Dragao Verde, o Tigre Branco, o Pássaro Vermelho e a Tartaruga Negra. A Pagoda dos Quatro Animais é esculpida em jade com esses animais representados em cada face do topo da torre, alinhando-se aos quatro pontos cardeais. A pagoda usa a forca dos animais sagrados para estabilizar a mente e proteger a alma.
 Tabuleiro Celestial

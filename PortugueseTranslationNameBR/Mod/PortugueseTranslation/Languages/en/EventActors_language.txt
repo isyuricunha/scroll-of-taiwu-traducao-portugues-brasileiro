@@ -96,18 +96,18 @@ Monge da Torre
 Intelectual
 Discípulo da Sala do Leao Voador
 Especialista de Outras Racas
-Árvore Sagrada da Montanha
-Árvore Sagrada da Caverna
-Árvore Sagrada do Desfiladeiro
-Árvore Sagrada do Pântano
-Árvore Sagrada das Colinas
-Árvore Sagrada do Jardim Secreto
-Árvore Sagrada dos Campos
-Árvore Sagrada do Lago
-Árvore Sagrada da Floresta
-Árvore Sagrada da Selva
-Árvore Sagrada da Praia
-Árvore Sagrada do Vale
+Arvore Sagrada da Montanha
+Arvore Sagrada da Caverna
+Arvore Sagrada do Desfiladeiro
+Arvore Sagrada do Pântano
+Arvore Sagrada das Colinas
+Arvore Sagrada do Jardim Secreto
+Arvore Sagrada dos Campos
+Arvore Sagrada do Lago
+Arvore Sagrada da Floresta
+Arvore Sagrada da Selva
+Arvore Sagrada da Praia
+Arvore Sagrada do Vale
 Senhor da Cidade
 Viajante
 Bêbado

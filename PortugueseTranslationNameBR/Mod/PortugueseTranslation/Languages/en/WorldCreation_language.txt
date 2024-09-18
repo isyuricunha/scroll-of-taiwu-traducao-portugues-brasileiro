@@ -59,4 +59,4 @@ Nível de prática dos inimigos em técnicas e número de páginas de livros de 
 <color=#FF5331FF>Especializado</color>
 Mudanca de Relacoes
 Dificuldade na mudanca de afinidade entre personagens.\n<color=#E3C66DFF>（Quanto maior a dificuldade de mudanca, mais difícil será acumular afinidade com os outros.）</color>
-<color=#FF5331FF>Áspero</color>
+<color=#FF5331FF>Aspero</color>

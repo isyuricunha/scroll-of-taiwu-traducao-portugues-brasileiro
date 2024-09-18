@@ -24,7 +24,7 @@ Corpo de Vento
 <color=#brightblue>Ao usar as técnicas colocadas aqui, elas serao ativadas automaticamente no início da batalha sem consumo e sem necessidade de preparacao.</color>
 Nuvens em Ascensao
 <color=#brightblue>As técnicas colocadas aqui consomem 50% menos energia de movimento ao se mover,</color><color=#brightred>mas consomem 100% mais energia de movimento quando paradas.</color>
-Água Tranquila
+Agua Tranquila
 <color=#brightblue>As técnicas colocadas aqui consomem 50% menos energia de movimento quando paradas,</color><color=#brightred>mas consomem 100% mais energia de movimento ao se mover.</color>
 
 

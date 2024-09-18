@@ -32,7 +32,7 @@ Pavilhao Imortal de Qinglang
 As artes marciais da Seita Ranshan consistem em <SpName=mousetip_gongfa_4>dedos, <SpName=mousetip_gongfa_7>espada, <SpName=mousetip_gongfa_10>armas exóticas (talismas), muitas vezes técnicas taoístas secretas, maravilhosas e incompreensíveis, capazes de invocar vento e trovao, controlar espíritos e fantasmas, difíceis de entender para pessoas comuns.
 Seita Xuannü
 O Pico Xuannü, também conhecido como Pico da Donzela de Jade, tem gelo misterioso. Diz a lenda que uma deusa desceu ao pico e deixou uma técnica maravilhosa, qualquer mulher que a praticar se tornará graciosa e etérea, com pele de jade e ossos de gelo, ascendendo ao status de imortal.
-Reflexo Invertido na Água
+Reflexo Invertido na Agua
 As artes marciais da Seita Xuannü consistem em <SpName=mousetip_gongfa_3>punhos e palmas, <SpName=mousetip_gongfa_4>dedos, <SpName=mousetip_gongfa_13>instrumentos musicais, com movimentos leves e elegantes, graciosos e encantadores, como nuvens flutuantes, parecendo uma deusa descendo à terra.
 Vila de Forja de Espadas
 A Vila de Forja de Espadas está localizada no Monte Zhanlu, e diz-se que foi fundada pelo mestre ferreiro Ou Yezi. A vila tem uma longa história, e a maioria das armas divinas e afiadas do mundo vem deste lugar, sendo muito admirada pelos praticantes de artes marciais.
@@ -114,7 +114,7 @@ Jiangling é uma antiga capital imperial que conecta o noroeste e o sudeste da C
 
 
 Fuzhou
-Fuzhou tem uma populacao grande e comércio marítimo próspero, sendo extremamente próspera. É conhecida como "Cidade das Árvores de Banyan" devido ao plantio generalizado de árvores de banyan.
+Fuzhou tem uma populacao grande e comércio marítimo próspero, sendo extremamente próspera. É conhecida como "Cidade das Arvores de Banyan" devido ao plantio generalizado de árvores de banyan.
 
 
 Liaoyang

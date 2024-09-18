@@ -25,7 +25,7 @@ Aumenta a Defesa Mental
 Poder de Contra-Ataque
 Reflexao de Dano Externo
 Reflexao de Dano Interno
-Área de Reflexao
+Area de Reflexao
 Duracao
 Aumenta o Ataque
 Aumenta a Precisao

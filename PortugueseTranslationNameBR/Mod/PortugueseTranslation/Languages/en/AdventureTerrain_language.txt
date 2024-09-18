@@ -33,7 +33,7 @@ Local onde os taoístas praticam sua religiao, ou que serve para adorar deuses e
 Ruínas
 Construcoes ou locais antigos que restaram do passado. É possível vislumbrar vestígios da vida antiga e talvez encontrar algumas relíquias e objetos preciosos.
 Terra Desolada
-Área desolada e vasta. O solo é infértil, com pouca vegetacao e animais lutando para sobreviver, e é raramente visitada por pessoas.
+Area desolada e vasta. O solo é infértil, com pouca vegetacao e animais lutando para sobreviver, e é raramente visitada por pessoas.
 Ruínas
 Nao se sabe o que aconteceu aqui antes; as antigas construcoes agora sao apenas um montículo de ruínas, inutilizáveis, com apenas corvos sobrevoando.
 Deserto

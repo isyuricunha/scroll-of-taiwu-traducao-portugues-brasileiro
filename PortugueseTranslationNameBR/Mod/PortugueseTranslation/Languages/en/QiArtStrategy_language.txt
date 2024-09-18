@@ -73,13 +73,13 @@ Reúna o Qi de yin e yang, com a postura de mistura, para compreender a verdadei
 Transformar Terra em Metal
 Consome forca interna extra, substituindo a transferência original do atributo dos cinco elementos da forca interna durante o ciclo mensal, mudando para a transferência prioritária do atributo da forca interna de "Retorno à Origem" para "Diamante".
 "A terra central transforma o Qi, o menor yin gera metal"...\nSe guiar o Qi do baco para os pulmoes, talvez...
-Gerar Água e Retornar ao Metal
+Gerar Agua e Retornar ao Metal
 Consome forca interna extra, substituindo a transferência original do atributo dos cinco elementos da forca interna durante o ciclo mensal, mudando para a transferência prioritária do atributo da forca interna de "Sombra Negra" para "Diamante".
 "O maior yin gera água, retorna o Qi ao menor yin"...\nSe guiar o Qi dos rins para os pulmoes, talvez...
 Superar Madeira e Transformar em Metal
 Consome forca interna extra, substituindo a transferência original do atributo dos cinco elementos da forca interna durante o ciclo mensal, mudando para a transferência prioritária do atributo da forca interna de "Névoa Púrpura" para "Diamante".
 "Yin e yang se superam, metal e madeira se transformam"...\nSe guiar o Qi do fígado para os pulmoes, talvez...
-Transformar Água em Madeira
+Transformar Agua em Madeira
 Consome forca interna extra, substituindo a transferência original do atributo dos cinco elementos da forca interna durante o ciclo mensal, mudando para a transferência prioritária do atributo da forca interna de "Sombra Negra" para "Névoa Púrpura".
 "O maior yin transforma o Qi, o menor yang gera madeira"...\nSe guiar o Qi dos rins para o fígado, talvez...
 Gerar Fogo e Retornar à Madeira
@@ -88,13 +88,13 @@ Consome forca interna extra, substituindo a transferência original do atributo 
 Superar Terra e Transformar em Madeira
 Consome forca interna extra, substituindo a transferência original do atributo dos cinco elementos da forca interna durante o ciclo mensal, mudando para a transferência prioritária do atributo da forca interna de "Retorno à Origem" para "Névoa Púrpura".
 "Yin e yang se superam, terra e madeira se ajustam"...\nSe guiar o Qi do baco para o fígado, talvez...
-Transformar Metal em Água
+Transformar Metal em Agua
 Consome forca interna extra, substituindo a transferência original do atributo dos cinco elementos da forca interna durante o ciclo mensal, mudando para a transferência prioritária do atributo da forca interna de "Diamante" para "Sombra Negra".
 "O menor yin transforma o Qi, o maior yin gera água"...\nSe guiar o Qi dos pulmoes para os rins, talvez...
-Gerar Madeira e Retornar à Água
+Gerar Madeira e Retornar à Agua
 Consome forca interna extra, substituindo a transferência original do atributo dos cinco elementos da forca interna durante o ciclo mensal, mudando para a transferência prioritária do atributo da forca interna de "Névoa Púrpura" para "Sombra Negra".
 "O menor yang gera madeira, retorna o Qi ao maior yin"...\nSe guiar o Qi do fígado para os rins, talvez...
-Superar Fogo e Transformar em Água
+Superar Fogo e Transformar em Agua
 Consome forca interna extra, substituindo a transferência original do atributo dos cinco elementos da forca interna durante o ciclo mensal, mudando para a transferência prioritária do atributo da forca interna de "Pura Yang" para "Sombra Negra".
 "Yin e yang se superam, fogo e água se complementam"...\nSe guiar o Qi do coracao para os rins, talvez...
 Transformar Madeira em Fogo
@@ -112,7 +112,7 @@ Consome forca interna extra, substituindo a transferência original do atributo 
 Gerar Metal e Retornar à Terra
 Consome forca interna extra, substituindo a transferência original do atributo dos cinco elementos da forca interna durante o ciclo mensal, mudando para a transferência prioritária do atributo da forca interna de "Diamante" para "Retorno à Origem".
 "O menor yin gera metal, retorna o Qi à terra central"...\nSe guiar o Qi dos pulmoes para o baco, talvez...
-Superar Água e Retornar à Terra
+Superar Agua e Retornar à Terra
 Consome forca interna extra, substituindo a transferência original do atributo dos cinco elementos da forca interna durante o ciclo mensal, mudando para a transferência prioritária do atributo da forca interna de "Sombra Negra" para "Retorno à Origem".
 "Yin e yang se superam, água e terra se fundem"...\nSe guiar o Qi dos rins para o baco, talvez...
 Eliminar o Falso e Retornar ao Verdadeiro

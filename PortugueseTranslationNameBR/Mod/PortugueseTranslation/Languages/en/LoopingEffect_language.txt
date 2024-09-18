@@ -73,13 +73,13 @@ Se o atributo de forca interna do praticante durante a circulacao de Zhou Tian j
 Transformacao da Terra em Metal
 Consome forca interna adicional, substituindo a transferência original do atributo dos cinco elementos pela circulacao de Zhou Tian por uma transferência fixa priorizando "Retorno à Origem" para "Vajra".
 
-Água Nascendo do Metal
+Agua Nascendo do Metal
 Consome forca interna adicional, substituindo a transferência original do atributo dos cinco elementos pela circulacao de Zhou Tian por uma transferência fixa priorizando "Xuan Yin" para "Vajra".
 
 Domínio da Madeira sobre o Metal
 Consome forca interna adicional, substituindo a transferência original do atributo dos cinco elementos pela circulacao de Zhou Tian por uma transferência fixa priorizando "Zixia" para "Vajra".
 
-Transformacao da Água em Madeira
+Transformacao da Agua em Madeira
 Consome forca interna adicional, substituindo a transferência original do atributo dos cinco elementos pela circulacao de Zhou Tian por uma transferência fixa priorizando "Xuan Yin" para "Zixia".
 
 Fogo Nascendo da Madeira
@@ -88,13 +88,13 @@ Consome forca interna adicional, substituindo a transferência original do atrib
 Domínio da Terra sobre a Madeira
 Consome forca interna adicional, substituindo a transferência original do atributo dos cinco elementos pela circulacao de Zhou Tian por uma transferência fixa priorizando "Retorno à Origem" para "Zixia".
 
-Transformacao do Metal em Água
+Transformacao do Metal em Agua
 Consome forca interna adicional, substituindo a transferência original do atributo dos cinco elementos pela circulacao de Zhou Tian por uma transferência fixa priorizando "Vajra" para "Xuan Yin".
 
-Madeira Nascendo da Água
+Madeira Nascendo da Agua
 Consome forca interna adicional, substituindo a transferência original do atributo dos cinco elementos pela circulacao de Zhou Tian por uma transferência fixa priorizando "Zixia" para "Xuan Yin".
 
-Domínio do Fogo sobre a Água
+Domínio do Fogo sobre a Agua
 Consome forca interna adicional, substituindo a transferência original do atributo dos cinco elementos pela circulacao de Zhou Tian por uma transferência fixa priorizando "Puro Yang" para "Xuan Yin".
 
 Transformacao da Madeira em Fogo
@@ -112,7 +112,7 @@ Consome forca interna adicional, substituindo a transferência original do atrib
 Metal Nascendo da Terra
 Consome forca interna adicional, substituindo a transferência original do atributo dos cinco elementos pela circulacao de Zhou Tian por uma transferência fixa priorizando "Vajra" para "Retorno à Origem".
 
-Domínio da Água sobre a Terra
+Domínio da Agua sobre a Terra
 Consome forca interna adicional, substituindo a transferência original do atributo dos cinco elementos pela circulacao de Zhou Tian por uma transferência fixa priorizando "Xuan Yin" para "Retorno à Origem".
 
 Eliminar o Falso e Restaurar o Real

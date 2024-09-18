@@ -1,0 +1,36 @@
+Encontrou uma miragem
+Encontrou uma miragem, aumentando a reputacao
+Descobriu selvagens
+Descobriu selvagens, aumentando a reputacao
+Descobriu animais
+Descobriu animais raros, aumentando a reputacao
+Descobriu plantas
+Descobriu plantas raras, aumentando a reputacao
+Transmitiu informacoes
+Transmitiu informacoes, aumentando a reputacao
+Descobriu um assentamento
+Descobriu um assentamento, aumentando a reputacao
+Encontrou clima raro
+Encontrou um clima raro, aumentando a reputacao
+Perdeu-se
+Perdeu o caminho, resultando em reducao da reputacao
+Encontrou ladroes
+Encontrou ladroes, perdendo parte dos suprimentos
+Danos devido a terrenos acidentados
+O percurso acidentado causou a perda de alguns suprimentos
+Descobriu destrocos de uma caravana
+Descobriu destrocos de uma caravana, obtendo alguns suprimentos
+Ajudou um viajante
+Ajudou um viajante, resultando em reducao dos suprimentos
+Problemas com a adaptacao ao ambiente
+Problemas com a adaptacao ao ambiente pelo grupo de transporte, resultando em reducao dos suprimentos
+Recebeu ajuda
+Recebeu ajuda, aumentando os suprimentos
+Encontrou caca
+Encontrou caca, aumentando os suprimentos
+Descobriu um pomar
+Descobriu um pomar, podendo buscar suprimentos
+Descobriu uma vila
+Descobriu uma vila, podendo trocar suprimentos
+Encontrou uma caravana
+Encontrou uma caravana, podendo trocar suprimentos

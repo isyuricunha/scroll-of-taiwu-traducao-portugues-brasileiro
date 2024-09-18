@@ -1,0 +1,38 @@
+
+
+
+
+Espaco Interior
+<color=#pinkyellow>Obtém <color=#brightblue>+100%</color> de forca interna durante a circulacao de Qi</color>
+
+
+Purificacao
+<color=#pinkyellow>Reduz o dano direto, dano interno, desmaio e envenenamento de quem nao alcancou <color=#ffffff>Purificacao</color> em <color=#brightblue>33%</color>\nAumenta o dano direto, dano interno, desmaio e envenenamento causado a quem nao alcancou <color=#ffffff>Purificacao</color> em <color=#brightblue>33%</color>\nAumenta a resistência mental <color=#brightblue>+10%</color>\nAumenta a resistência a ferimentos graves <color=#brightblue>+10%</color></color>
+
+
+Regulacao do Qi
+<color=#pinkyellow>Obtém <color=#brightblue>+100%</color> de experiência</color>
+
+
+Qi Esgotado
+<color=#pinkyellow>Taxa de sucesso ao quebrar técnicas <color=#brightblue>+25%</color></color>
+
+
+Passos Divinos
+<color=#pinkyellow>Reduz o dano direto, dano interno, desmaio e envenenamento de quem nao alcancou <color=#1abac8>Passos Divinos</color> em <color=#brightblue>33%</color>\nAumenta o dano direto, dano interno, desmaio e envenenamento causado a quem nao alcancou <color=#1abac8>Passos Divinos</color> em <color=#brightblue>33%</color>\nAumenta a resistência mental <color=#brightblue>+15%</color>\nAumenta a resistência a ferimentos graves <color=#brightblue>+15%</color></color>
+
+
+Absorcao do Qi
+<color=#pinkyellow>Obtém <color=#brightblue>+100%</color> de Qi verdadeiro durante a circulacao de Qi</color>
+
+
+Aperfeicoamento
+<color=#pinkyellow>Limite de talento ao quebrar técnicas <color=#brightblue>+6</color></color>
+
+
+Transcendência
+<color=#pinkyellow>Reduz o dano direto, dano interno, desmaio e envenenamento de quem nao alcancou <color=#c16927>Transcendência</color> em <color=#brightblue>33%</color>\nAumenta o dano direto, dano interno, desmaio e envenenamento causado a quem nao alcancou <color=#c16927>Transcendência</color> em <color=#brightblue>33%</color>\nAumenta a resistência mental <color=#brightblue>+20%</color>\nAumenta a resistência a ferimentos graves <color=#brightblue>+20%</color></color>
+
+
+Retorno ao Vazio
+<color=#pinkyellow>Aumenta a resistência mental <color=#brightblue>+25%</color>\nAumenta a resistência a ferimentos graves <color=#brightblue>+25%</color></color>
