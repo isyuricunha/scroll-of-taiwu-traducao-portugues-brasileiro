@@ -1,48 +1,48 @@
-Início
-Ponto de partida para o avanco.
-Fim
-Ponto final do avanco.\nSomente ao conectar este espaco, o avanco pode ser bem-sucedido. Caso contrário, nenhum prêmio de avanco será obtido.
-Resumo
-Sem descricao
-Como de costume
-Avanco conforme o plano.
-Transmissao
-Ao conectar este espaco, a <color=#brightblue>taxa de sucesso de todos os espacos ao redor aumenta em 30%</color>.
-Maré de Sabedoria
-Para cada espaco ao redor com uma conexao bem-sucedida, a <color=#brightblue>taxa de sucesso deste espaco aumenta em 30%</color>.
-Concentracao
-Para cada espaco ao redor com uma falha de conexao, a <color=#brightblue>taxa de sucesso deste espaco aumenta em 60%</color>.
-Estabelecimento
-A <color=#brightred>taxa de sucesso de conexao deste espaco diminui em 100%</color>.\nA taxa de sucesso de conexao de todos os espacos ao redor aumenta em 60%.
-Perpetuidade
-O próximo espaco conectado a este <color=#brightblue>certamente terá uma conexao bem-sucedida</color>.
-Inspiracao
-Conectar este espaco <color=#brightblue>nao aumenta o número de tentativas de avanco</color>.
-Esquecimento de Si
-A taxa de sucesso de conexao deste espaco <color=#brightred>diminui em 30%</color>.\nConectar este espaco pode <color=#brightblue>reduzir em 1 a tentativa de avanco</color>.
-Retorno
-A taxa de sucesso de conexao deste espaco <color=#brightred>diminui em 60%</color>.\nConectar este espaco pode <color=#brightblue>reduzir em 2 as tentativas de avanco</color>.
-Sequência
-A taxa de sucesso de conexao deste espaco <color=#brightblue>aumenta em 60%</color>.\nConectar este espaco adicionará <color=#brightred>1 tentativa extra de avanco</color>.
-Esforco
-A taxa de sucesso de conexao deste espaco <color=#brightblue>aumenta em 100%</color>.\nConectar este espaco adicionará <color=#brightred>2 tentativas extras de avanco</color>.
-Transparência
-Ao conectar este espaco, <color=#brightblue>revela vários espacos nao exibidos</color>.
-Desafio
-A taxa de sucesso de conexao deste espaco <color=#brightred>diminui em 60%</color>.\nConectar este espaco fará com que vários espacos falhados <color=#brightblue>voltem a ser conectáveis</color>.
-Retorno ao Coracao
-A taxa de sucesso de conexao deste espaco <color=#brightred>diminui em 30%</color>.\nConectar este espaco fará com que todos os “espacos especiais de avanco” ao redor se tornem “como de costume”.
-Vestido de Noiva
-Ao conectar este espaco, um “espaco de avanco adicional” nao conectado será aleatoriamente transferido para um espaco “como de costume” ao redor deste espaco.
-Desaparecimento
-Conectar este espaco pode <color=#brightblue>reduzir em 3 tentativas de avanco</color>.\nAleatoriamente <color=#brightred>transforma 1 “espaco de avanco adicional” nao conectado em “como de costume”</color>.
-Paixao
-Quanto mais o número de tentativas de avanco excede a metade do limite de talento, mais a taxa de sucesso de conexao deste espaco e todos os espacos ao redor <color=#brightblue>aumenta</color>.
-Determinacao
-Quanto menos o número de tentativas de avanco é menor que a metade do limite de talento, mais a taxa de sucesso de conexao deste espaco e todos os espacos ao redor <color=#brightblue>aumenta</color>.
-Habilidade
-Conectar este espaco adicionará <color=#brightred>1 tentativa extra de avanco</color>.\nAo conectar este espaco, imediatamente <color=#brightblue>considera 1 “espaco de avanco adicional” nao conectado como conectado</color>.
-Perfeicao
-Conhecimento completo sobre este espaco.\nEste espaco certamente <color=#brightblue>terá uma conexao bem-sucedida</color>.
-Erro Repetido
-Já enfrentou dificuldades neste espaco.\nA taxa de sucesso de conexao deste espaco <color=#brightblue>aumenta em 100%</color>, mas conectar este espaco, seja sucesso ou falha, <color=#brightred>resultará em perda de saúde</color>.
+Start
+Start of this Breakthrough.
+End
+End of this Breakthrough.\nAll progress will be lost if you cannot reach this cell.
+Summary
+No Description
+Normal
+No special effect.
+Succession
+After connecting to this cell, <color=#brightblue>Success Rate of all surrounding cells will be increased by 30%</color>.
+Flexibility
+For every successfully connected cell around this cell, <color=#brightblue>this cell's Success Rate will be increased by 30%</color>.
+Perseverence
+For every failed connection around this cell, <color=#brightblue>this cell's Success Rate will be increased by 60%</color>.
+Foundation
+This cell's <color=#brightred>Success Rate is decreased by 100%</color>.\n<color=#brightblue>Success Rate of all cells surrounding this cell will be increased by 60%</color>.
+Transition
+After connecting to this cell, <color=#brightblue>1 next connection will always be successful</color>.
+Inspiration
+Connecting to this cell <color=#brightblue>won't increase attempt count</color>.
+Refreshment
+This cell's <color=#brightred>Success Rate is decreased by 30%</color>.\nConnecting to this cell <color=#brightblue>will reduce attempt count by 1</color>.
+Reversal
+This cell's <color=#brightred>Success Rate is decreased by 60%</color>.\nConnecting to this cell <color=#brightblue>will reduce attempt count by 2</color>.
+Steady
+This cell's <color=#brightblue>Success Rate is increased by 60%</color>.\nConnecting to this cell <color=#brightred>will increase attempt count by 1</color>.
+Hard Work
+This cell's <color=#brightblue>Success Rate is increased by 100%</color>.\nConnecting to this cell <color=#brightred>will increase attempt count by 2</color>.
+Clarity
+Connecting to this cell <color=#brightblue>will reveal multiple undiscovered cells</color>.
+Challenge
+This cell's <color=#brightred>Success Rate is decreased by 60%</color>.\nConnecting to this cell <color=#brightblue>restores all failed surrounding cells</color>.
+Simplify
+This cell's <color=#brightred>Success Rate is decreased by 30%</color>.\nConnecting to this cell will turn all "special cells" around this cell into "basic cells"
+Support
+When you connect to this cell, 1 unconnected "golden" cell will be transferred to one of the "basic" cells around it.
+Culmination
+Connecting to this cell <color=#brightblue>will reduce attempt count by 3</color>.\nBut <color=#brightred>1 unconnected "golden cell" will turn into a "basic cell"</color>.
+Humility
+The higher the attempt count is than half of the Talent limit, the more <color=#brightblue>Success Rate of this cell and all surrounding cells will increase</color>.
+Ambition
+The lower the attempt count is than half of the Talent limit, the more <color=#brightblue>Success Rate of this cell and all surrounding cells will increase</color>.
+Advice
+Connecting to this cell <color=#brightred>will increase attempt count by 1</color>.\nConnecting to this cell <color=#brightblue>will immediately connect 1 unconnected "golden cell"</color>.
+Complete
+You are already familiar with the key points of this technique.\nThis cell <color=#brightblue>will always connect successfully</color>.
+Mistake
+Already suffered setbacks on this cell.\nThis cell's <color=#brightblue>Success Rate will be increased by 100%</color>.\nBut <color=#brightred>you will always lose Health when connecting to this cell, regardless of it's success or failure</color>.

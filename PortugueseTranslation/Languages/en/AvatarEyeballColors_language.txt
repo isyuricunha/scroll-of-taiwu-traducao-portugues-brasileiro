@@ -2,7 +2,7 @@ Vermelho
 Marrom
 Dourado
 Verde
-Azul-esverdeado
+Ciano
 Azul
 Roxo
 Branco

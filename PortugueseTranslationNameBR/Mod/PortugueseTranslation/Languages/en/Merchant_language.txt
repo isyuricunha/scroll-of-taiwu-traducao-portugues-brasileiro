@@ -1,49 +1,49 @@
-Controle de Bois · Um
-Controle de Bois · Dois
-Controle de Bois · Três
-Controle de Bois · Quatro
-Controle de Bois · Cinco
-Controle de Bois · Seis
-Controle de Bois · Sete
-Documentos · Um
-Documentos · Dois
-Documentos · Três
-Documentos · Quatro
-Documentos · Cinco
-Documentos · Seis
-Documentos · Sete
-Cinco Lagos · Um
-Cinco Lagos · Dois
-Cinco Lagos · Três
-Cinco Lagos · Quatro
-Cinco Lagos · Cinco
-Cinco Lagos · Seis
-Cinco Lagos · Sete
-Líder Marcial · Um
-Líder Marcial · Dois
-Líder Marcial · Três
-Líder Marcial · Quatro
-Líder Marcial · Cinco
-Líder Marcial · Seis
-Líder Marcial · Sete
-Revitalizacao · Um
-Revitalizacao · Dois
-Revitalizacao · Três
-Revitalizacao · Quatro
-Revitalizacao · Cinco
-Revitalizacao · Seis
-Revitalizacao · Sete
-Gongshu · Um
-Gongshu · Dois
-Gongshu · Três
-Gongshu · Quatro
-Gongshu · Cinco
-Gongshu · Seis
-Gongshu · Sete
-Mercadorias Raras · Um
-Mercadorias Raras · Dois
-Mercadorias Raras · Três
-Mercadorias Raras · Quatro
-Mercadorias Raras · Cinco
-Mercadorias Raras · Seis
-Mercadorias Raras · Sete
+Cattle Feed I
+Cattle Feed II
+Cattle Feed III
+Cattle Feed IV
+Cattle Feed V
+Cattle Feed VI
+Cattle Feed VII
+Bookstore I
+Bookstore II
+Bookstore III
+Bookstore IV
+Bookstore V
+Bookstore VI
+Bookstore VII
+Penta-Lake I
+Penta-Lake II
+Penta-Lake III
+Penta-Lake IV
+Penta-Lake V
+Penta-Lake VI
+Penta-Lake VII
+Military Chief I
+Military Chief II
+Military Chief III
+Military Chief IV
+Military Chief V
+Military Chief VI
+Military Chief VII
+Rejuvenation I
+Rejuvenation II
+Rejuvenation III
+Rejuvenation IV
+Rejuvenation V
+Rejuvenation VI
+Rejuvenation VII
+Kung Fu I
+Kung Fu II
+Kung Fu III
+Kung Fu IV
+Kung Fu V
+Kung Fu VI
+Kung Fu VII
+Odd Goods I
+Odd Goods II
+Odd Goods III
+Odd Goods IV
+Odd Goods V
+Odd Goods VI
+Odd Goods VII

@@ -1,0 +1,18 @@
+Veneno Intenso
+Intenso
+<color=#hotpoison>Veneno Intenso, o mais potente, causa confusao e desorientacao.</color>\nDurante a batalha, ao realizar um certo número de ataques com armas, uma parte do veneno será convertida em <color=#redpoison>Veneno Vermelho</color>, dependendo da quantidade de veneno, quanto mais profundo o envenenamento, menos veneno é convertido; também causa <color=#outterinjury>ferimentos externos</color>.
+Veneno Melancólico
+Melancólico
+<color=#gloomypoison>Veneno Melancólico, persistente e sombrio, cresce ao longo do tempo.</color>\nDurante a batalha, ao se mover uma certa distância, uma parte do veneno será convertida em <color=#coldpoison>Veneno Frio</color>, dependendo da quantidade de veneno, quanto mais profundo o envenenamento, menos veneno é convertido; também causa <color=#innerinjury>ferimentos internos</color>.
+Veneno Frio
+Frio
+<color=#coldpoison>Veneno Frio, que congela os vasos, bloqueia o sangue e a mente.</color>\nDurante a batalha, ao consumir uma certa quantidade de Qi, uma parte do veneno será convertida em <color=#illusorypoison>Veneno Ilusório</color>, dependendo da quantidade de veneno, quanto mais profundo o envenenamento, menos veneno é convertido; também pode piorar alguns <color=#innerinjury>ferimentos internos</color>.
+Veneno Vermelho
+Vermelho
+<color=#redpoison>Veneno Vermelho, que queima e danifica, afetando todos os sentidos.</color>\nDurante a batalha, ao consumir uma certa quantidade de postura, uma parte do veneno será convertida em <color=#rottenpoison>Veneno Podre</color>, dependendo da quantidade de veneno, quanto mais profundo o envenenamento, menos veneno é convertido; também pode piorar alguns <color=#outterinjury>ferimentos externos</color>.
+Veneno Podre
+Podre
+<color=#rottenpoison>Veneno Podre, que penetra na medula, corroendo músculos e corpo.</color>\nDurante a batalha, o veneno podre continuará a se converter em <color=#hotpoison>Veneno Intenso</color>, dependendo da quantidade de veneno, quanto mais profundo o envenenamento, menos veneno é convertido; também reduz a resistência do corpo.
+Veneno Ilusório
+Ilusório
+<color=#illusorypoison>Veneno Ilusório, que causa embriaguez e desorientacao, tornando a pessoa inconsciente e alheia.</color>\nDurante a batalha, o veneno ilusório continuará a se converter em <color=#gloomypoison>Veneno Melancólico</color>, dependendo da quantidade de veneno, quanto mais profundo o envenenamento, menos veneno é convertido; também reduz a resistência do Qi.

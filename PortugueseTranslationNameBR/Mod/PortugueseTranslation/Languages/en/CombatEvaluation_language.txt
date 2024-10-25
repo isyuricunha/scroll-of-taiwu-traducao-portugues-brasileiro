@@ -1,128 +1,131 @@
-Habilidade inferior
-Batalha falhada!
+Lose
+Battle lost!
 
-Empate
-Empate...
+Draw
+Tie...
 
-Fuga desesperada
-Fuga desesperada...
+Retreat
+Flee...
 
-Vitória sobre o inimigo
-Vitória na batalha!
+Win
+Battle won!
 
-Troca de experiências
-Troca de experiências com um adversário cuja habilidade nao é inferior à sua.
+Spar
+Spar with an opponent whose purity is no less than your own.
 
-Resposta às investidas
-Resposta às investidas de um adversário cuja habilidade nao é inferior à sua.
+Parry every move
+Take on an opponent whose purity is no less than your own.
 
-Batalha perigosa
-Batalha perigosa com um adversário cuja habilidade nao é inferior à sua.
+A dangerous Battle
+A dangerous fight with an opponent whose purity is no less than your own.
 
-Batalha de vida ou morte
-Batalha de vida ou morte com um adversário cuja habilidade nao é inferior à sua.
+A Fight to the death
+A fight to the death with an opponent whose purity is no less than your own.
 
-Espada divina retorna ao coracao
-Derrotou a encarnacao do ponto crucial!
+HoS
+Defeated the XiangShu Incarnation !
 
-Numérica superioridade
-Derrotar o oponente quando nosso número é superior ao deles.
+Bully·A
+Defeat enemy who have fewer companions. 
 
-Agressao contra os jovens
-Derrotar um oponente que ainda é jovem e inferior a você em idade.
+Bully·M
+Defeat an opponent who is younger than you
 
-Equipamento inferior
-Derrotar um oponente cujo equipamento é globalmente inferior ao seu.
+Equipped with weaknesses
+Defeat an opponent whose equipment is weaker overall than your own.
 
-Energia verdadeira inferior
-Derrotar um oponente cuja energia verdadeira é muito inferior à sua.
+True Qi overpowering
+Defeating an opponent whose True Qi is much lower than your own.
 
-Técnica marcial inferior
-Usar uma técnica marcial mais avancada do que a do oponente para derrotá-lo.
+Martial Overpowering 
+Defeats an opponent using a martial art that is more advanced than the one used by the opponent.
 
-Pureza superior
-Derrotar um oponente cuja pureza é pelo menos 3 níveis inferior à sua.
+Pure and fragile
+Defeating an opponent when one's realm of purity is 3 or more higher than the opponent's.
 
-Aproveitar a fraqueza do inimigo
-Derrotar um oponente que está grávida.
+Bully·P
+Defeating an opponent who is carrying six pieces of 
 
-Vitória com números inferiores
-Derrotar o oponente quando nosso número é inferior ao deles.
+OT·A
+Overturn·amount. Defeat enemy who have more companions. 
 
-Novato
-Derrotar um oponente quando você ainda é jovem e o oponente é mais velho.
+Newborn
+Beating an opponent when you are not yet an adult and your opponent is older than you.
 
-Equipamento superior
-Derrotar um oponente cujo equipamento é globalmente superior ao seu.
+Equipped for victory
+Defeat an opponent whose equipment is overall better than your own.
 
-Energia verdadeira superior
-Derrotar um oponente cuja energia verdadeira é muito superior à sua.
+True Qi overcomes Force
+Defeating an opponent whose True Qi is much higher than your own.
 
-Técnica marcial superior
-Derrotar um oponente usando uma técnica marcial mais rudimentar do que a dele.
+Superior Martial Arts
+Defeating an opponent with a more rudimentary martial art than the one used by his opponent
 
-Pureza superior
-Derrotar um oponente cuja pureza é pelo menos 3 níveis superior à sua.
+Purity overcomes Strength
+Defeating an opponent when one's realm of purity is 3 or more below that of the opponent.
 
-Rugido do leao do Rio do Leste
-Derrotar um oponente enquanto você está grávida.
+Lion Roar
+Defeating an opponent while having six pieces of gear equipped.
 
-Esforco mínimo
-Restaurar a mente de alguém que caiu na senda do ponto crucial.
-Restaurar a mente de alguém que caiu na senda demoníaca.
-Exorcismo
-Restaurar a mente de alguém que caiu na senda demoníaca cuja pureza é nao inferior à sua.
-Restaurar a mente de alguém que caiu na senda demoníaca cuja pureza é nao inferior à sua.
-Atuacao heroica
-Eliminar um maligno que faz o mal.
+It's all in your hands.
+Restore one's mind from XiangShu's Posession. 
+Restore the mind of those who have fallen into evil.
+Repel Evil Spirits
+Restoring the minds of those who have fallen into the demonic path of the Sangha and who are no less pure than oneself.
+Restore the mind of those who have fallen into the evil path and whose purity is no less than your own.
+Be Chivalrous and uphold justice
+Exterminating the outlaws who committed misdeeds.
 
-Eliminar malignos
-Eliminar um maligno cuja pureza é nao inferior à sua.
+Destroying the Outlaws
+Eliminating the Outlaws who are not less pure than oneself
 
-Destruicao dos justos
-Matar um herói que pratica a justica.
+Offend Heaven and Earth
+Killing righteous men who have done righteous deeds.
 
-Matar heróis
-Matar um herói cuja pureza é nao inferior à sua.
+Kill the Righteous
+Killing the righteous who are no less pure than oneself.
 
-Poder do leao
-Por meio da promocao do cla do leao, vencer o oponente trouxe mais prestígio.
+Praise of Lion Face
+Victory over the opponents earns more prestige because of the proclamation of the Lion-Face Clan.
 
 
 
-Retorno à simplicidade
-Derrotar o inimigo com o estilo mais simples do Grande Punho Ancestral, aumentando significativamente o prestígio.
+The Basics
+The prestige gained by defeating an enemy with the most rustic Taiwu Long Fist is greatly increased.
 
-Compreensao prática
-Ganhar compreensao prática durante o combate, aumentando o progresso de leitura do livro em estudo.
+Practical insights
+The study progress of the books being studied has increased as a result of real-life insights.
 
-Treinamento com bonecos de madeira
-Treinar com bonecos de madeira aumenta significativamente a chance de compreensao prática...
+Practice Puppet training
+Engaging in practical combat training with the wooden training dummy will greatly increase the likelihood of gaining insights from real battles...
 
-Dragao dominando os mares
-Através do desafio do Dragao Divino, a bêncao e a riqueza sao incomensuráveis...
+Dragon Soaring Over the Four Seas
+Through the challenges posed by the divine dragon, blessings extend indefinitely, and their value is beyond words...
 
-Sobrevivência improvável
-Combater em dificuldade extrema aumenta o treinamento recebido e a chance de compreensao prática...
+Hanging by a Thread
+Engaging in battles of extreme difficulty increases the gained experience and raises the likelihood of gaining insights from real combat...
 
-Sobrevivência impossível
-Combater em dificuldade fatal aumenta significativamente o treinamento recebido e a chance de compreensao prática...
+Ten Deaths Without Life
+Engaging in battles of certain death difficulty significantly increases the gained experience and raises the likelihood of gaining insights from real combat...
 
-Defesa contra invasoes
-Lutar contra a encarnacao do ponto crucial saindo da tumba! Aumenta significativamente o treinamento recebido, prestígio e a chance de compreensao prática...
+Resisting Invasion
+Do everything you can to resist Xiangshu's Incarnation! The experience and prestige obtained are greatly improved, and the probability of actual combat understanding is increased...
 
-Orientacao
-Troca de experiências com um adversário cuja pureza é inferior à sua.
+Giving Some Pointers
+Spar with an opponent who's Purity is less than yours.
 
-Defesa adequada
-Resposta às investidas de um adversário cuja pureza é inferior à sua.
+Soldier Shall Resist
+Receive moves from an opponent who's Purity is less than yours.
 
-Habilidade fluida
-Batalha perigosa com um adversário cuja pureza é inferior à sua.
+Masterful Butchering
+Have a Vicious Fight with an opponent who's Purity is less than yours.
 
-Sem perigos reais
-Batalha de vida ou morte com um adversário cuja pureza é inferior à sua.
+More Scared than Hurt
+Have a Death Match with an opponent who's Purity is less than yours.
 
-Compreensao prática plena
-Ganhar compreensao prática durante o combate, aumentando a forca interna e a energia verdadeira em circulacao.
+Combat Circulation
+Having gained insight during actual combat, the Internal Energy and True Qi acquired while Cultivating Inner Arts have increased.
+
+练习完成
+因仅是随意试练，故而无法获得历练与威望，也不会获得任何战斗评价…
 

@@ -1,38 +1,38 @@
-Escolha o que melhor lhe agrada, eu me retirarei
-Que pena, que pena...
-Se fosse erudito e versado, por que se daria tanto trabalho?
-Fique à vontade
-Assim está bom, nao pode voltar atrás
-Por favor, me instrua
-{0}Você sabe qual o significado profundo disso? Como explicaria?
-{0}Tao profundo assim, será que você realmente entende?
-{0}Nada mais fácil, escute que eu explicarei para você.
-{0}Tao profundo assim, eu realmente nao entendo.
-......
-Sua habilidade supera a minha, eu admito a derrota
-O que você está fazendo...
-Parece que, afinal, sou eu quem tem a vantagem
-Assim sendo, já ouviu falar disso...
-Você realmente entende a razao das coisas
-Com tanto talento, deve tomar cuidado ao andar pelo mundo
-E agora? Melhor concentrar-se no duelo, nao precisa se preocupar com palavras
-Andar pelo mundo nao deveria fazer você perder sua dignidade por pequenos ganhos
-Nao posso, nao sou ganancioso
-(Concentrado no duelo, sem resposta)
-Você quer tanto ganhar, que eu nao vou deixar
-Essas coisinhas também tentam me subornar?
-Nao precisa se preocupar, ando pelo mundo há anos e nunca cometi um erro
-Agradeco pela preocupacao, mas no momento preciso focar no duelo
-O que você quis dizer com isso? Nao entendi
-Essa ameaca é realmente ridícula
-Você deveria tomar cuidado ao andar pelo mundo também
-Com essas habilidades, você também pode competir no duelo?
-Sua fama é grande, mas admito que sou inferior
-Eu vi sua habilidade, mas nao acho tao extraordinária
-Sua técnica impressiona a todos, eu admito a derrota
-Anos de dedicacao nao foram em vao com esta vitória
-Você se lembra do que aconteceu antes?
-Você realmente é extraordinário, talvez esses itens possam lhe ser úteis?
-Eu aconselho que você avalie a situacao, para evitar complicacoes e problemas inesperados no futuro
-…
-(O adversário está pensando...)
+Don't worry about me, choose whatever you're comfortable with
+Sorry, sorry...
+If you're so knowledgeable, why are you sweating so much?
+Please make yourself comfortable
+So be it, no regretting
+Please advise me
+What does {0} mean? How do you explain it?
+Do you actually understand {0}?
+This is the easiest part of {0}, so let me explain it to you.
+{0} is so profound, I really don't understand it...
+...
+Your fine art skills are excellent, I admit defeat
+Your Excellency is...
+As expected, I'm the best!
+In that case, have you heard of this matter?
+You really know what you are talking about
+Your Excellency is so highly talented. it would be such a shame if something happened to you
+What about this matter? Don't be so cautious, just speak freely
+How can a man lose his dignity for small gains when he walks in the world?
+How can i accept this? I'm not a greedy person
+(They concentrate on art and don't respond)
+You wanna win so badly? Heh, I won't let you
+You want to buy me with this little thing?
+You shouldn't worry about me, I have never been wronged in my travels for many years
+I'm sorry for your trouble, but now we need to concentrate on the art
+What do you mean by that? I am very confused
+You're threatening me with this? Ridiculous
+You should watch your back. would be a shame if you got disemboweled
+With your skill, how were you expecting to compete?
+You're such a well-known person, i wouldn't dare to win against you
+I see that your skills have never been better.
+You are too good, i admit defeat
+Years of hard work are not in vain
+Do you remember what happened before?
+You are really extraordinary. I wonder if these things can make it easier for you?
+I advise you to admit defeat as soon as possible, to avoid future complications and disasters...
+...
+（Opponent is thinking...）

@@ -1,57 +1,57 @@
-Leitura Atenta
-Aumenta o progresso de estudo deste livro.
-“Concentre-se e estude com devocao” …\nO que é lido e pensado deve ser facilmente memorizado.
-Reflexao e Recordacao
-Aumenta a eficiência de estudo deste livro.
-O que é descrito nesta parte deve ser assim? Hm … ou assim? Hm …\nHmm? Como eu acabei aqui?
-Conhecimento Exclusivo
-Aumenta aleatoriamente o progresso de estudo deste livro.
-Embora a visao deste capítulo seja perspicaz, na minha opiniao, pode haver falhas …
-Pensamento Criativo
-Aumenta aleatoriamente a eficiência de estudo deste livro.
-“Um barco de pesca com duas criancas pequenas, remo e pá parados, sentados no barco.\nÉ estranho que nao chova e o guarda-chuva esteja aberto, nao é para cobrir a cabeca, mas para aproveitar o vento.”
-Imitacao
-Faz com que as estratégias de estudo existentes para aumentar o progresso de estudo deste livro voltem a ser eficazes.
-Este capítulo é profundo e difícil de entender.\nMas se seguir as explicacoes anteriores, nao há erro …
-Busca Detalhada
-Faz com que as estratégias de estudo existentes para aumentar a eficiência de estudo deste livro tenham o efeito dobrado.
-Hm … De acordo com o livro, esta frase ou esta ideia? \nComo esperado …
-Selecao de Frases
-Diminui a durabilidade deste livro e aumenta significativamente o progresso de estudo deste livro.
-“Palavras divinas, cada uma preciosa” …\nEste trecho deve ser o ponto alto …
-Extracao e Refinamento
-Diminui a durabilidade deste livro e aumenta significativamente a eficiência de estudo deste livro.
-Este capítulo é o cerne do texto, deve ser lido e refletido …
-Revisao e Atualizacao
-Pode aumentar o progresso de estudo de livros nao lidos após a conclusao deste livro.
-“Aprender e revisar regularmente traz novos conhecimentos” …
-Integracao
-Após a conclusao do estudo deste livro, pode aumentar a eficiência de estudo de livros subsequentes.
-Se o que é descrito neste capítulo for corroborado com outros capítulos, pode-se ter uma compreensao clara.
-Estudo Intensivo
-Aumenta significativamente o progresso de estudo deste livro.
-“A especializacao vem do esforco, nao da diversao” …\nNao deve haver preguica …
-Leitura Rápida
-Aumenta significativamente a eficiência de estudo deste livro.
-“Leitura direta de trezentas palavras, sem nenhuma poeira na mente” …
-Leitura Sazonal
-Reduz o consumo de percepcao ao usar estratégias de estudo para este livro em 10 pontos, mas este livro nao pode ganhar experiência.
-“Ensinar de acordo com o material e adaptar-se ao tempo” …\nPode ser mais eficiente …
-Ajuste e Refinamento
-Reduz o consumo de percepcao ao usar estratégias de estudo para este livro em 10 pontos.
-Assim … desta forma …\nSeguindo essa explicacao, realmente conecta o passado e o futuro, esclarecendo …
-Percepcao Interior
-Remove todas as estratégias de estudo usadas para este livro e restaura certa percepcao com base nas estratégias removidas.
-A solucao deste capítulo … realmente tem sua essência! \nDeixe-me analisar cada palavra deste capítulo …
-Reflexao e Revisao
-Remove todas as estratégias de estudo usadas para este livro.
-Ler o livro cem vezes revela seu significado …
-Leitura Ineficiente
-Este livro nao será estudado, mas reduz a eficiência de estudo dos livros subsequentes.
-Vamos pular este capítulo e ir para o próximo …
-Sabedoria Aparente
-Este livro nao será estudado.
-Este capítulo parece ambíguo e difícil de entender. \nÉ melhor memorizar o resumo, mesmo que nao seja compreendido, conhecer mais palavras também é bom.
-Notas do Pai Adotivo
-Aumenta o progresso de estudo do livro “O Mistério da Estrela Celestial” ensinado pelo pai adotivo.
-“Este capítulo já foi detalhadamente anotado pelo pai adotivo, os mistérios estao claramente revelados …”
+Ponder with Recital
+Increases Study Progress of this page.
+“Focus on one thing, recite it with your mouth and heart”\nWhat you say with your mouth and what you think in your heart, you will never forget...
+Lost in meditation
+Increases Study Efficiency of this page.
+Is this what the chapter means？Well...Or like this？Umm...\nHuh？How come I am standing here？
+Unique Insights
+Randomly increases Study Progress of this page.
+The chapter does give some brilliant ideas, but from my point of view it may not be that flawless...
+Wonderful ideas
+Randomly increases Study Efficiency of this page.
+“A fishing boat with two children, sitting in the boat with their boats closed。\nStrange life without rain are open umbrella, not to cover the head is to make the wind.”
+Pretend to understand
+Re-activates already placed Study Strategies on this page that increase Study Progress.
+This article has a deep meaning and is quite difficult to understand. \nBut if you follow the previous articles for interpretation, nothing can go wrong...
+Follow the instructions
+Doubles the effect of already placed Study Strategies on this page that increase Study Efficiency.
+Well... according to the book, is this what this sentence means?\nThat's really good...
+Take notes
+Lose additional book durability to greatly increase the Study Progress of this page.
+“The magic of a man's pen, every word is a gem”...\nThis should be the finishing touch...
+Savor fine writing
+Lose additional book durability to greatly increase the Study Efficiency of this page.
+This article is the essence of the whole text，you have to savor it carefully...
+Review the Old
+When used on a completed page, it increases the Study Progress of the next page that isn't completed or Lost.
+“Study and learn at the same time, review the old and know the new”...
+Comprehensive Study
+When used on a completed page, it increases the Study Efficiency of the next page that isn't completed or Lost.
+If this article can be compared with the other articles, I'm sure it'll be clearer.
+Be diligent
+Greatly increases Study Progress of this page.
+“Excellence in work is only possible with diligence, not with playfulness.”...\nDon't be half-hearted...
+Focus on reading
+Greatly increases Study Efficiency of this page.
+“Three hundred words at a glance，my eyes are still clear"...
+Recitation
+The Comprehension cost of Study Strategies on this page is decreased by 10 points, but this page won't give Experience.
+“Teach according to the material，Adapt to the time of year”...\nAnd you can get twice the result with half the effort...
+Extrapolation
+The Comprehension cost of Study Strategies on this page is decreased by 10 points.
+So... that's how it is...\nWith this as a solution，despite taking one step forward and one step back, i can achieve speedy enlightenment...
+Breaking down
+Removes all Study Strategies used on this page, and restores a certain amount of Comprehension based on the removed Study Strategies.
+The words on this page... Are food for my brain!\nLet me break down what's written in this article, word by word...
+Reflect and Ruminate
+Removes all Study Strategies used on this page.
+After reading a book a hundred times, its meaning becomes clear to you...
+Gulp Down
+This page won't be studied, but the Study Efficiency of the next page will be reduced.
+I’ll just put it aside for the moment and move on to the next one...
+Wisdom of Ignorance
+This page won't be studied.
+This chapter seems paradoxical, hard to interpret in a moment\nBetter to memorize the essentials first, as it helps with literacy at least, if not with comprehension...
+Adoptive Father's Notes
+Increase the Study Progress of《The Impact》taught by my Adoptive Father.
+“This article has been explained in detail by my adoptive father, its mysteries are naturally visible to me...”

@@ -1,0 +1,74 @@
+Poder Atual
+Limite de Poder
+Velocidade de Execucao
+Custo de Espírito
+Proporcao de Habilidade Interna
+Conversao de Habilidade Interna
+Quantidade Total de Espírito
+Obtencao de Espírito
+Transferência dos Cinco Elementos
+Número de Espacos Versáteis
+Custo de Movimento
+Velocidade de Movimento
+Aumenta a Forca
+Aumenta a Precisao
+Aumenta a Rapidez
+Aumenta a Sensibilidade
+Diminuicao da Técnica Corporal
+Custo da Técnica Corporal
+Aumenta a Defesa Corporal
+Aumenta a Defesa de Espírito
+Aumenta a Reducao de Forca
+Aumenta a Defesa Contra Ataques
+Aumenta a Evasao
+Aumenta a Defesa Mental
+Poder de Contra-Ataque
+Reflexao de Dano Externo
+Reflexao de Dano Interno
+Área de Reflexao
+Duracao
+Aumenta o Ataque
+Aumenta a Precisao
+Percentual de Forca
+Percentual de Precisao
+Percentual de Rapidez
+Alcance do Ataque
+Ataque ao Peito e Costas
+Ataque à Cintura e Abdomen
+Ataque à Cabeca
+Ataque às Maos
+Ataque aos Pés
+Nível de Bloqueio de Meridianos
+Nível de Vulnerabilidade
+Aplica Veneno Forte
+Aplica Veneno Pesado
+Aplica Veneno Frio
+Aplica Veneno Vermelho
+Aplica Veneno Corrosivo
+Aplica Veneno Ilusório
+Necessário para Habilidade de Liberacao
+Espaco para Quebra
+Espaco para Agilidade
+Espaco para Protecao Corporal
+Espaco para Pontos Cruciais
+Necessário para Lancamento
+Necessário para Rebote
+Necessário para Defesa
+Necessário para Corte
+Necessário para Agressao
+Necessário para Escapada
+Necessário para Colapso
+Necessário para Ponto
+Necessário para Pegada
+Necessário para Música
+Necessário para Enredamento
+Necessário para Encantamento
+Necessário para Mecanica
+Necessário para Remédio
+Necessário para Veneno
+Necessário para Varredura
+Tempo de Acúmulo de Forca
+Probabilidade de Bloqueio
+Tempo de Bloqueio
+Aumenta o Ataque
+Aumenta a Precisao

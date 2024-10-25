@@ -1,5 +1,5 @@
-Terra Sem Nome
-Regiao de Pequim
+Lugar Sem Nome
+Jingji
 Bashu
 Guangnan
 Jingbei
@@ -9,7 +9,7 @@ Shandong
 Jingnan
 Fujian
 Liaodong
-Regioes do Oeste
+Oeste
 Yunnan
 Huainan
 Jiangnan

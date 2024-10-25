@@ -1,0 +1,123 @@
+Qi Afundado no Dantian
+Adquire uma quantidade de forca interna equivalente a 100% da circulacao mensal de Zhou Tian.
+
+Cinco Energias Regulando o Ying
+Transfere uma quantidade de forca interna equivalente a 100% da circulacao mensal de Zhou Tian para o atributo dos cinco elementos.
+
+Meridianos Livres e Circulantes
+Adquire uma quantidade de Zhen Qi equivalente a 100% da circulacao mensal de Zhou Tian.
+
+Mar de Qi Aberto
+Adquire uma quantidade de forca interna equivalente a 50% a 150% da circulacao mensal de Zhou Tian.
+
+Forma Ajustada, Qi Ativado
+Transfere uma quantidade de forca interna equivalente a 50% a 150% da circulacao mensal de Zhou Tian para o atributo dos cinco elementos.
+
+Qi Atinge o Topo
+Adquire uma quantidade de Zhen Qi equivalente a 50% a 150% da circulacao mensal de Zhou Tian.
+
+Oito Meridianos Cheios
+Consome forca interna adicional e adquire uma quantidade de forca interna equivalente a 200% da circulacao mensal de Zhou Tian.
+
+Lavar Músculos e Refinar Medula
+Consome forca interna adicional e transfere uma quantidade de forca interna equivalente a 200% da circulacao mensal de Zhou Tian para o atributo dos cinco elementos.
+
+Verdadeira Forca Pulsante
+Consome forca interna adicional e adquire uma quantidade de Zhen Qi equivalente a 200% da circulacao mensal de Zhou Tian.
+
+Fluxo Constante
+Aumenta a forca interna adquirida pela circulacao mensal de Zhou Tian.
+
+Meridianos Desbloqueados e Ativos
+Aumenta a transferência de forca interna para o atributo dos cinco elementos pela circulacao mensal de Zhou Tian.
+
+Refinar o Qi e Regular o Espírito
+Aumenta o crescimento do Zhen Qi pela circulacao mensal de Zhou Tian.
+
+Respiracao Interna Ininterrupta
+Aumenta aleatoriamente a forca interna adquirida pela circulacao mensal de Zhou Tian.
+
+Crescimento de Respiracao
+Aumenta aleatoriamente a transferência de forca interna para o atributo dos cinco elementos pela circulacao mensal de Zhou Tian.
+
+Circulacao dos Meridianos Especiais
+Aumenta aleatoriamente o crescimento de Zhen Qi pela circulacao mensal de Zhou Tian.
+
+Nuvens Crescendo, Fontes Borbulhantes
+Consome forca interna adicional e aumenta significativamente a quantidade de forca interna adquirida pela circulacao mensal de Zhou Tian.
+
+Céu e Homem em Sintonia
+Consome forca interna adicional e aumenta significativamente a transferência de forca interna para o atributo dos cinco elementos pela circulacao mensal de Zhou Tian.
+
+Clareza de Mente, Espírito Vigoroso
+Consome forca interna adicional e aumenta significativamente o crescimento de Zhen Qi pela circulacao mensal de Zhou Tian.
+
+Qi de Vajra
+Se o atributo de forca interna do praticante durante a circulacao de Zhou Tian já for "Vajra" e nao houver conflito, o atributo dos cinco elementos da forca interna nao mudará.
+
+Qi de Zixia
+Se o atributo de forca interna do praticante durante a circulacao de Zhou Tian já for "Zixia" e nao houver conflito, o atributo dos cinco elementos da forca interna nao mudará.
+
+Qi de Xuan Yin
+Se o atributo de forca interna do praticante durante a circulacao de Zhou Tian já for "Xuan Yin" e nao houver conflito, o atributo dos cinco elementos da forca interna nao mudará.
+
+Qi de Puro Yang
+Se o atributo de forca interna do praticante durante a circulacao de Zhou Tian já for "Puro Yang" e nao houver conflito, o atributo dos cinco elementos da forca interna nao mudará.
+
+Qi de Retorno à Origem
+Se o atributo de forca interna do praticante durante a circulacao de Zhou Tian já for "Retorno à Origem" e nao houver conflito, o atributo dos cinco elementos da forca interna nao mudará.
+
+Qi de Mistura Primordial
+Se o atributo de forca interna do praticante durante a circulacao de Zhou Tian já for "Mistura Primordial" e nao houver conflito, o atributo dos cinco elementos da forca interna nao mudará.
+
+Transformacao da Terra em Metal
+Consome forca interna adicional, substituindo a transferência original do atributo dos cinco elementos pela circulacao de Zhou Tian por uma transferência fixa priorizando "Retorno à Origem" para "Vajra".
+
+Água Nascendo do Metal
+Consome forca interna adicional, substituindo a transferência original do atributo dos cinco elementos pela circulacao de Zhou Tian por uma transferência fixa priorizando "Xuan Yin" para "Vajra".
+
+Domínio da Madeira sobre o Metal
+Consome forca interna adicional, substituindo a transferência original do atributo dos cinco elementos pela circulacao de Zhou Tian por uma transferência fixa priorizando "Zixia" para "Vajra".
+
+Transformacao da Água em Madeira
+Consome forca interna adicional, substituindo a transferência original do atributo dos cinco elementos pela circulacao de Zhou Tian por uma transferência fixa priorizando "Xuan Yin" para "Zixia".
+
+Fogo Nascendo da Madeira
+Consome forca interna adicional, substituindo a transferência original do atributo dos cinco elementos pela circulacao de Zhou Tian por uma transferência fixa priorizando "Puro Yang" para "Zixia".
+
+Domínio da Terra sobre a Madeira
+Consome forca interna adicional, substituindo a transferência original do atributo dos cinco elementos pela circulacao de Zhou Tian por uma transferência fixa priorizando "Retorno à Origem" para "Zixia".
+
+Transformacao do Metal em Água
+Consome forca interna adicional, substituindo a transferência original do atributo dos cinco elementos pela circulacao de Zhou Tian por uma transferência fixa priorizando "Vajra" para "Xuan Yin".
+
+Madeira Nascendo da Água
+Consome forca interna adicional, substituindo a transferência original do atributo dos cinco elementos pela circulacao de Zhou Tian por uma transferência fixa priorizando "Zixia" para "Xuan Yin".
+
+Domínio do Fogo sobre a Água
+Consome forca interna adicional, substituindo a transferência original do atributo dos cinco elementos pela circulacao de Zhou Tian por uma transferência fixa priorizando "Puro Yang" para "Xuan Yin".
+
+Transformacao da Madeira em Fogo
+Consome forca interna adicional, substituindo a transferência original do atributo dos cinco elementos pela circulacao de Zhou Tian por uma transferência fixa priorizando "Zixia" para "Puro Yang".
+
+Terra Nascendo do Fogo
+Consome forca interna adicional, substituindo a transferência original do atributo dos cinco elementos pela circulacao de Zhou Tian por uma transferência fixa priorizando "Retorno à Origem" para "Puro Yang".
+
+Domínio do Metal sobre o Fogo
+Consome forca interna adicional, substituindo a transferência original do atributo dos cinco elementos pela circulacao de Zhou Tian por uma transferência fixa priorizando "Vajra" para "Puro Yang".
+
+Transformacao do Fogo em Terra
+Consome forca interna adicional, substituindo a transferência original do atributo dos cinco elementos pela circulacao de Zhou Tian por uma transferência fixa priorizando "Puro Yang" para "Retorno à Origem".
+
+Metal Nascendo da Terra
+Consome forca interna adicional, substituindo a transferência original do atributo dos cinco elementos pela circulacao de Zhou Tian por uma transferência fixa priorizando "Vajra" para "Retorno à Origem".
+
+Domínio da Água sobre a Terra
+Consome forca interna adicional, substituindo a transferência original do atributo dos cinco elementos pela circulacao de Zhou Tian por uma transferência fixa priorizando "Xuan Yin" para "Retorno à Origem".
+
+Eliminar o Falso e Restaurar o Real
+Remove os efeitos já circulados durante Zhou Tian e restaura certa quantidade de Determinacao com base nos efeitos removidos.
+
+Retorno à Origem
+Remove os efeitos já circulados durante Zhou Tian.
+

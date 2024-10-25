@@ -1,0 +1,304 @@
+Objeto Estúpido
+Cabeca tonta e apertada, o que há de estranho,\nPernas e pés manchados, barriga preta.\nAsas cobertas de emplastro,\nSó serve para alimentar galinhas.
+Agulha de Bordado
+Belo nome chamado Agulha de Bordado,\nDentro da boca, um espinho com veneno profundo.\nAviso a todos os insetos para se afastarem,\nUm descuido pode ferir o corpo.
+Lanca de Duas Pontas
+Sem cauda e curta, é a mais perigosa,\nInseto grande, mas nao é forte.\nPernas longas, garras afiadas e invertidas,\nFamosa como a Lanca de Duas Pontas.
+Sino de Vento
+Asas tilintam como sinos de bronze,\nSom hipnotizante como se capturasse a alma.\nSino de Vento nao importa a cor,\nGarante vitória em cem batalhas.
+Amarelo Corredor
+General dourado com pernas rápidas,\nCorre como o vento.\nCorre pelo prato como um cavalo,\nNaturalmente famoso a mil milhas.
+Enxada de Jade
+Nome mais belo é Enxada de Jade,\nCarne branca, dentes negros, quem se compara?\nRosto preto, cabeca e pés grandes,\nCertamente vence em todas as estacoes.
+Armadura de Manto
+Todo coberto como um general,\nPontas das asas afiadas, boca pesada.\nBem amarrado e resistente à batalha,\nVarre os insetos comuns e reina supremo.
+Nome Invertido
+Prata e ouro se cruzam como passos de cavalo,\nTesta de tigre com fios finos e transparentes.\nTemperamento feroz como fogo, incontrolável,\nInsetos tremem ao vê-lo.
+Testa de Cinábrio
+Testa vermelha, topo azul, asas douradas,\nPernas brancas como neve.\nGarras pretas como tinta,\nInsetos tremem ao vê-lo.
+Cabeca de Monge
+Cabeca preta sem caminho, toda brilhante,\nUma linha prateada na testa.\nNao importa a cor, azul, amarelo, vermelho ou branco,\nPescoco largo, corpo longo, rei dos grilos.
+Bala de Ferro
+Ferro fundido em forma de bala,\nCabeca preta sem estrelas.\nGarras brancas desde o nascimento,\nAssusta até os generais.
+Barba Vermelha
+Barbas vermelhas, cheias de energia,\nCabeca azul, pescoco azul, corpo todo azul.\nBarbas longas como fios de palmeira,\nGarras brancas como prata.
+Cauda de Jade
+Cabeca redonda, corpo roxo, pescoco largo,\nPernas longas, cintura grossa.\nGeneral de garras vermelhas, famoso,\nPor causa da cauda dupla branca como neve.
+Lâmpada de Papel
+Cabeca redonda, pernas fortes, corpo amarelo,\nAsas lisas como óleo, carne azulada.\nGarras vermelhas como sangue,\nRei dos insetos.
+Três Cores Verdadeiras
+Cabeca roxa, pescoco azul, pelos longos,\nAsas douradas, carne azulada.\nPernas longas, manchas brancas,\nGarras vermelhas, ninguém se compara.
+Três Segmentos de Grama
+Cabeca cheia de pó branco, uvas roxas,\nSem padroes, como pelos azuis.\nAsas prateadas leves,\nNome de três segmentos, também é alto.
+Amarelo Púrpura Verdadeiro
+General mutante, cor diferente,\nCorpo dourado, obra divina.\nGarras vermelhas, garras como sangue,\nInseto transformado de centopeia.
+Asas de Flor de Ameixa
+Forma natural como aranha,\nDuas manchas de flor de ameixa nas costas.\nPernas longas, barriga como jade,\nGarras pretas, únicas no mundo.
+Azul Celeste
+Nem azul, nem preto, nem amarelo,\nBrilha como luz celestial.\nCor muda com o tempo,\nRei dos insetos, raro em mil anos.
+Três Segmentos de Brocado
+Cabeca de linho, pescoco azul, asas douradas,\nCorpo branco, garras longas, seis pernas brilhantes.\nCintura larga, costas largas,\nNome de flor de três segmentos de Sichuan.
+Terceiro Príncipe
+Pescoco vermelho como fogo, com fita vermelha,\nCorpo coberto de cinco cores, pisando em estrelas vermelhas.\nBarbas e cauda douradas como lancas,\nInvencível nos três altares, assustando deuses e demônios.
+Oito Derrotas
+Este inseto é todo derrotado,\nUm em um milhao, verdadeiramente absurdo.\nTao feio, nao o despreze,\nOito derrotas completas, é o rei dos insetos.
+Azul Verdadeiro
+Cabeca azul como uma semente de lótus,\nPelos azuis tingidos de índigo.\nGarras brancas como gergelim,\nLuta até o fim, trazendo alegria.
+Amarelo Verdadeiro
+Cor dourada natural, corpo amarelo,\nPernas como folhas de ouro.\nGarras pretas,\nInvencível contra todos os insetos.
+Púrpura Verdadeiro
+Como um manto púrpura,\nCabeca forte, pescoco peludo.\nGarras longas como sangue,\nPrimeiro no campo de batalha.
+Vermelho Verdadeiro
+Olhos como pimenta, corpo vermelho,\nPernas como gelo, barbas e cauda iguais.\nNao tema inimigos,\nMorde até a morte, sempre vence.
+Preto Verdadeiro
+Preto como tinta,\nSem outra cor.\nGarras brancas como prata,\nPrimeiro general.
+Branco Verdadeiro
+Cabeca branca, pescoco branco, asas prateadas,\nParece gelo.\nGarras vermelhas como agulhas,\nSem carne, como um general.
+Cabeca de Caqui
+Rosto como caqui, cabeca achatada,\nUm encontro e desmaia.
+Cabeca Rasa
+Cabeca curta, rosto plano, pescoco raso,\nAparência sem valor.
+Cabeca Redonda
+Cabeca redonda, pequena mas cheia,\nCorpo longo, costas curvadas, nada estranho.
+Cabeca Pontuda
+Cabeca pontuda, garras afiadas,\nAparência feroz, nao subestime.
+Cabeca Quadrada
+Cabeca quadrada, olhos altos, temperamento forte,\nMandíbulas largas, testa larga, garras afiadas.
+Cabeca Grande
+Pescoco largo, cabeca grande, forca forte,\nCoragem e forca, sem dúvida.
+Cabeca de Linho
+Cabeca coberta de fios de linho,\nVence no campo, floresce.
+Rosto Preto
+Rosto longo como um fogao preto,\nNome forte.
+Testa Vermelha
+Ponto vermelho na testa como sangue,\nMorde até a morte, mostrando ferocidade.
+Caldeirao de Ouro
+Cabeca larga, olhos grandes, testa dourada,\nTrês batalhas por dia, sempre vence.
+Cabeca de Três Pontas
+Três pontas, cabeca alta,\nVence em todos os campos.
+Cabeca de Pedra Preciosa
+Cabeca esculpida como pedra preciosa,\nTransparente, brilhante.
+Cabeca de Âmbar
+Cabeca como âmbar, olhos como jade,\nMorde e afasta todos os insetos.
+Cabeca de Borboleta
+Olhos altos, testa saliente,\nNome de borboleta, difícil de perder.
+Caldeirao de Jade
+Testa com jade branco, redonda como pérola,\nInestimável.
+Cabeca de Libélula
+Testa alta, olhos salientes, como libélula,\nInsetos tremem ao vê-lo.
+Cabeca de Lótus
+Cabeca redonda, cheia, pescoco largo,\nQuatro lados brilhando como pérolas.
+Cabeca de Estrela da Longevidade
+Cabeca amarela, pescoco alto,\nCabeca de estrela amarela, testa alta.
+Asas Redondas
+Asas redondas, pequenas, sem pontas,\nCorpo longo, carne solta.
+Asas Quadradas
+Asas quadradas, grossas,\nBarriga vazia, nao serve para lutar.
+Asas Pontudas
+Corpo leve, asas pontudas,\nLongas como espadas.
+Asas Largas
+Asas largas como dominós,\nSem pontas, cauda curta.
+Costas Pretas
+Asas como tinta preta, bem amarradas,\nSem outra cor ao redor.
+Asas Erguidas
+Asas erguidas silenciosas, mais poderosas,\nCabeca grande, garras longas, certamente vitoriosas.
+Asas Yin-Yang
+General veste roupas estranhas,\nDifícil distinguir macho de fêmea, realmente raro.
+Roupas Rasgadas
+Roupas esfarrapadas, carne azulada,\nInsetos de outono ficam assustados ao ver.
+Roupas Longas
+Pernas brancas, cintura redonda, asas até a cauda,\nCabeca grande, pescoco largo, roupas douradas longas.
+Asas Roxas
+Corpo largo, pescoco largo, asas enrugadas,\nGeneral de manto roxo, absolutamente maravilhoso.
+Costas Prateadas
+Asas como prata, carne como geada,\nSaiba que este é um inseto incomum.
+Asas Voadoras
+Aranha voadora, boa de luta, corpo leve,\nGeneral vence em cem batalhas.
+Asas de Vidro
+Esculpidas em branco jade, duas asas,\nLeves e prateadas, quase transparentes.
+Asas de Ouro Preto
+Asas pretas como tinta, brilhando dourado,\nVarre todos os insetos, invencível.
+Asas de Ouro Azul
+Como folhas de bambu cobertas de ouro,\nRoupas longas até a cauda, cheias de espírito.
+Asas de Pipa
+Pescoco de pipa com ouro,\nCabeca pequena, garras longas, corpo dourado.
+Conexao Ziwud
+Conexao esquerda, temperamento feroz como fogo,\nTroca frequente ao meio-dia e meia-noite.
+Roupas de Seda Bordada
+Duas asas estendidas como pássaros voando,\nFamosas no mundo, roupas de seda bordada.
+Dentes de Água
+Um par de dentes brilhantes como água,\nParecem arroz glutinoso cozido.
+Dentes Floridos
+Dentes sem cor, sem forca,\nMais derrotas do que vitórias, por que duvidar?
+Dentes Amarelos
+Dentes amarelos oleosos, largos e grossos,\nMesmo que venca, nao dura muito.
+Dentes Roxos
+Dentes roxos profundos como tinta,\nMata insetos de outono, assustando pessoas.
+Dentes Brancos
+Dentes longos, finos e brancos, afiados como espadas,\nGeneral danca com fitas brancas na frente da batalha.
+Dentes Vermelhos
+Um par de dentes vermelhos, longos e finos,\nNa batalha, trocam golpes como trovoes.
+Dentes de Gergelim
+Manchados, um par de dentes,\nQuadrados, rosto de caveira.
+Pincas Floridas Roxas
+Dentes com linhas roxas e pretas,\nValente e bom de luta, invejado por todos.
+Dentes Tecidos
+Linhas pretas, conectadas em todas as direcoes,\nUm dente com duas linhas, raro de ver.
+Dentes de Guilhotina
+Um par de guilhotinas de bronze na boca,\nInsetos só podem entregar suas vidas.
+Dentes de Ovo Florido
+Dentes com manchas pretas em forma de ovo,\nSempre vence nas batalhas.
+Dentes de Pato Mandarim
+Dois dentes diferentes,\nUm vermelho, um branco, realmente impressionante.
+Pincas Vermelhas e Pretas
+Dentes pretos com bordas vermelhas,\nDragao negro na lâmina da faca.
+Pincas de Vela Vermelha
+Dentes largos e grossos, com uma linha,\nBrilho vermelho como sangue.
+Pincas de Bambu
+Raízes grossas, pontas afiadas, brilhantes como prata,\nMais valiosas que pregos de bambu.
+Dentes de Osso Branco
+Secos e sem brilho, cinza e brancos,\nComo ossos de mortos.
+Tranca de Ferro
+Uma linha preta no meio,\nDentes invencíveis, raros no mundo.
+Pincas de Aco Preto
+Dentes pretos como tinta, em forma de trigo sarraceno,\nForjados em aco preto, raros no mundo.
+Olhos Pretos
+Olhos pretos como tinta, salientes,\nTao valiosos, difíceis de encontrar.
+Olhos de Sol e Lua
+Olhos pretos e brancos, claramente distintos,\nFormacao estranha, olhos incomuns.
+Olhos Yin-Yang
+Vermelhos como cinábrio, brancos como jade,\nUm vermelho, um branco, Yin e Yang.
+Três Linhas
+Linhas na testa, três linhas,\nUma linha no meio, vermelha como sangue.
+Uma Linha
+General com uma linha na testa,\nInsetos giram ao morder.
+Oito Linhas
+Cinco ou sete linhas, sem valor,\nInsetos nao podem vencer o rei das oito linhas.
+Carapaca de Tartaruga
+Barriga com carapaca de tartaruga, preta como tinta,\nPernas redondas, pescoco apertado, corpo forte.
+Cinto de Ouro
+Sino vermelho na cintura,\nSempre vitorioso, chamado de cinto de ouro.
+Armadura de Escamas de Dragao
+Costas cobertas de escamas vermelhas,\nGeneral com armadura de flores bordadas.
+Barbas de Pato Mandarim
+General com cauda de faisao na cabeca,\nUma preta, uma vermelha, exibindo bravura.
+Barbas de Bambu
+Barbas de batalha com um nó no meio,\nIndependente da direcao, sao maravilhosas.
+Barbas de Borboleta
+Barbas curtas de borboleta, em forma de tambor,\nAo ver um inimigo, exibe ferocidade.
+Pescoco de Ferro
+Pescoco de ferro, largo e grosso,\nPescoco coberto de pelos, cor intensa.
+Flor de Neve
+Sem pelos no pescoco, nao é inseto,\nPescoco coberto de areia, valioso.
+Manchas Rasgadas
+Pescoco com manchas rasgadas, coberto de pelos,\nVence em todas as estacoes, sempre vitorioso.
+General de Três Garras
+Pernas longas, garras triplas,\nPode carregar mil quilos, arrastando no chao.
+Pernas com Linhas
+Seis pernas parecem quebradas,\nApenas porque fios de prata passam pelas pernas.
+Oito Pernas
+Inseto estranho com oito pernas,\nLongas e afiadas como ganchos, arrastando até a cauda.
+Companheiro da Serpente
+Dentes afiados, corpo estreito, duas caudas vermelhas,\nNao é um inseto comum, é venenoso.
+Portao do Sino Vermelho
+Portao do sino limpo, vermelho como sangue,\nCorpo inteiro limpo, chamado de herói.
+Crianca Vermelha
+Asas vermelhas com manchas de sangue,\nTemperamento feroz como fogo, sem restricoes.
+Barriga Encolhida
+Barriga e costas arredondadas, altas e grossas,\nCorpo forte, barriga apertada, luta por três outonos.
+Núcleo de Tâmara
+Corpo como um núcleo de tâmara, cintura e costas grossas,\nVai e vem mil vezes sem reclamar.
+Oito Cascas
+Cascas caem oito vezes, revelando a verdade,\nMil golpes e refinamentos, corpo de carne azulada.
+Seis Asas Voando
+Manto bordado com camisa de prata,\nSeis asas voando juntas, chamado de invencível.
+Garras Vermelhas
+Garras vermelhas como flores, raras no mundo,\nTesouro entre os insetos, aparência perfeita.
+Grandes Dentes Pesados
+Quatro dentes grandes e pequenos, todos iguais,\nNao é comum, mordida feroz.
+Verde Puro
+Verde
+
+Verde Claro
+
+Verde Branco
+
+Verde Caranguejo
+Verde Casca de Caranguejo
+
+Verde Pesado
+
+Verde Areia
+Verde Areia Vermelha
+
+Amarelo Puro
+Amarelo
+
+Amarelo Claro
+
+Amarelo Escuro
+
+Amarelo Branco
+
+Amarelo Preto
+
+Amarelo Óleo
+
+Roxo Puro
+Roxo
+
+Roxo Claro
+
+Roxo Castanha
+Roxo Castanha
+
+Roxo Preto
+
+Roxo Areia
+Roxo Areia Vermelha
+
+Roxo Branco
+
+Vermelho Puro
+Vermelho
+
+Vermelho Branco
+
+Vermelho Roxo
+
+Vermelho Dourado
+
+Vermelho Crepúsculo
+Vermelho Crepúsculo
+
+Vermelho Sangue
+Vermelho Roma
+
+Preto Puro
+Preto
+
+Preto Cinza
+
+Preto Linho
+
+Preto Tinta
+
+Preto Fogao
+Preto Fogao
+
+Preto Carvao
+
+Branco Puro
+Branco
+
+Branco Fosco
+
+Branco Claro
+
+Branco Florido
+Branco Flor de Cana
+
+Branco Lua
+
+Branco Jade
+
