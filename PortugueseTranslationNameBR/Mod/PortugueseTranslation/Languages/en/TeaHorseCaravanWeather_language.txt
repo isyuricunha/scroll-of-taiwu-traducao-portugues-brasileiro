@@ -1,4 +1,4 @@
-Céu Claro
+Ensolarado
 
 Granizo
 
@@ -6,15 +6,15 @@ Tempestade de Areia
 
 Sol Escaldante
 
-Tempestade Elétrica
+Trovoada
 
-Chuvas Leves
+Chuva
 
-Neve Leve
+Neve
 
-Tempestade de Neve
+Nevasca
 
-Ventania
+Furacão
 
-Névoa
+Nebuloso
 

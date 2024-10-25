@@ -1,304 +1,304 @@
-Objeto Estúpido
-Cabeca tonta e apertada, o que há de estranho,\nPernas e pés manchados, barriga preta.\nAsas cobertas de emplastro,\nSó serve para alimentar galinhas.
-Agulha de Bordado
-Belo nome chamado Agulha de Bordado,\nDentro da boca, um espinho com veneno profundo.\nAviso a todos os insetos para se afastarem,\nUm descuido pode ferir o corpo.
-Lanca de Duas Pontas
-Sem cauda e curta, é a mais perigosa,\nInseto grande, mas nao é forte.\nPernas longas, garras afiadas e invertidas,\nFamosa como a Lanca de Duas Pontas.
-Sino de Vento
-Asas tilintam como sinos de bronze,\nSom hipnotizante como se capturasse a alma.\nSino de Vento nao importa a cor,\nGarante vitória em cem batalhas.
-Amarelo Corredor
-General dourado com pernas rápidas,\nCorre como o vento.\nCorre pelo prato como um cavalo,\nNaturalmente famoso a mil milhas.
-Enxada de Jade
-Nome mais belo é Enxada de Jade,\nCarne branca, dentes negros, quem se compara?\nRosto preto, cabeca e pés grandes,\nCertamente vence em todas as estacoes.
-Armadura de Manto
-Todo coberto como um general,\nPontas das asas afiadas, boca pesada.\nBem amarrado e resistente à batalha,\nVarre os insetos comuns e reina supremo.
-Nome Invertido
-Prata e ouro se cruzam como passos de cavalo,\nTesta de tigre com fios finos e transparentes.\nTemperamento feroz como fogo, incontrolável,\nInsetos tremem ao vê-lo.
-Testa de Cinábrio
-Testa vermelha, topo azul, asas douradas,\nPernas brancas como neve.\nGarras pretas como tinta,\nInsetos tremem ao vê-lo.
-Cabeca de Monge
-Cabeca preta sem caminho, toda brilhante,\nUma linha prateada na testa.\nNao importa a cor, azul, amarelo, vermelho ou branco,\nPescoco largo, corpo longo, rei dos grilos.
-Bala de Ferro
-Ferro fundido em forma de bala,\nCabeca preta sem estrelas.\nGarras brancas desde o nascimento,\nAssusta até os generais.
-Barba Vermelha
-Barbas vermelhas, cheias de energia,\nCabeca azul, pescoco azul, corpo todo azul.\nBarbas longas como fios de palmeira,\nGarras brancas como prata.
-Cauda de Jade
-Cabeca redonda, corpo roxo, pescoco largo,\nPernas longas, cintura grossa.\nGeneral de garras vermelhas, famoso,\nPor causa da cauda dupla branca como neve.
-Lâmpada de Papel
-Cabeca redonda, pernas fortes, corpo amarelo,\nAsas lisas como óleo, carne azulada.\nGarras vermelhas como sangue,\nRei dos insetos.
-Três Cores Verdadeiras
-Cabeca roxa, pescoco azul, pelos longos,\nAsas douradas, carne azulada.\nPernas longas, manchas brancas,\nGarras vermelhas, ninguém se compara.
-Três Segmentos de Grama
-Cabeca cheia de pó branco, uvas roxas,\nSem padroes, como pelos azuis.\nAsas prateadas leves,\nNome de três segmentos, também é alto.
-Amarelo Púrpura Verdadeiro
-General mutante, cor diferente,\nCorpo dourado, obra divina.\nGarras vermelhas, garras como sangue,\nInseto transformado de centopeia.
-Asas de Flor de Ameixa
-Forma natural como aranha,\nDuas manchas de flor de ameixa nas costas.\nPernas longas, barriga como jade,\nGarras pretas, únicas no mundo.
-Azul Celeste
-Nem azul, nem preto, nem amarelo,\nBrilha como luz celestial.\nCor muda com o tempo,\nRei dos insetos, raro em mil anos.
-Três Segmentos de Brocado
-Cabeca de linho, pescoco azul, asas douradas,\nCorpo branco, garras longas, seis pernas brilhantes.\nCintura larga, costas largas,\nNome de flor de três segmentos de Sichuan.
-Terceiro Príncipe
-Pescoco vermelho como fogo, com fita vermelha,\nCorpo coberto de cinco cores, pisando em estrelas vermelhas.\nBarbas e cauda douradas como lancas,\nInvencível nos três altares, assustando deuses e demônios.
-Oito Derrotas
-Este inseto é todo derrotado,\nUm em um milhao, verdadeiramente absurdo.\nTao feio, nao o despreze,\nOito derrotas completas, é o rei dos insetos.
-Azul Verdadeiro
-Cabeca azul como uma semente de lótus,\nPelos azuis tingidos de índigo.\nGarras brancas como gergelim,\nLuta até o fim, trazendo alegria.
-Amarelo Verdadeiro
-Cor dourada natural, corpo amarelo,\nPernas como folhas de ouro.\nGarras pretas,\nInvencível contra todos os insetos.
-Púrpura Verdadeiro
-Como um manto púrpura,\nCabeca forte, pescoco peludo.\nGarras longas como sangue,\nPrimeiro no campo de batalha.
-Vermelho Verdadeiro
-Olhos como pimenta, corpo vermelho,\nPernas como gelo, barbas e cauda iguais.\nNao tema inimigos,\nMorde até a morte, sempre vence.
-Preto Verdadeiro
-Preto como tinta,\nSem outra cor.\nGarras brancas como prata,\nPrimeiro general.
-Branco Verdadeiro
-Cabeca branca, pescoco branco, asas prateadas,\nParece gelo.\nGarras vermelhas como agulhas,\nSem carne, como um general.
-Cabeca de Caqui
-Rosto como caqui, cabeca achatada,\nUm encontro e desmaia.
-Cabeca Rasa
-Cabeca curta, rosto plano, pescoco raso,\nAparência sem valor.
-Cabeca Redonda
-Cabeca redonda, pequena mas cheia,\nCorpo longo, costas curvadas, nada estranho.
-Cabeca Pontuda
-Cabeca pontuda, garras afiadas,\nAparência feroz, nao subestime.
-Cabeca Quadrada
-Cabeca quadrada, olhos altos, temperamento forte,\nMandíbulas largas, testa larga, garras afiadas.
-Cabeca Grande
-Pescoco largo, cabeca grande, forca forte,\nCoragem e forca, sem dúvida.
-Cabeca de Linho
-Cabeca coberta de fios de linho,\nVence no campo, floresce.
-Rosto Preto
-Rosto longo como um fogao preto,\nNome forte.
-Testa Vermelha
-Ponto vermelho na testa como sangue,\nMorde até a morte, mostrando ferocidade.
-Caldeirao de Ouro
-Cabeca larga, olhos grandes, testa dourada,\nTrês batalhas por dia, sempre vence.
-Cabeca de Três Pontas
-Três pontas, cabeca alta,\nVence em todos os campos.
-Cabeca de Pedra Preciosa
-Cabeca esculpida como pedra preciosa,\nTransparente, brilhante.
-Cabeca de Âmbar
-Cabeca como âmbar, olhos como jade,\nMorde e afasta todos os insetos.
-Cabeca de Borboleta
-Olhos altos, testa saliente,\nNome de borboleta, difícil de perder.
-Caldeirao de Jade
-Testa com jade branco, redonda como pérola,\nInestimável.
-Cabeca de Libélula
-Testa alta, olhos salientes, como libélula,\nInsetos tremem ao vê-lo.
-Cabeca de Lótus
-Cabeca redonda, cheia, pescoco largo,\nQuatro lados brilhando como pérolas.
-Cabeca de Estrela da Longevidade
-Cabeca amarela, pescoco alto,\nCabeca de estrela amarela, testa alta.
-Asas Redondas
-Asas redondas, pequenas, sem pontas,\nCorpo longo, carne solta.
-Asas Quadradas
-Asas quadradas, grossas,\nBarriga vazia, nao serve para lutar.
-Asas Pontudas
-Corpo leve, asas pontudas,\nLongas como espadas.
-Asas Largas
-Asas largas como dominós,\nSem pontas, cauda curta.
-Costas Pretas
-Asas como tinta preta, bem amarradas,\nSem outra cor ao redor.
-Asas Erguidas
-Asas erguidas silenciosas, mais poderosas,\nCabeca grande, garras longas, certamente vitoriosas.
-Asas Yin-Yang
-General veste roupas estranhas,\nDifícil distinguir macho de fêmea, realmente raro.
-Roupas Rasgadas
-Roupas esfarrapadas, carne azulada,\nInsetos de outono ficam assustados ao ver.
-Roupas Longas
-Pernas brancas, cintura redonda, asas até a cauda,\nCabeca grande, pescoco largo, roupas douradas longas.
-Asas Roxas
-Corpo largo, pescoco largo, asas enrugadas,\nGeneral de manto roxo, absolutamente maravilhoso.
-Costas Prateadas
-Asas como prata, carne como geada,\nSaiba que este é um inseto incomum.
-Asas Voadoras
-Aranha voadora, boa de luta, corpo leve,\nGeneral vence em cem batalhas.
-Asas de Vidro
-Esculpidas em branco jade, duas asas,\nLeves e prateadas, quase transparentes.
-Asas de Ouro Preto
-Asas pretas como tinta, brilhando dourado,\nVarre todos os insetos, invencível.
-Asas de Ouro Azul
-Como folhas de bambu cobertas de ouro,\nRoupas longas até a cauda, cheias de espírito.
-Asas de Pipa
-Pescoco de pipa com ouro,\nCabeca pequena, garras longas, corpo dourado.
-Conexao Ziwud
-Conexao esquerda, temperamento feroz como fogo,\nTroca frequente ao meio-dia e meia-noite.
-Roupas de Seda Bordada
-Duas asas estendidas como pássaros voando,\nFamosas no mundo, roupas de seda bordada.
-Dentes de Agua
-Um par de dentes brilhantes como água,\nParecem arroz glutinoso cozido.
-Dentes Floridos
-Dentes sem cor, sem forca,\nMais derrotas do que vitórias, por que duvidar?
-Dentes Amarelos
-Dentes amarelos oleosos, largos e grossos,\nMesmo que venca, nao dura muito.
-Dentes Roxos
-Dentes roxos profundos como tinta,\nMata insetos de outono, assustando pessoas.
-Dentes Brancos
-Dentes longos, finos e brancos, afiados como espadas,\nGeneral danca com fitas brancas na frente da batalha.
-Dentes Vermelhos
-Um par de dentes vermelhos, longos e finos,\nNa batalha, trocam golpes como trovoes.
-Dentes de Gergelim
-Manchados, um par de dentes,\nQuadrados, rosto de caveira.
-Pincas Floridas Roxas
-Dentes com linhas roxas e pretas,\nValente e bom de luta, invejado por todos.
-Dentes Tecidos
-Linhas pretas, conectadas em todas as direcoes,\nUm dente com duas linhas, raro de ver.
-Dentes de Guilhotina
-Um par de guilhotinas de bronze na boca,\nInsetos só podem entregar suas vidas.
-Dentes de Ovo Florido
-Dentes com manchas pretas em forma de ovo,\nSempre vence nas batalhas.
-Dentes de Pato Mandarim
-Dois dentes diferentes,\nUm vermelho, um branco, realmente impressionante.
-Pincas Vermelhas e Pretas
-Dentes pretos com bordas vermelhas,\nDragao negro na lâmina da faca.
-Pincas de Vela Vermelha
-Dentes largos e grossos, com uma linha,\nBrilho vermelho como sangue.
-Pincas de Bambu
-Raízes grossas, pontas afiadas, brilhantes como prata,\nMais valiosas que pregos de bambu.
-Dentes de Osso Branco
-Secos e sem brilho, cinza e brancos,\nComo ossos de mortos.
-Tranca de Ferro
-Uma linha preta no meio,\nDentes invencíveis, raros no mundo.
-Pincas de Aco Preto
-Dentes pretos como tinta, em forma de trigo sarraceno,\nForjados em aco preto, raros no mundo.
-Olhos Pretos
-Olhos pretos como tinta, salientes,\nTao valiosos, difíceis de encontrar.
-Olhos de Sol e Lua
-Olhos pretos e brancos, claramente distintos,\nFormacao estranha, olhos incomuns.
-Olhos Yin-Yang
-Vermelhos como cinábrio, brancos como jade,\nUm vermelho, um branco, Yin e Yang.
-Três Linhas
-Linhas na testa, três linhas,\nUma linha no meio, vermelha como sangue.
-Uma Linha
-General com uma linha na testa,\nInsetos giram ao morder.
-Oito Linhas
-Cinco ou sete linhas, sem valor,\nInsetos nao podem vencer o rei das oito linhas.
-Carapaca de Tartaruga
-Barriga com carapaca de tartaruga, preta como tinta,\nPernas redondas, pescoco apertado, corpo forte.
-Cinto de Ouro
-Sino vermelho na cintura,\nSempre vitorioso, chamado de cinto de ouro.
-Armadura de Escamas de Dragao
-Costas cobertas de escamas vermelhas,\nGeneral com armadura de flores bordadas.
-Barbas de Pato Mandarim
-General com cauda de faisao na cabeca,\nUma preta, uma vermelha, exibindo bravura.
-Barbas de Bambu
-Barbas de batalha com um nó no meio,\nIndependente da direcao, sao maravilhosas.
-Barbas de Borboleta
-Barbas curtas de borboleta, em forma de tambor,\nAo ver um inimigo, exibe ferocidade.
-Pescoco de Ferro
-Pescoco de ferro, largo e grosso,\nPescoco coberto de pelos, cor intensa.
-Flor de Neve
-Sem pelos no pescoco, nao é inseto,\nPescoco coberto de areia, valioso.
-Manchas Rasgadas
-Pescoco com manchas rasgadas, coberto de pelos,\nVence em todas as estacoes, sempre vitorioso.
-General de Três Garras
-Pernas longas, garras triplas,\nPode carregar mil quilos, arrastando no chao.
-Pernas com Linhas
-Seis pernas parecem quebradas,\nApenas porque fios de prata passam pelas pernas.
-Oito Pernas
-Inseto estranho com oito pernas,\nLongas e afiadas como ganchos, arrastando até a cauda.
-Companheiro da Serpente
-Dentes afiados, corpo estreito, duas caudas vermelhas,\nNao é um inseto comum, é venenoso.
-Portao do Sino Vermelho
-Portao do sino limpo, vermelho como sangue,\nCorpo inteiro limpo, chamado de herói.
-Crianca Vermelha
-Asas vermelhas com manchas de sangue,\nTemperamento feroz como fogo, sem restricoes.
-Barriga Encolhida
-Barriga e costas arredondadas, altas e grossas,\nCorpo forte, barriga apertada, luta por três outonos.
-Núcleo de Tâmara
-Corpo como um núcleo de tâmara, cintura e costas grossas,\nVai e vem mil vezes sem reclamar.
-Oito Cascas
-Cascas caem oito vezes, revelando a verdade,\nMil golpes e refinamentos, corpo de carne azulada.
-Seis Asas Voando
-Manto bordado com camisa de prata,\nSeis asas voando juntas, chamado de invencível.
-Garras Vermelhas
-Garras vermelhas como flores, raras no mundo,\nTesouro entre os insetos, aparência perfeita.
-Grandes Dentes Pesados
-Quatro dentes grandes e pequenos, todos iguais,\nNao é comum, mordida feroz.
-Verde Puro
-Verde
+StupidThing
+Thickheaded not so strange,\nspotted legs dark belly.\nplaster even covers wings,\nonly good as chicken feeds.
+WeavingNeedle
+Thy name is weaving needle,\nin thy mouth poison wedge resides.\nAll other bug best step aside,\nless they cross mouth at their peril.
+Two-waySpear
+The short tail is the most hurtful,\nand the large insect is not strong.\nThe legs are long and the claws are sharp but they are also upside down,\nand they are famous for saying that they have two guns.
+BlowBell
+The two wings are like brass bells,\nand the sound of the cross mouth is like a soul.\nblowing bells do not need to discuss the color,\ntube called a hundred battles a hundred field win.
+RacingYellow
+General Light Gold has fast legs and feet, \n runs exceptionally to bring the wind. \n full of basin flying like a running horse, \n natural fame for a thousand miles away.
+JadeHoe
+The most famous of all is the jade hoe,\nwho can compare with the white flesh and black teeth.\nIf you have a black face and a big head and feet,\nyou will be able to win all over three autumns.
+ArmoredGeneral
+A body cloaked like a general,\nwing tip sharp cutting clip mouth heavy.\nThe wrapped tightly more resistant to war,\nsweep the regular insects can be called male.
+Anti-Nameless
+Gold and silver intersect with dragon pony steps,\ntiger forehead hanging silk fine transparent.\n The sex is as strong as fire can not stop,\ncome insects to meet the courage will not.
+CinnabarForehead
+The vermilion forehead and green top wings are golden,\nand the fleshy legs are as white as snow.\n more like the double pincers black as lacquer,\nall the insects see the soul to lose.
+ShiningHead
+There is no way a piece of light in the head of Wu,\nforehead in a line such as silver clothing.\nRegardless of the green and yellow and red and white,\nitem broad body long cricket king.
+IronBullet
+Politics is molten into a bullet shape,\nfull of black head without a star.\nThe flesh of the pincers was born white,\nand the eyes of the general were not shocked.
+RedTentacle
+The two beards are pure red to spare the spirit,\ngreen head green item green full body.\nbeard number brown silk long over the tail,\njade column teeth pliers white like silver.
+JadeTail
+The head is round the body is purple the neck is wide,\nand the legs and feet are long and round and the waist is thick.\nGeneral Redtooth is famous,\nonly because of the double tail like snow white.
+OilLamp
+The head is round the legs are strong the body is yellow,\n the wings are smooth like oil the flesh is pale.\nTeeth pincer pair of red as blood,\nthis thing insect is the king.
+TripleColor
+The purple head and green item have long hair,\n golden wings are born with pale meat.\n two legs round long class white,\n red teeth a pair of no one when.
+ThreeCuts
+The head is full of white powder and purple grapes,\n and no texture like green hair.\nThe name of the three sections of the,\n is also like high.
+PurpleYellow
+The color of the changing general is different,\ngolden yellow five bodies to create a divine work.\nclaws and scarlet pincers like blood,\nis originally a centipede changed insect.
+PlumWings
+The shape is born like a spider,\ntwo pieces of plum blossoms on the back to lay.\nlegs and feet round long belly like jade,\nblack teeth a pair of the world without.
+SkyBlue
+It is not green not black not yellow,\nbut shimmers like the light of the sky.\nThere is no fixed color in the morning and evening,\nand it is rare to find this insect king in a thousand years.
+ThreeBrocade
+Hemp head azure wing and gold wings,\nwhite body long teeth and glowing feet.\nBroad back and waist brings thy fame,\nthree brocade of Shu Chuan is thy name.
+ThirdPrince
+Flaming red neck silken thread,\nfive colored body claw starry red.\nbeard and tale golden spear,\nthree altars unmatched even ghost may fear.
+EightLoss
+With this bug all seems lost,\none in thousands are this bost.\nThough its ugly do not toss,\nonly kings have all eight loss.
+TrueAzure
+The green head is like a linden seed,\ndyed with indigo on the top of the hair.\ntooth bell more sesame white,\nlet you fight all happy feelings.
+TrueYellow
+He is born golden and yellow all over his body,\nand his flesh and legs are like gold foil.\nA new set of teeth,\nwhich can't be used against all kinds of insects.
+TruePurple
+The purple one is like wearing a purple robe,\nhead thick rigid item like hair.\npincers more slender like blood,\nexclusive field in the first ho.
+TrueRed
+The eyes are as red as pepper,\nand the legs and feet are as frosty as the tail.\nIf you meet your enemy don't be afraid,\nseveral times bite dead and successful.
+TrueBlack
+The black one must be like lacquer when the head,\ncarefully look like no other color.\nIn the middle of the tooth belly white as silver,\nto make the general for the first.
+TrueWhite
+White head and white item wings like silver,\non the hand view to a like ice.\ndate red teeth such as needle sharp,\ntotal boneless flesh like a general.
+FlatHead
+Face as flat as a persimmon head,\nonly a cross mouth to faint.
+ShallowHead
+Short head flat face no depth,\nsuch a look is enough to regret.
+CircleHead
+Although the round head is small ingot sufficient, \n body long back hunch is not rare.
+TipHead
+The forehead is sharp to teeth and mouth, \n fighting phase ferocious naughty can not be deceived.
+SquareHead
+Head square eyes high sex just strong, \n cheeks wide forehead wide teeth sharp hide.
+BigHead
+Xiang Kuan head is strong, \n own brave power Mo discussion.
+WrinkleHead
+The head is densely packed with fighting silk, \n the field is won all over the flower.
+BlackFace
+A long face like a stove black, \n this thing name is strong Liang.
+RedForehead
+When the head of a bit like blood red, \n bite dead insects to do all the evil.
+GoldTripot
+Head wide eyes large forehead smeared gold, \n day delivery three times also still win.
+ThreeTips
+Three sides out of the corner ingot high knot, \n win full of thousands of thousands of fields.
+GemHead
+Gemstone carved into six-sided angle, \n exquisite clear sparkling crystal light.
+AmberHead
+Head like amber star like jade, \n bite back the insects do not return to the Bureau.
+ButterflyHead
+Two eyes towering star gate protruding, \n the name of the butterfly is difficult to lose.
+JadeTripot
+The forehead hanging white jade round like a pearl, \n thousand gold does not change the jade dragon horse.
+DragonflyHead
+The high forehead and eyes of dragonfly-like, \n the insects can not see when.
+BodhiHead
+The round head is full and the item is wide and comfortable, \n four sides of the knotted ingot like a pearl.
+StarHead
+Head yellow item le foot Xuanang, \n yellow jade star head rung on the forehead.
+RoundWings
+The round wings are short and the tips are not sharp, \n the waist is long and thin and the meat is loose.
+SquareWings
+The two wings are square and thick, \n belly and tail are empty and unbearable to fight.
+TipWings
+The body is light and the tip of the wing is pointed, \n slender as if two swords.
+WideWings
+The broad wings are born similar to dominoes, \n the coat wings without horns and short tail fronts.
+DarkBack
+The wings are wrapped tightly like a dotted lacquer,\nand there is no other color when you look around.
+WarpWings
+The wings are silent and the sex is the most masculine, \n the head and the big teeth are long and determined to establish the work.
+YinYangWings
+The general was born wearing strange clothes, \n the male and female can not identify really rare.
+RottenClothes
+Ragged clothes with pale flesh, \n autumn insects see since the panic.
+LongClothes
+Legs white waist round wings flush tail, \n head large item broad gold long coat.
+PurpleWings
+Body wide item broad wings wrinkled text, \n purple robe general wonderful.
+SilverBack
+The wings look like pavement silver flesh like frost, \n to know this thing is unusual.
+FlyWings
+Flying spiders are good at fighting light body, \n general hundred battles won.
+GlassWings
+Jade white carved into two pieces of wings, \n light thin light silver seems transparent.
+DarkgoldWings
+Wings black as ink bloom golden light, \n sweep all the insects can not be when.
+AzuregoldWings
+As if the bamboo leaves are paved with gold, \n long clothes Qiwei gods are full.
+LuteWings
+Pipa item with pin gold, \n head small teeth long body like gold.
+Meridian
+The left hitching nature is fierce like fire, \n the hour of the son and noon change frequently.
+BrocadeRaincoat
+The two wings are spread flat like a bird flying, \n famous for the world's brocade strawberry.
+Watertooth
+A payment of teeth watery, \n as if glutinous rice cooked into soup.
+Flowertooth
+The tooth color does not distinguish the powerlessness, \n win less lose more why doubt.
+Yellowtooth
+The yellow teeth are wide and broad,\nand even if they win, it will not last long.
+Purpletooth
+Deep purple teeth thick like ink, \n bite kill autumn insects people lose color.
+Whitetooth
+Long teeth fine white sharp as a sword, \n general front dance white practice.
+Redtooth
+Red teeth a pair of long and thin, \n combined battle engagement like a thunderbolt.
+Sesametooth
+Spotted teeth pair, \n four square skeleton face.
+AlfalfaClamp
+In the teeth hanging line purple and black, \n primus inter pares enviable.
+Weavingtooth
+Black lines up and down left and right even, \n a tooth double line is not common.
+Cuttertooth
+A copper guillotine in the mouth, \n come insects had to hand over their lives.
+Eggtooth
+The black spots on the teeth look like egg-shaped, \n since the mouth is cross field win.
+MandarinDuckTooth
+The other side was born with two teeth, \n one red and one white is really praiseworthy.
+BlackredClamp
+Black edge teeth color deep red, \n ghost head knife on go oolong.
+CandleClamp
+Thick and wide fangs open a line, \n vermilion light flashing red like blood.
+NailClamp
+Root thick head sharp bright as silver, \n the most expensive but sharp bamboo nails.
+Bonetooth
+Dry, clean and grayish white, \n dead bones generally the same.
+Irongate
+A black stripe across the middle, \n teeth in the invincible world hard to see.
+StellClamp
+Black teeth such as lacquer buckwheat-shaped, \n wool steel cast into the world rare.
+Blackeye
+Eyes like black lacquer on the surface of the sudden, \n this kind of expensive phase is the most difficult to find.
+Sunmooneye
+It seems to be black and white, \n dissimilar to generate strange eyes.
+YinYangEye
+Red like tansy and white like jade, \n a red and a white divided into yin and yang.
+ThreeLines
+The forehead of the bucket of silk is divided into three lines, \n one of the red as blood.
+SingleLine
+The general when the head of a line, \n come insects cross mouth will play spin.
+EightLines
+The five or seven dou silk is not enough, \n the insects will not compete with the eight lords.
+Turtleshell
+The belly with turtle armor black like lacquer, \n legs round item tight body powerful.
+Goldenbelt
+Red bell if you get full waist born, \n often win the number for the gold belt.
+Dragonscale
+Full back was born with red bell armor, \n general draped with prickly brocade flowers.
+MandarinDuckTentacle
+General head pheasant tail shake, \n a black and red heroic.
+BambooTentacle
+There is a section in the middle of the battle beard, \n regardless of the left and right are wonderful.
+ButterflyTentacle
+Butterfly beard short drum cone, \n a see enemy insects show fierce madness.
+IronNeck
+The iron skin neck is wide and broad, and the color of the raw mushroom on the \n item is thick.
+Snowflake
+No hair on the neck is not a worm, \n full of items laying sand expensive different.
+RottenSpot
+Item born rotten spot Mao Sha heavy, \n win all three autumn full red.
+Trident
+The legs and feet round long claws three hooks, \n can top a thousand pounds dragging the ground away.
+Linefoot
+Six feet view seems to be broken off, \n only because the silver wire through the legs.
+Eightfoot
+Eight-legged monster insect legs and feet, \n pointed long as a hook and hip drag.
+SnakePal
+Tooth-tipped body narrow two tails red, \n not more than ordinary is a poisonous insect.
+RedBell
+The bell door fine clean red like blood, \n through the body clear No Yingjie.
+RedChild
+The wing coat is red and blood-spotted, \n the sex is as strong as fire without cover.
+Shrink
+The back of the belly is round and high and thick, \n body strong belly tight fight three autumn.
+Jujube
+The body is as thick as the waist and back of a date, \n the exchange of a thousand times without saying mouth.
+EightShell
+Shell off eight times now the truth, \n thousand hammering flesh pale.
+SixWings
+The brocade robe also wears a silver shirt, \n six wings flying together No Invincible.
+RedClaw
+The claw flower red world rare, \n insects in the treasure of the product phase.
+Heavytooth
+Four teeth of the same general size, \n not more than the ordinary bite fierce.
+PositiveGreen
+Cyan
 
-Verde Claro
+LightGreen
 
-Verde Branco
+BaiQing
 
-Verde Caranguejo
-Verde Casca de Caranguejo
+CrabGreen
+CrabShellGreen
 
-Verde Pesado
+HeavyGreen
 
-Verde Areia
-Verde Areia Vermelha
+SandGreen
+RedSandGreen
 
-Amarelo Puro
-Amarelo
+PositiveYellow
+Yellow
 
-Amarelo Claro
+PaleYellow
 
-Amarelo Escuro
+DarkYellow
 
-Amarelo Branco
+WhiteAndYellow
 
-Amarelo Preto
+BlackAndYellow
 
-Amarelo Óleo
+OilyYellow
 
-Roxo Puro
-Roxo
+PositivePurple
+Purple
 
-Roxo Claro
+LightPurple
 
-Roxo Castanha
-Roxo Castanha
+ChestnutPurple
+ChestnutPurple
 
-Roxo Preto
+BlackViolet
 
-Roxo Areia
-Roxo Areia Vermelha
+SandPurple
+RedSandPurple
 
-Roxo Branco
+WhiteViolet
 
-Vermelho Puro
-Vermelho
+PositiveRed
+Red
 
-Vermelho Branco
+WhiteRed
 
-Vermelho Roxo
+VioletRed
 
-Vermelho Dourado
+GoldenRed
 
-Vermelho Crepúsculo
-Vermelho Crepúsculo
+XiaHong
+SunsetRed
 
-Vermelho Sangue
-Vermelho Roma
+BloodRed
+GarnetRed
 
-Preto Puro
-Preto
+PositiveBlack
+Black
 
-Preto Cinza
+GreyAndBlack
 
-Preto Linho
+HempAndBlack
 
-Preto Tinta
+MurkyBlack
 
-Preto Fogao
-Preto Fogao
+StoveBlack
+PotBlack
 
-Preto Carvao
+CarbonBlack
 
-Branco Puro
-Branco
+PositiveWhite
+White
 
-Branco Fosco
+DumbWhite
 
-Branco Claro
+PaleWhite
 
-Branco Florido
-Branco Flor de Cana
+GrizzledWhite
+RutabagaWhite
 
-Branco Lua
+MoonWhite
 
-Branco Jade
+JadeWhite
 

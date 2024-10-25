@@ -1,32 +1,32 @@
-A chance de o ataque do arma do hospedeiro atingir o inimigo é reduzida em adicional.
-A chance de o ataque do arma do hospedeiro atingir o inimigo é aumentada em adicional.
-O hospedeiro perderá alguns itens quando houver mudanca de mês.
-<SpName=sp_icon_poison_3><color=#redpoison>Veneno Vermelho</color> nascerá quando o consumo de veneno exceder 40%.
-Quando o hospedeiro sofre um ataque de veneno, ele recebe um marcador de atordoamento adicional.
-Quando o hospedeiro sofre um ataque de veneno, o inimigo recebe um marcador de atordoamento adicional.
-Quando houver mudanca de mês, o hospedeiro também sentirá aversao inexplicável por aqueles com quem a simpatia diminuiu significativamente e será mais propenso a buscar vinganca contra inimigos.
-<SpName=sp_icon_poison_1><color=#gloomypoison>Veneno Sombrio</color> nascerá quando o consumo de veneno exceder 40%.
-A vulnerabilidade e o nível de bloqueio do hospedeiro aumentam em 1 nível.
-A vulnerabilidade e o nível de bloqueio do hospedeiro diminuem em 1 nível.
-A energia interna do hospedeiro será desordenada devido ao nível de ferimentos quando houver mudanca de mês.
-<SpName=sp_icon_poison_4><color=#rottenpoison>Veneno Podre</color> nascerá quando o consumo de veneno exceder 40%.
-Quando a energia verdadeira do hospedeiro diminui, uma energia verdadeira aleatória do hospedeiro diminui ainda mais em 1 ponto.
-Quando a energia verdadeira do hospedeiro aumenta, uma energia verdadeira aleatória do hospedeiro aumenta ainda mais em 1 ponto.
-O aumento da corrupcao e do demônio do hospedeiro quando há mudanca de mês será multiplicado por 10.
-Quando a diferenca entre o consumo de todos os tipos de veneno for inferior a 10%, nascerá obrigatoriamente.
-Se a saúde do hospedeiro estiver acima de 50%, o dano por ferimento grave que o hospedeiro sofre aumenta adicionalmente e quanto mais o dano por ferimento grave aumenta, mais a saúde do hospedeiro diminui.
-Se a saúde do hospedeiro estiver acima de 50%, o dano por ferimento grave que o hospedeiro sofre é reduzido adicionalmente e quanto mais o dano por ferimento grave diminui, mais a saúde do hospedeiro diminui.
-A saúde do hospedeiro nao pode ser recuperada devido ao estado da energia interna durante a mudanca de mês.
-Quando <SpName=sp_icon_poison_0><color=#hotpoison>Veneno Intenso</color><SpName=sp_icon_poison_3><color=#redpoison>Veneno Vermelho</color><SpName=sp_icon_poison_4><color=#rottenpoison>Veneno Podre</color> excedem 30% do consumo de veneno, nascerao obrigatoriamente.
-A chance de a técnica ou arma do hospedeiro ser selada aumenta adicionalmente.
-A chance de a técnica ou arma do hospedeiro ser selada diminui adicionalmente.
-A forca interna do hospedeiro nao pode ser recuperada durante a mudanca de mês e será grandemente perdida.
-<SpName=sp_icon_poison_2><color=#coldpoison>Veneno Frio</color> nascerá quando o consumo de veneno exceder 40%.
-O efeito de supressao da pureza na técnica de pureza concedida por purificacao, passos divinos e transformacao é reduzido.
-O efeito de supressao da pureza na técnica de pureza concedida por purificacao, passos divinos e transformacao é aumentado.
-Durante a mudanca de mês, o Rei Larva de Seda Dourada também devorará aleatoriamente uma larva de cristal no corpo do hospedeiro e aplicará uma grande quantidade de veneno ao hospedeiro.
-<SpName=sp_icon_poison_0><color=#hotpoison>Veneno Intenso</color> nascerá quando o consumo de veneno exceder 40%.
-Os efeitos positivos das "Características" do hospedeiro sobre todas as principais e secundárias propriedades, acerto, resolucao, ataque, defesa e qualidades mudarao temporariamente para efeitos negativos.
-Os efeitos negativos das "Características" do hospedeiro sobre todas as principais e secundárias propriedades, acerto, resolucao, ataque, defesa e qualidades mudarao temporariamente para efeitos positivos.
-Todas as pessoas que têm contato com a pele do hospedeiro serao infectadas por uma larva de cristal nao identificada.
-Quando <SpName=sp_icon_poison_1><color=#gloomypoison>Veneno Sombrio</color><SpName=sp_icon_poison_2><color=#coldpoison>Veneno Frio</color><SpName=sp_icon_poison_5><color=#illusorypoison>Veneno Ilusório</color> excedem 30% do consumo de veneno, nascerao obrigatoriamente.
+The host's weapon attacks will have an additionally reduced chance of hitting the enemy.
+The host's weapon attacks will have an additionally increased chance of hitting the enemy.
+The host will lose a part of their items every month.
+It certainly will be born when <SpName=sp_icon_poison_3><color=#redpoison>Pyrotoxin</color> consumption reaches 40%
+The host will receive 1 Daze Marker whenever host's Poison activates.
+The host will receive 1 Daze Marker whenever enemy's Poison activates.
+Every month, the host might start Hating the characters whose Favor has dropped significantly, and will more easily seek revenge on their enemies.
+It certainly will be born when <SpName=sp_icon_poison_1><color=#gloomypoison>Umbritoxin</color> consumption reaches 40%
+Level of Weak Points and Sealed Acupoints received by the host will increase by 1 level
+Level of Weak Points and Sealed Acupoints received by the host will reduced by 1 level
+The host's Inner Breath will become disordered based on the level of Injuries they have
+It certainly will be born when <SpName=sp_icon_poison_4><color=#rottenpoison>Necrotoxin</color> consumption reaches 40%
+宿主的真气减少时，使宿主随机类型的真气再减少2点。
+宿主的真气增加时，使宿主随机类型的真气再增加2点。
+Every month, the host's demonization value will be increased by 10 times.
+It certainly will be born if all types of poison consumption are within 10% of each other
+If the host's Health is not lower than 50%, the host's Fatal Wound damage taken will be additionally increased, and whenever the host's Fatal Wound damage taken gets increased, the host's Health will also be reduced.
+If the host's Health is not lower than 50%, the host's Fatal Wound damage taken will be additionally decreased, but whenever the host's Fatal Wound damage taken gets decreased, the host's Health will also be reduced.
+Inner Breath state won't recover the host's Health every month.
+It certainly will be born when <SpName=sp_icon_poison_0><color=#hotpoison>Acritoxin</color>, <SpName=sp_icon_poison_3><color=#redpoison>Pyrotoxin</color>, and <SpName=sp_icon_poison_4><color=#rottenpoison>Necrotoxin</color> consumption reaches 30% each
+Sealing chance of the host's techniques and weapons will be additionally increased.
+Sealing chance of the host's techniques and weapons will be additionally decreased.
+The host's Internal Energy will not be restored every month, and will instead be greatly depleted.
+It certainly will be born when <SpName=sp_icon_poison_2><color=#coldpoison>Cryotoxin</color> consumption reaches 40%
+The pure essence suppression effects of the host's Cleanse Impurities, Divine Step, and Naturalization pure essence realms will be reduced.
+The pure essence suppression effects of the host's Cleanse Impurities, Divine Step, and Naturalization pure essence realms will be increased.
+The Golden Silkworm Gu King will devour 1 random Mature Gu in the host's body every month to apply a large amount of Poisons to the host
+It certainly will be born when <SpName=sp_icon_poison_0><color=#hotpoison>Acritoxin</color> consumption reaches 40%
+The positive effects to Main Stats, Secondary Stats, Accuracy, Resolve, Attack, Defend, and Talent from the host's positive "Traits" will temporarily change to negative effects.
+The negative effects to Main Stats, Secondary Stats, Accuracy, Resolve, Attack, Defend, and Talent from the host's negative "Traits" will temporarily change to positive effects.
+All characters who spend a Spring Night with the host will be implanted with an untamed Premature Azure Marrow Gu.
+It certainly will be born when <SpName=sp_icon_poison_1><color=#gloomypoison>Umbritoxin</color>, <SpName=sp_icon_poison_2><color=#coldpoison>Cryotoxin</color>, and <SpName=sp_icon_poison_5><color=#illusorypoison>Oneirotoxin</color> consumption reaches 30% each

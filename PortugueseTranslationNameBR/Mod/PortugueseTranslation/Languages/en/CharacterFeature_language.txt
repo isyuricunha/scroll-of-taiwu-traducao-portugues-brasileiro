@@ -1005,14 +1005,14 @@ Blessed people are immune to natural disasters...
 
 Unpolished Jade
 
-Unpolished jade awaits to be polished into a precious stone...\nYour efficiency in studying Fine Arts is far above ordinary people.\nGreatly improves your Reading Efficiency when studying Fine Art books (by 30%).
+Unpolished jade hides its light, awaiting to be polished...
 
-
+<color=#brightblue>When studying Fine Art books, the Study Efficiency will be much higher than that of ordinary people.</color>
 Restrained Sharp Edge
 
-The sharp edge is restrained, the hidden dragon awaits to break free...\nYour efficiency in studying Martial Arts is far above ordinary people.\nGreatly improves your Reading Efficiency when studying Martial Art books (by 30%).
+Divine blade restrains its color, roaring like a dragon in a scabbard...
 
-
+<color=#brightblue>When studying Martial Art books, the Study Efficiency will be much higher than that of ordinary people.</color>
 Narcissus in Dream
 
 For a dreamland visitor, appearance is not important...\nYou have a unique charm. It seems like everyone has seen you in their dreams, causing your appearance to no longer be important.
@@ -1310,9 +1310,9 @@ Black Feather Cries
 Blessed by the crowing of black-feathered chickens. \n Black-feathered chickens have bright red crowns, shiny green and black feathers, and a beautiful, upright posture, and can only be raised in the wild to feed on insects and herbs.
 
 
-quail tail gives cry
+Quail Tail's Cry
 
-Blessed by the cry of the quail tail. \nIt is said that the quail-tailed chicken was born in the south of the Vermilion Bird, one of the four signs of the sky, and the tail of the seven constellations is called the quail's tail. Therefore, its head is like a chicken, short tail like a quail, strange and lovely, when the Han Dynasty, someone to its shape painted on the bronze mirror to resemble the vermilion bird.
+Blessed by the cry of the Quail Tail Chicken.\nVermilion Bird of the South is one of the Four Symbols of celestial sky, and among its seven mansions, the seventh is called Quail Tail. It is said that the Quail Tail Chicken has been born in this mansion. Therefore, its head is as high as a chicken's, and its tail is as short as a quail's. It is strange and cute. In the Han Dynasty, someone painted its shape on a bronze mirror to resemble the Vermilion Bird.
 
 
 Horse and Chicken Giving Cries
@@ -2573,7 +2573,7 @@ Using the method of eight deaths, they interconnected their life with the spent 
 <color=#brightred>Not only decreases lifespan, but also decreases the power of <color=#68eb6b>Earth</color> techniques...</color>\n「Spent」: <color=#brightred>When being attacked by the enemy's <color=#68eb6b>Earth</color> or <color=#c682ff>Wood</color> techniques that reach full completion, they will have a 25% chance to deal critical hits and cause backlash damage from the technique...</color>
 Little Caution
 
-Tasked with the solemn duty of safeguarding the treasury, not for a single moment has there been any lapse in vigilance. Within the grounds, meticulous preparations have been made, garnering substantial support from all present. Fearless in times of peril, every strategic advantage has been seized. It is accurate to describe this individual as steadfastly holding the pass, against which even thousands cannot prevail...
+Tasked with the solemn duty of safeguarding important places such as treasuries, prisons, etc., not for a single moment has there been any lapse in vigilance. Within the grounds, meticulous preparations have been made, garnering substantial support from all present. Fearless in times of peril, every strategic advantage has been seized. It is accurate to describe this individual as steadfastly holding the pass, against which even thousands cannot prevail...
 
 <color=#brightblue>Guarding the treasury is an important matter, causing each and every guard to be united both in attacking and defending, allowing them to receive bonuses from their companions to Accuracy, Resolve, Attack, and Defense stats, as well as the power of techniques; They also can very often use teammate orders during battle.</color>
 Prepared for Action
@@ -2663,5 +2663,25 @@ Friend from the Valley
 Wooden Body
 
 An unknown artisan crafted this wooden figure, which harbors a universe within. It appears to mimic specific formidable foes, providing Taiwu with the means to hone and refine martial skills...
+
+
+Visitor's Incomplete Form
+
+The mysterious youth who came from beyond the sky was burned by heavenly fire, and lost his feathered robe that transformed him into his true form...
+
+
+Vermilion Bird's Incomplete Form
+
+The young man, who came from beyond the sky, was actually an incarnation of the Vermilion Bird, and although he regained the feathered clothes woven from the precious feathers of Chickens, he was bound by the "Golden Thread", and was unable to take on his true form...
+
+
+Vermilion Bird's Incarnation
+
+The Vermilion Bird that came from beyond the sky draped the feathered clothes woven from the precious feathers of Chicken over its body, and was finally able to regain its divine powers and take on its true form...
+
+
+Immortal Golden Pill
+
+Golden pills crafted by celestial immortals are said to aid in ascending to become an immortal. This individual's power surged after consuming the golden pill from an immortal, but immortal pills only offer temporary benefits to the mortals. When the immortal energy reaches its peak, it also becomes the time of peril. One wonders what purpose the "immortal" who bestowed this golden pill upon them had in mind, perhaps it was to prevent this person from usurping the immortal boundary...
 
 

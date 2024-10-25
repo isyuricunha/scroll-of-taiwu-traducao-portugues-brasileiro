@@ -38,12 +38,12 @@ Abdominal\nBreathing
 Press your breath down to Dantian, agglomerate energy. It does good to both outer and inner power, is a secret tip to transform your energy into Force after days and years.
 Daher Point
 Middle Injection Point
-Twelve Postures\nof E'mei
-Emei Pillar Holding combines motions and motionless steps, both Yin and Yang. It also combines Taois, Buddhist and medical mysteries, can strengthen inner breath, treat internal organs and provide peaceful feeling.
+Twelve Postures\nof Emei
+Twelve Postures of Emei combines motions and motionless steps, both Yin and Yang. It also combines Taoist, Buddhist and medical mysteries, can strengthen inner breath, treat internal organs and provide peaceful feeling.
 Ququan point
 Periodontal Point
 Innate Origin Qi\nTechnique
-Original Pure Force continuously benefits your awareness, makes you absorb the natural Qi from environment to be your inner power.
+Innate Origin Qi Technique continuously benefits your awareness, makes you absorb the natural Qi from environment to be your inner power.
 Tonggu Point
 Qi Chong point
 Spirituality\nComprehension
@@ -54,7 +54,7 @@ Great Esoteric Technique\nof the Lotus
 “With abstruse method to prove abstruse truth. Sit or lie in side of the lotus, filthy thing won't affect you, wind and wave won't disturb you.” It clears you naturally. After successful practice, the user looks bright and feels healthy.
 Transverse Bone Point
 Pylorus point
-Samantabhadra\nHeart Sutra
+Puxian\nScripture
 PuXian Scripture is gentle and effective, it contains “10 methods”、“10 endurances”、“6 prostrations”、“4 unchokings” and several other steps.
 Shenzang Point
 Sitting-in-Oblivion
@@ -322,8 +322,8 @@ hidden white point
 Mysterious\nScripture
 Xuan Hei is the god of the north, the master of killing. As the saying goes: "Xuan Hei palms the snow, the group of things severe festival", Xuan Hei true scripture on the north, hidden killing machine, can be extremely cold real energy to send infinite power, in the palm of the hand to determine the fate of a person.
 Yutang Point
-Posthumous Ginseng
-"The door of the call, with the class of the best. The teaching of the response, to be felt. Emotionless still, let's say in the human being". Bisi legacy of the use of the Taoist priest Li Chunfeng from the Tang Dynasty, "Bisi accounted for", is to observe the sky and know the world, induction of life and death and the transformation of the law of things I.
+Lost Yisi Constellation
+"Where there is a call, all relevant things gather. When the response is given, it is activated upon sensing. Even the inanimate obeys; how much more so for humans." The "Lost Yisi Constellation" is adapted from the work of Tang Dynasty's Taoist Li Chunfeng, titled "Divination of Yisi". It uses celestial observations to understand human affairs and transforms objects based on the perception of life and death.
 Atrium Point
 Galaxy Map
 "Bewildering geography, charming astronomy, four spirits drops the image, ten thousand types of group division". Huntian star map to consider the measurement of the sky, the examination of the stars, check the sky to see the time, in order to understand the personnel, the successful reflect the sky full of stars in the square inch, so it can tend to good luck to avoid evil, the sky knows all.
@@ -1152,8 +1152,8 @@ frontal skull
 Every step in the 36 close hands can be performed in several different ways. When in the battle,  use knee and elbows to attack and defense. The continuous movements makes the enemie stuck in,  just like “Closed”.
 Knee and Elbow
 uninterrupted
-Rejuvenation\nFinger
-Vivid and interesting fists. When practicing it,  one acts like a duck, which may seems hilarious. However fierce attacks are hidden among those unpredictable movements.
+Duck Imitating Fist
+The Duck Imitating Fist is lively, nimble, and extremely witty. Although it looks like a duck and seems extremely funny, its swaying left and right, and its forward and backward movements actually contain extremely swift and fierce moves.
 Swing left and swing right
 Front teasing and back plucking
 12 Hands of\nSilk Fist
@@ -1615,7 +1615,7 @@ Aspiration in the Palace
 Lower Body Kick
 Although the move is shallow, the degree of damage is no less than that of any evil martial art, and those who are hit are often deeply injured and cannot be humanely treated.
 False shake diagonal entry
-do sth. when least expected (idiom); to catch sb. off guard
+Unexpected
 Conversely Kick\nof Toad
 Toad backward kick leg posture is bizarre, is the reverse body to the back of the stock sudden flying kicking unique techniques, can be issued out of thin air, without the need to perform borrowing momentum, do not know this leg technique is extremely vulnerable to its hidden harm.
 work in unison
@@ -1757,10 +1757,10 @@ It is said that it is the sword technique taught to the Taoist in Emei Mountain 
 Loose on the outside, tight on the inside
 Follow The Call From Nature
 Way of the\nBaimei Sword
-The White Eyebrow Sword Technique is a combination of attack and defense, soft and rigid, with the sword moving like a swallow flying and the sword falling like the wind stopping. It is called "White Eyebrow Sword Technique" because it was passed down from the ancestor of the Emei School, and can be considered the foundation of the Emei Sword Technique.
+Way of the Baimei Sword is a combination of attack and defense, soft and rigid, with the sword moving like a swallow flying and the sword falling like the wind stopping. It is called "White Eyebrow Sword Technique" because it was passed down from the ancestor of the Emei School, and can be considered the foundation of the Emei Sword Technique.
 Flash let near take
 unity of form and spirit
-Intricate Sword of the\nLotus
+Swordsmanship\nof Lotus
 The recipe says: "Feng Ze Zhong Fu is the guest from the master, water and fire are both helpful to the virtual reality". Although the Lotus Wonderful Sword moves to show weakness, avoiding the heavy, but can invisibly pull the enemy's momentum to move with me, and finally the virtual pole to create the real, weakness to win the strong.
 Fengze Zhongfu
 Water and Fire
@@ -1804,7 +1804,7 @@ Limitless Sword Form
 The Wuji sword style has no sound, no color, no beginning, no end, and no name, so it is called "Wuji". The sword of Wuji is like a sword but not a sword, but it is a sword everywhere without a sword, which is the beginning of all swords and the end of all swords.
 Like a sword, not a sword
 Swords Everywhere
-Way of the\nArhat Sword
+Swordsmanship\nof Arhat
 Luohan's sword technique is rigid and unyielding, rigorous in law, the sword is steady and powerful, with very few twists and turns, and every time the sword is used, it is a Buddhist sword technique that uses defense as the attack, and is stable in all directions.
 Legal rigor
 Attack with defense
@@ -2607,7 +2607,7 @@ Out-of-bounds Heart Swallowing
 
 
 
-hidden dust
+Hidden Dust
 
 
 
