@@ -1,0 +1,250 @@
+STR
+It represents strength and explosive power...\n\n<color=#pinkyellow>·Increases character's<SpName=mousetip_mingzhong_1_0>Might and<SpName=mousetip_huajie_0>Diversion.\n·Increases the effectiveness of techniques, weapons, and armor that require<SpName=mousetip_zhuyao_0>Strength.\n·Increases maximum inventory weight.\n·Increases character's maximum equipment weight.\n·With age, Strength will become more difficult to recover</color>
+AGI
+It represents bodily agility and coordination...\n\n<color=#pinkyellow>·Increases character's <SpName=mousetip_mingzhong_1_2>Swiftness and<SpName=mousetip_huajie_2>Evasion.\n·Increases the effectiveness of techniques, weapons, and armor that require<SpName=mousetip_zhuyao_1>Agility.\n·With age, Agility will become more difficult to recover</color>
+WIL
+It represents willpower and judgment...\n\n<color=#pinkyellow>·Increases character's<SpName=mousetip_mingzhong_1_3>Breath and<SpName=mousetip_huajie_3>Focus.\n·Increases the effectiveness of techniques, weapons, and armor that require<SpName=mousetip_zhuyao_2>Willpower.\n·With age, Willpower will become easier to recover</color>
+CON
+It represents sturdiness and endurance...\n\n<color=#pinkyellow>·Increases character's<SpName=mousetip_gongji_0>Ext. Pen. and<SpName=mousetip_fangyu_0>Ext. Def.\n·Increases the effectiveness of techniques, weapons, and armor that require<SpName=mousetip_zhuyao_3>Constitution.\n·Increases the amount of consumables character can ingest.\n·With age, Constitution will become more difficult to recover</color>
+VIT
+It represents the inner quality of flesh and blood...\n\n<color=#pinkyellow>·Increases character's<SpName=mousetip_gongji_1>Int. Pen. and<SpName=mousetip_fangyu_1>Int. Def.\n·Increases the effectiveness of techniques, weapons, and armor that require<SpName=mousetip_zhuyao_4>Vitality.\n·With age, Vitality will become easier to recover</color>
+COM
+It represents the ability to comprehend and perception...\n\n<color=#pinkyellow>·Increases character's<SpName=mousetip_mingzhong_1_1>Finesse and<SpName=mousetip_huajie_1>Parry.\n·Increases the effectiveness of techniques, weapons, and armor that require<SpName=mousetip_zhuyao_5>Comprehension.\n·Helps with studying books and martial arts breakthroughs.</color>
+MIG
+The ability to crush an enemy with great force and inflict damage on them...\n\n<color=#pinkyellow>·Force-based attacks such as Punch, Hack, Throw, Ware.</color>
+FIN
+The ability to hold the enemy in check with clever moves and inflict damage on them...\n\n<color=#pinkyellow>·Subtle-based attacks such as Hold, Slash, Drive, Drug, Sweep.</color>
+SWI
+The ability to attack an enemy with great speed and inflict damage on them...\n\n<color=#pinkyellow>·Swift-based attacks such as Point, Stab, Shot, Toxic, Wrap.</color>
+BRE
+The ability to confuse enemies with a regal magical sound and inflict damage on them...\n\n<color=#pinkyellow>·Mind-based attacks such as Sound, Spell.</color>
+Ext. Pen.
+The ability to break through the enemy's External Defense and increase the external wounds suffered by the enemy...
+Int. Pen.
+The ability to break through the enemy's Internal Defense and increase the internal injuries suffered by the enemy...
+DIV
+The ability to diverse the enemy's strength and avoid injury from Might attacks...
+PAR
+The ability to parry the enemy's moves and avoid being injured by Finesse attacks...
+EVA
+The ability to evade enemy attacks and avoid injury from Swiftness attacks...
+FOC
+The ability to resist the enemy's magical voice and avoid being injured by Breath attacks...
+Ext. Def.
+The ability to strengthen the muscles and bones externally, protect the body solidly, and mitigate the sustained external injuries...
+Int. Def.
+The ability to internally cleanse the vital energy, guard the chakra and move the qi, and mitigate the sustained internal injuries...
+Stance Recovery
+The higher the Stance Recovery, the more Stance the character will receive each time he makes a weapon attack and each time he is attacked by a weapon. \nStance is mainly used to perform External skills.
+Inhale Recovery
+The higher the Inhale Recovery, the faster the character's Inhale will recover. \nInhale is mainly used to perform Internal skills.
+MOV·Spd
+The higher the Move Speed, the faster the character moves in battle.
+Ext. Recovery
+The higher the External Recovery, the faster the Weak Points character suffers in battle disappear.
+Cast Speed
+The higher the Cast Speed, the faster the character can cast skills in battle.
+Int. Recovery
+The higher the Internal Recovery, the faster character will recover from Sealed Acupoints suffered in battle
+Equip. Eff.
+The higher the Equipment Efficiency, the shorter the cooldown between switching weapons in battle, and the higher the upper limit of weapons and armor.
+Attack Speed
+The higher the Attack Speed, the faster the character will recover "attack tokens" that are used for weapon attacks in battle
+Int Ratio Bonus
+The higher the Internal Ratio Bonus, the wider the range of Internal and External power ratio of skills and weapons that the character can adjust
+Internal Breath
+The higher the Internal Breath, the faster the character will recover from Internal Disorder, and the less Internal Disorder they will suffer. \nIncreases the speed at which you regain your True Qi that went below the initial value, and decreases the speed at which you lose your True Qi that exceeded the initial value.
+Acritoxin Res
+The ability to protect the heart veins to resist Acritoxin...
+Umbritoxin Res
+The ability to protect Qi from stagnation to resist Umbritoxin...
+Cryotoxin Res
+The ability to dissipate cold and ice to resist Cryotoxin...
+Pyrotoxin Res
+The ability to purify blood to resist Pyrotoxin...
+Necrotoxin Res
+The ability to remove corruption to resist Necrotoxin...
+Oneirotoxin Res
+The ability to break out from illusions to resist Oneirotoxin...
+Music talent
+The character's natural ability to learn and understand music...
+Chess talent
+The characters are gifted in learning and understanding the game of chess...
+Literature talent
+The character's natural ability to learn and understand poetry and books...
+Painting talent
+The character's natural ability to learn and understand painting...
+Astrology talent
+The character's natural ability to learn and understand the arts and mathematics...
+Appreciation talent
+Characters learn, understand the natural talent of Appreciation...
+Smithing talent
+The characters learn and understand the natural talent of forging...
+Carpentry talent
+The characters learn and understand the natural talent of wood making...
+Medicine talent
+The character's natural ability to learn and understand the art of medicine...
+Toxicology talent
+The character's natural ability to learn and understand the poisonous arts...
+Weaving talent
+The characters learn and understand the natural talent of weaving...
+Gemcutting talent
+The characters learn and understand the natural talent of Gemcutting...
+Taoism talent
+The character's natural ability to learn and understand Taoism...
+Buddhism talent
+The character's natural ability to learn and understand Buddhism...
+Culinary Arts talent
+The character's natural ability to learn and understand the culinary arts...
+Lore talent
+The character's natural ability to learn and understand Lore...
+Music attainment
+Music
+The character's knowledge, use, and even achievement of music...
+Chess attainment
+Chess
+The characters' knowledge, use and even achievements in the game of chess...
+Literature attainment
+Literature
+The characters' knowledge, use and even achievement of Literature...
+Painting attainment
+Painting
+The character's knowledge, use and even achievement of painting...
+Astrology attainment
+Astrology
+The characters' knowledge, use and even achievement of Astrology...
+Appreciation attainment
+Appreciation
+The character's knowledge, use and even achievement of Appreciation...
+Smithing attainment
+Smithing
+The character's knowledge, use and even achievement of Smithing...
+Carpentry attainment
+Carpentry
+The characters' knowledge, use and even achievement of Carpentry...
+Medicine attainment
+Medicine
+The characters' knowledge, use and even achievements in Medicine...
+Toxicology attainment
+Toxicology
+The character's knowledge, use and even achievements in Toxicology...
+Weaving attainment
+Weaving
+The characters' knowledge, use and even achievement of Weaving...
+Gemcutting attainment
+Gemcutting
+The characters' knowledge, use, and even achievement of Gemcutting...
+Taoism attainment
+Taoism
+The characters' knowledge, application and even achievement of Taoism...
+Buddhism attainment
+Buddhism
+The characters' knowledge, application and even achievement of Buddhism...
+Culinary Arts attainment
+Culinary Arts
+The characters' knowledge, use and even achievement of the culinary arts...
+Lore attainment
+Lore
+The characters' knowledge, use and even achievement of Lore...
+Inner Arts talent
+The character learns and understands the natural ability of Inner Arts...
+Footwork talent
+The character learns and understands the natural ability of Footwork...
+Stunt talent
+The character's natural ability to learn and understand Stunts...
+Fist talent
+The character learns and understands the natural talent of Fist...
+Finger talent
+Characters learn and understand the natural ability of Finger Techniques...
+Kick talent
+The character's natural ability to learn and understand the Kick Techniques...
+Hidden Weapons talent
+The character's natural ability to learn and understand Hidden Weapons...
+Sword talent
+The character's natural ability to learn and understand Sword Techniques...
+Blade talent
+The character's natural ability to learn and understand Blade Techniques...
+Polearm talent
+Characters learn and understand the natural ability of Polearm Techniques...
+Exotic Weapons talent
+Characters learn and understand the natural talent of Exotic Weapons...
+Soft Weapons talent
+The characters learn and understand the natural ability of Soft Weapons...
+Ranged Weapons talent
+The character learns and understands the natural ability of the Ranged Weapons...
+Melody talent
+The character's natural ability to learn and understand Melody Techniques...
+Inner Arts attainment
+Inner Arts 
+The characters' knowledge, use and even achievement of Inner Arts...
+Footwork attainment
+Footwork
+The character's knowledge, use and even achievement of Footwork...
+Stunt attainment
+Stunt
+The character's knowledge, use and even achievement of Stunts...
+Fist attainment
+Fist
+The character's knowledge, use and even achievement of Fist Techniques...
+Finger attainment
+Finger
+The character's knowledge, use and even achievement of Finger Techniques...
+Kick attainment
+Kick
+The character's knowledge, use and even achievement of Kick Techniques...
+Hidden Weapons attainment
+Hidden·Wp
+The characters' knowledge, use and even achievement of Hidden Weapons...
+Sword attainment
+Sword
+The character's knowledge, use and even achievement of Sword Techniques...
+Blade attainment
+Blade
+The character's knowledge, use and even achievement of Blade Techniques...
+Polearm attainment
+Polearm
+The character's knowledge, use and even achievement of Polearm Techniques...
+Exotic Weapons attainment
+Exotic·Wp
+The character's knowledge, use and even achievement of Exotic Weapons...
+Soft Weapons attainment
+Soft·Wp
+The character's knowledge, use and even achievement of Soft Weapons...
+Ranged Weapons attainment
+Ranged·Wp
+The character's knowledge, use and even achievement of Ranged Weapons...
+Melody attainment
+Melody
+The character's knowledge, use and even achievement of Melody Techniques...
+Composure
+The ability of characters to cope with complex situations and changes
+Cleverness
+Character's ability to know and learn things.
+Enthusiastic
+The driving force for characters to explore new things, discover and convey information.
+Valour
+Character's ability to face danger bravely
+Fortitude
+The character's will power to endure extreme things
+Karma
+The character's favor from the heavens.
+Perceptive
+Nothing get's past this character's perceptive gaze...
+Charm
+Charm represents the appearance, ugliness, and personality charm of a character...\n\n<color=#pinkyellow>·There is no difference in the charm of children\n·Character's charm is greatly reduced when naked\n·Charm from lowest to highest:\n\n<SpName=mousetip_lingxing><SpName=mousetip_meili_0><color=#AttractionType_NonHuman>Unhuman</color>\n<SpName=mousetip_lingxing><SpName=mousetip_meili_1><color=#AttractionType_Odious>Disgusting</color>\n<SpName=mousetip_lingxing><SpName=mousetip_meili_2><color=#AttractionType_Ugly>Ugly</color>\n<SpName=mousetip_lingxing><SpName=mousetip_meili_3><color=#AttractionType_Normal>Ordinary</color>\n<SpName=mousetip_lingxing><SpName=mousetip_meili_4><color=#AttractionType_Outstanding>Outstanding</color>\n<SpName=mousetip_lingxing><SpName=mousetip_meili_5><color=#AttractionType_Beautiful>Handsome (Male)/Beautiful (Female)</color>\n<SpName=mousetip_lingxing><SpName=mousetip_meili_6><color=#AttractionType_Brilliant>Dragon (Male)/Phoenix (Female)</color>\n<SpName=mousetip_lingxing><SpName=mousetip_meili_7><color=#AttractionType_Stunning>Heavenly (Male)/Otherworldy (Female)</color>\n<SpName=mousetip_lingxing><SpName=mousetip_meili_8><color=#AttractionType_Godlike>Divine</color></color>
+Fertility
+
+Like & Dislike Change Cycle
+
+EXP
+Experience represent various experiences, talents and perceptions of the character...\n\n<color=#pinkyellow>-Experience can be used to cultivate Martial Arts skills.</color>
+Max Health
+
+Highest Internal Energy
+
+Divine attainment
+Divine
+
+Demonic attainment
+Demonic
+

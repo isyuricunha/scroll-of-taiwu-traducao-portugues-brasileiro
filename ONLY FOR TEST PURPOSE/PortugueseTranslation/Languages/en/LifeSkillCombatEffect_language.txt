@@ -1,0 +1,54 @@
+Reanálise
+Pode colocar uma pergunta abaixo no argumento adversário em qualquer célula horizontal, vertical ou diagonal
+Expressao direta
+Pode colocar uma pergunta abaixo no argumento próprio em qualquer célula horizontal ou vertical (nao pode cruzar argumentos adversários mais altos)
+Desvio
+Pode colocar uma pergunta abaixo no argumento próprio em qualquer célula diagonal (nao pode cruzar argumentos adversários mais altos)
+Exposicao
+Pode aumentar o valor do argumento em qualquer célula horizontal, vertical ou diagonal onde haja pecas próprias
+Cadeia
+Ao responder uma pergunta ou interrogar o adversário, aumenta o valor do argumento da peca colocada nesta jogada
+Implementacao
+Pode aumentar o valor de todas as pecas próprias em qualquer célula horizontal ou vertical (bloqueado por argumentos adversários)
+Equilíbrio
+Se o adversário optar por responder a uma pergunta ou interrogacao própria, reduz o valor do argumento da resposta do adversário nesta jogada
+Toque indireto
+Pode reduzir o valor dos argumentos adversários em qualquer célula horizontal, vertical ou diagonal
+Ataque lateral
+Pode reduzir o valor dos argumentos adversários em qualquer célula horizontal ou vertical
+Intimidacao
+Quando uma pergunta ou interrogacao própria se torna um argumento próprio, elimina os argumentos adversários com valor mais baixo em qualquer célula horizontal, vertical ou diagonal
+Difamacao
+Pode ser usado no argumento próprio para eliminar um argumento adversário com valor inferior ao próprio argumento em qualquer célula horizontal, vertical ou diagonal
+Repreensao
+Quando uma pergunta ou interrogacao própria se torna um argumento próprio, elimina argumentos adversários com valor mais baixo em qualquer célula horizontal ou vertical (nao pode cruzar argumentos adversários mais altos)
+Presságio
+Quando uma pergunta ou interrogacao própria é respondida, o livro usado pelo adversário aumenta um turno de resfriamento
+Exagero
+Quando uma pergunta ou interrogacao própria é feita, adiciona 3 livros ao resfriamento
+Ocultamento
+Quando uma pergunta ou interrogacao própria é feita, remove 3 livros do resfriamento
+Percepcao
+Pode ser usado no argumento adversário que usou uma estratégia, eliminando o efeito de todas as estratégias nesta célula
+Interpretacao errônea
+Quando uma pergunta ou interrogacao própria se torna um argumento próprio, elimina o efeito de todas as estratégias dos argumentos adversários em qualquer célula horizontal, vertical ou diagonal
+Compreensao
+Quando uma pergunta ou interrogacao própria se torna um argumento próprio, elimina o efeito de todas as estratégias dos argumentos adversários em qualquer célula horizontal ou vertical
+Reflexao
+Após o uso, reduz aleatoriamente o resfriamento de três livros próprios em um turno
+Ira
+Após o uso, aumenta aleatoriamente o resfriamento de três livros do adversário em um turno
+Inspiracao
+Pode especificar um livro próprio em resfriamento para restaurar completamente o resfriamento
+Citacao
+Quando uma pergunta ou interrogacao própria se torna um argumento próprio, escolhe uma estratégia com base no número de argumentos próprios em qualquer célula horizontal, vertical ou diagonal
+Citacao indireta
+Pode ser usado no argumento próprio para escolher uma estratégia com base na pontuacao desta célula
+Citacao direta
+Quando uma pergunta ou interrogacao própria se torna um argumento próprio, escolhe uma estratégia com base no número de argumentos próprios em qualquer célula horizontal ou vertical (bloqueado por argumentos adversários)
+Revisao
+Pode ser colocado no argumento próprio para recuperar todas as estratégias próprias deste argumento e substituir o argumento pelo estado desta jogada
+Conclusao
+Os livros usados na jogada atual nao aumentam o número de turnos de resfriamento
+Argumento forte
+Pode colocar uma pergunta abaixo em um argumento adversário com valor mais baixo e transformá-lo diretamente em um argumento próprio

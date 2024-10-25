@@ -1,0 +1,206 @@
+Espinho de Bambu Verde
+Espinho Agudo
+Remédio Divino
+Pomada Medicinal
+Areia Venenosa
+Mecanismo de Ferro
+Mecanismo
+Mecanismo de Madeira
+Amuleto de Jade
+Amuleto
+Amuleto de Tecelagem
+Caixa de Agulhas de Ferro
+Caixa de Agulhas
+Caixa de Agulhas de Madeira
+Caixa de Agulhas de Pedra
+Caixa de Agulhas de Ouro e Prata
+Caixa de Agulhas de Vinha
+Caixa de Agulhas de Jade
+Espinho de Ferro
+Espinho
+Espinho de Madeira
+Espinho de Pedra
+Espinho de Ouro e Prata
+Espinho de Vinha
+Espinho de Jade
+Arma Secreta de Ferro
+Arma Secreta
+Arma Secreta de Madeira
+Arma Secreta de Pedra
+Arma Secreta de Ouro e Prata
+Arma Secreta de Vinha
+Arma Secreta de Jade
+Flauta de Ferro
+Flauta
+Flauta de Madeira
+Flauta de Pedra
+Flauta de Ouro e Prata
+Flauta de Vinha
+Flauta de Jade
+Luvas de Ferro
+Luvas
+Luvas de Madeira
+Luvas de Pedra
+Luvas de Pele
+Luvas de Ouro e Prata
+Luvas de Vinha
+Luvas de Jade
+Luvas de Tecelagem
+Clava Curta de Ferro
+Clava Curta
+Clava Curta de Madeira
+Clava Curta de Pedra
+Clava Curta de Ouro e Prata
+Clava Curta de Vinha
+Clava Curta de Jade
+Espada de Ferro
+Espada
+Espada de Madeira
+Espada de Pedra
+Espada de Ouro e Prata
+Espada de Vinha
+Espada de Jade
+Faca de Ferro
+Faca
+Faca de Madeira
+Faca de Pedra
+Faca de Ouro e Prata
+Faca de Vinha
+Faca de Jade
+Lanca de Ferro
+Lanca
+Lanca de Madeira
+Lanca de Pedra
+Lanca de Ouro e Prata
+Lanca de Vinha
+Lanca de Jade
+Cítara de Ferro
+Cítara
+Cítara de Madeira
+Cítara de Pedra
+Cítara de Ouro e Prata
+Cítara de Vinha
+Cítara de Jade
+Pau de Poeira de Madeira
+Pau de Poeira
+Pau de Poeira de Pele
+Pau de Poeira de Vinha
+Pau de Poeira de Tecelagem
+Chicote Longo de Madeira
+Chicote Longo
+Chicote Longo de Pele
+Chicote Longo de Vinha
+Chicote Longo de Tecelagem
+Tesouro de Ferro
+Tesouro
+Tesouro de Madeira
+Tesouro de Pedra
+Tesouro de Pele
+Tesouro de Ouro e Prata
+Tesouro de Vinha
+Tesouro de Jade
+Tesouro de Tecelagem
+Ornamento de Ferro
+Ornamento
+Ornamento de Madeira
+Ornamento de Pedra
+Ornamento de Pele
+Ornamento de Ouro e Prata
+Ornamento de Vinha
+Ornamento de Jade
+Ornamento de Tecelagem
+Sapatos de Ferro
+Sapatos
+Sapatos de Madeira
+Sapatos de Pedra
+Sapatos de Pele
+Sapatos de Ouro e Prata
+Sapatos de Vinha
+Sapatos de Jade
+Sapatos de Tecelagem
+Armadura de Ferro
+Armadura
+Armadura de Madeira
+Armadura de Pedra
+Armadura de Pele
+Armadura de Ouro e Prata
+Armadura de Vinha
+Armadura de Jade
+Armadura de Tecelagem
+Bracadeira de Ferro
+Bracadeira
+Bracadeira de Madeira
+Bracadeira de Pedra
+Bracadeira de Pele
+Bracadeira de Ouro e Prata
+Bracadeira de Vinha
+Bracadeira de Jade
+Bracadeira de Tecelagem
+Roupa de Pele
+Roupa
+Roupa de Tecelagem
+Transporte de Madeira
+Transporte
+Transporte de Vinha
+Bolsa
+Corda
+Ovo
+Prato
+Frango de Nuvem
+Pato de Shaoxing
+Ganso
+Frango de Pele Negra
+Codorna Delicada
+Pavao Azul
+Coelho Selvagem
+Javali da Montanha
+Cabra da Montanha Oriental
+Cobra Jasmim
+Cervo-de-Madeira
+Bico de Elefante
+Urso Preto
+Trigo
+Soja
+Cogumelo Fragrante
+Aspargo de Jade
+Lótus da Imposicao
+Ginkgo
+Cogumelo de Cabeca de Macaco
+Peixe de Erva
+Camarao Verde
+Carpa de Rocha
+Caranguejo Vermelho
+Lúcio de Quatro Brânquias
+Abalone de Duas Cabecas
+Esturjao
+Veneno Potente
+Pílula Alquímica
+Veneno Amargo
+Veneno Frio
+Veneno Vermelho
+Veneno Corrupcao
+Veneno Ilusório
+Erva de Conexao dos Ossos
+Erva de Pérola Roxa
+Erva da Longevidade
+Osso de Tigre
+Ginseng
+Bile de Cobra Verde
+Incenso de Suhé
+Flor de Jasmin
+Mel Vermelho
+Osso de Cobra Negra
+Lírio da Longevidade
+Astrágalo Amarelo
+Sapo de Neve
+Mae das Pérolas
+Fragrância Celestial
+Gengibre Selvagem
+Fruta Vermelha
+Cinnabar
+Lótus Bêbada
+Pedra de Prata Fragmentada
+Calamus de Nove Secoes
+Resina de Rinoceronte
+Almíscar
+Insecto Fantasma
