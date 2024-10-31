@@ -9,10 +9,10 @@ return {
 	BackendPlugins = {
 		[1] = "TaiwuCommunityTranslation.Backend.dll",
 	},
-	Source = 1,
+	Source = 0,
 	FileId = 3305308095,
 	Version = "0.0.71.78",
-	GameVersion = "0.0.72.14",
+	GameVersion = "0.0.73.62",
 	Visibility = 0,
 	DefaultSettings = { },
 	UpdateLogList = {
