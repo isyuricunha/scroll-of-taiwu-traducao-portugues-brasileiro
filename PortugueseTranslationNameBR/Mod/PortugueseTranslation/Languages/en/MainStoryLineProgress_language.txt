@@ -1,33 +1,33 @@
-Start
-深谷竹庐-探索深谷
-深谷竹庐-离开深谷
-隐世小村-进入小村
-隐世小村-探索小村
-隐世小村-离开小村
-崩溃地区-进入区域
-继承太吾-进入区域
-继承太吾-继承太吾
-继承太吾-村庄复兴
-继承太吾-古墓仙人
-剑冢出现-离开古墓
-剑冢出现-化身移动
-剑冢出现-仙公沉默
-和尚来访
-和尚离开
-初涉江湖
-Learning from a Master
-世界开放
-剑冢主线-剑冢之一
-剑冢主线-剑冢之二
-剑冢主线-剑冢之三
-剑冢主线-剑冢之四
-剑冢主线-剑冢之五
-剑冢主线-剑冢之六
-剑冢主线-剑冢之七
-仙公复归
-神会焕心-出神之地
-神会焕心-仙公离去
-决战相枢-染尘入魔
-决战相枢-染尘转世
-决战相枢-相枢蛰伏
-游戏失败结束
+Iniciar
+Cabana de Bambu no Vale Profundo - Explorar o Vale
+Cabana de Bambu no Vale Profundo - Sair do Vale
+Aldeia Oculta - Entrar na Aldeia
+Aldeia Oculta - Explorar a Aldeia
+Aldeia Oculta - Sair da Aldeia
+Área em Colapso - Entrar na Área
+Herança de Taiwu - Entrar na Área
+Herança de Taiwu - Herdar Taiwu
+Herança de Taiwu - Renascer a Aldeia
+Herança de Taiwu - Imortal do Antigo Tumba
+Aparecimento do Túmulo da Espada - Sair da Tumba Antiga
+Aparecimento do Túmulo da Espada - Mover-se como uma Incorporação
+Aparecimento do Túmulo da Espada - Imortal em Silêncio
+Monge Visitante
+Monge Partiu
+Primeiros Passos no Jianghu
+Aprendendo com um Mestre
+Mundo Aberto
+Linha Principal do Túmulo da Espada - Túmulo da Espada Um
+Linha Principal do Túmulo da Espada - Túmulo da Espada Dois
+Linha Principal do Túmulo da Espada - Túmulo da Espada Três
+Linha Principal do Túmulo da Espada - Túmulo da Espada Quatro
+Linha Principal do Túmulo da Espada - Túmulo da Espada Cinco
+Linha Principal do Túmulo da Espada - Túmulo da Espada Seis
+Linha Principal do Túmulo da Espada - Túmulo da Espada Sete
+Retorno do Imortal
+Encontro Divino - Terra do Êxtase
+Encontro Divino - Imortal Partiu
+Batalha Decisiva - Contaminação e Magia
+Batalha Decisiva - Reencarnação da Contaminação
+Batalha Decisiva - Ocultação do Eixo
+Fim do Jogo por Falha

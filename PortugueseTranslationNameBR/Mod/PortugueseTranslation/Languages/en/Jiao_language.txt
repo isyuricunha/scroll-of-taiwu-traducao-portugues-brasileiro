@@ -1,34 +1,34 @@
-White Jiao
-Black Jiao
-Green Jiao
-Red Jiao
-Yellow Jiao
-Yin-Yang Jiao
-Flying Lightning Jiao
-Thunder Fire Jiao
-Golden Eye Jiao
-Green Pool Jiao
-Burnt Cloud Jiao
-Clay Pool Jiao
-Flame Horn Jiao
-Leaning Mountain Jiao
-Refined Bone Jiao
-Disturbed Ocean Jiao
-Draped Clouds Jiao
-Deep Depth Jiao
-Heaven Thunder Jiao
-Desolate Road Jiao
-Qilin Jiao
-Ghost Prison Jiao
-Immortal Mountain Jiao
-Flaming Pond Jiao
-Burning Hill Jiao
-Four Changes Jiao
-Hundred Jewels Jiao
-Calm Sea Jiao
-Heaven-swallowing Jiao
-Mixed Scale Jiao
-Rainbow Jiao
+Jiao Branco
+Jiao Preto
+Jiao Verde
+Jiao Vermelho
+Jiao Amarelo
+Jiao Yin-Yang
+Jiao Relâmpago Voador
+Jiao Fogo Trovão
+Jiao Olho Dourado
+Jiao Lago Verde
+Jiao Nuvem Queimada
+Jiao Lago de Argila
+Jiao Chifre Flamejante
+Jiao Montanha Inclinada
+Jiao Osso Refinado
+Jiao Oceano Turbulento
+Jiao Nuvens Drapeadas
+Jiao Profundidade Abissal
+Jiao Trovão Celestial
+Jiao Estrada Desolada
+Jiao Qilin
+Jiao Prisão Fantasma
+Jiao Montanha Imortal
+Jiao Lago Flamejante
+Jiao Colina Ardente
+Jiao Quatro Mudanças
+Jiao Cem Joias
+Jiao Mar Tranquilo
+Jiao Engole Céus
+Jiao Escama Mista
+Jiao Arco-íris
 Qiuniu
 Yazi
 Chaofeng

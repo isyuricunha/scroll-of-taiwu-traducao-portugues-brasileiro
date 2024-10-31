@@ -2,35 +2,35 @@ MIG
 FIN
 SWI
 BRE
-Ext. Pen.
-Int. Pen.
+Pen. Ext.
+Pen. Int.
 DIV
 PAR
 EVA
 FOC
-Ext. Def.
-Int. Def.
-Stance Recovery
-Inhale Recovery
-MOV·Spd
-Ext. Recovery
-Cast Speed
-Int. Recovery
-Wp·Switch CD
-Attack Speed
-Int Ratio Bonus
-Internal Breath
-Acritoxin Res
-Umbritoxin Res
-Cryotoxin Res
-Pyrotoxin Res
-Necrotoxin Res
-Oneirotoxin Res
-External Injury
-Internal Injury
-Mood
-Amount of True Qi Obtained
-Stamina Recovery Rate
-Minimal Attack Range
-Maximum Attack Range
-Seven Instincts
+Def. Ext.
+Def. Int.
+Recuperação de Posição
+Recuperação de Inalação
+MOV·Vel
+Recuperação Ext.
+Velocidade de Lançamento
+Recuperação Int.
+CD de Troca de Arma
+Velocidade de Ataque
+Bônus de Razão Int.
+Respiração Interna
+Res. a Acritoxina
+Res. a Umbritoxina
+Res. a Criotoxina
+Res. a Pirotoxina
+Res. a Necrotoxina
+Res. a Oneirotoxina
+Lesão Externa
+Lesão Interna
+Humor
+Quantidade de Verdadeira Qi Obtida
+Taxa de Recuperação de Stamina
+Alcance de Ataque Mínimo
+Alcance de Ataque Máximo
+Sete Instintos

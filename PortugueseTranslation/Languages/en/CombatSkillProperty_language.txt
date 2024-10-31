@@ -1,74 +1,74 @@
-Current Power
-Power Cap
-施展时间
-Stance/Inhale Cost
-Ext/Int Ratio
-Inner Conversation Rate
-Total Internal Force
-Gain Internal Force
-Elemental Convertion
-Universal Slots
-Mobility Cost
-MOV·Spd
-Increase Might
-Increase Finesse
-Increase Swiftness
-Increase BRE
-Weaken Footwork
-Footwork Cost
-Increase Ext. Def.
-Increase Int. Def.
-Increase Diversion
-Increase Parry
-Increase Evasion
-Increase Focus
-Counterattack Power
-Ph Reflect
-Qi Reflect
-Reflect Range
-Duration
-Increase ATK
-Increase Accuracies
-Might Ratio
-Finesse Ratio
-Swiftness Ratio
-Attack Range
-Attack Chest
-Attack Waist
-Attack Head
-Attack Arms
-Attack Legs
-Severity of sealed acupoints
-Severity of flaws
-Apply Acritoxin
-Apply Umbritoxin
-Apply Cryotoxin
-Apply Pyrotoxin
-Apply Necrotoxin
-Apply Oneirotoxin
-Requirements
-Break Row
-Quick Row
-Aegis Row
-Nadis Row
-Requires Throw Style
-Requires Shot Style
-Requires Drive Style
-Requires Hack Style
-Requires Stab Style
-Requires Slash Style
-Requires Punch Style
-Requires Point Style
-Requires Hold Style
-Requires Sound Style
-Requires Wrap Style
-Requires Spell Style
-Requires Ware Style
-Requires Drug Style
-Requires Toxic Style
-Requires Sweep Style
-蓄力进度
-Sealing Chance
-Sealing Duration
-Increase ATK
-Increase Accuracy
+Poder Atual
+Limite de Poder
+Tempo de Execução
+Custo de Postura/Inalação
+Razão Ext/Int
+Taxa de Conversação Interna
+Força Interna Total
+Ganho de Força Interna
+Conversão Elemental
+Vagas Universais
+Custo de Mobilidade
+MOV·Vel
+Aumentar Força
+Aumentar Agilidade
+Aumentar Velocidade
+Aumentar BRE
+Enfraquecer Movimentação
+Custo de Movimentação
+Aumentar Def. Ext.
+Aumentar Def. Int.
+Aumentar Desvio
+Aumentar Defesa
+Aumentar Esquiva
+Aumentar Foco
+Poder de Contraataque
+Reflexão de PH
+Reflexão de Qi
+Alcance de Reflexão
+Duração
+Aumentar ATK
+Aumentar Precisão
+Razão de Força
+Razão de Agilidade
+Razão de Velocidade
+Alcance de Ataque
+Ataque no Peito
+Ataque na Cintura
+Ataque na Cabeça
+Ataque nos Braços
+Ataque nas Pernas
+Gravidade dos pontos acupunturais selados
+Gravidade das falhas
+Aplicar Acritoxina
+Aplicar Umbritoxina
+Aplicar Criotoxina
+Aplicar Pirotoxina
+Aplicar Necrtoxina
+Aplicar Oneirotoxina
+Requisitos
+Quebrar Linha
+Linha Rápida
+Linha de Aegis
+Linha de Nadis
+Requer Estilo de Lançamento
+Requer Estilo de Disparo
+Requer Estilo de Impulso
+Requer Estilo de Golpe
+Requer Estilo de Estocada
+Requer Estilo de Corte
+Requer Estilo de Soco
+Requer Estilo de Ponto
+Requer Estilo de Segurar
+Requer Estilo Sonoro
+Requer Estilo de Envolver
+Requer Estilo de Feitiço
+Requer Estilo de Arma
+Requer Estilo de Droga
+Requer Estilo Tóxico
+Requer Estilo de Varredura
+Progresso de Acúmulo
+Chance de Selamento
+Duração de Selamento
+Aumentar ATK
+Aumentar Precisão
