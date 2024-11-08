@@ -1,31 +1,31 @@
 Velocidade de Viagem
-Velocidade de viagem aumentou
-Velocidade de viagem diminuiu
-Tamanho da Mochila
-Tamanho da mochila aumentou
-Tamanho da mochila diminuiu
-Taxa de Cair de Itens
-Taxa de cair de itens aumentou
-Taxa de cair de itens diminuiu
-Capacidade de Tratamento de Desmaio
-Capacidade de tratamento de desmaio aumentou
-Capacidade de tratamento de desmaio diminuiu
-Vagas de Prisao
-Vagas de prisao aumentaram
-Vagas de prisao diminuíram
-Preco
-Preco aumentou
-Preco diminuiu
+Velocidade de Viagem Aumentada
+Velocidade de Viagem Reduzida
+Peso Máximo de Inventário
+Peso Máximo de Inventário Aumentado
+Peso Máximo de Inventário Reduzido
+Saques
+Saques Aumentados
+Saques Reduzidos
+Exorcismo
+Exorcismo Aumentado
+Exorcismo Reduzido
+Limite de Cativos
+Limite de Cativos Aumentado
+Limite de Cativos Reduzido
+Preço
+Preço Aumentado
+Preço Reduzido
 Valor
-Valor aumentou
-Valor diminuiu
-Humor com Presentes
-Humor com presentes aumentou
-Humor com presentes diminuiu
-Apreciacao de Presentes
-Apreciacao de presentes aumentou
-Apreciacao de presentes diminuiu
-Comprimento do Corpo
+Valor Aumentado
+Valor Reduzido
+Bônus de Presente
+Bônus de Presente Aumentado
+Bônus de Presente Reduzido
+Bônus de Favor
+Bônus de Favor Aumentado
+Bônus de Favor Reduzido
+Duração
 
 
 Peso

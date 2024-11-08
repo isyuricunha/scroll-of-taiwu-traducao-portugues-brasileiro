@@ -1,81 +1,81 @@
-Killing in public
-Punish in public
-Detain in public
-Punishing evil
-Righteous as Heavens
-Set your enemy free
-Conflict with the good
-Conflict with the evil
-Befriending the Good
-Befriending the Evil
-Good Sworn Sibling
-Evil Sworn Sibling
-Loving the Good
-Loving the Evil
-Adopting the Good
-Adopting the Evil
-Adopted by the Good
-Adopted by the Evil
-Helping the Good
-Helping the Evil
-Teaching the Good
-Teaching the Evil
-Healing the Good
-Healing the Evil
-Assaulting people
-Punish the evil
-Skill Theft
-Item Theft
-Rob items
-Grave Robbery
-Poisons people
-Retreat
-Bully·M
-Bully·P
-Win a duel
-Lose a duel
-Kind actions
-Maliciousness
-Just actions
-Disrespectful
-Rebel actions
-Carefreeness
-Egoist actions
-Satisfactorias
-Untranditional love
-Vulnerableness
-Being Benefited
-Being Reprimanded
-Being Deceived
-Being Threatened
-Being Praised
-Being Derided
-Good Predecessor
-Evil Predecessor
-Swearing
-Beggary
-Bad Doctor
-Act Righteously
-Kill the Righteous
-Corrupt public decency
-Corrupt the rules
-Disregard public decency
-Deceiving master and betraying ancestors
-Be hostile and ungrateful
-Beast in Human Clothes
-Humiliated
-Make a fool of yourself
-Overcome difficulties
-Bully the weak
-From Good Sect
-From Evil Sect
-Both good and evil
-Debate wins
-Debate defeats
-Masterpiece Manufactured
-Clouds Steam and Dragon Changes
-Trespassed Treasury
-Plundered Treasury
-Spread Kindness
-负罪在身
-缉逃擒凶
+Matar em público
+Punir em público
+Prender em público
+Punindo o mal
+Justo como os Céus
+Liberte seu inimigo
+Conflito com os bons
+Conflito com os maus
+Amizade com os Bons
+Amizade com os Maus
+Irmão de Juramento Bom
+Irmão de Juramento Mau
+Amando os Bons
+Amando os Maus
+Adotando os Bons
+Adotando os Maus
+Adotado pelos Bons
+Adotado pelos Maus
+Ajudando os Bons
+Ajudando os Maus
+Ensinando os Bons
+Ensinando os Maus
+Curando os Bons
+Curando os Maus
+Agressão contra pessoas
+Punir o mal
+Roubo de Habilidade
+Roubo de Item
+Roubar itens
+Profanação de túmulo
+Envenena pessoas
+Retirada
+Intimida·M
+Intimida·P
+Vencer um duelo
+Perder um duelo
+Ações bondosas
+Malícia
+Ações justas
+Desrespeitoso
+Ações rebeldes
+Despreocupação
+Ações egoístas
+Satisfatórias
+Amor não convencional
+Vulnerabilidade
+Sendo Beneficiado
+Sendo Repreendido
+Sendo Enganado
+Sendo Ameaçado
+Sendo Elogiado
+Sendo Zombado
+Predecessor Bom
+Predecessor Mau
+Jurando
+Mendicância
+Mau Doutor
+Aja Com Justiça
+Mate os Justos
+Corromper a decência pública
+Corromper as regras
+Ignorar a decência pública
+Enganar mestre e trair antepassados
+Ser hostil e ingrato
+Besta em Roupas Humanas
+Humilhado
+Faça papel de bobo
+Superar dificuldades
+Intimidar os fracos
+De Seita Boa
+De Seita Má
+Ambos bom e mau
+Vence Debate
+Perde Debate
+Obra-Prima Criada
+Nuvens e Dragões se Alteram
+Invadiu o Tesouro
+Saqueou o Tesouro
+Espalhar Bondade
+Carregar Culpa
+Capturar fugitivo e criminoso

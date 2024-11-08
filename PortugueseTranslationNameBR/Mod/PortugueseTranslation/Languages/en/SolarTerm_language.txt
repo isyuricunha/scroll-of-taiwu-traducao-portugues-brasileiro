@@ -1,48 +1,48 @@
-1: Beginning of Spring
-Beginning of Spring, plum blossoms in the are especially beautiful.
-2: Rain Water
-Rain Water, the plum blossoms bloom in the rain.
-3: Awakening of Insects
-Awakening of Insects, dormant reed forests awaken with the thunderclap of noise. 
-4: Spring Equinox
-Spring Equinox, butterflies dance among the flowers.
-5: Pure Brightness
-Pure Brightness, kites fly with broken lines.
-6: Grain Rain
-Grain Rain, drinking tender emerald green tea
-7: Beginning of Summer
-Beginning of Summer, mulberries look like cherries
-8: Grain Full
-Grain Full, silkworm raised and farmed.
-9: Grain In Ear
-Grain In Ear, the purity of the seeds is judged.
-10: Summer Solstice
-Rice blooms as usual during the Summer Solstice
-11: Slight Heat
-Slight Heat, the hot winds ripen the beans 
-12: Great Heat
-Great Heat, enjoy the red lotuses by the pond
-13: Beginning of Autumn
-Beginning of Autumn, close up and go to sleep
-14: Limit of Heat
-Limit of Heat, sunflowers begin to smile 
-15: White Dew
-White Dew, Swallows and Geese return home
-16: Autumn Equinox
-The Autumn Equinox, gardens fill with scent of cinnamon
-17: Cold Dew
-Cold Dew, veggies ripen within the fields as the cold descends.
-18: Frost's Descent
-Frost's Descent, reed catkins escape to the skies
-19: Beginning of Winter
-Beginning of Winter, winter offers three lucky omens
-20: Slight Snow
-Slight Snow, geese feathers fall from the sky in the 
-21: Great Snow
-Great Snow, cold plum blossoms scatter in the wind
-22: Winter Solstice
-Winter Solstice, timely heavy snow bodes a good harvest year
-23: Slight Cold
-Slight Cold,  the wanderer grows home sick
-23: Major Cold
-Major Cold, a reunion comes at the end of the year
+1: Início da Primavera
+Início da Primavera, as flores de ameixa estão especialmente belas.
+2: Água das Chuvas
+Água das Chuvas, as flores de ameixa florescem na chuva.
+3: Despertar dos Insetos
+Despertar dos Insetos, as florestas de juncos despertam com o trovão.
+4: Equinócio da Primavera
+Equinócio da Primavera, borboletas dançam entre as flores.
+5: Pureza e Clareza
+Pureza e Clareza, pipas voam com linhas soltas.
+6: Chuva dos Grãos
+Chuva dos Grãos, bebendo chá verde e fresco.
+7: Início do Verão
+Início do Verão, as amoras parecem cerejas.
+8: Grão Pleno
+Grão Pleno, criação e cultivo de bichos-da-seda.
+9: Grão na Espiga
+Grão na Espiga, a pureza das sementes é avaliada.
+10: Solstício de Verão
+O arroz floresce como sempre no Solstício de Verão.
+11: Calor Moderado
+Calor Moderado, os ventos quentes amadurecem os feijões.
+12: Grande Calor
+Grande Calor, apreciando as flores de lótus vermelhas no lago.
+13: Início do Outono
+Início do Outono, recolhendo e indo dormir.
+14: Limite do Calor
+Limite do Calor, os girassóis começam a sorrir.
+15: Orvalho Branco
+Orvalho Branco, andorinhas e gansos voltam para casa.
+16: Equinócio de Outono
+Equinócio de Outono, jardins cheios de aroma de canela.
+17: Orvalho Frio
+Orvalho Frio, vegetais amadurecem nos campos com o frio.
+18: Queda da Geada
+Queda da Geada, painas dos juncos sobem ao céu.
+19: Início do Inverno
+Início do Inverno, o inverno traz três bons presságios.
+20: Neve Leve
+Neve Leve, penas de gansos caem do céu.
+21: Grande Neve
+Grande Neve, flores de ameixa fria se espalham ao vento.
+22: Solstício de Inverno
+Solstício de Inverno, neve pesada indica uma boa colheita.
+23: Frio Moderado
+Frio Moderado, o viajante sente saudade de casa.
+24: Grande Frio
+Grande Frio, uma reunião acontece no final do ano.

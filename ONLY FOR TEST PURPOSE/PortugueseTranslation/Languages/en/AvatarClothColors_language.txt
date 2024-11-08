@@ -1,8 +1,8 @@
 Vermelho
 Marrom
-Amarelo
+Dourado
 Verde
-Azul-esverdeado
+Ciano
 Azul
 Roxo
 Branco

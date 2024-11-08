@@ -1,16 +1,16 @@
-Ingredientes
-Graos comuns, cereais, aves e animais, etc.
+Comida
+Grãos comuns, aves, etc.
 Madeira
-Madeira comum, galhos de bambu, cipós, etc.
-Metais
-Ouro e prata comuns, cobre e ferro, etc.
-Pedras Preciosas
-Jade comum, pedras, etc.
-Tecidos
-Plantas comuns, casulos de seda, peles, etc.
-Ervas Medicinais
-Ervas comuns provenientes de várias plantas, minerais, insetos, animais, etc.
+Madeira comum, ramos de bambu, vinhas, etc.
+Minério
+Metais preciosos como ouro, ferro, cobre, etc.
+Jade
+Jades e pedras preciosas
+Tecido
+Plantas comuns, seda, pele, etc.
+Ervas
+Materiais medicinais comuns de vários tipos de vegetação, minério, insetos, feras, etc.
 Dinheiro
-Moeda feita de cobre amarelo misturado com prata, de acordo com o estilo da antiga moeda de ouro.
+Moedas feitas no estilo da dinastia anterior.
 Prestígio
-Autoridade acumulada pela admiracao e respeito de pessoas comuns, membros das artes marciais e até mesmo de inimigos malignos.
+O prestígio gerado pela admiração e respeito dos outros.

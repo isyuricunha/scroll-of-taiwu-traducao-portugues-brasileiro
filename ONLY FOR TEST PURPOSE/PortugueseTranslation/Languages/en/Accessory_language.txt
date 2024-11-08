@@ -1,476 +1,476 @@
-Anel de Ferro Forjado
-Um anel feito de ferro forjado, usado no dedo. As vezes, durante o ataque, sua dureza permite cortar a pele e a carne do oponente, causando sangramento e ferimentos.
-Ábaco de Aco
-Um ábaco totalmente feito de aco, brilhante e preto. As contas sao marcadas com símbolos e frequentemente usadas para adivinhacao. Este ábaco contém um mecanismo oculto, permitindo que as contas se projetem para fora do ábaco, o que pode ferir alguém.
-Algema de Lobo Solitário
-A algema de lobo solitário é uma algema longa com espinhos, geralmente fixada em uma arma para aumentar seu poder. Aqueles que veem essa arma em movimento podem achar difícil se aproximar ou podem ser feridos pelos espinhos.
-Ossos de Zhang Fei
-“Entre os generais de Shu, Zhang Fei é o mais heroico.” Os ossos de Zhang Fei sao feitos de metal e ferro, grandes e com a forma de um osso curvo. Sao extremamente resistentes e possuem um poder de impacto impressionante. Seu uso em batalha é feroz e intimidador.
-Talisman de Tigre de Ordem dos Espíritos
-O talisma de tigre de ordem dos espíritos tem a forma de um tigre deitado, com o corpo adornado com inscricoes em ouro. Dizem que esse objeto pode comandar espíritos e possui um aura de poder e intimidacao. Carregar este talisma faz com que a pessoa se sinta corajosa e poderosa, frequentemente causando feridas adicionais no inimigo.
-Espelho Secreto dos Seis Comandantes
-O “Espelho Secreto dos Seis Comandantes” é mencionado no livro “Histórias de Deuses e Imortais” da Dinastia Jin: “Conhecimento dos Seis Comandantes permite dominar os espíritos e presidir a cozinha”. Diz-se que quem compreende o segredo deste espelho pode realizar artes mágicas. Compreender este artefato permite ao usuário ter habilidades imprevisíveis durante o uso de poderes, impossíveis de serem antecipadas pelos outros.
-Trono de Ferro do Dragao
-“Conduza o dragao negro e vá ao norte”. O dragao negro, um tipo de dragao serpentino, é conhecido por seu poder e forca. O trono de dragao é esculpido para representar a forca e coragem dos deuses e budas, transmitindo um aura imponente e destemida.
-Jóia de Fogo Solar Verdadeira
-“Degustar a essência da primavera, respirar o sol”. A Jóia de Fogo Solar Verdadeira é um artefato contendo grande quantidade de energia solar, semelhante ao calor do fogo divino. Ao segurá-la, suas maos se tornam quentes e, ao respirar, seu corpo é envolvido por uma aura de fogo intenso, causando queimaduras.
-Anel de Ferro do Dragao Descaído
-Feito de ferro negro, com a forma de um dragao feroz, este anel é um símbolo de poder sobre a vida e a morte. O portador deste anel adquire a capacidade de infligir ferimentos como se fossem causados por um dragao maligno, com uma forca cruel e difícil de curar.
-Esfera de Cobre Primordial
-Uma esfera redonda feita de cobre primordial, com um mecanismo interno que emite um som claro quando agitada. Usada em treinamento para verificar a estabilidade da base.
-Pena de Juiz de Prata
-Uma pena de juiz feita de prata, com mais de sete polegadas de comprimento. Embora pareca pesada e grosseira, é leve e fácil de usar, permitindo ao portador manter a calma e agir com dignidade, como um verdadeiro juiz.
-Sapo de Cabeca Voltada para o Céu
-Um objeto decorativo em forma de sapo, com uma posicao de cabeca voltada para o céu. Seu design engenhoso inclui pequenos mecanismos em suas patas, permitindo que o sapo se mantenha estável em superfícies como gelo e lama, demonstrando uma habilidade engenhosa.
-Jóia de Nuvem Vermelha
-“Milhas além dos quatro mares, ao amanhecer, as nuvens vermelhas surgem.” A Jóia de Nuvem Vermelha é pequena e delicada, com uma cor que lembra o brilho das nuvens vermelhas ao amanhecer. Quando parada, emite um brilho magnífico e vibrante.
+Anel de Ferro
+Este anel feito de ferro forjado é usado no dedo. É forte o suficiente para, ocasionalmente, rasgar a carne de outros em ataques, causando sangramento e ferimentos.
+Ábaco de Aço Fino
+Este ábaco é feito de aço negro brilhante, com contas marcadas com símbolos, frequentemente usadas para adivinhação. O ábaco possui um mecanismo oculto, que permite que as contas possam voar da bandeja e ferir os outros.
+Grilhão do Lobo Solitário
+O Grilhão do Lobo Solitário é longo e possui espinhos, geralmente preso à arma pelo guarda-mão para aumentar sua força. Quem vê essa arma sendo girada acha difícil se aproximar, ou pode se ferir facilmente nos espinhos.
+Osso de Zhang Fei
+“Os generais mais poderosos em Shu são os que voam.” O osso de Zhang Fei é feito de ouro e ferro, grande e curvado, com textura extremamente dura. Ao ser agitado, gera ventos fortes e levanta objetos pesados. A força do vento quebra o solo e atrapalha o movimento dos outros.
+Tigre Fantasma
+O Tigre Fantasma é moldado como um tigre agachado, com inscrições de ouro em seu corpo. Ao ser usado na cintura, torna as pessoas mais corajosas e parece atrair a ajuda de fantasmas invisíveis, resultando em mais sangue ao atacar.
+Espelho Místico das Seis Armaduras
+Na Dinastia Jin, “Lenda dos Imortais”: “Compreenda os seis elementos, pode usar fantasmas e deuses.” Diz-se que quem domina os seis elementos domina a arte da transformação. Compreender o sentido deste tesouro permite se transformar ao usar poder, sem que outros prevejam seus atos.
+Base do Tigre Vajra
+“Conduzindo um dragão chi para o norte”, o tigre chi é um dragão chi; por sua cabeça e garras, é chamado de tigre, símbolo de poder. Shuyi gravado no tigre chi, empresta a coragem dos deuses, trazendo espírito indomável e imponência.
+Pérola de Fogo Solar Verdadeiro
+“Engole a essência, respira o sol.” O fogo solar verdadeiro é gerado por Di Jun; a pérola contém grande energia yang. Segurá-la aquece as mãos e, ao respirar, o corpo todo é envolvido pela energia yang. Ao agir, é como se levasse fogo, machucando ao toque.
+Anel Subjugador de Dragões
+Ferro Xuan moldado em um anel, na forma de um dragão descendente, sua forma é feroz; a cabeça do dragão aponta para a cauda, representando o poder da morte. O ferro Xuan atrai o Qi do dragão, trazendo ao usuário poder fatal, e o corte da ferida é terrível e de cura difícil.
+Contas de Cobre
+As contas são feitas de cobre, com um mecanismo interno, e produzem um som nítido quando sacudidas. Quando usadas no corpo, ajudam a manter a estabilidade do centro de equilíbrio.
+Juízes de Prata
+Caneta Juiz de Prata, com mais de sete polegadas, parece pesada, mas é leve, e embora pareça desajeitada, é ágil. Mesmo sem força interna, pode ser usada livremente, transmitindo calma e dignidade como um juiz.
+Sapo Chaotian
+O sapo é um ornamento de sapo virado para cima, chique e delicado, com quatro pés incrustados de minúsculos mecanismos, permitindo-lhe firmemente se apoiar em gelo, lama, areia, etc., um efeito bastante mágico.
+Cabernet Sauvignon
+“Quatro brilhantes a três mil milhas, a cidade vermelha sobe de manhã.” Quando o sol nasce, a luz vermelha se espalha, iluminando as montanhas de neve. O nome vem da cor das nuvens vermelhas, e ao repousar, sua luz se dispersa em cores vibrantes.
 Selo de Ouro Fundido
-Um selo feito de ouro fundido. O Selo de Ouro Fundido é brilhante e resistente, e devido à complexidade de seu processo de fabricacao, é extremamente caro, usado antigamente apenas por nobres e altos oficiais.
-Caldeirao dos Espíritos Poderosos
-Os “espíritos poderosos” referem-se aos deuses. O Caldeirao dos Espíritos Poderosos é feito de um raro metal cobre e ferro, indestrutível e sempre brilhante. O caldeirao é adornado com figuras dos quatro espíritos divinos: Dragao Azul, Tigre Branco, Tartaruga Negra e Fênix Vermelha, simbolizando a estabilizacao dos quatro pontos cardeais.
-Lanterna de Ouro e Prata
-Uma lanterna de ouro e prata com um design antigo. A base da lanterna é feita de ouro e escamas de prata, brilhante e intricada, projetada para concentrar a luz e evitar que ela se disperse. Diz-se que foi criada pelo renomado artesao Wei Jin, Ma Jun.
-Jóia de Fogo da Lua
-“Essência eterna da lua, que nem o dragao de vela, nem o deus do sol podem alcancar.” A Jóia de Fogo da Lua tem uma cor clara e uma textura fria. Os objetos congelados por ela nao podem ser derretidos nem mesmo pelo brilho do dragao de vela ou do deus do sol, tornando-a um artefato divino.
-Livro de Ouro dos Mistérios
-O “Livro de Ouro dos Mistérios” também conhecido como “Dragao Negro”, é um antigo livro de um deus da montanha que conduziu uma campanha para o norte. Este livro usa tinta de ouro e água, e ferro divino para registrar a origem e os métodos de controle do deus da montanha “Dragao Negro”. Há uma antiga crenca de que estudar este livro pode levar ao poder divino e ao controle dos céus.
-Búfalo de Madeira Branca
-“De acordo com o ‘Registros Perdidos’, o Rei de Yue usou um búfalo branco para fazer oferendas ao deus Kunwu.” O búfalo branco é um símbolo de boa sorte, usado em rituais antigos. O búfalo de madeira branca é esculpido em madeira de ulmeiro branco e é usado para repelir espíritos malignos e proteger contra influências negativas.
-Dezoito Arhats
-Os dezoito discípulos de Buda Shakyamuni permanecem no mundo, transmitindo ensinamentos e guiando os seres humanos. Os dezoito arhats esculpidos em madeira, frequentemente rezando e meditando, ajudam aqueles que os veem a se afastar das impurezas do mundo e a se proteger de males.
-Imagem do Leao Vermelho
-“Leoes também cacam tigres e panteras.” O leao é o rei dos animais, e a imagem do leao em madeira, pintada com vermelho, captura sua forca e majestade. Este desenho é vívido e poderoso, e carrega uma aura de protecao contra influências negativas.
-Peixe de Madeira de Sangue de Fênix
-O Peixe de Madeira de Sangue de Fênix é esculpido em madeira vermelha com um design ocasional. Produz um som suave quando batido e é dito que pode lembrar os seres humanos de manter sua determinacao. Usado para afastar males e trazer boa sorte.
-Imagem dos Quatro Reis Celestiais
-Os Quatro Reis Celestiais governam as quatro direcoes do mundo, cada um com um tesouro mágico. As quatro imagens simbolizam completude, a capacidade de eliminar problemas, clareza de visao e protecao da pureza da mente. Ter essas imagens ao seu lado oferece protecao constante contra espíritos malignos e monstros.
-Imortal da Fragrancia Celestial
-“Desmaterializacao do corpo para adotar a forma de um símbolo, como a troca de pele da cobra ou a transformacao da cigarra.” O Imortal da Fragrancia Celestial é uma pequena escultura em madeira que parece ter sido deixada por um ser imortal. Este artefato protege a pessoa de poluicao mundana e influência negativa, guiando-a para o caminho do desenvolvimento espiritual.
-Jóia de Madeira de Agar
-As joias de madeira de agar sao de alto valor, geralmente usadas apenas por monges avancados. As joias possuem um aroma constante e doce, e aqueles que as usam podem refletir sobre suas acoes e aumentar sua dignidade, afastando energias negativas.
-Jóia de Yuan Chen
-A Jóia de Yuan Chen contém a essência da terra e possui uma natureza espiritual, exalando o "ar de grande virtude" e o "ar divino". Sua funcao é repelir danos e males de todas as direcoes, e, em situacoes críticas, pode proteger a alma e a vida.
-Torre do Céu
-"Quando a energia vital é vasta, chama-se Torre do Céu." A Torre do Céu era originalmente um artefato do Deus do Céu. Agora, moldada em madeira com uma técnica especial, embora nao tenha o mesmo poder do original, pode reunir a energia celestial e terrestre, nutrir e proteger o corpo e a mente. Se encontrar espíritos malignos, eles serao selados sob a torre e nunca escaparao.
-Pérola de Flor de Ameixa Branca
-Diz-se que "a flor de ameixa e a neve disputam a primavera". A flor de ameixa cresce na neve e nao teme o vento frio. Esta Pérola de Flor de Ameixa Branca possui a mesma essência da flor, com uma beleza pura e clara. Carregada ao seu lado, pode dissipar parte do frio.
-Pérola de Descongelamento
-O gelo derrete para se tornar água, chamado descongelamento. A Pérola de Descongelamento é feita de madeira e contém calor interno, mantendo-se aquecida sem ser excessivamente quente. Ela pode derreter gradualmente o gelo ao redor, aliviando o frio.
-Caixa de Luz de Fogo
-Com madeira e pedra como combustível, a caixa produz fogo quando a pedra é esfregada. O fogo aquece a madeira, mas a caixa, devido à sua construcao engenhosa, nao queima. O fogo dentro da caixa pode ser visto e sentido, e ao colocá-la em áreas frias, o frio é rapidamente dissipado, aquecendo o ambiente.
+O selo de ouro é feito ao derreter um vaso de ouro e fundi-lo. O selo dourado tem um corpo brilhante, textura pesada e é caro devido ao processo complicado; na antiguidade, só reis e generais o usavam.
+Tripé Weiling
+Weiling é o espírito dos deuses. Seu corpo é gravado com os quatro espíritos: Dragão Azure, Tigre Branco, Tartaruga Negra e Pássaro Vermelho, simbolizando “os quatro espíritos do céu, estabilizando as direções”.
+Base de Ouro e Prata
+Base de lâmpada de ouro e prata em estilo antigo, a base é de ouro, e as escamas de prata têm forma e cor brilhantes. A estrutura é refinada, com luz de vento condensado, mantém luz e sombra reunidas, sem tremer, diz-se criação do famoso artesão Ma Jun.
+Pérola de Fogo Taiyin Verdadeiro
+A chamada "essência antiga de Taiyin, onde o dragão da vela não habita, Xixi e menos que", a pérola de fogo verdadeiro Taiyin é clara em cor, com textura fria. Congela o que toca; mesmo se o dragão da vela brilhar, Xixi e sua luz não conseguem dissolver nada, sendo um objeto divino.
+Livro de Ouro Xuan Li
+Xuan Li, também chamado de "Xuan Chi", é um deus da montanha antiga que certa vez cavalgou pelo rei de Chu em sua expedição ao norte. Este livro é feito com água dourada como tinta e ferro divino como páginas, registrando a origem do deus "Xuan Chi" e métodos para controlá-lo, assim existe o ditado "Livro Xuan busca chi, sobe ao céu e monta as nuvens".
+Vaca de Madeira Branca
+O Recolhimento: "Rei Goujian fez trabalhadores com bois brancos, altar ao deus de Kunwu." O boi branco é auspicioso, utilizado em sacrifícios; vaca de madeira branca em olmo branco moldada pode afastar espíritos e evitar o mal.
+18 Arhats
+Os dezoito discípulos de Buda Sakyamuni sempre estão no mundo, ensinando. O mundo os valoriza, chamando-os de dezoito Luohan. Esculpindo os dezoito Luohan em madeira e recitando sutras, é possível alcançar iluminação e "ver o corpo sem forma no mundo da sujeira", elevando a mente, que se liberta de impurezas e nada pode invadir.
+Desenho do Leão Vermelho
+"leão, também come tigre e leopardo", o leão é o rei dos animais. Leão esculpido em madeira, coberto de laca vermelha e pintado com laca, forma uma figura vívida de leão. Ao carregar, traz força para capturar insetos fracos e venenosos.
+Peixe de Madeira com Sangue de Fênix
+Peixe feito de madeira de mogno, oco e com som suave quando golpeado. "Com sua cor e aparência, o peixe lembra o mundo de não esquecer o coração"; carregando-o, evita-se danos.
+Estátua dos Quatro Reis
+Os quatro reis celestiais governam quatro mundos, cada um com tesouros e olhos severos. Os tesouros dos quatro ensinam a perfeição, quebram preocupações, permitem ver claramente e mantêm o coração puro. Com a estátua dos quatro reis celestiais por perto, os tesouros protegem, subjugam demônios e armadilhas malignas.
+Imortal Dissolve-Corpo
+"O corpo se dissolve, forma e elefante, cobra e cigarra voam", fragrância dissolve o imortal, pequena escultura de manto taoísta, parece um imortal que alcançou o Tao. Este dissolve-corpo protege, afastando sujeira e espíritos maus, atraindo pessoas ao Tao.
+Contas de Nanmu
+Contas pendentes são usadas de forma única; Ganesha é o mais valioso, só altos sacerdotes usam, marcando a posição dos discípulos. Com aroma doce e rico, a pessoa virtuosa que as usa reflete-se sempre, ganhando autoridade e removendo energias ruins dos oito lados.
+Pérola Zhen Yuan
+Zhen Yuan Zhu contém essência da terra tibetana, pode ser psíquica, emitindo "vento de moral elevada", como o ar dos deuses. Sua função afasta o mal e protege o espírito, mantendo a vida.
+Torre do Céu Claro
+"Qi vasto, chamado de Hao Tian", Torre Hao Tian foi originalmente de Deus Hao Tian; agora uma técnica criou torre de madeira, que retém energia de céu e terra, protegendo corpo e mente. Quando o mal se aproxima, é subjugado pela torre, sem escapatória.
+Contas de Ameixa Branca
+Dizem que "ameixa e neve competem pela primavera," a ameixa branca nasce na neve, que não teme o vento frio. Estas contas de ameixa branca lembram o espírito da ameixa, claras e belas, afastando o frio.
+Contas Dissolventes de Frio
+O gelo derretendo em água é chamado de dissolução do gelo. As contas de dissolução de gelo são feitas de madeira que gera calor, quente, mas não incandescente, fazendo com que o gelo e a neve ao redor se transformem gradualmente em água, assim dissolvendo o frio.
+Caixa de Fogo
+Com madeira e pedra como guias, ao guardar na caixa e balançá-la, a pedra gera fogo, a madeira queima intensamente, formando a caixa de fogo. Devido à construção precisa, a caixa não queima. Vê-se o brilho do fogo e o calor dentro da caixa, que dissolve o frio ao redor quando colocado em uma área fria, aquecendo o corpo.
 Pérola da Cobra Vermelha
-Feita com sangue de cobra vermelha embebido em uma pérola de madeira, a qual seca sem mostrar a cor do sangue na superfície, mas contém a essência do sangue interno. "A cobra vermelha traz boa sorte e ilumina o ambiente." Esta pérola tem um aura auspiciosa e pode iluminar os arredores, dissipando o frio e as energias malignas, trazendo bêncaos para quem a carrega.
-Pingente de Sangue de Rosa
-Extraído do suco das árvores e absorvido pelo madeiro aromático, o pingente é feito com uma fita de seda. Este pingente, quando exposto ao frio ou veneno, libera o suco da madeira como se fosse um orvalho sanguíneo, que se transforma em névoa e dissipa o veneno no ar. O aroma de madeira e orvalho é intenso e refrescante.
-Garca Vermelha com Penas Azuis
-"Diz-se que quando se vê um pássaro com penas vermelhas e bico branco, um grande incêndio está para acontecer." Este pássaro é moldado e pintado com penas vermelhas e azuis, representando a Garca Vermelha. O pássaro parece ter um fogo invisível ao seu redor, que afasta o frio e a umidade, embora seja necessário ter cuidado para evitar incêndios acidentais.
-Impressao do Sol Roxo
-Quando a energia solar é intensa, ela é chamada de Sol Roxo. A Impressao do Sol Roxo é de cor vermelha e contém a energia do Sol Roxo, escondendo o fogo do Sol. É adequada para pessoas nascidas em momentos de阴, equilibrando as energias yin e yang. Sua intensa energia solar faz com que energias frias e venenosas recuem e também pode ser usada para repelir espíritos malignos.
-Pérola de Areia
-"Viaje pelo vasto mar e explore distantes terras." A Pérola de Areia possui a capacidade de repelir a água e transformá-la. Ela é usada para criar um ambiente similar ao de um vasto mar, superando a umidade e o frio, tornando-a nao apenas resistente à invasao do corpo, mas também útil para melhorar a saúde.
-Impressao de Xi He
-No "Clássico das Montanhas e Mares": "Xi He, esposa do Imperador Jun, deu à luz dez dias." Xi He é a mae dos dez sóis e a fonte de toda a energia solar no mundo. Esta Impressao de Xi He também pode gerar energia solar no caos e criar calor na escuridao. Ao encontrar energia fria e obscura, ela se transforma, aquecendo os ambientes por onde passa.
-Pérola de Roupas Limpas
-"O vento e a água do bambu limpam a poeira das roupas." A Pérola de Roupas Limpas é branca como a neve e pode absorver sujeira e energias malignas. Quanto mais profunda a sujeira, mais a pérola muda de cor. É bastante útil para limpar roupas.
-Contas de Jade Verde
-Compoe-se de 108 contas de jade, tingidas com folhas de lótus, resultando em um verde intenso. Estas contas têm um aroma fresco e podem repelir venenos e odores. Ao recitar mantras com elas, o aroma pode envolver o corpo, retardando a decomposicao mesmo após a morte.
-Ramo de Néctar Doce
-Com três pés de néctar doce que pode salvar muitas vidas, o ramo é feito de galhos que cresceram após a chuva. Esses galhos, nutridos pelo néctar, sao verdes e úmidos. Quando usado, pode promover o crescimento de carne e sangue em áreas de putrefacao.
-Assento de Buda de Avalokiteshvara
-"Nasce do lodo sujo, sentado sobre uma plataforma de lótus." Avalokiteshvara usa uma flor de lótus de mil pétalas como assento, nao se contaminando com a sujeira do mundo, mas encontrando um espaco limpo. Esta peca esculpida em madeira, representando a flor de lótus de mil pétalas, ajuda a purificar o corpo, tornando-o limpo e puro.
-Caixa de Busca de Fragrancias
-Este item, ao ser aberto, libera uma fragrancia, que ao ser inalada, faz ouvir uma música etérea, semelhante à música celestial, como se estivesse na presenca de um deus da fragrancia. Durante a busca pela fragrancia, se o coracao da pessoa for sincero, nem espíritos nem demonios podem invadir, e a má energia nao pode contaminar, protegendo o corpo mortal. No entanto, se o coracao nao for sincero, a música gradualmente desaparece, a fragrancia desvanece, e este tesouro se torna inútil.
-Caixa da Transformacao da Terra Pura
-Os seres dos quatro caminhos, ao praticarem as dez boas acoes e beberem a água das oito virtudes, podem nascer separadamente no Reino Puro da Felicidade Suprema. Esta caixa segue a intencao de Buda, utilizando-a para transformar madeira seca em solo, e armazená-la em uma caixa que nao apodrece. Ao carregá-la e compreendê-la, se alguém alcancar o grande caminho, o corpo físico será remodelado como se renascesse, gradualmente tornando-se um corpo incorruptível.
-Jarro da Fonte da Primavera
-Este jarro possui uma pintura de um riacho primaveril, e é preenchido com a água do riacho da primavera. A água da fonte tem um aroma refrescante, capaz de purificar toda a criacao. O jarro parece conter o espírito da primavera, e a água dentro dele nao apodrece com o tempo. Quando a água penetra na madeira do jarro e depois entra na pele, possui um efeito milagroso que transforma carne morta e venenos em nutrientes para regenerar a pele, fazendo com que a pele humana exale a vitalidade da primavera, tornando-a radiante e agradável.
-Jóia Mágica de Wu Xian
-"Wu Xian, um grande médico dos tempos antigos, usava sua arte para curar o imperador Yao e abencoar as pessoas com saúde". Diz-se que Wu Xian usava uma jóia mágica para curar doencas e conceder bêncaos. A jóia fabricada hoje parece conter o poder protetor antigo, capaz de curar centenas de doencas e neutralizar centenas de venenos. Quem a possuir receberá a energia vital da jóia, prolongando sua vida, fortalecendo seu corpo, recebendo bêncaos e evitando infortúnios, sendo assim um objeto espiritual.
-Pintura de Nüwa
-Nüwa moldou o barro para criar a humanidade e infundiu o poder divino nas figuras de barro, permitindo-lhes viver e se multiplicar. A pintura de Nüwa retrata a criacao dos humanos por Nüwa, capturando uma fracao do poder divino original de dar vida ao barro, permitindo que uma energia vital do universo seja absorvida pelo corpo humano. Se houver carne em decomposicao que nao possa se regenerar, essa forca pode estimular o renascimento espiritual, de modo que nenhuma putrefacao possa superar o poder da vida.
+O sangue da cobra vermelha é embebido nas contas de madeira, secando dentro delas sem aparecer na superfície. "Essas contas irradiam energia auspiciosa, dispersando o frio e veneno ao redor, e abençoando quem as possui.
+Pingente de Incenso de Sangue
+Molhe a madeira em suco de sangue, tingindo-a, e use uma fita de seda para criar um pingente. Quando em contato com veneno frio, a madeira solta um orvalho de sangue que evapora, espalhando-se no ar, e o veneno parece desaparecer ao cheirar a fragrância que atravessa o coração.
+Garça Vermelha
+"Há um pássaro, vermelho com detalhes verdes e bico branco, ao vê-lo o fogo logo se acende." O pássaro sagrado, pintado com verde e penas de Zhu, parece uma garça verde com fogo invisível, resistindo ao frio Yin, mas é preciso cuidado para não gerar fogo inesperado.
+Selo Vermelho de Yang Púrpura
+Yang Púrpura é o resultado de uma forte energia Yang. O Selo Vermelho de Yang Púrpura, vermelho e com Qi de Yang Púrpura, oculta o Fogo de Yang Púrpura, adequado para aqueles nascidos em tempos Yin, equilibrando o Qi Yin do Reino Celestial. Com sua energia Yang, o frio e o veneno Yin recuam, sem se aproximar.
+Pérola Shatang
+"Percorrer o oceano, uma reflexão", Shatang evita e cria água; a pérola Shatang compartilha essa habilidade, não repelindo, mas transformando-a. Com a capacidade de nadar em estado de tranquilidade, vence o frio e Yin da água, evitando danos ao corpo e talvez transformando-a em algo útil.
+Selo Xiehe
+No Sutra da Montanha e do Mar, "Xixihe é a esposa de Di Jun, que deu à luz o Décimo Dia". Xixihe, mãe do Décimo Dia, é fonte de toda energia Yang. Esse selo gera energia Yang no caos, criando forte energia à noite, transformando o Yin frio e obscuro ao contato.
+Contas de Purificação
+"As contas são brancas como a neve, absorvendo sujeira e energia maligna; quanto mais sujeira, mais mudam de cor." Alguns usam essas contas para limpar roupas, sendo muito prática.
+Contas de Oração Verde-Afundada
+Pegue 108 contas, tingidas com folhas de lótus até se tornarem verde-escuras. Com aroma limpo e fresco, repele venenos e odores, e ao ser recitada, seu aroma permeia o corpo, evitando até que um corpo morto se decomponha por mais tempo.
+Galho da Chuva Doce
+Três pés de chuva doce podem salvar todos. O galho de chuva doce cresce após a seca e foi nutrido pela chuva, ficando verde e úmido. Ao tocar o galho, algo sente sua presença e cresce, e se houver corrupção no corpo, carregá-lo pode fazer a área afetada crescer.
+Assento de Buda Guanyin
+No Sutra: "Nascido na lama, todos sentam na plataforma de lótus", Kuan Yin usa a flor de lótus de mil pétalas como assento, sem se manchar com a lama do mundo, para obter uma terra pura. O assento de madeira com lótus de mil pétalas, com sinceridade no coração, também pode remover as impurezas do corpo físico e obter sua pureza.
+Caixa Perfumada
+Este objeto exala aroma ao ser aberto, e ao sentir a fragrância ou ouvir a música, indistinta e etérea como música celestial, é como ver os deuses do incenso. Ao buscar o incenso, se a pessoa for sincera de coração, os espíritos e fantasmas não podem invadir, o ar turvo não mancha o corpo; se o coração não for sincero, a música e a fragrância desaparecem gradualmente, tornando este tesouro inútil.
+Caixa de Encarnação da Terra Pura
+Se praticar as dez boas ações e beber as oito águas virtuosas, você pode renascer na Terra Pura da Felicidade. Esta caixa é feita com a intenção do Buda, usando madeira morta e convertendo em terra. Abraçando-a e cultivando-a, quem alcançar seu caminho verá o corpo como renascido, tornando-se um corpo não perecível.
+Bule da Corrente Primaveril
+O bule é pintado com um desenho de corrente primaveril, cheio de água de primavera, com aroma e poder para purificar o nascido da impureza. A água não se estraga com o tempo, percolando para a madeira e a pele, e transformando gases venenosos de carne podre em novas células, e a pele humana parece florescer como a primavera, clara e vibrante.
+Pérola do Tesouro de Wukam
+"Wu Xian, médico de Hong para o imperador Yao, podia estender bênçãos e curar doenças." Dizem que Wu Xian usava estas pérolas para curar e abençoar. As pérolas de hoje parecem herdar o poder antigo, repelindo doenças e venenos, aumentando a saúde de quem as possui e trazendo bênçãos para evitar danos, sendo um objeto espiritual.
+Desenho de Nuwa
+O Imperador de Wa fez um homem de barro, usando poder divino para dar vida aos bonecos de terra, permitindo que nascessem e se reproduzissem. O desenho da criação de Nuwa, com um pouco do poder divino antigo, consegue captar o "sopro de vida" do céu e da terra; e ao aplicá-lo em humanos, se algum corpo apodrecer, usa seu poder para promover o nascimento de um espírito, superando a podridão com vida.
 Leque de Bambu Verde
-Um leque feito de bambu verde, simples e plano, que ao ser abanado, traz uma brisa fresca, acompanhada pela energia purificadora do bambu. Ele ajuda a circular o ar ao redor, promovendo o fluxo dos meridianos e eliminando o calor e as toxinas.
-Estatuetas de Diversao Musical
-As estatuetas de diversao musical vêm em dez formas diferentes, algumas segurando um pipa, outras inclinadas tocando uma cítara, ou batendo tambores com as duas maos... Cada uma com uma expressao única, imersa na música. Observar essas estatuetas também afeta o observador, fazendo-o ouvir música imaginária e ver sorrisos, enchendo o coracao de alegria e dissipando preocupacoes.
-Nó de Cem Lacos Cruzados
-Usando ramos de madeira macia, que sao flexíveis e podem ser torcidos, criam-se cem lacos entrelacados, resultando no Nó de Cem Lacos Cruzados. A estrutura é engenhosa, proporcionando diversao ao ser desmontada e puxada em várias direcoes. Quem a manipula se perde na atividade, esquecendo os assuntos do mundo, e quando retorna à realidade, sente-se relaxado e revigorado.
-Jarro de Estomago de Demonio
-Este jarro é muito peculiar, esculpido com maos, pés e uma cabeca pequena, enquanto seu corpo é grande como um tambor, semelhante a um demonio. O jarro tem o gosto de devorar vapores tóxicos e, quando em contato com eles, emite um som trovejante em seu interior. Quando o som para, o vapor tóxico já foi engolido pelo jarro, sem deixar rastro.
-Cesta de Sete Orifícios
-"As pessoas têm sete orifícios para ver, ouvir, comer e respirar". Esta cesta é feita de madeira macia, com sete furos esculpidos nas partes essenciais, imitando os sete orifícios humanos. A cesta possui a habilidade de absorver e transformar a energia ao seu redor. O ar puro entra pelos sete orifícios e as toxinas sao expulsas pelos mesmos, de modo que quem respira através da cesta inala apenas ar limpo e exala toxinas que sao transformadas.
-Pérola de Controle de Vento
-A Pérola de Controle de Vento tem a capacidade de controlar e acalmar ventos, nao apenas os ventos físicos, mas também os ventos do coracao. Quando uma pessoa está ansiosa, a pérola acalma o vento interior, protegendo-a das perturbacoes do mundo, trazendo tranquilidade ao coracao e dissipando preocupacoes.
-Leque de Pêssego com Osso de Dragao
-O leque é decorado com flores de pêssego, e suas hastes sao esculpidas em madeira de uma caverna de dragao, daí o nome Leque de Pêssego com Osso de Dragao. Muitas vezes é segurado por mulheres, cuja beleza é realcada por ele. Ao agitá-lo, uma suave fragrancia de flores de pêssego se espalha, que ao ser inalada, purifica o peito, dissipando a melancolia e as toxinas. A fragrancia penetra nos ossos e alma, fazendo com que o usuário exale uma fragrancia sutil por todo o corpo.
-Pérola da Unidade dos Três Princípios
-"Os três dao origem a todas as coisas, sustentando o yin e abracando o yang, harmonizando a energia". A unidade dos três princípios está presente em todas as coisas, equilibrando-se com o yin e o yang. Esta pérola tem a capacidade de ajustar o yin e o yang. Em ambientes onde a vida sofre, se o yang estiver enfraquecido, ela o fortalece; se o yin estiver deficiente, ela o restaura, harmonizando a vitalidade ao seu redor e prevenindo o acúmulo de energias negativas.
-Incensário do Imperador Roxo
-Somente o bambu roxo de nove curvas pode ser usado para criar este raro incensário. De cor roxa escura e textura densa, ele libera uma fragrancia espiritual quando o incenso é queimado. Essa fragrancia acalma todas as dores, tristezas e melancolias do coracao, permeando o ar e protegendo constantemente a pessoa contra o sofrimento e as emocoes negativas.
-Anel de Bambu Verdejante
-Este anel é feito de um bambu fino, polido e enrolado, formando um círculo de jade verde. Usado no pulso, além de sua beleza, ele possui um efeito refrescante que alivia inflamacoes e dores.
-Estátua de Madeira
-"Por acaso esculpi uma estátua de madeira, e de repente surgiram inúmeros buscadores de bêncaos". A Estátua de Madeira é uma escultura de um ídolo que o povo chama de "monge", acreditando que ela concede bêncaos. Essa escultura de madeira nao deve ser exposta ao sol por longos períodos nem ser colocada perto do fogo, e deve ser cuidada com devocao.
+Um leque de bambu verde, de peça plana, ao ventilar traz o frescor do bambu. Ele ajuda a circular o ar, promove o fluxo dos meridianos e alivia o calor e a depressão.
+Guerreiros de Terracota
+Há dez tipos de figuras musicais coloridas, algumas tocando pipa, outras inclinando-se para tocar alaúde, ou tocando tambor com as duas mãos... Cada uma tem um estilo único. O espectador também é envolvido por essas figuras, sentindo a música, vendo as risadas e sentindo a alegria, aliviando o coração das tristezas.
+Galhos Entrelaçados
+Pegue galhos de madeira maleáveis, flexíveis e dobráveis, torça em cem formas, criando um nó entrelaçado e intricado. A estrutura deste objeto é requintada, cada lado tem algo para brincar; quem o manuseia se perde em sua complexidade, esquecendo as preocupações, voltando com a mente mais leve e coração tranquilo.
+Pote de Barriga de Fantasma
+Este pote é bem peculiar, com mãos, pés e uma cabeça pequena, e barriga grande como um tambor, parecendo uma figura fantasmagórica. Este pote “come” gases de depressão e veneno, e quando anoitece, você ouve os trovões como tambores dentro do pote, até que o som cesse e o gás seja absorvido.
+Cesta de Sete Truques
+"As pessoas têm sete orifícios para ver, ouvir, comer e respirar", uma cesta de cortiça, com sete orifícios cortados em pontos estratégicos, semelhantes aos sete orifícios humanos. Esta cesta tem a capacidade de absorver gás, o gás entra pelos sete orifícios, e o veneno sai por eles, assim, o que se inala é puro, e o que se exala é o veneno transformado pela cesta.
+Pérola de Vento
+A pérola de vento tem a habilidade de acalmar o vento, não o vento do mundo mortal, mas o vento do coração. Quando alguém está aflito, o vento pode ser parado, permitindo que a pessoa fique livre das perturbações mundanas, com o coração em paz e aliviado de sua tristeza.
+Leque de Flor de Pêssego
+O leque é pintado com flores de pêssego e sua estrutura é esculpida de madeira da caverna do dragão, formando o leque de flor de pêssego com osso de dragão. Geralmente usado por mulheres, exala uma leve fragrância de flor de pêssego, que limpa os pulmões, alivia a tristeza no peito e, através da alma, penetra nos ossos, trazendo aroma por todo o corpo.
+Pérola dos Três Geradores
+"Três seres, mantêm o yin e o yang, harmonizando o qi”, três elementos em um, originados de todas as coisas, pois o qi contém yin, yang e harmonia própria. Esta pérola ajusta yin e yang, gerando equilíbrio; quando tudo ao redor está vivo, se o yang enfraquece, o yang é reabastecido; se o yin enfraquece, o yin é restaurado, trazendo vida e harmonia, eliminando o pesar.
+Incensário do Imperador Púrpura
+Apenas com nove curvas de bambu roxo como guia pode ser feito este raro incensário. Este incensário é de cor roxa e preta, com textura serena. Ao queimar incenso nele, a fragrância é como um espírito que penetra o coração, acalmando toda dor, tristeza e desânimo, espalhando-se no ar para proteger as pessoas de aflições.
+Anel de Bambu
+Pegue o bambu e polia-o para formar um anel, criando assim um anel de bambu verde-jade. Além de belo em cor e qualidade, possui propriedades refrescantes, com efeitos anti-inflamatórios e de alívio da dor.
+Soldado de Madeira
+“A estátua de madeira é uma estátua de um deus, chamada 'Guru' devido à sua imagem, que se acredita ter o poder de abençoar.” Esta escultura em madeira não deve ficar exposta ao sol por muito tempo, nem próxima ao fogo, e deve ser mantida com respeito.
 Cesta de Flores com Orvalho Frio
-Feita com galhos flexíveis, esta cesta é enfeitada com flores frescas cobertas de orvalho, resultando em uma peca vibrante e perfumada. As flores, o orvalho e os galhos parecem estar naturalmente conectados. Ao tocar, transmite uma sensacao fria e refrescante, que se intensifica quando exposta ao calor ou à energia intensa, com o orvalho evaporando para contrabalancar o calor. Quando a cesta atinge a temperatura ambiente, seu efeito refrescante é maximizado.
-Copo de Videira Antiga do Dragao
-Este copo é esculpido a partir de uma videira grossa, moldada naturalmente no formato de um dragao, devido à presenca de energia draconica na madeira. Quando usado para conter água turva, após alguns momentos a turbidez é absorvida pela madeira, deixando a água cristalina. Ao beber, a água parece incrivelmente refrescante e doce, um verdadeiro milagre do copo de videira antiga.
-Refresco de Sangue Verde
-"Eu nao tenho uma manga vermelha para me entreter à noite, entao preciso de uma dose de frescor". O Refresco de Sangue Verde é um leque feito de ramos de videira e tiras de bambu entrelacados, cuja estrutura oca permite a passagem do vento. Pode ser usado tanto para apoiar o corpo quanto para abaná-lo, proporcionando uma brisa refrescante e alívio imediato ao calor.
-Pérola de Gelo Perpétuo
-A Pérola de Gelo Perpétuo é tao fria quanto gelo, mas nao derrete com o calor, nem se quebra com o impacto, nem se transforma quando em contato com outros objetos. Quando uma pessoa está cercada por calor, pode segurá-la para sentir um frio reconfortante que se espalha pelo corpo, afastando o calor e trazendo uma sensacao de alívio refrescante.
-Tesouro de Energia da Terra
-Feito da essência espiritual da madeira absorvida pela terra, este é o Tesouro de Energia da Terra, formado a partir do núcleo da energia da terra, que foi purificado para remover impurezas. Este tesouro constantemente muda de forma devido à influência da energia da terra, mas sempre contém o poder nutritivo do yin da terra. Quando confrontado com vapores tóxicos, seu poder se transforma para neutralizá-los, impedindo o desenvolvimento das toxinas.
-Vasos de Dragao Inatos
-Estas árvores crescem em lugares com feng shui favorável e sao alimentadas pela energia espiritual, formando os Vasos de Dragao Inatos. Cortadas no ponto onde se conectam à terra, essas madeiras possuem a energia do dragao, sendo espiritualmente ativas como se fossem criaturas vivas. Elas nao temem o calor extremo ou o veneno solar, dissipando essas forcas à vontade.
-Pérola do Nirvana
-"Na roda da vida e da morte, sem ser influenciada por causas e condicoes, isso é chamado de nirvana". A Pérola do Nirvana transcende a vida e a morte, sendo um tesouro dos dezoito reinos além deste mundo. Quem a carrega pode usá-la para alcancar o caminho da iluminacao. Ao entrar no estado de nirvana, a pessoa nao será mais afetada pelas intempéries, pelo frio ou pelo calor intenso, alcancando uma paz suprema e um estado de quietude em que as preocupacoes nao se manifestam, chamado de "frescor supremo".
-Talisman de Bambu Verde
-Um talisma feito de bambu verde, pendurado em uma vara. Ao caminhar, o som das pecas de bambu se chocando faz um ruído rítmico, servindo como prova de fé. Esse som muitas vezes desperta a mente das pessoas, e seu significado elevado pode, em momentos críticos, alertar as almas.
+Prepare uma cesta de flores com galhos flexíveis, pegue algumas flores com orvalho e monte algo brilhante e bonito, exalando aroma. Suas flores, orvalho e galhos parecem ser de uma só origem, e ao tocar o frio, ao encontrar calor ou energia forte, o orvalho reativa e resiste, até que a cesta esteja morna; nesse ponto, já cumpriu seu propósito.
+Copo Dragão de Cipó Antigo
+O copo é esculpido de madeira de cipó forte, modelado com formato de dragão devido à energia do dragão que carrega. Se esse copo contiver água turva, aguarde um momento, a turvação é absorvida pela madeira, e a água torna-se limpa, penetrando fundo e refrescante, deixando quem a bebe sentir o frescor e doçura do copo de cipó antigo.
+Esposa de Bambu Verde Esculpida
+"Não tenho mangas vermelhas para animar a noite, mas quero que o servo verde me traga frescor." Esta gabion de bambu e cipó é um dispositivo refrescante, com estrutura oca e trançado poroso que permite o vento circular, e pode ser segurada ou apoiada, trazendo sensação de frescor e vento frio.
+Pérola de Condensação
+A condensação é imutável, a pérola de condensação é fria como gelo, mas não derrete com calor, nem se destrói com colisões, mantendo-se intacta. Quando alguém sente calor extremo, basta segurar essa pérola, e o frescor penetra no corpo, acalmando o coração, e o calor recua, trazendo alívio e frescor.
+Centro Espiritual do Tesouro da Terra
+Madeira espiritual absorveu a essência e a forma da terra, tornando-se um tesouro terrestre, extraia seu núcleo espiritual, remova a sujeira, e você obterá este objeto. Esse tesouro muda de forma com o ambiente, variando naturalmente, e contém o poder do Yin da terra. Quando encontra gás venenoso e flamejante, a força o transforma, anulando o veneno.
+Veias de Dragão Inatas
+No ponto de dragão do feng shui onde nascem as árvores, o espírito se forma, e ao cortar a conexão com as veias da terra, surgem as veias de dragão inatas. Essa força ocorre apenas por causa das condições de tempo e espaço, sendo impossível para humanos cultivarem; possui o qi do dragão, espírito como uma criatura viva, imune ao calor e ao veneno de Yang, sendo livre para circular.
+Pérola de Nirvana
+“A pérola de Nirvana é um tesouro além dos 18 reinos. Quem a carrega consigo pode trilhar o caminho da iluminação. Ao entrar no estado de nirvana, estará livre de sofrimentos causados por vento e chuva, frio e calor, e poderá experimentar frescor e paz absoluta, sem surgirem preocupações, o que é chamado de "supremo frescor".
+Amuleto de Bambu Verde
+Amuleto feito de bambu verde, com peças de bambu penduradas, emitindo um som de batidas ao caminhar, como prova de honestidade. Esse som desperta o espírito das pessoas, e sua energia elevada pode, em um instante, alertar a alma.
 Caixa de Magnólia da Montanha
-A magnólia nas montanhas possui uma cor jadeada e exala uma fragrancia elegante e duradoura. Guardada em uma caixa, a sua delicada fragrancia enche o ar, limpando os pulmoes e revigorando a mente. Quem a cheira sente como se estivesse sob o brilho claro da lua, sentindo-se purificado e desperto.
-Guijianchou
-“O fantasma está preocupado ou nao, o homem também nao sabe, como o rei brilhante, guardando as quatro direcoes.” Guijianchou é uma pérola redonda de cor marrom-chá, com veios pretos profundos em seu interior. Diz-se que este objeto pode afastar espíritos malignos, assim como uma jade brilhante que protege as quatro direcoes, guardando a consciência das pessoas e eliminando seus problemas.
-Contas de Bodhi
-As contas de Bodhi sao feitas dos frutos da árvore Bodhi, extremamente duras e, quanto mais polidas, mais brilhantes se tornam, sendo capazes de repelir o mal e evitar desastres. “Ao recitar, o mantra e o gesto formam um selo que captura a mente,” recitar o mantra regularmente infunde poder nas contas de Bodhi, ajudando a concentrar a mente, tornando-a menos suscetível a perturbacoes externas.
-Seda Onírica de Siló
-“Embriagado com a seda de Siló, desperto subitamente, escutando o som límpido das águas nas montanhas,” este objeto é feito de fibras de videira, trancadas em uma forma intricada de gaiola, onde se pode queimar incenso. A fumaca leve envolve a pessoa, como se estivesse em um sonho, enquanto o ar puro da seda natural traz uma sensacao refrescante que desperta a mente, fazendo com que os sentidos se tornem mais claros e a mente, mais tranquila.
-Lampada da Alma Retornante
-A Lampada da Alma Retornante é uma lampada azul que, quando alimentada por ramos verdes, emite uma luz azulada, com pequenas partículas que parecem vagalumes voando ao redor. Sua luz profunda e misteriosa atrai almas, e se as três almas de uma pessoa forem assustadas, elas podem hesitar em partir devido à ligacao com esta lampada, e, ao recuperarem a consciência, podem retornar ao corpo.
-Imagem Sagrada de Ananda
-“Como a lua cheia de outono, seus olhos sao como flores de lótus puras.” Esta imagem é esculpida na forma de Ananda, com uma expressao serena e pura, proporcionando orientacao constante. Ananda significa “sem mancha,” representando firmeza de espírito e uma mente clara como um espelho. Receber sua orientacao ajuda a manter pensamentos corretos, resistindo às tentacoes e mantendo uma determinacao inabalável como uma montanha.
-Espelho da Verdade
-De acordo com o Sutra do Coracao da Sabedoria: “Todos os fenomenos sao vazios, nao nascem nem morrem, nao sao impuros nem puros, nao aumentam nem diminuem,” o Espelho da Verdade reflete a verdadeira essência do coracao humano. Assim, percebe-se que nao há “eu” no mundo, nem verdade nem falsidade. Compreendendo esta verdade, a pessoa nao será mais enganada pelas ilusoes do mundo.
-Flor Celestial de Euphoria
-A Euphoria é uma flor celestial de pétalas brancas e macias, que, ao ser vista, dissipa todo o mal. Os budistas a consideram um presságio de boa sorte. Esta flor, criada pela alma pura do bambu roxo, ajuda a pessoa a compreender a verdade do universo. Ao contemplá-la, pode-se alcancar um estado de clareza e pureza, removendo todos os males e ilusoes, permitindo ver o mundo com clareza.
-Bolsa de Tabaco com Padrao de Tigre
-Uma pequena bolsa do tamanho de uma mao, feita de pele de tigre, bordada com padroes de flores, pássaros, animais e peixes, usada para armazenar tabaco. A selvageria do tecido, impregnada pelo tabaco, traz uma sensacao de alerta. Por ser um objeto de uso pessoal, era frequentemente utilizado para expressar sentimentos.
-Tambor de Rosto Humano
-Diz a lenda que os primeiros tambores de rosto humano foram feitos com a pele de criminosos, sendo usados para fazer as duas faces do tambor. Hoje, sao feitos de pele de animal, com bordados de rostos humanos. Quando o vento passa, o tambor emite um som suave. Aqueles que ouvem o som despertam e se tornam mais vigilantes.
-Bainha de Lobo Azul
-“Quando a estrela brilhante aparece no céu, o lobo azul cai,” esta bainha é feita de couro resistente e durável, usada para guardar espadas e facas destinadas a cortar o mal. Pessoas gananciosas e cruéis temem-na, e quando a lamina é desembainhada, sua presenca maligna se dissolve, como se protegida por estrelas. Esta bainha frequentemente faz as pessoas refletirem e progredirem em suas vidas.
+A cor de jade da orquídea das montanhas é guardada na caixa, com uma fragrância elegante e duradoura. Esta caixa exala um perfume que purifica o coração e os pulmões, e seu aroma é como ver a luz da lua, trazendo clareza e autoconsciência.
+Preocupação dos Fantasmas
+“A preocupação do fantasma não se percebe, como um guardião radiante, protegendo os quatro cantos.” Esta é uma esfera marrom com tons de chá e um tom profundo preto. Dizem que esse objeto repele espíritos malignos e age como uma jade protetora em quatro direções, guardando a mente humana e eliminando preocupações.
+Contas de Prece Bodhi
+Sementes de bodhi enfileiradas em uma corda de oração, sólidas e duradouras, quanto mais usadas, mais brilham, afastando o mal e prevenindo desastres. “Sempre que orar, o selo da palavra verdadeira, o coração se alinha”, ao repetir orações, as palavras verdadeiras se incorporam nas sementes de bodhi, mantendo a mente estável e protegida contra distrações externas.
+Gaiola de Sonhos Trançados
+“Embriagado pelo aroma de seda, desperto com a mente límpida”, uma delicada gaiola feita de rattan e seda permite queimar incenso em seu interior. A fumaça envolve quem está próximo, dando a sensação de entrar no sonho de Huaxu, ouvindo o sussurro claro do vento e do perfume natural, deixando os sentidos claros e a mente em paz.
+Lâmpada do Retorno da Alma
+A lâmpada de retorno da alma é verde, queimando galhos verdes que emitem uma fluorescência suave, com faíscas como vaga-lumes voando. Seu brilho verde penetra no invisível, chamando a alma. Se as três almas se afastarem por medo, ao segurarem esta lâmpada, serão guiadas de volta ao corpo.
+Estátua Sagrada de Ananda
+“A imagem de Ananda é como a lua cheia de outono, com olhos como flores de lótus puras.” Ananda simboliza a pureza, com uma vontade clara como espelho. Ele ensina que ter retidão no coração ajuda a resistir a tentações e fortalece a vontade, firme como a montanha Tarzan.
+Espelho da Tathata
+Segundo o significado da verdade no Sutra do Coração da Prajnaparamita: "Todas as coisas são vazias, sem nascimento ou morte, sem mancha ou pureza, sem aumento ou diminuição".
+Rosa dos Mil Ensinamentos
+A flor é branca e suave, e ao vê-la, o mal é afastado, considerada auspiciosa pelo Buda. Zizhu transformou-se nesta flor com sua alma, permitindo que no mundo humano ela traga uma mente pura; ao vê-la, "compreende-se todas as leis, elimina-se todo mal, e mantém-se a calma", vendo claramente sem se perturbar com ilusões.
+Bolsa de Tabaco com Padrão de Tigre
+Bolsa Padrão de Tigre
+Bolsa de mão costurada no tamanho de uma palma, com bordados de flores, pássaros, animais e peixes, usada para guardar tabaco. O ar selvagem do tecido é suavizado pela fumaça, com efeito de aguçar a sensibilidade. Por ser usada junto ao corpo, antigamente também servia como presente de amor.
+Tambor com Rosto Humano
+Diz a lenda que o tambor esfinge original era feito do rosto de um homem mau, com uma superfície dupla. Atualmente, o tambor é feito de pele animal e bordado com boca e nariz humanos, que emitem sons ao vento.
+Bainha Quadrada Lobo Verde
+Feita de couro, essa bainha é resistente e projetada para afastar espadas malignas. Dizem que pessoas gananciosas sentem medo ao vê-la, e que a lâmina é abençoada pelas estrelas. Essa bainha inspira autorreflexão, autoconhecimento e motivação para o progresso.
 Bolsa Pixiu
-Pixiu, também conhecido como "o afastador de demonios," alimenta-se de espíritos malignos e feras, sendo feroz e corajoso, comparável a um exército de milhares. A bolsa Pixiu é bordada com imagens de Pixiu com cabeca de dragao e corpo de tigre, transmitindo uma aura imponente. Ao carregar este objeto, as pessoas ganham coragem e conseguem evitar desastres e atrair boa sorte.
-Tambor de Fengyi
-“Fengyi toca o tambor, e os dragoes obedecem,” este tambor sagrado transmite mensagens dos deuses. Ao ouvir seu som, os espíritos retornam às suas posicoes e os dragoes seguem suas ordens, movendo-se com ordem e disciplina. Feito de um material espiritual, o Tambor de Fengyi inspira coragem e agilidade em quem o ouve, sincronizando seus movimentos com o ritmo do tambor.
-Bolsa de Tesouro com Padrao de Dragao e Cobra
-“Sempre se vêem dragoes e cobras se movendo, espiralando da esquerda para a direita, como um relampago assustador.” Esta bolsa, feita de pele de cobra e decorada com cem tipos de tesouros e bordados com padroes de dragoes, nao é usada para guardar itens, mas para inspirar a pessoa a agir. Ao carregar esta bolsa, a pessoa pode compreender os movimentos dos dragoes e cobras, executando acoes rápidas e precisas.
-Bainha Dourada de Fogo
-Esta bainha brilhante é feita de tecido dourado, irradiando uma luz intensa, como se escondesse fogo em seu interior. Ao tocá-la, parece queimacao, pois combina as propriedades do fogo invisível com a forma sólida do ouro, transformando-se de maneiras misteriosas. Aqueles que alcancarem a iluminacao podem usar esta bainha para dominar suas habilidades e se transformar conforme necessário.
-Caixa de Flechas de Houyi
-Houyi, o lendário arqueiro, atirou em nove sóis e nunca errava, salvando a humanidade. Após guardar suas flechas nesta caixa, ela também adquiriu uma energia espiritual poderosa. Essa energia flui pelo corpo de quem a carrega, tornando seus movimentos rápidos e precisos como flechas, difíceis de prever.
-Bandeira Espiritual e Tambor de Trovao
-“Com a bandeira espiritual, milhoes sao liderados pelo tambor de trovao,” este poderoso objeto espiritual é feito para comandar. Quando o vento sopra, a bandeira se agita, e quando se move, o tambor de trovao ressoa, abalando os céus e a terra, imparável. As pessoas que seguem o som do tambor adquirem o poder de controlar as mudancas do vento e das nuvens, assumindo posturas invencíveis e imprevisíveis.
-Bolsa de Incenso de Fibras de Canhamo
-Feita de fibras de canhamo amareladas, esta bolsa contém ervas aromáticas. Seu aroma forte é energizante e revigorante. Mulheres também costumam usá-la para perfumar o corpo com uma fragrancia agradável.
-Lenco de Vento Agradável
-“Vento Agradável, criado pelo vento do Sudeste, também conhecido como Vento Claro e Brilhante”, o Lenco de Vento Agradável é um lenco aromático que exala um perfume quente e agradável, semelhante ao vento primaveril. Ele pode trazer satisfacao ao coracao, clareza e paz de espírito.
-Saco de Ouro de Flor de Osmanthus
-Flores de osmanthus sao pequenas e numerosas, semelhantes a graos de ouro. O Saco de Ouro de Flor de Osmanthus contém essas flores, cujo aroma doce e puro se espalha pelo ambiente. Ao ser cheirado, evoca a sensacao de uma noite de lua cheia no meio do outono, refrescando e clareando a mente. Este item também tem o efeito de nutrir os pulmoes.
-Lua Entre Nuvens
-“Branca como a neve na montanha, clara como a lua entre as nuvens”, este item é uma peca bordada que representa a lua entre as nuvens com fios de seda e brocado. Sua lua brilha intensamente, comparável à beleza celestial, iluminando o coracao como a neve pura. Devido à sua habilidade artesanal, todos que a veem ficam maravilhados.
-Coluna de Ouro dos Sete Tesouros
-“Existem colunas de ouro dos sete tesouros, sustentadas sobre o solo de cristal”, conforme descrito no Sutra da Imensidao da Vida. A Coluna de Ouro dos Sete Tesouros é feita de sete tesouros (ouro, prata, vidro, coral, ambar, madre-pérola e ágata) entrelacados com fios de ouro. Ela emite um som metálico ao vento, refletindo a luz como vidro, e sua essência se transforma com o vento.
-Saco do Caos do Céu e da Terra
-Este saco contém a energia do céu e da terra, unificando o caos em um princípio primordial. O saco armazena tanto a energia pura quanto a impura, a yin e a yang, e quando a energia é retirada, pode reabastecer a energia do corpo em movimento. Como a energia do céu e da terra é infinita, a energia no saco também é inesgotável.
-Saco da Imensidao
-Feito de fios espirituais, o Saco da Imensidao é brilhante e limpo, como um espelho refletindo o céu. A energia do céu é absorvida pelo saco, onde a terra é sólida e o céu é vazio, daí o nome “Saco da Imensidao”. A energia dentro do saco é pura e pode reabastecer a energia do corpo, limpar o ar e melhorar a eficiência das atividades.
-Roupas de Aroma das Asas
-As fadas deixam cair roupas leves de aroma na Terra, tao leves quanto a neve fina, flutuando mesmo sem vento. Usar esta roupa faz com que o corpo e a mente se sintam leves como penas, absorvendo e transformando o ar, dancando no vento com graca celestial.
-Lenco de Luz das Nuvens
-O Lenco de Luz das Nuvens contém tesouros de todo o mundo e é originalmente um artefato celestial. Quando estendido, revela cores e brilhos que se espalham ao redor, com uma luz extraordinária. Durante o movimento, vê-se apenas a luz das nuvens balancando, com a sensacao de andar nas nuvens e de alcancar qualquer lugar no vasto mundo.
-Saco de Tecido
-Um saco simples feito de pedacos de tecido, durável e fácil de transportar, pode conter alguns itens.
-Bolsa de Cabeca de Animal
-Feita de pele de animal, esta bolsa quadrada é bordada com imagens de bestas, com uma textura aveludada e brilhante. É resistente e um pouco isolante.
-Saco da Sabedoria
-“Fogo, dragao, padroes e sabedoria”, o Saco da Sabedoria era usado pelos estudiosos antigos para transportar muitos itens. Costumava ter bordados variados para mostrar a erudicao e a virtude do portador.
-Saco de Peixe Dourado
-No sistema antigo, apenas oficiais de terceiro grau ou superior podiam usar o Saco de Peixe Dourado. Originalmente utilizado para guardar amuletos de forma de carpa, o design foi alterado para incluir um formato de peixe em ouro e prata. Este saco nao só protege o conteúdo, mas também carrega um significado de riqueza.
-Saco de Faixa Roxa
-“Oficiais de alto nível usam faixas roxas”, conforme mencionado no Livro de Han. Antigamente, apenas oficiais de alto escalao podiam usar o Saco de Faixa Roxa, simbolizando a chegada da energia roxa do leste, extremamente luxuoso. O saco é roxo escuro com bordados de flores de glicínia, fino e brilhante, prático e elegante, e é considerado valioso por todos que o veem.
-Bolsa de Flores de Ouro e Prata
-Uma bolsa decorada com fios de ouro e prata, geralmente contendo fragrancias de pétalas de flores. Usada próxima ao corpo, mantém a fragrancia na pele e pode ser pendurada em tendas para repelir insetos e aromatizar o ambiente. Feita de fios de ouro e prata, é muito flexível e nao se desgasta com o tempo.
-Saco do Senhor do Vento
-“A meia-noite, vê-se um objeto grande como um saco, que suga o ar e libera ventos fortes... Pode controlar os ventos e o clima”, o Saco do Senhor do Vento é capaz de capturar e gerar vento, com a forma de um andorinha. Pequeno, mas pode conter a energia do céu e da terra, considerado um item mágico que nao causa carga ao portador.
-Saco Celestial de Fios Coloridos
-Feito com fios de várias cores, o Saco Celestial de Fios Coloridos brilha como estrelas, extremamente belo e refinado. O saco é rodeado por névoa e vento, e se o estado mental do usuário estiver alinhado, pode ser lancado com a leveza de um voo no céu.
-Saco da Unidade do Céu e da Terra
-Como o grao de mostarda contém o monte Meru, o Saco da Unidade do Céu e da Terra contém o princípio do universo. Embora simples na aparência, como um saco de juta com alcas, ele encapsula o princípio da criacao do universo e pode ser reduzido ao tamanho de um grao de mostarda quando nao está em uso, expandindo-se para acomodar qualquer quantidade de itens, sem parecer grande. Também se diz que pode conter o universo, mas seu uso é limitado ao homem.
-Anel de Pedra Negra
-O Anel de Pedra Negra é escuro e brilhante, usado no polegar para evitar desgaste. Antigamente, os estrangeiros costumavam usá-lo ao usar arcos e flechas. Inicialmente um item de protecao, com o tempo tornou-se um símbolo de bravura.
-Bracelete de Forca
-"Bracelete é o que se usa no braco", os braceletes surgiram na dinastia Han. Posteriormente, guerreiros passaram a usar braceletes de jade nos pulsos, devido à sua dureza, que protege o braco durante combates, tornando-os mais valentes e destemidos. Também é comum que mulheres corpulentas usem braceletes, que sao esteticamente agradáveis e elegantes.
-Pedra Protetora
-"Guia como um tigre feroz, a Pedra Protetora nao é invadida, nem mesmo pelos dragoes", a Pedra Protetora é uma estela feita com inscricoes de pedra de Tai Shan. Acredita-se que ela use a forca de Tai Shan para suprimir energias negativas e é frequentemente colocada em lugares de risco para proteger a área. Carregar este objeto pode ajudar a repelir espíritos malignos e desastres.
-Tartaruga de Tesouros
-A Tartaruga de Tesouros, com suas patas que tocam os quatro extremos e costas carregando os Montes Penglai, Fangzhang e Yingzhou, é capaz de suportar todo o peso do mundo. Feita com diversos tipos de jade, a Tartaruga é esculpida na forma de uma tartaruga, com uma presenca imponente, como se contivesse poder divino. É comum usar este objeto para proteger a casa e também para pedir bêncaos.
-Rinoceronte Tricolor
-O rinoceronte azul, também conhecido como "si", é uma criatura feroz com um chifre, pesado como mil quilos. O Rinoceronte Tricolor é decorado com três cores de esmalte, retratando o rinoceronte de forma vívida, com músculos que parecem de aco, e olhos ferozes. Sua aparência imponente transmite uma sensacao de forca e resistência.
-Imagem do Diamante Feroz
-No "Taiping Guangji": "O Diamante Feroz, com olhos furiosos, submete os quatro demonios", a imagem do Diamante Feroz segura um tesouro, com olhos grandes e furiosos. Apesar de temido, este ícone é conhecido por sua capacidade de expulsar demonios e trazer paz, inspirando confianca nos que o veem.
-Olho de Er-Lang
-"Er-Lang possui um olho vertical na testa, pois ele é descendente de Can Cong", este olho, concedido pelos céus, possui o poder de controlar a vida e a morte, podendo cortar rochas e exterminar males. Esculpido em pedra divina, o Olho de Er-Lang confere alguma forca divina, sendo temido por espíritos malignos.
-Ruyi do Dragao e Tigre
-Ruyi, feito pelo Imperador Amarelo, foi originalmente uma arma contra o Chi You e pode repelir demonios. O Ruyi do Dragao e Tigre é gravado com imagens de um dragao azul e um tigre branco, representando o caminho espiritual e a energia. Este tesouro pode canalizar a forca divina e aumentar a coragem para combater demonios.
-Joia da Criacao do Céu
-Segundo o "Livro de Sui": "No início do caos, Pangu abriu o céu e a terra", a Joia da Criacao do Céu é feita com uma pedra primordial que absorveu o poder supremo de Pangu. Esta joia exala constantemente uma forca poderosa, conferindo ao portador uma forca imensa e inigualável.
+Pixiu, também conhecido como afastador de mal, é especializado em devorar espíritos e animais ferozes, sendo mais corajoso que exércitos inteiros. Com bordado de cabeça de dragão, cauda e tigre, inspira coragem em quem o carrega, além de trazer sorte e afastar desastres.
+Tambor Feng Yi
+O tambor Feng Yi é uma mensagem dos deuses; ao ouvir seu som, os deuses retornam ao seu posto, e os dragões se organizam. Usando o objeto psíquico feito do tambor Feng Yi, as batidas ecoam, animando as pessoas, e o corpo e mãos acompanham o ritmo com leveza e ordem.
+Bolsa do Tesouro Dragão e Cobra
+“Às vezes, apenas vejo o dragão e a cobra em movimento, entrelaçando-se como relâmpagos.” Feita de pele de cobra, decorada com muitos tesouros e bordada com a figura de um dragão. Esta bolsa não serve para guardar coisas, mas ao carregá-la, a energia dela inspira agilidade, como o movimento rápido do dragão e da cobra.
+Bainha de Ouro Chi e Fogo
+Feita de tecido dourado, a bainha parece ocultar um fogo, e ao toque, parece queima como uma chama. Ao unir ouro e fogo invisível, reprime o ouro visível, tornando-se sutil e imprevisível; os taoístas veem isso como a transformação entre ouro e fogo, capaz de transformar suas situações.
+Caixa de Hou Yi
+Da Yi derrubou os nove sóis, suas flechas eram certeiras, poderosas o suficiente para atravessar o ar e salvar pessoas. Depois, quando as flechas foram guardadas em uma caixa, a caixa continha o Qi espiritual wu, que conduzia a mente e o corpo, e trabalhava como uma mudança espiritual, veloz como uma flecha, tornando difícil para outros perceberem suas ações.
+Bandeira do Espírito do Trovão
+“Bandeira espiritual que impulsiona mil tambores de trovão”, o sistema da bandeira espiritual é poderoso, e com o vento balançando a bandeira, os tambores soam como trovões, poderosos e implacáveis. Pessoas são impulsionadas pelo som do trovão, com poder de mudar ventos e nuvens, alterando seu impulso, igualmente incontrolável.
+Bolsa Perfumada de Juta
+Feita com fios de seda de juta, esconde ervas e especiarias com um aroma forte, refrescante. Mulheres também usam esse material para perfumar o corpo.
+Lenço Vento do Sul
+“Vento esfumaçado, Qi Xun nasceu, dizem que vento puro”, o lenço do vento esfumaçado é um lenço perfumado, seu aroma é quente e agradável, como uma brisa de primavera, dando sensação de satisfação e clareza.
+Bolsa de Osmanthus
+Osmanthus é dourado e pequeno, mas abundante, como milho dourado. A bolsa de milho dourado carrega Osmanthus, seu aroma é leve e doce, espalhando-se à distância. Ao sentir o aroma, lembra o outono, como ver a lua cheia de meio de outono, revigorante, e com efeito de nutrir os pulmões.
+Lua Entre as Nuvens
+Lua Entre as Nuvens
+Este bordado, feito com centenas de fios de seda e brocados, mostra a lua entre as nuvens, brilhante como uma graça celestial, iluminando o coração das pessoas com pureza. De tão bem-feito, ninguém se surpreende ao vê-lo.
+Bandeira de Ouro dos Sete Tesouros
+Segundo o Sutra da Vida Imensurável: "Há um vajra de sete tesouros dourados no chão de Rukia". Ouro, prata, vidro, coral, âmbar, conchas gigantes e ágata são decorados com fios dourados na coluna dourada, que tilintam ao vento; ao observá-la, a mente torna-se leve, transparente como vidro.
+Bolsa Mista do Céu e Terra
+O qi do céu e da terra é coletado nesta bolsa, onde o caos torna-se unidade, gerando o início da vitalidade. A bolsa contém qi neutro, sem yin ou yang, e libera o qi para compensar a energia quando a pessoa se move, pois, sendo o qi do céu e terra infinito, o qi da bolsa também é.
+Bolsa do Vazio
+Feita de seda espiritual, a bolsa Hanxu reflete o céu como um espelho brilhante, guardando o qi do céu. A terra é sólida e o céu vazio, daí o nome "Hanxu". Ao respirar o qi da bolsa, não apenas se reabastece a energia, mas também se purifica, limpando corpo e mente com pouco esforço.
+Gaze Perfumada Imortal
+Pluma de fada e fragrância leve caem como uma roupa leve e macia como neve. Ao vestir este manto, o corpo e mente tornam-se leves como uma pena, capturando o qi em cada respiração, o espírito dança como uma fada flutuando no ar.
+Lenço de Nuvens Luminosas
+O lenço de luz da nuvem Wanxiang envolve todos os tesouros da família imortal, refletindo uma luz arco-íris ao redor do corpo. Ao mover-se, o lenço ondula suavemente, e o corpo sente-se livre como as nuvens e a névoa, alcançando qualquer lugar.
+Bolsa de Pano
+Feita de retalhos, a bolsa é simples e resistente, fácil de carregar e usar, podendo conter alguns itens.
+Bolsa de Pele de Animal
+Bolsa quadrada feita de pele inteira de animal, decorada com imagem de feras. Possui leve efeito de aquecimento e não se rasga com facilidade, com brilho e textura macia.
+Bolsa de Cultura Iluminada
+"Fogo, dragão, bordado, mostrando o texto"; a bolsa Zhaowen é uma grande bolsa usada por estudantes que iam a exames em Pequim, com espaço para bagagens. Muitas vezes bordada com padrões que evidenciam a virtude do cavalheiro e demonstram talento literário.
+Bolsa Peixe Dourado
+No antigo sistema oficial, mais de três autoridades usavam a bolsa de peixe dourado, que inicialmente guardava talismãs em forma de carpa. Mais tarde, a bolsa, decorada com ouro e prata em forma de peixe, passou a conter fragmentos pequenos e simbolizar prosperidade.
+Bolsa de Fita Púrpura
+Segundo o Livro da Dinastia Han: "Sangoku, Primeiro Ministro, e oficiais Qin usavam o selo dourado com fita púrpura". Antigamente, apenas altos oficiais podiam usar essa bolsa, símbolo nobre. A bolsa roxa e preta, com flores violetas bordadas, é prática e bela, valorizada por sua aparência cara.
+Bolsa de Flores Dourada e Prateada
+Decorada com fios de ouro e prata, essa bolsa guarda especiarias entre pétalas de flores, exalando fragrância ao redor do corpo ou no ambiente. Elegante e resistente, seu material flexível não desgasta com o tempo.
+Bolsa dos Cem Ventos
+À meia-noite, vi algo do tamanho de uma bolsa, sugando duas vezes e soltando vento subitamente... Pode captar os oito ventos e se ajustar ao clima das cinco movimentações. O Saco do Vento é feito da Mãe dos Ventos e pode capturar o vento. Em forma de andorinha voando, é pequeno, mas pode conter o ar do céu e da terra, possuindo poderes mágicos e sem dificuldades para carregar itens comuns.
+Bolsa Imortal de Fios Coloridos
+Bolsa imortal feita de fios de seda coloridos, com sete cores, cada uma brilhando como estrelas piscando, de beleza extraordinária. Ao lado da bolsa, há névoa e vento flutuando, e, se em sintonia com o usuário, pode até flutuar levemente como se estivesse no ar.
+Bolsa Yin Yang
+Sementes de mostarda, bolsa bifurcada para conter o universo. A bolsa Qiankun tem formato de saco com uma ponta bifurcada, contendo a teoria do nascimento de tudo no mundo. Quando não usada, ela encolhe ao tamanho de uma semente de mostarda, e quando utilizada, expande-se naturalmente, cabendo centenas de itens sem mostrar seu tamanho. Diz-se que pode conter o céu e a terra, mas seu uso nunca se esgota.
+Anel de Pedra Negra para o Polegar
+O anel de pedra negra é brilhante e escuro, usado no polegar para evitar desgaste. Antigamente, estrangeiros usavam este item ao puxar arco e flecha. Originalmente um acessório protetor, com o tempo tornou-se símbolo de coragem.
+Bracelete do Homem Forte
+Este bracelete, chamado "Kushi", existe desde a Dinastia Han. Depois, homens luxuosos o colocavam entre o braço e o pulso. Sua dureza oferece proteção ao braço em combate, e esses homens tornavam-se mais corajosos. Também era usado por mulheres mais fortes para beleza e charme.
+Placa para Afastar o Mal
+"Tigre feroz da divisão, pedra Taishan, não invadido, dragão Weiyang". A pedra Taishan é usada para fazer uma placa de pedra. Acredita-se que empresta o poder de Taishan para repelir o azar, sendo colocada em lugares com más energias para garantir segurança. Carregar este item também permite afastar espíritos e calamidades com seu poder.
+A Ônix dos Tesouros
+O Ao sustenta os quatro extremos, o céu e a terra, carregando as três montanhas imortais de Penglai, Fangzhai e Yingzhou. Decorado com várias pedras preciosas e moldado na forma de uma tartaruga, seus olhos majestosos parecem ter poder divino, sendo usado para abençoar lares e trazer proteção.
+Três Rinocerontes Coloridos
+Rinoceronte verde, também chamado de touro, “como um boi selvagem, com um chifre, pesando mil libras”, feroz como tigre e muito forte. Três rinocerontes com esmalte em três cores, sendo o verde, feito com músculos fortes como aço, olhos furiosos e cascos que brilham levemente, transmitindo força.
+Desenho do Vajra Furioso
+Segundo Taiping Guangji: "vajra de olhos furiosos, para subjugar os quatro demônios", a estátua do vajra de olhos furiosos segura um tesouro mágico, com olhar intenso. Embora cause medo, sabe-se que esse olhar visa cortar demônios, transmitindo calma e confiança. Esta imagem feroz parece ter o poder de eliminar o mal, e até pessoas más são afetadas por ela.
+Olho de Erlang
+"Erlang, descendente da amora, tem um olho vertical na testa". Esse olho vertical foi aberto pelo céu e pode ver longe, dominando vida e morte, partindo montanhas e rachando rochas, e espíritos malignos não podem se esconder. Este olho de Erlang, feito com pedra sagrada, ainda que não igual ao olho verdadeiro de Erlang, oferece poder divino, quebrando rochas e assustando espíritos.
+Dragão e Tigre Precioso Ruyi
+Ruyi é feita pelo Imperador Amarelo, que a usou como arma na batalha contra Chi You, capaz de afastar todos os demônios. O Ruyi de dragão e tigre é gravado com a imagem do dragão verde e do tigre branco, simbolizando os deuses, equilibrando as energias, permitindo que este tesouro transmita o espírito humano, incorporando o poder da pedra sagrada, dando coragem para repelir o mal.
+Contas Dzi Abertas
+De acordo com o Livro dos Sui: "No início do caos, Pan Gu separou o céu e a terra, montanhas e mares". A pérola é feita da pedra sagrada que surgiu no início do mundo, absorvendo o poder supremo do antigo Imperador Pan Gu. A pérola pode ser polida para ativar seu poder divino, e sua força é tão intensa que muitos não conseguem abri-la.
 Bracelete de Ágata
-O Bracelete de Ágata é esculpido a partir de uma peca única de ágata, com um padrao intrincado. Este bracelete é fresco e transparente, e a agata pode ajudar a prevenir doencas relacionadas ao calor.
-Amuleto da Longa Vida
-O Amuleto da Longa Vida tem a forma de um cadeado e é mais valorizado quando feito de jade. Ele simboliza a preservacao da vida e a protecao contra desastres, sendo frequentemente usado por criancas para evitar doencas e mortes prematuras, podendo ser retirado ao alcancar a maturidade.
-Imagem do Imortal da Terra
-No "Sutra do Lingshu": "O Imortal da Terra vive mil anos", é uma figura de um imortal de alta longevidade. Esculpido com um bastao longo e uma longa barba, o Imortal da Terra é venerado para obter protecao e prolongar a vida.
-Joia da Fome de Sangue
-A Joia da Fome de Sangue é vermelha e translúcida, atraente e brilhante. Carregar essa joia pode absorver impurezas do sangue e ajudar a purificar e fortalecer o corpo. No entanto, quando a joia se torna impura, ela perde sua eficácia.
-Taca de Mil Gong
-A Taca de Mil Gong é usada para chá e bebidas, com a forma de um sino invertido. Feita de jade, a taca pode evitar os efeitos negativos de consumir excesso de jade e melhorar a saúde ao beber em pequenas quantidades. É benéfica para o corpo e fortalece a constituicao.
-Cabaca do Imortal
-A Cabaca do Imortal é inspirada na cabaca do Imortal das Estrelas do Sul e é acreditado ter propriedades para afastar doencas e prolongar a vida. Usada para rezar por paz e longevidade, esta cabaca pode garantir estabilidade e seguranca pessoal e em todo o mundo.
-Anel de Jade dos Nove Filhos
-Feito de jade e composto por nove anéis interligados, cada um representando um dos nove filhos do dragao. Além de ser esteticamente agradável, pode trazer benefícios para a saúde e, quando resolvido, pode conceder protecao, afastar desastres, curar doencas e prolongar a vida.
-Imagem do Rei de Jade
-"Imperador da Terra do Sul, também conhecido como Rei da Jade Celestial, que se preocupa com todos os seres humanos e suas dificuldades", a imagem do Rei de Jade esculpida em pedra divina representa o poder de protecao. Abencoado por esta imagem, o portador pode evitar desastres e viver uma vida de felicidade e paz.
-Imagem do Imperador Supremo
-Esculpida em pedra divina, a imagem do Imperador Supremo dos Céus brilha com uma luz dourada, simbolizando a gestao da sorte e dos destinos dos seres humanos. A imagem pode trazer bêncaos e prolongar a vida, sendo um símbolo de devocao e protecao.
-Joia de Óleo Negro
-A Joia de Óleo Negro é preta e brilhante, com uma textura lisa semelhante ao óleo. Se cair, rolará longe. Este símbolo sugere que se deve tomar cuidado, para evitar escorregar e cair.
-Argola do Pássaro da Mae
-A Argola do Pássaro da Mae é esculpida em jade na forma de um pássaro que chama para casa. Quando se move, emite sons que lembram um chamado para o retorno, simbolizando a saudade e a necessidade de voltar para casa.
-Ganso de Mil Li
-"Ganso de Mil Li", os gansos voltam sempre a tempo, e acreditava-se que poderiam entregar mensagens. Feito de jade, o Ganso de Mil Li simboliza a capacidade de retornar e tomar decisoes ponderadas, proporcionando leveza e clareza.
-Impressao de Névoa Fria
-A Impressao de Névoa Fria é de cor azul escura, com um padrao nebuloso e branquíssimo dentro. Quando usada para carimbar tinta no papel, revela uma paisagem de água fria com lua, evocando um sentimento de serenidade e beleza etérea.
-Esfera da Luz Flutuante
-“Com o céu claro e azul, refletindo a luz do sol em movimento”, a Esfera da Luz Flutuante tem a cor do céu azul e, ao refletir a luz do sol, cria um efeito de luz e sombra flutuante. Embora a esfera seja um objeto estático, sua luz pisca e oscila, razao pela qual é chamada de “Esfera da Luz Flutuante”. Onde a luz é mais viva, aparece de repente à frente, depois atrás, depois a milhas de distancia, encantadora e imprevisível. Quem compreende seu princípio consegue se mover com a mesma sutileza.
-Pingente do Dragao do Pássaro Azul
-O pássaro azul voa sobre o mar, e o dragao de jade se esconde nas nuvens. Segundo a lenda, o pássaro azul é o mensageiro da Rainha Mae do Oeste e pode guiar as pessoas pelo mar até Penglai. O pingente é esculpido no formato do dragao de jade e do pássaro azul, recebendo, assim, a aura desses dois seres divinos. Sente-se que o mar é vasto e infinito, como se pudesse ir a qualquer lugar.
-Copo da Serpente Voadora
-Xunzi disse: “A serpente voadora nao tem pés, mas voa”. De acordo com os registros, embora a serpente voadora nao tenha pés, pode voar através das névoas. O copo é esculpido em jade translúcido e cintilante, com a luz refletindo como se fosse uma névoa ao redor do copo. Quando se bebe a bebida dentro do copo, é como receber a orientacao da serpente voadora, como se a névoa ajudasse nos movimentos.
-Esfera dos Olhos de Demonio
-A esfera possui uma luz que brilha e pisca, alternando entre claro e escuro, como se fossem olhos de demonio que abrem e fecham. Feita de pedra espiritual, pode absorver espíritos malignos e almas errantes do mundo. A cada manha, ao absorver energias malignas, os olhos de demonio parecem abrir uma pequena fenda, e sua energia pode ser usada por uma pessoa para controlar a forca, tornando-a ágil e rápida como um fantasma.
+O bracelete de ágata é feito de uma única pedra de ágata polida, com uma textura entrelaçada que lembra o cérebro de um cavalo. Este bracelete é fresco e transparente, e o calcedônio presente na pedra nutre as pessoas, ajudando a prevenir doenças como insolação.
+Cadeado da Longa Vida
+O cadeado da longa vida tem formato de cadeado e é feito de ouro e pedras ornamentais, sendo o cadeado de jade o mais valioso. Simboliza o bloqueio da vida, afastando desastres e males, usado principalmente por crianças para “evitar fantasmas e doenças”, prevenindo a morte precoce, podendo ser retirado apenas por adultos.
+Estátua do Imortal Aprisionado
+No Sutra Lanyan: "O Imortal Aprisionado, que alcançou a longevidade, vive por milhões de anos". Este imortal possui alta expectativa de vida e vive recluso. A estátua é esculpida segurando um longo bastão, com cabelos longos e olhar benevolente.
+Pérola da Fome de Sangue
+As pérolas da fome de sangue são vermelhas como sangue, claras e refrativas, atraindo a atenção. Quando carregadas próximas ao corpo, absorvem as impurezas do sangue, fazendo o corpo se purificar e fortalecer. Apesar de esconder sujeira, tem o efeito de purificar o sangue de outros, e quando a textura fica suja, torna-se inútil.
+Copa dos Mil Sinos
+A copa dos mil sinos é um recipiente para chá e vinho, com formato de sino invertido. Feita de calcedônio, seu excesso não é benéfico, mas essa taça, ao ser utilizada, ajuda a evitar efeitos nocivos e a regular as energias do corpo, trazendo benefícios para fortalecer a saúde.
+Cabaça do Imortal
+A imagem da cabaça imortal é inspirada na cabaça do bastão da estrela da longevidade, o imortal Nanji, que supostamente afasta doenças e prolonga a vida. "A cabaça pode ser usada para rezar ao imortal, garantindo paz e longevidade, tanto para si quanto para o mundo."
+Nove Anéis de Jade Exquisitos
+Feitos de jade bonito, cada anel representa os nove filhos do dragão, sendo não apenas estéticos, mas também benéficos para o corpo e a mente. Segundo a lenda, se conseguir desatar os nove anéis de jade, os filhos do dragão se revelarão, afastando o mal, desastres e doenças, proporcionando boa sorte e longevidade.
+Estátua do Velho do Pólo Sul
+O "Imperador do Sul da Vida Eterna", também conhecido como Rei da Supremacia Espiritual, cuida do mundo e de todos os seres. Uma estátua do verdadeiro rei esculpida em pedra sagrada contém o poder da vida eterna. Aqueles abençoados por esta estátua evitam desastres e dificuldades, recebendo saúde e felicidade.
+Corpo Dourado Supremo
+A imagem de Hao Tian Yu Huang é esculpida na pedra sagrada, irradiando luz dourada e divina. O Imperador controla a boa e má sorte na terra, sendo o mestre das energias naturais. Mortais que constroem esse corpo dourado tocam o coração do Senhor, que, por sua sinceridade, envia a eles a energia do céu e da terra, abençoando e prolongando a vida, suportando o destino celeste.
+Contas de Óleo Pretas
+As contas de óleo são pretas e brilhantes, com uma textura escorregadia. Se perdidas, escorregam pelo chão, rolando longe. Essa imagem inspira as pessoas, tornando eficaz seu uso e a expressão "óleo sob os pés".
+Anel Cucu
+O pássaro Zigui foi esculpido em forma de brincos, chamado de anel Zigui. Este anel emite um som ao se mover, como se estivesse aguardando ansiosamente o retorno das pessoas.
+Ganso de Mil Milhas
+"Os gansos retornam pontualmente, voando por mil milhas, nunca perdendo o horário, por isso se acredita que podem enviar mensagens." O ganso de mil milhas em jade simboliza essa jornada, fazendo com que as pessoas sintam seu espírito e percebam a passagem do tempo como se voassem levemente.
+Selo de Fumaça Fria
+O selo de fumaça fria tem uma cor azul-esverdeada, com jade branco e floculento dentro, sem saber onde termina. Usando este selo, ao desenhar no papel, é como ver um rio ao luar envolto em névoa. A atmosfera é única; quem vê se sente relaxado e feliz, como se virasse fumaça, indistinta e sem rastros.
+Pérola Flutuante de Luz
+"Com o céu claro e azul, refletindo a luz do sol", a pérola flutuante é azul e reflete sombras leves do sol. Embora estática, sua luz cintila, daí o nome "pérola de luz flutuante". Sua luz se move, ora à frente, ora atrás, parecendo intangível e bela, fazendo com que quem a possui sinta sua leveza.
+Pingente de Pássaro e Dragão
+O pássaro azul, mensageiro da Rainha Mãe do Oeste, guia os convidados a Penglai sobre o mar. Com jade, ele é moldado na forma de dragão e pássaro azul, criando um pingente que reflete a aura desses seres divinos, unindo mar e céu.
+Cálice Luminoso da Serpente Ascendente
+Segundo Xunzi: "A serpente não tem pés e voa", diz-se que a serpente voa na névoa. Usando jade espiritual, esculpe-se um cálice luminoso e refinado. Ao beber vinho sob a luz da lua, onde a sombra de uma serpente aparece, a névoa se dissipa como em um grande sonho. Beber neste cálice parece que a serpente ensina, guiando com nuvens e névoas.
+Pérola do Tesouro do Olho Demoníaco
+Dentro da pérola, uma luz pisca em branco e escuro, como olhos demoníacos abrindo e fechando. Feita de pedras espirituais, absorve espíritos malignos e injustiças. A cada absorção do mal, o olho demoníaco parece abrir uma linha, permitindo ao usuário controlar energia e movimentos, como um fantasma.
 Espelho Divino
-O espelho divino é feito de pedra divina polida em um espelho plano. Devido à natureza da pedra, quem se olha no espelho pode ver inúmeras formas e aparências, que mudam constantemente. Apenas quem tem a mente focada pode descobrir a verdadeira essência através deste espelho. Este espelho permite ver como as mil formas podem mudar, e as mudancas vêm do próprio coracao. Assim, o formato no espelho pode ser alterado com a intencao do coracao, movendo-se com a rapidez e a habilidade da luz divina.
-Colar de Ágata
-De acordo com o “Taiping Guangji”: “A ágata é formada pelo sangue dos demonios”, um colar feito de pequenas contas de ágata pode ser usado no pulso para promover a circulacao e proteger contra maus espíritos.
+Feito de uma pedra plana, devido à sua natureza, este espelho reflete formas que mudam constantemente. Ele permite perceber que as formas são mutáveis e que as mudanças vêm do coração, alinhando espelho e coração com a rapidez de uma luz divina.
+Cordas de Ágata
+De acordo com "Taiping Guangji": “ágata, também conhecida como sangue de fantasma”. Pequenas contas de ágata são enfileiradas no pulso, nutrindo o sangue e afastando o mal.
 Anel de Pedra Vermelha
-Embora o anel de pedra vermelha nao seja valioso, devido aos seus veios vermelhos e sua beleza translúcida, é bastante apreciado. Diz-se que o anel de pedra vermelha ajuda a proteger o coracao e os vasos sanguíneos contra espíritos malignos, sendo frequentemente usado por mulheres comuns.
-Espelho da Luz do Arco-Íris
-A luz do arco-íris se refere à luz do sol após a chuva e a neve, que inicialmente parece fria, mas revela calor interior. O Espelho da Luz do Arco-Íris é feito de jade, formando um espelho redondo que reflete a imagem de maneira borrada. A luz de jade parece como a luz do arco-íris, aquecendo gradualmente a pessoa e tornando seu coracao mais suave.
-Lágrimas das Feiticeiras de Xiang
-“Quem sabia que no rio Xiang, as lágrimas choravam por seu senhor?” As duas feiticeiras de Xiang choraram pelo Imperador Shun, como um testemunho de sua pureza e lealdade. Feitas de essência de jade em forma de lágrimas, elas evocam sentimentos de profunda emocao nos observadores, como se fossem uma protecao silenciosa ao coracao e alma dos mortais, semelhante à devocao ao Imperador Shun.
-Pipa dos Cem Tesouros
-Esculpida em pecas de jade de várias cores e montada em uma pipa, a Pipa dos Cem Tesouros é uma obra-prima. Quando tocada, as pedras de jade vibram em harmonia, criando um som maravilhoso. As flores e criaturas esculpidas na pipa parecem ganhar vida e dancar, enchendo os ouvintes de um profundo sentimento de paz.
-Feliz Lua Noturna
-O Feliz Lua Noturna é esculpido em jade na forma de uma besta auspiciosa chamada Tianlu, que brilha na escuridao, substituindo as velas. Sob essa luz, o usuário pode ver claramente o destino e os presságios, e com a protecao do Tianlu, é possível “remover desastres e garantir uma abundancia de sorte”.
-Jarro da Luz do Poco Salgado
-“O sol nasce no vale de Yang e se banha no poco salgado”. O Jarro da Luz do Poco Salgado contém água do poco salgado e brilha como o sol. Ele emite um brilho suave, que parece ao alcance das maos e aquece ao ser segurado. Embora a luz nao esteja visível na palma da mao, a intencao de calor do sol penetra a pele e aquece o coracao e a alma do usuário.
-Pente da Deusa Luo
-“Parece que a nuvem leve cobre a lua, e o vento fluido como a neve que volta”, a deusa do rio Luo é conhecida por sua beleza e tranquilidade, com seus cabelos negros como nuvens leves, parcialmente escondendo sua graca. Quando um pente usado por ela cai na terra, vê-lo é como testemunhar a beleza e o charme da deusa Luo. Isso faz o coracao esquecer palavras e refeicoes, desejando apenas protegê-la.
-Broche da Verdadeira Beleza
-De acordo com o “Yunji Qiqian”: “A Senhora Zhen é a filha mais nova da Rainha Mae, com cerca de dezesseis ou dezessete anos”. A Verdadeira Beleza era uma fada de Penglai, e há uma lenda de que ela possui um broche mágico de jade. Quem desatar esse broche poderá entrar e sair do reino imortal de Penglai com a Verdadeira Beleza. Quem possui este objeto sente-se como se estivesse em Penglai, esquecendo-se das preocupacoes, como um imortal.
-Talisma de Pedra dos Olhos de Corvo
-O Talisma de Pedra dos Olhos de Corvo veio do estrangeiro e acredita-se que os corvos podem observar tudo com seus olhos, detectando o menor movimento. A pedra é esculpida com olhos de corvo para refletir essa vigilancia.
+Embora não seja caro, é popular pela textura vermelha e pela transparência e beleza da pedra. Diz-se que protege o coração contra espíritos malignos, sendo frequentemente usado por mulheres comuns.
+Espelho Claro
+A luz clara é como a luz do dia após a chuva ou neve; inicialmente fria, mas aquece por dentro. O espelho de jade, feito com jade, cria um espelho redondo que mal reflete uma sombra; sua luz é clara e aquece gradualmente quem a vê.
+Lágrimas da Princesa Xiang
+“Quem sabe que nas águas de Xiang, lágrimas são derramadas em sua memória”, as duas filhas de Xiang choraram pelo Imperador Shun, mostrando seus corações nobres e leais. Com a essência do jade condensada em lágrimas, quem vê sente profunda emoção, lágrimas tão preciosas quanto a alma de Shun.
+Pipa das Cem Gemas
+Com cem tipos diferentes de jade esculpidos em peças, conectados em uma imagem embutida na lira, formando a lira do tesouro. O som da lira, com jade e pedra juntos, é bonito e extraordinário, fazendo as criaturas florais da lira ganharem vida, como se dançassem. Assim, a mente do ouvinte se embriaga e descansa grandemente.
+Escultura Iluminadora da Noite
+Escrita em jade na forma da besta Tianlu, brilha na escuridão da noite como um substituto para a luz de velas. Quando essa luz brilha, a mente do usuário se clareia, permitindo saber a boa e a má sorte.
+Potinho do Lago Harmonioso
+“O sol nasce de Yanggu, banhando-se no lago salgado”, o potinho do lago salgado brilha como o sol, cheio de luz que pisca, como se ao tocar se pudesse segurar, mantendo-o aquecido. Embora não haja luz na palma da mão, o calor do sol nesse pote se transforma em coração e alma pela pele, e se fixa na essência da pessoa.
+Pente de Luo Shen
+“Como uma nuvem leve sob a lua, flutuando como uma brisa de volta à neve”, diz a lenda que a deusa Luoshui é especial e única, tranquila e bela, com cabelos como nuvens leves, cobrindo parcialmente sua beleza. O pente usado pela deusa Luo para pentear o cabelo ocasionalmente cai na terra, e ver esse tesouro revela a beleza da deusa, fazendo o coração ansiar, esquecendo palavras e refeições, apenas desejando voltar a protegê-la.
+Magnífica Porta de Taizhen
+De acordo com os "Sete Sinais das Nuvens", "Sra. Taizhen, a filha mais nova da Rainha Mãe, tinha 16 ou 17 anos", e era originalmente uma fada de Penglai. A pessoa que desbloquear este tesouro pode ir e voltar de Penglai com Taizhen. Quem possui este objeto já alcançou Penglai e viverá como uma fada, feliz e esquecida.
+Talismã de Pedra do Olho do Corvo
+O talismã de pedra do olho do corvo vem de países estrangeiros, e dizem que os corvos podem observar os quatro cantos em um instante, percebendo o vento e a grama. Esculpe o olho do corvo na pedra para captar seu significado de vigilância e sensibilidade.
 Espelho da Flor da Chuva
-O Espelho da Flor da Chuva é polido em jade, refletindo pessoas e objetos de maneira clara, até mesmo as gotas de chuva. Quem possui este espelho pode perceber os movimentos ao redor com precisao, tornando os ataques mais certeiros.
+O espelho da flor da chuva é feito de jade polido, refletindo pessoas e objetos com clareza, até mesmo a chuva se reflete em suas águas. Ao obter este espelho, é possível detectar movimentos em todas as direções, tornando os ataques mais certeiros.
 Selo da Orquídea Fantasma
-O poeta Tao Yuanming descreveu a orquídea fantasma como “um vento claro e repentino, visível entre as ervas daninhas”. A orquídea fantasma só exala fragrancia quando encontra uma brisa clara, distinguindo-se das ervas daninhas. O Selo da Orquídea Fantasma também tem um aroma especial, que aguca o olfato e ajuda a distinguir cheiros ao redor, tornando os sentidos mais rápidos e agucados.
-Pássaro Colorido Encoberto por Nuvens
-“Conjunto de pássaros coloridos, cantando melodias celestiais”, esculpido em jade de cores variadas, o pássaro colorido frequentemente é coberto por uma névoa que surge naturalmente, ocultando o jade. O pássaro colorido canta como se estivesse nas nuvens, e a névoa se dissipa com a mudanca do ar, criando um som que parece ser realmente de um pássaro celestial.
-Leque da Luz de Jade
-A Luz de Jade brilha como um arco-íris que atravessa a lua. O Leque da Luz de Jade nao é usado para refrescar, mas quando agitado, emite uma luz cintilante como estrelas. Ao se mover, a luz das estrelas parece ajudar nas acoes, como se houvesse a forca das estrelas auxiliando.
-Esfera do Crepúsculo
-A Esfera do Crepúsculo tem várias cores e a cor muda com a luz, variando de vermelho sangue a dourado brilhante, e nunca se repete em um único dia, assim como “o crepúsculo se estende sem fim”. Quem possui esta esfera tem movimentos rápidos como as mudancas das cores do crepúsculo, surpreendendo os outros com sua agilidade.
-Bracelete da Serpente Transformada
-O "Clássico das Montanhas e Mares" registra: "Serpente Transformada, com asas de pássaro e corpo de serpente, aparece quando há grandes águas na cidade." Este bracelete é esculpido em jade com asas de pássaro e corpo de serpente, enrolando-se no braco. Este objeto é fresco e se adapta ao movimento do braco, podendo ser ajustado para restringir e suavizar movimentos desnecessários, fazendo com que a pessoa se mova com a agilidade de uma serpente e a forca de grandes águas.
-Selo da Via Láctea
-O céu gira com a Via Láctea, e seu mistério é infinito. As pessoas têm dificuldade em pintar a Via Láctea, e mesmo que o facam, nao conseguem capturar a mudanca das estrelas. O Selo da Via Láctea precisa de um estudo profundo da movimentacao das estrelas e é esculpido em pedra divina para formar um selo vivo. Este selo gira a qualquer momento e pode registrar a Via Láctea no céu a qualquer instante. Quem obtém este objeto compreende os princípios misteriosos e entende as mudancas do mundo, adaptando-se sempre às circunstancias.
-Bandeira dos Três Astros
-De acordo com o "Zuo Zhuan" do "Livro das Primavera e Outono": "A bandeira dos Três Astros ilumina com clareza." Os Três Astros referem-se ao sol, à lua e às estrelas. Feita de jade divino em forma de bandeira, ela absorve a luz do céu. Durante o dia, ela absorve a luz do sol, e à noite, junta a luz da lua e das estrelas, tornando-se cada vez mais brilhante e ofuscante. Sob essa luz, a visao de quem está em sintonia com a bandeira torna-se clara e precisa, com a mente clara e sem confusao, movendo-se com clareza como o vento.
-Pecas de Xadrez de Ágata
-Pecas de xadrez feitas de ágata nas cores preta e branca, brilhantes e sólidas. Devido à complexidade do xadrez, jogar uma partida constantemente pode revelar os profundos princípios táticos e estratégias.
-Papel de Pedra da Luz Clara
-Um papel de pedra esculpido com a lua do mar, revestido com cera ao redor, levemente frio ao toque e brilhante, como o brilho da lua sobre o mar. Este papel é usado para moer tinta, e ao tocá-lo, sente-se a textura como a pele, e ao moê-la, há uma sensacao de nitidez. É amplamente utilizado devido à sua qualidade de tinta que é suave e seca facilmente, adequado para escrita e pintura.
-Joia da Captura da Mente
-"Somente ao capturar a mente, repousar neste verdadeiro lugar de Tao." A Joia da Captura da Mente é vermelha, transparente e de uma beleza incomparável, cativando o coracao das pessoas. Quem a observa precisa ter um coracao firme e uma vontade resoluta para reunir a mente. Com o tempo, a mente torna-se mais focada, facilitando a execucao de movimentos complexos e refinados.
-Tranca de Jade dos Nove Oficiais
-O Imperador Shun uma vez nomeou nove oficiais para ajudar na governanca, trocando de posicoes com harmonia e justica. A Tranca de Jade dos Nove Oficiais é composta por nove pedras de jade de cores diferentes, unidas em uma tranca de jade. As pedras se movem e se chocam, como se os nove oficiais estivessem discutindo assuntos de estado, resolvendo qualquer dificuldade com métodos sutis.
-Espelho Yin-Yang
-Um espelho feito de jade preto e branco natural, dividido em dois lados: Yin (preto) e Yang (branco). O lado Yang reflete o céu, enquanto o lado Yin reflete a terra. O caminho do céu e da terra é profundamente misterioso. O Espelho Yin-Yang reflete o mundo dentro de uma única face, exibindo as verdades da separacao e uniao das energias sob a observacao das pessoas.
-Bracelete do Dragao Fragmentado
-O Bracelete do Dragao Fragmentado é esculpido com várias cabecas de dragao espalhadas por todo o bracelete, sem se conectar entre si. Essas cabecas de dragao sao vivas e se movem separadamente no bracelete, causando confusao visual. Este objeto altera seus movimentos conforme os golpes, tornando as técnicas mais complexas e difíceis de decifrar.
-Selo do Infinito
-O "Tao Te Ching" diz: "A forma sem forma e a aparência sem aparência sao chamadas de indefinidas." Quando os objetos sao abstratos e sem forma, eles sao extremamente sutis e difíceis de compreender. O Selo do Infinito nao tem forma definida e brilha de maneira irregular, sempre mudando de acordo com o objeto. O selo nao possui padroes, apenas uma aparência vazia. Quem obtém este selo pode compreender o princípio da unidade entre o real e o ilusório, com a mente clara e sem preocupacoes, realizando movimentos sem forma definida, mas sempre vencendo o concreto.
-Mapa do Céu e da Terra
-O Mapa do Céu e da Terra era originalmente um tesouro do Grande Mestre Laozi, gravado com o padrao dos oito trigramas do Céu e da Terra, e diz-se que pode conter o mundo. Embora este objeto nao seja um verdadeiro tesouro celestial e nao possa realmente conter o mundo, ele contém os princípios do Céu e da Terra e os mistérios profundos. Quem obtém este mapa pode observar as condicoes e entender a situacao, com suas acoes contendo o significado dos oito trigramas. Apenas os verdadeiramente esclarecidos podem decifrá-lo.
-Olho das Nove Corvos
-"Yi era bom com o arco, derrubou os nove corvos." No antigo tempo, Hou Yi disparou contra o sol para acabar com os desastres, e nove corvos de três patas caíram do céu, furiosos e incapazes de descansar. O Olho das Nove Corvos é formado por pedras divinas absorvendo as almas vingativas dos nove corvos. Quem obtém este objeto é guiado por essa fúria, como se tivesse três patas e três olhos, nao podendo ser julgado pelas normas comuns, mas podendo lancar ataques com precisao instantanea.
-Anel do Osso Carbonizado
-A imperatriz Wu Zetian da dinastia Tang queimou peonias, e embora os galhos e caules tenham se queimado e escurecido, as flores permaneceram belas, desafiando o poder da imperatriz. O Anel do Osso Carbonizado é feito de jade queimado, com a aparência de galhos secos, mas com ossos duros e difíceis de quebrar, conferindo coragem ao usuário.
-Copo de Vinho em Forma de Chifre de Búfalo
-Feito de grande bloco de pedra vermelha esculpido na forma de um chifre de búfalo, brilhante e translúcido, com a cor semelhante ao vinho tinto. Este copo de vinho nao só é agradável aos olhos, mas também demonstra a bravura e a coragem da pessoa. Quando se bebe do copo, o vigor aumenta várias vezes.
-Ordem do Dragao de Fogo
-“Zhu Rong vem do sul com o chicote do dragao de fogo, a bandeira de fogo queima o céu em vermelho.” A Ordem do Dragao de Fogo é uma placa de jade quente, de cor vermelha, esculpida com a forma de um dragao. Quem carrega esta placa frequentemente sente o peito como se estivesse queimado pelo fogo, com a circulacao sanguínea aumentando, conferindo uma grande forca, como se estivesse sendo auxiliado pelo dragao de fogo.
-Esfera do Trovao
-“Quando Yin e Yang se distribuem, o trovao surge.” A Esfera do Trovao é composta por duas esferas, uma Yin e uma Yang, que, ao se chocarem, produzem um estrondo de trovao. Devido ao seu som de trovao, aqueles que ouvem este som se sentem revigorados, e até insetos se movimentam com a vibracao, agitando-se.
-Estrela Maléfica de Gou Chen
-Gou Chen é um deus do metal ocidental, conhecido por sua brutalidade e natureza agressiva. Ao refletir a luz do Polo Norte em uma pedra rara, a maldade de Gou Chen pode se manifestar. Quem obtém esta estrela se torna feroz e combativo, enquanto seus inimigos se tornam temíveis e aterrorizantes. Se esta estrela aparece no destino durante um ano, seu efeito é ainda mais pronunciado.
-Selo de Domínio das Montanhas e Rios
-“De acordo com o 'História do Sul': 'Se a terra nao é favorável ao primogênito, pode-se usar a técnica de dominacao para estendê-la'.” O Selo de Domínio das Montanhas e Rios é um grande selo que, ao ser gravado com um encantamento, pode reprimir demonios e espíritos malignos na terra. Após reprimir os espíritos malignos, ele absorve seu poder, fortificando a própria habilidade de controlar as montanhas e os rios, aumentando a forca e o poder.
-Caldeirao da Tartaruga Negra
-“A Tartaruga Negra é um ser com corpo de tartaruga e cabeca de cobra, localizada ao norte e, por isso, chamada de Negra. Tem uma carapaca escamosa, daí o nome 'armado'.” A Tartaruga Negra, uma das quatro bestas sagradas, possui um poder imenso, fazendo com que demonios e espíritos malignos se sintam aterrorizados ao vê-la. O caldeirao esculpido com a imagem da Tartaruga Negra é muito pesado, e, ao utilizar o poder da Tartaruga, ele parece leve, e ao ser brandido, intimida os outros.
-Esfera de Ouro da Nuvem
-“O cegonho amarelo aumenta o poder das nuvens, e o arco-íris atravessa o brilho da espada.” Esta esfera é extremamente resistente, imune a cortes e a água e fogo, e contém a energia do diamante. Quem possui esta esfera pode usar sua energia para criar movimentos poderosos que podem até fazer as nuvens no céu se agitar.
-Selo dos Mil Pesos
-O Selo dos Mil Pesos, também conhecido como Selo dos Mil Jun, nao se refere ao seu peso real de trinta mil jins, mas à sua forca sobrenatural que pode atingir mil jins. Raramente alguém possui tal forca, exceto por alguns poucos como Wu Huo. No entanto, quem possui este selo, ao carregá-lo, pode liberar sua forca divina, tornando seus movimentos ainda mais pesados e impressionantes, capazes de causar grandes estragos.
-Bracelete de Cristal
-O Bracelete de Cristal é feito de jade com várias cores, frio ao toque e com uma textura clara e pura como a água, sem impurezas. O bracelete proporciona uma sensacao de calma e tranquilidade através de seu frescor.
-Pingente da Clareza Radiante
-“O 'Registro dos Sete Pergaminhos Nublados' diz: 'Com o corpo puro e a energia verdadeira, a luz interna ilumina e todos os deuses sao claros'.” O Pingente da Clareza Radiante é um pingente de jade em forma de anel, com uma textura clara e luminosa. Ele absorve impurezas e regula a energia, trazendo clareza para a mente. É frequentemente usado por mulheres para mostrar sua pureza e a música delicada do pingente também é muito agradável.
-Jóia da Fonte de Jade
-A Jóia da Fonte de Jade é feita com a essência do jade, aromática e doce, podendo ser misturada ao vinho para consumo. Além de sua aparência bela, ela também pode purificar o corpo e a mente, proporcionando grandes benefícios e é frequentemente usada como um adorno pessoal.
-Candle de Prata Fosforescente
-O Candle de Prata Fosforescente é feito de jade branco em forma de vela, brilhante e prateado, iluminando sem fogo, com uma luz suave e quente. No escuro, pode ser usado para ler e refletir, proporcionando uma luz constante para meditacao e entendimento.
+Tao Yuanming na dinastia Jin descreveu a orquídea como "a brisa vem do azul, e eu vejo que é diferente do Xiao Ai". Essa fragrância pode estimular o olfato e ajudar as pessoas a reconhecerem os odores ao redor, fazendo todos os cinco sentidos ficarem mais aguçados e rápidos.
+Pássaros Coloridos Enterrados nas Nuvens
+"Junto com os pássaros coloridos, gritando com canções imortais", com jade natural esculpido em cinco pássaros coloridos, há frequentemente fumaça ao redor, envolvendo o jade, cobrindo parcialmente, como se os pássaros cantassem canções imortais. As nuvens de jade mudam com a respiração; quando a respiração muda, a fumaça se dispersa, e o jade realmente parece ter pássaros imortais cantando.
+Leque de Yaoguang
+Estrela Yaoguang, através da lua como um arco-íris. O leque Yaoguang não é para esfriar; ele não faz vento, mas ao agitar, a luz flui, como estrelas brilhando, fazendo as pessoas se moverem e verem as estrelas brilhando, como se o poder das estrelas as ajudasse em suas ações.
+Pôr do Sol das Contas Dzi
+A cor muda com a luz, ora vermelha como sangue, ora dourada e ofuscante, e não se repete em um dia, assim como a "continuidade da névoa que cai", tão imprevisível e indeterminada. A pessoa que segura essa conta age muitas vezes tão rapidamente quanto a mudança de cor, e os outros não sabem o que ela fará, apenas percebem o movimento que já chegou.
+Pulseira de Cobra
+Está escrito no "Shanhaijing" que "a cobra é esculpida com a asa de um pássaro e o corpo de uma cobra, envolvendo o braço para formar uma pulseira de cobra". Este dispositivo é fresco e se adapta ao movimento do braço, podendo ser ajustado para eliminar movimentos desnecessários, permitindo que as pessoas sejam rápidas como uma cobra, ágeis como as grandes águas revoltas.
+Selo do Rio Estelar
+As estrelas e os rios no céu giram, e os mistérios são infinitos. É difícil desenhar as estrelas e os rios no mundo, mesmo que consigam desenhá-los, não podem ver seu movimento. O selo do rio estelar precisa estudar o mistério do movimento das estrelas e usar uma pedra divina para criar um selo vivo, que pode girar a qualquer momento e registrar as estrelas e os rios do céu. Quem possui este objeto compreende a maravilhosa teoria, entendendo a mudança de todas as coisas, girando a qualquer momento, seguindo a tendência.
+Bandeira Sanchen
+A linguagem vem do Zuo Zhuan da Primavera e Outono: "bandeira de três estrelas, mostrando seu brilho", as três estrelas se referem ao sol, à lua e às estrelas. A bandeira feita de jade sagrado pode capturar a luz do céu. Durante o dia, absorve a luz do sol; à noite, concentra a luz da lua e das estrelas, ficando cada vez mais brilhante e ofuscante. Essa luz brilha e a bandeira comunica-se com a visão clara das coisas, sem erros, coração claro e sem confusão, tão clara quanto o vento.
+Pedaços de Ágata
+Os pedaços de ágata preto e branco são brilhantes e sólidos. Devido à infinidade de raciocínios no xadrez, ao jogar uma partida, é possível sentir a essência no planejamento e no cálculo.
+Papel de Tinta de Claridade
+A pedra de tinta é esculpida com a lua do mar, revestida de cera ao redor, ligeiramente fria ao toque, com brilho, como o claro brilho da lua do mar. Esta pedra de tinta é afiada e o mundo a prefere, pois a tinta fica úmida e seca facilmente.
+Pérola Regente do Coração
+"As contas são vermelhas, transparentes, belas e incomparáveis. A única maneira de o observador coletar a mente é ter um foco fixo e uma vontade firme, e ao longo do tempo, a mente se torna mais concentrada, facilitando movimentos complexos e sutis.
+Fechadura Joia dos Nove Oficiais
+O Imperador Shun nomeou nove oficiais para complementar o governo; Ji Ji permitiu que se ajudassem mutuamente. A fechadura dos nove oficiais é feita de nove cores diferentes de jade adornando a fechadura de jade, e ao mover a fechadura, os jades colidem entre si, como se os nove oficiais discutissem assuntos políticos, quaisquer problemas difíceis podem ser resolvidos por métodos mágicos.
+Espelho Yin e Yang
+O espelho é feito de jade natural preto e branco, dividido em dois lados, yin e yang, yin é negro e yang é branco. O lado yang brilha no céu, o lado yin brilha na terra; o caminho do céu e da terra é infinito. O espelho Yin e Yang reflete o céu e a terra, mostrando a verdade da separação e integração sob a visão humana.
+Pulseira do Dragão Desordenado
+A cabeça do dragão é um dong vivo, e se move no kushi quando as pessoas se movem, deslumbrando os outros. Este objeto tem um movimento complicado com a mudança de postura, cada um é diferente do outro, fazendo a postura parecer mais complicada e difícil de entender com a dinâmica.
+Selo Wuxiang
+O Tao Te Ching diz: "A forma sem forma e a imagem sem imagem são chamadas de 'hush', todas as coisas são misteriosas e invisíveis, o que as torna enigmáticas e imprevisíveis. A imagem do selo é indeterminada, o brilho é indeterminado e frequentemente muda de forma com as coisas; não há padrão no selo, portanto, ele pode ser apenas vazio. A pessoa que obtém este selo compreende subitamente a razão do retorno da realidade e do vazio em um só, seu coração fica claro e sem preocupações, e seu corpo se move sem forma definida, mas pode frequentemente vencer a existência com o nada.
+Diagrama Yin Yang
+A figura Qiankun é originalmente um tesouro mágico de Tai Shang Laojun, gravado com o padrão dos oito trigramas do céu e da terra. Segundo a lenda, pode ser carregado. Embora este objeto não seja um verdadeiro tesouro mágico e não possa realmente suportar o céu e a terra, ele contém a razão do céu e da terra, o mistério do vazio; a pessoa que consegue visualizar a situação, age conforme o contexto, e sua ação incorpora os oito trigramas, algo que não pode ser interpretado por deuses.
+Olho de Nove Corvos
+"Nos tempos antigos, Hou Yi atirou no sol para resolver as calamidades do mundo, nove corvos de três patas caíram do céu no sol, irritados e relutantes em descansar em paz". O olho de nove corvos é uma pedra sagrada que absorve o ressentimento das almas dos nove corvos, a pessoa será movida por esse ressentimento; enquanto tiver três patas e três olhos, não poderá ter uma visão normal de seu comportamento, mas poderá realizar movimentos instantaneamente.
+Anel de Osso Queimado
+As peônias foram queimadas pelo fogo, mas as flores não foram danificadas porque desafiaram o poder da imperatriz. O anel de osso queimado é feito de jade, tem a forma de um galho seco, mas é difícil de quebrar e pode dar coragem às pessoas.
+Cálice Vermelho de Chifre de Vaca
+Um grande cálice de pedra vermelha, oco e esculpido na forma de um chifre, suave e cristalino, com cor semelhante ao vinho tinto. Este cálice, ao ser usado, não só é agradável aos olhos, mas também demonstra que a pessoa é ousada e corajosa; ao beber, a força aumenta várias vezes.
+Ordem do Dragão de Fogo
+"Zhu Rong vai ao sul para chicotear o dragão de fogo, a bandeira de fogo queima o céu de vermelho", a ordem do dragão de fogo é um prato de jade quente, sua cor é vermelha, esculpido na forma de um dragão. A pessoa que carrega essa ordem frequentemente sente que seu peito parece queimado pelo fogo; o qi e o sangue do corpo se elevam, aumentando a força, como se estivesse apoiada pelo dragão de fogo.
+Pérola do Trovão
+"A distribuição de Yin e Yang, o trovão choca-se contra a estagnação", as pérolas de trovão têm um Yin e um Yang, e ao se chocarem, produzem um som estrondoso. Por causa do som do trovão, ao ouvir esse barulho não há energia, mas sim um zumbido como de insetos, abrindo dentes e garras.
+Estrela Ominosa de Gou Chen
+Gou Chen é dotado de ouro ocidental, é um deus feroz, bom em matar, maligno. Se você tiver uma pedra estranha que brilhe com a luz do Pólo Norte, a ferocidade de Gou Chen pode se fundir a ela, tornando seu lado corajoso e feroz, e seus inimigos se tornarão cruéis e malignos; se Gou Chen aparecer em seu ano, seu efeito será intensificado.
+Selo que Domina a Natureza
+A História do Sul: "O solo não é bom para o filho mais velho, se a aversão pode ser Shen Yan". O selo de aversão das montanhas e rios é um grande selo, que ao ser usado recita um feitiço, podendo repelir as artes de supressão de espíritos malignos nas montanhas, rios e terra. Ao pressionar os espíritos malignos, absorverá o poder deles, convergindo a própria arte que domina as montanhas e rios, assim a pessoa terá a lei; com a lei poderosa, o poder aumentará.
+Tripé Xuanwu
+"Xuanwu, a famosa tartaruga e cobra. Localizada ao norte, por isso é chamada de Xuan. Seu corpo tem escamas e armadura, por isso é dito Wu". O Xuanwu tem corpo de tartaruga e cabeça de cobra, é uma das quatro bestas divinas, seu poder mágico é ilimitado, demônios e maldades o temem. O tripé esculpido com a imagem de Xuanwu é várias vezes mais pesado; ao levantar esse tripé, não parece pesado, e ao usá-lo, os outros estremecem.
+Pérola Dipper Dourada de Moyun
+"o cisne amarelo moendo nuvens aumenta a força, o arco-íris verde atravessa a luz da espada no balde", esta pérola é extremamente dura, nem faca nem machado podem quebrá-la, água e fogo não podem penetrar. A pérola contém um gás vajra, que pode atravessar nuvens e sol. Com esta pérola, é possível controlar e mover essa forte força das nuvens, seu potencial choca o vento e rompe o ar, às vezes até as nuvens no céu são impactadas.
+Selo Qianjun
+O selo Milenar também é conhecido como selo Qianjun; não é que pese 30.000 libras, mas que o poder divino contido nele pode alcançar mil libras. Desde os tempos antigos até hoje, são poucas as pessoas no mundo com a força de mil libras, apenas Wuhuo e alguns outros, mas se você obtiver este precioso selo e escondê-lo em seu corpo, o poder dos deuses se moverá, energizando o espírito, e às vezes, através desse poder, a força pode ultrapassar 30.000 libras, chocando o céu.
+Pulseira de Cristal
+As pulseiras de cristal estão disponíveis em várias cores, conforme a matéria-prima do jade, são frescas ao toque da pele, e sua textura é tão clara quanto a água, sem impurezas, permitindo um relaxamento tranquilo entre a frescura.
+Pingente do Anel Brilhante
+Os sete sinais da nuvem: "ou seja, o corpo esclarece o gás verdadeiro, a luz interior brilha, todos os deuses estão claros", o pingente do anel Langqing é um pingente em forma de anel de jade, com textura clara e luz interior, capaz de absorver poluições, regulando a respiração, levando o coração e a alma à clareza. É frequentemente usado por mulheres para mostrar sua pureza, e o som suave do pingente também é agradável aos ouvidos.
+Gemas de Primavera de Jade
+O Jue da Primavera de Jade é feito da essência do jade, é tão aromático e doce que pode ser misturado ao vinho. No entanto, devido à sua beleza e ao fato de que pode limpar gradualmente o coração e a mente com sua energia pura, é frequentemente usado no corpo.
+Candleiro Prateado Luminoso
+O candleiro prateado luminoso é feito de jade branco em forma de vela, com uma cor branca prateada magnífica, não queima e brilha, sua luz é quente e úmida. Brilhando na noite, pode-se usar essa luz para ler e pensar profundamente, acompanhando reflexões e iluminações.
 Sino dos Sonhos
-Quando o vento sopra e o aroma das flores se mistura com o som do sino, os sonhos se tornam puros e tranquilizantes. O Sino dos Sonhos é um par de sinos de jade pendurados em um fio. Quando o vento passa, eles emitem um som que exala um aroma suave. Aqueles que ouvem esse som nao sao perturbados por pesadelos e têm sonhos tranquilos e enriquecedores.
-Píngao de Jade com Dragao Entalhado
-O Píngao de Jade é feito de jade ocasional com um padrao de dragao entalhado na parte de trás. A superfície é um bloco de jade comum, mas observando de perto, sua beleza e qualidade se destacam. O som ao tocar o píngao é mais puro e elegante do que o de um píngao comum. Antigamente, apenas a realeza usava este instrumento em rituais. O som do píngao acalma a mente, promovendo reflexao e conexao com o passado.
-Travesseiro de Jade Lan Huan
-“Nao é como o céu e a terra, cada quarto tem um livro maravilhoso, e Lan Huan é um lugar de bêncaos.” Lan Huan é o reino celestial dos livros guardados pelo Imperador do Céu. Ler os livros neste lugar de bêncao, ao dormir, usando um travesseiro de jade, pode levar a uma reflexao constante sobre a verdade encontrada nos livros durante o sono, resultando em uma compreensao profunda ao acordar. Este travesseiro de jade, ao chegar ao mundo mortal, proporciona a quem o possui um entendimento profundo através dos sonhos.
-Lampada de Jade Fria
-A Lampada de Jade Fria é uma lampada esculpida em jade com a forma de um pequeno copo. Quando iluminada por uma luz verde, brilha na escuridao, criando um efeito encantador. Sua luz é suave e fria, com um vento gélido que pode parecer fora deste mundo, trazendo uma sensacao de calma e serenidade. Para aqueles que estao inquietos, é possível ver amigos e parentes falecidos em um estado de devaneio, causando um choro incessante.
-Tesouro Celestial
-“Tesouro Celestial, a luz do dragao ilumina o vazio da constelacao de boi e cao.” O jade vivo é um tesouro do reino celestial. Ao reunir este jade com a vida mundana, obtendo a criacao do céu e da terra, ele se torna um tesouro celestial. O tesouro contém uma energia especial que alcanca as constelacoes de Boi e Cao. Quem possui este objeto pode conhecer as mudancas do mundo e os ciclos de Yin e Yang, entendendo tanto o passado quanto o presente.
-Esfera de Luz Noturna
-A Esfera de Luz Noturna, também conhecida como Pérola da Luz Noturna, brilha na escuridao devido à criacao celestial. Esta luz pode incorporar levemente a energia vital da pessoa.
-Taca de Gordura Condensada
-A Taca de Gordura Condensada é um pequeno copo de jade, com a cor de gordura condensada, branca e suave. Pode ser usada para servir frutas aromáticas ou bebidas. Ao beber água desta taca, a água também transmite uma sensacao de suavidade e calor, como se fosse a própria essência do jade.
-Painel de Jade do Tigre Branco
-Um antigo artefato de jade usado em cerimonias, esculpido na forma do Tigre Branco. “O Tigre Branco canta ao amanhecer, e o trovao ressoa pelos campos.” O Tigre Branco é um dos quatro seres sagrados do céu. Quando ele canta, é um presságio de boa sorte. Ao usar o Painel de Jade do Tigre Branco em oracao, sente-se a energia espiritual do Tigre Branco, elevando o próprio espírito.
-Oito Imortais Bêbados
-Estatuetas de jade esculpidas representando os Oito Imortais em estado de embriaguez, alguns balancando, outros bebendo com entusiasmo, ou com o rosto baixo... Nomeado como os Oito Imortais Bêbados. Apesar de parecerem bêbados, eles ainda mantêm a aura imortal e encantadora. Ao observar este objeto, sente-se a energia e o estilo dos imortais, como se houvesse uma conexao com suas habilidades sobrenaturais.
-Contas de Jade e Marfim
-Contas alternadas de jade e marfim, todas brancas e perfeitamente arredondadas, tornando difícil distinguir entre jade e marfim. Ao manter estas contas e recitar o nome do Imperador de Jade mil vezes, pode-se tocar o céu e fortalecer a essência vital inata.
-Espelho do Esqueleto
-Segundo a lenda, durante a dinastia Tang, alguém encontrou um espelho antigo com esculturas de bestas estranhas nas bordas e trigrams e doze posicoes estelares. Hoje, um espelho de jade com este design pode revelar demonios e formas ocultas. Se coberto com pó dourado, pode mostrar a estrutura óssea de uma pessoa. O espelho é útil para corrigir deficiências inatas e aprimorar a saúde e a aparência através de cuidados e exercícios.
-Esfera das Seis Almas
-Esta esfera é um tesouro espiritual que contém parte das almas dos seis imortais. Quando as seis almas estao reunidas, conferem poderes divinos, podendo alterar o destino e mudar a estrutura óssea de uma pessoa. No entanto, o uso excessivo pode prejudicar a energia dos imortais e atrair a punicao divina.
-Lanterna das Sete Estrelas
-A Lanterna das Sete Estrelas, originária da dinastia Shang e Zhou, possui sete chamas. Durante o período dos Três Reinos, Zhuge Liang usava a Lanterna das Sete Estrelas para rituais, acreditando que, se a chama principal nao se apagasse por sete dias, a vida seria prolongada por um ciclo. Esta lanterna utiliza técnicas secretas e pode melhorar a essência pessoal, alterando o karma das vidas passadas.
-Registro do Início Celestial
-“O vazio primordial, origem e criacao do universo, todos os seres comecam, e os cinco ciclos terminam.” O Registro do Início Celestial descreve o mapa estelar primordial e os ciclos de vida e transformacao. Quem compreender os segredos deste registro pode absorver as energias do céu, como o Céu Vermelho, o Céu Amarelo, o Céu Azul, o Céu Branco e o Céu Negro, alcancando o caminho da iluminacao.
-Contas de Água
-Contas de jade em forma de água, totalizando 108, cristalinas e brilhantes. Usadas durante a recitacao de mantras, as contas giram e ajudam a dissipar as 108 aflicoes, trazendo uma mente focada e tranquila.
-Contas de Jade do Buda
-Contas de jade polido que servem como um símbolo de virtude. Além de sua beleza, podem ser usadas para decoracao por pessoas comuns. Usar as Contas de Jade do Buda pode ajudar a evitar desastres e trazer protecao, com sua eficácia aumentando conforme a sinceridade do coracao.
-Cabo de Jade Translúcido do Buda
-O Cabo de Jade Translúcido é moldado na forma da mao do Buda, com luz que passa através do jade, destacando sua clareza e plenitude. Seu formato único é altamente apreciado e cada cabo é diferente, proporcionando uma sensacao de estar em presenca do Buda e promovendo a meditacao.
-Amuleto da Verdadeira Forma das Cinco Montanhas
-“Esta é a verdadeira imagem das Cinco Montanhas... Todos os imortais que a usam parecem como descrito; os taoístas que a carregam, ao percorrer montanhas e rios, sao respeitados e adorados.” O Amuleto da Verdadeira Forma das Cinco Montanhas é um talisma transmitido pelo Senhor Supremo Laozi. É um segredo dos imortais e protege contra demonios e venenos.
-Amuleto Antimágico
-Embora o Amuleto Antimágico devesse estar cheio de luz e riqueza, ele apenas emite uma luz tênue do fundo. Este amuleto nao é para atrair riqueza, mas para afastar espíritos malignos e demonios. Tem um caráter calmo e proporciona seguranca e tranquilidade.
-Amuleto dos Cinco Dragoes Gelados
-Os Cinco Dragoes Celestiais representam os cinco elementos: madeira, fogo, metal, água e terra. Com rostos humanos e corpos de dragao, segundo a lenda, esses cinco dragoes deixaram ossos gelados no Ártico antes de se tornarem imortais. Este amuleto é esculpido em jade na forma de ossos de dragao, amarrado com corda para ser usado como protecao. Pode ajudar a proteger a energia interna e a manter o foco na busca pela imortalidade. Para aqueles com extrema sinceridade, pode ajudar a encontrar o local onde os ossos dos dragoes estao enterrados.
-Pagoda dos Quatro Animais
-O céu é dividido em quatro regioes pelos animais sagrados: o Dragao Verde, o Tigre Branco, o Pássaro Vermelho e a Tartaruga Negra. A Pagoda dos Quatro Animais é esculpida em jade com esses animais representados em cada face do topo da torre, alinhando-se aos quatro pontos cardeais. A pagoda usa a forca dos animais sagrados para estabilizar a mente e proteger a alma.
-Tabuleiro Celestial
-O Tabuleiro Celestial é um tabuleiro de jogo de xadrez vivo, que nao requer pecas. As pecas se formam com a interacao das energias do Yin e Yang. Em um espaco tao pequeno, existe um grande potencial; com a mente focada, tudo pode ser dominado e nenhum desafio será aterrorizante.
-Copo de Jade do Coracao Gelado
-“Nao importa quao impuro seja o lugar, se o coracao é puro como o gelo.” O Copo de Jade do Coracao Gelado é feito de jade de Kunlun, com uma aparência fria e transparente. Parece conter uma infinidade de néctar imortal e pode se integrar ao sangue e à mente, eliminando todas as impurezas e preocupacoes, trazendo um coracao puro e limpo.
+O vento sopra as flores e faz soar os sinos; dormir e sonhar é suficiente. O sino dos sonhos é um par de sinos de jade, pendurados em seda, que, quando o vento sopra, emitem fragrância. Por meio desse som e do perfume das flores, de alguma forma, não há mais perturbações de pesadelos, apenas nutrição da mente e benefício de sonhos claros.
+Pedras de Sino com Dragão Esculpido
+O sino é feito de jade, com o verso esculpido com um padrão de dragão, e a superfície é apenas de jade, mas o som produzido é mais elegante que o sino de pedra comum. O som desse instrumento é tão penetrante que pode acalmar as pessoas, fazendo-as refletir sobre o passado e o presente, e seguir o futuro com cautela e iluminação.
+Travesseiro de Jade Langhuan
+"Fora do céu e da terra, cada sala possui um livro estranho; a terra abençoada de Luang Huan também", Luang Huan é o livro do reino imortal que o imperador celestial esconde; na terra abençoada, ao ler o livro, se adormece, e ao usar o travesseiro de jade, os sonhos sempre refletem a verdade do livro, frequentemente despertando com uma rara iluminação. Este travesseiro de jade, caindo na terra, se for obtido por pessoas virtuosas, elas podem se iluminar em seus sonhos.
+Luminária de Jade Fria
+Jade frio esculpido na forma de uma luminária em forma de taça; se você colocar uma luz verde dentro, na noite escura, refletirá a beleza um do outro. A luz é suave e a frieza é acompanhada por uma rajada de vento, fazendo você sentir que não está na terra, mas que seu coração está frio e vazio, e que todas as sete emoções e seis desejos se foram, trazendo grande iluminação à sua alma. Para aqueles incertos, às vezes é possível ver amigos e parentes falecidos em transe e chorar.
+Tesouro da Natureza
+"O jade vivo é um tesouro do reino imortal, e este jade é uma coleção da vida mortal, sendo um tesouro do céu e da terra. Há uma energia estranha no tesouro, que pode alcançar as duas estrelas da Ursa Maior; quem possui este objeto pode conhecer as mudanças no mundo mortal, a transformação do yin e yang do céu e da terra, e entender o antigo e o moderno, sendo capaz de compreender tudo.
+Pérola Luminosa
+A pérola luminosa, também conhecida como pérola brilhante, pode emitir luz em um ambiente escuro, devido à criação do céu e da terra que lhe confere essa característica. Essa luz brilha, e o poder da criação pode ser levemente transformado em qi humano.
+Tigela de Resina Congelada
+A tigela de gel é uma pequena tigela de jade, com cor semelhante a gelatina, branca e morna, pode ser usada para segurar frutas aromáticas ou servir vinho e chá. Beber água nesse recipiente faz com que o coração sinta calor e umidade, não se sabe se é o toque do jade ou se a água é que se transforma em jade.
+Tabela de Jade do Tigre Branco
+Nos tempos antigos, o jade usado para sacrifício era esculpido na imagem do tigre branco. "O tigre branco ao amanhecer, trovão nos quatro campos", o tigre branco é um dos quatro espíritos do céu, seu som é auspicioso; com a parede do tigre branco orando ao céu, parece que o espírito do tigre branco eleva o espírito próprio.
+Oito Imortais Bebendo
+A escultura de jade dos Oito Imortais do Taoísmo retrata-os bebendo e embriagados, ou balançando, ou segurando vinho... assim chamados os Oito Imortais Bebendo. Embora esses oito imortais mostrem embriaguez, ainda possuem ossos imortais, hipnotizantes; as pessoas podem sentir o espírito desse objeto, como se tivesse uma conexão anterior com a forma dos oito imortais.
+Contas de Oração de Jade Elefante
+Com belos jade e marfim alternados em contas de rosário, as contas são brancas e redondas, as pessoas não conseguem distinguir qual é jade e qual é marfim. Frequentemente seguradas nas mãos, as contas são usadas para recitar o número dourado do Imperador de Jade 10.000 vezes, podendo assim mover os céus, solidificando sua essência e aumentando a energia inata.
+Espelho Iluminador de Ossos
+Segundo a lenda, durante a Dinastia Tang, alguém possuía um espelho antigo, com quatro lados esculpidos com bestas, e fora dele estavam os oito trigramas e doze ouvidos. Hoje, essa forma se tornou um espelho de jade, capaz de iluminar manifestações demoníacas; se revestido com pó de ouro, pode iluminar os ossos da pessoa e detectar deficiências congênitas, complementando-as internamente e externamente; se a prática for diligente, traz grande benefício.
+Contas de Seis Almas
+Este tesouro é um tesouro psíquico feito de jade, obtido do sangue psíquico, as contas ligadas à parte da alma dos seis imortais taoístas; as seis almas unidas terão poder divino, podendo modificar o destino de céu e terra e alterar a essência da pessoa. No entanto, esse objeto é prejudicial à energia imortal; se usado inadvertidamente, pode atrair a ira do céu.
+Lâmpada das Sete Estrelas
+A lâmpada das sete estrelas foi passada desde as dinastias Shang e Zhou, uma lâmpada queimando sete chamas; Zhuge Liang, durante os Três Reinos, acendeu a lâmpada, pisando na Ursa Maior para evitá-la; dizia-se que se a lâmpada não se apagasse em sete dias, a vida se estenderia por um século. Esta lâmpada possui magia secreta, chamando a vida que não é pelo destino e a morte que não é pelo céu, unindo as sete estrelas para ajustar o poder do yuan, reparando a essência do homem e mudando o karma de vidas passadas.
+O Livro do Início do Céu
+"Se você conseguir desvendar a verdade neste livro, o Qi do Dantian, Xiushetian, Cangtian, Sutian e Xuantian pode se transformar em seu corpo a partir das estrelas do céu superior, não há como não se tornar o nascimento do Tao."
+Contas de Oração de Água
+Cento e oito contas de jade de água são entrelaçadas formando uma corda cristalina e brilhante. As contas seguem o sutra e gradualmente dissipam as 108 preocupações, para que a mente não possa mais se distrair.
+Contas de Buda de Jade
+As contas de Buda feitas de jade polido são prova de bondade, e por sua beleza, pessoas leigas podem usá-las para decoração. Quanto mais sincero for o coração, mais espirituais serão as contas.
+Cabo Translucente de Buda
+O cabo translucente de Buda tem a forma da mão do Buda, a luz pode penetrar o jade, destacando sua plenitude cristalina e mudanças naturais. A forma é única e agradável, e cada cabo translucente de Buda é diferente, como se estivéssemos vendo a flor do Buda e meditando.
+Pingente da Verdadeira Forma de Wuyue
+"Essa forma verdadeira das montanhas e rios... os imortais que a usam são como a transmissão do capítulo; os sacerdotes taoístas a executam, através da linha das montanhas e rios, um grupo de espíritos divinos, respeitam e saudam", a forma verdadeira das montanhas é o talismã de Tai Shang Laojun, nome de imortal, que não pode ser ensinado, é o segredo dos oficiais imortais. Usar este objeto para viajar pelas montanhas e rios impede que todos os demônios e venenos perturbem.
+Luz Afugentadora de Maus Espíritos
+O mal atrai riquezas, deve ser coberto por pérolas, mas a luz afugentadora do mal é diferente, vem apenas do fundo da luz tênue. Essa luz afugentadora não atrai riquezas, mas se concentra em eliminar o grupo do mal, acalma o espírito e proporciona paz de espírito.
+Pingente de Osso Frio dos Cinco Dragões
+Os cinco imortais, madeira, fogo, ouro, água e terra, são os deuses dos cinco elementos, com rosto humano e corpo de dragão. Diz-se que os cinco dragões, antes de se tornarem imortais, deixaram seus ossos frios nas regiões árticas do grande deserto. Esculpido em jade na forma dos cinco dragões, ao usar como pingente, pode proteger a energia vital do corpo, meditar e solidificar a vontade de buscar a imortalidade; se o coração for sincero, pode-se encontrar o lugar onde os ossos dos dragões estão enterrados.
+Pagode dos Quatro Elefantes
+O céu é dividido em quatro elefantes: dragão azul, tigre branco, pássaro vermelhão e xuanwu, em quatro lados. A tigela espiritual esculpida em jade tem os quatro elefantes dispostos nas quatro direções do topo do pagode, onde quer que esteja, cada um para a sua direção, movendo-se com determinação, sempre pelo poder das bestas, influenciando o espírito humano, a determinação da alma humana.
+Tabuleiro de Xadrez do Céu e da Terra
+O tabuleiro é um xadrez vivo, sem peças, pontua e divide o xadrez, representando a divisão do yin e do yang do céu e da terra. Entre o quadrado e a polegada, há um grande coração; se a mente estiver fixa, poderá ver todas as coisas como ruminantes, desafiando o céu e a terra, sem traços de pânico.
+Pote de Jade de Coração Gelado
+"Se o coração de uma pessoa tiver gelo, o coração dessa pessoa está fora da poeira". O pote de jade de coração gelado é jade vivo de Kunlun, frio como gelo, claro como gelo; este pote parece ter um néctar imortal sem fim, e pela pureza do frio, pode transformar-se em sangue, entrando no coração e removendo toda a sujeira do coração, assim, o jade gelado transforma-se em um coração delicado e claro.
 Pingente de Cristal
-O Pingente de Cristal é esculpido em formas como nuvens e peixes duplos, pendurado em uma corrente, podendo ser usado no pescoco ou no pulso, ou como decoracao para outros objetos. É resistente e bonito, um símbolo de boa sorte.
-Jade da Sorte
-O Jade da Sorte tem a forma de um cetro e foi originalmente usado para cocar a pele, também conhecido como “Nao Dependente de Outros”. Geralmente, é esculpido com padroes de dragoes e flores, é transparente e polido, simbolizando boa sorte, e pode ser usado como presente.
-Cinco Morcegos de Jade
-A palavra “morcego” soa como “sorte” em chinês, por isso, os Cinco Morcegos também representam os Cinco Desejos de Boa Sorte. Um artefato de jade é esculpido na forma de um ritual, com cinco morcegos esculpidos nas laterais e na base. Usado em rituais para comunicar-se com o céu e a terra, pedindo bêncaos.
-Liu Hai Brincando com o Sapo
-“Liu Hai brincando com o sapo dourado, cada passo atraindo dinheiro.” Segundo a lenda, Liu Hai brincou com um sapo dourado e obteve uma pílula de ouro após 500 anos de prática, o sapo entao comecou a cuspir dinheiro, ajudando o mundo. Esta imagem é frequentemente representada em pinturas, papéis recortados e jade. Colocar Liu Hai em casa pode atrair prosperidade e riqueza.
-Imagem do Senhor Verdadeiro do Templo Xuan
-O Senhor Verdadeiro do Templo Xuan, Zhao Gongming, é o líder dos quatro imortais responsáveis por tesouros, riqueza e prosperidade. A imagem do Senhor Verdadeiro pode ajudar a eliminar pestes, doencas e disputas legais, e garantir sucesso em negociacoes.
-Círculo de Jóias de Muitos Tesouros
-O Sutra do Lótus descreve que “ouro, prata, vidro, coral, ágata, pérolas e rosa” formam um círculo de muitos tesouros, frequentemente usado pelos budas e bodhisattvas. Diz-se que o círculo contém um líquido curativo capaz de tratar ferimentos e sangramentos.
-Bracelete dos Mil Budas
-Escrito em jade com a imagem dos mil budas que surgem durante uma era de calamidade, o bracelete é consagrado por monges renomados. Quem usa este bracelete será guiado pelos budas, ajudando a superar as cinco impurezas da vida e, possivelmente, alcancar a iluminacao.
-Prato da Lua do Banquete de Jade
-“Preparando um banquete de jade para flores, bebendo o néctar lunar.” Feito de jade vivo, o prato é esculpido com uma mesa de banquete, flores e a lua. Quando exposto à luz da lua, o prato exibe cores e flores exuberantes, criando uma visao celestial, como se estivesse participando de um banquete imortal.
-Pote de Tesouro
-O Pote de Tesouro é conhecido por atrair riqueza. Diz-se que “um alfinete de prata colocado no pote pode encher o pote com prata, incontável.” Feito de jade de Kunlun, este pote é altamente decorativo e, embora nao possa gerar riqueza diretamente, traz boa sorte e abundancia.
-Pingente de Jade
-Esculpido em jade e usado como acessório, é comum na cultura popular. “Um cavalheiro sem causa, o jade nao se afasta do corpo.” O jade simboliza a virtude e a pureza, representando uma energia suave e brilhante.
+O cristal é esculpido na forma de nuvens, peixes gêmeos, etc. Pode ser usado em uma corrente e pendurado no pescoço ou no pulso, ou como decoração para vários objetos. É resistente e bonito, simbolizando boa sorte.
+Jade Ruyi
+O Jade Ruyi tem a forma de um bastão com garra, e foi usado como ferramenta para coceira, conhecido como "sem buscadores". Mais tarde, costumava ser esculpido com desenhos de dragões e flores, que são suaves e transparentes, simbolizando boa sorte e podendo ser usado como presente.
+Tubo de Jade dos Cinco Morcegos
+Os cinco morcegos são esculpidos nos quatro lados e na base, usados principalmente para adoração à terra, e o xamã se comunica com o céu e a terra através do "pilar de céu e terra" com a ajuda dos cinco morcegos, pedindo bênçãos.
+Sapo Ilusionista de Liu Hai
+"Liu Hai brinca com o sapo dourado, passo a passo para pegar dinheiro"; a lenda diz que antes de Liu Hai selar o deus da riqueza, ele brincava com o sapo dourado e obteve sua essência dourada de cinco cem anos de cultivo, fazendo com que o sapo cuspisse dinheiro e ajudasse o mundo. As pessoas frequentemente pintam, cortam papel e fazem jade com isso, e se você convidar Liu Hai para sua casa, pode pedir fortuna.
+Estátua de Zhao Gongming
+Zhao Gongming, o verdadeiro governante do Templo do Dragão e Tigre, é responsável pelos quatro imortais da Riqueza, Fortuna, Benefício e Lucro, sendo frequentemente venerado pelo povo. A esta estátua do verdadeiro monarca, pode-se pedir "remover pragas, cortar abusos, proteger doentes e evitar desastres, suprimir injustiças em litígios, comprar e vender para lucrar"; não há mal algum.
+Colar de Pérolas Floridas
+O Sutra do Lótus Myoho registra: "Ouro, prata, vidro, vieiras, ônix, verdadeiras pérolas, rosa sete tesouros síntese de muitos celuloides chineses", é a integração dos tesouros do mundo. Budas e Bodhisattvas costumam usar celuloides. Diz-se que o celuloide é cheio de polpa de pêssego, que pode ser usado externamente para curar feridas cortantes.
+Pulseira do Tesouro de Mil Budas
+Esta pulseira preciosa é obtida esculpindo a imagem de mil Budas que surgiram nas sagas do mundo de jade e pedindo a grandes monges que recitem os sutras e abram a luz ao seu lado. Aqueles que recebem este tesouro serão guiados pelo Buda para eliminar os cinco males da "turbidez do karma, turbidez da visão, turbidez da vida, turbidez dos seres sencientes e turbidez das preocupações", e se conseguirem vislumbrar os ensinamentos do Buda, podem transcender a vida e a morte.
+Prato Iluminador da Lua do Banquete
+"abrindo um banquete de jade para sentar flores, taças voadoras e lua embriagada", feito de jade vivo, o prato é esculpido com festa na mesa, árvores floridas e lua fechada, trazendo uma sensação de frio e frescor. Se brilhar sob a lua, a festa é colorida, flores em flor, lua cheia e fechada, bonita; os espectadores dessa cena sentem como se estivessem no banquete celestial, comendo pêssegos imortais e vinho imortal, o corpo anseia por ascender à imortalidade.
+Tigela do Tesouro
+O mundo possui uma tigela do tesouro, que pode atrair riquezas; diz a lenda que "ocasionalmente deixava-se um alfinete de cabelo prateado na tigela, e o alfinete enchia, não podendo ser contado", é um tesouro procurado por todos. Hoje, a tigela do tesouro é feita de jade vivo de Kunlun, repleta de ouro e jade, muito nobre; embora não produza realmente riqueza, quem a obtém terá boa sorte, riquezas, parecendo ser obra dessa tigela.
+Pingente de Jade de Cristal
+Esculpido em jade na forma de um pingente e suspenso na cintura, era comum no folclore. "O cavalheiro não tem razão, o jade não sai do corpo"; o cavalheiro é frequentemente comparado à virtude do jade, pensado por seu calor e brilho, com uma aura semelhante a um arco-íris branco.
 Borboleta de Jade
-“As asas cor-de-rosa se movem graciosamente, sobrevoando pequenas paredes.” A Borboleta de Jade é uma borboleta esculpida em jade, vividamente detalhada e parecendo voar levemente, capturando a essência da natureza com sua beleza delicada.
-Amuleto de Jade do Peixe
-O peixe é um símbolo de contrato e compromisso. Feito de jade verde, o amuleto em forma de peixe é frequentemente usado para fazer acordos e também para o comando e organizacao de tropas. Ele combina uma sensacao de afeto e poder.
-Guaxinim de Jade
-Um guaxinim esculpido em jade, retratado de maneira astuta e encantadora, representa a habilidade de cacar e evitar ratos. O guaxinim é conhecido por sua agilidade, e a imagem pode inspirar comportamentos semelhantes em sua própria vida.
-Caldeirao de Jade de Lírios do Vale
-“O caldeirao de ouro novo fervendo leite, o caldeirao de jade comecando a ferver o aroma.” Usado para preparar remédios, o caldeirao de jade tem a forma de um lírio do vale e, ao ser aquecido, exala um aroma agradável. Este aroma suave pode aliviar o amargor dos remédios e proporcionar uma sensacao de bem-estar.
-Esfera do Sol e da Lua
-“O sol e a lua têm seu ciclo, as estrelas têm seus caminhos.” A Esfera do Sol e da Lua contém energias solares e lunares, mudando sua intensidade com o tempo. A luz que emana da esfera pode ajudar a entender e ajustar o tempo e as circunstancias, aproveitando a energia para o benefício próprio.
-Esfera do Caos do Feng Shui
-O vento carrega energia primordial, e a água possui dinamica; ambos sao acessíveis, mas difíceis de manipular. A Esfera do Caos do Feng Shui, no entanto, é capaz de absorver a energia do vento e da água devido às suas características, unindo esses elementos em harmonia para restaurar a energia e o vigor do corpo. Além disso, se um local tem um vento persistente ou água estagnada, indicando uma excelente configuracao de Feng Shui, o efeito desta joia será ainda mais poderoso.
-Jade de Flor de Umdan
-"A flor de Umdan é uma flor celestial; se o Buddha descer à terra, poderá fazer com que esta flor apareca". Feita de jade espiritual, a flor de Umdan é branca como a neve e fria como o gelo. Embora nao seja uma flor celestial verdadeira, ela ainda pode invocar a grande bencao do Buddha, emitindo um aroma fresco e gelado e transmitindo a energia espiritual do Buddha ao corpo, como se recebesse ajuda divina.
-Cano de Cor de Nove Cores
-Este cano é esculpido de um único bloco de jade de nove cores, com cores variadas que se misturam e se fundem, emitindo uma aura celestial. Quando chove, o cano gradualmente se enche com as lágrimas das divindades. Em dias claros, essas lágrimas se transformam em energia divina que protege o portador, oferecendo assistência sobrenatural em momentos de necessidade.
-Hashi de Jade
-Um par de hashis feitos de jade, também conhecidos como hashis de jade, usados ocasionalmente por famílias nobres. Comparados aos hashis de madeira comuns, os hashis de jade nao absorvem poeira nem odores, permitindo que se saboreie o verdadeiro gosto dos alimentos.
-Morta-Cuscuz de Jade
-De acordo com a lenda, o coelho de jade no palácio lunar frequentemente faz remédios, levando à criacao de um pilao de remédio com a forma de um coelho de jade, que é extremamente adorável. Acredita-se que este pilao de coelho de jade pode melhorar a eficácia dos remédios que prepara.
-Cano da Luz Clara
-"A luz clara se condensa em orvalho, a lua brilhante está livre de fumaca." O cano da luz clara é de uma cor verde fria, com um brilho claro e brilhante. Se contiver água limpa, pode-se frequentemente ver orvalho se formando ao redor do cano, que é cristalino e translúcido. Beber desta água refresca e revigora, proporcionando grande alívio.
-Jade Luo Qi
-O Jade Luo Qi é esculpido em forma de uma mulher de beleza encantadora, com um olhar gentil e um sorriso, vestindo roupas que parecem flutuar. Ter esta figura de jade ao seu lado é como ter uma companhia feminina gentil, trazendo uma sensacao de tranquilidade. Para os inimigos, no entanto, pode parecer sedutor e perturbador.
-Taca de Vidro de Noite Clara
-Esta taca é feita de vidro transparente, que refrata a luz e é visualmente deslumbrante. Frequentemente usada à noite, sob a luz da lua, a taca exibe um efeito mágico, com a luz da lua se espalhando em flores na mesa, criando uma cena encantadora e onírica. Isso inspira uma sensacao de transcendência, como se estivesse participando de um banquete celestial.
-Espelho de Jade de Gelo
-De acordo com a lenda, um talentoso jovem encontrou uma fada e, após um período de cem dias preparando um remédio de gelo, conseguiu se casar com a bela jovem. O Espelho de Jade de Gelo pode ser um espelho usado pela fada, que, tocada pela sinceridade do jovem, contém a energia de gelo, oferecendo assistência silenciosa. Alguns acreditam que, ao olhar para este espelho, pode-se ver a pessoa amada.
-Espelho do Rio do Esquecimento
-Após a morte, as almas precisam cruzar o Rio do Esquecimento e beber a sopa da Meng Po para esquecer suas vidas passadas antes de renascer. Embora as memórias do passado se desvanescam, o Espelho do Rio do Esquecimento ainda as registra. Quem possuir este espelho pode relembrar eventos de vidas passadas, seja com alegria ou tristeza, sentindo um profundo sentimento de experiência e sabedoria.
-Espada de Cinco Cores
-No ritual de sacrifício, a Espada de Cinco Cores é oferecida ao Norte. Esta espada, feita de jade espiritual, emite cinco tipos de luz colorida durante o ritual, brilhando intensamente. É um sinal de respeito ao deus do Norte e, quando os ventos do Norte sopram, ajuda a alcancar o sucesso e a realizacao.
-Registro de Jade de Kunlun
-Um registro de jade vindo de Kunlun, que contém a ordem celestial, só pode ser decifrado por aqueles que têm afinidade com os deuses. Assim como o céu concede ordens, também ajuda na prática espiritual, ensinando a transformacao do caos em unidade. Durante um ataque, utiliza a energia do céu e da terra para avancar, algo que só pode ser enfrentado por aqueles que possuem um coracao e alma firmes.
-Crisálida de Jade
-Uma joia em forma de crisálida de jade, muito realista. Assim como o inseto se transforma em um ser alado, esta joia incentiva o aprimoramento interior e pode levar a grandes conquistas.
-Jóia de Jade Nao Lapidada
-A Jóia de Jade Nao Lapidada é uma pedra de jade natural em forma esférica, que nao foi esculpida. Esta pedra, simples por fora e bela por dentro, contém um poder espiritual que inspira reflexao. É frequentemente usada como uma metáfora para pessoas talentosas ainda nao reconhecidas.
-Anel de Cicada Azul
-Segundo o "Livro dos Objetos Estranhos", "O cicada azul tem a forma de uma cigarra e seus ovos parecem camaroes; quando um ovo é encontrado, a mae aparece voando". O Anel de Cicada Azul é um par de anéis de jade, um com a forma de uma cicada mae e o outro com a forma de um ovo de cicada. Representa a uniao e a lealdade.
-Gancho de Cinto de Jade com Dragoes
-Este gancho de cinto de jade é longo e possui ganchos invertidos esculpidos em forma de dragoes. O gancho é decorado com um pequeno dragao adicional, adicionando um toque de luxo. Pode ser usado para prender um cinto de forma confortável e melhorar o fluxo de energia do corpo.
-Caldeirao de Jade Espiritual
-O Caldeirao de Jade Espiritual é um utensílio ritualístico que pode captar o espírito do tempo, mudando sua cor e forma de acordo com as condicoes. Nao deve conter outros objetos, apenas a energia yin e yang da terra. O caldeirao age como um forno, refinando essas energias e integrando-as ao corpo.
-Cabaca de Sangue Verde
-De acordo com "Zhuangzi", "Chang Hong morreu em Shu, e seu sangue se transformou em verde após três anos." A Cabaca de Sangue Verde é de cor verde-azulada e contém sangue em seu interior. Esta cabaca pode absorver sangue, convertendo-o em energia, que é entao assimilada pelo corpo, oferecendo benefícios únicos.
-Mapa do Taiji
-O Mapa do Taiji é um disco que combina jade preto e branco para representar o yin e o yang. Diz-se que é um artefato antigo contendo os princípios da transformacao espiritual. Através da compreensao dos princípios deste mapa, é possível alcancar o domínio da energia espiritual e, através da prática, avancar continuamente até atingir o estado imortal.
-Vaso de Jade Puro
-O Vaso de Jade Puro é um tesouro celestial que contém água de néctar, capaz de reviver os mortos. Mesmo que um mortal encontre este vaso, e nao tenha o néctar, o vaso, sempre imbuído de energia celestial, é tudo menos comum. Quando a água é armazenada nele, ela se torna cristalina e absorve a energia celestial do vaso, transformando-se em energia divina ao ser ingerida, fazendo com que a pessoa se torne excepcional.
+"As asas rosas em duas yoyo, flutuando sobre a cerca baixa", a borboleta de jade, muito viva, parece amar flores e voar por elas, batendo com o vento, muito dinâmica. Existem flores com formas e cores semelhantes às borboletas de jade, e o povo frequentemente recita, evoluindo gradualmente para o nome de palavras e melodias no mercado, de forma eufônica e suave.
+Selo de Jade do Carpa Verde
+A carpa transmite uma carta, e o espírito mantém sua promessa. Um talismã em forma de carpa feito de jade esmeralda é frequentemente usado para fazer pactos, e às vezes para transferir tropas. Ele possui tanto o poder de um cetro quanto o poder do amor.
+Castor de Jade
+Se uma pessoa captura um civeta, o rato não se atreve a sair; a imagem de um civeta esculpida em jade é habilidosa e encantadora, muito agradável. Os civetas, ao caçar ratos, se contorcem e rolam, fazendo bom uso da postura do corpo; os ratos malignos temem isso, por isso podem imitar o comportamento astuto do civeta.
+Caldeirão de Jade de Lírio
+"O caldeirão de jade é usado para decoctar suco medicinal, e o caldeirão de jade tem a forma de uma orquídea em forma de sino. Seu perfume é elegante e se incorpora ao remédio, removendo o amargo e aumentando a fragrância, fazendo com que as pessoas se sintam relaxadas e felizes.
+Pérola do Sol e da Lua
+"O sol e a lua têm uma constante, as estrelas têm uma linha", as pérolas do sol e da lua possuem dois canais de aura solar e lunar, de acordo com os princípios normais do céu e da terra; devido ao tempo e à mudança, a luz às vezes brilha intensamente, às vezes esfria. As pessoas iluminadas pela luz sempre sabem o tempo e a situação, e podem usar essa aura a seu favor, ajudando em outras coisas e reduzindo suas próprias perdas.
+Pérola Hunyuan de Feng Shui
+O vento tem energia, a água tem um potencial dinâmico; essas duas coisas estão ao alcance, mas são difíceis de usar. Mas a pérola híbrida de feng shui pode ser moldada pela localização, absorvendo a energia do feng shui, hibridizando-se em um só, complementando o qi pessoal e o potencial. Ao mesmo tempo, se em um lugar o vento não se dispersar e a linha da água estiver parada, é uma fase de feng shui muito boa; então, a eficácia deste tesouro é ainda mais forte.
+Nuvem de Jade Fria
+"A flor é uma varíola; se o Buda nascer, você pode sentir a aparência desta flor. Embora não seja uma flor verdadeira no céu, é possível sentir o grande poder de bênção do Buda e exalar uma fragrância fresca, enviando continuamente o poder espiritual e as riquezas dadas pelo Buda para o corpo humano, permitindo que as pessoas tenham ajuda divina.
+Pote de Rouge de Nove Cores
+Este pote é esculpido de um bloco inteiro de jade vivo de nove cores, cujas cores são diferentes entre si, misturando-se e se fundindo, com uma aura de fada flutuando, como as nove fadas no céu. Se chover no céu, o pote se encherá gradualmente com as lágrimas das fadas, e quando o tempo estiver bom, as lágrimas se transformarão na aura dos deuses, que protegerão o dono do pote; sempre que houver uma mudança na atmosfera, ele será assistido pelo poder divino.
+Hashis de Jade de Cristal
+Um par de hashis feitos de jade, também conhecidos como hashis de jade, eram ocasionalmente usados pelos ricos e famosos para comer. Comparados aos hashis de madeira comuns, os hashis de jade não mancham com poeira e gosto, permitindo que as pessoas apreciem o gosto original da comida.
+Pilão de Jade de Coelho
+Diz a lenda que o coelho de jade no palácio da lua costuma fazer remédios, então algumas pessoas fazem pilões de remédio esculpidos na imagem do coelho de jade, muito fofos. Alguns acreditam que o coelho de jade está fazendo remédios para ascensão, e com este pilão de coelho de jade deve-se conseguir um efeito medicinal muito maior.
+Pote de Luz Clara
+"O pote tem uma cor azul clara e uma textura fria, com um brilho brilhante e claro. Se houver água pura no pote, você pode frequentemente ver condensação na lateral do pote, cristalina. Ao beber água deste pote, a água é fresca e refrescante.
+Brocado de Jade Bonito
+Rosas de jade são esculpidas em um belo formato feminino; só de vê-la sorrir, doce e cativante, vestindo um manto que parece flutuar. Se você tiver esta jade Luoqi ao seu lado, é como uma mulher gentil a acompanhar, trazendo frequentemente uma sensação de paz, enquanto os inimigos a veem e só sentem um demônio, perturbando seus corações.
+Copo Cerâmico da Noite Clara
+Este recipiente é feito de copos de vidro e potes, com luz refrativa transparente, fresca e bonita. As pessoas costumam usá-lo para segurar frutas frescas e vinho sob a lua em uma noite clara; quando a luz da lua brilha através do vidro e se dobra em flores na mesa, a cena é psicodélica como um sonho, fazendo com que as pessoas não possam deixar de refletir e aprender com isso, adquirindo o poder da mente.
+Espelho de Jade Xuan Frost
+Diz a lenda que durante a dinastia Tang, um homem talentoso encontrou uma fada por acaso e precisou moer o remédio Xuan Frost por cem dias antes de conseguir se casar com ela. O espelho de jade Xuan Frost pode ser o espelho que a fada usou, sentindo a sinceridade do talento; a aura da fada está nele, oferecendo ajuda silenciosa. Também se diz que neste espelho de jade é possível ver a pessoa amada.
+Espelho da Amnésia
+Após a morte, para cruzar o Rio do Esquecimento, é necessário beber a sopa Menma para esquecer o passado, antes da reencarnação. Todos os tipos de eventos passados, embora as pessoas tenham esquecido, podem ser lembrados pelo espelho do rio do esquecimento. Se você obtiver o espelho do rio do esquecimento, pode ser capaz de relembrar eventos de vidas passadas, o coração pode ficar feliz ou triste, refletindo todas as vicissitudes da dor.
+As Cinco Luzes
+Nos rituais Zhou, o Xuan Juan é um presente ao Norte. Este Xuan Juan de cinco cores é feito de jade imortal psíquico e pode emitir cinco luzes coloridas durante o ritual, que são brilhantes e extraordinárias, sendo a evidência do ritual dos deuses do norte. "As cinco luzes estão prontas para serem levantadas, e os oito ventos soprarão nos oito ventos, ajudando os deuses do norte.
+Livro de Jade de Kunlun
+Do Kunlun veio o livro de jade, escrito sobre o destino do céu; apenas aqueles que encontram o destino imortal podem interpretar seu significado. O céu tem um destino, também ajudará com o dao celestial, ensinando o caminho e transformando o caos em método; no ataque humano, com céu e terra empurrando e avançando, pessoas comuns não podem competir com esse poder, e o coração e a alma se quebram.
+Crisálida de Inseto de Jade
+A joia em forma de crisálida de inseto de jade é muito realista. Assim como o inseto acumula força na crisálida e depois se transforma e voa, este objeto pode aconselhar as pessoas a cultivarem seus corações internamente, tornando-as invencíveis.
+Contas de Jade Não Polido
+As contas de pu-yu são feitas de pedras redondas de jade natural, que não são esculpidas. Esta pedra é simples por fora e bela por dentro, com um poder espiritual oculto, provocando reflexão; o mundo muitas vezes usa a analogia de "jade pu" para descrever algo que ainda não mostrou sua habilidade de sábio.
+Anel Par de Besouro Aquático
+O "objeto estrangeiro" nuvem: "o besouro aquático verde tem forma como a cigarra e é longo, seu filhote é como um camarão; ao obter seu filhote, a mãe voa", o anel par de besouro aquático é um par de anéis de jade; um com a mãe besouro verde, em forma de cigarra, e o outro com o filhote, como camarão, implicando que estão juntos e inseparáveis.
+Cinto de Jade Par Chi
+Este gancho de cinto de jade é longo e com espinhos; o corpo do gancho é esculpido com um dragão chi, e o formato é adequado; na parte de trás do gancho, há uma pequena escultura de chi, refletindo elegância e valor. Pode ser usado na cintura para prender o cinto, muito confortável, evitando que a energia do corpo fique estagnada.
+Tripé de Jade Tongxuan
+O caldeirão de jade é um recipiente cerimonial, que pode ser usado para atravessar mistérios e conhecer o tempo, mudando de cor quando o qi é transferido, algo muito maravilhoso. O tripé não pode conter outras coisas, apenas o yin e yang do céu e da terra estão ocultos nele, e o tripé é um forno que refina esses dois qis no corpo humano.
+Cabaça de Sangue Verde
+Zhuangzi: "Janghong morreu em Shu e escondeu seu sangue por três anos e o transformou em azul"; a cabaça de sangue azul é de cor índigo e esconde sangue dentro, parecendo sangue azul por fora. Esta cabaça gosta de sangue humano, mas como o conteúdo é muito pequeno, consegue apenas transformar sangue em gás, antes de ser incorporado ao novo sangue; esse gás no corpo contém qualidade interna e também possui uma utilidade maravilhosa.
+Símbolo do Yin-Yang
+O diagrama taiji é um disco, com jade preto e branco representando yin e yang; alguns dizem que este diagrama é a única relíquia deixada na antiguidade, que contém a refinação da essência em gás, do gás em espírito, do espírito para o vazio, do vazio para se fundir com o Tao, retornando à verdade divina do Wuji. Quando uma pessoa consegue romper a verdade, pode alcançar o reino do gás vivo e do espírito, e através do cultivo pode continuar a melhorar, eventualmente podendo ascender à imortalidade.
+Vaso Purificador de Jade
+O vaso purificador de jade é um tesouro mágico divino, água de manna da memória; esta água tem o efeito de reviver os mortos. Mortais ocasionalmente obtêm este vaso de pureza de jade; embora não tenha orvalho, o vaso foi há muito nutrido pelo gás imortal, naturalmente não é mundano. Armazene água nele; a água é clara e contém o gás imortal; ao beber, entra no yuan do Qi do mundo imortal, tornando as pessoas diferentes das comuns.
 Caixa dos Quatro Mares
-As pessoas costumam falar da vastidao dos quatro mares, sem saber onde eles terminam, mas esta caixa pode conter as águas dos quatro mares, e só pode ser aberta por um ser divino. A caixa nao guarda objetos; sua própria forca é imensa. Se colocada ao lado de um mortal, fará com que sua energia vital se agite e se torne impossível de controlar, mas essa energia infinita pode ser utilizada, sendo uma verdadeira maravilha.
-Certificado de Ferro do Canino Dourado
-Um antigo certificado de ferro, com finos caracteres na frente:
-"Expansao detalhada da arte taoísta, surgem muitas seitas, com muitos demonios e caminhos errados perturbando o yin e o yang. Agora, ordeno que onze discípulos da seita Maoshan saiam e exterminem o líder demoníaco Xueyou, sacrificando-se para a justica, morrendo por um propósito...".
-Na parte de trás do certificado, há uma linha de caracteres desordenados:
-"Embora o líder demoníaco tenha sido eliminado, nao posso retornar à seita. O prazo final chegou, e eu e meu amado seremos enterrados na tumba de sangue. Este certificado foi dado pelo mestre. Nao ouso perder, entao envio-o de volta à seita com este discípulo que me acompanhou por muitos anos. Ele tem grande talento, mas seu coracao nao é puro. Espero que o mestre cuide dele, o educando mais. Este discípulo escreve suas últimas palavras...".
-A última frase, "Seu coracao nao é puro. Espero que o mestre cuide dele, o educando mais", foi riscada e alterada para: "Mestre, mestressa, eu juro encontrar vocês novamente"...
-Terra Refinada do Rei das Ervas
-Uma raridade obtida do caldeirao divino do cla Kongsang, formada pelos resíduos acumulados ao longo de milhares de anos de refino de elixires. Embora nao possa ser consumida, ela exala constantemente seis cores diferentes de brilho. Segundo a tradicao do cla Kongsang, depois que o Imperador Qin, após enviar milhares de jovens para buscar o elixir da imortalidade sem sucesso, reuniu os metais sagrados das cinco montanhas e ordenou aos outros alquimistas que fundissem o caldeirao divino para criar o elixir, o caldeirao ainda nao produziu uma única pílula antes da morte do imperador, e acabou nas montanhas Kongsang.
-Sandália de Monge Fragmentada
-Após o desaparecimento do velho monge em um sonho, restou apenas uma sandália fragmentada. Esta sandália percorreu muitos caminhos perigosos e superou inúmeros obstáculos. Apesar do desgaste severo, é ainda mais resistente do que sandálias comuns. No interior há o caractere 'Xiu' e no exterior 'Xing', nao como bordado, mas como marcas semelhantes a texturas de suor e sangue, formando um significado profundo. Pode-se ver o caminho do zen e da arte marcial: cultivar o coracao para aguardar a iluminacao zen e praticar a virtude sem parar para ajudar os necessitados.
-Energia Infinita
-Esta energia é transformada dos intestinos de Zhenwu, nao pertence a este mundo. A energia é a fonte de todas as coisas, nascendo e retornando a ela. No entanto, essa energia nao circula por este mundo, portanto, permanece e nao se dispersa. Através da respiracao e meditacao, essa energia parece ir além do céu, permitindo que o praticante sinta uma sensacao de transcendência. No entanto, se o céu fora deste céu é um palácio celestial ou um vazio é incerto.
-Tambor de Batalha do Leao
-O tambor usado pelo cla dos Leoes para inspirar as secoes internas, mostrando a unidade. Embora pareca um tambor de cerdo, seu som é mais profundo e ressonante. A esquerda, há um leao adormecido, o símbolo da Secao do Leao Adormecido; à direita, um leao com crina de brocado, o símbolo da Secao do Leao de Brocado; no centro, um leao feroz, o símbolo da Secao do Leao Furioso. Esses símbolos foram criados pelas secoes do cla, mas devido às constantes disputas, os símbolos foram repetidamente apagados e redesenhados, tornando-se cada vez mais confusos.
-Espelho Fragmentado de Mingjue
-Uma peca de espelho fragmentado retirada de um Mingjue, com material que nao é metal, pedra ou jade. O espelho tem muitos desenhos visíveis nas bordas: uma imagem de fadas descendo do céu ao redor de um Mingjue; outra mostra o Mingjue com a aparência de uma flor de lótus em plena floracao; outra mostra doze deuses retirando gotas de sangue vermelho do fogo sagrado e colocando-as no Mingjue; e outra mostra muitas pessoas nuas saindo do Mingjue.
-Esfera de Demonio Celestial
-No início dos tempos, quando o céu e a terra ainda nao estavam formados, havia muitos espíritos e monstros. Diz-se que quando um espírito ou monstro consome itens raros como fogo espiritual, frutas vermelhas ou jade de água, eles nao podem se dissipar e se transformam em Esferas de Demonio Celestial. Essas esferas permitem que os espíritos adquiram forma humana, e os espíritos humanos vivem por milhares de anos. No entanto, eles sao solitários e possuem inteligência limitada, sendo frequentemente evitados pelos humanos devido ao seu comportamento peculiar.
-Livro de Feiticaria de Insetos Espirituais
-Um antigo livro de feiticaria transmitido pela seita dos Cinco Imortais, mas que nao contém técnicas de feiticaria. Em vez disso, registra as histórias de líderes Miao e mestres da seita dos Cinco Imortais, além de suas disputas com seres conhecidos como "Imortais dos Insetos". Embora o livro nao contenha feiticos ou símbolos, ao recitar suavemente as histórias do livro para os insetos, eles reagem de diferentes maneiras: emocionados, lentos, rolando ou se encolhendo. Talvez, como diz o livro, "Insetos sao os imortais do coracao, fantasmas das emocoes", os insetos sejam de fato deuses que se alimentam da corrupcao humana.
-Coroa de Caveira de Shida
-Uma coroa de caveira feita de ossos quebrados e moldada por magia negra. A coroa está cheia de angústia e impurezas, causando raiva e ódio em quem a vê, tornando difícil de suportar. No entanto, se a mente estiver firme e a coroa for observada profundamente, pode-se ver infinita felicidade e a rotacao das almas, bem como as oportunidades de iluminacao. Ver tais objetos aterrorizantes é como ver a vida e a morte: interligados e enraizados juntos, sem medo, é difícil encontrar sabedoria.
-Selo de Jade Qingtang
-Um selo de jade enterrado sob a árvore antiga na Sala de Jade Qingtang. O selo possui os caracteres "An", "Xu", "Zheng" e "Jing" e pode absorver a energia espiritual do céu e da terra, convertendo-a em energia vital. É um tesouro dado pelo mestre da seita aos três discípulos. Os discípulos, relutantes em aceitar a morte do mestre, usaram o selo para criar um reino nas nuvens, constantemente absorvendo a energia celestial e humana para prolongar a vida do mestre e buscar uma maneira de salvar o mundo. No entanto, com o passar dos milênios, o reino celestial tornou-se cada vez mais distante das pessoas, até se tornar irreversível.
-Agulha da Vida e da Morte
-Duas agulhas de diferentes formas e materiais, com marcas de desgaste do tempo. Essas agulhas foram presenteadas a Feng Qing pelos mestres Xuan Wuyou e Bai Wuyang quando ele saiu para a prática. Elas sao adornadas com imagens do nascer e do cair da noite e servem para lembrar Feng Qing de que "vida e morte estao interligadas, predestinadas pelos céus". Infelizmente, Feng Qing fez um sacrifício, e as agulhas caíram em desuso, gradualmente se perdendo com o passar do tempo...
+O mundo tenta falar sobre a vastidão dos quatro mares, sem saber onde acaba, mas esta caixa pode receber as águas dos quatro mares; apenas o Pai Celestial pode pronunciá-la para abrir. A caixa dos quatro mares não esconde coisas, ela mesma possui uma força imensa; se colocada ao lado de mortais, fará com que a energia do corpo surja e se agite, tornando-se impossível de segurar; mas seu infinito, transformado em uso, pode ser chamado de poder divino.
+Cupom de Folha Dourada
+Um pedaço de talão de ferro desgastado, a frente é gravada com letras pequenas: \n Zhaozong detalha a extensão do taoísmo, as seitas taoístas do mundo e seu surgimento, há muitos demônios malignos e olhos de estrangeiros, perturbando o yin e o yang, \n esta ordem especial sob os discípulos da Montanha Maoshan, onze pessoas saíram da montanha, para acabar com o demônio, sacrificando a retidão, matando-se para se tornarem benevolentes... \n no verso do talão de ferro, há outra linha de letras pequenas e confusas: \n Embora a cabeça do demônio tenha sido removida, é difícil voltar ao mestre; agora o fim chegou, será enterrado com seu amado monte de sangue; este talão é dado pelo benfeitor, não se atreve a perder, então confiado ao discípulo taoísta para retornar ao mestre, este discípulo acompanhou o mestre por muitos anos, seu talento é elevado, mas a mente não é pura, espero que o benfeitor cuide e discipline mais, a absoluta caneta do discípulo indigno...\n a última frase "mas o coração não é puro, espero que o benfeitor cuide mais" foi severamente danificada, alterada para "mestre, mãe mestre, juro que vou encontrá-lo de volta"...
+Resíduos de um Rei das Pílulas
+A coisa rara e preciosa raspada do caldeirão divino da escola Kongsang é o resíduo deixado pelos alquimistas de Kongsang que refinaram o elixir por milhares de anos. Embora não possa ser ingerida ou aplicada, sempre há seis tipos de esplendor que se reúnem e nunca se dispersam. \nSegundo a seita Kongsang, após Xu Fu ir à Montanha Chai e sacrificar vidas de milhares de meninos e meninas para obter o elixir da imortalidade, mas falhando, ele reuniu os cinco ferros sagrados e ordenou que os outros alquimistas fundissem um caldeirão divino, esperando usá-lo para alcançar a imortalidade. Este caldeirão divino produziu o remédio imortal por si só, mas, infelizmente, o Primeiro Imperador já havia falecido, e este caldeirão divino veio para a Montanha Kongsang junto com os alquimistas que estavam dispersos como aves e feras...
+Sapatos de Monge Desgastados
+No sonho, após o Velho Monge desaparecer, tudo que ele deixou para trás foram sapatos desgastados. \nNão sei quantos caminhos perigosos e obstáculos atravessei com esses sapatos. Embora estejam muito gastos, são mais resistentes que sapatos comuns. Há uma palavra "Reparar" no interior deste sapato, e a palavra "Viajar" do lado de fora. Os dois caracteres não parecem bordados, nem escritos com pincel e tinta. Pensando bem, eles nem parecem palavras. Em vez disso, parecem linhas encharcadas de sangue e suor, e pensamentos formados pela confluência. O caminho do Zen e das artes marciais também é assim: cultivar a mente internamente, aguardando a oportunidade do Zen, fazer boas ações é mais que apenas ajudar em crises...
+Qi Vazio
+Esse Qi é transformado dos intestinos de Zhenwu e não é uma coisa deste mundo. \nQi é a fonte de todas as coisas. Origina-se de todas as coisas e, eventualmente, retornará a todas as coisas. No entanto, como esse Qi não pode fluir por conta própria neste mundo, ele se condensa e nunca se dispersa. Portanto, esse Qi não se origina deste mundo, e assim não desaparecerá dele. Ao exalar e ajustar a respiração, esse Qi parece estar indo para fora do mundo, permitindo que os praticantes tenham a sensação de viajar no céu. Mas o céu fora do céu é um palácio celestial, ou é nada?
+Tambor de Guerra do Leão
+O portão da fase do leão é usado como um tambor de guerra para incentivar todos os salões e mostrar a unidade de todos os salões. \nA forma deste tambor é semelhante ao tambor Jie, mas o som é mais profundo e rico. Do lado esquerdo do tambor está um leão adormecido, que é o símbolo do Salão do Leão Adormecido. Do lado direito está um leão sentado com uma juba de brocado, que é o símbolo do Salão Jinshi. No meio está um leão macho com dentes e garras, que é o símbolo do Salão do Leão Selvagem. Essas marcas foram feitas pelos vários salões da Seita do Leão, mas devido às constantes lutas entre os salões, essas marcas tornaram-se cada vez mais confusas à medida que eram repetidamente apagadas e repintadas...
+Fragmento de Espelho de Jade
+O fragmento de um espelho extraído do Espelho de Jade é feito de um material desconhecido, nem ouro nem ferro, nem pedra nem jade. Gravações na borda do espelho retratam várias cenas: donzelas celestiais descendo do céu e cercando o Espelho de Jade, o Espelho de Jade aparentemente se transformando na forma de um lótus em flor, doze seres divinos extraindo gotas de sangue carmesim de uma fornalha ardente e colocando-as no Espelho de Jade em forma de lótus, e numerosas figuras nuas emergindo continuamente do Espelho de Jade...
+Núcleo de Demônio Imortal
+Nos tempos antigos, antes do mundo estar completamente desenvolvido, havia muitos espíritos das montanhas e criaturas selvagens. A lenda diz que se essas criaturas ingerissem itens preciosos como essência de fogo, frutas vermelhas ou jade aquático, que não podiam ser digeridos, formariam um núcleo em seus estômagos. Com o tempo, esses núcleos se transformariam em Núcleos de Demônio Imortal. Esses núcleos tinham o poder de permitir que as criaturas alcançassem uma forma humana. No entanto, apesar de ganharem uma forma humana, essas criaturas, conhecidas como Demônios Imortais, ainda eram estranhas e puras por natureza, vivendo por milhares de anos. Devido a suas peculiaridades e tendências solitárias, eram frequentemente evitadas pelas pessoas comuns...
+Livro de Xamanismo Gu Espiritual
+O antigo livro de feitiçaria passado secretamente de geração em geração pela Seita dos Cinco Imortais, mas não há descrição da feitiçaria nele. Em vez disso, registra uma grande quantidade de histórias passadas sobre as mágoas, ódios e narrativas entre os líderes Miao e os Líderes de Culto dos Cinco Imortais, e alguns espíritos imortais conhecidos como "Imortais Gu".\nEmbora não haja feitiços ou símbolos neste livro, se você ler trechos das histórias e recitá-los suavemente para os insetos, eles responderão de maneiras diferentes: podem estar animados, mover-se lentamente, rolar ou enroscar-se imóveis.\nTalvez, como diz o livro no início: "Gu, o imortal do coração, o espírito do amor." Poderia ser que o Gu é o espírito que se alimenta do veneno do coração humano?
+Coroa de Crânio de Cadáver
+O espírito maligno usa poder mágico para criar uma coroa de crânio feita de ossos quebrados.\nEsta coroa está cheia de problemas e impurezas. Olhar para ela faz as pessoas se sentirem irritadas e odiosas, o que as impede de se conter e torna difícil olhar diretamente. No entanto, se você realmente puder manter sua mente guardada e olhar para as profundezas da coroa de crânio, poderá ver uma felicidade infinita, observar o ciclo de vida e morte das almas, e ver as oportunidades para todas as coisas se tornarem Budas. Ver coisas tão terríveis é como ver a morte, e também como ver a vida. É exatamente o mesmo: vida e morte se causam mutuamente, e vida e morte têm a mesma raiz. Sem medo, é difícil encontrar uma vida sábia.
+Selo de Qinglang
+Selo quadrado de jade enterrado sob a antiga árvore da Torre Qinglang. Neste selo estão gravados os caracteres "An, Xu, Zheng, Jing", que podem absorver a energia espiritual do céu e da terra e até mesmo a verdadeira energia das pessoas, transformando-a em energia vital. Este é um tesouro transmitido pelo mestre da Vale do Fantasma a três de seus alunos. Os três alunos, relutantes em aceitar a morte do mestre, usaram este selo para forjar um domínio nas nuvens, constantemente capturando a energia do céu, da terra e das pessoas para prolongar a vida do mestre, tentando encontrar um caminho no cenário de destruição da humanidade, esperando pela reencarnação do mestre para apoiar a vida. Mas, com o passar de mil anos, o mundo celestial se afastou cada vez mais dos seres mortais, até que se tornou irreversível...
+Agulhas de Criação da Vida
+Duas agulhas de formas e materiais diferentes, cada uma carregando as marcas do tempo.\nEssas agulhas foram dadas a Feng Qing pelos Sêniores Xuan Wuwu e Bai Wuyang quando ele deixou a montanha após dominar suas habilidades. Elas são imbuídas com bênçãos de um reino celestial onde cenas de flores florescendo durante o dia e pétalas pendendo à noite ocorrem. A intenção era lembrar Feng Qing que "vida e morte se seguem, destinadas pelo céu", mas, infelizmente, enquanto Feng Qing se sacrificou, os tesouros sagrados se tornaram manchados e gradualmente caíram na obscuridade ao longo do tempo...
+Pó Celestial do Fogo Divino
+Quando o pássaro vermelho esteve secretamente na Terra, suas penas foram queimadas pelo fogo do céu e transformadas em pó celestial, que foi coletado por pessoas de boa vontade. Diz-se que o pássaro vermelho é o ancestral das aves divinas, e uma vez, ao bicar as flores da linguagem imperial no jardim celestial, causou a queda dessas flores na Terra e foi punido. Mais tarde, o pássaro vermelho, incapaz de resistir à sua gula, para poder comer as flores novamente, desceu à Terra duas vezes, mas acidentalmente caiu na Ilha de Chiming nas duas ocasiões...

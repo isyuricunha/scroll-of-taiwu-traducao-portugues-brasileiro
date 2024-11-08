@@ -1,13 +1,13 @@
-Magro e Pequeno
-Magro e Frágil
-Médio
+Magro
+Esquelético
+Mediano
 Moderado
 Robusto
-Corpulento
-Músculos Definidos
-Esbelto
+Bem Desenvolvido
+Enxuto
+Delgado
 Gordinho
-Arredondado
+Redondo
 
 
 

@@ -1,123 +1,123 @@
-Qi Afundado no Dantian
-Adquire uma quantidade de forca interna equivalente a 100% da circulacao mensal de Zhou Tian.
+Sink Qi to Dantian
+Gain Internal Energy equivalent to 100% of the monthly Cultivation.
 
-Cinco Energias Regulando o Ying
-Transfere uma quantidade de forca interna equivalente a 100% da circulacao mensal de Zhou Tian para o atributo dos cinco elementos.
+Five Qi Control
+Shift Five Internal Elements equivalent to 100% of the monthly Cultivation.
 
-Meridianos Livres e Circulantes
-Adquire uma quantidade de Zhen Qi equivalente a 100% da circulacao mensal de Zhou Tian.
+Clearing Meridians
+Gain Circulation True Qi equivalent to 100% of the monthly Cultivation.
 
-Mar de Qi Aberto
-Adquire uma quantidade de forca interna equivalente a 50% a 150% da circulacao mensal de Zhou Tian.
+Opening Sea of Qi
+Gain Internal Energy ranging from 50% to 150% of the monthly Cultivation.
 
-Forma Ajustada, Qi Ativado
-Transfere uma quantidade de forca interna equivalente a 50% a 150% da circulacao mensal de Zhou Tian para o atributo dos cinco elementos.
+Adjust Form to Awaken Qi
+Shift Five Internal Elements ranging from 50% to 150% of the monthly Cultivation.
 
-Qi Atinge o Topo
-Adquire uma quantidade de Zhen Qi equivalente a 50% a 150% da circulacao mensal de Zhou Tian.
+Qi Passes Head
+Gain Circulation True Qi ranging from 50% to 150% of the monthly Cultivation.
 
-Oito Meridianos Cheios
-Consome forca interna adicional e adquire uma quantidade de forca interna equivalente a 200% da circulacao mensal de Zhou Tian.
+Filling Eight Veins
+Consume extra Internal Energy to gain Internal Energy equivalent to 200% of the monthly Cultivation.
 
-Lavar Músculos e Refinar Medula
-Consome forca interna adicional e transfere uma quantidade de forca interna equivalente a 200% da circulacao mensal de Zhou Tian para o atributo dos cinco elementos.
+Washing Muscles and Bones
+Consume extra Internal Energy to shift Five Internal Elements equivalent to 200% of the monthly Cultivation.
 
-Verdadeira Forca Pulsante
-Consome forca interna adicional e adquire uma quantidade de Zhen Qi equivalente a 200% da circulacao mensal de Zhou Tian.
+True Qi Surging
+Consume extra Internal Energy to gain Circulation True Qi equivalent to 200% of the monthly Cultivation.
 
-Fluxo Constante
-Aumenta a forca interna adquirida pela circulacao mensal de Zhou Tian.
+Unending Flow
+Increases the amount of Internal Energy gained from Cultivation.
 
-Meridianos Desbloqueados e Ativos
-Aumenta a transferência de forca interna para o atributo dos cinco elementos pela circulacao mensal de Zhou Tian.
+Clearing Meridians
+Increases the amount of Five Internal Elements shifting from Cultivation.
 
-Refinar o Qi e Regular o Espírito
-Aumenta o crescimento do Zhen Qi pela circulacao mensal de Zhou Tian.
+Nourish Qi Through Spirit
+Increases the amount of Circulation True Qi gained from Cultivation.
 
-Respiracao Interna Ininterrupta
-Aumenta aleatoriamente a forca interna adquirida pela circulacao mensal de Zhou Tian.
+Continuous Breath
+Randomly increases the amount of Internal Energy gained from Cultivation.
 
-Crescimento de Respiracao
-Aumenta aleatoriamente a transferência de forca interna para o atributo dos cinco elementos pela circulacao mensal de Zhou Tian.
+Relaxing Breath
+Randomly increases the amount of Five Internal Elements shifting from Cultivation.
 
-Circulacao dos Meridianos Especiais
-Aumenta aleatoriamente o crescimento de Zhen Qi pela circulacao mensal de Zhou Tian.
+Using Meridians
+Randomly increases the amount of Circulation True Qi gained from Cultivation.
 
-Nuvens Crescendo, Fontes Borbulhantes
-Consome forca interna adicional e aumenta significativamente a quantidade de forca interna adquirida pela circulacao mensal de Zhou Tian.
+Clouds Rising
+Consume extra Internal Energy to greatly increase the amount of Internal Energy gained from Cultivation.
 
-Céu e Homem em Sintonia
-Consome forca interna adicional e aumenta significativamente a transferência de forca interna para o atributo dos cinco elementos pela circulacao mensal de Zhou Tian.
+Heavenly Harmony
+Consume extra Internal Energy to greatly increase the amount of Five Internal Elements shifting from Cultivation.
 
-Clareza de Mente, Espírito Vigoroso
-Consome forca interna adicional e aumenta significativamente o crescimento de Zhen Qi pela circulacao mensal de Zhou Tian.
+Clear Mind
+Consume extra Internal Energy to greatly increase the amount of Circulation True Qi gained from Cultivation.
 
-Qi de Vajra
-Se o atributo de forca interna do praticante durante a circulacao de Zhou Tian já for "Vajra" e nao houver conflito, o atributo dos cinco elementos da forca interna nao mudará.
+Metal Qi
+If during Cultivation practitioner's Internal Element is a non-conflicting "Metal", the practitioner's Internal Element will no longer change.
 
-Qi de Zixia
-Se o atributo de forca interna do praticante durante a circulacao de Zhou Tian já for "Zixia" e nao houver conflito, o atributo dos cinco elementos da forca interna nao mudará.
+Wood Qi
+If during Cultivation practitioner's Internal Element is a non-conflicting "Wood", the practitioner's Internal Element will no longer change.
 
-Qi de Xuan Yin
-Se o atributo de forca interna do praticante durante a circulacao de Zhou Tian já for "Xuan Yin" e nao houver conflito, o atributo dos cinco elementos da forca interna nao mudará.
+Water Qi
+If during Cultivation practitioner's Internal Element is a non-conflicting "Water", the practitioner's Internal Element will no longer change.
 
-Qi de Puro Yang
-Se o atributo de forca interna do praticante durante a circulacao de Zhou Tian já for "Puro Yang" e nao houver conflito, o atributo dos cinco elementos da forca interna nao mudará.
+Fire Qi
+If during Cultivation practitioner's Internal Element is a non-conflicting "Fire", the practitioner's Internal Element will no longer change.
 
-Qi de Retorno à Origem
-Se o atributo de forca interna do praticante durante a circulacao de Zhou Tian já for "Retorno à Origem" e nao houver conflito, o atributo dos cinco elementos da forca interna nao mudará.
+Earth Qi
+If during Cultivation practitioner's Internal Element is a non-conflicting "Earth", the practitioner's Internal Element will no longer change.
 
-Qi de Mistura Primordial
-Se o atributo de forca interna do praticante durante a circulacao de Zhou Tian já for "Mistura Primordial" e nao houver conflito, o atributo dos cinco elementos da forca interna nao mudará.
+Hunyuan Qi
+If during Cultivation practitioner's Internal Element is a non-conflicting "Hunyuan", the practitioner's Internal Element will no longer change.
 
-Transformacao da Terra em Metal
-Consome forca interna adicional, substituindo a transferência original do atributo dos cinco elementos pela circulacao de Zhou Tian por uma transferência fixa priorizando "Retorno à Origem" para "Vajra".
+Earth to Metal
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Earth" to "Metal" shift.
 
-Água Nascendo do Metal
-Consome forca interna adicional, substituindo a transferência original do atributo dos cinco elementos pela circulacao de Zhou Tian por uma transferência fixa priorizando "Xuan Yin" para "Vajra".
+Water to Metal
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Water" to "Metal" shift.
 
-Domínio da Madeira sobre o Metal
-Consome forca interna adicional, substituindo a transferência original do atributo dos cinco elementos pela circulacao de Zhou Tian por uma transferência fixa priorizando "Zixia" para "Vajra".
+Wood to Metal
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Wood" to "Metal" shift.
 
-Transformacao da Água em Madeira
-Consome forca interna adicional, substituindo a transferência original do atributo dos cinco elementos pela circulacao de Zhou Tian por uma transferência fixa priorizando "Xuan Yin" para "Zixia".
+Water to Wood
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Water" to "Wood" shift.
 
-Fogo Nascendo da Madeira
-Consome forca interna adicional, substituindo a transferência original do atributo dos cinco elementos pela circulacao de Zhou Tian por uma transferência fixa priorizando "Puro Yang" para "Zixia".
+Fire to Wood
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Fire" to "Wood" shift.
 
-Domínio da Terra sobre a Madeira
-Consome forca interna adicional, substituindo a transferência original do atributo dos cinco elementos pela circulacao de Zhou Tian por uma transferência fixa priorizando "Retorno à Origem" para "Zixia".
+Earth to Wood
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Earth" to "Wood" shift.
 
-Transformacao do Metal em Água
-Consome forca interna adicional, substituindo a transferência original do atributo dos cinco elementos pela circulacao de Zhou Tian por uma transferência fixa priorizando "Vajra" para "Xuan Yin".
+Metal to Water
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Metal" to "Water" shift.
 
-Madeira Nascendo da Água
-Consome forca interna adicional, substituindo a transferência original do atributo dos cinco elementos pela circulacao de Zhou Tian por uma transferência fixa priorizando "Zixia" para "Xuan Yin".
+Wood to Water
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Wood" to "Water" shift.
 
-Domínio do Fogo sobre a Água
-Consome forca interna adicional, substituindo a transferência original do atributo dos cinco elementos pela circulacao de Zhou Tian por uma transferência fixa priorizando "Puro Yang" para "Xuan Yin".
+Fire to Water
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Fire" to "Water" shift.
 
-Transformacao da Madeira em Fogo
-Consome forca interna adicional, substituindo a transferência original do atributo dos cinco elementos pela circulacao de Zhou Tian por uma transferência fixa priorizando "Zixia" para "Puro Yang".
+Wood to Fire
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Wood" to "Fire" shift.
 
-Terra Nascendo do Fogo
-Consome forca interna adicional, substituindo a transferência original do atributo dos cinco elementos pela circulacao de Zhou Tian por uma transferência fixa priorizando "Retorno à Origem" para "Puro Yang".
+Earth to Fire
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Earth" to "Fire" shift.
 
-Domínio do Metal sobre o Fogo
-Consome forca interna adicional, substituindo a transferência original do atributo dos cinco elementos pela circulacao de Zhou Tian por uma transferência fixa priorizando "Vajra" para "Puro Yang".
+Metal to Fire
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Metal" to "Fire" shift.
 
-Transformacao do Fogo em Terra
-Consome forca interna adicional, substituindo a transferência original do atributo dos cinco elementos pela circulacao de Zhou Tian por uma transferência fixa priorizando "Puro Yang" para "Retorno à Origem".
+Fire to Earth
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Fire" to "Earth" shift.
 
-Metal Nascendo da Terra
-Consome forca interna adicional, substituindo a transferência original do atributo dos cinco elementos pela circulacao de Zhou Tian por uma transferência fixa priorizando "Vajra" para "Retorno à Origem".
+Metal to Earth
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Metal" to "Earth" shift.
 
-Domínio da Água sobre a Terra
-Consome forca interna adicional, substituindo a transferência original do atributo dos cinco elementos pela circulacao de Zhou Tian por uma transferência fixa priorizando "Xuan Yin" para "Retorno à Origem".
+Water to Earth
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Water" to "Earth" shift.
 
-Eliminar o Falso e Restaurar o Real
-Remove os efeitos já circulados durante Zhou Tian e restaura certa quantidade de Determinacao com base nos efeitos removidos.
+Stabilize Mind
+Remove the effects that were already active during Cultivation, and restore a certain amount of Willpower based on the number of eliminated effects.
 
-Retorno à Origem
-Remove os efeitos já circulados durante Zhou Tian.
+Return to Origin
+Remove the effects that were already active during Cultivation.
 

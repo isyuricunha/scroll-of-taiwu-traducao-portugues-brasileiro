@@ -1,26 +1,27 @@
-Recuperar Humor
+Restaurar Humor
 Restaurar Saúde
-Regular Energia Interna
-Restaurar Energia Interna
-Tratar Ferimentos
-Eliminar Toxinas
-Restaurar Atributos
-Eliminar Insetos Maléficos
+Estabilizar o Respiração Interna
+Restaurar Qi
+Curar
+Desintoxicar
+Restaurar Propriedades
+Eliminar os parasitas
 Obter Recursos
 Gastar Recursos
-Itens Necessários
-Reparar Itens
-Envenenar Itens
-Gastar Itens
-Aprender Artes Marciais
-Aprender Habilidades
-Necessário Treinamento
-Consultar Estudo
-Pedir Orientacao para Avancar
-Cuidar de Personagem
-Formar Equipe
-Buscar Vinganca
-Homenagear Falecidos
-Passar a Noite de Primavera Juntos
-Procurar Tesouros
-Estabelecer Relacoes
+Itens necessários
+Reparar itens
+Temperar itens
+Gastar itens
+Aprender Arte Marcial
+Aprendendo Habilidades de Vida
+Necessário passar por experiências
+Por favor, ensine e estude
+Pedir um avanço
+Mostrar Afeição
+Formar uma equipe
+Buscar vingança
+Prestar homenagens aos falecidos
+Passar a noite juntos
+Encontrar o tesouro
+Formação de relações
+Ingressar na organização

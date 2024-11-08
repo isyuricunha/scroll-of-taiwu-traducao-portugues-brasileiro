@@ -1,0 +1,637 @@
+Meridian\nEnhancement
+
+
+
+
+Soul Out\nMeditation
+
+
+
+
+The Great Vajra\nFist
+
+
+
+
+
+
+
+
+Shaolin\nFinger Zen
+
+
+
+
+Lighten Body
+
+
+18 Rollings
+
+
+
+
+Transfer Flower\nPicker
+
+
+
+
+
+
+
+
+Emei Finger Zen
+
+
+
+
+Golden Fairy
+
+
+Ice Condensate of Blood
+
+
+
+
+Swordsmanship\nof Taichi
+
+
+
+
+Cloud Bed
+
+
+
+
+Swordsmanship\nof Open-Close
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Driving Wind
+
+
+
+
+Home Forgetting
+
+
+Phoenix Arrival
+
+
+
+
+Peeling Move
+
+
+
+
+The Great Moon\nFinger
+
+
+Heart-Breaking
+
+
+Fallen Hands\nof Mt.Chai
+
+
+
+
+Osbeck Bone Melt
+
+
+
+
+Small 8 Moves\nof Gold Clank
+
+
+
+
+
+
+
+
+Great 8 Moves\nof Sea-Blocking
+
+
+
+
+5 Anger Hands
+
+
+
+
+Vajra Black\nSand Palm
+
+
+
+
+Take The Pulse
+
+
+
+
+Swordsmanship\nof Billhook
+
+
+
+
+Rope Overhang
+
+
+
+
+Sky Snake Rolling
+
+
+Blood Doll Technique
+
+
+
+
+Blood Doll
+Ignore the next {0} direct damage damage
+
+Ignore the next {0} internal injury damage
+
+Heaven Leap
+
+
+Divine Power\nof Red Blue Fire
+
+
+
+
+
+
+
+
+Scorpion's Soul\nHook Kick
+
+
+
+
+Kneel Before The Monarch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unblock
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sword Trial
+
+
+Dismantle The Blade
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lost
+
+
+
+
+Shaken
+
+
+Pure Heart
+Because of the mystery of the book, the power of one's own techniques will be greatly increased or reduced according to the five elements of one's internal power
+
+Light-Robed Travel
+Due to the mystery of the strange book, the consumption of Footwork value in battle is greatly reduced.
+
+All-Encompassing Law
+Because of the mystery of the strange book, the power of Aegis and Nadis skills are multiplied
+
+Dragon Imitating Painting
+Because of the mystery of the strange book, in battle, when you break the enemy's Deflect with Fist, you will make the enemy throw away their weapons, and the closer you are to the enemy, the higher the damage of your Fist skill
+
+Mind's Eye Tattered Scroll
+Because of the secrets of the strange book, in the battle, after chasing the enemy 5 times in 1 round of weapon attacks with Fist, a random skill of the enemy will be blocked for a short time, and the more Acupoints are sealed on the enemy, the more powerful the Finger Technique damage will be.
+
+Eight Boundaries Scripture
+Because of the mystery of the strange book, in the battle, the weapons used by oneself replace the Legwear in using Kick Technique, and the lower the enemy's Stamina, the higher the damage of your Kick Technique will be.
+
+Shadow Sneak Book
+Because of the mystery of the strange book, in the battle, when you attack the enemy with Hidden Weapons, ignore the enemy's protective gear, and the farther you are from the enemy, the higher the damage of your Hidden Weapons techniques
+
+Nameless Divine Sword
+Because of the secrets of the strange book, in battle, when hitting enemy that has no deflect with a Sword, there is a 50% chance to restore the consumed attack, and the less Style the enemy has, the higher the damage of his own Sword Technique
+
+Ten Demons Slaying
+Because of the mystery of the strange book, in the battle, the enemy's Deflect cooldown caused by the Blade is increased by 3 times, and the more Weak Points enemy has, the higher the damage of the Blade Techniques
+
+Single Stroke Splits Heavens
+Because of the mystery of the strange book, in the battle, the Polearm used by you can Deflect more defeat marks, and the more defeat marks you have, the higher the damage of your Polearm Techniques.
+
+Primordial Origin
+Because of the mystery of the strange book, in battle, when attacking the enemy with Exotic Weapons, the enemy's Deflect is more easily broken, and the lower the enemy's Stance, the higher the damage of your Exotic Weapon Techniques
+
+Nine Imitations True Manuscript
+Because of the mystery of the strange book, in the battle, the attack range of your Soft Weapons increases, and the lower the enemy's Inhale is, the higher the damage of your Soft Weapons Techniques
+
+Heavenly Communication Divine Technique
+Because of the mystery of the strange book, in the battle, when you Style Change when attacking with Ranged Weapons, the chance of chasing the enemy is multiplied, and the more times you Style Change, the higher the damage of your Ranged Weapons Techniques
+
+Goddess's Absolute Voice
+Because of the mystery of the strange book, in battle, when hitting the enemy with Melody, it will damage the enemy's True Qi, and the more Sound Styles one has, the higher the damage of one's own Melody Techniques
+
+King of the Hill
+Attack token recovery speed increased by 50%
+<color=#lightgrey>When located on<color=#brightblue> Mountain or Mountain Range</color> tile, the attack token recovery speed is greatly increased</color> 
+A line of sky
+Skill Cast Speed increased by 50%
+<color=#lightgrey>When located on <color=#brightblue>Canyon or Natural Hazards</color> tile, the Cast Speed of skills is greatly increased</color>
+Nine-fold Path
+Enemy's Accuracy is reduced by 25%
+<color=#lightgrey>When located on <color=#brightblue>Hills, Highlands</color> tiles, the enemy's Accuracy is reduced</color>
+Pale and Wild
+Your Accuracy is increased by 25%
+<color=#lightgrey>When located on <color=#brightblue>Fields or Plains</color> tiles, your Accuracy increases</color>
+One with the Forest
+Inhale and Stance Recoveries are increased by 50%
+<color=#lightgrey>When located in <color=#brightblue>Woodland or Forest</color> tiles, the Inhale and Stance Recoveries are greatly improved</color>
+Empty Stream
+Stamina recovery speed increased by 100%
+<color=#lightgrey>When located in <color=#brightblue>River Beach, River Valley, or Gorge</color> tiles, the Stamina recovery speed is greatly improved</color>
+Smoky Wave
+Footwork charge speed (?) increased by 50%
+<color=#lightgrey>When located in  <color=#brightblue>Lake</color> tiles, the jump Footwork's charging speed is greatly increased</color>
+Moro Roach
+Style Change acquisition speed increased by 50%
+<color=#lightgrey>When located in <color=#brightblue>Dense Forest</color> tile, the Style Change acquisition speed is greatly increased</color>
+Cave All Night
+Increase the cooldown of enemy's Deflect by 100%
+<color=#lightgrey>When located in <color=#brightblue>Cave</color> tiles, the cooldown of enemy's Deflect is greatly increased</color>
+Pond Sink
+Increase the amount of toxin applied to the enemy in battle by 100% and increase the toxin level by one level
+<color=#lightgrey>When located in <color=#brightblue>Swamp</color> tiles, the amount of poison applied to the enemy during the battle is greatly increased, and the poison level is increased by one level</color>
+The Peach Blossom
+Recover all consumed internal energy after the battle
+<color=#lightgrey>When you are in <color=#brightblue>Wonderland</color> tiles, all consumed internal energy will be restored after the battle</color>
+Wuming's Mythic Poison
+Because of Mythic Poison, Wuming's power has increased dramatically
+
+
+
+Because of Mythic Poison, Wuming's power has increased dramatically, and he became immune to all Poisons
+
+Corrupted Blood
+
+
+Bitter Suffering
+
+
+Controlling Monkey
+Because of controlling a Monkey, the effects that increase the power of user's skills will be strengthened, and the effects that reduce the power of user's skills will be weakened.
+Controlling Monkey: <color=#brightblue>The effects that increase the power of user's skills will be strengthened, and the effects that reduce the power of user's skills will be weakened</color>.
+Controlling Eagle
+Because of controlling an Eagle, the farther the enemy is from the user, the higher the user's chance of hitting enemy's vital points.
+Controlling Eagle: <color=#brightblue>The farther the enemy is from the user, the higher the user's chance of hitting enemy's vital points</color>.
+Controlling Boar
+Because of controlling a Boar, the closer the enemy is to the user, the higher the user's chance of hitting enemy's vital points.
+Controlling Boar: <color=#brightblue>The closer the enemy is to the user, the higher the user's chance of hitting enemy's vital points</color>.
+Controlling Brown Bear
+Because of controlling a Brown Bear, direct Fatal Wound damage dealt by the user will be increased; Direct Fatal Wound damage dealt by the enemy will be decreased.
+Controlling Brown Bear: <color=#brightblue>Direct Fatal Wound damage dealt by the user will be increased; Direct Fatal Wound damage dealt by the enemy will be decreased</color>.
+Controlling Buffalo
+Because of controlling a Buffalo, user's Reflect power is increased.
+Controlling Buffalo: <color=#brightblue>User's Reflect power is increased</color>.
+Controlling Huge Snake
+Because of controlling a Huge Snake, effect of user's Healing and Detox will be increased; Effect of enemy's Healing and Detox will be decreased.
+Controlling Huge Snake: <color=#brightblue>Effect of user's Healing and Detox will be increased; Effect of enemy's Healing and Detox will be decreased</color>.
+Controlling Leopard
+Because of controlling a Leopard, user's Counter power is increased.
+Controlling Leopard: <color=#brightblue>User's Counter power is increased</color>.
+Controlling Lion
+Because of controlling a Lion, the effect of user's depletion of enemy's Footwork, Stamina, Inhale, and Stance will be increased; The effect of enemy's depletion of user's Footwork, Stamina, Inhale, and Stance will be decreased.
+Controlling Lion: <color=#brightblue>The effect of user's depletion of enemy's Footwork, Stamina, Inhale, and Stance will be increased; The effect of enemy's depletion of user's Footwork, Stamina, Inhale, and Stance will be decreased</color>.
+Controlling Tiger
+Because of controlling a Tiger, the damage of user's attacks in a follow-up attack will gradually increase until the follow-up attack ends.
+Controlling Tiger: <color=#brightblue>The damage of user's attacks in a follow-up attack will gradually increase until the follow-up attack ends</color>.
+Controlling Spiritual Monkey
+Because of controlling a Spiritual Monkey, the effects that increase the power of user's skills will be strengthened, and the effects that reduce the power of user's skills will be weakened.
+Controlling Spiritual Monkey: <color=#brightblue>The effects that increase the power of user's skills will be strengthened, and the effects that reduce the power of user's skills will be weakened</color>.
+Controlling Golden Roc
+Because of controlling a Golden Roc, the farther the enemy is from the user, the higher the user's chance of hitting enemy's vital points.
+Controlling Golden Roc: <color=#brightblue>The farther the enemy is from the user, the higher the user's chance of hitting enemy's vital points</color>.
+Controlling Black Hog
+Because of controlling a Black Hog, the closer the enemy is to the user, the higher the user's chance of hitting enemy's vital points.
+Controlling Black Hog: <color=#brightblue>The closer the enemy is to the user, the higher the user's chance of hitting enemy's vital points</color>.
+Controlling White Bear
+Because of controlling a White Bear, direct Fatal Wound damage dealt by the user will be increased; Direct Fatal Wound damage dealt by the enemy will be decreased.
+Controlling White Bear: <color=#brightblue>Direct Fatal Wound damage dealt by the user will be increased; Direct Fatal Wound damage dealt by the enemy will be decreased</color>.
+Controlling Wild Ox
+Because of controlling a Wild Ox, user's Reflect power is increased.
+Controlling Wild Ox: <color=#brightblue>User's Reflect power is increased</color>.
+Controlling Ba Python
+Because of controlling a Ba Python, effect of user's Healing and Detox will be increased; Effect of enemy's Healing and Detox will be decreased.
+Controlling Ba Python: <color=#brightblue>Effect of user's Healing and Detox will be increased; Effect of enemy's Healing and Detox will be decreased</color>.
+Controlling Black Panther
+Because of controlling a Black Panther, user's Counter power is increased.
+Controlling Black Panther: <color=#brightblue>User's Counter power is increased</color>.
+Controlling Golden Lion
+Because of controlling a Golden Lion, the effect of user's depletion of enemy's Footwork, Stamina, Inhale, and Stance will be increased; The effect of enemy's depletion of user's Footwork, Stamina, Inhale, and Stance will be decreased.
+Controlling Golden Lion: <color=#brightblue>The effect of user's depletion of enemy's Footwork, Stamina, Inhale, and Stance will be increased; The effect of enemy's depletion of user's Footwork, Stamina, Inhale, and Stance will be decreased</color>.
+Controlling White Tiger
+Because of controlling a White Tiger, the damage of user's attacks in a follow-up attack will gradually increase until the follow-up attack ends.
+Controlling White Tiger: <color=#brightblue>The damage of user's attacks in a follow-up attack will gradually increase until the follow-up attack ends</color>.
+7 Wheel Induction
+Slowly continuously increases random types of True Qi
+
+Slowly continuously reduces random types of True Qi
+
+Controlling White Jiao
+Because of controlling a White Jiao, user's "Composure" is increased.
+Controlling White Jiao: <color=#brightblue>User's "Composure" is increased</color>.
+Controlling Black Jiao
+Because of controlling a Black Jiao, user's "Cleverness" is increased.
+Controlling Black Jiao: <color=#brightblue>User's "Cleverness" is increased</color>.
+Controlling Green Jiao
+Because of controlling a Green Jiao, user's "Enthusiasm" is increased.
+Controlling Green Jiao: <color=#brightblue>User's "Enthusiasm" is increased</color>.
+Controlling Red Jiao
+Because of controlling a Green Jiao, user's "Valour" is increased.
+Controlling Red Jiao: <color=#brightblue>User's "Valour" is increased</color>.
+Controlling Yellow Jiao
+Because of controlling a Yellow Jiao, user's "Fortitude" is increased.
+Controlling Yellow Jiao: <color=#brightblue>User's "Fortitude" is increased</color>.
+Controlling Yin-Yang Jiao
+Because of controlling a Yin-Yang Jiao, user's "Composure" and "Cleverness" are increased.
+Controlling Yin-Yang Jiao: <color=#brightblue>User's "Composure" and "Cleverness" are increased</color>.
+Controlling Flying Lightning Jiao
+Because of controlling a Flying Lightning Jiao, user's "Composure" and "Enthusiasm" are increased.
+Controlling Flying Lightning Jiao: <color=#brightblue>User's "Composure" and "Enthusiasm" are increased</color>.
+Controlling Thunder Fire Jiao
+Because of controlling a Thunder Fire Jiao, user's "Composure" and "Valour" are increased.
+Controlling Thunder Fire Jiao: <color=#brightblue>User's "Composure" and "Valour" are increased</color>.
+Controlling Golden Eye Jiao
+Because of controlling a Golden Eye Jiao, user's "Composure" and "Fortitude" are increased.
+Controlling Golden Eye Jiao: <color=#brightblue>User's "Composure" and "Fortitude" are increased</color>.
+Controlling Green Pool Jiao
+Because of controlling a Green Pool Jiao, user's "Cleverness" and "Enthusiasm" are increased.
+Controlling Green Pool Jiao: <color=#brightblue>User's "Cleverness" and "Enthusiasm" are increased</color>.
+Controlling Burnt Cloud Jiao
+Because of controlling a Burnt Cloud Jiao, user's "Cleverness" and "Valour" are increased.
+Controlling Burnt Cloud Jiao: <color=#brightblue>User's "Cleverness" and "Valour" are increased</color>.
+Controlling Clay Pool Jiao
+Because of controlling a Clay Pool Jiao, user's "Cleverness" and "Fortitude" are increased.
+Controlling Clay Pool Jiao: <color=#brightblue>User's "Cleverness" and "Fortitude" are increased</color>.
+Controlling Flame Horn Jiao
+Because of controlling a Flame Horn Jiao, user's "Enthusiasm" and "Valour" are increased.
+Controlling Flame Horn Jiao: <color=#brightblue>User's "Enthusiasm" and "Valour" are increased</color>.
+Controlling Leaning Mountain Jiao
+Because of controlling a Leaning Mountain Jiao, user's "Enthusiasm" and "Fortitude" are increased.
+Controlling Leaning Mountain Jiao: <color=#brightblue>User's "Enthusiasm" and "Fortitude" are increased</color>.
+Controlling Refined Bone Jiao
+Because of controlling a Refined Bone Jiao, user's "Valour" and "Fortitude" are increased.
+Controlling Refined Bone Jiao: <color=#brightblue>User's "Valour" and "Fortitude" are increased</color>.
+Controlling Disturbed Ocean Jiao
+Because of controlling a Disturbed Ocean Jiao, user's "Composure", "Cleverness", and "Enthusiasm" are increased.
+Controlling Disturbed Ocean Jiao: <color=#brightblue>User's "Composure", "Cleverness", and "Enthusiasm" are increased</color>.
+Controlling Draped Clouds Jiao
+Because of controlling a Draped Clouds Jiao, user's "Composure", "Cleverness", and "Valour" are increased.
+Controlling Draped Clouds Jiao: <color=#brightblue>User's "Composure", "Cleverness", and "Valour" are increased</color>.
+Controlling Deep Depth Jiao
+Because of controlling a Deep Depth Jiao, user's "Composure", "Cleverness", and "Fortitude" are increased.
+Controlling Deep Depth Jiao: <color=#brightblue>User's "Composure", "Cleverness", and "Fortitude" are increased</color>.
+Controlling Heaven Thunder Jiao
+Because of controlling a Heaven Thunder Jiao, user's "Composure", "Enthusiasm", and "Valour" are increased.
+Controlling Heaven Thunder Jiao: <color=#brightblue>User's "Composure", "Enthusiasm", and "Valour" are increased</color>.
+Controlling Desolate Road Jiao
+Because of controlling a Desolate Road Jiao, user's "Composure", "Enthusiasm", and "Fortitude" are increased.
+Controlling Desolate Road Jiao: <color=#brightblue>User's "Composure", "Enthusiasm", and "Fortitude" are increased</color>.
+Controlling Qilin Jiao
+Because of controlling a Qilin Jiao, user's "Composure", "Valour", and "Fortitude" are increased.
+Controlling Qilin Jiao: <color=#brightblue>User's "Composure", "Valour", and "Fortitude" are increased</color>.
+Controlling Ghost Prison Jiao
+Because of controlling a Ghost Prison Jiao, user's "Cleverness", "Enthusiasm", and "Valour" are increased.
+Controlling Ghost Prison Jiao: <color=#brightblue>User's "Cleverness", "Enthusiasm", and "Valour" are increased</color>.
+Controlling Immortal Mountain Jiao
+Because of controlling a Immortal Mountain Jiao, user's "Cleverness", "Enthusiasm", and "Fortitude" are increased.
+Controlling Immortal Mountain Jiao: <color=#brightblue>User's "Cleverness", "Enthusiasm", and "Fortitude" are increased</color>.
+Controlling Flaming Pond Jiao
+Because of controlling a Flaming Pond Jiao, user's "Cleverness", "Valour", and "Fortitude" are increased.
+Controlling Flaming Pond Jiao: <color=#brightblue>User's "Cleverness", "Valour", and "Fortitude" are increased</color>.
+Controlling Burning Hill Jiao
+Because of controlling a Burning Hill Jiao, user's "Enthusiasm", "Valour", and "Fortitude" are increased.
+Controlling Burning Hill Jiao: <color=#brightblue>User's "Enthusiasm", "Valour", and "Fortitude" are increased</color>.
+Controlling Four Changes Jiao
+Because of controlling a Four Changes Jiao, user's "Composure", "Cleverness", "Enthusiasm", and "Valour" are increased.
+Controlling Four Changes Jiao: <color=#brightblue>User's "Composure", "Cleverness", "Enthusiasm", and "Valour" are increased</color>.
+Controlling Hundred Jewels Jiao
+Because of controlling a Four Changes Jiao, user's "Composure", "Cleverness", "Enthusiasm", and "Fortitude" are increased.
+Controlling Hundred Jewels Jiao: <color=#brightblue>User's "Composure", "Cleverness", "Enthusiasm", and "Fortitude" are increased</color>.
+Controlling Calm Sea Jiao
+Because of controlling a Calm Sea Jiao, user's "Composure", "Cleverness", "Valour", and "Fortitude" are increased.
+Controlling Calm Sea Jiao: <color=#brightblue>User's "Composure", "Cleverness", "Valour", and "Fortitude" are increased</color>.
+Controlling Heaven-swallowing Jiao
+Because of controlling a Heaven-swallowing Jiao, user's "Composure", "Enthusiasm", "Valour", and "Fortitude" are increased.
+Controlling Heaven-swallowing Jiao: <color=#brightblue>User's "Composure", "Enthusiasm", "Valour", and "Fortitude" are increased</color>.
+Controlling Mixed Scale Jiao
+Because of controlling a Mixed Scale Jiao, user's "Cleverness", "Enthusiasm", "Valour", and "Fortitude" are increased.
+Controlling Mixed Scale Jiao: <color=#brightblue>User's "Cleverness", "Enthusiasm", "Valour", and "Fortitude" are increased</color>.
+Controlling Rainbow Jiao
+Because of controlling a Rainbow Jiao, user's "Composure", "Cleverness", "Enthusiasm", "Valour", and "Fortitude" are increased.
+Controlling Rainbow Jiao: <color=#brightblue>User's "Composure", "Cleverness", "Enthusiasm", "Valour", and "Fortitude" are increased</color>.
+Controlling Qiuniu
+Because of controlling a Qiuniu: User's Might, Finesse, and Swiftness will be increased by user's Breath; User's Diversion, Parry, and Evasion will be increased by user's Focus.
+Controlling Qiuniu: <color=#brightblue>User's Might, Finesse, and Swiftness will be increased by user's Breath; User's Diversion, Parry, and Evasion will be increased by user's Focus.</color>
+Controlling Yazi
+Because of controlling a Yazi, a portion of any direct damage dealt by the enemy to the user will be added to the user's next attack.
+Controlling Yazi: <color=#brightblue>A portion of any direct damage dealt by the enemy to the user will be added to the user's next attack</color>.
+Controlling Chaofeng
+因驭使嘲风：运用者的脚力恢复速度提高
+驭使嘲风：<color=#brightblue>运用者的脚力恢复速度提高</color>
+Controlling Pulao
+Because of controlling a Pulao, the more even the External/Internal Ratio of an enemy attack is, the less direct damage it will deal.
+Controlling Pulao: <color=#brightblue>The more even the External/Internal Ratio of an enemy attack is, the less direct damage it will deal</color>.
+Controlling Suanni
+Because of controlling a Suanni: Fatal Wound damage dealt by the user is increased; Whenever the user deals a direct External or Internal damage to the enemy, there's a chance that it will change into Fatal Wound damage.
+Controlling Suanni: <color=#brightblue>Fatal Wound damage dealt by the user is increased; Whenever the user deals a direct External or Internal damage to the enemy, there's a chance that it will change into Fatal Wound damage</color>.
+Controlling Baxia
+Because of controlling a Baxia: User will not suffer penalties for exceeding equipment weight limit; The more the user exceeds the equipment weight limit, the more the power limit of user's Weapons and Armor will increase.
+Controlling Baxia: <color=#brightblue>User will not suffer penalties for exceeding equipment weight limit; The more the user exceeds the equipment weight limit, the more the power limit of user's Weapons and Armor will increase</color>.
+Controlling Bian
+Because of controlling a Bian, when the user attack an enemy with negative Fame, user's Ext. and Int. Pen. get increased based on how negative the enemy's Fame is; When the user gets attacked by an enemy with negative Fame, user's Ext. and Int. Def. get increased based on how negative the enemy's Fame is.
+Controlling Bian: <color=#brightblue>When the user attacks an enemy with negative Fame, user's Ext. and Int. Pen. get increased based on how negative the enemy's Fame is; When the user gets attacked by an enemy with negative Fame, user's Ext. and Int. Def. get increased based on how negative the enemy's Fame is</color>.
+Controlling Fuxi
+Because of controlling a Fuxi: User's Accuracy and Resolve stats get increased based on the user's Music, Chess, Literature, and Painting attainments; User's ATK and Defense stats get increased based on the user's Carpentry, Smithing, Weaving, and Gemcutting attainments.
+Controlling Fuxi: <color=#brightblue>User's Accuracy and Resolve stats get increased based on the user's Music, Chess, Literature, and Painting attainments; User's ATK and Defense stats get increased based on the user's Carpentry, Smithing, Weaving, and Gemcutting attainments</color>.
+Controlling Chiwen
+Because of controlling a Chiwen, whenever the user actively consumes 1 available Style, all True Qi of the user that was below its initial value gets increased by 2 points; Whenever the enemy actively consumes 1 available Style, all True Qi of the enemy that was above its initial value gets reduced by 2 points.
+Controlling Chiwen: <color=#brightblue>Whenever the user actively consumes 1 available Style, all True Qi of the user that was below its initial value gets increased by 2 points; Whenever the enemy actively consumes 1 available Style, all True Qi of the enemy that was above its initial value gets reduced by 2 points</color>.
+Blade of\n6 Directions
+
+
+
+
+Zhen Fragrant
+
+
+
+
+Scorpion Hand
+
+
+
+
+Chilling Pinprick
+
+
+
+
+Blood Palm
+
+
+
+
+Hade Finger
+
+
+
+
+The Great\nFlower Finger of Mandala
+
+
+
+
+Flowers Sigh
+
+
+
+
+Death Qi Within Chest
+Due to the chaotic death qi within the chest, they are feeling as if struck by lightning, the pain is unbearable, making it an extremely difficult task to try and mobilize one's power.
+
+Death Qi Seizes Soul
+Because of the agitation of death energy in the chest, it was as if being stabbed by thousands of knives. Not only was the pain unbearable, it was difficult to activate the power, and the internal organs were also destroyed...
+
+Shaolin loses power
+The power of Shaolin techniques increased; The power of Resurrected Person's Shaolin techniques decreased...
+
+Emei loses power
+The power of Emei techniques increased; The power of Resurrected Person's Emei techniques decreased...
+
+Hundred Flowers loses power
+The power of Hundred Flowers techniques increased; The power of Resurrected Person's Hundred Flowers techniques decreased...
+
+Wudang loses power
+The power of Wudang techniques increased; The power of Resurrected Person's Wudang techniques decreased...
+
+Yuanshan loses power
+The power of Yuanshan techniques increased; The power of Resurrected Person's Yuanshan techniques decreased...
+
+Lion-Face loses power
+The power of Lion-Face techniques increased; The power of Resurrected Person's Lion-Face techniques decreased...
+
+Ranshan loses power
+The power of Ranshan techniques increased; The power of Resurrected Person's Ranshan techniques decreased...
+
+Xuannyu loses power
+The power of Xuannyu techniques increased; The power of Resurrected Person's Xuannyu techniques decreased...
+
+Sword Manor loses power
+The power of Sword Manor techniques increased; The power of Resurrected Person's Sword Manor techniques decreased...
+
+Kongsang loses power
+The power of Kongsang techniques increased; The power of Resurrected Person's Kongsang techniques decreased...
+
+Vajrayana loses power
+The power of Vajrayana techniques increased; The power of Resurrected Person's Vajrayana techniques decreased...
+
+Five Immortals loses power
+The power of Five Immortals techniques increased; The power of Resurrected Person's Five Immortals techniques decreased...
+
+Jieqing loses power
+The power of Jieqing techniques increased; The power of Resurrected Person's Jieqing techniques decreased...
+
+Fulong loses power
+The power of Fulong techniques increased; The power of Resurrected Person's Fulong techniques decreased...
+
+Bloodhound loses power
+The power of Bloodhound techniques increased; The power of Resurrected Person's Bloodhound techniques decreased...
+
+Soul-Falling Bell
+遭落魂钟所摄，所有次要属性减半，若能重伤其主，此战或有生机…
+
+遭落魂钟反噬，所有次要属性减半，心神涣散，无力御敌…
+

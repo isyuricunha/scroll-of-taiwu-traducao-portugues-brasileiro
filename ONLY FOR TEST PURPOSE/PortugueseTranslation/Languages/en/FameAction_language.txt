@@ -1,79 +1,81 @@
-Dívidas de sangue sao difíceis de pagar  
-Eliminar o mal em nome do povo  
-Aprisionar pessoas e tirar suas vidas  
-Advertir o mal e punir os traidores  
-Integridade que alcanca os céus  
-Soltar o tigre de volta à montanha  
-Confundir certo e errado  
-Odiar o mal como se fosse seu inimigo mortal  
-Fazer amizade com pessoas boas  
-Fazer amizade com pessoas malignas  
-Amizade verdadeira e honrada  
-Conspirar em maldade  
-Talento e beleza em harmonia  
-Desonrar a virtude e a conduta  
-Resgatar e consolar os bons  
-Esconder sujeira e abrigar o mal  
-Apoiar-se em sábios e virtuosos  
-Tratar o ladrao como se fosse parente  
-Praticar a caridade  
-Ajudar pessoas más  
-Um mentor e amigo verdadeiro  
-Apoiar o tirano em suas atrocidades  
-Salvar vidas e curar feridos  
-Criar um tigre para causar desastres futuros  
-Atacar e ferir pessoas  
-Punir os malfeitores  
-Roubar técnicas e habilidades  
-Roubar bens  
-Saquear bens  
-Profanar túmulos e roubar sepulturas  
-Envenenar e causar danos  
-Fugir em desespero  
-Oprimir os mais jovens  
-Aproveitar-se da fraqueza alheia  
-Vencer em uma competicao de artes marciais  
-Perder em uma competicao de artes marciais  
-Ter um coracao bondoso  
-Guiar os malvados pelo caminho errado  
-Falar com retidao e justica  
-Falar de forma desrespeitosa  
-Ser desenfreado e sem limites  
-Ser livre e indomável  
-Buscar apenas o lucro  
-Dar grande alegria ao povo  
-Boatos maliciosos  
-Ser fraco e facilmente intimidado  
-Receber favores  
-Ser repreendido  
-Ser enganado  
-Ser ameacado  
-Receber elogios  
-Ser ridicularizado  
-A dívida de gratidao deixada por geracoes passadas  
-Os pecados deixados pelas geracoes passadas  
-Palavras e acoes vulgares  
-Mendigar por dinheiro  
-Um médico charlatao que causa a morte  
-Ser um herói que luta pela justica  
-Matar um guerreiro justo  
-Corromper os costumes e a moralidade  
-Destruir regras de pureza  
-Ignorar as relacoes humanas  
-Trair seu mestre e ancestrais  
-Ser ingrato e desleal  
-Trajar-se como um cavalheiro, mas ser uma fera  
-Ser humilhado  
-Buscar humilhacao  
-Enfrentar dificuldades com coragem  
-Intimidar os fracos e temer os fortes  
-Uma escola de renome e justa  
-Uma escola perversa e do caminho exterior  
-Ser tanto justo quanto perverso  
-Vencer em uma competicao de habilidades  
-Perder em uma competicao de habilidades  
-Criar obras-primas  
-As nuvens se elevam, o dragao se transforma  
-Invadir o armazém  
-Saquear o armazém  
-Praticar a benevolência e espalhar bêncaos  
+Matar em público
+Punir em público
+Prender em público
+Punindo o mal
+Justo como os Céus
+Liberte seu inimigo
+Conflito com os bons
+Conflito com os maus
+Amizade com os Bons
+Amizade com os Maus
+Irmão de Juramento Bom
+Irmão de Juramento Mau
+Amando os Bons
+Amando os Maus
+Adotando os Bons
+Adotando os Maus
+Adotado pelos Bons
+Adotado pelos Maus
+Ajudando os Bons
+Ajudando os Maus
+Ensinando os Bons
+Ensinando os Maus
+Curando os Bons
+Curando os Maus
+Agressão contra pessoas
+Punir o mal
+Roubo de Habilidade
+Roubo de Item
+Roubar itens
+Profanação de túmulo
+Envenena pessoas
+Retirada
+Intimida·M
+Intimida·P
+Vencer um duelo
+Perder um duelo
+Ações bondosas
+Malícia
+Ações justas
+Desrespeitoso
+Ações rebeldes
+Despreocupação
+Ações egoístas
+Satisfatórias
+Amor não convencional
+Vulnerabilidade
+Sendo Beneficiado
+Sendo Repreendido
+Sendo Enganado
+Sendo Ameaçado
+Sendo Elogiado
+Sendo Zombado
+Predecessor Bom
+Predecessor Mau
+Jurando
+Mendicância
+Mau Doutor
+Aja Com Justiça
+Mate os Justos
+Corromper a decência pública
+Corromper as regras
+Ignorar a decência pública
+Enganar mestre e trair antepassados
+Ser hostil e ingrato
+Besta em Roupas Humanas
+Humilhado
+Faça papel de bobo
+Superar dificuldades
+Intimidar os fracos
+De Seita Boa
+De Seita Má
+Ambos bom e mau
+Vence Debate
+Perde Debate
+Obra-Prima Criada
+Nuvens e Dragões se Alteram
+Invadiu o Tesouro
+Saqueou o Tesouro
+Espalhar Bondade
+Carregar Culpa
+Capturar fugitivo e criminoso

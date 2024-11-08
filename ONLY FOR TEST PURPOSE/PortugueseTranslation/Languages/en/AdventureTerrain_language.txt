@@ -1,46 +1,46 @@
-Desconhecido
-Terra desconhecida…
-Montanhas
-Aqui, as altas montanhas sao contínuas e intermináveis, com cristas que se estendem sem parar, vistas de frente como cordilheiras e de lado como picos.
-Desfiladeiro
-Os desfiladeiros têm penhascos íngremes em ambos os lados, erguendo-se com grande majestade e imponência. As estradas dentro dos desfiladeiros sao íngremes, tornando difícil o tráfego de veículos e animais.
-Cavernas
-Cavernas formadas naturalmente em superfícies de terra, penhascos e paredoes, com passagens estreitas, permitindo apenas o transito de uma pessoa de lado.
-Rios
-Os rios têm água turva e sao frequentemente carregados de sedimentos. Suas águas correm na direcao leste-oeste e se estendem ao norte-sul, às vezes se estendendo por milhares de milhas.
-Lagos
-Os lagos têm água clara e corrente suave, com diversas plantas aquáticas, peixes e camaroes.
-Pantano
-Os pantanos têm água cristalina, sao pequenos e profundos, com uma aparência obscura e secreta, abrigando uma quantidade reduzida de peixes e camaroes.
-Cabana de Palha
-Uma cabana simples feita de palha, bambu e barro, usada apenas para proteger contra vento e chuva.
-Aldeia
-Um assentamento formado por algumas famílias. Os moradores trabalham ao amanhecer e descansam ao anoitecer, vivendo de agricultura, tecelagem e caca.
-Mercado
-Um mercado com uma grande populacao. A cidade realiza feiras regulares, com frequente troca de mercadorias ao redor, além de várias atracoes e locais de reuniao.
-Campo de Flores
-Uma área coberta por flores. Com uma profusao de flores, as cores variam com o tempo, exalando um aroma que se espalha por milhas. É comum ver abelhas e borboletas voando.
-Bosque
-Uma área de terra coberta por árvores. Inclui árvores grandes e arbustos, com folhas abundantes, brisa fresca e frutas doces. É comum ver pássaros e animais em busca de comida.
-Campo Selvagem
-Uma área aberta e espacosa com vegetacao dispersa. O terreno é vasto e verdejante, frequentemente visitado por aves e animais que param para descansar.
-Acampamento
-Um local onde soldados estao acampados. Cercado por cercas e muros, oferece certa capacidade de defesa.
-Templo
-Templos comuns, geralmente construídos com doacoes dos residentes locais, com estátuas de Buda, Bodhisattvas, deuses celestiais e Arhats.
-Templo Taoísta
-Local onde os taoístas praticam sua religiao, ou que serve para adorar deuses e mestres taoístas. Tem uma aura mística e é frequentemente visitado por pessoas em busca de bêncaos.
-Ruínas
-Construcoes ou locais antigos que restaram do passado. É possível vislumbrar vestígios da vida antiga e talvez encontrar algumas relíquias e objetos preciosos.
-Terra Desolada
-Área desolada e vasta. O solo é infértil, com pouca vegetacao e animais lutando para sobreviver, e é raramente visitada por pessoas.
-Ruínas
-Nao se sabe o que aconteceu aqui antes; as antigas construcoes agora sao apenas um montículo de ruínas, inutilizáveis, com apenas corvos sobrevoando.
-Deserto
-No deserto, nao cresce vegetacao alguma, apenas uma vasta extensao de areia amarela. Sem preparacao adequada, é difícil atravessar, embora às vezes se possa encontrar oásis férteis.
-Túmulo Antigo
-Um túmulo antigo e secreto deixado por pessoas do passado, que além de ossos pode conter armadilhas, segredos e tesouros.
-Penhasco
-Uma encosta extremamente íngreme e alta, quase impossível de escalar. No topo, podem crescer pinheiros e ciprestes únicos, com uma paisagem distinta.
-Abismo
-Um abismo profundo e insondável, ninguém se atreve a explorar, entao ninguém sabe quais perigos podem existir lá dentro.
+Unknown
+Unknown Place...
+Hills
+This is a place where the mountains are continuous and the ridges stretch out, looking across the mountains to the peaks.
+Canyon
+The cliffs rise up on both sides of the gorge, making it very majestic and imposing, and the road in the valley is so steep that it is difficult for vehicles and horses to pass through.
+Cave
+Naturally formed caves in the ground, cliffs and crags, where the canals are so narrow that only one person can bend his torso sideways to pass through.
+River
+The rivers are muddy, with sediment deposits, and their waterways run east to west, north to south, and even for thousands of miles.
+Lake
+The lake has clear water and gentle currents, in which many live animals such as water plants, fish and shrimps grow.
+Pond
+The pools are clear, narrow and deep, dark and secretive, with a few fish and prawns growing in them.
+Cottage
+An ordinary thatched hut, made of thatch, bamboo gabions and mud, is only used for shelter from the wind and rain.
+Village
+A settlement formed by several families. The inhabitants work at sunrise and rest at sunset, making their living by farming, weaving, fishing and hunting.
+Town
+A populous marketplace. There are regular gatherings in the town, a lot of goods moving around, and many juggling shows and gatherings.
+Flowers
+The meadows are covered with flowers. The flowers are in full bloom, like a sea of colours, changing from time to time, fragrant for ten miles, and often fluttering with bees and butterflies.
+Forest
+A land where trees gather. Amongst them are trees and shrubs with lush foliage, cool breezes, sweet-smelling fruit and high branches where birds and animals often feed.
+Forest
+Scattered fields of grass and trees. The terrain is open, green and continuous, where birds and animals often come to rest.
+Camp
+A place where martial artists are stationed. It is surrounded by fences and walls, and has some defensive power.
+Temple
+Ordinary temples, most of which were donated by nearby residents, contain statues of Buddha, Bodhisattvas, Heavenly Kings and Luohan.
+Taoist Temple
+It is a place where Taoist monks practice, or where the ancestors of Taoist gods and goddesses are worshiped and often prayed to by the people.
+Remnant
+A building or address left over from ancient times. It is possible to get a glimpse of the ancient people's existence and to find a few rare artefacts left behind.
+Wilderness
+A desolate wilderness, open and empty. Its land is barren, and the few grasses, trees, birds and animals grow here with difficulty, while people are rare.
+Ruins
+I don't know what happened here, but the building is now a pile of ruins, no longer usable, with only the crows circling in the sky for company.
+Desert
+The desert is a vast expanse of yellow sand with no grass, making it difficult to navigate without preparation, although occasionally you can come across oases of rich water and grass.
+Tomb
+The hidden ancient tombs left by the predecessors may contain organs, secrets, and treasures in addition to bones.
+Cliff
+The extremely steep and high cliffs are almost impossible to climb, with the occasional exotic pine and cypress growing on top of them, making for a unique landscape.
+Abyss
+The bottomless abyss is so deep that no one dares to look into it, so no one knows what dangers lie within.

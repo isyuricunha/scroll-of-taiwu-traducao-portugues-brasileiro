@@ -1,18 +1,18 @@
-Veneno Intenso
-Intenso
-<color=#hotpoison>Veneno Intenso, o mais potente, causa confusao e desorientacao.</color>\nDurante a batalha, ao realizar um certo número de ataques com armas, uma parte do veneno será convertida em <color=#redpoison>Veneno Vermelho</color>, dependendo da quantidade de veneno, quanto mais profundo o envenenamento, menos veneno é convertido; também causa <color=#outterinjury>ferimentos externos</color>.
-Veneno Melancólico
-Melancólico
-<color=#gloomypoison>Veneno Melancólico, persistente e sombrio, cresce ao longo do tempo.</color>\nDurante a batalha, ao se mover uma certa distância, uma parte do veneno será convertida em <color=#coldpoison>Veneno Frio</color>, dependendo da quantidade de veneno, quanto mais profundo o envenenamento, menos veneno é convertido; também causa <color=#innerinjury>ferimentos internos</color>.
-Veneno Frio
-Frio
-<color=#coldpoison>Veneno Frio, que congela os vasos, bloqueia o sangue e a mente.</color>\nDurante a batalha, ao consumir uma certa quantidade de Qi, uma parte do veneno será convertida em <color=#illusorypoison>Veneno Ilusório</color>, dependendo da quantidade de veneno, quanto mais profundo o envenenamento, menos veneno é convertido; também pode piorar alguns <color=#innerinjury>ferimentos internos</color>.
-Veneno Vermelho
-Vermelho
-<color=#redpoison>Veneno Vermelho, que queima e danifica, afetando todos os sentidos.</color>\nDurante a batalha, ao consumir uma certa quantidade de postura, uma parte do veneno será convertida em <color=#rottenpoison>Veneno Podre</color>, dependendo da quantidade de veneno, quanto mais profundo o envenenamento, menos veneno é convertido; também pode piorar alguns <color=#outterinjury>ferimentos externos</color>.
-Veneno Podre
-Podre
-<color=#rottenpoison>Veneno Podre, que penetra na medula, corroendo músculos e corpo.</color>\nDurante a batalha, o veneno podre continuará a se converter em <color=#hotpoison>Veneno Intenso</color>, dependendo da quantidade de veneno, quanto mais profundo o envenenamento, menos veneno é convertido; também reduz a resistência do corpo.
-Veneno Ilusório
-Ilusório
-<color=#illusorypoison>Veneno Ilusório, que causa embriaguez e desorientacao, tornando a pessoa inconsciente e alheia.</color>\nDurante a batalha, o veneno ilusório continuará a se converter em <color=#gloomypoison>Veneno Melancólico</color>, dependendo da quantidade de veneno, quanto mais profundo o envenenamento, menos veneno é convertido; também reduz a resistência do Qi.
+Acritoxina
+Acri
+<color=#hotpoison>Acritoxina, um veneno feroz e desconcertante.</color>\nEla é ativada quando 6 ataques com armas são realizados em batalha, consome uma parte de si mesma para se transformar em <color=#redpoison>Pirotoxina</color>, e causa <color=#outterinjury>Lesões Externas</color> de acordo com a quantidade de veneno existente. Quanto mais Acritoxina o inimigo tiver, menos dela será consumida ao se transformar em Pirotoxina.
+Umbritoxina
+Umbri
+<color=#gloomypoison>Umbritoxina, um veneno sombrio e depressivo.</color>\nEla é ativada quando você se move 3 distâncias em batalha, consome uma parte de si mesma para se transformar em <color=#coldpoison>Criotoxina</color>, e causa <color=#innerinjury>Lesões Internas</color> de acordo com a quantidade de veneno existente. Quanto mais Umbritoxina o inimigo tiver, menos dela será consumida ao se transformar em Criotoxina.
+Criotoxina
+Cryo
+<color=#coldpoison>Criotoxina, um veneno gelado que sela coração e veias.</color>\nEla é ativada quando 100% da Inalação das vítimas é consumido em batalha, consome uma parte de si mesma para se transformar em <color=#illusorypoison>Onerotoxina</color>, e agrava as <color=#innerinjury>Lesões Internas</color> existentes de acordo com a quantidade de veneno. Quanto mais Criotoxina o inimigo tiver, menos dela será consumida ao se transformar em Onerotoxina.
+Pirotoxina
+Pyro
+<color=#redpoison>Pirotoxina, um veneno torturante que queima sete orifícios.</color>\nEla é ativada quando 100% da Postura das vítimas é consumida em batalha, consome uma parte de si mesma para se transformar em <color=#rottenpoison>Necrotoxina</color>, e agrava as <color=#outterinjury>Lesões Externas</color> existentes de acordo com a quantidade de veneno. Quanto mais Pirotoxina o inimigo tiver, menos dela será consumida ao se transformar em Necrotoxina.
+Necrotoxina
+Necro
+<color=#rottenpoison>Necrotoxina, um veneno erosivo e corrosivo que entra na coluna e derrete os músculos.</color>\nEla consome continuamente uma parte de si mesma para se transformar em <color=#hotpoison>Acritoxina</color> durante a batalha, e reduz a Defesa Externa de acordo com a quantidade de veneno. Quanto mais Necrotoxina o inimigo tiver, menos dela será consumida ao se transformar em Acritoxina.
+Onerotoxina
+Oneiro
+<color=#illusorypoison>Onerotoxina, um veneno desconcertante que faz as pessoas alucinarem.</color>\nEla consome continuamente uma parte de si mesma para se transformar em <color=#gloomypoison>Umbritoxina</color> durante a batalha, e reduz a Defesa Interna de acordo com a quantidade de veneno. Quanto mais Onerotoxina o inimigo tiver, menos dela será consumida ao se transformar em Umbritoxina.

@@ -1,12 +1,12 @@
 Planície
-A planície é vasta e plana, com terras férteis se estendendo por milhas……\n<size=10> </size>\n · Recursos disponíveis: <color=#pinkyellow>abundância de alimentos, madeira, tecidos</color>\n · Desenvolvimento recomendado: <color=#pinkyellow>pintura, apreciacao, marcenaria, tecelagem, culinária, conhecimentos diversos</color>
-Montanhas
-As montanhas têm picos majestosos e pedras estranhas em abundância……\n<size=10> </size>\n · Recursos disponíveis: <color=#pinkyellow>abundância de ferro e ouro, além de pedras preciosas e tecidos</color>\n · Desenvolvimento recomendado: <color=#pinkyellow>artes marciais, poesia, caligrafia, matemática, forjamento, habilidades de artesanato, práticas taoístas</color>
+Planícies férteis e vastas se estendem até onde a vista alcança...\n<size=10> </size>\n·Recursos Produzidos: <color=#pinkyellow>Muito Alimento, Madeira e Tecido.</color>\n·Adequado para: <color=#pinkyellow>Pintura, Apreciação, Carpintaria, Tecelagem, Culinária e Conhecimento.</color>
+Montanha
+Montanhas grandiosas e imponentes, lembrando uma floresta de pedra...\n<size=10> </size>\n·Recursos Produzidos: <color=#pinkyellow>Muito Minério, um pouco de Jade e Tecido.</color>\n·Adequado para: <color=#pinkyellow>Artes Marciais, Literatura, Astrologia, Metalurgia, Lapidação e Taoísmo.</color>
 Floresta
-A floresta é densa e antiga, com árvores majestosas……\n<size=10> </size>\n · Recursos disponíveis: <color=#pinkyellow>abundância de madeira, além de tecidos e ervas medicinais</color>\n · Desenvolvimento recomendado: <color=#pinkyellow>marcenaria, medicina, técnicas de veneno, tecelagem, estudos budistas, culinária</color>
+Florestas verdes repletas de vegetação luxuriante...\n<size=10> </size>\n·Recursos Produzidos: <color=#pinkyellow>Muita Madeira, um pouco de Tecido e Ervas.</color>\n·Adequado para: <color=#pinkyellow>Carpintaria, Medicina, Toxicologia, Tecelagem, Budismo e Culinária.</color>
 Pântano
-O pântano é cheio de água e rodeado por ravinas silenciosas……\n<size=10> </size>\n · Recursos disponíveis: <color=#pinkyellow>abundância de alimentos, madeira, ervas medicinais</color>\n · Desenvolvimento recomendado: <color=#pinkyellow>música, apreciacao, marcenaria, medicina, técnicas de veneno, conhecimentos diversos</color>
+Rede densa de lagos e riachos isolados...\n<size=10> </size>\n·Recursos Produzidos: <color=#pinkyellow>Muito Alimento, Madeira e Ervas.</color>\n·Adequado para: <color=#pinkyellow>Música, Apreciação, Carpintaria, Medicina, Toxicologia e Conhecimento.</color>
 Litoral
-O litoral é vasto e desolado, com ilhas montanhosas……\n<size=10> </size>\n · Recursos disponíveis: <color=#pinkyellow>abundância de ferro e ouro, pedras preciosas, alimentos</color>\n · Desenvolvimento recomendado: <color=#pinkyellow>artes marciais, música, apreciacao, forjamento, habilidades de artesanato, conhecimentos diversos</color>
-Montanha Nevadas
-As montanhas nevadas sao cobertas de neve o ano inteiro, com gelo que nao derrete……\n<size=10> </size>\n · Recursos disponíveis: <color=#pinkyellow>abundância de pedras preciosas, além de ferro, ouro e ervas medicinais</color>\n · Desenvolvimento recomendado: <color=#pinkyellow>artes marciais, xadrez, poesia, caligrafia, habilidades de artesanato, práticas taoístas</color>
+O litoral é infinito, e as montanhas da ilha são imponentes...\n<size=10> </size>\n·Recursos Produzidos: <color=#pinkyellow>Muito Minério, Jade e Alimento.</color>\n·Adequado para: <color=#pinkyellow>Artes Marciais, Música, Apreciação, Metalurgia, Lapidação e Conhecimento.</color>
+Montanhas Nevadas
+Montanhas cobertas de neve há anos, que ainda não congelaram...\n<size=10> </size>\n·Recursos Produzidos: <color=#pinkyellow>Muita Jade, um pouco de Minério e Ervas.</color>\n·Adequado para: <color=#pinkyellow>Artes Marciais, Xadrez, Literatura, Astrologia, Lapidação e Taoísmo.</color>

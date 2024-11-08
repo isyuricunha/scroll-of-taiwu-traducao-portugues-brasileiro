@@ -1,38 +1,38 @@
-Dragao Branco
-Dragao Negro
-Dragao Azul
-Dragao Vermelho
-Dragao Amarelo
-Dragao Yin-Yang
-Dragao Relampago
-Dragao Fogo e Trovao
-Dragao Olho Dourado
-Dragao do Lago Verde
-Dragao Nuvem em Chamas
-Dragao do Poco de Lama
-Dragao Chifre Flamejante
-Dragao da Montanha Oculta
-Dragao Ossos Refinados
-Dragao do Mar Revolto
-Dragao das Nuvens
-Dragao das Profundezas
-Dragao do Trovao Celestial
-Dragao da Estrada Deserta
-Dragao Qilin
-Dragao Prisao dos Espíritos
-Dragao da Montanha Imortal
-Dragao do Poco de Fogo
-Dragao da Montanha Incendiada
-Dragao das Quatro Transformacoes
-Dragao dos Cem Tesouros
-Dragao do Mar Calmo
-Dragao do Céu Devastador
-Dragao das Escamas Caóticas
-Dragao das Cinco Cores
-Prisioneiro Niu
+Jiao Branco
+Jiao Preto
+Jiao Verde
+Jiao Vermelho
+Jiao Amarelo
+Jiao Yin-Yang
+Jiao Relâmpago Voador
+Jiao Fogo Trovão
+Jiao Olho Dourado
+Jiao Lago Verde
+Jiao Nuvem Queimada
+Jiao Lago de Argila
+Jiao Chifre Flamejante
+Jiao Montanha Inclinada
+Jiao Osso Refinado
+Jiao Oceano Turbulento
+Jiao Nuvens Drapeadas
+Jiao Profundidade Abissal
+Jiao Trovão Celestial
+Jiao Estrada Desolada
+Jiao Qilin
+Jiao Prisão Fantasma
+Jiao Montanha Imortal
+Jiao Lago Flamejante
+Jiao Colina Ardente
+Jiao Quatro Mudanças
+Jiao Cem Joias
+Jiao Mar Tranquilo
+Jiao Engole Céus
+Jiao Escama Mista
+Jiao Arco-íris
+Qiuniu
 Yazi
-Zhaofeng
-Puliao
+Chaofeng
+Pulao
 Suanni
 Baxia
 Bian

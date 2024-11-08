@@ -1,110 +1,110 @@
-Quebra da Palma
-Se o inimigo usar luvas de combate e atacar ou usar uma técnica de destruicao com essa arma, a forca de liberacao, defesa contra golpes, esquiva e defesa mental do inimigo serao reduzidas em 20%.
-Quebra da Espada
-Se o inimigo usar uma espada e atacar ou usar uma técnica de destruicao com essa arma, a forca de liberacao, defesa contra golpes, esquiva e defesa mental do inimigo serao reduzidas em 20%.
-Quebra da Faca
-Se o inimigo usar uma faca e atacar ou usar uma técnica de destruicao com essa arma, a forca de liberacao, defesa contra golpes, esquiva e defesa mental do inimigo serao reduzidas em 20%.
-Quebra de Veneno
-Se o inimigo usar veneno em pó ou veneno em forma de areia e atacar ou usar uma técnica de destruicao com essa arma, a forca de liberacao, defesa contra golpes, esquiva e defesa mental do inimigo serao reduzidas em 20%.
-Quebra de Armas Longas
-Se o inimigo usar um bastao ou uma lanca e atacar ou usar uma técnica de destruicao com essa arma, a forca de liberacao, defesa contra golpes, esquiva e defesa mental do inimigo serao reduzidas em 20%.
-Quebra de Armas Flexíveis
-Se o inimigo usar um chicote longo ou uma flauta cerimonial e atacar ou usar uma técnica de destruicao com essa arma, a forca de liberacao, defesa contra golpes, esquiva e defesa mental do inimigo serao reduzidas em 20%.
-Quebra de Armas Ocultas
-Se o inimigo usar dispositivos ocultos, armas escondidas ou caixas de agulhas e atacar ou usar uma técnica de destruicao com essa arma, a forca de liberacao, defesa contra golpes, esquiva e defesa mental do inimigo serao reduzidas em 20%.
-Quebra de Armas Exóticas
-Se o inimigo usar amuletos, armas de combate duplo ou pequenos bastoes e atacar ou usar uma técnica de destruicao com essa arma, a forca de liberacao, defesa contra golpes, esquiva e defesa mental do inimigo serao reduzidas em 20%.
-Quebra de Instrumentos Mágicos
-Se o inimigo usar flautas ou cítaras e atacar ou usar uma técnica de destruicao com essa arma, a forca de liberacao, defesa contra golpes, esquiva e defesa mental do inimigo serao reduzidas em 20%.
-Quebra de Metal
-Se o inimigo usar armaduras de metal para bloquear o ataque ou técnica de destruicao dessa arma, a resistência física e energética do inimigo serao reduzidas em 20%.
-Quebra de Madeira
-Se o inimigo usar armaduras de madeira para bloquear o ataque ou técnica de destruicao dessa arma, a resistência física e energética do inimigo serao reduzidas em 20%.
-Quebra de Jade
-Se o inimigo usar armaduras de jade para bloquear o ataque ou técnica de destruicao dessa arma, a resistência física e energética do inimigo serao reduzidas em 20%.
-Quebra de Tecido
-Se o inimigo usar armaduras de tecido para bloquear o ataque ou técnica de destruicao dessa arma, a resistência física e energética do inimigo serao reduzidas em 20%.
-Afiado
-A capacidade dessa arma de penetrar armaduras aumenta em 20%.
-Forjado no Fogo
-A resistência dessa arma aumenta em 20%.
-Lâmina de Sangue
-A capacidade dessa arma de penetrar armaduras aumenta em 50%, mas sua resistência é reduzida em 50%.
-Desajeitado
-A resistência dessa arma aumenta em 50%, mas sua capacidade de penetrar armaduras é reduzida em 50%.
-Espinho Venenoso
-O efeito de envenenamento dessa arma aumenta em 20%.
-Uso Espiritual
-O requisito para usar essa arma é reduzido em 20%.
-Matanca Sangrenta
-Ao atacar ou usar uma técnica de destruicao com essa arma, se ela for danificada, o inimigo sofrerá 30% mais danos externos diretos.
-Matanca Energética
-Ao atacar ou usar uma técnica de destruicao com essa arma, se ela for danificada, o inimigo sofrerá 30% mais danos internos diretos.
-Transformacao de Sangue
-Ao atacar ou usar uma técnica de destruicao com essa arma, o dano por contragolpe que o atacante sofre nos ferimentos externos é reduzido em 20%.
-Transformacao de Energia
-Ao atacar ou usar uma técnica de destruicao com essa arma, o dano por contragolpe que o atacante sofre nos ferimentos internos é reduzido em 20%.
-Defesa contra Palmas
-Se o inimigo usar luvas de combate e essa armadura bloquear o ataque ou técnica de destruicao do inimigo, a forca, precisao, velocidade e controle emocional do inimigo serao reduzidos em 20%.
-Defesa contra Espadas
-Se o inimigo usar uma espada e essa armadura bloquear o ataque ou técnica de destruicao do inimigo, a forca, precisao, velocidade e controle emocional do inimigo serao reduzidos em 20%.
-Defesa contra Facas
-Se o inimigo usar uma faca e essa armadura bloquear o ataque ou técnica de destruicao do inimigo, a forca, precisao, velocidade e controle emocional do inimigo serao reduzidos em 20%.
-Defesa contra Veneno
-Se o inimigo usar veneno em pó ou veneno em forma de areia e essa armadura bloquear o ataque ou técnica de destruicao do inimigo, a forca, precisao, velocidade e controle emocional do inimigo serao reduzidos em 20%.
-Defesa contra Armas Longas
-Se o inimigo usar um bastao ou uma lanca e essa armadura bloquear o ataque ou técnica de destruicao do inimigo, a forca, precisao, velocidade e controle emocional do inimigo serao reduzidos em 20%.
-Defesa contra Armas Flexíveis
-Se o inimigo usar um chicote longo ou uma flauta cerimonial e essa armadura bloquear o ataque ou técnica de destruicao do inimigo, a forca, precisao, velocidade e controle emocional do inimigo serao reduzidos em 20%.
-Defesa contra Armas Ocultas
-Se o inimigo usar dispositivos ocultos, armas escondidas ou caixas de agulhas e essa armadura bloquear o ataque ou técnica de destruicao do inimigo, a forca, precisao, velocidade e controle emocional do inimigo serao reduzidos em 20%.
-Defesa contra Armas Exóticas
-Se o inimigo usar amuletos, armas de combate duplo ou pequenos bastoes e essa armadura bloquear o ataque ou técnica de destruicao do inimigo, a forca, precisao, velocidade e controle emocional do inimigo serao reduzidos em 20%.
-Defesa contra Instrumentos Mágicos
-Se o inimigo usar flautas ou cítaras e essa armadura bloquear o ataque ou técnica de destruicao do inimigo, a forca, precisao, velocidade e controle emocional do inimigo serao reduzidos em 20%.
-Defesa contra Metal
-Se o inimigo usar armas de metal e essa armadura bloquear o ataque ou técnica de destruicao do inimigo, a resistência física e energética do inimigo serao reduzidas em 20%.
-Defesa contra Madeira
-Se o inimigo usar armas de madeira e essa armadura bloquear o ataque ou técnica de destruicao do inimigo, a resistência física e energética do inimigo serao reduzidas em 20%.
-Defesa contra Jade
-Se o inimigo usar armas de jade e essa armadura bloquear o ataque ou técnica de destruicao do inimigo, a resistência física e energética do inimigo serao reduzidas em 20%.
-Quebra de Tecido
-Se o inimigo usar armas feitas de tecido e essa armadura bloquear o ataque ou técnica de destruicao do inimigo, a resistência física e energética do inimigo será reduzida em 20%.
-Ocultacao da Lâmina
-A capacidade de penetracao de armaduras dessa armadura aumenta em 20%.
-Forjado na Neve
-A resistência dessa armadura aumenta em 20%.
-Roupa de Sangue
-A capacidade de penetracao de armaduras dessa armadura aumenta em 50%, mas sua resistência é reduzida em 50%.
-Flexível
-A resistência dessa armadura aumenta em 50%, mas a capacidade de penetracao de armaduras é reduzida em 50%.
-O efeito de envenenamento dessa armadura aumenta em 20%.
-O requisito para usar essa armadura é reduzido em 20%.
-Protecao de Sangue
-Se essa armadura bloquear o ataque ou técnica de destruicao do inimigo e for danificada, os danos externos diretos causados ao inimigo serao reduzidos em 30%.
-Protecao Energética
-Se essa armadura bloquear o ataque ou técnica de destruicao do inimigo e for danificada, os danos internos diretos causados ao inimigo serao reduzidos em 30%.
-Rebote de Sangue
-Se essa armadura bloquear o ataque ou técnica de destruicao do inimigo, o dano por contragolpe que o atacante sofre nos ferimentos externos aumenta em 20%.
-Rebote Energético
-Se essa armadura bloquear o ataque ou técnica de destruicao do inimigo, o dano por contragolpe que o atacante sofre nos ferimentos internos aumenta em 20%.
-Reforco
-A durabilidade desse equipamento aumenta em 20%.
-Equilíbrio
-O peso desse equipamento é reduzido em 20%.
-Valioso
-O valor desse equipamento aumenta em 30%.
-Presente
-A popularidade desse equipamento aumenta em 30%.
-Robusto
-A durabilidade desse equipamento aumenta em 50%, mas o peso também aumenta em 50%.
-Leve
-O peso desse equipamento é reduzido em 50%, mas a durabilidade é reduzida em 50%.
-Equipamento de Presente
-O valor desse equipamento aumenta em 75%, mas a popularidade diminui em 75%.
-Colecionável
-A popularidade desse equipamento aumenta em 75%, mas o valor diminui em 75%.
-Feito pelo Pai Adotivo
-A forca, precisao e velocidade dessa arma aumentam em 20%; a durabilidade dessa arma aumenta em 100%.
-Teste
-A durabilidade dessa arma é reduzida em 50%, e o requisito para usá-la aumenta em 100%.
+Anti-Handguards
+If an enemy uses a palm set, attacks with this weapon or performs the Destruction Technique, the enemy's Diversion, Parry and Evasion are reduced by 20%.
+Anti-Sword
+If the enemy uses a sword, attacks with this weapon or performs a Break skill, the enemy's Diversion, Parry and Evasion are reduced by 20%.
+Anti-Blade
+If the enemy uses a blade, attacks with this weapon or performs a Break skill, the enemy's Diversion, Parry and Evasion are reduced by 20%.
+Anti-Poison
+If the enemy uses poisonous frost or poisonous sand,  attacks with this weapon or performs a Break skill, the enemy's Diversion, Parry and Evasion are reduced by 20%.
+Anti-Polearm
+If the enemy uses a polearm, attacks with this weapon or performs a Break skill, the enemy's Diversion, Parry and Evasion are reduced by 20%.
+Anti-Soft·Wp
+If the enemy uses a Whisk, attacks or uses a Break Skill, the enemy's Diversion, Parry, Evasion and Focus are reduced by 20%.
+Anti-Hidden·Wp
+If the enemy uses a Hidden Weapon, Mech. Bird or performs a Break Skill, the enemy's Diversion, Parry, Evasion and Focus are reduced by 20%.
+Anti-Exotic·Wp
+If the enemy uses a Dagger, Talisman or a Club, attacks or uses Break Skill, the enemy's Diversion, Parry, Evasion and Focus are reduced by 20%.
+Anti-Melody
+If the enemy uses a music instrument, attacks or uses a Break Skill, the enemy's Diversion, Parry, Evasion and Focus are reduced by 20%..
+Anti-Metal
+If the enemy uses Iron-made protective gear to resist an attacks or performs a Break Skill, the enemy's External and Internal Defense are reduced by 20%.
+Anti-Wood
+If the enemy uses Wood-made protective gear to resist an attacks or performs a Break Skill, the enemy's External and Internal Defense are reduced by 20%.
+Anti-Gem
+If the enemy uses Gem-made protective gear to resist an attacks or performs a Break Skill, the enemy's External and Internal Defense are reduced by 20%.
+Anti-Weaving
+If the enemy uses Fabric-made protective gear to resist an attacks or performs a Break Skill, the enemy's External and Internal Defense are reduced by 20%.
+Sharp
+This weapons DES is increased by 20%.
+Refined by fire
+This weapons Hardness is increased by 20%.
+Bloodbath
+This weapon has 50% higher DES, but 50% lower Hardness.
+Blunt
+This weapon has 50% higher Hardness, but 50% lower DES.
+Venomous sting
+This weapon causes 20% more Poison damage to enemies.
+Spiritual Use
+This weapon's usage requirements are lowered by 20%
+Blood Kills
+When attacking with this weapon or using a Break skill, if this weapon is damaged, the enemy suffers 30% more direct External Damage.
+Qi killing
+When attacking with this weapon or using a Break skill, if this weapon is damaged, the enemy suffers 30% more direct Internal Damage.
+Blood Transfusion
+When attacking or performing a Break Skill with this weapon, the attacker takes 20% less External Injury from Reflect.
+Qi Transformation
+When attacking or performing a Break Skill with this weapon, the attacker takes 20% less Internal Injury from Reflect.
+Counter Handguards
+If the enemy uses a palm glove, the enemy's Might, Finesse, Swiftness, and Breath are reduced by 20% when this gear is used to parry the enemy's attacks or Break Skill.
+Counter Sword
+If the enemy uses a Sword, the enemy's Might, Finesse, Swiftness, and Breath are reduced by 20% when this gear is used to parry the enemy's attacks or Break Skill.
+Counter Blade
+If the enemy uses a Blade, the enemy's Might, Finesse, Swiftness, and Breath are reduced by 20% when this gear is used to parry the enemy's attacks or Break Skill.
+Counter Poison
+If the enemy uses a poisonous attack,  if this guard is used to parry the enemy's attack or Break Skill, the enemy's Might, Finesse, Swiftness, and Breath are reduced by 20% 
+Counter Polearm
+If the enemy uses a Polearm, the enemy's Might, Finesse, Swiftness, and Breath are reduced by 20% when this gear is used to parry the enemy's attacks or Break Skill.
+Counter Soft·Wp
+If the enemy uses a Soft·Wp, the enemy's Might, Finesse, Swiftness, and Breath are reduced by 20% when this gear is used to parry the enemy's attacks or Break Skill.
+Counter Hidden·Wp
+If the enemy uses a Hidden Weapon, Mech. Bird or performs a Break Skill, the enemy's Might, Finesse, Swiftness, and Breath are reduced by 20% when this gear is used to parry the enemy's attacks or Break Skill.
+Counter Exotic·Wp
+If the enemy uses a Exotic·Wp, the enemy's Might, Finesse, Swiftness, and Breath are reduced by 20% when this gear is used to parry the enemy's attacks or Break Skill.
+Counter Melody
+If the enemy uses a music instrument, the enemy's Might, Finesse, Swiftness, and Breath are reduced by 20% when this gear is used to parry the enemy's attacks or Break Skill.
+Counter Metal
+If the enemy uses a Metal weapon and this protective gear is used to parry an attack or a Break Skill, the enemy's External Penetration and Internal Penetration are reduced by 20%.
+Counter Wood
+If the enemy uses a Wood weapon and this protective gear is used to parry an attack or a Break Skill, the enemy's External Penetration and Internal Penetration are reduced by 20%.
+Counter Gem
+If the enemy uses a Gem weapon and this protective gear is used to parry an attack or a Break Skill, the enemy's External Penetration and Internal Penetration are reduced by 20%.
+Reflection of Weaving
+If the enemy uses a Fabric weapon and this protective gear is used to parry an attack or a Break Skill, the enemy's External Penetration and Internal Penetration are reduced by 20%.
+Hidden Sharpness
+The TOU of this equipment is increased by 20%.
+Snow Refining
+The Hardness of this equipment is increased by 20%.
+Blood Coat
+This equipment has 50% higher TOU, but 50% lower Hardness.
+Tenacious
+This equipment has 50% higher Hardness, but 50% lower TOU.
+This equipment causes 20% more poison damage to enemies.
+This armor's usage requirements are lowered by 20%
+Physical Protection
+When using this armor to resist the enemy's attack or Break skill if this armor is damaged, the direct External Damage inflicted by the enemy is reduced by 30%.
+Qi·Protection
+When using this armor to resist the enemy's attack or Break skill if this armor is damaged, the direct Internal Damage inflicted by the enemy is reduced by 30%.
+Retributing Physical
+When using this piece of gear to Reflect enemy attacks or Break skill, the External Injury damage reflected by the user is increased by 20%.
+Retributing Qi
+When using this piece of gear to Reflect enemy attacks or Break skill, the Internal Injury damage reflected by the user is increased by 20%.
+Reinforcement
+The durability of this equipment is increased by 20%.
+Balance
+The weight of this equipment has been reduced by 20%.
+Valuable
+The value of this equipment is increased by 30%.
+Gift
+The popularity of this equipment is increased by 30%.
+Heavy
+The durability of this equipment is increased by 50% and its weight is increased by 50%.
+Light
+The weight of this equipment is reduced by 50% and its durability is reduced by 50%.
+Ritual
+The value of this equipment is increased by 75% and its popularity is reduced by 75%.
+Collectible 
+The popularity of this equipment is increased by 75%, and its value is reduced by 75%.
+Made by Adoptive Father
+The Might, Finesse, and Swiftness of this weapon are increased by 20%; The durability of this weapon in increased by 100%.
+Trial
+This weapon's durability is reduced by 50%, and its usage requirements are increased by 100%

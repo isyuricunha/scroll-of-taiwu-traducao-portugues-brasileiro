@@ -1,36 +1,36 @@
-Encontrou uma miragem
-Encontrou uma miragem, aumentando a reputacao
-Descobriu selvagens
-Descobriu selvagens, aumentando a reputacao
-Descobriu animais
-Descobriu animais raros, aumentando a reputacao
-Descobriu plantas
-Descobriu plantas raras, aumentando a reputacao
-Transmitiu informacoes
-Transmitiu informacoes, aumentando a reputacao
-Descobriu um assentamento
-Descobriu um assentamento, aumentando a reputacao
-Encontrou clima raro
-Encontrou um clima raro, aumentando a reputacao
-Perdeu-se
-Perdeu o caminho, resultando em reducao da reputacao
-Encontrou ladroes
-Encontrou ladroes, perdendo parte dos suprimentos
-Danos devido a terrenos acidentados
-O percurso acidentado causou a perda de alguns suprimentos
-Descobriu destrocos de uma caravana
-Descobriu destrocos de uma caravana, obtendo alguns suprimentos
-Ajudou um viajante
-Ajudou um viajante, resultando em reducao dos suprimentos
-Problemas com a adaptacao ao ambiente
-Problemas com a adaptacao ao ambiente pelo grupo de transporte, resultando em reducao dos suprimentos
-Recebeu ajuda
-Recebeu ajuda, aumentando os suprimentos
-Encontrou caca
-Encontrou caca, aumentando os suprimentos
-Descobriu um pomar
-Descobriu um pomar, podendo buscar suprimentos
-Descobriu uma vila
-Descobriu uma vila, podendo trocar suprimentos
-Encontrou uma caravana
-Encontrou uma caravana, podendo trocar suprimentos
+Encontrar um miragem
+Encontrando uma miragem, Reputação aumentada
+Descobrir Selvagens
+Selvagens descobertos, Reputação aumentada
+Descobrir Animais
+Animais raros descobertos, Reputação aumentada
+Descobrir Plantas
+Plantas raras descobertas, Reputação aumentada
+Relatar de volta
+As experiências foram relatadas, Reputação aumentada
+Descobrir um assentamento
+Um assentamento foi descoberto, Reputação aumentada
+Ler o clima
+Encontrou um clima raro, Reputação aumentada
+Perder-se
+Perdeu-se, Reputação diminuída
+Encontrar ladrões
+Encontrou ladrões, algumas mercadorias foram perdidas
+Cair em um buraco
+Caiu em um buraco, algumas mercadorias foram perdidas
+Encontrar os restos de uma caravana
+Encontrou os restos de uma caravana e obteve algumas mercadorias
+Ajudar alguns viajantes
+Ajudou alguns viajantes, resultando em suprimentos diminuídos
+Mau tempo
+Encontrou mau tempo, resultando em suprimentos diminuídos
+Obter Assistência
+Recebeu assistência e suprimentos aumentados
+Caça Selvagem Ocasional
+Caça foi encontrada e suprimentos aumentados
+Descobrir frutas da floresta
+Encontrou a floresta de frutas e suprimentos puderam ser colhidos
+Descobrir uma vila
+Vila foi encontrada e suprimentos puderam ser trocados
+Encontrar uma caravana
+Quando as duas caravanas se encontraram, suprimentos puderam ser trocados

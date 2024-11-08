@@ -1,36 +1,36 @@
-Forca
-Habilidade
-Velocidade
-Concentracao
-Quebra Corporal
-Quebra de Energia
-Dissipacao de Forca
-Desmontar Técnica
-Esquiva
-Protecao Mental
-Controle Corporal
-Controle de Energia
-Recuperacao de Postura
-Recuperacao de Energia
-Velocidade de Movimento
-Passos Firmes
-Velocidade de Execucao
-Atingir o Objeto de Foco
-Troca de Arma
+MIG
+FIN
+SWI
+BRE
+Pen. Ext.
+Pen. Int.
+DIV
+PAR
+EVA
+FOC
+Def. Ext.
+Def. Int.
+Recuperação de Posição
+Recuperação de Inalação
+MOV·Vel
+Recuperação Ext.
+Velocidade de Lançamento
+Recuperação Int.
+CD de Troca de Arma
 Velocidade de Ataque
-Desempenho de Poder Interno
-Regulacao da Respiracao
-Resistência a Veneno Intenso
-Resistência a Veneno Tóxico
-Resistência a Veneno Gelado
-Resistência a Veneno Escarlate
-Resistência a Veneno Corrosivo
-Resistência a Veneno Ilusório
-Dano Externo Direto
-Dano Interno Direto
+Bônus de Razão Int.
+Respiração Interna
+Res. a Acritoxina
+Res. a Umbritoxina
+Res. a Criotoxina
+Res. a Pirotoxina
+Res. a Necrotoxina
+Res. a Oneirotoxina
+Lesão Externa
+Lesão Interna
 Humor
-Quantidade de Energia Verdadeira Obtida
-Velocidade de Recuperacao dos Pés
-Distancia de Ataque Mínima
-Distancia de Ataque Máxima
-Atributos dos Sete Elementos
+Quantidade de Verdadeira Qi Obtida
+Taxa de Recuperação de Stamina
+Alcance de Ataque Mínimo
+Alcance de Ataque Máximo
+Sete Instintos
