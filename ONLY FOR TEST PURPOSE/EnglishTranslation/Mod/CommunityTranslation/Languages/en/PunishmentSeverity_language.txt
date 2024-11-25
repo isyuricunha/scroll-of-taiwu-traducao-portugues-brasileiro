@@ -1,9 +1,9 @@
-Misconduct
-Confiscation of half of the resources and items
-Evil
+Conduta Inadequada
+Confisco de metade dos recursos e itens
+Mal
 Crime
-Confiscation of half of the resources and items; Abolishment of half of the sect's martial arts
-Serious Crime
-Confiscation of all resources and items; Abolishment of all of the sect's martial arts
-Wicked Crime
-Confiscation of all resources and items; Abolishment of all of the sect's martial arts; Expulsion from the sect, and severance of all master-disciple relationships
+Confisco de metade dos recursos e itens; Abolição de metade das artes marciais da seita
+Crime Grave
+Confisco de todos os recursos e itens; Abolição de todas as artes marciais da seita
+Crime Perverso
+Confisco de todos os recursos e itens; Abolição de todas as artes marciais da seita; Expulsão da seita e rompimento de todas as relações mestre-discípulo

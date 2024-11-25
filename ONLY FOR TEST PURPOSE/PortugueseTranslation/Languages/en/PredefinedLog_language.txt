@@ -1,47 +1,47 @@
-Wiping secret data
-Due to the detection of illegal secret data, it has been deleted
-Failed to load MOD configuration
-Loading Mod - {0} Mod config file at {1} failed, skipped.\nError message: {2}
-Failed to load mod config file at {0}, skipped. \nError message: {1}
-Failed to load MOD settings
-Loading Mod - {0} Mod settings file at {1} failed, skipped and removed.\nError message: {2}
-Failed to load MOD global settings
-Failed to load mod global settings file at {0}, skipped and removed.\nError message: {1}
-Combat behavior with negative remaining frames
-The current combat state has a negative number of remaining frames, this behavior has been skipped
-Exceptions in the runtime of aspiration animation
-When executing {1} skill of {0} aspiration, an exception occurs when the animation is running and the current skill execution has been skipped. \n error message reported: {2}
-Skill effect run-time anomaly
-An exception occurred when running with effect ID {0}. We have noticed the problem and are trying to make the game continue through compatibility.\nIf this log appears, please go to the official website to submit the log to help troubleshoot the problem. \nException information: {1}
-Combat runtime exception
-There is an abnormality when the battle is running. We have noticed the problem and are trying to make the game continue through compatibility processing.\nIf this log appears, please go to the official website to submit the log to help troubleshoot the problem. \nException information: {0}
-Video format not supported exception
-Due to system reasons, this video cannot be played temporarily; this exception does not affect the ability to continue to create an archive and enter the game, so you can continue to play by clicking Clear directly.
-Mission data anomalies
-Exception Found Task Id. {0}
-Map runtime exception
-The map is running with an abnormal condition, we have noted the issue and have attempted to enable the game to continue through compatibility processing. \nIf this log appears, please go to the official website and submit the log to assist in troubleshooting the problem. \nAbnormal Message: {0}
-Role Runtime Exception
-Characters are running with an abnormal condition, we have noted the issue and have attempted to enable the game to continue through compatibility processing. \nIf this log appears, please go to the official website and submit the log to assist in troubleshooting the problem. \nAbnormal Message: {0}
-Abnormalities in the operation of feats
-The feats are running with an abnormal condition, we have noted the issue and have attempted to enable the game to continue through compatibility processing. \nIf this log appears, please go to the official website to submit the log to assist in troubleshooting the problem. \nAbnormal Message: {0}
-Communication runtime exception
-An abnormality occurred while the communication was running. We have noticed the problem and are trying to make the game continue through compatibility processing. \nIf this log appears, please go to the official website to submit the log to help troubleshoot the problem. \nException information: {0} 
-Debate operation expired
-The system abnormally received the expired operation {0} (timestamp: {1}) and invalidated it in the round number {2}
-Dream Back world file doesn't match
-Please note that the world you are currently traveling through in your dream does not match the original world save, and various unknown errors may occur if you continue the game! 
-Abnormal refreshment of elements in the interface of Dragon Transformation
-An anomalous condition has been detected while the Chemtrail interface is running, we are aware of the issue and have attempted to enable the game to continue through compatibility processing.\nIf this log appears, please go to the official website and submit the log to help troubleshoot the problem.
-General interface element refresh exception
-We have noted the current abnormal conditions and have attempted to continue the game through compatibility processing. \nThe anomalies recorded when this log appears may not be the same, whenever this log appears, please go to the official website to submit the log to assist in troubleshooting the problem.\nException Information: {0}
-World runtime exception
-There is an abnormality when the world is running. We have noticed the problem and are trying to make the game continue through compatibility processing.\nIf this log appears, please go to the official website to submit the log to help troubleshoot the problem.\nException information: {0}
-Item Duplicated
-An attempt to add a non-stackable item {0} to container {1} was detected when the item already existed in another container {2}.
-The item is not held 
-While trying to remove non-stackable item {0} from container {1}, it was detected that the item had no previously recorded holder.
-Event System Exception
-The event has changed, but it has not actually entered. Continuing the game may cause a corrupted file.\nIf this log appears, please go to the official website to submit the log to assist in troubleshooting.\nGuid: {0}=>{1}
-战斗 Ai 加载异常
-尝试从路径 {0} 加载 Ai 数据时出现异常，请检查游戏完整性，或尝试向客服寻求支持。\n异常信息：{1}
+Limpando dados secretos
+Devido à detecção de dados secretos ilegais, eles foram deletados
+Falha ao carregar a configuração do MOD
+Falha ao carregar o arquivo de configuração do Mod - {0} Mod em {1}, ignorado.\nMensagem de erro: {2}
+Falha ao carregar o arquivo de configuração do mod em {0}, ignorado. \nMensagem de erro: {1}
+Falha ao carregar as configurações do MOD
+Falha ao carregar o arquivo de configurações do Mod - {0} em {1}, ignorado e removido.\nMensagem de erro: {2}
+Falha ao carregar as configurações globais do MOD
+Falha ao carregar o arquivo de configurações globais do mod em {0}, ignorado e removido.\nMensagem de erro: {1}
+Comportamento de combate com quadros restantes negativos
+O estado atual de combate possui um número negativo de quadros restantes, esse comportamento foi ignorado
+Exceções na execução da animação de aspiração
+Ao executar a habilidade {1} de {0}, ocorreu uma exceção durante a animação e a execução da habilidade foi ignorada.\nMensagem de erro reportada: {2}
+Anomalia no tempo de execução do efeito da habilidade
+Ocorreu uma exceção ao executar o efeito com ID {0}. Estamos cientes do problema e tentando continuar o jogo através de compatibilidade.\nSe esse log aparecer, por favor, vá ao site oficial para enviar o log e ajudar na resolução do problema. \nInformações da exceção: {1}
+Exceção de tempo de execução do combate
+Ocorreu uma anomalia durante a execução do combate. Estamos cientes do problema e tentando fazer o jogo continuar com processamento de compatibilidade.\nSe esse log aparecer, por favor, vá ao site oficial para enviar o log e ajudar a resolver o problema. \nInformações da exceção: {0}
+Exceção de formato de vídeo não suportado
+Devido a problemas do sistema, este vídeo não pode ser reproduzido temporariamente; essa exceção não afeta a continuidade da criação de arquivos ou a entrada no jogo, então você pode continuar jogando clicando em Limpar diretamente.
+Anomalias nos dados da missão
+Exceção encontrada no ID da Tarefa. {0}
+Exceção de tempo de execução do mapa
+O mapa está rodando em uma condição anormal, estamos cientes do problema e tentamos permitir que o jogo continue com o processamento de compatibilidade.\nSe esse log aparecer, por favor, vá ao site oficial para enviar o log e ajudar na resolução do problema. \nMensagem Anômala: {0}
+Exceção de tempo de execução do personagem
+O personagem está rodando em uma condição anormal, estamos cientes do problema e tentamos permitir que o jogo continue com o processamento de compatibilidade.\nSe esse log aparecer, por favor, vá ao site oficial para enviar o log e ajudar a resolver o problema. \nMensagem Anômala: {0}
+Anomalias na operação das façanhas
+As façanhas estão rodando em uma condição anormal, estamos cientes do problema e tentamos permitir que o jogo continue com o processamento de compatibilidade.\nSe esse log aparecer, por favor, vá ao site oficial para enviar o log e ajudar a resolver o problema. \nMensagem Anômala: {0}
+Exceção de tempo de execução de comunicação
+Ocorreu uma anomalia durante a execução da comunicação. Estamos cientes do problema e tentando fazer o jogo continuar com o processamento de compatibilidade.\nSe esse log aparecer, por favor, vá ao site oficial para enviar o log e ajudar a resolver o problema. \nInformações da exceção: {0}
+Operação de debate expirada
+O sistema recebeu anormalmente a operação expirada {0} (timestamp: {1}) e a invalidou no número da rodada {2}
+Arquivo de mundo do Sonho de Volta não corresponde
+Observe que o mundo que você está atravessando no seu sonho não corresponde ao mundo salvo original, e vários erros desconhecidos podem ocorrer se você continuar o jogo!
+Anomalia de atualização dos elementos da interface de Transformação do Dragão
+Uma condição anômala foi detectada enquanto a interface de Chemtrail estava rodando, estamos cientes do problema e tentamos permitir que o jogo continue com o processamento de compatibilidade.\nSe esse log aparecer, por favor, vá ao site oficial para enviar o log e ajudar a resolver o problema.
+Exceção de atualização de elementos gerais da interface
+Estamos cientes das condições anormais atuais e tentamos continuar o jogo com o processamento de compatibilidade.\nAs anomalias registradas quando este log aparece podem não ser as mesmas, sempre que esse log aparecer, por favor, vá ao site oficial para enviar o log e ajudar a resolver o problema.\nInformações da exceção: {0}
+Exceção de tempo de execução do mundo
+Ocorreu uma anomalia enquanto o mundo estava em execução. Estamos cientes do problema e tentando fazer o jogo continuar com o processamento de compatibilidade.\nSe esse log aparecer, por favor, vá ao site oficial para enviar o log e ajudar a resolver o problema.\nInformações da exceção: {0}
+Item Duplicado
+Foi detectada uma tentativa de adicionar um item não empilhável {0} ao contêiner {1}, quando o item já existia em outro contêiner {2}.
+O item não está armazenado
+Ao tentar remover o item não empilhável {0} do contêiner {1}, foi detectado que o item não tinha um portador registrado anteriormente.
+Exceção no Sistema de Eventos
+O evento foi alterado, mas não foi realmente inserido. Continuar o jogo pode corromper o arquivo.\nSe esse log aparecer, por favor, vá ao site oficial para enviar o log e ajudar a resolver o problema.\nGuid: {0}=>{1}
+Exceção de carregamento de Ai do combate
+Ocorreu uma exceção ao tentar carregar os dados de Ai do caminho {0}, por favor, verifique a integridade do jogo ou tente buscar suporte com o atendimento ao cliente.\nInformações da exceção: {1}

@@ -1,32 +1,32 @@
-The host's weapon attacks will have an additionally reduced chance of hitting the enemy.
-The host's weapon attacks will have an additionally increased chance of hitting the enemy.
-The host will lose a part of their items every month.
-It certainly will be born when <SpName=sp_icon_poison_3><color=#redpoison>Pyrotoxin</color> consumption reaches 40%
-The host will receive 1 Daze Marker whenever host's Poison activates.
-The host will receive 1 Daze Marker whenever enemy's Poison activates.
-Every month, the host might start Hating the characters whose Favor has dropped significantly, and will more easily seek revenge on their enemies.
-It certainly will be born when <SpName=sp_icon_poison_1><color=#gloomypoison>Umbritoxin</color> consumption reaches 40%
-Level of Weak Points and Sealed Acupoints received by the host will increase by 1 level
-Level of Weak Points and Sealed Acupoints received by the host will reduced by 1 level
-The host's Inner Breath will become disordered based on the level of Injuries they have
-It certainly will be born when <SpName=sp_icon_poison_4><color=#rottenpoison>Necrotoxin</color> consumption reaches 40%
-宿主的真气减少时，使宿主随机类型的真气再减少2点。
-宿主的真气增加时，使宿主随机类型的真气再增加2点。
-Every month, the host's demonization value will be increased by 10 times.
-It certainly will be born if all types of poison consumption are within 10% of each other
-If the host's Health is not lower than 50%, the host's Fatal Wound damage taken will be additionally increased, and whenever the host's Fatal Wound damage taken gets increased, the host's Health will also be reduced.
-If the host's Health is not lower than 50%, the host's Fatal Wound damage taken will be additionally decreased, but whenever the host's Fatal Wound damage taken gets decreased, the host's Health will also be reduced.
-Inner Breath state won't recover the host's Health every month.
-It certainly will be born when <SpName=sp_icon_poison_0><color=#hotpoison>Acritoxin</color>, <SpName=sp_icon_poison_3><color=#redpoison>Pyrotoxin</color>, and <SpName=sp_icon_poison_4><color=#rottenpoison>Necrotoxin</color> consumption reaches 30% each
-Sealing chance of the host's techniques and weapons will be additionally increased.
-Sealing chance of the host's techniques and weapons will be additionally decreased.
-The host's Internal Energy will not be restored every month, and will instead be greatly depleted.
-It certainly will be born when <SpName=sp_icon_poison_2><color=#coldpoison>Cryotoxin</color> consumption reaches 40%
-The pure essence suppression effects of the host's Cleanse Impurities, Divine Step, and Naturalization pure essence realms will be reduced.
-The pure essence suppression effects of the host's Cleanse Impurities, Divine Step, and Naturalization pure essence realms will be increased.
-The Golden Silkworm Gu King will devour 1 random Mature Gu in the host's body every month to apply a large amount of Poisons to the host
-It certainly will be born when <SpName=sp_icon_poison_0><color=#hotpoison>Acritoxin</color> consumption reaches 40%
-The positive effects to Main Stats, Secondary Stats, Accuracy, Resolve, Attack, Defend, and Talent from the host's positive "Traits" will temporarily change to negative effects.
-The negative effects to Main Stats, Secondary Stats, Accuracy, Resolve, Attack, Defend, and Talent from the host's negative "Traits" will temporarily change to positive effects.
-All characters who spend a Spring Night with the host will be implanted with an untamed Premature Azure Marrow Gu.
-It certainly will be born when <SpName=sp_icon_poison_1><color=#gloomypoison>Umbritoxin</color>, <SpName=sp_icon_poison_2><color=#coldpoison>Cryotoxin</color>, and <SpName=sp_icon_poison_5><color=#illusorypoison>Oneirotoxin</color> consumption reaches 30% each
+Os ataques com armas do anfitrião terão uma chance adicional reduzida de acertar o inimigo.  
+Os ataques com armas do anfitrião terão uma chance adicional aumentada de acertar o inimigo.  
+O anfitrião perderá parte de seus itens todo mês.  
+Certamente será gerado quando o consumo de <SpName=sp_icon_poison_3><color=#redpoison>Pyrotoxina</color> alcançar 40%.  
+O anfitrião receberá 1 Marcador de Atordoamento sempre que o Veneno do anfitrião for ativado.  
+O anfitrião receberá 1 Marcador de Atordoamento sempre que o Veneno do inimigo for ativado.  
+Todo mês, o anfitrião poderá começar a odiar personagens cuja Afeição tenha diminuído significativamente e buscará mais facilmente vingança contra seus inimigos.  
+Certamente será gerado quando o consumo de <SpName=sp_icon_poison_1><color=#gloomypoison>Umbritoxina</color> alcançar 40%.  
+O nível de Pontos Fracos e Acupontos Selados recebidos pelo anfitrião aumentará em 1 nível.  
+O nível de Pontos Fracos e Acupontos Selados recebidos pelo anfitrião será reduzido em 1 nível.  
+A Respiração Interna do anfitrião se tornará desordenada com base no nível de Ferimentos que possui.  
+Certamente será gerado quando o consumo de <SpName=sp_icon_poison_4><color=#rottenpoison>Necrotoxina</color> alcançar 40%.  
+Quando a Energia Interna do anfitrião diminuir, a Energia Interna de um tipo aleatório também será reduzida em 2 pontos.  
+Quando a Energia Interna do anfitrião aumentar, a Energia Interna de um tipo aleatório também será aumentada em 2 pontos.  
+Todo mês, o valor de demonização do anfitrião será aumentado 10 vezes.  
+Certamente será gerado se todos os tipos de consumo de veneno estiverem dentro de 10% um do outro.  
+Se a Saúde do anfitrião não for inferior a 50%, o dano de Ferida Fatal recebido será adicionalmente aumentado, e sempre que esse dano for aumentado, a Saúde do anfitrião também será reduzida.  
+Se a Saúde do anfitrião não for inferior a 50%, o dano de Ferida Fatal recebido será adicionalmente reduzido, mas sempre que esse dano for reduzido, a Saúde do anfitrião também será reduzida.  
+A Respiração Interna não restaurará a Saúde do anfitrião todo mês.  
+Certamente será gerado quando o consumo de <SpName=sp_icon_poison_0><color=#hotpoison>Acritoxina</color>, <SpName=sp_icon_poison_3><color=#redpoison>Pyrotoxina</color>, e <SpName=sp_icon_poison_4><color=#rottenpoison>Necrotoxina</color> alcançar 30% cada.  
+A chance de selar técnicas e armas do anfitrião será adicionalmente aumentada.  
+A chance de selar técnicas e armas do anfitrião será adicionalmente reduzida.  
+A Energia Interna do anfitrião não será restaurada todo mês e, em vez disso, será grandemente reduzida.  
+Certamente será gerado quando o consumo de <SpName=sp_icon_poison_2><color=#coldpoison>Criotoxina</color> alcançar 40%.  
+Os efeitos de supressão da essência pura das habilidades Limpar Impurezas, Passo Divino e Naturalização do anfitrião serão reduzidos.  
+Os efeitos de supressão da essência pura das habilidades Limpar Impurezas, Passo Divino e Naturalização do anfitrião serão aumentados.  
+O Rei do Gu do Bicho-da-Seda Dourado devorará 1 Gu Maduro aleatório no corpo do anfitrião todo mês para aplicar uma grande quantidade de Venenos ao anfitrião.  
+Certamente será gerado quando o consumo de <SpName=sp_icon_poison_0><color=#hotpoison>Acritoxina</color> alcançar 40%.  
+Os efeitos positivos nas Estatísticas Principais, Estatísticas Secundárias, Precisão, Determinação, Ataque, Defesa e Talento das "Características" positivas do anfitrião se transformarão temporariamente em efeitos negativos.  
+Os efeitos negativos nas Estatísticas Principais, Estatísticas Secundárias, Precisão, Determinação, Ataque, Defesa e Talento das "Características" negativas do anfitrião se transformarão temporariamente em efeitos positivos.  
+Todos os personagens que passarem uma Noite de Primavera com o anfitrião serão implantados com um Gu de Medula Azul Prematuro e Indomado.  
+Certamente será gerado quando o consumo de <SpName=sp_icon_poison_1><color=#gloomypoison>Umbritoxina</color>, <SpName=sp_icon_poison_2><color=#coldpoison>Criotoxina</color>, e <SpName=sp_icon_poison_5><color=#illusorypoison>Oneirotoxina</color> alcançar 30% cada.  

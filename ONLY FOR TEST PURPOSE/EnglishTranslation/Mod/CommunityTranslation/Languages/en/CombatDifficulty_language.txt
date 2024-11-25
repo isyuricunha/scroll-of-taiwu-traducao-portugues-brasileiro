@@ -1,4 +1,4 @@
 Normal
-Hard
-Harder
-Deadly
+Difícil
+Mais Difícil
+Mortal

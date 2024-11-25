@@ -1,20 +1,20 @@
-Sunny
+Ensolarado
 
-Hail
+Granizo
 
-Sandstorm
+Tempestade de Areia
 
-Burning Sun
+Sol Escaldante
 
-Thunderstorm
+Trovoada
 
-Shower
+Chuva
 
-Snow
+Neve
 
-Blizzard
+Nevasca
 
-Hurricane
+Furacão
 
-Misty
+Nebuloso
 

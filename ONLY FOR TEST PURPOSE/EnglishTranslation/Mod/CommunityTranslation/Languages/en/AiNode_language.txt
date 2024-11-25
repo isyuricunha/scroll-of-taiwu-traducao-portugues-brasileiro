@@ -1,6 +1,6 @@
-Sequence
-Execute all child nodes sequentially until the action node
-Branch
-Determine the next node to be executed based on the condition
-Action
-Perform a specific action
+Sequência
+Executa todos os nós filhos sequencialmente até o nó de ação
+Ramo
+Determina o próximo nó a ser executado com base na condição
+Ação
+Realiza uma ação específica

@@ -1,131 +1,131 @@
-Lose
-Battle lost!
+Perder  
+Batalha perdida!  
 
-Draw
-Tie...
+Empate  
+Empate...  
 
-Retreat
-Flee...
+Retirada  
+Fuga...  
 
-Win
-Battle won!
+Vencer  
+Batalha vencida!  
 
-Spar
-Spar with an opponent whose purity is no less than your own.
+Treinamento  
+Treine com um oponente cuja pureza não seja inferior à sua.  
 
-Parry every move
-Take on an opponent whose purity is no less than your own.
+Bloquear todos os movimentos  
+Enfrente um oponente cuja pureza não seja inferior à sua.  
 
-A dangerous Battle
-A dangerous fight with an opponent whose purity is no less than your own.
+Batalha perigosa  
+Uma luta perigosa contra um oponente cuja pureza não seja inferior à sua.  
 
-A Fight to the death
-A fight to the death with an opponent whose purity is no less than your own.
+Luta até a morte  
+Uma luta até a morte com um oponente cuja pureza não seja inferior à sua.  
 
-HoS
-Defeated the XiangShu Incarnation !
+HoS  
+Derrotou a Incarnação de XiangShu!  
 
-Bully·A
-Defeat enemy who have fewer companions. 
+Acoitar·A  
+Derrote um inimigo que tenha menos companheiros.  
 
-Bully·M
-Defeat an opponent who is younger than you
+Acoitar·M  
+Derrote um oponente que seja mais jovem que você.  
 
-Equipped with weaknesses
-Defeat an opponent whose equipment is weaker overall than your own.
+Equipado com fraquezas  
+Derrote um oponente cuja equipagem seja mais fraca que a sua.  
 
-True Qi overpowering
-Defeating an opponent whose True Qi is much lower than your own.
+Qi Verdadeiro Sobressai  
+Derrote um oponente cujo Qi Verdadeiro seja muito mais baixo que o seu.  
 
-Martial Overpowering 
-Defeats an opponent using a martial art that is more advanced than the one used by the opponent.
+Superioridade Marcial  
+Derrote um oponente usando uma arte marcial mais avançada que a do oponente.  
 
-Pure and fragile
-Defeating an opponent when one's realm of purity is 3 or more higher than the opponent's.
+Pureza e fragilidade  
+Derrote um oponente quando o seu domínio de pureza for 3 ou mais superior ao do oponente.  
 
-Bully·P
-Defeating an opponent who is carrying six pieces of 
+Acoitar·P  
+Derrote um oponente que esteja carregando seis peças de...  
 
-OT·A
-Overturn·amount. Defeat enemy who have more companions. 
+OT·A  
+Revolução·quantidade. Derrote um inimigo que tenha mais companheiros.  
 
-Newborn
-Beating an opponent when you are not yet an adult and your opponent is older than you.
+Recém-nascido  
+Derrote um oponente quando você ainda não é adulto e ele for mais velho que você.  
 
-Equipped for victory
-Defeat an opponent whose equipment is overall better than your own.
+Equipado para a vitória  
+Derrote um oponente cuja equipagem seja em geral melhor que a sua.  
 
-True Qi overcomes Force
-Defeating an opponent whose True Qi is much higher than your own.
+Qi Verdadeiro supera Força  
+Derrote um oponente cujo Qi Verdadeiro seja muito mais alto que o seu.  
 
-Superior Martial Arts
-Defeating an opponent with a more rudimentary martial art than the one used by his opponent
+Artes Marciais Superiores  
+Derrote um oponente com uma arte marcial mais rudimentar que a usada por seu oponente.  
 
-Purity overcomes Strength
-Defeating an opponent when one's realm of purity is 3 or more below that of the opponent.
+Pureza supera Força  
+Derrote um oponente quando o seu domínio de pureza for 3 ou mais inferior ao do oponente.  
 
-Lion Roar
-Defeating an opponent while having six pieces of gear equipped.
+Rugido de Leão  
+Derrote um oponente enquanto estiver usando seis peças de equipamento.  
 
-It's all in your hands.
-Restore one's mind from XiangShu's Posession. 
-Restore the mind of those who have fallen into evil.
-Repel Evil Spirits
-Restoring the minds of those who have fallen into the demonic path of the Sangha and who are no less pure than oneself.
-Restore the mind of those who have fallen into the evil path and whose purity is no less than your own.
-Be Chivalrous and uphold justice
-Exterminating the outlaws who committed misdeeds.
+Está tudo em suas mãos.  
+Restaure a mente do indivíduo possuído por XiangShu.  
+Restaure a mente daqueles que caíram no mal.  
+Repelir Espíritos Malignos  
+Restaurar as mentes dos que caíram no caminho demoníaco do Sangha e cuja pureza não seja inferior à sua.  
+Restaurar a mente dos que caíram no caminho maligno e cuja pureza seja não inferior à sua.  
+Seja Cavalheiresco e mantenha a justiça  
+Extermine os fora da lei que cometeram atos errados.
 
-Destroying the Outlaws
-Eliminating the Outlaws who are not less pure than oneself
+Destruindo os Fora da Lei  
+Elimine os fora da lei que não sejam menos puros que você.  
 
-Offend Heaven and Earth
-Killing righteous men who have done righteous deeds.
+Ofender Céu e Terra  
+Mate os homens justos que fizeram boas ações.  
 
-Kill the Righteous
-Killing the righteous who are no less pure than oneself.
+Matar os Justos  
+Mate os justos cuja pureza não seja inferior à sua.  
 
-Praise of Lion Face
-Victory over the opponents earns more prestige because of the proclamation of the Lion-Face Clan.
+Elogio da Face de Leão  
+Vencer os oponentes traz mais prestígio devido à proclamação do Clã Face de Leão.
 
 
 
-The Basics
-The prestige gained by defeating an enemy with the most rustic Taiwu Long Fist is greatly increased.
+O Básico  
+O prestígio ganho ao derrotar um inimigo com o mais rudimentar Taiwu Long Fist é grandemente aumentado.  
 
-Practical insights
-The study progress of the books being studied has increased as a result of real-life insights.
+Percepções Práticas  
+O progresso de estudo dos livros em estudo aumentou devido a percepções da vida real.  
 
-Practice Puppet training
-Engaging in practical combat training with the wooden training dummy will greatly increase the likelihood of gaining insights from real battles...
+Treinamento com o Boneco de Prática  
+Treinar com o boneco de treino de madeira aumentará grandemente as chances de adquirir percepções de batalhas reais...  
 
-Dragon Soaring Over the Four Seas
-Through the challenges posed by the divine dragon, blessings extend indefinitely, and their value is beyond words...
+Dragão Voando Sobre os Quatro Mares  
+Através dos desafios impostos pelo dragão divino, as bênçãos se estendem indefinidamente, e seu valor é indescritível...  
 
-Hanging by a Thread
-Engaging in battles of extreme difficulty increases the gained experience and raises the likelihood of gaining insights from real combat...
+Na Corda Bamba  
+Participar de batalhas de extrema dificuldade aumenta a experiência adquirida e a probabilidade de obter percepções de combate real...  
 
-Ten Deaths Without Life
-Engaging in battles of certain death difficulty significantly increases the gained experience and raises the likelihood of gaining insights from real combat...
+Dez Mortes Sem Vida  
+Participar de batalhas com dificuldade de morte certa aumenta consideravelmente a experiência adquirida e as chances de obter percepções de combate real...  
 
-Resisting Invasion
-Do everything you can to resist Xiangshu's Incarnation! The experience and prestige obtained are greatly improved, and the probability of actual combat understanding is increased...
+Resistindo à Invasão  
+Faça tudo que puder para resistir à Incarnação de Xiangshu! A experiência e o prestígio obtidos aumentam consideravelmente, e a probabilidade de entender o combate real também aumenta...  
 
-Giving Some Pointers
-Spar with an opponent who's Purity is less than yours.
+Dar Algumas Dicas  
+Treine com um oponente cuja pureza seja menor que a sua.  
 
-Soldier Shall Resist
-Receive moves from an opponent who's Purity is less than yours.
+Soldado Resistirá  
+Receba golpes de um oponente cuja pureza seja menor que a sua.  
 
-Masterful Butchering
-Have a Vicious Fight with an opponent who's Purity is less than yours.
+Abarcando Magistralmente  
+Tenha uma luta feroz com um oponente cuja pureza seja menor que a sua.  
 
-More Scared than Hurt
-Have a Death Match with an opponent who's Purity is less than yours.
+Mais Medroso do que Ferido  
+Tenha uma luta até a morte com um oponente cuja pureza seja menor que a sua.  
 
-Combat Circulation
-Having gained insight during actual combat, the Internal Energy and True Qi acquired while Cultivating Inner Arts have increased.
+Circulação de Combate  
+Ao ganhar percepção durante o combate real, a Energia Interna e o Qi Verdadeiro adquiridos ao Cultivar Artes Internas aumentaram.  
 
-练习完成
-因仅是随意试练，故而无法获得历练与威望，也不会获得任何战斗评价…
+Treinamento Concluído  
+Por ser apenas um teste casual, não será obtido progresso nem prestígio, e também não haverá avaliação de combate...
 

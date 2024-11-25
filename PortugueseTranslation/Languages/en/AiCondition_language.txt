@@ -1,195 +1,195 @@
-Delay
-每 {0} 返回一次真值
-判定概率
-当判定 {0}% 概率通过时返回真值
-首次
-每场战斗首次执行到该条件时返回真值
-功法已装配
-当 {0} 运功栏含有 {1} 时返回真值
-功法已突破
-当 {0} 已突破 {1} {2} 时返回真值
-功法已习得
-当 {0} 已习得 {1} 时返回真值
-处于攻击范围
-当前距离 +{1} 处于 {0} 的普攻或施展中摧破攻击范围时返回真值
-处于功法范围
-当前距离 +{1} 处于 {0} 的功法 {2} 施展范围时返回真值
-存在攻击范围边缘
-当 {0} 存在有效的攻击范围边缘时返回真值
-记忆为文本
-当记忆中 {0} 对应值与 {1} 相同时返回真值
-记忆为布尔
-记忆为整数
-记忆不为文本
-当记忆中 {0} 无对应值或与 {1} 不相同时返回真值
-记忆不为布尔
-记忆不为整数
-记忆大于
-当记忆中 {0} 对应值大于 {1} 时返回真值
-记忆小于
-当记忆中 {0} 对应值小于 {1} 时返回真值
-战斗难度
-当角色为太吾或战斗难度不低于 {0} 时返回真值
-目标距离偏向
-目标距离偏向 {0}
-目标距离不为
-目标距离不为 {0}
-目标距离不为最远
-目标距离不为最远距离
-正在施展
-{0} 正在施展 {1}
-正在施展功法
-{0} 正在施展功法 {1}
-功法施展进度达
-{1} 功法施展进度不低于 {0}% 时返回真值
-功法施展进度未达
-{1} 功法施展进度低于 {0}% 时返回真值
-剩余招架低于
-当 {1} 剩余招架值低于 {0}% 时返回真值
-战败标记过半
-当 {0} 战败标记过半时返回真值
-判定禁用逃跑
-当己方不可逃跑或判定禁用逃跑通过时返回真值
-满足逃跑条件
-当己方满足逃跑条件时返回真值
-处于危险中
-当己方处于危险中时返回真值
-可以进行普攻
-可以进行变招
-可以变招破绽
-可以变招封穴
-可以变招封穴 {0}
-可以变招改内力属性
-可以切换兵器
-当索引 {0} - {1} 之间存在可切换且处于攻击范围的武器时返回真值
-可以进行逃脱移动
-可以进行行为
-可以进行行为 {0}
-存在可用的同道指令
-存在可用的 {0} 指令
-存在可用的功法
-存在可用的 {0} 功法
-存在可用的施展增幅
-存在恢复招架护体
-存在增益身法
-存在可用的疗伤药
-存在可用的驱毒药
-存在可用的内息药
-存在可用的增益药
-存在可用的毒药
-存在可用的血露
-存在可用的酒
-存在可修理的兵器
-存在可修理的防具
-战斗类型
-当战斗类型为 {0} 时返回真值
-已运起身法
-当 {0} 已运起身法时返回真值
-已运起特定身法
-当 {0} 已运起身法 {1} {2} 时返回真值
-已运起护体
-当 {0} 已运起护体时返回真值
-已运起特定护体
-当 {0} 已运起护体 {1} {2} 时返回真值
+Atraso
+Retorna verdadeiro a cada {0} ciclos
+Probabilidade de julgamento
+Retorna verdadeiro quando a probabilidade de julgamento de {0}% é alcançada
+Primeira vez
+Retorna verdadeiro na primeira vez que a condição for atendida em cada batalha
+Método de cultivo montado
+Retorna verdadeiro quando a barra de cultivo {0} contém {1}
+Método de cultivo superado
+Retorna verdadeiro quando {0} superou {1} {2}
+Método de cultivo aprendido
+Retorna verdadeiro quando {0} aprendeu {1}
+Dentro do alcance de ataque
+Retorna verdadeiro quando a distância atual +{1} está dentro do alcance do ataque físico ou ataque destruidor de {0}
+Dentro do alcance do método de cultivo
+Retorna verdadeiro quando a distância atual +{1} está dentro do alcance do método de cultivo {2} de {0}
+Existe borda no alcance de ataque
+Retorna verdadeiro quando {0} possui borda de alcance de ataque válida
+Memória como texto
+Retorna verdadeiro quando o valor correspondente na memória de {0} é igual a {1}
+Memória como booleano
+Memória como inteiro
+Memória não como texto
+Retorna verdadeiro quando não existe valor correspondente na memória de {0} ou quando é diferente de {1}
+Memória não como booleano
+Memória não como inteiro
+Memória maior que
+Retorna verdadeiro quando o valor correspondente na memória de {0} for maior que {1}
+Memória menor que
+Retorna verdadeiro quando o valor correspondente na memória de {0} for menor que {1}
+Dificuldade de batalha
+Retorna verdadeiro quando o personagem for Taiwu ou a dificuldade de batalha for igual ou maior que {0}
+Distância do alvo inclinada
+Distância do alvo inclinada para {0}
+Distância do alvo não igual a
+Distância do alvo não igual a {0}
+Distância do alvo não é a maior
+Distância do alvo não é a distância mais distante
+Em ação
+{0} está realizando {1}
+Realizando método de cultivo
+{0} está realizando o método de cultivo {1}
+Progresso do método de cultivo atingiu
+Retorna verdadeiro quando o progresso do método de cultivo {1} for igual ou maior que {0}%
+Progresso do método de cultivo não atingiu
+Retorna verdadeiro quando o progresso do método de cultivo {1} for menor que {0}%
+Valor de defesa abaixo de
+Retorna verdadeiro quando o valor restante de defesa {1} for menor que {0}%
+Marca de derrota ultrapassada
+Retorna verdadeiro quando {0} ultrapassar a marca de derrota
+Proibição de fuga no julgamento
+Retorna verdadeiro quando a fuga for proibida ou o julgamento para proibição de fuga for verdadeiro
+Condições para fuga atendidas
+Retorna verdadeiro quando as condições para fuga forem atendidas
+Em perigo
+Retorna verdadeiro quando estiver em perigo
+Pode realizar ataque básico
+Pode realizar uma mudança de movimento
+Pode explorar falha com mudança de movimento
+Pode selar pontos com mudança de movimento
+Pode selar pontos {0} com mudança de movimento
+Pode alterar atributo de força interna com mudança de movimento
+Pode trocar de arma
+Retorna verdadeiro quando existir uma arma no índice {0} - {1} que pode ser trocada e está dentro do alcance de ataque
+Pode realizar movimento de fuga
+Pode realizar ação
+Pode realizar ação {0}
+Existem instruções de aliado disponíveis
+Existem instruções de {0} disponíveis
+Existem métodos de cultivo disponíveis
+Existem métodos de cultivo {0} disponíveis
+Existem amplificadores de lançamento disponíveis
+Existem técnicas de defesa disponíveis
+Existem aumentos de agilidade disponíveis
+Existem remédios para cura disponíveis
+Existem antídotos disponíveis
+Existem remédios de energia interna disponíveis
+Existem remédios de aumento disponíveis
+Existem venenos disponíveis
+Existem elixires de sangue disponíveis
+Existem bebidas disponíveis
+Existem armas reparáveis
+Existem armaduras reparáveis
+Tipo de batalha
+Retorna verdadeiro quando o tipo de batalha for {0}
+Método de cultivo realizado
+Retorna verdadeiro quando {0} tiver realizado o método de cultivo
+Método de cultivo específico realizado
+Retorna verdadeiro quando {0} realizar o método de cultivo {1} {2}
+Defesa realizada
+Retorna verdadeiro quando {0} tiver ativado a defesa
+Defesa específica realizada
+Retorna verdadeiro quando {0} tiver ativado a defesa {1} {2}
 Taiwu
-仅自身为太吾时返回真值
-伤势标记
-当 {0} {2} {3} 伤标记不低于 {1} 个时返回真值
-破绽标记
-当 {0} {2} 破绽标记不低于 {1} 个时返回真值
-封穴标记
-当 {0} {2} 封穴标记不低于 {1} 个时返回真值
-毒素标记
-当 {0} {2} 标记不低于 {1} 个时返回真值
-失神标记
-当 {0} 失神标记不低于 {1} 个时返回真值
-重创标记
-当 {0} 重创标记不低于 {1} 个时返回真值
-必死标记
-当 {0} 必死标记不低于 {1} 个时返回真值
-内息标记
-当 {0} 内息标记不低于 {1} 个时返回真值
-状态标记
-当 {0} 状态标记不低于 {1} 个时返回真值
-健康标记
-当 {0} 健康标记不低于 {1} 个时返回真值
-若蛊标记
-当 {0} 有 {1} 且 {2} 的 {3} 蛊时返回真值
-成蛊标记
-当 {0} 有 {1} 成蛊时返回真值
-王蛊标记
-当 {0} 有 {1} 王蛊时返回真值
-真气标记
-当 {0} {1} 真气不低于 {2}% 时返回真值
-功法效果
-当 {0} 功法 {1} {2} 有 {3} 层效果时返回真值
-脚力值
-当 {1} 脚力值不低于 {0}% 时返回真值
-疲怠中
-弃用条件，当前会始终返回假值
-精纯
-当角色为太吾或 {0} 精纯值不低于 {1} 时返回真值
-阶段
-当战斗阶段不低于 {0} 时返回真值（首个阶段为零）
-式槽
-当 {0} 式槽中 {1} 式数量不低于 {2} 个时返回真值
-可切换至索引兵器
-当索引为 {0} 的兵器可被切换时返回真值
-可切换至特定兵器
-当存在可切换的兵器 {0} 时返回真值
-可切换至兵器类型
-当存在可切换的 {0} 类兵器时返回真值
-当前兵器
-当 {0} 兵器为 {1} 时返回真值
-当前兵器类型
-当 {0} 兵器类型为 {1} 时返回真值
-Internal energy type
-当 {0} 内力属性五行为 {1} 时返回真值
-所有标记
-当 {0} 所有标记不低于 {1} 个时返回真值
-所有内外标记
-当 {0} 所有部位 {2} 伤标记不低于 {1} 个时返回真值
-所有伤势标记
-当 {0} 所有部位伤势标记不低于 {1} 个时返回真值
-所有破绽标记
-当 {0} 所有部位破绽标记不低于 {1} 个时返回真值
-所有封穴标记
-当 {0} 所有部位封穴标记不低于 {1} 个时返回真值
-记忆内大于
-当记忆中 {0} 对应值大于 {1} 对应值时返回真值
-记忆内小于
-当记忆中 {0} 对应值小于 {1} 对应值时返回真值
-记忆等于施展
-当记忆中 {0} 对应值与 {1} 正在施展的功法相同时返回真值
-攻击范围边缘大于
-当 {0} 攻击范围 {1} 边缘大于另一方攻击范围相同边缘时返回真值
-攻击范围边缘小于
-当 {0} 攻击范围 {1} 边缘小于另一方攻击范围相同边缘时返回真值
-上次普攻被化解
-上次普攻为当前武器，且首次攻击或追击被化解时返回真值
-当前兵器索引
-当 {0} 兵器索引为 {1} 时返回真值
-正在施展正逆功法
-{0} 正在施展功法 {1} {2}
-可施展特定功法
-自身可施展功法 {0} 时返回真值
-可施展正逆功法
-自身可施展功法 {0} 且该功法为 {1} 时返回真值
-增益状态强度
-当 {1} 存在名称为 {0} 的增益状态且总强度不低于 {2} 时返回真值
-损害状态强度
-当 {1} 存在名称为 {0} 的损害状态且总强度不低于 {2} 时返回真值
-特殊状态强度
-当 {1} 存在名称为 {0} 的特殊状态且总强度不低于 {2} 时返回真值
-处于记忆功法范围
-当前距离 +{2} 处于 {1} 记忆中 {0} 对应值施展范围时返回真值
-可施展记忆功法
-自身可施展记忆中 {0} 时返回真值
-当前距离等于
-当前距离等于 {0} 时返回真值
-当前距离大于
-当前距离大于 {0} 时返回真值
-当前距离小于
-当前距离小于 {0} 时返回真值
-上次普攻落空
-上次落空的普攻为当前武器，且未进行攻击时返回真值
+Retorna verdadeiro apenas quando o personagem for Taiwu
+Marca de lesão
+Retorna verdadeiro quando {0} {2} {3} tiver marca de lesão maior ou igual a {1}
+Marca de falha
+Retorna verdadeiro quando {0} {2} falha maior ou igual a {1}
+Marca de bloqueio
+Retorna verdadeiro quando {0} {2} bloqueios maior ou igual a {1}
+Marca de veneno
+Retorna verdadeiro quando {0} {2} marcas de veneno forem maiores ou iguais a {1}
+Marca de desmaio
+Retorna verdadeiro quando {0} tiver marca de desmaio maior ou igual a {1}
+Marca de ferimento grave
+Retorna verdadeiro quando {0} tiver marca de ferimento grave maior ou igual a {1}
+Marca de morte certa
+Retorna verdadeiro quando {0} tiver marca de morte certa maior ou igual a {1}
+Marca de energia interna
+Retorna verdadeiro quando {0} tiver marca de energia interna maior ou igual a {1}
+Marca de estado
+Retorna verdadeiro quando {0} tiver marca de estado maior ou igual a {1}
+Marca de saúde
+Retorna verdadeiro quando {0} tiver marca de saúde maior ou igual a {1}
+Marca de inseto
+Retorna verdadeiro quando {0} possuir {1} e {2} do inseto {3}
+Marca de transformação de inseto
+Retorna verdadeiro quando {0} possuir {1} transformação de inseto
+Marca de inseto rei
+Retorna verdadeiro quando {0} possuir {1} inseto rei
+Marca de energia verdadeira
+Retorna verdadeiro quando {0} {1} de energia verdadeira for maior ou igual a {2}%
+Efeito do método de cultivo
+Retorna verdadeiro quando o método de cultivo {0} {1} {2} tiver {3} camadas de efeito
+Valor de passo
+Retorna verdadeiro quando o valor de passo {1} for maior ou igual a {0}%
+Exaustão
+Condição desativada, sempre retornará falso
+Pureza
+Retorna verdadeiro quando o personagem for Taiwu ou {0} tiver pureza maior ou igual a {1}
+Fase
+Retorna verdadeiro quando a fase de batalha for maior ou igual a {0} (a primeira fase é zero)
+Espaço para estilo
+Retorna verdadeiro quando o número de estilos no espaço {0} for maior ou igual a {2}
+Arma alternável por índice
+Retorna verdadeiro quando a arma no índice {0} puder ser trocada
+Arma alternável específica
+Retorna verdadeiro quando existir uma arma alternável {0}
+Arma alternável por tipo
+Retorna verdadeiro quando existir uma arma do tipo {0} que possa ser trocada
+Arma atual
+Retorna verdadeiro quando a arma {0} for {1}
+Tipo de arma atual
+Retorna verdadeiro quando o tipo de arma {0} for {1}
+Tipo de energia interna
+Retorna verdadeiro quando a energia interna do atributo {0} for {1}
+Todas as marcas
+Retorna verdadeiro quando todas as marcas de {0} forem maiores ou iguais a {1}
+Todas as marcas internas e externas
+Quando todos os locais de {0} tiverem {2} marcas de ferimento não menores que {1}, retorna verdadeiro
+Todas as marcas de ferimento
+Quando todos os locais de {0} tiverem marcas de ferimento não menores que {1}, retorna verdadeiro
+Todas as marcas de vulnerabilidade
+Quando todos os locais de {0} tiverem marcas de vulnerabilidade não menores que {1}, retorna verdadeiro
+Todas as marcas de bloqueio de pontos vitais
+Quando todos os locais de {0} tiverem marcas de bloqueio de pontos vitais não menores que {1}, retorna verdadeiro
+Memória maior que
+Quando o valor correspondente de {0} na memória for maior que o valor correspondente de {1}, retorna verdadeiro
+Memória menor que
+Quando o valor correspondente de {0} na memória for menor que o valor correspondente de {1}, retorna verdadeiro
+Memória igual à execução
+Quando o valor correspondente de {0} na memória for igual ao método de cultivo {1} em execução, retorna verdadeiro
+Borda do alcance de ataque maior
+Quando a borda do alcance de ataque {1} de {0} for maior que a borda correspondente no alcance de ataque do oponente, retorna verdadeiro
+Borda do alcance de ataque menor
+Quando a borda do alcance de ataque {1} de {0} for menor que a borda correspondente no alcance de ataque do oponente, retorna verdadeiro
+Último ataque normal desviado
+Se o último ataque normal for com a arma atual e o ataque inicial ou sequência for desviado, retorna verdadeiro
+Índice da arma atual
+Quando o índice da arma {0} for {1}, retorna verdadeiro
+Executando técnicas de cultivo regulares ou inversas
+{0} está executando a técnica de cultivo {1} {2}
+Pode executar uma técnica específica
+Quando for possível executar a técnica de cultivo {0}, retorna verdadeiro
+Pode executar técnicas regulares ou inversas
+Quando for possível executar a técnica de cultivo {0} e a técnica for {1}, retorna verdadeiro
+Intensidade do estado benéfico
+Quando existir um estado benéfico chamado {0} e sua intensidade total não for menor que {2}, retorna verdadeiro
+Intensidade do estado prejudicial
+Quando existir um estado prejudicial chamado {0} e sua intensidade total não for menor que {2}, retorna verdadeiro
+Intensidade do estado especial
+Quando existir um estado especial chamado {0} e sua intensidade total não for menor que {2}, retorna verdadeiro
+Dentro do alcance de memória da técnica
+Quando a distância atual +{2} estiver dentro do alcance de execução da técnica correspondente de {0} na memória, retorna verdadeiro
+Pode executar técnica de memória
+Quando for possível executar a técnica de memória {0}, retorna verdadeiro
+Distância atual igual
+Quando a distância atual for igual a {0}, retorna verdadeiro
+Distância atual maior
+Quando a distância atual for maior que {0}, retorna verdadeiro
+Distância atual menor
+Quando a distância atual for menor que {0}, retorna verdadeiro
+Último ataque normal falhou
+Quando o último ataque normal falhou com a arma atual e nenhum ataque foi realizado, retorna verdadeiro

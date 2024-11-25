@@ -1,19 +1,19 @@
-Parents
-Sworn Siblings
-Spouse
-Children
-Faction
-Enemy
-Friend
-Adore
-Master
-Siblings
-血亲父母
-血亲子女
-血亲手足
-继亲父母
-继亲子女
-继亲手足
-义亲父母
-义亲子女
-义亲手足
+Pais
+Irmãos Jurados
+Cônjuge
+Filhos
+Facção
+Inimigo
+Amigo
+Adorado
+Mestre
+Irmãos
+Pais Consanguíneos
+Filhos Consanguíneos
+Irmãos Consanguíneos
+Pais Afins
+Filhos Afins
+Irmãos Afins
+Pais Juramentados
+Filhos Juramentados
+Irmãos Juramentados

@@ -1,9 +1,9 @@
-None
+Nenhum
 
 
 
 
-Heartless
+Sem Coração
 
 
 
@@ -40,47 +40,47 @@ Heartless
 
 
 
-Heir·Taiwu
+Herdeiro·Taiwu
 
 
 
 
-V·Head
+Chefe·V
 
 
 
 
-Tomb Guard
+Guardião do Túmulo
 
 
 
 
-Academic
+Acadêmico
 
 
 
 
-Merchant
+Comerciante
 
 
 
 
-Doctor
+Doutor
 
 
 
 
-Craftsman
+Artesão
 
 
 
 
-Farmer
+Fazendeiro
 
 
 
 
-Villager
+Morador
 
 
 
@@ -90,7 +90,7 @@ Inferno
 
 
 
-DemonLord
+Senhor Demônio
 
 
 
@@ -100,134 +100,134 @@ D·General
 
 
 
-Enormity
+Monstruosidade
 
 
 
 
-Sinfulness
+Pecaminosidade
 
 
 
 
-Villain
+Vilão
 
 
 
 
-Evildoer
+Malfeitor
 
 
 
 
-Dishonor
+Desonra
 
 
 
 
-Bully
+Intimidador
 
 
 
 
-Recluse
+Recluso
 
 
 
 
-Legendary
+Lendário
 
 
 
 
-Warrior
+Guerreiro
 
 
 
 
-Sergeant
+Sargento
 
 
 
 
-Guardian
+Guarda
 
 
 
 
-Escort
+Escolta
 
 
 
 
-Chivalrous
+Cavalheiresco
 
 
 
 
-J·Warrior
+J·Guerreiro
 
 
 
 
-Righteous
+Justo
 
 
 
 
-Hell Master
+Mestre do Inferno 
 
 
 
 
-God·S
+Deus·S
 
 
 
 
-The·C
+O·C
 
 
 
 
-The·FN
+O·FN
 
 
 
 
-A·Sinster
+Um·Sinistro
 
 
 
 
-EvilUprise
+Ascensão do Mal
 
 
 
 
-FoulVisage
+Rosto Imundo
 
 
 
 
-Demoniac
+Demoníaco
 
 
 
 
-Corrupted
+Corrompido
 
 
 
 
-Chief·A
+Chefe·A
 Zen·M
 
 
-Elder·A
+Ancião·A
 
 
-Abbot
+Abade
 
 
 18·Arhats
@@ -235,12 +235,12 @@ Abbot
 
 
 
-Observer
+Observador
 
 
 
 
-BodhiHall
+Salão Bodhi
 
 
 
@@ -250,7 +250,7 @@ Prajna·H
 
 
 
-ArhatHall
+Salão Arhat
 
 
 
@@ -260,22 +260,22 @@ Bhikkhu
 
 
 
-S·Master
-SeniorNun
-Master
+S·Mestre
+Freira Sênior
+Mestre
 Madame·M
-Sir·M
+Senhor·M
 
 
-Head·D
+Chefe·D
 
 
-Direct·D
+Direto·D
 
 
 
 
-Lineal·D
+Linear·D
 
 
 
@@ -285,7 +285,7 @@ Formal·N
 
 
 
-Novice
+Novato
 
 
 
@@ -295,32 +295,32 @@ Formal·A
 
 
 
-Audience
+Audiência
 
 
 
 
-Valley·L
+Vale·L
 
 
 Madame·VL
-Sir·VL
-CaseHolder
+Senhor·VL
+Detentor do Caso
 
 
 
 
-DeerEnvoy
+Emissário do Cervo
 
 
 
 
-GoodHand
+Boa Mão
 
 
 
 
-RedCase·D
+Caso Vermelho·D
 
 
 
@@ -330,27 +330,27 @@ Jade·CD
 
 
 
-Gold·CD
+Ouro·CD
 
 
 
 
-Flower·CD
+Flor·CD
 
 
 
 
-Deerherd
+Rebanho de Cervos
 
 
 
 
-Pure·One
+Puro·Um
 Madame·M
-V·Leader
-Taoism·Priest
-Miss·VL
-Sir·VL
+Líder·V
+Sacerdote Taoista
+Senhorita·VL
+Senhor·VL
 
 
 
@@ -362,7 +362,7 @@ ZhenWu·D
 
 
 
-Cloud·D
+Nuvem·D
 
 
 
@@ -372,115 +372,115 @@ TaiHe·D
 
 
 
-Guide·P
+Guia·P
 
 
 
 
-Amateur
+Amador
 
 
 
 
-G·Master
+G·Mestre
 
 
 Madame·GM
-Sir·GM
+Senhor·GM
 
 
 
 
-Exorciser
+Exorcista
 
 
 
 
-Preacher
+Pregador
 
 
 
 
-Friar
+Frade
 
 
 
 
-Vanguard
+Vanguarda
 
 
 
 
-Guard
+Guarda
 
 
 
 
-Novice
+Novato
 
 
 
 
-Follower
+Seguidor
 
 
 
 
-GreatAlpha
+Grande Alfa
 
 
 Madame·A
-Sir·Alpha
-GreatBeta
+Senhor·Alfa
+Grande Beta
 
 
 Madame·B
-Sir·Beta
-RageAlpha
+Senhor·Beta  
+Alfa Furioso
 
 
 Madame·RA
-Sir·RA
-ProudAlpha
+Senhor·RA
+Alfa Orgulhoso
 
 
 Madame·PA
-Sir·PA
-Slumber·A
+Senhor·PA
+Alfa Adormecido
 
 
-Madame·SA
-Sir·SA
-RageLion
-
-
-
-
-ProudLion
+Madame·SA  
+Senhor·SA
+Leão Furioso
 
 
 
 
-Slumber·L
+Leão Orgulhoso
 
 
 
 
-Cub
+Adormecido·L
 
 
 
 
-Lord Qinglang
+Filhote
+
+
+
+
+Senhor Qinglang
 Zi
-Uncle·M
+Tio·M
 Celestial
 
 
-Guardian
+Guardião
 
 
-Successor
+Sucessor
 
 
 
@@ -500,46 +500,12 @@ YY·Ranger
 
 
 
-SwordBearer
+Portador da Espada
 
 
 
 
-Wanderer
-
-
-
-
-
-
-
-
-G·Mistress
-
-
-
-
-Feather·E
-
-
-
-
-SilkEnvoy
-
-
-
-
-JadeGuard
-
-
-
-
-SkyMelody
-
-
-
-
-Disciple
+Errante
 
 
 
@@ -548,7 +514,41 @@ Disciple
 
 
 
-Servant
+G·Senhora
+
+
+
+
+Plumas·E
+
+
+
+
+Envoy de Seda
+
+
+
+
+Guarda de Jade
+
+
+
+
+Melodia Celestial
+
+
+
+
+Discípulo
+
+
+
+
+
+
+
+
+Servente
 
 
 
@@ -557,50 +557,50 @@ Manor·M
 
 
 Madame·M
-Sir·Manor
-M·Smith
+Senhor·Manor  
+M·Ferreiro
 
 
 
 
-Sky·Smith
+Ferreiro Celeste
 
 
 
 
-Mystic·S
+Místico·S
 
 
 
 
-Treasure·S
+Tesouro·S
 
 
 
 
-Season·S
+Estação·S
 
 
 
 
-Bamboo·S
+Bambu·S
 
 
 
 
-Novice
+Novato
 
 
 
 
-Stoker
+Fogareiro
 
 
 
 
 
 
-HerbKing
+Rei das Ervas
 
 
 
@@ -609,67 +609,67 @@ HerbKing
 
 
 
-Dragonor
+Dragônico
 
 
 
 
-Head·D
+Chefe·D
 
 
 
 
-Furnance·H
+Fornalha·H
 
 
 
 
-DragonHall
+Salão do Dragão
 
 
 
 
-ProbeHall
+Salão da Sonda
 
 
 
 
-Apprentice
+Aprendiz
 
 
 
 
-LawKing
+Rei da Lei
 
 
 
 
-WisdomKing
+Rei da Sabedoria
 
 
 
 
-Elder
+Ancião
 
 
 
 
-Gardian
+Guardião
 
 
 
 
-Fighter
+Lutador
 
 
 
 
-SilentHall
+Salão Silencioso
 
 
 
 
-VajraHall
+Salão Vajra
 
 
 
@@ -679,127 +679,127 @@ Rakshasa·H
 
 
 
-Labor
+Trabalho
 
 
 
 
-Hierarch
+Hierarca
 
 
 
 
-Saint
+Santo
 
 
 
 
-Counsellor
+Conselheiro
 
 
 
 
-Patriach
+Patriarca
 
 
 
 
-Brooder
+Procriados
 
 
 
 
-VenomEnvoy
+Envoy do Veneno
 
 
 
 
-BrooderCrew
+Tripulação Procriadora
 
 
 
 
-VenomCrew
+Tripulação do Veneno
 
 
 
 
-Cultist
+Cultista
 
 
 
 
-DarkLord
+Senhor das Trevas
 
 
-Minor·L
-Major·L
-Shadowless
+Menor·L
+Maior·L
+Sem Sombra
 
 
 
 
-SevenStar
+Sete Estrelas
 
 
 
 
-ArchCulprit
+ArquiCulpado
 
 
 
 
-DeathSworn
+Jurado à Morte
 
 
 
 
-Killer
+Assassino
 
 
 
 
-Gatekeeper
+Porteiro
 
 
 
 
-Guide
+Guia
 
 
 
 
-OuterGate
+Portão Externo
 
 
 
 
-IslandLord
+Senhor da Ilha
 
 
 Madame·A
-Sir·Altar
-ViceLord
+Senhor·Altar
+Vice-Lorde
 
 
 Madame·VA
-Sir·VA
-DragonElder
+Senhor·VA
+Dragão Ancião
 
 
 
 
-Flowing Fire Emissary
+Emissário do Fogo Fluido
 
 
 
 
-Seawatcher
+Observador do Mar
 
 
 
 
-Titled·D
+Nomeado·D
 
 
 
@@ -808,12 +808,12 @@ Titled·D
 
 
 
-Outer·D
+Externo·D
 
 
 
 
-Islander
+Ilhéu
 
 
 
@@ -821,27 +821,27 @@ Islander
 
 
 Madame·H
-Sir·H
-V·Hierarch
+Senhor·H
+V·Hierarca
 
 
 Madame·VH
-Sir·VH
+Senhor·VH
 
 
 
 
-Messenger
+Mensageiro
 
 
 
 
-Protector
+Protetor
 
 
 
 
-BloodChild
+Filho do Sangue
 
 
 
@@ -855,27 +855,22 @@ Elite
 
 
 
-Servant
+Servente
 
 
 
 
-Mayor
+Prefeito
 
 
 Madame·M
-Sir·Mayor
-Official
+Senhor·Prefeito
+Oficial
 
 
 
 
-Rich
-
-
-
-
-
+Rico
 
 
 
@@ -887,17 +882,22 @@ Rich
 
 
 
-Artisan
 
 
 
 
-Poor
+
+Artesão
 
 
 
 
-Beggar
+Pobre
+
+
+
+
+Mendigo
 
 
 
@@ -905,7 +905,7 @@ Beggar
 
 
 Madame·E
-Sir·Elder
+Senhor·Ancião
 
 
 
@@ -938,11 +938,11 @@ Sir·Elder
 
 
 
-TownChief
+Chefe da Cidade
 
 
 Madame·TC
-Sir·TC
+Senhor·TC
 
 
 
@@ -975,16 +975,16 @@ Sir·TC
 
 
 
-Castellan
+Castelão
 
 
 Madame
-Sir
+Senhor
 Vice·C
 
 
 Madame·VC
-Sir·VC
+Senhor·VC
 
 
 
