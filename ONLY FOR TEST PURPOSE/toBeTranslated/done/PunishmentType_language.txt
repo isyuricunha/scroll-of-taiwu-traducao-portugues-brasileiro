@@ -1,312 +1,312 @@
-其它
-强制送监
+Outros  
+Envio Forçado para Supervisão  
 
-Killing a person with a reputation
-戕害无辜
-公开杀害名誉为默默无闻或亦正亦邪的人物
-Killing people of ill repute
-杀害奸邪
-公开杀害名誉低于默默无闻的人物
-Killing people of high reputation
-戕害贤良
-公开杀害名誉高于默默无闻的人物
-Imprisonment of notorious people
-关押无辜
-公开关押名誉为默默无闻或亦正亦邪的人物
-Imprisonment of persons of ill repute
-关押奸邪
-公开关押名誉低于默默无闻的人物
-Guarding people of high reputation
-关押贤良
-公开关押名誉高于默默无闻的人物
-Killing fellow disciples
+Matar uma pessoa de reputação neutra  
+Assassinato de Inocentes  
+Assassinar publicamente uma pessoa com reputação de "Desconhecido" ou "Neutro"  
+Matar pessoas de má reputação  
+Assassinato de Vilões  
+Assassinar publicamente uma pessoa com reputação inferior a "Desconhecido"  
+Matar pessoas de boa reputação  
+Assassinato de Virtuosos  
+Assassinar publicamente uma pessoa com reputação superior a "Desconhecido"  
+Prisão de pessoas de má reputação  
+Prisão de Inocentes  
+Prender publicamente uma pessoa com reputação de "Desconhecido" ou "Neutro"  
+Prisão de pessoas de má reputação  
+Prisão de Vilões  
+Prender publicamente uma pessoa com reputação inferior a "Desconhecido"  
+Prisão de pessoas de boa reputação  
+Prisão de Virtuosos  
+Prender publicamente uma pessoa com reputação superior a "Desconhecido"  
+Assassinato de colegas discípulos  
 
-Locking up fellow disciples
+Prisão de colegas discípulos  
 
-Love affair
+Caso amoroso  
 
-Grave robbing
-从坟墓中盗取道具或资源
-Theft of property
-窃取他人的道具或资源
-Scamming others
-唬骗他人的道具或资源
-Robbery of property
-夺取他人的道具或资源
-Poisoning others
-对他人施以毒害
-Assassination of others
-暗中损伤他人
-Poisoning fellow disciples
-对同门派的人物施以毒害
-Injuring fellow disciples
-暗中损伤同门派的人物
-Skill theft
+Saquear tumbas  
+Roubar itens ou recursos de um túmulo  
+Furto de propriedades  
+Roubar itens ou recursos de outra pessoa  
+Enganar outros  
+Fraudar para obter itens ou recursos de outra pessoa  
+Roubo de propriedades  
+Tomar itens ou recursos de outra pessoa  
+Envenenar outros  
+Aplicar veneno em outra pessoa  
+Assassinar outros  
+Ferir secretamente outra pessoa  
+Envenenar colegas discípulos  
+Aplicar veneno em membros do mesmo clã  
+Ferir colegas discípulos  
+Ferir secretamente membros do mesmo clã  
+Roubo de técnicas  
 
-Hardening of items
-淬毒物品
-对物品进行淬毒
-Breaking the diet
+Fortificação de itens  
+Item Envenenado  
+Aplicar veneno em um item  
+Quebra de dieta  
 
-Involved by spouse
-受人牵连
+Envolvimento pelo cônjuge  
+Envolvido por outra pessoa  
 
-Secret killing of others
-秘密杀害
-Secret detention of others
-秘密关押
-Befriending Shaolin disciples
-与敌结交
-与少林派人物结为好友
-Befriending Emei School disciples
-与峨眉派人物结为好友
-Befriend with the disciples of Hundred Flowers Valley
-与百花谷人物结为好友
-Befriending the disciples of the Wudang Sect
-与武当派人物结为好友
-Befriending a disciple of the Yuanshan Sect
-与元山派人物结为好友
-Befriending a disciple of the Lion-Face Clan
-与狮相门人物结为好友
-Befriending the disciples of Ranshan Sect
-与然山派人物结为好友
-Befriending the disciples of XuanNyu Sect
-与璇女派人物结为好友
-Befriend the disciples of Sword Manor
-与铸剑山庄人物结为好友
-Befriending a disciple of the KongSang Sect
-与空桑派人物结为好友
-Befriending the disciples of Vajrayana
-与金刚宗人物结为好友
-Befriending the disciples of the Five Immortals Cult
-与五仙教人物结为好友
-Befriending the disciples of JieQing Gate
-与界青门人物结为好友
-Befriending the disciples of Fulong Altar
-与伏龙坛人物结为好友
-Befriending a disciple of the Bloodhound Cult
-与血犼教人物结为好友
-Forced to skip turn during Debates
-Forced to skip turn
-在较艺中对他人采用“迫使不语”
-XS·Possessed
-拥有特性“相枢化魔”
-关押期间逃离监狱
-逃离监牢
-在关押期间逃离监牢
-敌对门派人物
-敌对人物
-从属于敌对门派势力
-势力内人物仇敌
-仇敌人物
-与本门派人物结下仇怨
-违反门规生下孩子
-与他人生育子女
-身为出家弟子，与他人生育子女
-身为显要人物，与他人生育子女
-违反门规两情相悦
-与他人两情相悦
-身为出家弟子，与他人两情相悦
-身为显要人物，与他人两情相悦
-违反门规共结连理
-与他人共结连理
-身为出家弟子，与他人共结连理
-身为显要人物，与他人共结连理
-违反门规非法春宵
-与他人私度春宵
-身为出家弟子，与他人私度春宵
-身为显要人物，与他人私度春宵
-违反门规情难自禁
-由于情难自禁，以卑劣手段欺辱他人
-身为出家弟子，情难自禁，以卑劣手段欺辱他人
-身为显要人物，情难自禁，以卑劣手段欺辱他人
-违反门规与人约会
-与他人邀约聚会
-身为出家弟子，与他人邀约聚会
-身为显要人物，与他人邀约聚会
-非法春宵
-情难自禁
-与少林派弟子结为伴侣
-与少林派人物两情相悦
-与峨眉派弟子结为伴侣
-与峨眉派人物两情相悦
-与百花谷弟子结为伴侣
-与百花谷人物两情相悦
-与武当派弟子结为伴侣
-与武当派人物两情相悦
-与元山派弟子结为伴侣
-与元山派人物两情相悦
-与狮相门弟子结为伴侣
-与狮相门人物两情相悦
-与然山派弟子结为伴侣
-与然山派人物两情相悦
-与璇女派弟子结为伴侣
-与璇女派人物两情相悦
-与铸剑山庄弟子结为伴侣
-与铸剑山庄人物两情相悦
-与空桑派弟子结为伴侣
-与空桑派人物两情相悦
-与金刚宗弟子结为伴侣
-与金刚宗人物两情相悦
-与五仙教弟子结为伴侣
-与五仙教人物两情相悦
-与界青门弟子结为伴侣
-与界青门人物两情相悦
-与伏龙坛弟子结为伴侣
-与伏龙坛人物两情相悦
-与血犼教弟子结为伴侣
-与血犼教人物两情相悦
-与少林派弟子结义
-与少林派人物义结金兰
-与峨眉派弟子结义
-与峨眉派人物义结金兰
-与百花谷弟子结义
-与百花谷人物义结金兰
-与武当派弟子结义
-与武当派人物义结金兰
-与元山派弟子结义
-与元山派人物义结金兰
-与狮相门弟子结义
-与狮相门人物义结金兰
-与然山派弟子结义
-与然山派人物义结金兰
-与璇女派弟子结义
-与璇女派人物义结金兰
-与铸剑山庄弟子结义
-与铸剑山庄人物义结金兰
-与空桑派弟子结义
-与空桑派人物义结金兰
-与金刚宗弟子结义
-与金刚宗人物义结金兰
-与五仙教弟子结义
-与五仙教人物义结金兰
-与界青门弟子结义
-与界青门人物义结金兰
-与伏龙坛弟子结义
-与伏龙坛人物义结金兰
-与血犼教弟子结义
-与血犼教人物义结金兰
-与少林派弟子结为义亲
-拜认少林派人物为义父母
-与峨眉派弟子结为义亲
-拜认峨眉派人物为义父母
-与百花谷弟子结为义亲
-拜认百花谷人物为义父母
-与武当派弟子结为义亲
-拜认武当派人物为义父母
-与元山派弟子结为义亲
-拜认元山派人物为义父母
-与狮相门弟子结为义亲
-拜认狮相门人物为义父母
-与然山派弟子结为义亲
-拜认然山派人物为义父母
-与璇女派弟子结为义亲
-拜认璇女派人物为义父母
-与铸剑山庄弟子结为义亲
-拜认铸剑山庄人物为义父母
-与空桑派弟子结为义亲
-拜认空桑派人物为义父母
-与金刚宗弟子结为义亲
-拜认金刚宗人物为义父母
-与五仙教弟子结为义亲
-拜认五仙教人物为义父母
-与界青门弟子结为义亲
-拜认界青门人物为义父母
-与伏龙坛弟子结为义亲
-拜认伏龙坛人物为义父母
-与血犼教弟子结为义亲
-拜认血犼教人物为义父母
-收养少林派人物为义子女
-收养峨眉派人物为义子女
-收养百花谷人物为义子女
-收养武当派人物为义子女
-收养元山派人物为义子女
-收养狮相门人物为义子女
-收养然山派人物为义子女
-收养璇女派人物为义子女
-收养铸剑山庄人物为义子女
-收养空桑派人物为义子女
-收养金刚宗人物为义子女
-收养五仙教人物为义子女
-收养界青门人物为义子女
-收养伏龙坛人物为义子女
-收养血犼教人物为义子女
-与少林派弟子约会
-与少林派人物邀约聚会
-与峨眉派弟子约会
-与峨眉派人物邀约聚会
-与百花谷弟子约会
-与百花谷人物邀约聚会
-与武当派弟子约会
-与武当派人物邀约聚会
-与元山派弟子约会
-与元山派人物邀约聚会
-与狮相门弟子约会
-与狮相门人物邀约聚会
-与然山派弟子约会
-与然山派人物邀约聚会
-与璇女派弟子约会
-与璇女派人物邀约聚会
-与铸剑山庄弟子约会
-与铸剑山庄人物邀约聚会
-与空桑派弟子约会
-与空桑派人物邀约聚会
-与金刚宗弟子约会
-与金刚宗人物邀约聚会
-与五仙教弟子约会
-与五仙教人物邀约聚会
-与界青门弟子约会
-与界青门人物邀约聚会
-与伏龙坛弟子约会
-与伏龙坛人物邀约聚会
-与血犼教弟子约会
-与血犼教人物邀约聚会
-寻回从属少林派的子女
-寻回从属于少林派的子女
-寻回从属峨眉派的子女
-寻回从属于峨眉派的子女
-寻回从属百花谷的子女
-寻回从属于百花谷的子女
-寻回从属武当派的子女
-寻回从属于武当派的子女
-寻回从属元山派的子女
-寻回从属于元山派的子女
-寻回从属狮相门的子女
-寻回从属于狮相门的子女
-寻回从属然山派的子女
-寻回从属于然山派的子女
-寻回从属璇女派的子女
-寻回从属于璇女派的子女
-寻回从属铸剑山庄的子女
-寻回从属于铸剑山庄的子女
-寻回从属空桑派的子女
-寻回从属于空桑派的子女
-寻回从属金刚宗的子女
-寻回从属于金刚宗的子女
-寻回从属五仙教的子女
-寻回从属于五仙教的子女
-寻回从属界青门的子女
-寻回从属于界青门的子女
-寻回从属伏龙坛的子女
-寻回从属于伏龙坛的子女
-寻回从属血犼教的子女
-寻回从属于血犼教的子女
-公开杀害同门
-公开杀害同门派的人物
-公开关押同门
-公开关押同门派的人物
-秘密杀害同门
-秘密杀害同门派的人物
-秘密关押同门
-秘密关押同门派的人物
-窃取技艺
-窃取他人的技艺
-Scamming Life Skills
-骗取他人的技艺
-Steal Martial Art
-窃取他人的武学
-Scam Martial Art
-骗取他人的武学
-食用荤食
-食用酒食
-作为出家人，食用酒食或者荤食
+Assassinato secreto de outros  
+Assassinar em segredo  
+Detenção secreta de outros  
+Prender em segredo  
+Fazer amizade com discípulos de Shaolin  
+Fazer amizade com inimigos  
+Tornar-se amigo de membros da Escola Shaolin  
+Fazer amizade com discípulos da Escola Emei  
+Tornar-se amigo de membros da Escola Emei  
+Fazer amizade com discípulos do Vale das Cem Flores  
+Tornar-se amigo de membros do Vale das Cem Flores  
+Fazer amizade com discípulos da Seita Wudang  
+Tornar-se amigo de membros da Seita Wudang  
+Fazer amizade com discípulos da Seita Yuanshan  
+Tornar-se amigo de membros da Seita Yuanshan  
+Fazer amizade com discípulos do Clã Rosto de Leão  
+Tornar-se amigo de membros do Clã Rosto de Leão  
+Fazer amizade com discípulos da Seita Ranshan  
+Tornar-se amigo de membros da Seita Ranshan  
+Fazer amizade com discípulos da Seita Xuannyu  
+Tornar-se amigo de membros da Seita Xuannyu  
+Fazer amizade com discípulos da Mansão da Espada  
+Tornar-se amigo de membros da Mansão da Espada  
+Fazer amizade com discípulos da Seita Kongsang  
+Tornar-se amigo de membros da Seita Kongsang  
+Fazer amizade com discípulos do Vajrayana  
+Tornar-se amigo de membros do Vajrayana  
+Fazer amizade com discípulos da Seita dos Cinco Imortais  
+Tornar-se amigo de membros da Seita dos Cinco Imortais  
+Fazer amizade com discípulos do Portão Jieqing  
+Tornar-se amigo de membros do Portão Jieqing  
+Fazer amizade com discípulos do Altar Fulong  
+Tornar-se amigo de membros do Altar Fulong  
+Fazer amizade com discípulos da Seita Bloodhound  
+Tornar-se amigo de membros da Seita Bloodhound  
+Forçado a pular turno durante debates  
+Forçado a pular turno  
+Usar "Forçar Silêncio" durante um duelo  
+XS·Possuído  
+Possui a característica "Transformação Xiangshu"  
+Fuga durante a prisão  
+Fuga da Prisão  
+Escapar da prisão enquanto está detido  
+Membro de clã inimigo  
+Inimigo  
+Pertence a uma força ou facção inimiga  
+Inimigo dentro da facção
+Inimigos  
+Desenvolver inimizade com membros do próprio clã  
+Violar as regras do clã e ter um filho  
+Ter filhos com outra pessoa  
+Como discípulo monástico, ter filhos com outra pessoa  
+Como figura importante, ter filhos com outra pessoa  
+Violar as regras do clã e apaixonar-se  
+Apaixonar-se por outra pessoa  
+Como discípulo monástico, apaixonar-se por outra pessoa  
+Como figura importante, apaixonar-se por outra pessoa  
+Violar as regras do clã e casar-se  
+Casar-se com outra pessoa  
+Como discípulo monástico, casar-se com outra pessoa  
+Como figura importante, casar-se com outra pessoa  
+Violar as regras do clã e ter encontros íntimos  
+Ter encontros íntimos com outra pessoa  
+Como discípulo monástico, ter encontros íntimos com outra pessoa  
+Como figura importante, ter encontros íntimos com outra pessoa  
+Violar as regras do clã e cometer atos indecorosos  
+Cometer atos indecorosos contra outra pessoa por não controlar os próprios desejos  
+Como discípulo monástico, cometer atos indecorosos contra outra pessoa  
+Como figura importante, cometer atos indecorosos contra outra pessoa  
+Violar as regras do clã e marcar encontros  
+Marcar encontros com outra pessoa  
+Como discípulo monástico, marcar encontros com outra pessoa  
+Como figura importante, marcar encontros com outra pessoa  
+Encontros íntimos ilícitos  
+Desejos incontroláveis  
+Tornar-se companheiro(a) de discípulos de Shaolin  
+Apaixonar-se por membros da Escola Shaolin  
+Tornar-se companheiro(a) de discípulos da Escola Emei  
+Apaixonar-se por membros da Escola Emei  
+Tornar-se companheiro(a) de discípulos do Vale das Cem Flores  
+Apaixonar-se por membros do Vale das Cem Flores  
+Tornar-se companheiro(a) de discípulos da Seita Wudang  
+Apaixonar-se por membros da Seita Wudang  
+Tornar-se companheiro(a) de discípulos da Seita Yuanshan  
+Apaixonar-se por membros da Seita Yuanshan  
+Tornar-se companheiro(a) de discípulos do Clã Rosto de Leão  
+Apaixonar-se por membros do Clã Rosto de Leão  
+Tornar-se companheiro(a) de discípulos da Seita Ranshan  
+Apaixonar-se por membros da Seita Ranshan  
+Tornar-se companheiro(a) de discípulos da Seita Xuannyu  
+Apaixonar-se por membros da Seita Xuannyu  
+Tornar-se companheiro(a) de discípulos da Mansão da Espada  
+Apaixonar-se por membros da Mansão da Espada  
+Tornar-se companheiro(a) de discípulos da Seita Kongsang  
+Apaixonar-se por membros da Seita Kongsang  
+Tornar-se companheiro(a) de discípulos do Vajrayana  
+Apaixonar-se por membros do Vajrayana  
+Tornar-se companheiro(a) de discípulos da Seita dos Cinco Imortais  
+Apaixonar-se por membros da Seita dos Cinco Imortais  
+Tornar-se companheiro(a) de discípulos do Portão Jieqing  
+Apaixonar-se por membros do Portão Jieqing  
+Tornar-se companheiro(a) de discípulos do Altar Fulong  
+Apaixonar-se por membros do Altar Fulong  
+Tornar-se companheiro(a) de discípulos da Seita Bloodhound  
+Apaixonar-se por membros da Seita Bloodhound  
+Formar laços de irmandade com discípulos de Shaolin  
+Firmar pacto de irmandade com membros da Escola Shaolin  
+Formar laços de irmandade com discípulos da Escola Emei  
+Firmar pacto de irmandade com membros da Escola Emei  
+Formar laços de irmandade com discípulos do Vale das Cem Flores  
+Firmar pacto de irmandade com membros do Vale das Cem Flores  
+Formar laços de irmandade com discípulos da Seita Wudang  
+Firmar pacto de irmandade com membros da Seita Wudang  
+Formar laços de irmandade com discípulos da Seita Yuanshan  
+Firmar pacto de irmandade com membros da Seita Yuanshan  
+Formar laços de irmandade com discípulos do Clã Rosto de Leão  
+Firmar pacto de irmandade com membros do Clã Rosto de Leão  
+Formar laços de irmandade com discípulos da Seita Ranshan  
+Firmar pacto de irmandade com membros da Seita Ranshan  
+Formar laços de irmandade com discípulos da Seita Xuannyu  
+Firmar pacto de irmandade com membros da Seita Xuannyu  
+Formar laços de irmandade com discípulos da Mansão da Espada  
+Firmar pacto de irmandade com membros da Mansão da Espada  
+Formar laços de irmandade com discípulos da Seita Kongsang  
+Firmar pacto de irmandade com membros da Seita Kongsang  
+Formar laços de irmandade com discípulos do Vajrayana  
+Firmar pacto de irmandade com membros do Vajrayana  
+Formar laços de irmandade com discípulos da Seita dos Cinco Imortais  
+Firmar pacto de irmandade com membros da Seita dos Cinco Imortais  
+Formar laços de irmandade com discípulos do Portão Jieqing  
+Firmar pacto de irmandade com membros do Portão Jieqing  
+Formar laços de irmandade com discípulos do Altar Fulong  
+Firmar pacto de irmandade com membros do Altar Fulong  
+Formar laços de irmandade com discípulos da Seita Bloodhound  
+Firmar pacto de irmandade com membros da Seita Bloodhound  
+Tornar-se parente simbólico de discípulos de Shaolin  
+Adotar membros da Escola Shaolin como pais ou mães simbólicos  
+Tornar-se parente simbólico de discípulos da Escola Emei  
+Adotar membros da Escola Emei como pais ou mães simbólicos  
+Tornar-se parente simbólico de discípulos do Vale das Cem Flores  
+Adotar membros do Vale das Cem Flores como pais ou mães simbólicos  
+Tornar-se parente simbólico de discípulos da Seita Wudang  
+Adotar membros da Seita Wudang como pais ou mães simbólicos  
+Tornar-se parente simbólico de discípulos da Seita Yuanshan  
+Adotar membros da Seita Yuanshan como pais ou mães simbólicos  
+Tornar-se parente simbólico de discípulos do Clã Rosto de Leão  
+Adotar membros do Clã Rosto de Leão como pais ou mães simbólicos  
+Tornar-se parente simbólico de discípulos da Seita Ranshan  
+Adotar membros da Seita Ranshan como pais ou mães simbólicos  
+Tornar-se parente simbólico de discípulos da Seita Xuannyu  
+Adotar membros da Seita Xuannyu como pais ou mães simbólicos  
+Tornar-se parente simbólico de discípulos da Mansão da Espada  
+Adotar membros da Mansão da Espada como pais ou mães simbólicos  
+Tornar-se parente simbólico de discípulos da Seita Kongsang  
+Adotar membros da Seita Kongsang como pais ou mães simbólicos  
+Tornar-se parente simbólico de discípulos do Vajrayana  
+Adotar membros do Vajrayana como pais ou mães simbólicos  
+Tornar-se parente simbólico de discípulos da Seita dos Cinco Imortais  
+Adotar membros da Seita dos Cinco Imortais como pais ou mães simbólicos  
+Tornar-se parente simbólico de discípulos do Portão Jieqing  
+Adotar membros do Portão Jieqing como pais ou mães simbólicos  
+Tornar-se parente simbólico de discípulos do Altar Fulong  
+Adotar membros do Altar Fulong como pais ou mães simbólicos  
+Tornar-se parente simbólico de discípulos da Seita Bloodhound  
+Adotar membros da Seita Bloodhound como pais ou mães simbólicos  
+Adotar discípulos de Shaolin como filhos simbólicos  
+Adotar discípulos da Escola Emei como filhos simbólicos  
+Adotar discípulos do Vale das Cem Flores como filhos simbólicos  
+Adotar discípulos da Seita Wudang como filhos simbólicos  
+Adotar discípulos da Seita Yuanshan como filhos simbólicos  
+Adotar discípulos do Clã Rosto de Leão como filhos simbólicos  
+Adotar discípulos da Seita Ranshan como filhos simbólicos  
+Adotar discípulos da Seita Xuannyu como filhos simbólicos  
+Adotar discípulos da Mansão da Espada como filhos simbólicos  
+Adotar discípulos da Seita Kongsang como filhos simbólicos  
+Adotar discípulos do Vajrayana como filhos simbólicos  
+Adotar discípulos da Seita dos Cinco Imortais como filhos simbólicos  
+Adotar discípulos do Portão Jieqing como filhos simbólicos  
+Adotar discípulos do Altar Fulong como filhos simbólicos  
+Adotar discípulos da Seita Bloodhound como filhos simbólicos  
+Marcar encontro com discípulos de Shaolin  
+Marcar encontro com membros da Escola Shaolin  
+Marcar encontro com discípulos da Escola Emei  
+Marcar encontro com membros da Escola Emei  
+Marcar encontro com discípulos do Vale das Cem Flores  
+Marcar encontro com membros do Vale das Cem Flores  
+Marcar encontro com discípulos da Seita Wudang
+Participar de uma reunião com membros da Seita Wudang  
+Marcar um encontro com discípulos da Seita Yuanshan  
+Participar de uma reunião com membros da Seita Yuanshan  
+Marcar um encontro com discípulos da Seita Shixiang  
+Participar de uma reunião com membros da Seita Shixiang  
+Marcar um encontro com discípulos da Seita Ranshan  
+Participar de uma reunião com membros da Seita Ranshan  
+Marcar um encontro com discípulos da Seita Xuannv  
+Participar de uma reunião com membros da Seita Xuannv  
+Marcar um encontro com discípulos da Mansão do Forjador de Espadas  
+Participar de uma reunião com membros da Mansão do Forjador de Espadas  
+Marcar um encontro com discípulos da Seita Kongsang  
+Participar de uma reunião com membros da Seita Kongsang  
+Marcar um encontro com discípulos da Seita Jingang  
+Participar de uma reunião com membros da Seita Jingang  
+Marcar um encontro com discípulos da Seita Wuxian  
+Participar de uma reunião com membros da Seita Wuxian  
+Marcar um encontro com discípulos da Seita Jieqing  
+Participar de uma reunião com membros da Seita Jieqing  
+Marcar um encontro com discípulos do Altar Fulong  
+Participar de uma reunião com membros do Altar Fulong  
+Marcar um encontro com discípulos da Seita Xuehou  
+Participar de uma reunião com membros da Seita Xuehou  
+Resgatar filhos pertencentes à Seita Shaolin  
+Resgatar filhos que pertencem à Seita Shaolin  
+Resgatar filhos pertencentes à Seita Emei  
+Resgatar filhos que pertencem à Seita Emei  
+Resgatar filhos pertencentes ao Vale das Cem Flores  
+Resgatar filhos que pertencem ao Vale das Cem Flores  
+Resgatar filhos pertencentes à Seita Wudang  
+Resgatar filhos que pertencem à Seita Wudang  
+Resgatar filhos pertencentes à Seita Yuanshan  
+Resgatar filhos que pertencem à Seita Yuanshan  
+Resgatar filhos pertencentes à Seita Shixiang  
+Resgatar filhos que pertencem à Seita Shixiang  
+Resgatar filhos pertencentes à Seita Ranshan  
+Resgatar filhos que pertencem à Seita Ranshan  
+Resgatar filhos pertencentes à Seita Xuannv  
+Resgatar filhos que pertencem à Seita Xuannv  
+Resgatar filhos pertencentes à Mansão do Forjador de Espadas  
+Resgatar filhos que pertencem à Mansão do Forjador de Espadas  
+Resgatar filhos pertencentes à Seita Kongsang  
+Resgatar filhos que pertencem à Seita Kongsang
+Recuperar filhos pertencentes à Seita Vajra  
+Recuperar filhos que pertencem à Seita Vajra  
+Recuperar filhos pertencentes à Religião dos Cinco Imortais  
+Recuperar filhos que pertencem à Religião dos Cinco Imortais  
+Recuperar filhos pertencentes à Seita Jieqing  
+Recuperar filhos que pertencem à Seita Jieqing  
+Recuperar filhos pertencentes ao Pavilhão Fulong  
+Recuperar filhos que pertencem ao Pavilhão Fulong  
+Recuperar filhos pertencentes à Religião do Hound de Sangue  
+Recuperar filhos que pertencem à Religião do Hound de Sangue  
+Assassinar publicamente membros da mesma seita  
+Assassinar publicamente pessoas da mesma seita  
+Prender publicamente membros da mesma seita  
+Prender publicamente pessoas da mesma seita  
+Assassinar secretamente membros da mesma seita  
+Assassinar secretamente pessoas da mesma seita  
+Prender secretamente membros da mesma seita  
+Prender secretamente pessoas da mesma seita  
+Roubar habilidades  
+Roubar as habilidades de outra pessoa  
+Fraudar habilidades de vida  
+Fraudar as habilidades de outra pessoa  
+Roubar Artes Marciais  
+Roubar as artes marciais de outra pessoa  
+Fraudar Artes Marciais  
+Fraudar as artes marciais de outra pessoa  
+Consumir carne  
+Consumir álcool e carne  
+Como monge, consumir álcool ou carne
