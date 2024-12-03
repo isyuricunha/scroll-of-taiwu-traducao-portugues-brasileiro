@@ -58,10 +58,7 @@ jobs:
         id: release_notes
         run: |
           notes=$(git log --oneline --decorate --no-merges "${{ steps.taggerFinal.outputs.tag }}..${{ steps.taggerFinal.outputs.new_tag }}")
-          echo "
-                Considere fazer uma doação
-                Sua contribuição é muito importante para o desenvolvimento contínuo deste projeto.
-                ::set-output name=notes::${notes}"
+          echo "::set-output name=notes::${notes}"
 
       - name: 'Generate tag and create release'
         id: create_release
@@ -73,7 +70,6 @@ jobs:
           release_name: Release ${{ steps.taggerFinal.outputs.new_tag }}
           body: |
             ${{ steps.release_notes.outputs.notes }}
-            Considere fazer uma doação
           draft: false
 
       - name: 'Generate changelog and create release'
@@ -84,5 +80,8 @@ jobs:
           prerelease: false
           title: |
             Última versão: ${{ steps.taggerFinal.outputs.new_tag }}
+          body: |
+                Considere fazer uma doação
+                Sua contribuição é muito importante para o desenvolvimento contínuo deste projeto.
           files: |
             *
