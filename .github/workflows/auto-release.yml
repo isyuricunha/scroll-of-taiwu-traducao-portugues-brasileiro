@@ -58,7 +58,9 @@ jobs:
         id: release_notes
         run: |
           notes=$(git log --oneline --decorate --no-merges "${{ steps.taggerFinal.outputs.tag }}..${{ steps.taggerFinal.outputs.new_tag }}")
-          echo "::set-output name=notes::${notes}"
+          # Add donation message after the release notes
+          donation_message="\n\nConsidere fazer uma doação via pix: pix@yuricunha.com"
+          echo "::set-output name=notes::${notes}${donation_message}"
 
       - name: 'Generate tag and create release'
         id: create_release
@@ -80,8 +82,5 @@ jobs:
           prerelease: false
           title: |
             Última versão: ${{ steps.taggerFinal.outputs.new_tag }}
-          body: |
-                Considere fazer uma doação
-                Sua contribuição é muito importante para o desenvolvimento contínuo deste projeto.
           files: |
             *
