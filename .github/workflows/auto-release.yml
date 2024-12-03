@@ -57,12 +57,12 @@ jobs:
       - name: Generate release notes
         id: release_notes
         run: |
-          Considere fazer uma doação via Pix
-          - pix@yuricunha.com
-          Sua contribuição é muito importante para o desenvolvimento contínuo deste projeto.
-            
           notes=$(git log --oneline --decorate --no-merges "${{ steps.taggerFinal.outputs.tag }}..${{ steps.taggerFinal.outputs.new_tag }}")
           echo "::set-output name=notes::${notes}"
+          
+          Considere fazer uma doação
+          
+          Sua contribuição é muito importante para o desenvolvimento contínuo deste projeto.
 
       - name: 'Generate tag and create release'
         id: create_release
