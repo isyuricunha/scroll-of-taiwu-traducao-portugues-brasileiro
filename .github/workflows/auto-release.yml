@@ -57,10 +57,11 @@ jobs:
       - name: Generate release notes
         id: release_notes
         run: |
-          notes=$(git log --oneline --decorate --no-merges "${{ steps.taggerFinal.outputs.tag }}..${{ steps.taggerFinal.outputs.new_tag }}")
-          # Adicionando a mensagem de doação ao final das notas
+          previous_tag=$(git describe --tags --abbrev=0 HEAD~1)
+          current_tag=$(git describe --tags --abbrev=0)
+          notes=$(git log --oneline --decorate --no-merges "${previous_tag}..${current_tag}")
           donation_message="\n\nConsidere fazer uma doação via pix: pix@yuricunha.com"
-          echo "::set-output name=notes::${notes}${donation_message}"
+          echo "RELEASE_NOTES=${notes}${donation_message}" >> $GITHUB_ENV
 
       - name: 'Generate tag and create release'
         id: create_release
