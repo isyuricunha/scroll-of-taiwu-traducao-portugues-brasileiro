@@ -1,74 +1,82 @@
 name: deploy release and notes / change logs
-'on':
+
+on:
   push:
     branches: main
     tags:
       - '[0-9]+.*'
+
 jobs:
   build:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        python-version:
-          - 3.11
+        python-version: [3.11]
+
     steps:
       - uses: actions/checkout@v3
-      - name: Configurar usuário git
+
+      - name: config git user
         run: |
-          git config user.name "${{ github.actor }}"
-          git config user.email "${{ github.actor }}@users.noreply.github.com"
-      - name: Versão minor para cada merge (dry-run)
+          git config user.name "${GITHUB_ACTOR}"
+          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+
+      - name: Minor version for each merge
         id: taggerDryRun
         uses: anothrNick/github-tag-action@1.36.0
         env:
-          GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
-        with:
-          with_v: true
-          dry_run: true
-          default_bump: patch
-          branch_history: compare
-      - name: Exibir próxima tag
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          WITH_V: true
+          DRY_RUN: true
+          DEFAULT_BUMP: patch
+          BRANCH_HISTORY: compare
+          TAG_NAME: 'v${{ steps.taggerDryRun.outputs.new_tag }}'
+
+      - name: echo new tag
         run: |
-          echo "Próxima versão: ${{ steps.taggerDryRun.outputs.new_tag }}"
-      - name: Exibir tag atual
+          echo "The next tag version will be: ${{ steps.taggerDryRun.outputs.new_tag }}"
+      - name: echo tag
         run: |
-          echo "Tag atual: ${{ steps.taggerDryRun.outputs.tag }}"
-      - name: Exibir incremento de versão
+          echo "The current tag is: ${{ steps.taggerDryRun.outputs.tag }}"
+      - name: echo part
         run: |
-          echo "Incremento de versão: ${{ steps.taggerDryRun.outputs.part }}"
-      - name: Versão minor para cada merge (final)
+          echo "The version increment was: ${{ steps.taggerDryRun.outputs.part }}"
+      # DO MY BUILD HERE
+      # IN CASE OF FAILURE, THE STEP BELOW WILL NOT RUN.
+
+      - name: Minor version for each merge
         id: taggerFinal
         uses: anothrNick/github-tag-action@1.36.0
         env:
-          GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
-        with:
-          with_v: true
-          default_bump: patch
-          branch_history: compare
-      - name: Gerar notas de release
-        id: release_notes
-        run: >
-          notes=$(git log --oneline --decorate --no-merges "${{
-          steps.taggerFinal.outputs.tag }}..${{
-          steps.taggerFinal.outputs.new_tag }}")
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          WITH_V: true
+          DEFAULT_BUMP: patch
+          BRANCH_HISTORY: compare
+          TAG_NAME: 'v${{ steps.taggerFinal.outputs.new_tag }}'
 
-          echo "notes=${notes}" >> $GITHUB_ENV
-      - name: Criar tag e release no GitHub
+      - name: Generate release notes
+        id: release_notes
+        run: |
+          notes=$(git log --oneline --decorate --no-merges "${{ steps.taggerFinal.outputs.tag }}..${{ steps.taggerFinal.outputs.new_tag }}")
+          echo "::set-output name=notes::${notes}"
+
+      - name: 'Generate tag and create release'
+        id: create_release
         uses: actions/create-release@v1
         env:
-          GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: '${{ steps.taggerFinal.outputs.new_tag }}'
-          release_name: 'Release ${{ steps.taggerFinal.outputs.new_tag }}'
-          body: '${{ env.notes }}'
+          tag_name: ${{ steps.taggerFinal.outputs.new_tag }}
+          release_name: Release ${{ steps.taggerFinal.outputs.new_tag }}
+          body: ${{ steps.release_notes.outputs.notes }}
           draft: false
-      - name: Gerar changelog automático e criar release
+
+      - name: 'Generate changelog and create release'
         uses: marvinpinto/action-automatic-releases@latest
         with:
           repo_token: '${{ secrets.GITHUB_TOKEN }}'
           automatic_release_tag: '${{ steps.taggerFinal.outputs.new_tag }}'
           prerelease: false
-          title: |
-            Última versão: ${{ steps.taggerFinal.outputs.new_tag }}
+          title: 'Last build: ${{ steps.taggerFinal.outputs.new_tag }}'
           files: |
             *
