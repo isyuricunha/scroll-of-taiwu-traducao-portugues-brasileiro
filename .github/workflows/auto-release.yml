@@ -71,7 +71,7 @@ jobs:
           tag_name: ${{ steps.taggerFinal.outputs.new_tag }}
           release_name: Release ${{ steps.taggerFinal.outputs.new_tag }}
           body: |
-            ${{ steps.release_notes.outputs.notes }}  # As notas agora incluem a mensagem de doação
+            ${{ steps.release_notes.outputs.notes }}
           draft: false
 
       - name: 'Generate changelog and create release'
