@@ -58,7 +58,7 @@ jobs:
         id: release_notes
         run: |
           notes=$(git log --oneline --decorate --no-merges "${{ steps.taggerFinal.outputs.tag }}..${{ steps.taggerFinal.outputs.new_tag }}")
-          # Add donation message after the release notes
+          # Adicionando a mensagem de doação ao final das notas
           donation_message="\n\nConsidere fazer uma doação via pix: pix@yuricunha.com"
           echo "::set-output name=notes::${notes}${donation_message}"
 
@@ -71,7 +71,7 @@ jobs:
           tag_name: ${{ steps.taggerFinal.outputs.new_tag }}
           release_name: Release ${{ steps.taggerFinal.outputs.new_tag }}
           body: |
-            ${{ steps.release_notes.outputs.notes }}
+            ${{ steps.release_notes.outputs.notes }}  # As notas agora incluem a mensagem de doação
           draft: false
 
       - name: 'Generate changelog and create release'
