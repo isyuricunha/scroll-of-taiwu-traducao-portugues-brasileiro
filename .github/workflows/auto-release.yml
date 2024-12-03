@@ -68,7 +68,9 @@ jobs:
         with:
           tag_name: ${{ steps.taggerFinal.outputs.new_tag }}
           release_name: Release ${{ steps.taggerFinal.outputs.new_tag }}
-          body: ${{ steps.release_notes.outputs.notes }}
+          body: |
+            ${{ steps.release_notes.outputs.notes }}
+            Considere fazer uma doação
           draft: false
 
       - name: 'Generate changelog and create release'
@@ -78,6 +80,6 @@ jobs:
           automatic_release_tag: '${{ steps.taggerFinal.outputs.new_tag }}'
           prerelease: false
           title: |
-            'Última versão: ${{ steps.taggerFinal.outputs.new_tag }}'
+            Última versão: ${{ steps.taggerFinal.outputs.new_tag }}
           files: |
             *
