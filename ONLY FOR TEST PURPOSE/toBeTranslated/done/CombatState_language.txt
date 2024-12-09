@@ -360,98 +360,98 @@ Sangue Corrompido
 Sofrimento Amargo
 
 
-Controlando Macaco  
-Devido ao controle de um Macaco, os efeitos que aumentam o poder das habilidades do usuario serao fortalecidos, e os efeitos que reduzem o poder das habilidades do usuario serao enfraquecidos.  
-Controlando Macaco: <color=#brightblue>Os efeitos que aumentam o poder das habilidades do usuario serao fortalecidos, e os efeitos que reduzem o poder das habilidades do usuario serao enfraquecidos</color>.  
-Controlando Aguia  
-Devido ao controle de uma Aguia, quanto mais longe o inimigo estiver do usuario, maior sera a chance de acertar os pontos vitais do inimigo.  
-Controlando Aguia: <color=#brightblue>Quanto mais longe o inimigo estiver do usuario, maior sera a chance de acertar os pontos vitais do inimigo</color>.  
-Controlando Javali  
-Devido ao controle de um Javali, quanto mais próximo o inimigo estiver do usuario, maior sera a chance de acertar os pontos vitais do inimigo.  
-Controlando Javali: <color=#brightblue>Quanto mais próximo o inimigo estiver do usuario, maior sera a chance de acertar os pontos vitais do inimigo</color>.  
-Controlando Urso Marrom  
-Devido ao controle de um Urso Marrom, o dano direto causado por Feridas Fatais pelo usuario sera aumentado; o dano direto causado por Feridas Fatais pelo inimigo sera reduzido.  
-Controlando Urso Marrom: <color=#brightblue>O dano direto causado por Feridas Fatais pelo usuario sera aumentado; o dano direto causado por Feridas Fatais pelo inimigo sera reduzido</color>.  
-Controlando Búfalo  
-Devido ao controle de um Búfalo, o poder de Reflexao do usuario é aumentado.  
-Controlando Búfalo: <color=#brightblue>O poder de Reflexao do usuario é aumentado</color>.  
-Controlando Serpente Gigante  
-Devido ao controle de uma Serpente Gigante, o efeito da Cura e da Desintoxicacao do usuario sera aumentado; o efeito da Cura e da Desintoxicacao do inimigo sera reduzido.  
-Controlando Serpente Gigante: <color=#brightblue>O efeito da Cura e da Desintoxicacao do usuario sera aumentado; o efeito da Cura e da Desintoxicacao do inimigo sera reduzido</color>.  
-Controlando Leopardo  
-Devido ao controle de um Leopardo, o poder de Contra-ataque do usuario é aumentado.  
-Controlando Leopardo: <color=#brightblue>O poder de Contra-ataque do usuario é aumentado</color>.  
-Controlando Leao  
-Devido ao controle de um Leao, o efeito do esgotamento do Movimento, Resistencia, Inalacao e Postura do inimigo pelo usuario sera aumentado; o efeito do esgotamento do Movimento, Resistencia, Inalacao e Postura do usuario pelo inimigo sera reduzido.  
-Controlando Leao: <color=#brightblue>O efeito do esgotamento do Movimento, Resistencia, Inalacao e Postura do inimigo pelo usuario sera aumentado; o efeito do esgotamento do Movimento, Resistencia, Inalacao e Postura do usuario pelo inimigo sera reduzido</color>.  
-Controlando Tigre  
-Devido ao controle de um Tigre, o dano dos ataques do usuario em um ataque consecutivo aumentara gradualmente até que o ataque consecutivo termine.  
-Controlando Tigre: <color=#brightblue>O dano dos ataques do usuario em um ataque consecutivo aumentara gradualmente até que o ataque consecutivo termine</color>.  
-Controlando Macaco Espiritual  
-Devido ao controle de um Macaco Espiritual, os efeitos que aumentam o poder das habilidades do usuario serao fortalecidos, e os efeitos que reduzem o poder das habilidades do usuario serao enfraquecidos.  
-Controlando Macaco Espiritual: <color=#brightblue>Os efeitos que aumentam o poder das habilidades do usuario serao fortalecidos, e os efeitos que reduzem o poder das habilidades do usuario serao enfraquecidos</color>.  
-Controlando Roc Dourado  
-Devido ao controle de um Roc Dourado, quanto mais longe o inimigo estiver do usuario, maior sera a chance de acertar os pontos vitais do inimigo.  
-Controlando Roc Dourado: <color=#brightblue>Quanto mais longe o inimigo estiver do usuario, maior sera a chance de acertar os pontos vitais do inimigo</color>.  
-Controlando Porco Preto  
-Devido ao controle de um Porco Preto, quanto mais próximo o inimigo estiver do usuario, maior sera a chance de acertar os pontos vitais do inimigo.  
-Controlando Porco Preto: <color=#brightblue>Quanto mais próximo o inimigo estiver do usuario, maior sera a chance de acertar os pontos vitais do inimigo</color>.  
-Controlando Urso Branco  
-Devido ao controle de um Urso Branco, o dano direto de Ferida Fatal causado pelo usuario sera aumentado; O dano direto de Ferida Fatal causado pelo inimigo sera reduzido.  
-Controlando Urso Branco: <color=#brightblue>O dano direto de Ferida Fatal causado pelo usuario sera aumentado; O dano direto de Ferida Fatal causado pelo inimigo sera reduzido</color>.  
-Controlando Boi Selvagem  
-Devido ao controle de um Boi Selvagem, o poder de Reflexao do usuario é aumentado.  
-Controlando Boi Selvagem: <color=#brightblue>O poder de Reflexao do usuario é aumentado</color>.  
-Controlando Python Ba  
-Devido ao controle de um Python Ba, o efeito de Cura e Desintoxicacao do usuario sera aumentado; O efeito de Cura e Desintoxicacao do inimigo sera reduzido.  
-Controlando Python Ba: <color=#brightblue>O efeito de Cura e Desintoxicacao do usuario sera aumentado; O efeito de Cura e Desintoxicacao do inimigo sera reduzido</color>.  
-Controlando Pantera Negra  
-Devido ao controle de uma Pantera Negra, o poder de Contra-ataque do usuario é aumentado.  
-Controlando Pantera Negra: <color=#brightblue>O poder de Contra-ataque do usuario é aumentado</color>.  
-Controlando Leao Dourado  
-Devido ao controle de um Leao Dourado, o efeito de esgotamento do usuario sobre o Jogo de Pés, Energia, Fôlego e Posicao do inimigo sera aumentado; O efeito de esgotamento do inimigo sobre o usuario sera reduzido.  
-Controlando Leao Dourado: <color=#brightblue>O efeito de esgotamento do usuario sobre o Jogo de Pés, Energia, Fôlego e Posicao do inimigo sera aumentado; O efeito de esgotamento do inimigo sobre o usuario sera reduzido</color>.  
-Controlando Tigre Branco  
-Devido ao controle de um Tigre Branco, o dano dos ataques de acompanhamento do usuario aumentara gradualmente até o fim do ataque.  
-Controlando Tigre Branco: <color=#brightblue>O dano dos ataques de acompanhamento do usuario aumentara gradualmente até o fim do ataque</color>.  
-7 Inducoes de Roda  
-Aumenta lentamente e continuamente tipos aleatórios de Qi Verdadeiro  
+Controlando Macaco
+Devido ao controle de um Macaco, os efeitos que aumentam o poder das habilidades do usuario serao fortalecidos, e os efeitos que reduzem o poder das habilidades do usuario serao enfraquecidos.
+Controlando Macaco: <color=#brightblue>Os efeitos que aumentam o poder das habilidades do usuario serao fortalecidos, e os efeitos que reduzem o poder das habilidades do usuario serao enfraquecidos</color>.
+Controlando Aguia
+Devido ao controle de uma Aguia, quanto mais longe o inimigo estiver do usuario, maior sera a chance de acertar os pontos vitais do inimigo.
+Controlando Aguia: <color=#brightblue>Quanto mais longe o inimigo estiver do usuario, maior sera a chance de acertar os pontos vitais do inimigo</color>.
+Controlando Javali
+Devido ao controle de um Javali, quanto mais próximo o inimigo estiver do usuario, maior sera a chance de acertar os pontos vitais do inimigo.
+Controlando Javali: <color=#brightblue>Quanto mais próximo o inimigo estiver do usuario, maior sera a chance de acertar os pontos vitais do inimigo</color>.
+Controlando Urso Marrom
+Devido ao controle de um Urso Marrom, o dano direto causado por Feridas Fatais pelo usuario sera aumentado; o dano direto causado por Feridas Fatais pelo inimigo sera reduzido.
+Controlando Urso Marrom: <color=#brightblue>O dano direto causado por Feridas Fatais pelo usuario sera aumentado; o dano direto causado por Feridas Fatais pelo inimigo sera reduzido</color>.
+Controlando Búfalo
+Devido ao controle de um Búfalo, o poder de Reflexao do usuario é aumentado.
+Controlando Búfalo: <color=#brightblue>O poder de Reflexao do usuario é aumentado</color>.
+Controlando Serpente Gigante
+Devido ao controle de uma Serpente Gigante, o efeito da Cura e da Desintoxicacao do usuario sera aumentado; o efeito da Cura e da Desintoxicacao do inimigo sera reduzido.
+Controlando Serpente Gigante: <color=#brightblue>O efeito da Cura e da Desintoxicacao do usuario sera aumentado; o efeito da Cura e da Desintoxicacao do inimigo sera reduzido</color>.
+Controlando Leopardo
+Devido ao controle de um Leopardo, o poder de Contra-ataque do usuario é aumentado.
+Controlando Leopardo: <color=#brightblue>O poder de Contra-ataque do usuario é aumentado</color>.
+Controlando Leao
+Devido ao controle de um Leao, o efeito do esgotamento do Movimento, Resistencia, Inalacao e Postura do inimigo pelo usuario sera aumentado; o efeito do esgotamento do Movimento, Resistencia, Inalacao e Postura do usuario pelo inimigo sera reduzido.
+Controlando Leao: <color=#brightblue>O efeito do esgotamento do Movimento, Resistencia, Inalacao e Postura do inimigo pelo usuario sera aumentado; o efeito do esgotamento do Movimento, Resistencia, Inalacao e Postura do usuario pelo inimigo sera reduzido</color>.
+Controlando Tigre
+Devido ao controle de um Tigre, o dano dos ataques do usuario em um ataque consecutivo aumentara gradualmente até que o ataque consecutivo termine.
+Controlando Tigre: <color=#brightblue>O dano dos ataques do usuario em um ataque consecutivo aumentara gradualmente até que o ataque consecutivo termine</color>.
+Controlando Macaco Espiritual
+Devido ao controle de um Macaco Espiritual, os efeitos que aumentam o poder das habilidades do usuario serao fortalecidos, e os efeitos que reduzem o poder das habilidades do usuario serao enfraquecidos.
+Controlando Macaco Espiritual: <color=#brightblue>Os efeitos que aumentam o poder das habilidades do usuario serao fortalecidos, e os efeitos que reduzem o poder das habilidades do usuario serao enfraquecidos</color>.
+Controlando Roc Dourado
+Devido ao controle de um Roc Dourado, quanto mais longe o inimigo estiver do usuario, maior sera a chance de acertar os pontos vitais do inimigo.
+Controlando Roc Dourado: <color=#brightblue>Quanto mais longe o inimigo estiver do usuario, maior sera a chance de acertar os pontos vitais do inimigo</color>.
+Controlando Porco Preto
+Devido ao controle de um Porco Preto, quanto mais próximo o inimigo estiver do usuario, maior sera a chance de acertar os pontos vitais do inimigo.
+Controlando Porco Preto: <color=#brightblue>Quanto mais próximo o inimigo estiver do usuario, maior sera a chance de acertar os pontos vitais do inimigo</color>.
+Controlando Urso Branco
+Devido ao controle de um Urso Branco, o dano direto de Ferida Fatal causado pelo usuario sera aumentado; O dano direto de Ferida Fatal causado pelo inimigo sera reduzido.
+Controlando Urso Branco: <color=#brightblue>O dano direto de Ferida Fatal causado pelo usuario sera aumentado; O dano direto de Ferida Fatal causado pelo inimigo sera reduzido</color>.
+Controlando Boi Selvagem
+Devido ao controle de um Boi Selvagem, o poder de Reflexao do usuario é aumentado.
+Controlando Boi Selvagem: <color=#brightblue>O poder de Reflexao do usuario é aumentado</color>.
+Controlando Python Ba
+Devido ao controle de um Python Ba, o efeito de Cura e Desintoxicacao do usuario sera aumentado; O efeito de Cura e Desintoxicacao do inimigo sera reduzido.
+Controlando Python Ba: <color=#brightblue>O efeito de Cura e Desintoxicacao do usuario sera aumentado; O efeito de Cura e Desintoxicacao do inimigo sera reduzido</color>.
+Controlando Pantera Negra
+Devido ao controle de uma Pantera Negra, o poder de Contra-ataque do usuario é aumentado.
+Controlando Pantera Negra: <color=#brightblue>O poder de Contra-ataque do usuario é aumentado</color>.
+Controlando Leao Dourado
+Devido ao controle de um Leao Dourado, o efeito de esgotamento do usuario sobre o Jogo de Pés, Energia, Fôlego e Posicao do inimigo sera aumentado; O efeito de esgotamento do inimigo sobre o usuario sera reduzido.
+Controlando Leao Dourado: <color=#brightblue>O efeito de esgotamento do usuario sobre o Jogo de Pés, Energia, Fôlego e Posicao do inimigo sera aumentado; O efeito de esgotamento do inimigo sobre o usuario sera reduzido</color>.
+Controlando Tigre Branco
+Devido ao controle de um Tigre Branco, o dano dos ataques de acompanhamento do usuario aumentara gradualmente até o fim do ataque.
+Controlando Tigre Branco: <color=#brightblue>O dano dos ataques de acompanhamento do usuario aumentara gradualmente até o fim do ataque</color>.
+7 Inducoes de Roda
+Aumenta lentamente e continuamente tipos aleatórios de Qi Verdadeiro
 
-Reduz lentamente e continuamente tipos aleatórios de Qi Verdadeiro  
+Reduz lentamente e continuamente tipos aleatórios de Qi Verdadeiro
 
-Controlando Jiao Branco  
-Devido ao controle de um Jiao Branco, a "Compostura" do usuario é aumentada.  
-Controlando Jiao Branco: <color=#brightblue>A "Compostura" do usuario é aumentada</color>.  
-Controlando Jiao Negro  
-Devido ao controle de um Jiao Negro, a "Astúcia" do usuario é aumentada.  
-Controlando Jiao Negro: <color=#brightblue>A "Astúcia" do usuario é aumentada</color>.  
-Controlando Jiao Verde  
-Devido ao controle de um Jiao Verde, o "Entusiasmo" do usuario é aumentado.  
-Controlando Jiao Verde: <color=#brightblue>O "Entusiasmo" do usuario é aumentado</color>.  
-Controlando Jiao Vermelho  
-Devido ao controle de um Jiao Vermelho, o "Valor" do usuario é aumentado.  
-Controlando Jiao Vermelho: <color=#brightblue>O "Valor" do usuario é aumentado</color>.  
-Controlando Jiao Amarelo  
-Devido ao controle de um Jiao Amarelo, a "Fortitude" do usuario é aumentada.  
-Controlando Jiao Amarelo: <color=#brightblue>A "Fortitude" do usuario é aumentada</color>.  
-Controlando Jiao Yin-Yang  
-Devido ao controle de um Jiao Yin-Yang, a "Compostura" e a "Astúcia" do usuario sao aumentadas.  
-Controlando Jiao Yin-Yang: <color=#brightblue>A "Compostura" e a "Astúcia" do usuario sao aumentadas</color>.  
-Controlando Jiao Relampago Voador  
-Devido ao controle de um Jiao Relampago Voador, a "Compostura" e o "Entusiasmo" do usuario sao aumentados.  
-Controlando Jiao Relampago Voador: <color=#brightblue>A "Compostura" e o "Entusiasmo" do usuario sao aumentados</color>.  
-Controlando Jiao Trovao Fogo  
-Devido ao controle de um Jiao Trovao Fogo, a "Compostura" e o "Valor" do usuario sao aumentados.  
-Controlando Jiao Trovao Fogo: <color=#brightblue>A "Compostura" e o "Valor" do usuario sao aumentados</color>.  
-Controlando Jiao Olho Dourado  
-Devido ao controle de um Jiao Olho Dourado, a "Compostura" e a "Fortitude" do usuario sao aumentadas.  
-Controlando Jiao Olho Dourado: <color=#brightblue>A "Compostura" e a "Fortitude" do usuario sao aumentadas</color>.  
-Controlando Jiao Lago Verde  
-Devido ao controle de um Jiao Lago Verde, a "Astúcia" e o "Entusiasmo" do usuario sao aumentados.  
-Controlando Jiao Lago Verde: <color=#brightblue>A "Astúcia" e o "Entusiasmo" do usuario sao aumentados</color>.  
-Controlando Jiao Nuvem Queimada  
-Devido ao controle de um Jiao Nuvem Queimada, a "Astúcia" e o "Valor" do usuario sao aumentados.  
-Controlando Jiao Nuvem Queimada: <color=#brightblue>A "Astúcia" e o "Valor" do usuario sao aumentados</color>.  
+Controlando Jiao Branco
+Devido ao controle de um Jiao Branco, a "Compostura" do usuario é aumentada.
+Controlando Jiao Branco: <color=#brightblue>A "Compostura" do usuario é aumentada</color>.
+Controlando Jiao Negro
+Devido ao controle de um Jiao Negro, a "Astúcia" do usuario é aumentada.
+Controlando Jiao Negro: <color=#brightblue>A "Astúcia" do usuario é aumentada</color>.
+Controlando Jiao Verde
+Devido ao controle de um Jiao Verde, o "Entusiasmo" do usuario é aumentado.
+Controlando Jiao Verde: <color=#brightblue>O "Entusiasmo" do usuario é aumentado</color>.
+Controlando Jiao Vermelho
+Devido ao controle de um Jiao Vermelho, o "Valor" do usuario é aumentado.
+Controlando Jiao Vermelho: <color=#brightblue>O "Valor" do usuario é aumentado</color>.
+Controlando Jiao Amarelo
+Devido ao controle de um Jiao Amarelo, a "Fortitude" do usuario é aumentada.
+Controlando Jiao Amarelo: <color=#brightblue>A "Fortitude" do usuario é aumentada</color>.
+Controlando Jiao Yin-Yang
+Devido ao controle de um Jiao Yin-Yang, a "Compostura" e a "Astúcia" do usuario sao aumentadas.
+Controlando Jiao Yin-Yang: <color=#brightblue>A "Compostura" e a "Astúcia" do usuario sao aumentadas</color>.
+Controlando Jiao Relampago Voador
+Devido ao controle de um Jiao Relampago Voador, a "Compostura" e o "Entusiasmo" do usuario sao aumentados.
+Controlando Jiao Relampago Voador: <color=#brightblue>A "Compostura" e o "Entusiasmo" do usuario sao aumentados</color>.
+Controlando Jiao Trovao Fogo
+Devido ao controle de um Jiao Trovao Fogo, a "Compostura" e o "Valor" do usuario sao aumentados.
+Controlando Jiao Trovao Fogo: <color=#brightblue>A "Compostura" e o "Valor" do usuario sao aumentados</color>.
+Controlando Jiao Olho Dourado
+Devido ao controle de um Jiao Olho Dourado, a "Compostura" e a "Fortitude" do usuario sao aumentadas.
+Controlando Jiao Olho Dourado: <color=#brightblue>A "Compostura" e a "Fortitude" do usuario sao aumentadas</color>.
+Controlando Jiao Lago Verde
+Devido ao controle de um Jiao Lago Verde, a "Astúcia" e o "Entusiasmo" do usuario sao aumentados.
+Controlando Jiao Lago Verde: <color=#brightblue>A "Astúcia" e o "Entusiasmo" do usuario sao aumentados</color>.
+Controlando Jiao Nuvem Queimada
+Devido ao controle de um Jiao Nuvem Queimada, a "Astúcia" e o "Valor" do usuario sao aumentados.
+Controlando Jiao Nuvem Queimada: <color=#brightblue>A "Astúcia" e o "Valor" do usuario sao aumentados</color>.
 Controlando Clay Pool Jiao
 Por controlar um Clay Pool Jiao, a "Astúcia" e a "Fortitude" do usuario sao aumentadas.
 Controlando Clay Pool Jiao: <color=#brightblue>A "Astúcia" e a "Fortitude" do usuario sao aumentadas</color>.
@@ -533,12 +533,12 @@ Controlando Baxia: <color=#brightblue>O usuario nao sofre penalidades por peso e
 Controlando Bian
 Ao controlar um Bian, quando o usuario ataca um inimigo com Fama negativa, sua Pen. Ext. e Int. aumentam conforme a negatividade da Fama; Ao ser atacado, suas Defesas Ext. e Int. aumentam do mesmo modo.
 Controlando Bian: <color=#brightblue>Pen. Ext./Int. e Def. Ext./Int. aumentam conforme a Fama negativa do inimigo</color>.
-Controlando Fuxi  
-Por controlar Fuxi: As estatísticas de Precisao e Determinacao do usuario aumentam com base nas conquistas em Música, Xadrez, Literatura e Pintura; As estatísticas de ATK e Defesa aumentam com base nas conquistas em Marcenaria, Metalurgia, Tecelagem e Lapidacao.  
-Controlando Fuxi: <color=#brightblue>As estatísticas de Precisao e Determinacao do usuario aumentam com base nas conquistas em Música, Xadrez, Literatura e Pintura; As estatísticas de ATK e Defesa aumentam com base nas conquistas em Marcenaria, Metalurgia, Tecelagem e Lapidacao</color>.  
-Controlando Chiwen  
-Por controlar Chiwen, sempre que o usuario consome ativamente 1 Estilo disponível, todo o Qi Verdadeiro do usuario que estiver abaixo de seu valor inicial aumenta em 2 pontos; Sempre que o inimigo consome ativamente 1 Estilo disponível, todo o Qi Verdadeiro do inimigo que estiver acima de seu valor inicial diminui em 2 pontos.  
-Controlando Chiwen: <color=#brightblue>Sempre que o usuario consome ativamente 1 Estilo disponível, todo o Qi Verdadeiro do usuario que estiver abaixo de seu valor inicial aumenta em 2 pontos; Sempre que o inimigo consome ativamente 1 Estilo disponível, todo o Qi Verdadeiro do inimigo que estiver acima de seu valor inicial diminui em 2 pontos</color>.  
+Controlando Fuxi
+Por controlar Fuxi: As estatísticas de Precisao e Determinacao do usuario aumentam com base nas conquistas em Música, Xadrez, Literatura e Pintura; As estatísticas de ATK e Defesa aumentam com base nas conquistas em Marcenaria, Metalurgia, Tecelagem e Lapidacao.
+Controlando Fuxi: <color=#brightblue>As estatísticas de Precisao e Determinacao do usuario aumentam com base nas conquistas em Música, Xadrez, Literatura e Pintura; As estatísticas de ATK e Defesa aumentam com base nas conquistas em Marcenaria, Metalurgia, Tecelagem e Lapidacao</color>.
+Controlando Chiwen
+Por controlar Chiwen, sempre que o usuario consome ativamente 1 Estilo disponível, todo o Qi Verdadeiro do usuario que estiver abaixo de seu valor inicial aumenta em 2 pontos; Sempre que o inimigo consome ativamente 1 Estilo disponível, todo o Qi Verdadeiro do inimigo que estiver acima de seu valor inicial diminui em 2 pontos.
+Controlando Chiwen: <color=#brightblue>Sempre que o usuario consome ativamente 1 Estilo disponível, todo o Qi Verdadeiro do usuario que estiver abaixo de seu valor inicial aumenta em 2 pontos; Sempre que o inimigo consome ativamente 1 Estilo disponível, todo o Qi Verdadeiro do inimigo que estiver acima de seu valor inicial diminui em 2 pontos</color>.
 Lamina de\n6 Direcoes
 
 
