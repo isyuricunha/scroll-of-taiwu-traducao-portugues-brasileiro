@@ -1,32 +1,32 @@
-Os ataques com armas do anfitriao terao uma chance adicional reduzida de acertar o inimigo.  
-Os ataques com armas do anfitriao terao uma chance adicional aumentada de acertar o inimigo.  
-O anfitriao perdera parte de seus itens todo mes.  
-Certamente sera gerado quando o consumo de <SpName=sp_icon_poison_3><color=#redpoison>Pyrotoxina</color> alcancar 40%.  
-O anfitriao recebera 1 Marcador de Atordoamento sempre que o Veneno do anfitriao for ativado.  
-O anfitriao recebera 1 Marcador de Atordoamento sempre que o Veneno do inimigo for ativado.  
-Todo mes, o anfitriao podera comecar a odiar personagens cuja Afeicao tenha diminuído significativamente e buscara mais facilmente vinganca contra seus inimigos.  
-Certamente sera gerado quando o consumo de <SpName=sp_icon_poison_1><color=#gloomypoison>Umbritoxina</color> alcancar 40%.  
-O nível de Pontos Fracos e Acupontos Selados recebidos pelo anfitriao aumentara em 1 nível.  
-O nível de Pontos Fracos e Acupontos Selados recebidos pelo anfitriao sera reduzido em 1 nível.  
-A Respiracao Interna do anfitriao se tornara desordenada com base no nível de Ferimentos que possui.  
-Certamente sera gerado quando o consumo de <SpName=sp_icon_poison_4><color=#rottenpoison>Necrotoxina</color> alcancar 40%.  
-Quando a Energia Interna do anfitriao diminuir, a Energia Interna de um tipo aleatório também sera reduzida em 2 pontos.  
-Quando a Energia Interna do anfitriao aumentar, a Energia Interna de um tipo aleatório também sera aumentada em 2 pontos.  
-Todo mes, o valor de demonizacao do anfitriao sera aumentado 10 vezes.  
-Certamente sera gerado se todos os tipos de consumo de veneno estiverem dentro de 10% um do outro.  
-Se a Saúde do anfitriao nao for inferior a 50%, o dano de Ferida Fatal recebido sera adicionalmente aumentado, e sempre que esse dano for aumentado, a Saúde do anfitriao também sera reduzida.  
-Se a Saúde do anfitriao nao for inferior a 50%, o dano de Ferida Fatal recebido sera adicionalmente reduzido, mas sempre que esse dano for reduzido, a Saúde do anfitriao também sera reduzida.  
-A Respiracao Interna nao restaurara a Saúde do anfitriao todo mes.  
-Certamente sera gerado quando o consumo de <SpName=sp_icon_poison_0><color=#hotpoison>Acritoxina</color>, <SpName=sp_icon_poison_3><color=#redpoison>Pyrotoxina</color>, e <SpName=sp_icon_poison_4><color=#rottenpoison>Necrotoxina</color> alcancar 30% cada.  
-A chance de selar técnicas e armas do anfitriao sera adicionalmente aumentada.  
-A chance de selar técnicas e armas do anfitriao sera adicionalmente reduzida.  
-A Energia Interna do anfitriao nao sera restaurada todo mes e, em vez disso, sera grandemente reduzida.  
-Certamente sera gerado quando o consumo de <SpName=sp_icon_poison_2><color=#coldpoison>Criotoxina</color> alcancar 40%.  
-Os efeitos de supressao da essencia pura das habilidades Limpar Impurezas, Passo Divino e Naturalizacao do anfitriao serao reduzidos.  
-Os efeitos de supressao da essencia pura das habilidades Limpar Impurezas, Passo Divino e Naturalizacao do anfitriao serao aumentados.  
-O Rei do Gu do Bicho-da-Seda Dourado devorara 1 Gu Maduro aleatório no corpo do anfitriao todo mes para aplicar uma grande quantidade de Venenos ao anfitriao.  
-Certamente sera gerado quando o consumo de <SpName=sp_icon_poison_0><color=#hotpoison>Acritoxina</color> alcancar 40%.  
-Os efeitos positivos nas Estatísticas Principais, Estatísticas Secundarias, Precisao, Determinacao, Ataque, Defesa e Talento das "Características" positivas do anfitriao se transformarao temporariamente em efeitos negativos.  
-Os efeitos negativos nas Estatísticas Principais, Estatísticas Secundarias, Precisao, Determinacao, Ataque, Defesa e Talento das "Características" negativas do anfitriao se transformarao temporariamente em efeitos positivos.  
-Todos os personagens que passarem uma Noite de Primavera com o anfitriao serao implantados com um Gu de Medula Azul Prematuro e Indomado.  
-Certamente sera gerado quando o consumo de <SpName=sp_icon_poison_1><color=#gloomypoison>Umbritoxina</color>, <SpName=sp_icon_poison_2><color=#coldpoison>Criotoxina</color>, e <SpName=sp_icon_poison_5><color=#illusorypoison>Oneirotoxina</color> alcancar 30% cada.  
+Os ataques com armas do anfitriao terao uma chance adicional reduzida de acertar o inimigo.
+Os ataques com armas do anfitriao terao uma chance adicional aumentada de acertar o inimigo.
+O anfitriao perdera parte de seus itens todo mes.
+Certamente sera gerado quando o consumo de <SpName=sp_icon_poison_3><color=#redpoison>Pyrotoxina</color> alcancar 40%.
+O anfitriao recebera 1 Marcador de Atordoamento sempre que o Veneno do anfitriao for ativado.
+O anfitriao recebera 1 Marcador de Atordoamento sempre que o Veneno do inimigo for ativado.
+Todo mes, o anfitriao podera comecar a odiar personagens cuja Afeicao tenha diminuído significativamente e buscara mais facilmente vinganca contra seus inimigos.
+Certamente sera gerado quando o consumo de <SpName=sp_icon_poison_1><color=#gloomypoison>Umbritoxina</color> alcancar 40%.
+O nível de Pontos Fracos e Acupontos Selados recebidos pelo anfitriao aumentara em 1 nível.
+O nível de Pontos Fracos e Acupontos Selados recebidos pelo anfitriao sera reduzido em 1 nível.
+A Respiracao Interna do anfitriao se tornara desordenada com base no nível de Ferimentos que possui.
+Certamente sera gerado quando o consumo de <SpName=sp_icon_poison_4><color=#rottenpoison>Necrotoxina</color> alcancar 40%.
+Quando a Energia Interna do anfitriao diminuir, a Energia Interna de um tipo aleatório também sera reduzida em 2 pontos.
+Quando a Energia Interna do anfitriao aumentar, a Energia Interna de um tipo aleatório também sera aumentada em 2 pontos.
+Todo mes, o valor de demonizacao do anfitriao sera aumentado 10 vezes.
+Certamente sera gerado se todos os tipos de consumo de veneno estiverem dentro de 10% um do outro.
+Se a Saúde do anfitriao nao for inferior a 50%, o dano de Ferida Fatal recebido sera adicionalmente aumentado, e sempre que esse dano for aumentado, a Saúde do anfitriao também sera reduzida.
+Se a Saúde do anfitriao nao for inferior a 50%, o dano de Ferida Fatal recebido sera adicionalmente reduzido, mas sempre que esse dano for reduzido, a Saúde do anfitriao também sera reduzida.
+A Respiracao Interna nao restaurara a Saúde do anfitriao todo mes.
+Certamente sera gerado quando o consumo de <SpName=sp_icon_poison_0><color=#hotpoison>Acritoxina</color>, <SpName=sp_icon_poison_3><color=#redpoison>Pyrotoxina</color>, e <SpName=sp_icon_poison_4><color=#rottenpoison>Necrotoxina</color> alcancar 30% cada.
+A chance de selar técnicas e armas do anfitriao sera adicionalmente aumentada.
+A chance de selar técnicas e armas do anfitriao sera adicionalmente reduzida.
+A Energia Interna do anfitriao nao sera restaurada todo mes e, em vez disso, sera grandemente reduzida.
+Certamente sera gerado quando o consumo de <SpName=sp_icon_poison_2><color=#coldpoison>Criotoxina</color> alcancar 40%.
+Os efeitos de supressao da essencia pura das habilidades Limpar Impurezas, Passo Divino e Naturalizacao do anfitriao serao reduzidos.
+Os efeitos de supressao da essencia pura das habilidades Limpar Impurezas, Passo Divino e Naturalizacao do anfitriao serao aumentados.
+O Rei do Gu do Bicho-da-Seda Dourado devorara 1 Gu Maduro aleatório no corpo do anfitriao todo mes para aplicar uma grande quantidade de Venenos ao anfitriao.
+Certamente sera gerado quando o consumo de <SpName=sp_icon_poison_0><color=#hotpoison>Acritoxina</color> alcancar 40%.
+Os efeitos positivos nas Estatísticas Principais, Estatísticas Secundarias, Precisao, Determinacao, Ataque, Defesa e Talento das "Características" positivas do anfitriao se transformarao temporariamente em efeitos negativos.
+Os efeitos negativos nas Estatísticas Principais, Estatísticas Secundarias, Precisao, Determinacao, Ataque, Defesa e Talento das "Características" negativas do anfitriao se transformarao temporariamente em efeitos positivos.
+Todos os personagens que passarem uma Noite de Primavera com o anfitriao serao implantados com um Gu de Medula Azul Prematuro e Indomado.
+Certamente sera gerado quando o consumo de <SpName=sp_icon_poison_1><color=#gloomypoison>Umbritoxina</color>, <SpName=sp_icon_poison_2><color=#coldpoison>Criotoxina</color>, e <SpName=sp_icon_poison_5><color=#illusorypoison>Oneirotoxina</color> alcancar 30% cada.

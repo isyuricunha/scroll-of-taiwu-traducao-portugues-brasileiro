@@ -1,131 +1,131 @@
-Perder  
-Batalha perdida!  
+Perder
+Batalha perdida!
 
-Empate  
-Empate...  
+Empate
+Empate...
 
-Retirada  
-Fuga...  
+Retirada
+Fuga...
 
-Vencer  
-Batalha vencida!  
+Vencer
+Batalha vencida!
 
-Treinamento  
-Treine com um oponente cuja pureza nao seja inferior à sua.  
+Treinamento
+Treine com um oponente cuja pureza nao seja inferior à sua.
 
-Bloquear todos os movimentos  
-Enfrente um oponente cuja pureza nao seja inferior à sua.  
+Bloquear todos os movimentos
+Enfrente um oponente cuja pureza nao seja inferior à sua.
 
-Batalha perigosa  
-Uma luta perigosa contra um oponente cuja pureza nao seja inferior à sua.  
+Batalha perigosa
+Uma luta perigosa contra um oponente cuja pureza nao seja inferior à sua.
 
-Luta até a morte  
-Uma luta até a morte com um oponente cuja pureza nao seja inferior à sua.  
+Luta até a morte
+Uma luta até a morte com um oponente cuja pureza nao seja inferior à sua.
 
-HoS  
-Derrotou a Incarnacao de XiangShu!  
+HoS
+Derrotou a Incarnacao de XiangShu!
 
-Acoitar·A  
-Derrote um inimigo que tenha menos companheiros.  
+Acoitar·A
+Derrote um inimigo que tenha menos companheiros.
 
-Acoitar·M  
-Derrote um oponente que seja mais jovem que voce.  
+Acoitar·M
+Derrote um oponente que seja mais jovem que voce.
 
-Equipado com fraquezas  
-Derrote um oponente cuja equipagem seja mais fraca que a sua.  
+Equipado com fraquezas
+Derrote um oponente cuja equipagem seja mais fraca que a sua.
 
-Qi Verdadeiro Sobressai  
-Derrote um oponente cujo Qi Verdadeiro seja muito mais baixo que o seu.  
+Qi Verdadeiro Sobressai
+Derrote um oponente cujo Qi Verdadeiro seja muito mais baixo que o seu.
 
-Superioridade Marcial  
-Derrote um oponente usando uma arte marcial mais avancada que a do oponente.  
+Superioridade Marcial
+Derrote um oponente usando uma arte marcial mais avancada que a do oponente.
 
-Pureza e fragilidade  
-Derrote um oponente quando o seu domínio de pureza for 3 ou mais superior ao do oponente.  
+Pureza e fragilidade
+Derrote um oponente quando o seu domínio de pureza for 3 ou mais superior ao do oponente.
 
-Acoitar·P  
-Derrote um oponente que esteja carregando seis pecas de...  
+Acoitar·P
+Derrote um oponente que esteja carregando seis pecas de...
 
-OT·A  
-Revolucao·quantidade. Derrote um inimigo que tenha mais companheiros.  
+OT·A
+Revolucao·quantidade. Derrote um inimigo que tenha mais companheiros.
 
-Recém-nascido  
-Derrote um oponente quando voce ainda nao é adulto e ele for mais velho que voce.  
+Recém-nascido
+Derrote um oponente quando voce ainda nao é adulto e ele for mais velho que voce.
 
-Equipado para a vitória  
-Derrote um oponente cuja equipagem seja em geral melhor que a sua.  
+Equipado para a vitória
+Derrote um oponente cuja equipagem seja em geral melhor que a sua.
 
-Qi Verdadeiro supera Forca  
-Derrote um oponente cujo Qi Verdadeiro seja muito mais alto que o seu.  
+Qi Verdadeiro supera Forca
+Derrote um oponente cujo Qi Verdadeiro seja muito mais alto que o seu.
 
-Artes Marciais Superiores  
-Derrote um oponente com uma arte marcial mais rudimentar que a usada por seu oponente.  
+Artes Marciais Superiores
+Derrote um oponente com uma arte marcial mais rudimentar que a usada por seu oponente.
 
-Pureza supera Forca  
-Derrote um oponente quando o seu domínio de pureza for 3 ou mais inferior ao do oponente.  
+Pureza supera Forca
+Derrote um oponente quando o seu domínio de pureza for 3 ou mais inferior ao do oponente.
 
-Rugido de Leao  
-Derrote um oponente enquanto estiver usando seis pecas de equipamento.  
+Rugido de Leao
+Derrote um oponente enquanto estiver usando seis pecas de equipamento.
 
-Esta tudo em suas maos.  
-Restaure a mente do indivíduo possuído por XiangShu.  
-Restaure a mente daqueles que caíram no mal.  
-Repelir Espíritos Malignos  
-Restaurar as mentes dos que caíram no caminho demoníaco do Sangha e cuja pureza nao seja inferior à sua.  
-Restaurar a mente dos que caíram no caminho maligno e cuja pureza seja nao inferior à sua.  
-Seja Cavalheiresco e mantenha a justica  
+Esta tudo em suas maos.
+Restaure a mente do indivíduo possuído por XiangShu.
+Restaure a mente daqueles que caíram no mal.
+Repelir Espíritos Malignos
+Restaurar as mentes dos que caíram no caminho demoníaco do Sangha e cuja pureza nao seja inferior à sua.
+Restaurar a mente dos que caíram no caminho maligno e cuja pureza seja nao inferior à sua.
+Seja Cavalheiresco e mantenha a justica
 Extermine os fora da lei que cometeram atos errados.
 
-Destruindo os Fora da Lei  
-Elimine os fora da lei que nao sejam menos puros que voce.  
+Destruindo os Fora da Lei
+Elimine os fora da lei que nao sejam menos puros que voce.
 
-Ofender Céu e Terra  
-Mate os homens justos que fizeram boas acoes.  
+Ofender Céu e Terra
+Mate os homens justos que fizeram boas acoes.
 
-Matar os Justos  
-Mate os justos cuja pureza nao seja inferior à sua.  
+Matar os Justos
+Mate os justos cuja pureza nao seja inferior à sua.
 
-Elogio da Face de Leao  
+Elogio da Face de Leao
 Vencer os oponentes traz mais prestígio devido à proclamacao do Cla Face de Leao.
 
 
 
-O Basico  
-O prestígio ganho ao derrotar um inimigo com o mais rudimentar Taiwu Long Fist é grandemente aumentado.  
+O Basico
+O prestígio ganho ao derrotar um inimigo com o mais rudimentar Taiwu Long Fist é grandemente aumentado.
 
-Percepcoes Praticas  
-O progresso de estudo dos livros em estudo aumentou devido a percepcoes da vida real.  
+Percepcoes Praticas
+O progresso de estudo dos livros em estudo aumentou devido a percepcoes da vida real.
 
-Treinamento com o Boneco de Pratica  
-Treinar com o boneco de treino de madeira aumentara grandemente as chances de adquirir percepcoes de batalhas reais...  
+Treinamento com o Boneco de Pratica
+Treinar com o boneco de treino de madeira aumentara grandemente as chances de adquirir percepcoes de batalhas reais...
 
-Dragao Voando Sobre os Quatro Mares  
-Através dos desafios impostos pelo dragao divino, as bencaos se estendem indefinidamente, e seu valor é indescritível...  
+Dragao Voando Sobre os Quatro Mares
+Através dos desafios impostos pelo dragao divino, as bencaos se estendem indefinidamente, e seu valor é indescritível...
 
-Na Corda Bamba  
-Participar de batalhas de extrema dificuldade aumenta a experiencia adquirida e a probabilidade de obter percepcoes de combate real...  
+Na Corda Bamba
+Participar de batalhas de extrema dificuldade aumenta a experiencia adquirida e a probabilidade de obter percepcoes de combate real...
 
-Dez Mortes Sem Vida  
-Participar de batalhas com dificuldade de morte certa aumenta consideravelmente a experiencia adquirida e as chances de obter percepcoes de combate real...  
+Dez Mortes Sem Vida
+Participar de batalhas com dificuldade de morte certa aumenta consideravelmente a experiencia adquirida e as chances de obter percepcoes de combate real...
 
-Resistindo à Invasao  
-Faca tudo que puder para resistir à Incarnacao de Xiangshu! A experiencia e o prestígio obtidos aumentam consideravelmente, e a probabilidade de entender o combate real também aumenta...  
+Resistindo à Invasao
+Faca tudo que puder para resistir à Incarnacao de Xiangshu! A experiencia e o prestígio obtidos aumentam consideravelmente, e a probabilidade de entender o combate real também aumenta...
 
-Dar Algumas Dicas  
-Treine com um oponente cuja pureza seja menor que a sua.  
+Dar Algumas Dicas
+Treine com um oponente cuja pureza seja menor que a sua.
 
-Soldado Resistira  
-Receba golpes de um oponente cuja pureza seja menor que a sua.  
+Soldado Resistira
+Receba golpes de um oponente cuja pureza seja menor que a sua.
 
-Abarcando Magistralmente  
-Tenha uma luta feroz com um oponente cuja pureza seja menor que a sua.  
+Abarcando Magistralmente
+Tenha uma luta feroz com um oponente cuja pureza seja menor que a sua.
 
-Mais Medroso do que Ferido  
-Tenha uma luta até a morte com um oponente cuja pureza seja menor que a sua.  
+Mais Medroso do que Ferido
+Tenha uma luta até a morte com um oponente cuja pureza seja menor que a sua.
 
-Circulacao de Combate  
-Ao ganhar percepcao durante o combate real, a Energia Interna e o Qi Verdadeiro adquiridos ao Cultivar Artes Internas aumentaram.  
+Circulacao de Combate
+Ao ganhar percepcao durante o combate real, a Energia Interna e o Qi Verdadeiro adquiridos ao Cultivar Artes Internas aumentaram.
 
-Treinamento Concluído  
+Treinamento Concluído
 Por ser apenas um teste casual, nao sera obtido progresso nem prestígio, e também nao havera avaliacao de combate...
 
