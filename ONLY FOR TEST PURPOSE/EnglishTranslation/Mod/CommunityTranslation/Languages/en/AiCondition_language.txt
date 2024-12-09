@@ -1,9 +1,9 @@
 Atraso
 Retorna verdadeiro a cada {0} ciclos
 Probabilidade de julgamento
-Retorna verdadeiro quando a probabilidade de julgamento de {0}% é alcançada
+Retorna verdadeiro quando a probabilidade de julgamento de {0}% é alcancada
 Primeira vez
-Retorna verdadeiro na primeira vez que a condição for atendida em cada batalha
+Retorna verdadeiro na primeira vez que a condicao for atendida em cada batalha
 Método de cultivo montado
 Retorna verdadeiro quando a barra de cultivo {0} contém {1}
 Método de cultivo superado
@@ -11,65 +11,65 @@ Retorna verdadeiro quando {0} superou {1} {2}
 Método de cultivo aprendido
 Retorna verdadeiro quando {0} aprendeu {1}
 Dentro do alcance de ataque
-Retorna verdadeiro quando a distância atual +{1} está dentro do alcance do ataque físico ou ataque destruidor de {0}
+Retorna verdadeiro quando a distancia atual +{1} esta dentro do alcance do ataque físico ou ataque destruidor de {0}
 Dentro do alcance do método de cultivo
-Retorna verdadeiro quando a distância atual +{1} está dentro do alcance do método de cultivo {2} de {0}
+Retorna verdadeiro quando a distancia atual +{1} esta dentro do alcance do método de cultivo {2} de {0}
 Existe borda no alcance de ataque
-Retorna verdadeiro quando {0} possui borda de alcance de ataque válida
+Retorna verdadeiro quando {0} possui borda de alcance de ataque valida
 Memória como texto
 Retorna verdadeiro quando o valor correspondente na memória de {0} é igual a {1}
 Memória como booleano
 Memória como inteiro
-Memória não como texto
-Retorna verdadeiro quando não existe valor correspondente na memória de {0} ou quando é diferente de {1}
-Memória não como booleano
-Memória não como inteiro
+Memória nao como texto
+Retorna verdadeiro quando nao existe valor correspondente na memória de {0} ou quando é diferente de {1}
+Memória nao como booleano
+Memória nao como inteiro
 Memória maior que
 Retorna verdadeiro quando o valor correspondente na memória de {0} for maior que {1}
 Memória menor que
 Retorna verdadeiro quando o valor correspondente na memória de {0} for menor que {1}
 Dificuldade de batalha
 Retorna verdadeiro quando o personagem for Taiwu ou a dificuldade de batalha for igual ou maior que {0}
-Distância do alvo inclinada
-Distância do alvo inclinada para {0}
-Distância do alvo não igual a
-Distância do alvo não igual a {0}
-Distância do alvo não é a maior
-Distância do alvo não é a distância mais distante
-Em ação
-{0} está realizando {1}
+Distancia do alvo inclinada
+Distancia do alvo inclinada para {0}
+Distancia do alvo nao igual a
+Distancia do alvo nao igual a {0}
+Distancia do alvo nao é a maior
+Distancia do alvo nao é a distancia mais distante
+Em acao
+{0} esta realizando {1}
 Realizando método de cultivo
-{0} está realizando o método de cultivo {1}
+{0} esta realizando o método de cultivo {1}
 Progresso do método de cultivo atingiu
 Retorna verdadeiro quando o progresso do método de cultivo {1} for igual ou maior que {0}%
-Progresso do método de cultivo não atingiu
+Progresso do método de cultivo nao atingiu
 Retorna verdadeiro quando o progresso do método de cultivo {1} for menor que {0}%
 Valor de defesa abaixo de
 Retorna verdadeiro quando o valor restante de defesa {1} for menor que {0}%
 Marca de derrota ultrapassada
 Retorna verdadeiro quando {0} ultrapassar a marca de derrota
-Proibição de fuga no julgamento
-Retorna verdadeiro quando a fuga for proibida ou o julgamento para proibição de fuga for verdadeiro
-Condições para fuga atendidas
-Retorna verdadeiro quando as condições para fuga forem atendidas
+Proibicao de fuga no julgamento
+Retorna verdadeiro quando a fuga for proibida ou o julgamento para proibicao de fuga for verdadeiro
+Condicoes para fuga atendidas
+Retorna verdadeiro quando as condicoes para fuga forem atendidas
 Em perigo
 Retorna verdadeiro quando estiver em perigo
-Pode realizar ataque básico
-Pode realizar uma mudança de movimento
-Pode explorar falha com mudança de movimento
-Pode selar pontos com mudança de movimento
-Pode selar pontos {0} com mudança de movimento
-Pode alterar atributo de força interna com mudança de movimento
+Pode realizar ataque basico
+Pode realizar uma mudanca de movimento
+Pode explorar falha com mudanca de movimento
+Pode selar pontos com mudanca de movimento
+Pode selar pontos {0} com mudanca de movimento
+Pode alterar atributo de forca interna com mudanca de movimento
 Pode trocar de arma
-Retorna verdadeiro quando existir uma arma no índice {0} - {1} que pode ser trocada e está dentro do alcance de ataque
+Retorna verdadeiro quando existir uma arma no índice {0} - {1} que pode ser trocada e esta dentro do alcance de ataque
 Pode realizar movimento de fuga
-Pode realizar ação
-Pode realizar ação {0}
-Existem instruções de aliado disponíveis
-Existem instruções de {0} disponíveis
+Pode realizar acao
+Pode realizar acao {0}
+Existem instrucoes de aliado disponíveis
+Existem instrucoes de {0} disponíveis
 Existem métodos de cultivo disponíveis
 Existem métodos de cultivo {0} disponíveis
-Existem amplificadores de lançamento disponíveis
+Existem amplificadores de lancamento disponíveis
 Existem técnicas de defesa disponíveis
 Existem aumentos de agilidade disponíveis
 Existem remédios para cura disponíveis
@@ -79,8 +79,8 @@ Existem remédios de aumento disponíveis
 Existem venenos disponíveis
 Existem elixires de sangue disponíveis
 Existem bebidas disponíveis
-Existem armas reparáveis
-Existem armaduras reparáveis
+Existem armas reparaveis
+Existem armaduras reparaveis
 Tipo de batalha
 Retorna verdadeiro quando o tipo de batalha for {0}
 Método de cultivo realizado
@@ -93,8 +93,8 @@ Defesa específica realizada
 Retorna verdadeiro quando {0} tiver ativado a defesa {1} {2}
 Taiwu
 Retorna verdadeiro apenas quando o personagem for Taiwu
-Marca de lesão
-Retorna verdadeiro quando {0} {2} {3} tiver marca de lesão maior ou igual a {1}
+Marca de lesao
+Retorna verdadeiro quando {0} {2} {3} tiver marca de lesao maior ou igual a {1}
 Marca de falha
 Retorna verdadeiro quando {0} {2} falha maior ou igual a {1}
 Marca de bloqueio
@@ -115,8 +115,8 @@ Marca de saúde
 Retorna verdadeiro quando {0} tiver marca de saúde maior ou igual a {1}
 Marca de inseto
 Retorna verdadeiro quando {0} possuir {1} e {2} do inseto {3}
-Marca de transformação de inseto
-Retorna verdadeiro quando {0} possuir {1} transformação de inseto
+Marca de transformacao de inseto
+Retorna verdadeiro quando {0} possuir {1} transformacao de inseto
 Marca de inseto rei
 Retorna verdadeiro quando {0} possuir {1} inseto rei
 Marca de energia verdadeira
@@ -125,19 +125,19 @@ Efeito do método de cultivo
 Retorna verdadeiro quando o método de cultivo {0} {1} {2} tiver {3} camadas de efeito
 Valor de passo
 Retorna verdadeiro quando o valor de passo {1} for maior ou igual a {0}%
-Exaustão
-Condição desativada, sempre retornará falso
+Exaustao
+Condicao desativada, sempre retornara falso
 Pureza
 Retorna verdadeiro quando o personagem for Taiwu ou {0} tiver pureza maior ou igual a {1}
 Fase
 Retorna verdadeiro quando a fase de batalha for maior ou igual a {0} (a primeira fase é zero)
-Espaço para estilo
-Retorna verdadeiro quando o número de estilos no espaço {0} for maior ou igual a {2}
-Arma alternável por índice
+Espaco para estilo
+Retorna verdadeiro quando o número de estilos no espaco {0} for maior ou igual a {2}
+Arma alternavel por índice
 Retorna verdadeiro quando a arma no índice {0} puder ser trocada
-Arma alternável específica
-Retorna verdadeiro quando existir uma arma alternável {0}
-Arma alternável por tipo
+Arma alternavel específica
+Retorna verdadeiro quando existir uma arma alternavel {0}
+Arma alternavel por tipo
 Retorna verdadeiro quando existir uma arma do tipo {0} que possa ser trocada
 Arma atual
 Retorna verdadeiro quando a arma {0} for {1}
@@ -148,48 +148,48 @@ Retorna verdadeiro quando a energia interna do atributo {0} for {1}
 Todas as marcas
 Retorna verdadeiro quando todas as marcas de {0} forem maiores ou iguais a {1}
 Todas as marcas internas e externas
-Quando todos os locais de {0} tiverem {2} marcas de ferimento não menores que {1}, retorna verdadeiro
+Quando todos os locais de {0} tiverem {2} marcas de ferimento nao menores que {1}, retorna verdadeiro
 Todas as marcas de ferimento
-Quando todos os locais de {0} tiverem marcas de ferimento não menores que {1}, retorna verdadeiro
+Quando todos os locais de {0} tiverem marcas de ferimento nao menores que {1}, retorna verdadeiro
 Todas as marcas de vulnerabilidade
-Quando todos os locais de {0} tiverem marcas de vulnerabilidade não menores que {1}, retorna verdadeiro
+Quando todos os locais de {0} tiverem marcas de vulnerabilidade nao menores que {1}, retorna verdadeiro
 Todas as marcas de bloqueio de pontos vitais
-Quando todos os locais de {0} tiverem marcas de bloqueio de pontos vitais não menores que {1}, retorna verdadeiro
+Quando todos os locais de {0} tiverem marcas de bloqueio de pontos vitais nao menores que {1}, retorna verdadeiro
 Memória maior que
 Quando o valor correspondente de {0} na memória for maior que o valor correspondente de {1}, retorna verdadeiro
 Memória menor que
 Quando o valor correspondente de {0} na memória for menor que o valor correspondente de {1}, retorna verdadeiro
-Memória igual à execução
-Quando o valor correspondente de {0} na memória for igual ao método de cultivo {1} em execução, retorna verdadeiro
+Memória igual à execucao
+Quando o valor correspondente de {0} na memória for igual ao método de cultivo {1} em execucao, retorna verdadeiro
 Borda do alcance de ataque maior
 Quando a borda do alcance de ataque {1} de {0} for maior que a borda correspondente no alcance de ataque do oponente, retorna verdadeiro
 Borda do alcance de ataque menor
 Quando a borda do alcance de ataque {1} de {0} for menor que a borda correspondente no alcance de ataque do oponente, retorna verdadeiro
 Último ataque normal desviado
-Se o último ataque normal for com a arma atual e o ataque inicial ou sequência for desviado, retorna verdadeiro
+Se o último ataque normal for com a arma atual e o ataque inicial ou sequencia for desviado, retorna verdadeiro
 Índice da arma atual
 Quando o índice da arma {0} for {1}, retorna verdadeiro
 Executando técnicas de cultivo regulares ou inversas
-{0} está executando a técnica de cultivo {1} {2}
+{0} esta executando a técnica de cultivo {1} {2}
 Pode executar uma técnica específica
 Quando for possível executar a técnica de cultivo {0}, retorna verdadeiro
 Pode executar técnicas regulares ou inversas
 Quando for possível executar a técnica de cultivo {0} e a técnica for {1}, retorna verdadeiro
 Intensidade do estado benéfico
-Quando existir um estado benéfico chamado {0} e sua intensidade total não for menor que {2}, retorna verdadeiro
+Quando existir um estado benéfico chamado {0} e sua intensidade total nao for menor que {2}, retorna verdadeiro
 Intensidade do estado prejudicial
-Quando existir um estado prejudicial chamado {0} e sua intensidade total não for menor que {2}, retorna verdadeiro
+Quando existir um estado prejudicial chamado {0} e sua intensidade total nao for menor que {2}, retorna verdadeiro
 Intensidade do estado especial
-Quando existir um estado especial chamado {0} e sua intensidade total não for menor que {2}, retorna verdadeiro
+Quando existir um estado especial chamado {0} e sua intensidade total nao for menor que {2}, retorna verdadeiro
 Dentro do alcance de memória da técnica
-Quando a distância atual +{2} estiver dentro do alcance de execução da técnica correspondente de {0} na memória, retorna verdadeiro
+Quando a distancia atual +{2} estiver dentro do alcance de execucao da técnica correspondente de {0} na memória, retorna verdadeiro
 Pode executar técnica de memória
 Quando for possível executar a técnica de memória {0}, retorna verdadeiro
-Distância atual igual
-Quando a distância atual for igual a {0}, retorna verdadeiro
-Distância atual maior
-Quando a distância atual for maior que {0}, retorna verdadeiro
-Distância atual menor
-Quando a distância atual for menor que {0}, retorna verdadeiro
+Distancia atual igual
+Quando a distancia atual for igual a {0}, retorna verdadeiro
+Distancia atual maior
+Quando a distancia atual for maior que {0}, retorna verdadeiro
+Distancia atual menor
+Quando a distancia atual for menor que {0}, retorna verdadeiro
 Último ataque normal falhou
 Quando o último ataque normal falhou com a arma atual e nenhum ataque foi realizado, retorna verdadeiro

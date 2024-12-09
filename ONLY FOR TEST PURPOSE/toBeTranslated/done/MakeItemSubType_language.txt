@@ -63,25 +63,25 @@
 
 
 Qiao
-Feito com o "caráter" de destreza, foca na força, sutileza e rapidez, mas é um pouco mais lento…
+Feito com o "carater" de destreza, foca na forca, sutileza e rapidez, mas é um pouco mais lento…
 Zhuo
-Feito com o "caráter" de desajeito, foca na força bruta, sem sutileza…
+Feito com o "carater" de desajeito, foca na forca bruta, sem sutileza…
 
 
 
 
 Qian
-Feito com o "caráter" de céu, foca na rapidez e força, mas com menos sutileza…
+Feito com o "carater" de céu, foca na rapidez e forca, mas com menos sutileza…
 Kun
-Feito com o "caráter" de terra, foca na sutileza e rapidez, mas com menos força…
-Feito com o "caráter" de destreza, foca na rapidez, mas com pouca força…
-Feito com o "caráter" de desajeito, foca na sutileza, mas é extremamente lento…
+Feito com o "carater" de terra, foca na sutileza e rapidez, mas com menos forca…
+Feito com o "carater" de destreza, foca na rapidez, mas com pouca forca…
+Feito com o "carater" de desajeito, foca na sutileza, mas é extremamente lento…
 
 
 
 
-Feito com o "caráter" de céu, foca na rapidez, mas com pouca força…
-Feito com o "caráter" de terra, foca na sutileza, mas com pouca força…
+Feito com o "carater" de céu, foca na rapidez, mas com pouca forca…
+Feito com o "carater" de terra, foca na sutileza, mas com pouca forca…
 
 
 
@@ -95,53 +95,53 @@ Feito com o "caráter" de terra, foca na sutileza, mas com pouca força…
 
 
 Feng
-Feito com o "caráter" de lâmina, foca na sutileza e rapidez, mas com menos força…
+Feito com o "carater" de lamina, foca na sutileza e rapidez, mas com menos forca…
 Zhong
-Feito com o "caráter" de peso, foca na força bruta, mas é extremamente lento…
+Feito com o "carater" de peso, foca na forca bruta, mas é extremamente lento…
 Cang
-Feito com o "caráter" de ocultação, foca na força e sutileza, mas com menos rapidez…
+Feito com o "carater" de ocultacao, foca na forca e sutileza, mas com menos rapidez…
 
 
 
 
 Rui
-Feito com o "caráter" de afiação, foca na rapidez, mas com pouca sutileza…
+Feito com o "carater" de afiacao, foca na rapidez, mas com pouca sutileza…
 Rong
-Feito com o "caráter" de fusão, foca na força e rapidez, mas com menos sutileza…
+Feito com o "carater" de fusao, foca na forca e rapidez, mas com menos sutileza…
 Ling
-Feito com o "caráter" de espírito, foca na sutileza, mas com pouca força…
+Feito com o "carater" de espírito, foca na sutileza, mas com pouca forca…
 
 
 
 
-Feito com o "caráter" de lâmina, foca na força e rapidez, mas sem sutileza…
-Feito com o "caráter" de peso, foca na força bruta, mas é extremamente lento…
-Feito com o "caráter" de ocultação, foca na força e sutileza, mas é extremamente lento…
+Feito com o "carater" de lamina, foca na forca e rapidez, mas sem sutileza…
+Feito com o "carater" de peso, foca na forca bruta, mas é extremamente lento…
+Feito com o "carater" de ocultacao, foca na forca e sutileza, mas é extremamente lento…
 
 
 
 
-Feito com o "caráter" de afiação, foca na força bruta, sem sutileza…
-Feito com o "caráter" de fusão, foca na força, mas com menos sutileza…
-Feito com o "caráter" de espírito, foca na força, mas com menos rapidez…
+Feito com o "carater" de afiacao, foca na forca bruta, sem sutileza…
+Feito com o "carater" de fusao, foca na forca, mas com menos sutileza…
+Feito com o "carater" de espírito, foca na forca, mas com menos rapidez…
 
 
 
 
 Chi
-Feito com o "caráter" de sustentação, foca na força bruta, sem sutileza…
+Feito com o "carater" de sustentacao, foca na forca bruta, sem sutileza…
 Fa
-Feito com o "caráter" de derrubada, foca na força, mas com menos sutileza…
+Feito com o "carater" de derrubada, foca na forca, mas com menos sutileza…
 Yong
-Feito com o "caráter" de uso, foca na força e rapidez, mas com menos sutileza…
+Feito com o "carater" de uso, foca na forca e rapidez, mas com menos sutileza…
 Xiu
-Feito com o "caráter" de cultivo, foca na força e sutileza, mas com menos rapidez…
+Feito com o "carater" de cultivo, foca na forca e sutileza, mas com menos rapidez…
 
 
-Feito com o "caráter" de sustentação, foca na força bruta, mas com pouca rapidez…
-Feito com o "caráter" de derrubada, foca na força, mas com menos rapidez…
-Feito com o "caráter" de uso, foca na rapidez, mas com menos força…
-Feito com o "caráter" de cultivo, foca na sutileza, mas com menos força…
+Feito com o "carater" de sustentacao, foca na forca bruta, mas com pouca rapidez…
+Feito com o "carater" de derrubada, foca na forca, mas com menos rapidez…
+Feito com o "carater" de uso, foca na rapidez, mas com menos forca…
+Feito com o "carater" de cultivo, foca na sutileza, mas com menos forca…
 
 
 
@@ -175,48 +175,48 @@ Feito com o "caráter" de cultivo, foca na sutileza, mas com menos força…
 
 
 Pi
-Feito com o "caráter" de proteção, pode resistir a venenos intensos…
+Feito com o "carater" de protecao, pode resistir a venenos intensos…
 Hua
-Feito com o "caráter" de transformação, pode resistir a venenos gelados…
+Feito com o "carater" de transformacao, pode resistir a venenos gelados…
 Sheng
-Feito com o "caráter" de vida, pode resistir a venenos de corrupção…
+Feito com o "carater" de vida, pode resistir a venenos de corrupcao…
 Li
-"Fortaleça a força, faça a alma rica e afaste o dragão ilusório", feito com o "caráter" de força, pode ajudar a aumentar a força física…
+"Fortaleca a forca, faca a alma rica e afaste o dragao ilusório", feito com o "carater" de forca, pode ajudar a aumentar a forca física…
 Gu
-"Fortaleça a força, faça a alma rica e afaste o dragão ilusório", feito com o "caráter" de solidez, pode ajudar a aumentar a constituição…
+"Fortaleca a forca, faca a alma rica e afaste o dragao ilusório", feito com o "carater" de solidez, pode ajudar a aumentar a constituicao…
 Shen
-"Fortaleça a força, faça a alma rica e afaste o dragão ilusório", feito com o "caráter" de espírito, pode ajudar a aumentar a sensibilidade…
+"Fortaleca a forca, faca a alma rica e afaste o dragao ilusório", feito com o "carater" de espírito, pode ajudar a aumentar a sensibilidade…
 Feng
-"Fortaleça a força, faça a alma rica e afaste o dragão ilusório", feito com o "caráter" de abundância, pode ajudar a direcionar a energia para os pontos críticos…
+"Fortaleca a forca, faca a alma rica e afaste o dragao ilusório", feito com o "carater" de abundancia, pode ajudar a direcionar a energia para os pontos críticos…
 Zhu
-"Fortaleça a força, faça a alma rica e afaste o dragão ilusório", feito com o "caráter" de perseguição, pode ajudar a aumentar a rapidez…
+"Fortaleca a forca, faca a alma rica e afaste o dragao ilusório", feito com o "carater" de perseguicao, pode ajudar a aumentar a rapidez…
 Huan
-"Fortaleça a força, faça a alma rica e afaste o dragão ilusório", feito com o "caráter" de ilusão, pode ajudar a aumentar a sutileza…
+"Fortaleca a forca, faca a alma rica e afaste o dragao ilusório", feito com o "carater" de ilusao, pode ajudar a aumentar a sutileza…
 Long
-"Fortaleça a força, faça a alma rica e afaste o dragão ilusório", feito com o "caráter" de dragão, pode ajudar a aumentar a força…
+"Fortaleca a forca, faca a alma rica e afaste o dragao ilusório", feito com o "carater" de dragao, pode ajudar a aumentar a forca…
 
 
 
 
 Shu
-Feito com o "caráter" de dispersão, pode resistir a venenos de estagnação…
+Feito com o "carater" de dispersao, pode resistir a venenos de estagnacao…
 Huo
-Feito com o "caráter" de vitalidade, pode resistir a venenos de fogo…
+Feito com o "carater" de vitalidade, pode resistir a venenos de fogo…
 Ning
-Feito com o "caráter" de serenidade, pode resistir a venenos ilusórios…
+Feito com o "carater" de serenidade, pode resistir a venenos ilusórios…
 Wu
-"Compreensão das leis para alcançar o Dao e absorver a essência do vazio", feito com o "caráter" de compreensão, pode ajudar a aumentar a percepção…
+"Compreensao das leis para alcancar o Dao e absorver a essencia do vazio", feito com o "carater" de compreensao, pode ajudar a aumentar a percepcao…
 Fa
-"Compreensão das leis para alcançar o Dao e absorver a essência do vazio", feito com o "caráter" de método, pode ajudar a aumentar a raiz e os fundamentos…
+"Compreensao das leis para alcancar o Dao e absorver a essencia do vazio", feito com o "carater" de método, pode ajudar a aumentar a raiz e os fundamentos…
 He
-"Compreensão das leis para alcançar o Dao e absorver a essência do vazio", feito com o "caráter" de união, pode ajudar a aumentar a concentração…
+"Compreensao das leis para alcancar o Dao e absorver a essencia do vazio", feito com o "carater" de uniao, pode ajudar a aumentar a concentracao…
 Dao
-"Compreensão das leis para alcançar o Dao e absorver a essência do vazio", feito com o "caráter" de Dao, pode ajudar a melhorar o uso de equipamentos…
+"Compreensao das leis para alcancar o Dao e absorver a essencia do vazio", feito com o "carater" de Dao, pode ajudar a melhorar o uso de equipamentos…
 Na
-"Compreensão das leis para alcançar o Dao e absorver a essência do vazio", feito com o "caráter" de absorção, pode ajudar a regular a respiração…
-"Compreensão das leis para alcançar o Dao e absorver a essência do vazio", feito com o "caráter" de espírito, pode ajudar a melhorar a destruição de energia…
+"Compreensao das leis para alcancar o Dao e absorver a essencia do vazio", feito com o "carater" de absorcao, pode ajudar a regular a respiracao…
+"Compreensao das leis para alcancar o Dao e absorver a essencia do vazio", feito com o "carater" de espírito, pode ajudar a melhorar a destruicao de energia…
 Kong
-"Compreensão das leis para alcançar o Dao e absorver a essência do vazio", feito com o "caráter" de vazio, pode ajudar a aumentar as habilidades internas…
+"Compreensao das leis para alcancar o Dao e absorver a essencia do vazio", feito com o "carater" de vazio, pode ajudar a aumentar as habilidades internas…
 
 
 
@@ -226,77 +226,77 @@ Kong
 
 
 Feng
-Feito com o "caráter" de vento, é um adorno que ajuda na evasão…
+Feito com o "carater" de vento, é um adorno que ajuda na evasao…
 Yu
-Feito com o "caráter" de chuva, é um adorno que ajuda a aliviar a força…
+Feito com o "carater" de chuva, é um adorno que ajuda a aliviar a forca…
 Wu
-Feito com o "caráter" de névoa, é um adorno que ajuda a desviar os ataques…
+Feito com o "carater" de névoa, é um adorno que ajuda a desviar os ataques…
 Yun
-Feito com o "caráter" de nuvem, é um adorno que ajuda a reduzir danos externos…
+Feito com o "carater" de nuvem, é um adorno que ajuda a reduzir danos externos…
 
 
 
 
 
 
-Feito com o "caráter" de nuvem, é um adorno que ajuda a reduzir danos internos…
+Feito com o "carater" de nuvem, é um adorno que ajuda a reduzir danos internos…
 
 
 
 
 
 
-Feito com o "caráter" de vento, é um calçado que ajuda na evasão…
-Feito com o "caráter" de chuva, é um calçado que ajuda a aliviar a força…
-Feito com o "caráter" de névoa, é um calçado que ajuda a desviar os ataques…
-Feito com o "caráter" de nuvem, é um calçado que ajuda a reduzir danos externos…
+Feito com o "carater" de vento, é um calcado que ajuda na evasao…
+Feito com o "carater" de chuva, é um calcado que ajuda a aliviar a forca…
+Feito com o "carater" de névoa, é um calcado que ajuda a desviar os ataques…
+Feito com o "carater" de nuvem, é um calcado que ajuda a reduzir danos externos…
 
 
 
 
 
 
-Feito com o "caráter" de nuvem, é um calçado que ajuda a reduzir danos internos…
+Feito com o "carater" de nuvem, é um calcado que ajuda a reduzir danos internos…
 Gang
-Feito com o "caráter" de rigidez, é uma armadura que resiste fortemente ao corpo e pode reduzir grandes danos externos…
+Feito com o "carater" de rigidez, é uma armadura que resiste fortemente ao corpo e pode reduzir grandes danos externos…
 Rou
-Feito com o "caráter" de suavidade, é uma armadura focada na resistência ao corpo, ajudando a reduzir danos externos…
+Feito com o "carater" de suavidade, é uma armadura focada na resistencia ao corpo, ajudando a reduzir danos externos…
 
 
 
 
-Feito com o "caráter" de vento, é uma armadura que ajuda na evasão…
-Feito com o "caráter" de chuva, é uma armadura que ajuda a aliviar a força…
-Feito com o "caráter" de névoa, é uma armadura que ajuda a desviar os ataques…
-Feito com o "caráter" de nuvem, é uma armadura que ajuda a reduzir danos externos…
-Feito com o "caráter" de rigidez, é uma armadura que resiste ao corpo e à energia, ajudando a reduzir tanto danos externos quanto internos…
-Feito com o "caráter" de suavidade, é uma armadura focada na resistência à energia, ajudando a reduzir danos internos…
+Feito com o "carater" de vento, é uma armadura que ajuda na evasao…
+Feito com o "carater" de chuva, é uma armadura que ajuda a aliviar a forca…
+Feito com o "carater" de névoa, é uma armadura que ajuda a desviar os ataques…
+Feito com o "carater" de nuvem, é uma armadura que ajuda a reduzir danos externos…
+Feito com o "carater" de rigidez, é uma armadura que resiste ao corpo e à energia, ajudando a reduzir tanto danos externos quanto internos…
+Feito com o "carater" de suavidade, é uma armadura focada na resistencia à energia, ajudando a reduzir danos internos…
 
 
 
 
-Feito com o "caráter" de nuvem, é uma armadura que ajuda a reduzir danos internos…
-
-
-
-
-
-
-Feito com o "caráter" de vento, é um bracelete que ajuda na evasão…
-Feito com o "caráter" de chuva, é um bracelete que ajuda a aliviar a força…
-Feito com o "caráter" de névoa, é um bracelete que ajuda a desviar os ataques…
-Feito com o "caráter" de nuvem, é um bracelete que ajuda a reduzir danos externos…
+Feito com o "carater" de nuvem, é uma armadura que ajuda a reduzir danos internos…
 
 
 
 
 
 
-Feito com o "caráter" de nuvem, é um bracelete que ajuda a reduzir danos internos…
+Feito com o "carater" de vento, é um bracelete que ajuda na evasao…
+Feito com o "carater" de chuva, é um bracelete que ajuda a aliviar a forca…
+Feito com o "carater" de névoa, é um bracelete que ajuda a desviar os ataques…
+Feito com o "carater" de nuvem, é um bracelete que ajuda a reduzir danos externos…
+
+
+
+
+
+
+Feito com o "carater" de nuvem, é um bracelete que ajuda a reduzir danos internos…
 
 
 Zhi
-Feito com o "caráter" de vontade, é um traje que ajuda no crescimento da ambição… 
+Feito com o "carater" de vontade, é um traje que ajuda no crescimento da ambicao… 
 
 
 
@@ -376,53 +376,53 @@ Feito com o "caráter" de vontade, é um traje que ajuda no crescimento da ambi�
 True
 Fórmula principal de metal, ajuda a tratar ferimentos externos…
 Fórmula principal de metal, ajuda a resolver o veneno vermelho…
-Fórmula principal de metal, ajuda a fortalecer a resistência física…
-Fórmula principal de metal, ajuda a aumentar a força…
+Fórmula principal de metal, ajuda a fortalecer a resistencia física…
+Fórmula principal de metal, ajuda a aumentar a forca…
 Fórmula principal de metal, ajuda a tratar ferimentos internos…
-Fórmula principal de metal, ajuda a resolver o veneno de estagnação…
+Fórmula principal de metal, ajuda a resolver o veneno de estagnacao…
 Fórmula principal de metal, ajuda a fortalecer a energia vital…
 Fórmula principal de metal, ajuda a aumentar a velocidade de ataque e o uso de equipamentos…
-Fórmula principal de metal, ajuda a regular a respiração interna…
+Fórmula principal de metal, ajuda a regular a respiracao interna…
 Fórmula principal de metal, ajuda a resolver o veneno gelado…
-Fórmula principal de metal, ajuda a aumentar a resistência ao impacto…
+Fórmula principal de metal, ajuda a aumentar a resistencia ao impacto…
 Fórmula principal de metal, ajuda a aumentar a sutileza…
 Fórmula principal de metal, ajuda a restaurar a saúde…
 Fórmula principal de metal, ajuda a resolver o veneno ilusório…
 Fórmula principal de metal, ajuda a aumentar a habilidade de desviar ataques…
 Fórmula principal de metal, ajuda a aumentar a velocidade de movimento e a estabilidade dos passos…
-Fórmula principal de metal, ajuda a aumentar a velocidade de elevação de energia e a velocidade de postura…
-Fórmula principal de metal, ajuda a resolver o veneno de corrupção…
-Fórmula principal de metal, ajuda a aumentar a evasão…
+Fórmula principal de metal, ajuda a aumentar a velocidade de elevacao de energia e a velocidade de postura…
+Fórmula principal de metal, ajuda a resolver o veneno de corrupcao…
+Fórmula principal de metal, ajuda a aumentar a evasao…
 Fórmula principal de metal, ajuda a aumentar a velocidade…
 Fórmula principal de metal, ajuda a quebrar a energia do inimigo…
 Fórmula principal de metal, ajuda a resolver o veneno intenso…
-Fórmula principal de metal, ajuda a aumentar a velocidade de execução e a orientação da energia…
-Fórmula principal de metal, ajuda a aumentar a destruição do corpo…
+Fórmula principal de metal, ajuda a aumentar a velocidade de execucao e a orientacao da energia…
+Fórmula principal de metal, ajuda a aumentar a destruicao do corpo…
 Odd
-Remédio incomum, ajuda a aumentar a força…
+Remédio incomum, ajuda a aumentar a forca…
 Remédio incomum, ajuda a tratar ferimentos externos…
 Remédio incomum, ajuda a resolver o veneno vermelho…
-Remédio incomum, ajuda a fortalecer a resistência física…
+Remédio incomum, ajuda a fortalecer a resistencia física…
 Remédio incomum, ajuda a aumentar a velocidade de ataque e o uso de equipamentos…
 Remédio incomum, ajuda a tratar ferimentos internos…
-Remédio incomum, ajuda a resolver o veneno de estagnação…
+Remédio incomum, ajuda a resolver o veneno de estagnacao…
 Remédio incomum, ajuda a fortalecer a energia vital…
 Remédio incomum, ajuda a aumentar a sutileza…
-Remédio incomum, ajuda a regular a respiração interna…
+Remédio incomum, ajuda a regular a respiracao interna…
 Remédio incomum, ajuda a resolver o veneno gelado…
-Remédio incomum, ajuda a aumentar a resistência ao impacto…
+Remédio incomum, ajuda a aumentar a resistencia ao impacto…
 Remédio incomum, ajuda a aumentar a velocidade de movimento e a estabilidade dos passos…
 Remédio incomum, ajuda a restaurar a saúde…
 Remédio incomum, ajuda a resolver o veneno ilusório…
 Remédio incomum, ajuda a aumentar a habilidade de desviar ataques…
 Remédio incomum, ajuda a aumentar a velocidade…
-Remédio incomum, ajuda a aumentar a velocidade de elevação de energia e a velocidade de postura…
-Remédio incomum, ajuda a resolver o veneno de corrupção…
-Remédio incomum, ajuda a aumentar a evasão…
-Remédio incomum, ajuda a aumentar a destruição do corpo…
+Remédio incomum, ajuda a aumentar a velocidade de elevacao de energia e a velocidade de postura…
+Remédio incomum, ajuda a resolver o veneno de corrupcao…
+Remédio incomum, ajuda a aumentar a evasao…
+Remédio incomum, ajuda a aumentar a destruicao do corpo…
 Remédio incomum, ajuda a quebrar a energia do inimigo…
 Remédio incomum, ajuda a resolver o veneno intenso…
-Remédio incomum, ajuda a aumentar a velocidade de execução e a orientação da energia…
+Remédio incomum, ajuda a aumentar a velocidade de execucao e a orientacao da energia…
 
 
 
@@ -450,4 +450,4 @@ Remédio incomum, ajuda a aumentar a velocidade de execução e a orientação d
 
 
 Mín
-Fórmula de "Mín", feita para roupas, pode destacar a identidade de aldeão…
+Fórmula de "Mín", feita para roupas, pode destacar a identidade de aldeao…

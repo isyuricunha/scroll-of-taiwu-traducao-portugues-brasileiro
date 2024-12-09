@@ -1,83 +1,83 @@
 FOR
-Representa a força e o poder explosivo...\n\n<color=#pinkyellow>·Aumenta a<SpName=mousetip_mingzhong_1_0>Força e<SpName=mousetip_huajie_0>Desvio do personagem.\n·Aumenta a eficácia de técnicas, armas e armaduras que requerem<SpName=mousetip_zhuyao_0>Força.\n·Aumenta o peso máximo do inventário.\n·Aumenta o peso máximo de equipamentos do personagem.\n·Com a idade, a Força se torna mais difícil de recuperar</color>
+Representa a forca e o poder explosivo...\n\n<color=#pinkyellow>·Aumenta a<SpName=mousetip_mingzhong_1_0>Forca e<SpName=mousetip_huajie_0>Desvio do personagem.\n·Aumenta a eficacia de técnicas, armas e armaduras que requerem<SpName=mousetip_zhuyao_0>Forca.\n·Aumenta o peso maximo do inventario.\n·Aumenta o peso maximo de equipamentos do personagem.\n·Com a idade, a Forca se torna mais difícil de recuperar</color>
 AGI
-Representa a agilidade corporal e coordenação...\n\n<color=#pinkyellow>·Aumenta a<SpName=mousetip_mingzhong_1_2>Rapidez e<SpName=mousetip_huajie_2>Esquiva do personagem.\n·Aumenta a eficácia de técnicas, armas e armaduras que requerem<SpName=mousetip_zhuyao_1>Agilidade.\n·Com a idade, a Agilidade se torna mais difícil de recuperar</color>
+Representa a agilidade corporal e coordenacao...\n\n<color=#pinkyellow>·Aumenta a<SpName=mousetip_mingzhong_1_2>Rapidez e<SpName=mousetip_huajie_2>Esquiva do personagem.\n·Aumenta a eficacia de técnicas, armas e armaduras que requerem<SpName=mousetip_zhuyao_1>Agilidade.\n·Com a idade, a Agilidade se torna mais difícil de recuperar</color>
 VON
-Representa a força de vontade e julgamento...\n\n<color=#pinkyellow>·Aumenta o<SpName=mousetip_mingzhong_1_3>Fôlego e<SpName=mousetip_huajie_3>Concentração do personagem.\n·Aumenta a eficácia de técnicas, armas e armaduras que requerem<SpName=mousetip_zhuyao_2>Vontade.\n·Com a idade, a Vontade se torna mais fácil de recuperar</color>
+Representa a forca de vontade e julgamento...\n\n<color=#pinkyellow>·Aumenta o<SpName=mousetip_mingzhong_1_3>Fôlego e<SpName=mousetip_huajie_3>Concentracao do personagem.\n·Aumenta a eficacia de técnicas, armas e armaduras que requerem<SpName=mousetip_zhuyao_2>Vontade.\n·Com a idade, a Vontade se torna mais facil de recuperar</color>
 CON
-Representa resistência e resistência física...\n\n<color=#pinkyellow>·Aumenta o<SpName=mousetip_gongji_0>Pene. Externa e<SpName=mousetip_fangyu_0>Def. Externa do personagem.\n·Aumenta a eficácia de técnicas, armas e armaduras que requerem<SpName=mousetip_zhuyao_3>Constituição.\n·Aumenta a quantidade de consumíveis que o personagem pode ingerir.\n·Com a idade, a Constituição se torna mais difícil de recuperar</color>
+Representa resistencia e resistencia física...\n\n<color=#pinkyellow>·Aumenta o<SpName=mousetip_gongji_0>Pene. Externa e<SpName=mousetip_fangyu_0>Def. Externa do personagem.\n·Aumenta a eficacia de técnicas, armas e armaduras que requerem<SpName=mousetip_zhuyao_3>Constituicao.\n·Aumenta a quantidade de consumíveis que o personagem pode ingerir.\n·Com a idade, a Constituicao se torna mais difícil de recuperar</color>
 VIT
-Representa a qualidade interna da carne e sangue...\n\n<color=#pinkyellow>·Aumenta o<SpName=mousetip_gongji_1>Pene. Int. e<SpName=mousetip_fangyu_1>Def. Int. do personagem.\n·Aumenta a eficácia de técnicas, armas e armaduras que requerem<SpName=mousetip_zhuyao_4>Vitalidade.\n·Com a idade, a Vitalidade se torna mais fácil de recuperar</color>
+Representa a qualidade interna da carne e sangue...\n\n<color=#pinkyellow>·Aumenta o<SpName=mousetip_gongji_1>Pene. Int. e<SpName=mousetip_fangyu_1>Def. Int. do personagem.\n·Aumenta a eficacia de técnicas, armas e armaduras que requerem<SpName=mousetip_zhuyao_4>Vitalidade.\n·Com a idade, a Vitalidade se torna mais facil de recuperar</color>
 COM
-Representa a capacidade de compreender e perceber...\n\n<color=#pinkyellow>·Aumenta a<SpName=mousetip_mingzhong_1_1>Destreza e<SpName=mousetip_huajie_1>Bloqueio do personagem.\n·Aumenta a eficácia de técnicas, armas e armaduras que requerem<SpName=mousetip_zhuyao_5>Compreensão.\n·Ajuda no estudo de livros e avanços em artes marciais.</color>
+Representa a capacidade de compreender e perceber...\n\n<color=#pinkyellow>·Aumenta a<SpName=mousetip_mingzhong_1_1>Destreza e<SpName=mousetip_huajie_1>Bloqueio do personagem.\n·Aumenta a eficacia de técnicas, armas e armaduras que requerem<SpName=mousetip_zhuyao_5>Compreensao.\n·Ajuda no estudo de livros e avancos em artes marciais.</color>
 MIG
-A habilidade de esmagar um inimigo com grande força e causar dano...\n\n<color=#pinkyellow>·Ataques baseados em força como Soco, Golpe, Arremesso, Armazém.</color>
+A habilidade de esmagar um inimigo com grande forca e causar dano...\n\n<color=#pinkyellow>·Ataques baseados em forca como Soco, Golpe, Arremesso, Armazém.</color>
 FIN
 A habilidade de manter o inimigo sob controle com movimentos astutos e causar dano...\n\n<color=#pinkyellow>·Ataques sutis baseados em como Segurar, Cortar, Dirigir, Droga, Varredura.</color>
 SWI
-A habilidade de atacar um inimigo com grande velocidade e causar dano...\n\n<color=#pinkyellow>·Ataques rápidos baseados em como Apontar, Esfaquear, Atirar, Tóxico, Envolver.</color>
+A habilidade de atacar um inimigo com grande velocidade e causar dano...\n\n<color=#pinkyellow>·Ataques rapidos baseados em como Apontar, Esfaquear, Atirar, Tóxico, Envolver.</color>
 BRE
-A habilidade de confundir os inimigos com um som mágico real e causar dano...\n\n<color=#pinkyellow>·Ataques mentais baseados em como Som, Feitiço.</color>
+A habilidade de confundir os inimigos com um som magico real e causar dano...\n\n<color=#pinkyellow>·Ataques mentais baseados em como Som, Feitico.</color>
 Pene. Externa
 A habilidade de quebrar a Defesa Externa do inimigo e aumentar as feridas externas sofridas pelo inimigo...
 Pene. Int.
-A habilidade de quebrar a Defesa Interna do inimigo e aumentar as lesões internas sofridas pelo inimigo...
+A habilidade de quebrar a Defesa Interna do inimigo e aumentar as lesoes internas sofridas pelo inimigo...
 DESV
-A habilidade de desviar a força do inimigo e evitar danos de ataques de Força...
+A habilidade de desviar a forca do inimigo e evitar danos de ataques de Forca...
 BLOQ
 A habilidade de bloquear os movimentos do inimigo e evitar danos de ataques de Destreza...
 ESQ
 A habilidade de evitar ataques inimigos e evitar danos de ataques de Velocidade...
 CONC
-A habilidade de resistir à voz mágica do inimigo e evitar danos de ataques de Fôlego...
+A habilidade de resistir à voz magica do inimigo e evitar danos de ataques de Fôlego...
 Def. Externa
 A habilidade de fortalecer os músculos e ossos externamente, proteger o corpo firmemente e mitigar as feridas externas sustentadas...
 Def. Int.
-A habilidade de purificar internamente a energia vital, proteger o chakra e movimentar o qi, e mitigar as lesões internas sustentadas...
-Recuperação de Postura
-Quanto maior a Recuperação de Postura, mais Postura o personagem receberá cada vez que ele realizar um ataque com a arma ou for atacado por uma arma. \nPostura é principalmente usada para realizar habilidades Externas.
-Recuperação de Inalação
-Quanto maior a Recuperação de Inalação, mais rápido a Inalação do personagem será recuperada. \nInalação é principalmente usada para realizar habilidades Internas.
+A habilidade de purificar internamente a energia vital, proteger o chakra e movimentar o qi, e mitigar as lesoes internas sustentadas...
+Recuperacao de Postura
+Quanto maior a Recuperacao de Postura, mais Postura o personagem recebera cada vez que ele realizar um ataque com a arma ou for atacado por uma arma. \nPostura é principalmente usada para realizar habilidades Externas.
+Recuperacao de Inalacao
+Quanto maior a Recuperacao de Inalacao, mais rapido a Inalacao do personagem sera recuperada. \nInalacao é principalmente usada para realizar habilidades Internas.
 MOV·Spd
-Quanto maior a Velocidade de Movimento, mais rápido o personagem se move em batalha.
+Quanto maior a Velocidade de Movimento, mais rapido o personagem se move em batalha.
 Rec. Externa
-Quanto maior a Recuperação Externa, mais rápido os Pontos Fracos que o personagem sofre em batalha desaparecem.
-Vel. de Lançamento
-Quanto maior a Velocidade de Lançamento, mais rápido o personagem poderá lançar habilidades em batalha.
+Quanto maior a Recuperacao Externa, mais rapido os Pontos Fracos que o personagem sofre em batalha desaparecem.
+Vel. de Lancamento
+Quanto maior a Velocidade de Lancamento, mais rapido o personagem podera lancar habilidades em batalha.
 Rec. Interna
-Quanto maior a Recuperação Interna, mais rápido o personagem se recupera dos Pontos de Acupuntura Selados sofridos em batalha.
-Eficiência de Equip.
-Quanto maior a Eficiência de Equipamento, mais curto será o tempo de recarga entre a troca de armas em batalha, e maior será o limite superior de armas e armaduras.
+Quanto maior a Recuperacao Interna, mais rapido o personagem se recupera dos Pontos de Acupuntura Selados sofridos em batalha.
+Eficiencia de Equip.
+Quanto maior a Eficiencia de Equipamento, mais curto sera o tempo de recarga entre a troca de armas em batalha, e maior sera o limite superior de armas e armaduras.
 Vel. de Ataque
-Quanto maior a Velocidade de Ataque, mais rápido o personagem recuperará os "tokens de ataque" usados para ataques com armas em batalha.
-Bônus de Razão Interna
-Quanto maior o Bônus de Razão Interna, maior será a gama de ajuste da razão entre o poder Interno e Externo das habilidades e armas que o personagem pode ajustar.
-Respiração Interna
-Quanto maior a Respiração Interna, mais rápido o personagem se recuperará de Distúrbios Internos, e menos Distúrbios Internos ele sofrerá. \nAumenta a velocidade com que você recupera seu Verdadeiro Qi que ficou abaixo do valor inicial, e diminui a velocidade com que você perde seu Verdadeiro Qi que ultrapassou o valor inicial.
-Resistência a Acritoxina
-A habilidade de proteger os canais do coração para resistir à Acritoxina...
-Resistência a Umbritoxina
-A habilidade de proteger o Qi da estagnação para resistir à Umbritoxina...
-Resistência a Criotoxina
+Quanto maior a Velocidade de Ataque, mais rapido o personagem recuperara os "tokens de ataque" usados para ataques com armas em batalha.
+Bônus de Razao Interna
+Quanto maior o Bônus de Razao Interna, maior sera a gama de ajuste da razao entre o poder Interno e Externo das habilidades e armas que o personagem pode ajustar.
+Respiracao Interna
+Quanto maior a Respiracao Interna, mais rapido o personagem se recuperara de Distúrbios Internos, e menos Distúrbios Internos ele sofrera. \nAumenta a velocidade com que voce recupera seu Verdadeiro Qi que ficou abaixo do valor inicial, e diminui a velocidade com que voce perde seu Verdadeiro Qi que ultrapassou o valor inicial.
+Resistencia a Acritoxina
+A habilidade de proteger os canais do coracao para resistir à Acritoxina...
+Resistencia a Umbritoxina
+A habilidade de proteger o Qi da estagnacao para resistir à Umbritoxina...
+Resistencia a Criotoxina
 A habilidade de dissipar o frio e o gelo para resistir à Criotoxina...
-Resistência a Pirotoxina
+Resistencia a Pirotoxina
 A habilidade de purificar o sangue para resistir à Pirotoxina...
-Resistência a Necrotoxina
-A habilidade de remover a corrupção para resistir à Necrotoxina...
-Resistência a Oneirotoxina
-A habilidade de sair de ilusões para resistir à Oneirotoxina...
+Resistencia a Necrotoxina
+A habilidade de remover a corrupcao para resistir à Necrotoxina...
+Resistencia a Oneirotoxina
+A habilidade de sair de ilusoes para resistir à Oneirotoxina...
 Talento Musical
 A habilidade natural do personagem para aprender e entender música...
 Talento em Xadrez
-Os personagens têm talento para aprender e entender o jogo de xadrez...
+Os personagens tem talento para aprender e entender o jogo de xadrez...
 Talento em Literatura
 A habilidade natural do personagem para aprender e entender poesia e livros...
 Talento em Pintura
 A habilidade natural do personagem para aprender e entender pintura...
 Talento em Astrologia
-A habilidade natural do personagem para aprender e entender as artes e matemática...
+A habilidade natural do personagem para aprender e entender as artes e matematica...
 Talento em Apreciar
-Os personagens aprendem, entendem o talento natural de Apreciação...
+Os personagens aprendem, entendem o talento natural de Apreciacao...
 Talento em Ferraria
 Os personagens aprendem e entendem o talento natural para forjar...
 Talento em Marcenaria
@@ -88,14 +88,14 @@ Talento em Toxicologia
 A habilidade natural do personagem para aprender e entender as artes venenosas...
 Talento em Tecelagem
 Os personagens aprendem e entendem o talento natural para tecer...
-Talento em Lapidação de Gemas
+Talento em Lapidacao de Gemas
 Os personagens aprendem e entendem o talento natural para lapidar gemas...
 Talento em Taoísmo
 A habilidade natural do personagem para aprender e entender o Taoísmo...
 Talento em Budismo
 A habilidade natural do personagem para aprender e entender o Budismo...
-Talento em Artes Culinárias
-A habilidade natural do personagem para aprender e entender as artes culinárias...
+Talento em Artes Culinarias
+A habilidade natural do personagem para aprender e entender as artes culinarias...
 Talento em Sabedoria Popular
 A habilidade natural do personagem para aprender e entender a Sabedoria Popular...
 Conquista Musical
@@ -114,8 +114,8 @@ Conquista em Astrologia
 Astrologia
 O conhecimento, uso e até mesmo a conquista dos personagens na Astrologia...
 Conquista em Apreciar
-Apreciação
-O conhecimento, uso e até mesmo a conquista do personagem em Apreciação...
+Apreciacao
+O conhecimento, uso e até mesmo a conquista do personagem em Apreciacao...
 Conquista em Ferraria
 Ferraria
 O conhecimento, uso e até mesmo a conquista do personagem na Ferraria...
@@ -131,18 +131,18 @@ O conhecimento, uso e até mesmo as conquistas do personagem em Toxicologia...
 Conquista em Tecelagem
 Tecelagem
 O conhecimento, uso e até mesmo a conquista dos personagens na Tecelagem...
-Conquista em Lapidação de Gemas
-Lapidação de Gemas
-O conhecimento, uso e até mesmo a conquista dos personagens na Lapidação de Gemas...
+Conquista em Lapidacao de Gemas
+Lapidacao de Gemas
+O conhecimento, uso e até mesmo a conquista dos personagens na Lapidacao de Gemas...
 Conquista em Taoísmo
 Taoísmo
-O conhecimento, aplicação e até mesmo a conquista dos personagens no Taoísmo...
+O conhecimento, aplicacao e até mesmo a conquista dos personagens no Taoísmo...
 Conquista em Budismo
 Budismo
-O conhecimento, aplicação e até mesmo a conquista dos personagens no Budismo...
-Conquista em Artes Culinárias
-Artes Culinárias
-O conhecimento, uso e até mesmo a conquista dos personagens nas artes culinárias...
+O conhecimento, aplicacao e até mesmo a conquista dos personagens no Budismo...
+Conquista em Artes Culinarias
+Artes Culinarias
+O conhecimento, uso e até mesmo a conquista dos personagens nas artes culinarias...
 Conquista em Sabedoria Popular
 Sabedoria Popular
 O conhecimento, uso e até mesmo a conquista dos personagens na Sabedoria Popular...
@@ -162,16 +162,16 @@ Talento em Armas Secretas
 A habilidade natural do personagem para aprender e entender Armas Secretas...
 Talento em Espada
 A habilidade natural do personagem para aprender e entender as Técnicas de Espada...
-Talento em Lâmina
-A habilidade natural do personagem para aprender e entender as Técnicas de Lâmina...
+Talento em Lamina
+A habilidade natural do personagem para aprender e entender as Técnicas de Lamina...
 Talento em Armas de Haste
 Os personagens aprendem e entendem a habilidade natural nas Técnicas de Armas de Haste...
 Talento em Armas Exóticas
 Os personagens aprendem e entendem o talento natural para Armas Exóticas...
 Talento em Armas Macias
 Os personagens aprendem e entendem a habilidade natural nas Armas Macias...
-Talento em Armas à Distância
-O personagem aprende e entende a habilidade natural nas Armas à Distância...
+Talento em Armas à Distancia
+O personagem aprende e entende a habilidade natural nas Armas à Distancia...
 Talento em Melodia
 A habilidade natural do personagem para aprender e entender as Técnicas de Melodia...
 Conquista em Artes Internas
@@ -198,9 +198,9 @@ O conhecimento, uso e até mesmo a conquista dos personagens nas Armas Secretas.
 Conquista em Espada
 Espada
 O conhecimento, uso e até mesmo a conquista do personagem nas Técnicas de Espada...
-Conquista em Lâmina
-Lâmina
-O conhecimento, uso e até mesmo a conquista do personagem nas Técnicas de Lâmina...
+Conquista em Lamina
+Lamina
+O conhecimento, uso e até mesmo a conquista do personagem nas Técnicas de Lamina...
 Conquista em Armas de Haste
 Armas de Haste
 O conhecimento, uso e até mesmo a conquista do personagem nas Técnicas de Armas de Haste...
@@ -210,35 +210,35 @@ O conhecimento, uso e até mesmo a conquista do personagem nas Armas Exóticas..
 Conquista em Armas Macias
 Armas Macias
 O conhecimento, uso e até mesmo a conquista dos personagens nas Armas Macias...
-Conquista em Armas à Distância
-Armas à Distância
-O conhecimento, uso e até mesmo a conquista dos personagens nas Armas à Distância...
+Conquista em Armas à Distancia
+Armas à Distancia
+O conhecimento, uso e até mesmo a conquista dos personagens nas Armas à Distancia...
 Conquista em Melodia
 Melodia
 O conhecimento, uso e até mesmo a conquista do personagem nas Técnicas de Melodia...
 Compostura
-A habilidade dos personagens de lidar com situações e mudanças complexas
+A habilidade dos personagens de lidar com situacoes e mudancas complexas
 Astúcia
 A habilidade do personagem de saber e aprender coisas.
 Entusiasmo
-A força motriz para os personagens explorarem novas coisas, descobrirem e transmitirem informações.
+A forca motriz para os personagens explorarem novas coisas, descobrirem e transmitirem informacoes.
 Valor
 A habilidade do personagem de enfrentar perigos com coragem
 Fortaleza
-A força de vontade do personagem para suportar coisas extremas
+A forca de vontade do personagem para suportar coisas extremas
 Carma
 O favor do personagem dos céus.
-Percepção
+Percepcao
 Nada escapa ao olhar perceptivo deste personagem...
 Carisma
-O carisma representa a aparência, feiúra e o charme de personalidade de um personagem...\n\n<color=#pinkyellow>·Não há diferença no carisma de crianças\n·O carisma do personagem é grandemente reduzido quando está nu\n·Carisma do menor para o maior:\n\n<SpName=mousetip_lingxing><SpName=mousetip_meili_0><color=#AttractionType_NonHuman>Não Humano</color>\n<SpName=mousetip_lingxing><SpName=mousetip_meili_1><color=#AttractionType_Odious>Desagradável</color>\n<SpName=mousetip_lingxing><SpName=mousetip_meili_2><color=#AttractionType_Ugly>Feio</color>\n<SpName=mousetip_lingxing><SpName=mousetip_meili_3><color=#AttractionType_Normal>Comum</color>\n<SpName=mousetip_lingxing><SpName=mousetip_meili_4><color=#AttractionType_Outstanding>Extraordinário</color>\n<SpName=mousetip_lingxing><SpName=mousetip_meili_5><color=#AttractionType_Beautiful>Bonito (Masculino)/Bela (Feminino)</color>\n<SpName=mousetip_lingxing><SpName=mousetip_meili_6><color=#AttractionType_Brilliant>Dragão (Masculino)/Fênix (Feminino)</color>\n<SpName=mousetip_lingxing><SpName=mousetip_meili_7><color=#AttractionType_Stunning>Celestial (Masculino)/Sobrenatural (Feminino)</color>\n<SpName=mousetip_lingxing><SpName=mousetip_meili_8><color=#AttractionType_Godlike>Divino</color></color>
+O carisma representa a aparencia, feiúra e o charme de personalidade de um personagem...\n\n<color=#pinkyellow>·Nao ha diferenca no carisma de criancas\n·O carisma do personagem é grandemente reduzido quando esta nu\n·Carisma do menor para o maior:\n\n<SpName=mousetip_lingxing><SpName=mousetip_meili_0><color=#AttractionType_NonHuman>Nao Humano</color>\n<SpName=mousetip_lingxing><SpName=mousetip_meili_1><color=#AttractionType_Odious>Desagradavel</color>\n<SpName=mousetip_lingxing><SpName=mousetip_meili_2><color=#AttractionType_Ugly>Feio</color>\n<SpName=mousetip_lingxing><SpName=mousetip_meili_3><color=#AttractionType_Normal>Comum</color>\n<SpName=mousetip_lingxing><SpName=mousetip_meili_4><color=#AttractionType_Outstanding>Extraordinario</color>\n<SpName=mousetip_lingxing><SpName=mousetip_meili_5><color=#AttractionType_Beautiful>Bonito (Masculino)/Bela (Feminino)</color>\n<SpName=mousetip_lingxing><SpName=mousetip_meili_6><color=#AttractionType_Brilliant>Dragao (Masculino)/Fenix (Feminino)</color>\n<SpName=mousetip_lingxing><SpName=mousetip_meili_7><color=#AttractionType_Stunning>Celestial (Masculino)/Sobrenatural (Feminino)</color>\n<SpName=mousetip_lingxing><SpName=mousetip_meili_8><color=#AttractionType_Godlike>Divino</color></color>
 Fertilidade
 
-Ciclo de Mudança de Gostos e Desgostos
+Ciclo de Mudanca de Gostos e Desgostos
 
 EXP
-Experiência representa várias experiências, talentos e percepções do personagem...\n\n<color=#pinkyellow>-A experiência pode ser usada para cultivar habilidades em Artes Marciais.</color>
-Saúde Máxima
+Experiencia representa varias experiencias, talentos e percepcoes do personagem...\n\n<color=#pinkyellow>-A experiencia pode ser usada para cultivar habilidades em Artes Marciais.</color>
+Saúde Maxima
 
 Maior Energia Interna
 

@@ -7,33 +7,33 @@ Corpo Vazio
 
 
 Limpeza de Impurezas
-<color=#pinkyellow>Dano externo, interno, de confusão e veneno recebido de quem não alcançou <color=#ffffff>Limpeza de Impurezas</color> <color=#brightblue>reduzido em 33%</color>\nDano externo, interno, de confusão e veneno causado em quem não alcançou <color=#ffffff>Limpeza de Impurezas</color> <color=#brightblue>aumentado em 33%</color>\nHP de Confusão do personagem <color=#brightblue>+10%</color>\nHP de Ferida Mortal do personagem <color=#brightblue>+10%</color></color>
+<color=#pinkyellow>Dano externo, interno, de confusao e veneno recebido de quem nao alcancou <color=#ffffff>Limpeza de Impurezas</color> <color=#brightblue>reduzido em 33%</color>\nDano externo, interno, de confusao e veneno causado em quem nao alcancou <color=#ffffff>Limpeza de Impurezas</color> <color=#brightblue>aumentado em 33%</color>\nHP de Confusao do personagem <color=#brightblue>+10%</color>\nHP de Ferida Mortal do personagem <color=#brightblue>+10%</color></color>
 
 
-Regulação de Qi
-<color=#pinkyellow>Experiência obtida <color=#brightblue>+100%</color></color>
+Regulacao de Qi
+<color=#pinkyellow>Experiencia obtida <color=#brightblue>+100%</color></color>
 
 
-Respiração de Qi
-<color=#pinkyellow>Taxa de sucesso durante os avanços <color=#brightblue>+25%</color></color>
+Respiracao de Qi
+<color=#pinkyellow>Taxa de sucesso durante os avancos <color=#brightblue>+25%</color></color>
 
 
 Passo Divino
-<color=#pinkyellow>Dano externo, interno, de confusão e veneno recebido de quem não alcançou <color=#1abac8>Passo Divino</color> <color=#brightblue>reduzido em 33%</color>\nDano externo, interno, de confusão e veneno causado em quem não alcançou <color=#1abac8>Passo Divino</color> <color=#brightblue>aumentado em 33%</color>\nHP de Confusão do personagem <color=#brightblue>+15%</color>\nHP de Ferida Mortal do personagem <color=#brightblue>+15%</color></color>
+<color=#pinkyellow>Dano externo, interno, de confusao e veneno recebido de quem nao alcancou <color=#1abac8>Passo Divino</color> <color=#brightblue>reduzido em 33%</color>\nDano externo, interno, de confusao e veneno causado em quem nao alcancou <color=#1abac8>Passo Divino</color> <color=#brightblue>aumentado em 33%</color>\nHP de Confusao do personagem <color=#brightblue>+15%</color>\nHP de Ferida Mortal do personagem <color=#brightblue>+15%</color></color>
 
 
-Respiração Primária
+Respiracao Primaria
 <color=#pinkyellow>Verdadeiro Qi obtido com o Cultivo <color=#brightblue>+100%</color></color>
 
 
 Em Transe
-<color=#pinkyellow>Limite de talento em avanços <color=#brightblue>+6</color></color>
+<color=#pinkyellow>Limite de talento em avancos <color=#brightblue>+6</color></color>
 
 
-Naturalização
-<color=#pinkyellow>Dano externo, interno, de confusão e veneno recebido de quem não alcançou <color=#c16927>Naturalização</color> <color=#brightblue>reduzido em 33%</color>\nDano externo, interno, de confusão e veneno causado em quem não alcançou <color=#c16927>Naturalização</color> <color=#brightblue>aumentado em 33%</color>\nHP de Confusão do personagem <color=#brightblue>+20%</color>\nHP de Ferida Mortal do personagem <color=#brightblue>+20%</color></color>
+Naturalizacao
+<color=#pinkyellow>Dano externo, interno, de confusao e veneno recebido de quem nao alcancou <color=#c16927>Naturalizacao</color> <color=#brightblue>reduzido em 33%</color>\nDano externo, interno, de confusao e veneno causado em quem nao alcancou <color=#c16927>Naturalizacao</color> <color=#brightblue>aumentado em 33%</color>\nHP de Confusao do personagem <color=#brightblue>+20%</color>\nHP de Ferida Mortal do personagem <color=#brightblue>+20%</color></color>
 
 
 Retorno ao Início
-<color=#pinkyellow>HP de Confusão do personagem <color=#brightblue>+25%</color>\nHP de Ferida Mortal do personagem <color=#brightblue>+25%</color></color>
+<color=#pinkyellow>HP de Confusao do personagem <color=#brightblue>+25%</color>\nHP de Ferida Mortal do personagem <color=#brightblue>+25%</color></color>
  

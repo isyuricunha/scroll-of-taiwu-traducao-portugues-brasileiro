@@ -1,19 +1,19 @@
 Pais
-Irmãos Jurados
+Irmaos Jurados
 Cônjuge
 Filhos
-Facção
+Faccao
 Inimigo
 Amigo
 Adorado
 Mestre
-Irmãos
+Irmaos
 Pais Consanguíneos
 Filhos Consanguíneos
-Irmãos Consanguíneos
+Irmaos Consanguíneos
 Pais Afins
 Filhos Afins
-Irmãos Afins
+Irmaos Afins
 Pais Juramentados
 Filhos Juramentados
-Irmãos Juramentados
+Irmaos Juramentados

@@ -16,17 +16,17 @@ Roubo de Técnica
 Scamming Techniques
 Técnicas de Fraude
 Troca de Livros
-Convidar para Aliança
+Convidar para Alianca
 Convidar para Voltar à Vila
 Obtained Support
 Adotar como Pai
-Adotar como Mãe
+Adotar como Mae
 Adotar como Filho
 Adotar como Filha
 Amigos Íntimos
 Confessar Amor
 Couple Married
-Romper Relações
+Romper Relacoes
 Became Sworn Siblings
 Romper Juramento de Amizade
 Recomendar Amigos
@@ -40,31 +40,31 @@ Stealing items
 Roubar Itens
 施以毒害
 Dano Secreto
-Outras Ações
+Outras Acoes
 Atacar
 Exorcismo
 Pedido de Troca
 Adotar Frango Original
 Casamento Arranjado
-Promover Bondade e Justiça
-Ganhar Corações
+Promover Bondade e Justica
+Ganhar Coracoes
 Comércio de Elogia
-Reuniões de Chá e Bebidas
+Reunioes de Cha e Bebidas
 Visualizar Mercadorias
-Cura e Remoção de Veneno
+Cura e Remocao de Veneno
 Reparo de Itens
 Cortar Cabelos e Aparar
-Doação de Dinheiro
+Doacao de Dinheiro
 Recomendar Discípulos
 Procurar Discípulos
-Meditação com Livros
+Meditacao com Livros
 Regras do País
 Ressurgir
-Recuperação Secreta de Sete Estrelas
-Meditação na Prisão de Pedra
+Recuperacao Secreta de Sete Estrelas
+Meditacao na Prisao de Pedra
 Espalhar Fama
-Clássicos de Wang Chan
-Reflexão do Espelho de Jade
+Classicos de Wang Chan
+Reflexao do Espelho de Jade
 Ferramentas Antigas de Ou Ye
 Forjar Espada de Teste
 Pílula Secreta de Longevidade
@@ -72,44 +72,44 @@ Colecionar Tributos
 Banho Secreto dos Cinco Santos
 Contratar Assassinato
 Servidor Leal
-Método do Poço de Sangue
+Método do Poco de Sangue
 Diagnóstico
 Reviver
 Conferir Título
 Coletar Tributos
-Degustação de Chá
+Degustacao de Cha
 Coleta de Tesouros
-Divinação
+Divinacao
 Alterar Destino
 Guiar para a Virtude
 Pedir Retirada
 Juras
 Apoiar e Recomendar
 Treinamento com Bebidas
-Iluminação
+Iluminacao
 Exorcismo
 Escritor Fantasma
 Congresso Marcial Mundial
-Devolver Estátua
+Devolver Estatua
 Colapso da Floresta de Pagodas
-Rumores do Leão
-Farsa do Leão
+Rumores do Leao
+Farsa do Leao
 Caso de Assassinato de Emei
-Ancião em Reclusão
-Preocupações com a Verdade
-Devolver Bebê
-Arrancar Coração
+Anciao em Reclusao
+Preocupacoes com a Verdade
+Devolver Bebe
+Arrancar Coracao
 Destruir a Mente
 Investigar o Misterioso
-Consultar o "Espelho da Pomba Solitária"
+Consultar o "Espelho da Pomba Solitaria"
 Discutir "Amor"
-Persuasão
+Persuasao
 Rituais Fúnebres
 Reparar Túmulo
-Caçar Tesouros
-Método de Remoção de Gu
-Técnica de Feitiçaria
+Cacar Tesouros
+Método de Remocao de Gu
+Técnica de Feiticaria
 Capturar Criminosos
 Exigir Prisioneiros
-Dragão Verdadeiro Chega
-Dragão Divino Desce
+Dragao Verdadeiro Chega
+Dragao Divino Desce

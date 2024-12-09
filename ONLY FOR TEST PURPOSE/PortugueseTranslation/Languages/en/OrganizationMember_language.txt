@@ -3,7 +3,7 @@ Nenhum
 
 
 
-Sem Coração
+Sem Coracao
 
 
 
@@ -50,12 +50,12 @@ Chefe·V
 
 
 
-Guardião do Túmulo
+Guardiao do Túmulo
 
 
 
 
-Acadêmico
+Academico
 
 
 
@@ -70,7 +70,7 @@ Doutor
 
 
 
-Artesão
+Artesao
 
 
 
@@ -110,7 +110,7 @@ Pecaminosidade
 
 
 
-Vilão
+Vilao
 
 
 
@@ -135,7 +135,7 @@ Recluso
 
 
 
-Lendário
+Lendario
 
 
 
@@ -200,7 +200,7 @@ Um·Sinistro
 
 
 
-Ascensão do Mal
+Ascensao do Mal
 
 
 
@@ -224,7 +224,7 @@ Chefe·A
 Zen·M
 
 
-Ancião·A
+Anciao·A
 
 
 Abade
@@ -240,7 +240,7 @@ Observador
 
 
 
-Salão Bodhi
+Salao Bodhi
 
 
 
@@ -250,7 +250,7 @@ Prajna·H
 
 
 
-Salão Arhat
+Salao Arhat
 
 
 
@@ -261,7 +261,7 @@ Bhikkhu
 
 
 S·Mestre
-Freira Sênior
+Freira Senior
 Mestre
 Madame·M
 Senhor·M
@@ -295,7 +295,7 @@ Formal·A
 
 
 
-Audiência
+Audiencia
 
 
 
@@ -310,12 +310,12 @@ Detentor do Caso
 
 
 
-Emissário do Cervo
+Emissario do Cervo
 
 
 
 
-Boa Mão
+Boa Mao
 
 
 
@@ -451,12 +451,12 @@ Alfa Adormecido
 
 Madame·SA  
 Senhor·SA
-Leão Furioso
+Leao Furioso
 
 
 
 
-Leão Orgulhoso
+Leao Orgulhoso
 
 
 
@@ -477,7 +477,7 @@ Tio·M
 Celestial
 
 
-Guardião
+Guardiao
 
 
 Sucessor
@@ -578,7 +578,7 @@ Tesouro·S
 
 
 
-Estação·S
+Estacao·S
 
 
 
@@ -624,12 +624,12 @@ Fornalha·H
 
 
 
-Salão do Dragão
+Salao do Dragao
 
 
 
 
-Salão da Sonda
+Salao da Sonda
 
 
 
@@ -649,12 +649,12 @@ Rei da Sabedoria
 
 
 
-Ancião
+Anciao
 
 
 
 
-Guardião
+Guardiao
 
 
 
@@ -664,12 +664,12 @@ Lutador
 
 
 
-Salão Silencioso
+Salao Silencioso
 
 
 
 
-Salão Vajra
+Salao Vajra
 
 
 
@@ -714,12 +714,12 @@ Envoy do Veneno
 
 
 
-Tripulação Procriadora
+Tripulacao Procriadora
 
 
 
 
-Tripulação do Veneno
+Tripulacao do Veneno
 
 
 
@@ -769,7 +769,7 @@ Guia
 
 
 
-Portão Externo
+Portao Externo
 
 
 
@@ -784,12 +784,12 @@ Vice-Lorde
 
 Madame·VA
 Senhor·VA
-Dragão Ancião
+Dragao Anciao
 
 
 
 
-Emissário do Fogo Fluido
+Emissario do Fogo Fluido
 
 
 
@@ -887,7 +887,7 @@ Rico
 
 
 
-Artesão
+Artesao
 
 
 
@@ -905,7 +905,7 @@ Mendigo
 
 
 Madame·E
-Senhor·Ancião
+Senhor·Anciao
 
 
 
@@ -975,7 +975,7 @@ Senhor·TC
 
 
 
-Castelão
+Castelao
 
 
 Madame

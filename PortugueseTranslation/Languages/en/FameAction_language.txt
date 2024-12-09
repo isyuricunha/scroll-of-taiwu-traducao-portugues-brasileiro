@@ -8,8 +8,8 @@ Conflito com os bons
 Conflito com os maus
 Amizade com os Bons
 Amizade com os Maus
-Irmão de Juramento Bom
-Irmão de Juramento Mau
+Irmao de Juramento Bom
+Irmao de Juramento Mau
 Amando os Bons
 Amando os Maus
 Adotando os Bons
@@ -22,58 +22,58 @@ Ensinando os Bons
 Ensinando os Maus
 Curando os Bons
 Curando os Maus
-Agressão contra pessoas
+Agressao contra pessoas
 Punir o mal
 Roubo de Habilidade
 Roubo de Item
 Roubar itens
-Profanação de túmulo
+Profanacao de túmulo
 Envenena pessoas
 Retirada
 Intimida·M
 Intimida·P
 Vencer um duelo
 Perder um duelo
-Ações bondosas
+Acoes bondosas
 Malícia
-Ações justas
+Acoes justas
 Desrespeitoso
-Ações rebeldes
-Despreocupação
-Ações egoístas
+Acoes rebeldes
+Despreocupacao
+Acoes egoístas
 Satisfatórias
-Amor não convencional
+Amor nao convencional
 Vulnerabilidade
 Sendo Beneficiado
 Sendo Repreendido
 Sendo Enganado
-Sendo Ameaçado
+Sendo Ameacado
 Sendo Elogiado
 Sendo Zombado
 Predecessor Bom
 Predecessor Mau
 Jurando
-Mendicância
+Mendicancia
 Mau Doutor
-Aja Com Justiça
+Aja Com Justica
 Mate os Justos
-Corromper a decência pública
+Corromper a decencia pública
 Corromper as regras
-Ignorar a decência pública
+Ignorar a decencia pública
 Enganar mestre e trair antepassados
 Ser hostil e ingrato
 Besta em Roupas Humanas
 Humilhado
-Faça papel de bobo
+Faca papel de bobo
 Superar dificuldades
 Intimidar os fracos
 De Seita Boa
-De Seita Má
+De Seita Ma
 Ambos bom e mau
 Vence Debate
 Perde Debate
 Obra-Prima Criada
-Nuvens e Dragões se Alteram
+Nuvens e Dragoes se Alteram
 Invadiu o Tesouro
 Saqueou o Tesouro
 Espalhar Bondade

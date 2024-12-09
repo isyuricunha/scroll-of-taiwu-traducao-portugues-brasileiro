@@ -1,11 +1,11 @@
 Inteiro
-Digite qualquer número inteiro, mas não pode ser maior ou igual a um bilhão ou menor ou igual a menos um bilhão
+Digite qualquer número inteiro, mas nao pode ser maior ou igual a um bilhao ou menor ou igual a menos um bilhao
 Booleano
 Digite qualquer valor booleano, como True, False
 Zhen
 Falso
 Habilidades
-Digite o nome da habilidade, deve ser exatamente igual ao nome na tabela de configuração; se houver uma habilidade com o mesmo nome, aparecerá um aviso e a primeira será aplicada
+Digite o nome da habilidade, deve ser exatamente igual ao nome na tabela de configuracao; se houver uma habilidade com o mesmo nome, aparecera um aviso e a primeira sera aplicada
 Inimigo/Amigo
 Digite qualquer valor booleano, True representa seu lado, False representa o lado inimigo
 Seu lado
@@ -15,19 +15,19 @@ Digite qualquer texto, como “abc123”, “exemplo”
 Dificuldade de combate
 Digite o nome da dificuldade do combate, como normal, difícil, muito difícil, morte certa
 Comando aliado
-Digite o nome de um comando comum de aliado, como atacar, defender, conter, etc., não pode digitar comandos negativos
+Digite o nome de um comando comum de aliado, como atacar, defender, conter, etc., nao pode digitar comandos negativos
 Tipo de habilidade ativa
-Digite o tipo de habilidade ativa, como esmagar, ágil, proteção
-Outro tipo de ação
-Digite outro tipo de ação, como curar, remover veneno, fugir
-Frente/atrás
-Digite qualquer valor booleano, True representa frente, False representa atrás
+Digite o tipo de habilidade ativa, como esmagar, agil, protecao
+Outro tipo de acao
+Digite outro tipo de acao, como curar, remover veneno, fugir
+Frente/atras
+Digite qualquer valor booleano, True representa frente, False representa atras
 Frente
-Atrás
+Atras
 Parte do corpo
-Digite o nome da parte do corpo, como cabeça e pescoço, braço esquerdo, perna direita
-Expressão
-Digite uma expressão que contenha tipos de atributos, como 20 + Inteligência × 40 ÷ 100
+Digite o nome da parte do corpo, como cabeca e pescoco, braco esquerdo, perna direita
+Expressao
+Digite uma expressao que contenha tipos de atributos, como 20 + Inteligencia × 40 ÷ 100
 Normal/Invertido
 Digite qualquer valor booleano, True representa treino normal, False representa treino invertido
 Treinamento normal
@@ -39,15 +39,15 @@ Externo
 Veneno
 Digite o tipo de veneno, como veneno forte, veneno ilusório
 Crescimento do inseto de veneno
-Digite qualquer valor booleano, True representa o inseto já crescido, False representa o inseto não crescido
-Já crescido
-Não crescido
+Digite qualquer valor booleano, True representa o inseto ja crescido, False representa o inseto nao crescido
+Ja crescido
+Nao crescido
 Reconhecimento pelo inseto
-Digite qualquer valor booleano, True representa o inseto reconheceu o mestre, False representa o inseto não reconheceu o mestre
+Digite qualquer valor booleano, True representa o inseto reconheceu o mestre, False representa o inseto nao reconheceu o mestre
 Reconheceu o mestre
-Não reconheceu o mestre
+Nao reconheceu o mestre
 Tipo de inseto de veneno
-Digite o tipo de inseto de veneno, como Olho Vermelho, Fantasma, Sangue Negro, Demônio Mental, Serpente Morta, Vermes de Gelo, Bicho de Seda Dourada, Essência Verde, também pode digitar de 0 a 7 para representar
+Digite o tipo de inseto de veneno, como Olho Vermelho, Fantasma, Sangue Negro, Demônio Mental, Serpente Morta, Vermes de Gelo, Bicho de Seda Dourada, Essencia Verde, também pode digitar de 0 a 7 para representar
 Olho Vermelho
 Fantasma
 Sangue Negro
@@ -55,11 +55,11 @@ Demônio Mental
 Serpente Morta
 Vermes de Gelo
 Vermes de Seda Dourada
-Essência Verde
+Essencia Verde
 Tipo de Qi Verdadeiro
-Digite o tipo de Qi verdadeiro, como esmagar, ágil, proteção, abertura de meridianos, também pode digitar de 0 a 3 para representar
+Digite o tipo de Qi verdadeiro, como esmagar, agil, protecao, abertura de meridianos, também pode digitar de 0 a 3 para representar
 Quebra
-Rápido
+Rapido
 Escudo
 Meridianos
 Estilo acumulado
@@ -72,11 +72,11 @@ Cinco Elementos
 Digite o tipo dos Cinco Elementos, como Diamante, Púrpura Xaya, Yin Profundo, Yang Puro, Retorno ao Origem, Hunyuan, também pode digitar de 0 a 5 para representar
 Metal
 Madeira
-Água
+Agua
 Fogo
 Terra
 Hunyuan
 Tipo de combate
 Digite o tipo de combate, como treinamento, luta selvagem, luta até a morte, desafio
 Nome do estado de combate
-Digite o nome do estado de combate, como Técnica de Levitação, Controle do Dragão
+Digite o nome do estado de combate, como Técnica de Levitacao, Controle do Dragao

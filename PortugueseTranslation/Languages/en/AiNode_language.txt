@@ -1,6 +1,6 @@
-Sequência
-Executa todos os nós filhos sequencialmente até o nó de ação
+Sequencia
+Executa todos os nós filhos sequencialmente até o nó de acao
 Ramo
-Determina o próximo nó a ser executado com base na condição
-Ação
-Realiza uma ação específica
+Determina o próximo nó a ser executado com base na condicao
+Acao
+Realiza uma acao específica

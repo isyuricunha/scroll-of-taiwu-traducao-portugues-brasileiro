@@ -3,7 +3,7 @@ Meridiano\nFortalecimento
 
 
 
-Meditação\nSaída da Alma
+Meditacao\nSaída da Alma
 
 
 
@@ -47,7 +47,7 @@ Zen dos Dedos\nEmei
 Fada Dourada
 
 
-Condensação de Sangue em Gelo
+Condensacao de Sangue em Gelo
 
 
 
@@ -87,7 +87,7 @@ Dirigir Vento
 Esquecimento do Lar
 
 
-Chegada da Fênix
+Chegada da Fenix
 
 
 
@@ -100,10 +100,10 @@ Movimento Descascar
 O Grande Dedo\nda Lua
 
 
-Parte-Corações
+Parte-Coracoes
 
 
-Mãos Caídas\ndo Mt. Chai
+Maos Caídas\ndo Mt. Chai
 
 
 
@@ -127,7 +127,7 @@ Grandes 8 Movimentos\nde Bloqueio do Mar
 
 
 
-5 Mãos da Ira
+5 Maos da Ira
 
 
 
@@ -147,7 +147,7 @@ Esgrima\ndo Billhook
 
 
 
-Suspensão com Corda
+Suspensao com Corda
 
 
 
@@ -177,7 +177,7 @@ Poder Divino\ndo Fogo Vermelho Azul
 
 
 
-Chute Gancho da Alma\ndo Escorpião
+Chute Gancho da Alma\ndo Escorpiao
 
 
 
@@ -223,7 +223,7 @@ Desbloquear
 Teste de Espada
 
 
-Desmontar a Lâmina
+Desmontar a Lamina
 
 
 
@@ -272,81 +272,81 @@ Perdido
 Tremor
 
 
-Coração Puro
+Coracao Puro
 Devido ao mistério do livro, o poder das próprias técnicas aumenta ou diminui conforme os cinco elementos do poder interno
 
 Viagem de Roupagem Leve
-Devido ao mistério do estranho livro, o consumo de Valor de Movimentação em batalha é grandemente reduzido.
+Devido ao mistério do estranho livro, o consumo de Valor de Movimentacao em batalha é grandemente reduzido.
 
 Lei Abrangente
 Devido ao mistério do estranho livro, o poder das habilidades de Aegis e Nadis é multiplicado
 
-Pintura Imitando Dragão
-Devido ao mistério do estranho livro, em batalha, ao quebrar a Defesa do inimigo com Punho, o inimigo soltará suas armas, e quanto mais próximo você estiver, maior será o dano da habilidade de Punho
+Pintura Imitando Dragao
+Devido ao mistério do estranho livro, em batalha, ao quebrar a Defesa do inimigo com Punho, o inimigo soltara suas armas, e quanto mais próximo voce estiver, maior sera o dano da habilidade de Punho
 
 Olho da Mente Pergaminho Rasgado
-Devido aos segredos do estranho livro, em batalha, após perseguir o inimigo 5 vezes em 1 rodada de ataques com Punho, uma habilidade aleatória do inimigo será bloqueada por um curto tempo, e quanto mais Pontos de Acupuntura selados, maior o dano da Técnica de Dedo
+Devido aos segredos do estranho livro, em batalha, após perseguir o inimigo 5 vezes em 1 rodada de ataques com Punho, uma habilidade aleatória do inimigo sera bloqueada por um curto tempo, e quanto mais Pontos de Acupuntura selados, maior o dano da Técnica de Dedo
 
 Escritura dos Oito Limites
-Devido ao mistério do estranho livro, em batalha, as armas usadas substituem as Roupas Inferiores ao usar Técnica de Chute, e quanto menor a Resistência do inimigo, maior será o dano da Técnica de Chute
+Devido ao mistério do estranho livro, em batalha, as armas usadas substituem as Roupas Inferiores ao usar Técnica de Chute, e quanto menor a Resistencia do inimigo, maior sera o dano da Técnica de Chute
 
 Livro do Movimento Sombrio
-Devido ao mistério do estranho livro, em batalha, ao atacar com Armas Ocultas, ignora-se a proteção do inimigo, e quanto mais longe do inimigo, maior será o dano das técnicas de Armas Ocultas
+Devido ao mistério do estranho livro, em batalha, ao atacar com Armas Ocultas, ignora-se a protecao do inimigo, e quanto mais longe do inimigo, maior sera o dano das técnicas de Armas Ocultas
 
 Espada Divina Sem Nome
-Devido aos segredos do estranho livro, em batalha, ao atingir um inimigo sem Defesa com Espada, há 50% de chance de recuperar o ataque gasto, e quanto menos Estilo o inimigo tiver, maior será o dano da própria Técnica de Espada
+Devido aos segredos do estranho livro, em batalha, ao atingir um inimigo sem Defesa com Espada, ha 50% de chance de recuperar o ataque gasto, e quanto menos Estilo o inimigo tiver, maior sera o dano da própria Técnica de Espada
 
 Extermínio dos Dez Demônios
-Devido ao mistério do estranho livro, em batalha, o tempo de recarga da Defesa do inimigo causado pela Lâmina é triplicado, e quanto mais Pontos Fracos o inimigo tiver, maior será o dano das Técnicas de Lâmina
+Devido ao mistério do estranho livro, em batalha, o tempo de recarga da Defesa do inimigo causado pela Lamina é triplicado, e quanto mais Pontos Fracos o inimigo tiver, maior sera o dano das Técnicas de Lamina
 
 Golpe Único Parte Céus
-Devido ao mistério do estranho livro, em batalha, a Arma de Haste usada pode refletir mais marcas de derrota, e quanto mais marcas de derrota você tiver, maior será o dano das Técnicas de Arma de Haste
+Devido ao mistério do estranho livro, em batalha, a Arma de Haste usada pode refletir mais marcas de derrota, e quanto mais marcas de derrota voce tiver, maior sera o dano das Técnicas de Arma de Haste
 
 Origem Primordial
-Devido ao mistério do estranho livro, em batalha, ao atacar com Armas Exóticas, a Defesa do inimigo é quebrada mais facilmente, e quanto menor a Postura do inimigo, maior será o dano das Técnicas de Armas Exóticas
+Devido ao mistério do estranho livro, em batalha, ao atacar com Armas Exóticas, a Defesa do inimigo é quebrada mais facilmente, e quanto menor a Postura do inimigo, maior sera o dano das Técnicas de Armas Exóticas
 
-Nove Imitações Manuscrito Verdadeiro
-Devido ao mistério do estranho livro, em batalha, o alcance de ataque de suas Armas Flexíveis aumenta, e quanto menor a Inalação do inimigo, maior será o dano das Técnicas de Armas Flexíveis
+Nove Imitacoes Manuscrito Verdadeiro
+Devido ao mistério do estranho livro, em batalha, o alcance de ataque de suas Armas Flexíveis aumenta, e quanto menor a Inalacao do inimigo, maior sera o dano das Técnicas de Armas Flexíveis
 
-Técnica Divina da Comunicação Celestial
-Devido ao mistério do estranho livro, em batalha, ao Mudar de Estilo ao atacar com Armas de Longo Alcance, a chance de perseguir o inimigo é multiplicada, e quanto mais vezes você Mudar de Estilo, maior será o dano das Técnicas de Armas de Longo Alcance
+Técnica Divina da Comunicacao Celestial
+Devido ao mistério do estranho livro, em batalha, ao Mudar de Estilo ao atacar com Armas de Longo Alcance, a chance de perseguir o inimigo é multiplicada, e quanto mais vezes voce Mudar de Estilo, maior sera o dano das Técnicas de Armas de Longo Alcance
 
 Voz Absoluta da Deusa
-Devido ao mistério do estranho livro, em batalha, ao atingir o inimigo com Melodia, ela danificará o Qi Verdadeiro do inimigo, e quanto mais Estilos de Som possuir, maior será o dano de suas próprias Técnicas de Melodia
+Devido ao mistério do estranho livro, em batalha, ao atingir o inimigo com Melodia, ela danificara o Qi Verdadeiro do inimigo, e quanto mais Estilos de Som possuir, maior sera o dano de suas próprias Técnicas de Melodia
 
 Rei da Colina
-Velocidade de recuperação de tokens de ataque aumentada em 50%
-<color=#lightgrey>Quando localizado em <color=#brightblue>Montanhas ou Cordilheiras</color>, a velocidade de recuperação de tokens de ataque aumenta significativamente</color>
+Velocidade de recuperacao de tokens de ataque aumentada em 50%
+<color=#lightgrey>Quando localizado em <color=#brightblue>Montanhas ou Cordilheiras</color>, a velocidade de recuperacao de tokens de ataque aumenta significativamente</color>
 Uma Linha no Céu
-Velocidade de conjuração de habilidades aumentada em 50%
-<color=#lightgrey>Quando localizado em <color=#brightblue>Canhões ou Perigos Naturais</color>, a velocidade de conjuração de habilidades aumenta significativamente</color>
+Velocidade de conjuracao de habilidades aumentada em 50%
+<color=#lightgrey>Quando localizado em <color=#brightblue>Canhoes ou Perigos Naturais</color>, a velocidade de conjuracao de habilidades aumenta significativamente</color>
 Caminho das Nove Dobras
-Precisão do inimigo reduzida em 25%
-<color=#lightgrey>Quando localizado em <color=#brightblue>Colinas ou Planaltos</color>, a precisão do inimigo é reduzida</color>
-Pálido e Selvagem
-Sua precisão é aumentada em 25%
-<color=#lightgrey>Quando localizado em <color=#brightblue>Campos ou Planícies</color>, sua precisão aumenta</color>
+Precisao do inimigo reduzida em 25%
+<color=#lightgrey>Quando localizado em <color=#brightblue>Colinas ou Planaltos</color>, a precisao do inimigo é reduzida</color>
+Palido e Selvagem
+Sua precisao é aumentada em 25%
+<color=#lightgrey>Quando localizado em <color=#brightblue>Campos ou Planícies</color>, sua precisao aumenta</color>
 Um com a Floresta
-Recuperação de Inalação e Postura aumentadas em 50%
-<color=#lightgrey>Quando localizado em <color=#brightblue>Matas ou Florestas</color>, as recuperações de Inalação e Postura melhoram significativamente</color>
+Recuperacao de Inalacao e Postura aumentadas em 50%
+<color=#lightgrey>Quando localizado em <color=#brightblue>Matas ou Florestas</color>, as recuperacoes de Inalacao e Postura melhoram significativamente</color>
 Corrente Vazia
-Velocidade de recuperação de resistência aumentada em 100%
-<color=#lightgrey>Quando localizado em <color=#brightblue>Praias, Vales Fluviais ou Desfiladeiros</color>, a velocidade de recuperação de resistência melhora significativamente</color>
+Velocidade de recuperacao de resistencia aumentada em 100%
+<color=#lightgrey>Quando localizado em <color=#brightblue>Praias, Vales Fluviais ou Desfiladeiros</color>, a velocidade de recuperacao de resistencia melhora significativamente</color>
 Onda Fumegante
 Velocidade de carga do Movimento aumentada em 50%
 <color=#lightgrey>Quando localizado em <color=#brightblue>Lagos</color>, a velocidade de carga do Movimento de salto aumenta significativamente</color>
 Barata Moro
-Velocidade de aquisição de Mudança de Estilo aumentada em 50%
-<color=#lightgrey>Quando localizado em <color=#brightblue>Florestas Densas</color>, a velocidade de aquisição de Mudança de Estilo aumenta significativamente</color>
+Velocidade de aquisicao de Mudanca de Estilo aumentada em 50%
+<color=#lightgrey>Quando localizado em <color=#brightblue>Florestas Densas</color>, a velocidade de aquisicao de Mudanca de Estilo aumenta significativamente</color>
 Caverna Toda Noite
 Tempo de recarga da Defesa do inimigo aumentado em 100%
 <color=#lightgrey>Quando localizado em <color=#brightblue>Cavernas</color>, o tempo de recarga da Defesa do inimigo aumenta significativamente</color>
-Afundar no Pântano
+Afundar no Pantano
 Quantidade de toxinas aplicadas ao inimigo aumentada em 100% e nível de toxina aumentado em um nível
-<color=#lightgrey>Quando localizado em <color=#brightblue>Pântanos</color>, a quantidade de veneno aplicado ao inimigo na batalha aumenta significativamente, e o nível de veneno aumenta em um nível</color>
-A Flor de Pêssego
+<color=#lightgrey>Quando localizado em <color=#brightblue>Pantanos</color>, a quantidade de veneno aplicado ao inimigo na batalha aumenta significativamente, e o nível de veneno aumenta em um nível</color>
+A Flor de Pessego
 Recupere toda a energia interna consumida após a batalha
-<color=#lightgrey>Quando localizado em <color=#brightblue>Paraíso</color>, toda a energia interna consumida será restaurada após a batalha</color>
+<color=#lightgrey>Quando localizado em <color=#brightblue>Paraíso</color>, toda a energia interna consumida sera restaurada após a batalha</color>
 Veneno Mítico de Wuming
 Devido ao Veneno Mítico, o poder de Wuming aumentou drasticamente
 
@@ -361,185 +361,185 @@ Sofrimento Amargo
 
 
 Controlando Macaco  
-Devido ao controle de um Macaco, os efeitos que aumentam o poder das habilidades do usuário serão fortalecidos, e os efeitos que reduzem o poder das habilidades do usuário serão enfraquecidos.  
-Controlando Macaco: <color=#brightblue>Os efeitos que aumentam o poder das habilidades do usuário serão fortalecidos, e os efeitos que reduzem o poder das habilidades do usuário serão enfraquecidos</color>.  
-Controlando Águia  
-Devido ao controle de uma Águia, quanto mais longe o inimigo estiver do usuário, maior será a chance de acertar os pontos vitais do inimigo.  
-Controlando Águia: <color=#brightblue>Quanto mais longe o inimigo estiver do usuário, maior será a chance de acertar os pontos vitais do inimigo</color>.  
+Devido ao controle de um Macaco, os efeitos que aumentam o poder das habilidades do usuario serao fortalecidos, e os efeitos que reduzem o poder das habilidades do usuario serao enfraquecidos.  
+Controlando Macaco: <color=#brightblue>Os efeitos que aumentam o poder das habilidades do usuario serao fortalecidos, e os efeitos que reduzem o poder das habilidades do usuario serao enfraquecidos</color>.  
+Controlando Aguia  
+Devido ao controle de uma Aguia, quanto mais longe o inimigo estiver do usuario, maior sera a chance de acertar os pontos vitais do inimigo.  
+Controlando Aguia: <color=#brightblue>Quanto mais longe o inimigo estiver do usuario, maior sera a chance de acertar os pontos vitais do inimigo</color>.  
 Controlando Javali  
-Devido ao controle de um Javali, quanto mais próximo o inimigo estiver do usuário, maior será a chance de acertar os pontos vitais do inimigo.  
-Controlando Javali: <color=#brightblue>Quanto mais próximo o inimigo estiver do usuário, maior será a chance de acertar os pontos vitais do inimigo</color>.  
+Devido ao controle de um Javali, quanto mais próximo o inimigo estiver do usuario, maior sera a chance de acertar os pontos vitais do inimigo.  
+Controlando Javali: <color=#brightblue>Quanto mais próximo o inimigo estiver do usuario, maior sera a chance de acertar os pontos vitais do inimigo</color>.  
 Controlando Urso Marrom  
-Devido ao controle de um Urso Marrom, o dano direto causado por Feridas Fatais pelo usuário será aumentado; o dano direto causado por Feridas Fatais pelo inimigo será reduzido.  
-Controlando Urso Marrom: <color=#brightblue>O dano direto causado por Feridas Fatais pelo usuário será aumentado; o dano direto causado por Feridas Fatais pelo inimigo será reduzido</color>.  
+Devido ao controle de um Urso Marrom, o dano direto causado por Feridas Fatais pelo usuario sera aumentado; o dano direto causado por Feridas Fatais pelo inimigo sera reduzido.  
+Controlando Urso Marrom: <color=#brightblue>O dano direto causado por Feridas Fatais pelo usuario sera aumentado; o dano direto causado por Feridas Fatais pelo inimigo sera reduzido</color>.  
 Controlando Búfalo  
-Devido ao controle de um Búfalo, o poder de Reflexão do usuário é aumentado.  
-Controlando Búfalo: <color=#brightblue>O poder de Reflexão do usuário é aumentado</color>.  
+Devido ao controle de um Búfalo, o poder de Reflexao do usuario é aumentado.  
+Controlando Búfalo: <color=#brightblue>O poder de Reflexao do usuario é aumentado</color>.  
 Controlando Serpente Gigante  
-Devido ao controle de uma Serpente Gigante, o efeito da Cura e da Desintoxicação do usuário será aumentado; o efeito da Cura e da Desintoxicação do inimigo será reduzido.  
-Controlando Serpente Gigante: <color=#brightblue>O efeito da Cura e da Desintoxicação do usuário será aumentado; o efeito da Cura e da Desintoxicação do inimigo será reduzido</color>.  
+Devido ao controle de uma Serpente Gigante, o efeito da Cura e da Desintoxicacao do usuario sera aumentado; o efeito da Cura e da Desintoxicacao do inimigo sera reduzido.  
+Controlando Serpente Gigante: <color=#brightblue>O efeito da Cura e da Desintoxicacao do usuario sera aumentado; o efeito da Cura e da Desintoxicacao do inimigo sera reduzido</color>.  
 Controlando Leopardo  
-Devido ao controle de um Leopardo, o poder de Contra-ataque do usuário é aumentado.  
-Controlando Leopardo: <color=#brightblue>O poder de Contra-ataque do usuário é aumentado</color>.  
-Controlando Leão  
-Devido ao controle de um Leão, o efeito do esgotamento do Movimento, Resistência, Inalação e Postura do inimigo pelo usuário será aumentado; o efeito do esgotamento do Movimento, Resistência, Inalação e Postura do usuário pelo inimigo será reduzido.  
-Controlando Leão: <color=#brightblue>O efeito do esgotamento do Movimento, Resistência, Inalação e Postura do inimigo pelo usuário será aumentado; o efeito do esgotamento do Movimento, Resistência, Inalação e Postura do usuário pelo inimigo será reduzido</color>.  
+Devido ao controle de um Leopardo, o poder de Contra-ataque do usuario é aumentado.  
+Controlando Leopardo: <color=#brightblue>O poder de Contra-ataque do usuario é aumentado</color>.  
+Controlando Leao  
+Devido ao controle de um Leao, o efeito do esgotamento do Movimento, Resistencia, Inalacao e Postura do inimigo pelo usuario sera aumentado; o efeito do esgotamento do Movimento, Resistencia, Inalacao e Postura do usuario pelo inimigo sera reduzido.  
+Controlando Leao: <color=#brightblue>O efeito do esgotamento do Movimento, Resistencia, Inalacao e Postura do inimigo pelo usuario sera aumentado; o efeito do esgotamento do Movimento, Resistencia, Inalacao e Postura do usuario pelo inimigo sera reduzido</color>.  
 Controlando Tigre  
-Devido ao controle de um Tigre, o dano dos ataques do usuário em um ataque consecutivo aumentará gradualmente até que o ataque consecutivo termine.  
-Controlando Tigre: <color=#brightblue>O dano dos ataques do usuário em um ataque consecutivo aumentará gradualmente até que o ataque consecutivo termine</color>.  
+Devido ao controle de um Tigre, o dano dos ataques do usuario em um ataque consecutivo aumentara gradualmente até que o ataque consecutivo termine.  
+Controlando Tigre: <color=#brightblue>O dano dos ataques do usuario em um ataque consecutivo aumentara gradualmente até que o ataque consecutivo termine</color>.  
 Controlando Macaco Espiritual  
-Devido ao controle de um Macaco Espiritual, os efeitos que aumentam o poder das habilidades do usuário serão fortalecidos, e os efeitos que reduzem o poder das habilidades do usuário serão enfraquecidos.  
-Controlando Macaco Espiritual: <color=#brightblue>Os efeitos que aumentam o poder das habilidades do usuário serão fortalecidos, e os efeitos que reduzem o poder das habilidades do usuário serão enfraquecidos</color>.  
+Devido ao controle de um Macaco Espiritual, os efeitos que aumentam o poder das habilidades do usuario serao fortalecidos, e os efeitos que reduzem o poder das habilidades do usuario serao enfraquecidos.  
+Controlando Macaco Espiritual: <color=#brightblue>Os efeitos que aumentam o poder das habilidades do usuario serao fortalecidos, e os efeitos que reduzem o poder das habilidades do usuario serao enfraquecidos</color>.  
 Controlando Roc Dourado  
-Devido ao controle de um Roc Dourado, quanto mais longe o inimigo estiver do usuário, maior será a chance de acertar os pontos vitais do inimigo.  
-Controlando Roc Dourado: <color=#brightblue>Quanto mais longe o inimigo estiver do usuário, maior será a chance de acertar os pontos vitais do inimigo</color>.  
+Devido ao controle de um Roc Dourado, quanto mais longe o inimigo estiver do usuario, maior sera a chance de acertar os pontos vitais do inimigo.  
+Controlando Roc Dourado: <color=#brightblue>Quanto mais longe o inimigo estiver do usuario, maior sera a chance de acertar os pontos vitais do inimigo</color>.  
 Controlando Porco Preto  
-Devido ao controle de um Porco Preto, quanto mais próximo o inimigo estiver do usuário, maior será a chance de acertar os pontos vitais do inimigo.  
-Controlando Porco Preto: <color=#brightblue>Quanto mais próximo o inimigo estiver do usuário, maior será a chance de acertar os pontos vitais do inimigo</color>.  
+Devido ao controle de um Porco Preto, quanto mais próximo o inimigo estiver do usuario, maior sera a chance de acertar os pontos vitais do inimigo.  
+Controlando Porco Preto: <color=#brightblue>Quanto mais próximo o inimigo estiver do usuario, maior sera a chance de acertar os pontos vitais do inimigo</color>.  
 Controlando Urso Branco  
-Devido ao controle de um Urso Branco, o dano direto de Ferida Fatal causado pelo usuário será aumentado; O dano direto de Ferida Fatal causado pelo inimigo será reduzido.  
-Controlando Urso Branco: <color=#brightblue>O dano direto de Ferida Fatal causado pelo usuário será aumentado; O dano direto de Ferida Fatal causado pelo inimigo será reduzido</color>.  
+Devido ao controle de um Urso Branco, o dano direto de Ferida Fatal causado pelo usuario sera aumentado; O dano direto de Ferida Fatal causado pelo inimigo sera reduzido.  
+Controlando Urso Branco: <color=#brightblue>O dano direto de Ferida Fatal causado pelo usuario sera aumentado; O dano direto de Ferida Fatal causado pelo inimigo sera reduzido</color>.  
 Controlando Boi Selvagem  
-Devido ao controle de um Boi Selvagem, o poder de Reflexão do usuário é aumentado.  
-Controlando Boi Selvagem: <color=#brightblue>O poder de Reflexão do usuário é aumentado</color>.  
+Devido ao controle de um Boi Selvagem, o poder de Reflexao do usuario é aumentado.  
+Controlando Boi Selvagem: <color=#brightblue>O poder de Reflexao do usuario é aumentado</color>.  
 Controlando Python Ba  
-Devido ao controle de um Python Ba, o efeito de Cura e Desintoxicação do usuário será aumentado; O efeito de Cura e Desintoxicação do inimigo será reduzido.  
-Controlando Python Ba: <color=#brightblue>O efeito de Cura e Desintoxicação do usuário será aumentado; O efeito de Cura e Desintoxicação do inimigo será reduzido</color>.  
+Devido ao controle de um Python Ba, o efeito de Cura e Desintoxicacao do usuario sera aumentado; O efeito de Cura e Desintoxicacao do inimigo sera reduzido.  
+Controlando Python Ba: <color=#brightblue>O efeito de Cura e Desintoxicacao do usuario sera aumentado; O efeito de Cura e Desintoxicacao do inimigo sera reduzido</color>.  
 Controlando Pantera Negra  
-Devido ao controle de uma Pantera Negra, o poder de Contra-ataque do usuário é aumentado.  
-Controlando Pantera Negra: <color=#brightblue>O poder de Contra-ataque do usuário é aumentado</color>.  
-Controlando Leão Dourado  
-Devido ao controle de um Leão Dourado, o efeito de esgotamento do usuário sobre o Jogo de Pés, Energia, Fôlego e Posição do inimigo será aumentado; O efeito de esgotamento do inimigo sobre o usuário será reduzido.  
-Controlando Leão Dourado: <color=#brightblue>O efeito de esgotamento do usuário sobre o Jogo de Pés, Energia, Fôlego e Posição do inimigo será aumentado; O efeito de esgotamento do inimigo sobre o usuário será reduzido</color>.  
+Devido ao controle de uma Pantera Negra, o poder de Contra-ataque do usuario é aumentado.  
+Controlando Pantera Negra: <color=#brightblue>O poder de Contra-ataque do usuario é aumentado</color>.  
+Controlando Leao Dourado  
+Devido ao controle de um Leao Dourado, o efeito de esgotamento do usuario sobre o Jogo de Pés, Energia, Fôlego e Posicao do inimigo sera aumentado; O efeito de esgotamento do inimigo sobre o usuario sera reduzido.  
+Controlando Leao Dourado: <color=#brightblue>O efeito de esgotamento do usuario sobre o Jogo de Pés, Energia, Fôlego e Posicao do inimigo sera aumentado; O efeito de esgotamento do inimigo sobre o usuario sera reduzido</color>.  
 Controlando Tigre Branco  
-Devido ao controle de um Tigre Branco, o dano dos ataques de acompanhamento do usuário aumentará gradualmente até o fim do ataque.  
-Controlando Tigre Branco: <color=#brightblue>O dano dos ataques de acompanhamento do usuário aumentará gradualmente até o fim do ataque</color>.  
-7 Induções de Roda  
+Devido ao controle de um Tigre Branco, o dano dos ataques de acompanhamento do usuario aumentara gradualmente até o fim do ataque.  
+Controlando Tigre Branco: <color=#brightblue>O dano dos ataques de acompanhamento do usuario aumentara gradualmente até o fim do ataque</color>.  
+7 Inducoes de Roda  
 Aumenta lentamente e continuamente tipos aleatórios de Qi Verdadeiro  
 
 Reduz lentamente e continuamente tipos aleatórios de Qi Verdadeiro  
 
 Controlando Jiao Branco  
-Devido ao controle de um Jiao Branco, a "Compostura" do usuário é aumentada.  
-Controlando Jiao Branco: <color=#brightblue>A "Compostura" do usuário é aumentada</color>.  
+Devido ao controle de um Jiao Branco, a "Compostura" do usuario é aumentada.  
+Controlando Jiao Branco: <color=#brightblue>A "Compostura" do usuario é aumentada</color>.  
 Controlando Jiao Negro  
-Devido ao controle de um Jiao Negro, a "Astúcia" do usuário é aumentada.  
-Controlando Jiao Negro: <color=#brightblue>A "Astúcia" do usuário é aumentada</color>.  
+Devido ao controle de um Jiao Negro, a "Astúcia" do usuario é aumentada.  
+Controlando Jiao Negro: <color=#brightblue>A "Astúcia" do usuario é aumentada</color>.  
 Controlando Jiao Verde  
-Devido ao controle de um Jiao Verde, o "Entusiasmo" do usuário é aumentado.  
-Controlando Jiao Verde: <color=#brightblue>O "Entusiasmo" do usuário é aumentado</color>.  
+Devido ao controle de um Jiao Verde, o "Entusiasmo" do usuario é aumentado.  
+Controlando Jiao Verde: <color=#brightblue>O "Entusiasmo" do usuario é aumentado</color>.  
 Controlando Jiao Vermelho  
-Devido ao controle de um Jiao Vermelho, o "Valor" do usuário é aumentado.  
-Controlando Jiao Vermelho: <color=#brightblue>O "Valor" do usuário é aumentado</color>.  
+Devido ao controle de um Jiao Vermelho, o "Valor" do usuario é aumentado.  
+Controlando Jiao Vermelho: <color=#brightblue>O "Valor" do usuario é aumentado</color>.  
 Controlando Jiao Amarelo  
-Devido ao controle de um Jiao Amarelo, a "Fortitude" do usuário é aumentada.  
-Controlando Jiao Amarelo: <color=#brightblue>A "Fortitude" do usuário é aumentada</color>.  
+Devido ao controle de um Jiao Amarelo, a "Fortitude" do usuario é aumentada.  
+Controlando Jiao Amarelo: <color=#brightblue>A "Fortitude" do usuario é aumentada</color>.  
 Controlando Jiao Yin-Yang  
-Devido ao controle de um Jiao Yin-Yang, a "Compostura" e a "Astúcia" do usuário são aumentadas.  
-Controlando Jiao Yin-Yang: <color=#brightblue>A "Compostura" e a "Astúcia" do usuário são aumentadas</color>.  
-Controlando Jiao Relâmpago Voador  
-Devido ao controle de um Jiao Relâmpago Voador, a "Compostura" e o "Entusiasmo" do usuário são aumentados.  
-Controlando Jiao Relâmpago Voador: <color=#brightblue>A "Compostura" e o "Entusiasmo" do usuário são aumentados</color>.  
-Controlando Jiao Trovão Fogo  
-Devido ao controle de um Jiao Trovão Fogo, a "Compostura" e o "Valor" do usuário são aumentados.  
-Controlando Jiao Trovão Fogo: <color=#brightblue>A "Compostura" e o "Valor" do usuário são aumentados</color>.  
+Devido ao controle de um Jiao Yin-Yang, a "Compostura" e a "Astúcia" do usuario sao aumentadas.  
+Controlando Jiao Yin-Yang: <color=#brightblue>A "Compostura" e a "Astúcia" do usuario sao aumentadas</color>.  
+Controlando Jiao Relampago Voador  
+Devido ao controle de um Jiao Relampago Voador, a "Compostura" e o "Entusiasmo" do usuario sao aumentados.  
+Controlando Jiao Relampago Voador: <color=#brightblue>A "Compostura" e o "Entusiasmo" do usuario sao aumentados</color>.  
+Controlando Jiao Trovao Fogo  
+Devido ao controle de um Jiao Trovao Fogo, a "Compostura" e o "Valor" do usuario sao aumentados.  
+Controlando Jiao Trovao Fogo: <color=#brightblue>A "Compostura" e o "Valor" do usuario sao aumentados</color>.  
 Controlando Jiao Olho Dourado  
-Devido ao controle de um Jiao Olho Dourado, a "Compostura" e a "Fortitude" do usuário são aumentadas.  
-Controlando Jiao Olho Dourado: <color=#brightblue>A "Compostura" e a "Fortitude" do usuário são aumentadas</color>.  
+Devido ao controle de um Jiao Olho Dourado, a "Compostura" e a "Fortitude" do usuario sao aumentadas.  
+Controlando Jiao Olho Dourado: <color=#brightblue>A "Compostura" e a "Fortitude" do usuario sao aumentadas</color>.  
 Controlando Jiao Lago Verde  
-Devido ao controle de um Jiao Lago Verde, a "Astúcia" e o "Entusiasmo" do usuário são aumentados.  
-Controlando Jiao Lago Verde: <color=#brightblue>A "Astúcia" e o "Entusiasmo" do usuário são aumentados</color>.  
+Devido ao controle de um Jiao Lago Verde, a "Astúcia" e o "Entusiasmo" do usuario sao aumentados.  
+Controlando Jiao Lago Verde: <color=#brightblue>A "Astúcia" e o "Entusiasmo" do usuario sao aumentados</color>.  
 Controlando Jiao Nuvem Queimada  
-Devido ao controle de um Jiao Nuvem Queimada, a "Astúcia" e o "Valor" do usuário são aumentados.  
-Controlando Jiao Nuvem Queimada: <color=#brightblue>A "Astúcia" e o "Valor" do usuário são aumentados</color>.  
+Devido ao controle de um Jiao Nuvem Queimada, a "Astúcia" e o "Valor" do usuario sao aumentados.  
+Controlando Jiao Nuvem Queimada: <color=#brightblue>A "Astúcia" e o "Valor" do usuario sao aumentados</color>.  
 Controlando Clay Pool Jiao
-Por controlar um Clay Pool Jiao, a "Astúcia" e a "Fortitude" do usuário são aumentadas.
-Controlando Clay Pool Jiao: <color=#brightblue>A "Astúcia" e a "Fortitude" do usuário são aumentadas</color>.
+Por controlar um Clay Pool Jiao, a "Astúcia" e a "Fortitude" do usuario sao aumentadas.
+Controlando Clay Pool Jiao: <color=#brightblue>A "Astúcia" e a "Fortitude" do usuario sao aumentadas</color>.
 Controlando Flame Horn Jiao
-Por controlar um Flame Horn Jiao, o "Entusiasmo" e a "Valentia" do usuário são aumentados.
-Controlando Flame Horn Jiao: <color=#brightblue>O "Entusiasmo" e a "Valentia" do usuário são aumentados</color>.
+Por controlar um Flame Horn Jiao, o "Entusiasmo" e a "Valentia" do usuario sao aumentados.
+Controlando Flame Horn Jiao: <color=#brightblue>O "Entusiasmo" e a "Valentia" do usuario sao aumentados</color>.
 Controlando Leaning Mountain Jiao
-Por controlar um Leaning Mountain Jiao, o "Entusiasmo" e a "Fortitude" do usuário são aumentados.
-Controlando Leaning Mountain Jiao: <color=#brightblue>O "Entusiasmo" e a "Fortitude" do usuário são aumentados</color>.
+Por controlar um Leaning Mountain Jiao, o "Entusiasmo" e a "Fortitude" do usuario sao aumentados.
+Controlando Leaning Mountain Jiao: <color=#brightblue>O "Entusiasmo" e a "Fortitude" do usuario sao aumentados</color>.
 Controlando Refined Bone Jiao
-Por controlar um Refined Bone Jiao, a "Valentia" e a "Fortitude" do usuário são aumentadas.
-Controlando Refined Bone Jiao: <color=#brightblue>A "Valentia" e a "Fortitude" do usuário são aumentadas</color>.
+Por controlar um Refined Bone Jiao, a "Valentia" e a "Fortitude" do usuario sao aumentadas.
+Controlando Refined Bone Jiao: <color=#brightblue>A "Valentia" e a "Fortitude" do usuario sao aumentadas</color>.
 Controlando Disturbed Ocean Jiao
-Por controlar um Disturbed Ocean Jiao, a "Calma", "Astúcia" e "Entusiasmo" do usuário são aumentados.
-Controlando Disturbed Ocean Jiao: <color=#brightblue>A "Calma", "Astúcia" e "Entusiasmo" do usuário são aumentados</color>.
+Por controlar um Disturbed Ocean Jiao, a "Calma", "Astúcia" e "Entusiasmo" do usuario sao aumentados.
+Controlando Disturbed Ocean Jiao: <color=#brightblue>A "Calma", "Astúcia" e "Entusiasmo" do usuario sao aumentados</color>.
 Controlando Draped Clouds Jiao
-Por controlar um Draped Clouds Jiao, a "Calma", "Astúcia" e "Valentia" do usuário são aumentadas.
-Controlando Draped Clouds Jiao: <color=#brightblue>A "Calma", "Astúcia" e "Valentia" do usuário são aumentadas</color>.
+Por controlar um Draped Clouds Jiao, a "Calma", "Astúcia" e "Valentia" do usuario sao aumentadas.
+Controlando Draped Clouds Jiao: <color=#brightblue>A "Calma", "Astúcia" e "Valentia" do usuario sao aumentadas</color>.
 Controlando Deep Depth Jiao
-Por controlar um Deep Depth Jiao, a "Calma", "Astúcia" e "Fortitude" do usuário são aumentadas.
-Controlando Deep Depth Jiao: <color=#brightblue>A "Calma", "Astúcia" e "Fortitude" do usuário são aumentadas</color>.
+Por controlar um Deep Depth Jiao, a "Calma", "Astúcia" e "Fortitude" do usuario sao aumentadas.
+Controlando Deep Depth Jiao: <color=#brightblue>A "Calma", "Astúcia" e "Fortitude" do usuario sao aumentadas</color>.
 Controlando Heaven Thunder Jiao
-Por controlar um Heaven Thunder Jiao, a "Calma", "Entusiasmo" e "Valentia" do usuário são aumentadas.
-Controlando Heaven Thunder Jiao: <color=#brightblue>A "Calma", "Entusiasmo" e "Valentia" do usuário são aumentadas</color>.
+Por controlar um Heaven Thunder Jiao, a "Calma", "Entusiasmo" e "Valentia" do usuario sao aumentadas.
+Controlando Heaven Thunder Jiao: <color=#brightblue>A "Calma", "Entusiasmo" e "Valentia" do usuario sao aumentadas</color>.
 Controlando Desolate Road Jiao
-Por controlar um Desolate Road Jiao, a "Calma", "Entusiasmo" e "Fortitude" do usuário são aumentadas.
-Controlando Desolate Road Jiao: <color=#brightblue>A "Calma", "Entusiasmo" e "Fortitude" do usuário são aumentadas</color>.
+Por controlar um Desolate Road Jiao, a "Calma", "Entusiasmo" e "Fortitude" do usuario sao aumentadas.
+Controlando Desolate Road Jiao: <color=#brightblue>A "Calma", "Entusiasmo" e "Fortitude" do usuario sao aumentadas</color>.
 Controlando Qilin Jiao
-Por controlar um Qilin Jiao, a "Calma", "Valentia" e "Fortitude" do usuário são aumentadas.
-Controlando Qilin Jiao: <color=#brightblue>A "Calma", "Valentia" e "Fortitude" do usuário são aumentadas</color>.
+Por controlar um Qilin Jiao, a "Calma", "Valentia" e "Fortitude" do usuario sao aumentadas.
+Controlando Qilin Jiao: <color=#brightblue>A "Calma", "Valentia" e "Fortitude" do usuario sao aumentadas</color>.
 Controlando Ghost Prison Jiao
-Por controlar um Ghost Prison Jiao, a "Astúcia", "Entusiasmo" e "Valentia" do usuário são aumentadas.
-Controlando Ghost Prison Jiao: <color=#brightblue>A "Astúcia", "Entusiasmo" e "Valentia" do usuário são aumentadas</color>.
+Por controlar um Ghost Prison Jiao, a "Astúcia", "Entusiasmo" e "Valentia" do usuario sao aumentadas.
+Controlando Ghost Prison Jiao: <color=#brightblue>A "Astúcia", "Entusiasmo" e "Valentia" do usuario sao aumentadas</color>.
 Controlando Immortal Mountain Jiao
-Por controlar um Immortal Mountain Jiao, a "Astúcia", "Entusiasmo" e "Fortitude" do usuário são aumentadas.
-Controlando Immortal Mountain Jiao: <color=#brightblue>A "Astúcia", "Entusiasmo" e "Fortitude" do usuário são aumentadas</color>.
+Por controlar um Immortal Mountain Jiao, a "Astúcia", "Entusiasmo" e "Fortitude" do usuario sao aumentadas.
+Controlando Immortal Mountain Jiao: <color=#brightblue>A "Astúcia", "Entusiasmo" e "Fortitude" do usuario sao aumentadas</color>.
 Controlando Flaming Pond Jiao
-Por controlar um Flaming Pond Jiao, a "Astúcia", "Valentia" e "Fortitude" do usuário são aumentadas.
-Controlando Flaming Pond Jiao: <color=#brightblue>A "Astúcia", "Valentia" e "Fortitude" do usuário são aumentadas</color>.
+Por controlar um Flaming Pond Jiao, a "Astúcia", "Valentia" e "Fortitude" do usuario sao aumentadas.
+Controlando Flaming Pond Jiao: <color=#brightblue>A "Astúcia", "Valentia" e "Fortitude" do usuario sao aumentadas</color>.
 Controlando Burning Hill Jiao
-Por controlar um Burning Hill Jiao, o "Entusiasmo", "Valentia" e a "Fortitude" do usuário são aumentados.
-Controlando Burning Hill Jiao: <color=#brightblue>O "Entusiasmo", "Valentia" e a "Fortitude" do usuário são aumentados</color>.
+Por controlar um Burning Hill Jiao, o "Entusiasmo", "Valentia" e a "Fortitude" do usuario sao aumentados.
+Controlando Burning Hill Jiao: <color=#brightblue>O "Entusiasmo", "Valentia" e a "Fortitude" do usuario sao aumentados</color>.
 Controlando Four Changes Jiao
-Por controlar um Four Changes Jiao, a "Calma", "Astúcia", "Entusiasmo" e "Valentia" do usuário são aumentadas.
-Controlando Four Changes Jiao: <color=#brightblue>A "Calma", "Astúcia", "Entusiasmo" e "Valentia" do usuário são aumentadas</color>.
+Por controlar um Four Changes Jiao, a "Calma", "Astúcia", "Entusiasmo" e "Valentia" do usuario sao aumentadas.
+Controlando Four Changes Jiao: <color=#brightblue>A "Calma", "Astúcia", "Entusiasmo" e "Valentia" do usuario sao aumentadas</color>.
 Controlando Hundred Jewels Jiao
-Por controlar um Hundred Jewels Jiao, a "Calma", "Astúcia", "Entusiasmo" e "Fortitude" do usuário são aumentadas.
-Controlando Hundred Jewels Jiao: <color=#brightblue>A "Calma", "Astúcia", "Entusiasmo" e "Fortitude" do usuário são aumentadas</color>.
+Por controlar um Hundred Jewels Jiao, a "Calma", "Astúcia", "Entusiasmo" e "Fortitude" do usuario sao aumentadas.
+Controlando Hundred Jewels Jiao: <color=#brightblue>A "Calma", "Astúcia", "Entusiasmo" e "Fortitude" do usuario sao aumentadas</color>.
 Controlando Calm Sea Jiao
-Ao controlar um Calm Sea Jiao, "Compostura", "Inteligência", "Valor" e "Fortitude" do usuário são aumentados.
-Controlando Calm Sea Jiao: <color=#brightblue>"Compostura", "Inteligência", "Valor" e "Fortitude" do usuário são aumentados</color>.
+Ao controlar um Calm Sea Jiao, "Compostura", "Inteligencia", "Valor" e "Fortitude" do usuario sao aumentados.
+Controlando Calm Sea Jiao: <color=#brightblue>"Compostura", "Inteligencia", "Valor" e "Fortitude" do usuario sao aumentados</color>.
 Controlando Heaven-swallowing Jiao
-Ao controlar um Heaven-swallowing Jiao, "Compostura", "Entusiasmo", "Valor" e "Fortitude" do usuário são aumentados.
-Controlando Heaven-swallowing Jiao: <color=#brightblue>"Compostura", "Entusiasmo", "Valor" e "Fortitude" do usuário são aumentados</color>.
+Ao controlar um Heaven-swallowing Jiao, "Compostura", "Entusiasmo", "Valor" e "Fortitude" do usuario sao aumentados.
+Controlando Heaven-swallowing Jiao: <color=#brightblue>"Compostura", "Entusiasmo", "Valor" e "Fortitude" do usuario sao aumentados</color>.
 Controlando Mixed Scale Jiao
-Ao controlar um Mixed Scale Jiao, "Inteligência", "Entusiasmo", "Valor" e "Fortitude" do usuário são aumentados.
-Controlando Mixed Scale Jiao: <color=#brightblue>"Inteligência", "Entusiasmo", "Valor" e "Fortitude" do usuário são aumentados</color>.
+Ao controlar um Mixed Scale Jiao, "Inteligencia", "Entusiasmo", "Valor" e "Fortitude" do usuario sao aumentados.
+Controlando Mixed Scale Jiao: <color=#brightblue>"Inteligencia", "Entusiasmo", "Valor" e "Fortitude" do usuario sao aumentados</color>.
 Controlando Rainbow Jiao
-Ao controlar um Rainbow Jiao, "Compostura", "Inteligência", "Entusiasmo", "Valor" e "Fortitude" do usuário são aumentados.
-Controlando Rainbow Jiao: <color=#brightblue>"Compostura", "Inteligência", "Entusiasmo", "Valor" e "Fortitude" do usuário são aumentados</color>.
+Ao controlar um Rainbow Jiao, "Compostura", "Inteligencia", "Entusiasmo", "Valor" e "Fortitude" do usuario sao aumentados.
+Controlando Rainbow Jiao: <color=#brightblue>"Compostura", "Inteligencia", "Entusiasmo", "Valor" e "Fortitude" do usuario sao aumentados</color>.
 Controlando Qiuniu
-Ao controlar um Qiuniu: "Poder", "Destreza" e "Velocidade" do usuário aumentam com a "Respiração"; "Diversão", "Defesa" e "Evasão" aumentam com o "Foco".
-Controlando Qiuniu: <color=#brightblue>"Poder", "Destreza" e "Velocidade" aumentam com a "Respiração"; "Diversão", "Defesa" e "Evasão" aumentam com o "Foco".</color>
+Ao controlar um Qiuniu: "Poder", "Destreza" e "Velocidade" do usuario aumentam com a "Respiracao"; "Diversao", "Defesa" e "Evasao" aumentam com o "Foco".
+Controlando Qiuniu: <color=#brightblue>"Poder", "Destreza" e "Velocidade" aumentam com a "Respiracao"; "Diversao", "Defesa" e "Evasao" aumentam com o "Foco".</color>
 Controlando Yazi
-Ao controlar um Yazi, parte do dano direto recebido do inimigo será adicionado ao próximo ataque do usuário.
-Controlando Yazi: <color=#brightblue>Parte do dano direto recebido do inimigo será adicionado ao próximo ataque do usuário</color>.
+Ao controlar um Yazi, parte do dano direto recebido do inimigo sera adicionado ao próximo ataque do usuario.
+Controlando Yazi: <color=#brightblue>Parte do dano direto recebido do inimigo sera adicionado ao próximo ataque do usuario</color>.
 Controlando Chaofeng
-Por controlar Chaofeng: A velocidade de recuperação do vigor do usuário aumenta.
-Controlando Chaofeng: <color=#brightblue>A velocidade de recuperação do vigor do usuário aumenta</color>
+Por controlar Chaofeng: A velocidade de recuperacao do vigor do usuario aumenta.
+Controlando Chaofeng: <color=#brightblue>A velocidade de recuperacao do vigor do usuario aumenta</color>
 Controlando Pulao
-Ao controlar um Pulao, quanto mais equilibrada for a Razão Externa/Interna do ataque inimigo, menor será o dano direto causado.
-Controlando Pulao: <color=#brightblue>Quanto mais equilibrada for a Razão Externa/Interna do ataque inimigo, menor será o dano direto causado</color>.
+Ao controlar um Pulao, quanto mais equilibrada for a Razao Externa/Interna do ataque inimigo, menor sera o dano direto causado.
+Controlando Pulao: <color=#brightblue>Quanto mais equilibrada for a Razao Externa/Interna do ataque inimigo, menor sera o dano direto causado</color>.
 Controlando Suanni
-Ao controlar um Suanni: O dano de Ferida Fatal causado pelo usuário aumenta; Sempre que o usuário causar dano Externo ou Interno direto, há chance de se transformar em Ferida Fatal.
-Controlando Suanni: <color=#brightblue>O dano de Ferida Fatal aumenta; há chance de dano direto virar Ferida Fatal</color>.
+Ao controlar um Suanni: O dano de Ferida Fatal causado pelo usuario aumenta; Sempre que o usuario causar dano Externo ou Interno direto, ha chance de se transformar em Ferida Fatal.
+Controlando Suanni: <color=#brightblue>O dano de Ferida Fatal aumenta; ha chance de dano direto virar Ferida Fatal</color>.
 Controlando Baxia
-Ao controlar um Baxia: O usuário não sofre penalidades por exceder o peso máximo de equipamento; Quanto mais exceder, maior o limite de poder das Armas e Armaduras.
-Controlando Baxia: <color=#brightblue>O usuário não sofre penalidades por peso excessivo; o limite de poder das Armas e Armaduras aumenta ao exceder o peso</color>.
+Ao controlar um Baxia: O usuario nao sofre penalidades por exceder o peso maximo de equipamento; Quanto mais exceder, maior o limite de poder das Armas e Armaduras.
+Controlando Baxia: <color=#brightblue>O usuario nao sofre penalidades por peso excessivo; o limite de poder das Armas e Armaduras aumenta ao exceder o peso</color>.
 Controlando Bian
-Ao controlar um Bian, quando o usuário ataca um inimigo com Fama negativa, sua Pen. Ext. e Int. aumentam conforme a negatividade da Fama; Ao ser atacado, suas Defesas Ext. e Int. aumentam do mesmo modo.
+Ao controlar um Bian, quando o usuario ataca um inimigo com Fama negativa, sua Pen. Ext. e Int. aumentam conforme a negatividade da Fama; Ao ser atacado, suas Defesas Ext. e Int. aumentam do mesmo modo.
 Controlando Bian: <color=#brightblue>Pen. Ext./Int. e Def. Ext./Int. aumentam conforme a Fama negativa do inimigo</color>.
 Controlando Fuxi  
-Por controlar Fuxi: As estatísticas de Precisão e Determinação do usuário aumentam com base nas conquistas em Música, Xadrez, Literatura e Pintura; As estatísticas de ATK e Defesa aumentam com base nas conquistas em Marcenaria, Metalurgia, Tecelagem e Lapidação.  
-Controlando Fuxi: <color=#brightblue>As estatísticas de Precisão e Determinação do usuário aumentam com base nas conquistas em Música, Xadrez, Literatura e Pintura; As estatísticas de ATK e Defesa aumentam com base nas conquistas em Marcenaria, Metalurgia, Tecelagem e Lapidação</color>.  
+Por controlar Fuxi: As estatísticas de Precisao e Determinacao do usuario aumentam com base nas conquistas em Música, Xadrez, Literatura e Pintura; As estatísticas de ATK e Defesa aumentam com base nas conquistas em Marcenaria, Metalurgia, Tecelagem e Lapidacao.  
+Controlando Fuxi: <color=#brightblue>As estatísticas de Precisao e Determinacao do usuario aumentam com base nas conquistas em Música, Xadrez, Literatura e Pintura; As estatísticas de ATK e Defesa aumentam com base nas conquistas em Marcenaria, Metalurgia, Tecelagem e Lapidacao</color>.  
 Controlando Chiwen  
-Por controlar Chiwen, sempre que o usuário consome ativamente 1 Estilo disponível, todo o Qi Verdadeiro do usuário que estiver abaixo de seu valor inicial aumenta em 2 pontos; Sempre que o inimigo consome ativamente 1 Estilo disponível, todo o Qi Verdadeiro do inimigo que estiver acima de seu valor inicial diminui em 2 pontos.  
-Controlando Chiwen: <color=#brightblue>Sempre que o usuário consome ativamente 1 Estilo disponível, todo o Qi Verdadeiro do usuário que estiver abaixo de seu valor inicial aumenta em 2 pontos; Sempre que o inimigo consome ativamente 1 Estilo disponível, todo o Qi Verdadeiro do inimigo que estiver acima de seu valor inicial diminui em 2 pontos</color>.  
-Lâmina de\n6 Direções
+Por controlar Chiwen, sempre que o usuario consome ativamente 1 Estilo disponível, todo o Qi Verdadeiro do usuario que estiver abaixo de seu valor inicial aumenta em 2 pontos; Sempre que o inimigo consome ativamente 1 Estilo disponível, todo o Qi Verdadeiro do inimigo que estiver acima de seu valor inicial diminui em 2 pontos.  
+Controlando Chiwen: <color=#brightblue>Sempre que o usuario consome ativamente 1 Estilo disponível, todo o Qi Verdadeiro do usuario que estiver abaixo de seu valor inicial aumenta em 2 pontos; Sempre que o inimigo consome ativamente 1 Estilo disponível, todo o Qi Verdadeiro do inimigo que estiver acima de seu valor inicial diminui em 2 pontos</color>.  
+Lamina de\n6 Direcoes
 
 
 
@@ -549,7 +549,7 @@ Zhen Fragrant
 
 
 
-Mão do Escorpião
+Mao do Escorpiao
 
 
 
@@ -580,10 +580,10 @@ Suspiro das Flores
 
 
 Qi da Morte no Peito
-Devido ao caótico qi da morte no peito, eles sentem como se tivessem sido atingidos por um raio, a dor é insuportável, tornando extremamente difícil tentar mobilizar o próprio poder.
+Devido ao caótico qi da morte no peito, eles sentem como se tivessem sido atingidos por um raio, a dor é insuportavel, tornando extremamente difícil tentar mobilizar o próprio poder.
 
 Qi da Morte Conquista a Alma
-Por causa da agitação da energia da morte no peito, era como ser esfaqueado por milhares de facas. Não apenas a dor era insuportável, mas também era difícil ativar o poder, e os órgãos internos também foram destruídos...
+Por causa da agitacao da energia da morte no peito, era como ser esfaqueado por milhares de facas. Nao apenas a dor era insuportavel, mas também era difícil ativar o poder, e os órgaos internos também foram destruídos...
 
 Shaolin perde poder
 O poder das técnicas de Shaolin aumentou; O poder das técnicas de Shaolin da Pessoa Ressuscitada diminuiu...
@@ -600,8 +600,8 @@ O poder das técnicas de Wudang aumentou; O poder das técnicas de Wudang da Pes
 Yuanshan perde poder
 O poder das técnicas de Yuanshan aumentou; O poder das técnicas de Yuanshan da Pessoa Ressuscitada diminuiu...
 
-Face de Leão perde poder
-O poder das técnicas de Face de Leão aumentou; O poder das técnicas de Face de Leão da Pessoa Ressuscitada diminuiu...
+Face de Leao perde poder
+O poder das técnicas de Face de Leao aumentou; O poder das técnicas de Face de Leao da Pessoa Ressuscitada diminuiu...
 
 Ranshan perde poder
 O poder das técnicas de Ranshan aumentou; O poder das técnicas de Ranshan da Pessoa Ressuscitada diminuiu...
@@ -609,8 +609,8 @@ O poder das técnicas de Ranshan aumentou; O poder das técnicas de Ranshan da P
 Xuannyu perde poder
 O poder das técnicas de Xuannyu aumentou; O poder das técnicas de Xuannyu da Pessoa Ressuscitada diminuiu...
 
-Mansão da Espada perde poder
-O poder das técnicas da Mansão da Espada aumentou; O poder das técnicas da Mansão da Espada da Pessoa Ressuscitada diminuiu...
+Mansao da Espada perde poder
+O poder das técnicas da Mansao da Espada aumentou; O poder das técnicas da Mansao da Espada da Pessoa Ressuscitada diminuiu...
 
 Kongsang perde poder
 O poder das técnicas de Kongsang aumentou; O poder das técnicas de Kongsang da Pessoa Ressuscitada diminuiu...
@@ -631,7 +631,7 @@ Bloodhound perde poder
 O poder das técnicas de Bloodhound aumentou; O poder das técnicas de Bloodhound da Pessoa Ressuscitada diminuiu...
 
 Sino da Alma Caída
-Ao ser capturado pelo Sino da Alma Caída, todos os atributos secundários são reduzidos à metade. Se for possível ferir gravemente seu mestre, esta batalha ainda pode ter uma chance de vitória...
+Ao ser capturado pelo Sino da Alma Caída, todos os atributos secundarios sao reduzidos à metade. Se for possível ferir gravemente seu mestre, esta batalha ainda pode ter uma chance de vitória...
 
-Sino da Alma Caída se volta contra o usuário, todos os atributos secundários são reduzidos à metade, a mente se dispersa, e não há forças para resistir ao inimigo...
+Sino da Alma Caída se volta contra o usuario, todos os atributos secundarios sao reduzidos à metade, a mente se dispersa, e nao ha forcas para resistir ao inimigo...
 

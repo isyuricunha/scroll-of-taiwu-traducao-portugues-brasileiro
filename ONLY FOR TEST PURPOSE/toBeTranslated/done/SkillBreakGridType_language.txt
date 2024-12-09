@@ -1,48 +1,48 @@
 Início  
-Início deste Avanço.  
+Início deste Avanco.  
 Fim  
-Fim deste Avanço.\nTodo progresso será perdido se você não alcançar esta célula.  
+Fim deste Avanco.\nTodo progresso sera perdido se voce nao alcancar esta célula.  
 Resumo  
-Sem descrição.  
+Sem descricao.  
 Normal  
 Sem efeito especial.  
-Sucessão  
-Após conectar a esta célula, <color=#brightblue>a Taxa de Sucesso de todas as células ao redor será aumentada em 30%</color>.  
+Sucessao  
+Após conectar a esta célula, <color=#brightblue>a Taxa de Sucesso de todas as células ao redor sera aumentada em 30%</color>.  
 Flexibilidade  
-Para cada célula ao redor conectada com sucesso, <color=#brightblue>a Taxa de Sucesso desta célula será aumentada em 30%</color>.  
-Perseverança  
-Para cada conexão falha ao redor desta célula, <color=#brightblue>a Taxa de Sucesso desta célula será aumentada em 60%</color>.  
-Fundação  
-A <color=#brightred>Taxa de Sucesso desta célula é reduzida em 100%</color>.\n<color=#brightblue>A Taxa de Sucesso de todas as células ao redor será aumentada em 60%</color>.  
-Transição  
-Após conectar a esta célula, <color=#brightblue>1 próxima conexão será sempre bem-sucedida</color>.  
-Inspiração  
-Conectar a esta célula <color=#brightblue>não aumentará a contagem de tentativas</color>.  
+Para cada célula ao redor conectada com sucesso, <color=#brightblue>a Taxa de Sucesso desta célula sera aumentada em 30%</color>.  
+Perseveranca  
+Para cada conexao falha ao redor desta célula, <color=#brightblue>a Taxa de Sucesso desta célula sera aumentada em 60%</color>.  
+Fundacao  
+A <color=#brightred>Taxa de Sucesso desta célula é reduzida em 100%</color>.\n<color=#brightblue>A Taxa de Sucesso de todas as células ao redor sera aumentada em 60%</color>.  
+Transicao  
+Após conectar a esta célula, <color=#brightblue>1 próxima conexao sera sempre bem-sucedida</color>.  
+Inspiracao  
+Conectar a esta célula <color=#brightblue>nao aumentara a contagem de tentativas</color>.  
 Revigoramento  
-A <color=#brightred>Taxa de Sucesso desta célula é reduzida em 30%</color>.\nConectar a esta célula <color=#brightblue>reduzirá a contagem de tentativas em 1</color>.  
-Reversão  
-A <color=#brightred>Taxa de Sucesso desta célula é reduzida em 60%</color>.\nConectar a esta célula <color=#brightblue>reduzirá a contagem de tentativas em 2</color>.  
+A <color=#brightred>Taxa de Sucesso desta célula é reduzida em 30%</color>.\nConectar a esta célula <color=#brightblue>reduzira a contagem de tentativas em 1</color>.  
+Reversao  
+A <color=#brightred>Taxa de Sucesso desta célula é reduzida em 60%</color>.\nConectar a esta célula <color=#brightblue>reduzira a contagem de tentativas em 2</color>.  
 Estabilidade  
-A <color=#brightblue>Taxa de Sucesso desta célula é aumentada em 60%</color>.\nConectar a esta célula <color=#brightred>aumentará a contagem de tentativas em 1</color>.  
-Esforço  
-A <color=#brightblue>Taxa de Sucesso desta célula é aumentada em 100%</color>.\nConectar a esta célula <color=#brightred>aumentará a contagem de tentativas em 2</color>.  
+A <color=#brightblue>Taxa de Sucesso desta célula é aumentada em 60%</color>.\nConectar a esta célula <color=#brightred>aumentara a contagem de tentativas em 1</color>.  
+Esforco  
+A <color=#brightblue>Taxa de Sucesso desta célula é aumentada em 100%</color>.\nConectar a esta célula <color=#brightred>aumentara a contagem de tentativas em 2</color>.  
 Clareza  
-Conectar a esta célula <color=#brightblue>revelará várias células não descobertas</color>.  
+Conectar a esta célula <color=#brightblue>revelara varias células nao descobertas</color>.  
 Desafio  
 A <color=#brightred>Taxa de Sucesso desta célula é reduzida em 60%</color>.\nConectar a esta célula <color=#brightblue>restaura todas as células falhas ao redor</color>.  
 Simplificar  
-A <color=#brightred>Taxa de Sucesso desta célula é reduzida em 30%</color>.\nConectar a esta célula transformará todas as "células especiais" ao redor em "células básicas".  
+A <color=#brightred>Taxa de Sucesso desta célula é reduzida em 30%</color>.\nConectar a esta célula transformara todas as "células especiais" ao redor em "células basicas".  
 Suporte  
-Ao conectar a esta célula, 1 "célula dourada" não conectada será transferida para uma das "células básicas" ao redor.  
-Culminação  
-Conectar a esta célula <color=#brightblue>reduzirá a contagem de tentativas em 3</color>.\nMas <color=#brightred>1 "célula dourada" não conectada será transformada em uma "célula básica"</color>.  
+Ao conectar a esta célula, 1 "célula dourada" nao conectada sera transferida para uma das "células basicas" ao redor.  
+Culminacao  
+Conectar a esta célula <color=#brightblue>reduzira a contagem de tentativas em 3</color>.\nMas <color=#brightred>1 "célula dourada" nao conectada sera transformada em uma "célula basica"</color>.  
 Humildade  
-Quanto maior for a contagem de tentativas em relação à metade do limite de Talento, maior será o <color=#brightblue>aumento na Taxa de Sucesso desta célula e de todas as células ao redor</color>.  
-Ambição  
-Quanto menor for a contagem de tentativas em relação à metade do limite de Talento, maior será o <color=#brightblue>aumento na Taxa de Sucesso desta célula e de todas as células ao redor</color>.  
+Quanto maior for a contagem de tentativas em relacao à metade do limite de Talento, maior sera o <color=#brightblue>aumento na Taxa de Sucesso desta célula e de todas as células ao redor</color>.  
+Ambicao  
+Quanto menor for a contagem de tentativas em relacao à metade do limite de Talento, maior sera o <color=#brightblue>aumento na Taxa de Sucesso desta célula e de todas as células ao redor</color>.  
 Conselho  
-Conectar a esta célula <color=#brightred>aumentará a contagem de tentativas em 1</color>.\nConectar a esta célula <color=#brightblue>conectará imediatamente 1 "célula dourada" não conectada</color>.  
+Conectar a esta célula <color=#brightred>aumentara a contagem de tentativas em 1</color>.\nConectar a esta célula <color=#brightblue>conectara imediatamente 1 "célula dourada" nao conectada</color>.  
 Completo  
-Você já está familiarizado com os pontos-chave desta técnica.\nEsta célula <color=#brightblue>será sempre conectada com sucesso</color>.  
+Voce ja esta familiarizado com os pontos-chave desta técnica.\nEsta célula <color=#brightblue>sera sempre conectada com sucesso</color>.  
 Erro  
-Já sofreu contratempos nesta célula.\nA <color=#brightblue>Taxa de Sucesso desta célula será aumentada em 100%</color>.\nMas <color=#brightred>você sempre perderá Saúde ao conectar a esta célula, independentemente do sucesso ou falha</color>.  
+Ja sofreu contratempos nesta célula.\nA <color=#brightblue>Taxa de Sucesso desta célula sera aumentada em 100%</color>.\nMas <color=#brightred>voce sempre perdera Saúde ao conectar a esta célula, independentemente do sucesso ou falha</color>.  

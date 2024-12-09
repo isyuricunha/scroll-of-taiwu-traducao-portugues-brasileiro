@@ -1,5 +1,5 @@
 Aldeia Taiwu
-A Aldeia Taiwu é o centro da região, residência de Taiwu e seu povo.
+A Aldeia Taiwu é o centro da regiao, residencia de Taiwu e seu povo.
 Capital
 A Capital é o centro econômico e político do Reino Central, repleta de ricos e poderosos.
 Noroeste da Capital
@@ -12,7 +12,7 @@ Sudoeste da Capital
 Sul da Capital
 Sudeste da Capital
 Chengdu
-Chengdu, conhecida como "a terra da abundância", tem um clima ameno que favorece talentos brilhantes. A lenda diz que seres celestiais vivem na extraordinária Montanha Emei.
+Chengdu, conhecida como "a terra da abundancia", tem um clima ameno que favorece talentos brilhantes. A lenda diz que seres celestiais vivem na extraordinaria Montanha Emei.
 Noroeste de Chengdu
 Norte de Chengdu
 Nordeste de Chengdu
@@ -23,7 +23,7 @@ Sudoeste de Chengdu
 Sul de Chengdu
 Sudeste de Chengdu
 Guizhou
-Guizhou é um lugar pitoresco. É tão bonito que não pode ser apreciado de uma vez. "Leste ou oeste, a paisagem de Guizhou é a melhor", "A paisagem de Guizhou é a mais adorável de todas" são elogios comuns.
+Guizhou é um lugar pitoresco. É tao bonito que nao pode ser apreciado de uma vez. "Leste ou oeste, a paisagem de Guizhou é a melhor", "A paisagem de Guizhou é a mais adoravel de todas" sao elogios comuns.
 Noroeste de Guizhou
 Norte de Guizhou
 Nordeste de Guizhou
@@ -34,7 +34,7 @@ Sudoeste de Guizhou
 Sul de Guizhou
 Sudeste de Guizhou
 Xiangyang
-Xiangyang está localizada no norte do Rio Xiang. A majestade da cidade é facilmente acessível de todos os lados. Assim, também tem grande importância estratégica.
+Xiangyang esta localizada no norte do Rio Xiang. A majestade da cidade é facilmente acessível de todos os lados. Assim, também tem grande importancia estratégica.
 Noroeste de Xiangyang
 Norte de Xiangyang
 Nordeste de Xiangyang
@@ -45,7 +45,7 @@ Sudoeste de Xiangyang
 Sul de Xiangyang
 Sudeste de Xiangyang
 Taiyuan
-Taiyuan é cercada por montanhas em três lados. Afirma-se que é a cidade mais importante do norte por sua grandiosidade e prosperidade.
+Taiyuan é cercada por montanhas em tres lados. Afirma-se que é a cidade mais importante do norte por sua grandiosidade e prosperidade.
 Noroeste de Taiyuan
 Norte de Taiyuan
 Nordeste de Taiyuan
@@ -56,7 +56,7 @@ Sudoeste de Taiyuan
 Sul de Taiyuan
 Sudeste de Taiyuan
 Guangzhou
-Guangzhou é uma aglomeração de três cidades menores. Muitos comerciantes estrangeiros se reuniram em Guangzhou, seguidos por vários tipos de pessoas excêntricas e bizarras.
+Guangzhou é uma aglomeracao de tres cidades menores. Muitos comerciantes estrangeiros se reuniram em Guangzhou, seguidos por varios tipos de pessoas excentricas e bizarras.
 Noroeste de Guangzhou
 Norte de Guangzhou
 Nordeste de Guangzhou
@@ -67,7 +67,7 @@ Sudoeste de Guangzhou
 Sul de Guangzhou
 Sudeste de Guangzhou
 Qingzhou
-Qingzhou é um dos "nove estados antigos", dominando a parte leste da China. Qingzhou recebe seu nome da tradição Yin-Yang, que argumenta que "Madeira representa o leste e Qing ou 'verde' representa a madeira."
+Qingzhou é um dos "nove estados antigos", dominando a parte leste da China. Qingzhou recebe seu nome da tradicao Yin-Yang, que argumenta que "Madeira representa o leste e Qing ou 'verde' representa a madeira."
 Noroeste de Qingzhou
 Norte de Qingzhou
 Nordeste de Qingzhou
@@ -78,7 +78,7 @@ Sudoeste de Qingzhou
 Sul de Qingzhou
 Sudeste de Qingzhou
 Jiangling
-Jiangling está no ponto central da rede de transporte, conhecida como "Capital do Primeiro". A educação superior e a alfabetização estão nutrindo sabedoria e atraindo pessoas inteligentes.
+Jiangling esta no ponto central da rede de transporte, conhecida como "Capital do Primeiro". A educacao superior e a alfabetizacao estao nutrindo sabedoria e atraindo pessoas inteligentes.
 Noroeste de Jiangling
 Norte de Jiangling
 Nordeste de Jiangling
@@ -89,7 +89,7 @@ Sudoeste de Jiangling
 Sul de Jiangling
 Sudeste de Jiangling
 Fuzhou
-Fuzhou está florescendo devido ao seu próspero comércio marítimo e grande população. Como as árvores de Ficus podem ser encontradas por toda parte, Fuzhou também é chamada de "Cidade das Figueiras".
+Fuzhou esta florescendo devido ao seu próspero comércio marítimo e grande populacao. Como as arvores de Ficus podem ser encontradas por toda parte, Fuzhou também é chamada de "Cidade das Figueiras".
 Noroeste de Fuzhou
 Norte de Fuzhou
 Nordeste de Fuzhou
@@ -100,7 +100,7 @@ Sudoeste de Fuzhou
 Sul de Fuzhou
 Sudeste de Fuzhou
 Liaoyang
-Liaoyang, a joia do norte, domina uma grande área. É a capital antiga mais famosa do norte e foi reconquistada várias vezes pelos reinos do norte devido à sua extrema importância estratégica.
+Liaoyang, a joia do norte, domina uma grande area. É a capital antiga mais famosa do norte e foi reconquistada varias vezes pelos reinos do norte devido à sua extrema importancia estratégica.
 Noroeste de Liaoyang
 Norte de Liaoyang
 Nordeste de Liaoyang
@@ -111,7 +111,7 @@ Sudoeste de Liaoyang
 Sul de Liaoyang
 Sudeste de Liaoyang
 Qinzhou
-Qinzhou está localizada na fronteira ocidental. Sua natureza selvagem permite a manipulação do Vajrayana para transformá-la na pedra fundamental do renascimento do Antigo Império Zhangzhung.
+Qinzhou esta localizada na fronteira ocidental. Sua natureza selvagem permite a manipulacao do Vajrayana para transforma-la na pedra fundamental do renascimento do Antigo Império Zhangzhung.
 Noroeste de Qinzhou
 Norte de Qinzhou
 Nordeste de Qinzhou
@@ -122,7 +122,7 @@ Sudoeste de Qinzhou
 Sul de Qinzhou
 Sudeste de Qinzhou
 Cinco Imortais
-As pessoas em Dali são simples e dedicadas ao Budismo. Dali é composta por muitos clãs. Esses clãs têm relações amigáveis. Juntos, prosperam.
+As pessoas em Dali sao simples e dedicadas ao Budismo. Dali é composta por muitos clas. Esses clas tem relacoes amigaveis. Juntos, prosperam.
 Noroeste de Dali
 Dali Norte
 Dali Nordeste
@@ -133,7 +133,7 @@ Dali Sudoeste
 Dali Sul
 Dali Sudeste
 Shouchun
-Shouchun é a capital da região de Huainan e é fácil controlar a área ao redor a partir de lá. Tanto o povo Chu quanto o Tofu se originam de lá.
+Shouchun é a capital da regiao de Huainan e é facil controlar a area ao redor a partir de la. Tanto o povo Chu quanto o Tofu se originam de la.
 Shouchun Noroeste
 Shouchun Norte
 Shouchun Nordeste
@@ -155,7 +155,7 @@ Hangzhou Sudoeste
 Hangzhou Sul
 Hangzhou Sudeste
 Yangzhou
-As três cidades de Yangzhou são repletas de barcos de lazer e canções à noite. Tão boas que um poeta declarou que dois terços da beleza da noite pertencem a este lugar.
+As tres cidades de Yangzhou sao repletas de barcos de lazer e cancoes à noite. Tao boas que um poeta declarou que dois tercos da beleza da noite pertencem a este lugar.
 Yangzhou Noroeste
 Yangzhou Norte
 Yangzhou Nordeste
@@ -168,196 +168,196 @@ Yangzhou Sudeste
 Aldeia Oculta
 Escondida em uma pequena aldeia nas montanhas fora de um profundo vale.
 Cabana de Bambu
-Uma pequena cabana de bambu. As paredes de bambu já perderam a cor original e estão ficando cada vez mais escuras.
+Uma pequena cabana de bambu. As paredes de bambu ja perderam a cor original e estao ficando cada vez mais escuras.
 Uma pequena cabana de bambu.
 ShaoLin
-A escola Shaolin é o gigante das escolas de artes marciais formais. O ancestral de Bodhidharma entrou nas artes marciais com o Zen e ficou diante da parede no Templo Shaolin por nove anos, criando as 'Setenta e Duas Técnicas Perfeitas', todas as quais são as melhores do mundo.\n<color=#lightgrey>(Shaolin é uma seita <color=#lightblue>Justa</color>; O ponto principal é <color=#lightblue>Bondoso</color>, a maioria das pessoas na seita é <color=#lightblue>Bondosa</color>. Eles não passarão seus conhecimentos para pessoas com Fama negativa.) </color>
+A escola Shaolin é o gigante das escolas de artes marciais formais. O ancestral de Bodhidharma entrou nas artes marciais com o Zen e ficou diante da parede no Templo Shaolin por nove anos, criando as 'Setenta e Duas Técnicas Perfeitas', todas as quais sao as melhores do mundo.\n<color=#lightgrey>(Shaolin é uma seita <color=#lightblue>Justa</color>; O ponto principal é <color=#lightblue>Bondoso</color>, a maioria das pessoas na seita é <color=#lightblue>Bondosa</color>. Eles nao passarao seus conhecimentos para pessoas com Fama negativa.) </color>
 Caverna Dharma da Escola Shaolin
 Montanha Traseira da Escola Shaolin
 Floresta da Pagoda da Escola Shaolin
 Templo Zen da Escola Shaolin
 Seita Emei
-Emei é a arte marcial mais famosa do mundo. Emei é uma das três seitas mais famosas nas artes marciais. A escola é como seu nome - 'a mais bonita do mundo'. As artes marciais de Emei são Justas e flexíveis, com uma mistura de Taoísmo e Budismo e um cultivo dual de determinação e sabedoria.\n<color=#lightgrey>(Emei é uma seita <color=#lightblue>Justa</color>; O ponto principal é <color=#lightblue>Bondoso</color>, a maioria das pessoas na seita é <color=#lightblue>Bondosa</color>; Eles não passarão seus conhecimentos para pessoas com Fama negativa.)</color>
+Emei é a arte marcial mais famosa do mundo. Emei é uma das tres seitas mais famosas nas artes marciais. A escola é como seu nome - 'a mais bonita do mundo'. As artes marciais de Emei sao Justas e flexíveis, com uma mistura de Taoísmo e Budismo e um cultivo dual de determinacao e sabedoria.\n<color=#lightgrey>(Emei é uma seita <color=#lightblue>Justa</color>; O ponto principal é <color=#lightblue>Bondoso</color>, a maioria das pessoas na seita é <color=#lightblue>Bondosa</color>; Eles nao passarao seus conhecimentos para pessoas com Fama negativa.)</color>
 Pico Dourado da Escola Emei
 Penhasco Shenyang da Escola Emei
 Templo dos Mil Budas da Escola Emei
-Poço do Dragão Branco da Escola Emei
+Poco do Dragao Branco da Escola Emei
 Vale das Flores
-O Vale das Cem Flores é famoso por suas habilidades médicas, e a técnica de moxabustão pela Agulha Real é incomparável. Os discípulos do vale são conhecidos por sua benevolência e retidão, e são admirados por todo o mundo.\n<color=#lightgrey>(Vale das Cem Flores é uma seita <color=#lightblue>Justa</color>; O ponto principal é <color=#lightblue>Bondoso</color>, a maioria das pessoas na seita é <color=#lightblue>Bondosa</color>; Eles não passarão seus conhecimentos para pessoas com Fama negativa.)</color>
+O Vale das Cem Flores é famoso por suas habilidades médicas, e a técnica de moxabustao pela Agulha Real é incomparavel. Os discípulos do vale sao conhecidos por sua benevolencia e retidao, e sao admirados por todo o mundo.\n<color=#lightgrey>(Vale das Cem Flores é uma seita <color=#lightblue>Justa</color>; O ponto principal é <color=#lightblue>Bondoso</color>, a maioria das pessoas na seita é <color=#lightblue>Bondosa</color>; Eles nao passarao seus conhecimentos para pessoas com Fama negativa.)</color>
 Caverna do Cervo Branco do Vale das Flores
 Prédio Flutuante do Vale das Flores
 Chalé das Cem Flores do Vale das Flores
 Entrada do Vale das Flores
 Seita Wudang
-Juntamente com a Shaolin e a Emei, é uma das três escolas de artes marciais mais famosas do mundo. A Seita Wudang é uma escola profunda e sofisticada de artes marciais, com grande ênfase no cultivo das artes marciais internas. O fundador da escola, Zhenjun, é um mestre daoísta profundo, e seu Taiji Shen Gong é famoso em todo o mundo, sendo conhecido como a melhor arte marcial interna do mundo.\n<color=#lightgrey>(Wudang é uma seita <color=#lightblue>Justa</color>; Posição principal é <color=#white>Neutra</color>, a maioria das pessoas na seita é <color=#white>Neutra</color>; Não passarão seu conhecimento para pessoas com Fama negativa.)</color>
+Juntamente com a Shaolin e a Emei, é uma das tres escolas de artes marciais mais famosas do mundo. A Seita Wudang é uma escola profunda e sofisticada de artes marciais, com grande enfase no cultivo das artes marciais internas. O fundador da escola, Zhenjun, é um mestre daoísta profundo, e seu Taiji Shen Gong é famoso em todo o mundo, sendo conhecido como a melhor arte marcial interna do mundo.\n<color=#lightgrey>(Wudang é uma seita <color=#lightblue>Justa</color>; Posicao principal é <color=#white>Neutra</color>, a maioria das pessoas na seita é <color=#white>Neutra</color>; Nao passarao seu conhecimento para pessoas com Fama negativa.)</color>
 Pico Traseiro da Seita Wudang
-Salão Verdadeiro da Seita Wudang
+Salao Verdadeiro da Seita Wudang
 Pico Tianzhu da Seita Wudang
 Floresta de Bambu da Seita Wudang
 Seita YuanShan
-A Seita YuanShan tem muitos discípulos e assume a responsabilidade de manter a justiça no mundo das artes marciais. A grande Seita YuanShan tem um monte de espadas, e a pequena Seita YuanShan tem um monte de espadas. As grandes e pequenas seitas YuanShan estão unidas no mesmo espírito e usam a habilidade mágica de combinar espadas e facas para eliminar o demônio e defender o caminho, com sua fama se espalhando por todo o mundo.\n<color=#lightgrey>(YuanShan é uma seita <color=#lightblue>Justa</color>; Posição principal é <color=#yellow>Justa</color>, a maioria das pessoas na seita é <color=#yellow>Justa</color>; Não passarão seu conhecimento para pessoas com Fama negativa.)</color>
+A Seita YuanShan tem muitos discípulos e assume a responsabilidade de manter a justica no mundo das artes marciais. A grande Seita YuanShan tem um monte de espadas, e a pequena Seita YuanShan tem um monte de espadas. As grandes e pequenas seitas YuanShan estao unidas no mesmo espírito e usam a habilidade magica de combinar espadas e facas para eliminar o demônio e defender o caminho, com sua fama se espalhando por todo o mundo.\n<color=#lightgrey>(YuanShan é uma seita <color=#lightblue>Justa</color>; Posicao principal é <color=#yellow>Justa</color>, a maioria das pessoas na seita é <color=#yellow>Justa</color>; Nao passarao seu conhecimento para pessoas com Fama negativa.)</color>
 Grande Wonsan da Seita YuanShan
 Floresta de Monumentos da Seita YuanShan
 Casa de Pedra da Seita YuanShan
 Pequeno Wonsan da Seita YuanShan
-Clã Face de Leão
-O Clã Face de Leão é uma escola de artes marciais forte e dominadora, embora não se concentre no cultivo da força interna, a prática horizontal de qigong duro é única no mundo, podendo abrir ouro e quebrar pedras, e espadas e lanças não podem penetrar, o que pode ser chamado de ápice das artes marciais externas.\n<color=#lightgrey>(Clã Face de Leão é uma seita <color=#white>Neutra</color>; Posição principal é <color=#darkpurple>Rebelde</color>, a maioria das pessoas na seita é <color=#darkpurple>Rebelde</color>.)</color>
-Salão da Dança do Leão do Clã Face de Leão
-Salão do Leão Dourado do Clã Face de Leão
-Salão do Leão Dormindo do Clã Face de Leão
-Campo da Escola do Clã Face de Leão
+Cla Face de Leao
+O Cla Face de Leao é uma escola de artes marciais forte e dominadora, embora nao se concentre no cultivo da forca interna, a pratica horizontal de qigong duro é única no mundo, podendo abrir ouro e quebrar pedras, e espadas e lancas nao podem penetrar, o que pode ser chamado de apice das artes marciais externas.\n<color=#lightgrey>(Cla Face de Leao é uma seita <color=#white>Neutra</color>; Posicao principal é <color=#darkpurple>Rebelde</color>, a maioria das pessoas na seita é <color=#darkpurple>Rebelde</color>.)</color>
+Salao da Danca do Leao do Cla Face de Leao
+Salao do Leao Dourado do Cla Face de Leao
+Salao do Leao Dormindo do Cla Face de Leao
+Campo da Escola do Cla Face de Leao
 Seita Ranshan
-A Seita Ranshan se especializa na doutrina de viajar e aprender a deixar o mundo. Estudo: memória e conhecimento extensivos, raciocínio claro e exame da situação, argumentos sem fim, mil bocas não podem se opor. O mundo: cultivar a verdade e nutrir a natureza, tomar alimento e orientação, afastar doenças e prolongar a vida, e estar pronto para agir.\n<color=#lightgrey>(Ranshan é uma seita <color=#white>Neutra</color>; Posição principal é <color=#white>Neutra</color>, a maioria das pessoas na seita é <color=#white>Neutra</color>.)</color>
+A Seita Ranshan se especializa na doutrina de viajar e aprender a deixar o mundo. Estudo: memória e conhecimento extensivos, raciocínio claro e exame da situacao, argumentos sem fim, mil bocas nao podem se opor. O mundo: cultivar a verdade e nutrir a natureza, tomar alimento e orientacao, afastar doencas e prolongar a vida, e estar pronto para agir.\n<color=#lightgrey>(Ranshan é uma seita <color=#white>Neutra</color>; Posicao principal é <color=#white>Neutra</color>, a maioria das pessoas na seita é <color=#white>Neutra</color>.)</color>
 Cliff Qinglang da Seita Ranshan
 Templo Taoísta da Seita Ranshan
 Meilin Genji da Seita Ranshan
 Pedras Imortais da Seita Ranshan
 Seita XuanNyu
-O Pico XuanNyu também é conhecido como Pico Jade Nui, onde há gelo Xuan. Diz a lenda que uma mulher celestial desceu no pico e deixou para trás uma arte mística, que, quando praticada por mulheres, as tornará belas, geladas e imortais.\n<color=#lightgrey>(XuanNyu é uma seita <color=#white>Neutra</color>; Posição principal é <color=#yellow>Justa</color>, a maioria das pessoas na seita é <color=#yellow>Justa</color>. <color=#red>Discípulos são estritamente proibidos de casar!</color>)</color>
+O Pico XuanNyu também é conhecido como Pico Jade Nui, onde ha gelo Xuan. Diz a lenda que uma mulher celestial desceu no pico e deixou para tras uma arte mística, que, quando praticada por mulheres, as tornara belas, geladas e imortais.\n<color=#lightgrey>(XuanNyu é uma seita <color=#white>Neutra</color>; Posicao principal é <color=#yellow>Justa</color>, a maioria das pessoas na seita é <color=#yellow>Justa</color>. <color=#red>Discípulos sao estritamente proibidos de casar!</color>)</color>
 Pico Dama Jade da Seita XuanNyu
-Pavilhão Tian Yin da Seita XuanNyu
+Pavilhao Tian Yin da Seita XuanNyu
 Piscina Fria da Seita XuanNyu
 Degraus de Jade da Seita XuanNyu
-Mansão da Espada
-A Mansão da Espada está localizada na Montanha Zhanlu, que se diz ter sido fundada por Ou Ye Zi, o ancestral da forja de espadas. A Mansão da Espada tem uma longa história, e a maioria das armas do mundo vem de lá, sendo altamente admirada pelos artistas marciais.\n<color=#lightgrey>(Mansão da Espada é uma seita <color=#white>Neutra</color>; Posição principal é <color=#white>Neutra</color>, a maioria das pessoas na seita é <color=#white>Neutra</color>.)</color>
-Pico Traseiro da Mansão da Espada
-Plataforma de Treinamento da Mansão da Espada
-Pátio da Mansão da Espada
-Oficina da Mansão da Espada
+Mansao da Espada
+A Mansao da Espada esta localizada na Montanha Zhanlu, que se diz ter sido fundada por Ou Ye Zi, o ancestral da forja de espadas. A Mansao da Espada tem uma longa história, e a maioria das armas do mundo vem de la, sendo altamente admirada pelos artistas marciais.\n<color=#lightgrey>(Mansao da Espada é uma seita <color=#white>Neutra</color>; Posicao principal é <color=#white>Neutra</color>, a maioria das pessoas na seita é <color=#white>Neutra</color>.)</color>
+Pico Traseiro da Mansao da Espada
+Plataforma de Treinamento da Mansao da Espada
+Patio da Mansao da Espada
+Oficina da Mansao da Espada
 Seita Kongsang
-A Seita Kongsang também é conhecida como 'Escola de Toxicologia Kongsang'. Embora a Montanha Kongsang seja uma montanha coberta de neve, ela possui um local especial onde podem ser encontradas plantas exóticas. Os discípulos da Seita Kongsang podem trazer os mortos de volta à vida e criar toxinas mortais incomparáveis.\n<color=#lightgrey>(Kongsang é uma seita <color=#white>Neutra</color>; O ponto de vista principal é <color=#red>Egoísta</color>, a maioria das pessoas na seita são <color=#red>Egoístas</color>.)</color>
+A Seita Kongsang também é conhecida como 'Escola de Toxicologia Kongsang'. Embora a Montanha Kongsang seja uma montanha coberta de neve, ela possui um local especial onde podem ser encontradas plantas exóticas. Os discípulos da Seita Kongsang podem trazer os mortos de volta à vida e criar toxinas mortais incomparaveis.\n<color=#lightgrey>(Kongsang é uma seita <color=#white>Neutra</color>; O ponto de vista principal é <color=#red>Egoísta</color>, a maioria das pessoas na seita sao <color=#red>Egoístas</color>.)</color>
 Reino Secreto da Seita Kongsang
 Covil Kongsang
 Jardim de Medicina Kongsang
 Toju Kongsang
 Vajrayana
-A Seita Vajrayana é um ramo do Budismo Tântrico transmitido do antigo reino de Xiangxiong. A Seita Vajra possui muitos discípulos, e seu poder divino é incomparável, mas age de forma cruel e implacável, sendo muito diferente das seitas tântricas ortodoxas, sendo o grande inimigo dos artistas marciais.\n<color=#lightgrey>(Vajrayana é uma seita <color=#red>Maligna</color>; O ponto de vista principal é <color=#red>Egoísta</color>, a maioria das pessoas na seita são <color=#red>Egoístas</color>; Eles não irão passar seu conhecimento para pessoas com Fama positiva.)</color>
+A Seita Vajrayana é um ramo do Budismo Tantrico transmitido do antigo reino de Xiangxiong. A Seita Vajra possui muitos discípulos, e seu poder divino é incomparavel, mas age de forma cruel e implacavel, sendo muito diferente das seitas tantricas ortodoxas, sendo o grande inimigo dos artistas marciais.\n<color=#lightgrey>(Vajrayana é uma seita <color=#red>Maligna</color>; O ponto de vista principal é <color=#red>Egoísta</color>, a maioria das pessoas na seita sao <color=#red>Egoístas</color>; Eles nao irao passar seu conhecimento para pessoas com Fama positiva.)</color>
 Templo da Seita Vajrayana
 Parque dos Elefantes da Seita Vajrayana
-Guardião Jinshan da Seita Vajrayana
-Salão Kaji da Seita Vajrayana
+Guardiao Jinshan da Seita Vajrayana
+Salao Kaji da Seita Vajrayana
 Cinco Imortais
-A religião dos cinco venenos de Miaojiang, chamada os Cinco Imortais, tem uma doutrina muito extrema, onde vingança deve ser retribuída. Na igreja, o refino de venenos e o cultivo de Gu são muitas técnicas estranhas e bizarras, todas assustadoras, artistas marciais, sejam bons ou maus, evitam-no.\n<color=#lightgrey>(Cinco Imortais é uma seita <color=#red>Maligna</color>; O ponto de vista principal é <color=#darkpurple>Rebelde</color>, a maioria das pessoas na seita são <color=#darkpurple>Rebeldes</color>; Eles não irão passar seu conhecimento para pessoas com Fama positiva.)</color>
+A religiao dos cinco venenos de Miaojiang, chamada os Cinco Imortais, tem uma doutrina muito extrema, onde vinganca deve ser retribuída. Na igreja, o refino de venenos e o cultivo de Gu sao muitas técnicas estranhas e bizarras, todas assustadoras, artistas marciais, sejam bons ou maus, evitam-no.\n<color=#lightgrey>(Cinco Imortais é uma seita <color=#red>Maligna</color>; O ponto de vista principal é <color=#darkpurple>Rebelde</color>, a maioria das pessoas na seita sao <color=#darkpurple>Rebeldes</color>; Eles nao irao passar seu conhecimento para pessoas com Fama positiva.)</color>
 Caverna Gu da Igreja Cinco Imortais
 Vale das Cobras da Igreja Cinco Imortais
 Fonte do Veneno da Igreja Cinco Imortais
 Aldeia Miao da Igreja Cinco Imortais
 JieQing
-O Portão Jieqing é comumente conhecido como o lugar onde pessoas e fantasmas viajam juntos, e costuma aceitar vilões de todo o Jianghu. Os discípulos da seita agem secretamente e raramente mostram suas pistas. Os discípulos são especialistas em Armas Exóticas e na técnica de agulhas voadoras e lançamento de pedras. Se mostrarem uma intenção de matar, certamente haverá alguém que morrerá sem deixar rastros.\n<color=#lightgrey>(Jieqing é uma seita <color=#red>Maligna</color>; O ponto de vista principal é <color=#darkpurple>Rebelde</color>, a maioria das pessoas na seita são <color=#darkpurple>Rebeldes</color>; Eles não irão passar seu conhecimento para pessoas com Fama positiva.)</color>
-Penhasco da Observação das Estrelas da Seita JieQing
+O Portao Jieqing é comumente conhecido como o lugar onde pessoas e fantasmas viajam juntos, e costuma aceitar viloes de todo o Jianghu. Os discípulos da seita agem secretamente e raramente mostram suas pistas. Os discípulos sao especialistas em Armas Exóticas e na técnica de agulhas voadoras e lancamento de pedras. Se mostrarem uma intencao de matar, certamente havera alguém que morrera sem deixar rastros.\n<color=#lightgrey>(Jieqing é uma seita <color=#red>Maligna</color>; O ponto de vista principal é <color=#darkpurple>Rebelde</color>, a maioria das pessoas na seita sao <color=#darkpurple>Rebeldes</color>; Eles nao irao passar seu conhecimento para pessoas com Fama positiva.)</color>
+Penhasco da Observacao das Estrelas da Seita JieQing
 Caverna dos Fantasmas da Seita JieQing
-Abismo do Portão da Seita JieQing
+Abismo do Portao da Seita JieQing
 Palco da Vida Esquecida da Seita JieQing
 Altar Fulong
-O Altar Fulong foi construído no Mar da China Oriental, na ilha de Chi Ming. Ele é dividido em duas linhagens: a linhagem Szeto de esgrima é feroz e agressiva, e a linhagem Dragon de punhos e palmas é profunda e excepcional. Diz-se que há um vulcão na ilha, e os discípulos praticam seu kung fu dentro do vulcão.\n<color=#lightgrey>(Altar Fulong é uma seita <color=#red>Maligna</color>; O ponto de vista principal é <color=#yellow>Justo</color>, a maioria das pessoas na seita são <color=#yellow>Justas</color>; Eles não irão passar seu conhecimento para pessoas com Fama positiva.)</color>
-Vulcão do Altar Fulong
-Salão do Dragão Dourado do Altar Fulong
-Poço de Fogo do Altar Fulong
+O Altar Fulong foi construído no Mar da China Oriental, na ilha de Chi Ming. Ele é dividido em duas linhagens: a linhagem Szeto de esgrima é feroz e agressiva, e a linhagem Dragon de punhos e palmas é profunda e excepcional. Diz-se que ha um vulcao na ilha, e os discípulos praticam seu kung fu dentro do vulcao.\n<color=#lightgrey>(Altar Fulong é uma seita <color=#red>Maligna</color>; O ponto de vista principal é <color=#yellow>Justo</color>, a maioria das pessoas na seita sao <color=#yellow>Justas</color>; Eles nao irao passar seu conhecimento para pessoas com Fama positiva.)</color>
+Vulcao do Altar Fulong
+Salao do Dragao Dourado do Altar Fulong
+Poco de Fogo do Altar Fulong
 Cidade Dourada do Fogo Fluído do Altar Fulong
 Culto do Sangue
-Desde os tempos tumultuados de Xiangshu, todas as pessoas más gradualmente se reuniram e fundaram o Culto Bloodhound. O poder demoníaco da religião bagunça a natureza das pessoas, e os artistas marciais decentes são naturalmente incompatíveis com eles.\n<color=#lightgrey>(Culto Bloodhound é uma seita <color=#red>Maligna</color>; O ponto de vista principal é <color=#red>Egoísta</color>, a maioria das pessoas na seita são <color=#red>Egoístas</color>; Eles não irão passar seu conhecimento para pessoas com Fama positiva.)</color>
+Desde os tempos tumultuados de Xiangshu, todas as pessoas mas gradualmente se reuniram e fundaram o Culto Bloodhound. O poder demoníaco da religiao bagunca a natureza das pessoas, e os artistas marciais decentes sao naturalmente incompatíveis com eles.\n<color=#lightgrey>(Culto Bloodhound é uma seita <color=#red>Maligna</color>; O ponto de vista principal é <color=#red>Egoísta</color>, a maioria das pessoas na seita sao <color=#red>Egoístas</color>; Eles nao irao passar seu conhecimento para pessoas com Fama positiva.)</color>
 Templo do Blood Hind Cult
 Cercado do Culto Bloodhound
 Oco do Culto Bloodhound
-Poço do Sangue do Culto Blood Hind
+Poco do Sangue do Culto Blood Hind
 Aldeia
-A fumaça sobe na aldeia. O simples caminho de terra batida é espalhado entre os campos e as sebes.
+A fumaca sobe na aldeia. O simples caminho de terra batida é espalhado entre os campos e as sebes.
 Cidade
-Uma cidade com uma grande população. Conectada ao caminho principal, possui uma estação.
+Uma cidade com uma grande populacao. Conectada ao caminho principal, possui uma estacao.
 Acampamento
 Uma terra protegida por muros e rios, com moradores autossuficientes.
-Estação
-Você pode usar a rota postal para viajar pelo mundo em áreas onde existem estações de correios.
-Estágios Abandonados
-É possível viajar pelo mundo usando a rota postal em áreas com estações de correios. No entanto, esta estação de correios está deserta e não funciona...
+Estacao
+Voce pode usar a rota postal para viajar pelo mundo em areas onde existem estacoes de correios.
+Estagios Abandonados
+É possível viajar pelo mundo usando a rota postal em areas com estacoes de correios. No entanto, esta estacao de correios esta deserta e nao funciona...
 Terreno Agricola
 A terra agrícola recuperada pelas pessoas locais tem suas próprias regras e regulamentos para cada família. Trigo, arroz e outros produtos agrícolas crescem na terra, entre outros.
 Jardim
-Este lugar é cercado por montanhas e água, com uma paisagem infinita, florestas planas e indiferença, e águas correntes, formando um deserto por si só.
+Este lugar é cercado por montanhas e agua, com uma paisagem infinita, florestas planas e indiferenca, e aguas correntes, formando um deserto por si só.
 Floresta de Pedras
-Aqui as pedras estão em um fluxo contínuo, com mil formas e formatos, verticais e horizontais formando uma floresta. Não há grama ou árvores na floresta de pedras, apenas ouro e pedras por toda parte.
+Aqui as pedras estao em um fluxo contínuo, com mil formas e formatos, verticais e horizontais formando uma floresta. Nao ha grama ou arvores na floresta de pedras, apenas ouro e pedras por toda parte.
 Jardim de Amoreiras
 Um pequeno jardim onde as pessoas locais cultivam amoreiras, alinhadas lado a lado em fileiras, com uma cabana para criar bicho-da-seda entre elas.
 Jardim de Ervas
-Os jardins de ervas cultivados pelas pessoas locais estão cheios de ervas que crescem naturalmente e podem ser colhidas por quem precisar delas urgentemente.
+Os jardins de ervas cultivados pelas pessoas locais estao cheios de ervas que crescem naturalmente e podem ser colhidas por quem precisar delas urgentemente.
 Yushan
-Este lugar é conectado aos picos de pedra, com jade por toda parte, a montanha sempre é a luz da China. Existem muitas cavernas de mineração na montanha de jade, ou escondem tesouros estranhos.
+Este lugar é conectado aos picos de pedra, com jade por toda parte, a montanha sempre é a luz da China. Existem muitas cavernas de mineracao na montanha de jade, ou escondem tesouros estranhos.
 Montanha
-Esta cadeia de montanhas é contínua, ondulada, e o pico se eleva nas nuvens e no céu. A grama e as árvores nas montanhas são raras, e os penhascos e minérios são predominantes.
+Esta cadeia de montanhas é contínua, ondulada, e o pico se eleva nas nuvens e no céu. A grama e as arvores nas montanhas sao raras, e os penhascos e minérios sao predominantes.
 Montanhas
-Esta área é conectada às montanhas, as montanhas ondulam como uma veia, atravessando a terra. O clima nas montanhas é muito variável, e as pessoas são raras.
+Esta area é conectada às montanhas, as montanhas ondulam como uma veia, atravessando a terra. O clima nas montanhas é muito variavel, e as pessoas sao raras.
 Desfiladeiro
-As montanhas de ambos os lados do rio estão cercadas pela água, e as paredes do rio estão rolando. O desfiladeiro é rico em plantas, talvez algumas difíceis de ver.
+As montanhas de ambos os lados do rio estao cercadas pela agua, e as paredes do rio estao rolando. O desfiladeiro é rico em plantas, talvez algumas difíceis de ver.
 Perigos Naturais
-Medo da forma como o vento e as pedras se comportam, alto e inacessível, as aves têm dificuldade em atravessar, os macacos têm dificuldade em escalar, sendo chamado de perigo celestial. A cadeia de montanhas do perigo celestial se estende para o alto, o terreno é difícil e estranho, sendo difícil para pessoas comuns atravessarem.
+Medo da forma como o vento e as pedras se comportam, alto e inacessível, as aves tem dificuldade em atravessar, os macacos tem dificuldade em escalar, sendo chamado de perigo celestial. A cadeia de montanhas do perigo celestial se estende para o alto, o terreno é difícil e estranho, sendo difícil para pessoas comuns atravessarem.
 Colinas
-As colinas aqui são onduladas, sinuosas e suaves, com caminhos irregulares. Existem algumas árvores frutíferas e arroz crescendo nas colinas, que parecem vibrantes.
+As colinas aqui sao onduladas, sinuosas e suaves, com caminhos irregulares. Existem algumas arvores frutíferas e arroz crescendo nas colinas, que parecem vibrantes.
 Planalto
-Uma colina que cobre uma vasta área e tem mais de 30 metros de altura, com terreno sinuoso e caminhos acidentados. Alguns arbustos e flores comuns crescem no alto, e às vezes animais como lebres e cabras podem ser vistos.
+Uma colina que cobre uma vasta area e tem mais de 30 metros de altura, com terreno sinuoso e caminhos acidentados. Alguns arbustos e flores comuns crescem no alto, e às vezes animais como lebres e cabras podem ser vistos.
 Deserto
-O terreno plano é aberto e plano, sem fim, com muitas flores e plantas crescendo nele, e há paisagens a serem vistas em todas as estações.
+O terreno plano é aberto e plano, sem fim, com muitas flores e plantas crescendo nele, e ha paisagens a serem vistas em todas as estacoes.
 Planície
-As planícies cobrem uma vasta área, sem limites, baixas e planas, com uma visão aberta. Seu solo fértil favorece o crescimento de todas as coisas.
+As planícies cobrem uma vasta area, sem limites, baixas e planas, com uma visao aberta. Seu solo fértil favorece o crescimento de todas as coisas.
 Floresta
-A floresta tem uma grande variedade de árvores, não apenas árvores, bambus, arbustos e outras plantas, mas talvez até madeiras mais raras possam ser encontradas aqui.
+A floresta tem uma grande variedade de arvores, nao apenas arvores, bambus, arbustos e outras plantas, mas talvez até madeiras mais raras possam ser encontradas aqui.
 Floresta
-A floresta é vasta e sem fim, com uma grande variedade de árvores e gramíneas, e embora existam muitas bestas ferozes e pítons em suas profundezas, frequentemente há plantas espirituais raras.
+A floresta é vasta e sem fim, com uma grande variedade de arvores e gramíneas, e embora existam muitas bestas ferozes e pítons em suas profundezas, frequentemente ha plantas espirituais raras.
 Praia do Rio
-Na praia que se estende ao longo do rio, ocasionalmente o rio levanta ondas, e os peixes, camarões e jade no rio são levados até a praia pelas ondas da água.
+Na praia que se estende ao longo do rio, ocasionalmente o rio levanta ondas, e os peixes, camaroes e jade no rio sao levados até a praia pelas ondas da agua.
 Vale do Rio
-Este lugar é uma colina verde entre as margens, a água azul serpenteando, uma paisagem bonita, como um paraíso. No vale do rio, não há apenas muitas plantas e animais, mas também muitos peixes e camarões raros podem ser vistos.
+Este lugar é uma colina verde entre as margens, a agua azul serpenteando, uma paisagem bonita, como um paraíso. No vale do rio, nao ha apenas muitas plantas e animais, mas também muitos peixes e camaroes raros podem ser vistos.
 Lago
-A água do lago é clara e os peixes, camarões e caranguejos que crescem nele são muito saborosos, por isso há frequentemente pessoas ao redor do lago que vêm pescar peixes e camarões.
+A agua do lago é clara e os peixes, camaroes e caranguejos que crescem nele sao muito saborosos, por isso ha frequentemente pessoas ao redor do lago que vem pescar peixes e camaroes.
 Selva
-O lugar é sombreado por árvores gigantes e é impenetrável ao vento. Centenas de bestas se escondem na densa floresta, picadas venenosas, pessoas comuns não ousam entrar facilmente.
+O lugar é sombreado por arvores gigantes e é impenetravel ao vento. Centenas de bestas se escondem na densa floresta, picadas venenosas, pessoas comuns nao ousam entrar facilmente.
 Caverna
-Cavernas naturalmente formadas, o terreno é acidentado, canais ondulados, os acessos são muito difíceis, mas pode haver outras cavernas dentro.
-Pântano
-O lamaçal do pântano é pegajoso, com plantas rasteiras, é difícil andar, se você encontrar lama e lugares pesados, há mais perigo de ficar preso no pântano.
+Cavernas naturalmente formadas, o terreno é acidentado, canais ondulados, os acessos sao muito difíceis, mas pode haver outras cavernas dentro.
+Pantano
+O lamacal do pantano é pegajoso, com plantas rasteiras, é difícil andar, se voce encontrar lama e lugares pesados, ha mais perigo de ficar preso no pantano.
 Terra das Maravilhas
-Pêssegos e ameixas nas margens, flores caindo pela água, ocasionalmente um peixe pula, disputando para comer as pétalas. Ao entrar neste lugar, você não sente que suas preocupações desapareceram e só consegue sentir o aroma do pêssego.
+Pessegos e ameixas nas margens, flores caindo pela agua, ocasionalmente um peixe pula, disputando para comer as pétalas. Ao entrar neste lugar, voce nao sente que suas preocupacoes desapareceram e só consegue sentir o aroma do pessego.
 Desfiladeiro
-A água do riacho flui para a montanha. O vale está cheio de musgo e cipós, por isso as pessoas precisam ter cuidado ao caminhar por ele.
+A agua do riacho flui para a montanha. O vale esta cheio de musgo e cipós, por isso as pessoas precisam ter cuidado ao caminhar por ele.
 Deserto
-Lugar coberto de vegetação...
+Lugar coberto de vegetacao...
 Terra Destruída
-O lugar horrível e abominável, cheio de sangue, cinzas e basalto...
+O lugar horrível e abominavel, cheio de sangue, cinzas e basalto...
 Abismo Escuro
-Um abismo insondável que é extremamente difícil de atravessar.\n\n<color=#red>Atenção! Não só atravessar o Abismo Profundo leva muito tempo, como também causa ferimentos a todos que o atravessam. Você deve evitar viajar por ele se possível.</color>
+Um abismo insondavel que é extremamente difícil de atravessar.\n\n<color=#red>Atencao! Nao só atravessar o Abismo Profundo leva muito tempo, como também causa ferimentos a todos que o atravessam. Voce deve evitar viajar por ele se possível.</color>
 Bloqueando
 
 
 
-Ponto Cênico 1
+Ponto Cenico 1
 
-Ponto Cênico 2
-Ponto Cênico 3
-Ponto Cênico 4
+Ponto Cenico 2
+Ponto Cenico 3
+Ponto Cenico 4
 Túmulo da Espada - Tecelagem de Mo Nyu
-Numerosos pássaros voando em várias formas e cores pairavam acima do monte da espada - roupas femininas de Mo, de vez em quando emitindo um som triste...
+Numerosos passaros voando em varias formas e cores pairavam acima do monte da espada - roupas femininas de Mo, de vez em quando emitindo um som triste...
 Túmulo da Espada - Erradicar o Mal
 Uma fúria invisível conteria toda a ira no monte da espada - Ferro Fuxie, dezenas de milhas ao redor...
 Túmulo da Espada - Vassalo Glacial
-O monte da espada - Grande condensação de Xuan emitiu uma luz branca, cercada por uma camada espessa de gelo e neve já formada...
-Túmulo da Espada - Casulo da Fênix
-Monte da espada - Casulo da fênix cercado por um deslumbrante brilho dourado de tempos em tempos...
-Túmulo da Espada - Fundição Espiritual
-Monte da espada - Alquimia do Deus Ardente, fora, todas as árvores de pêssego estão cheias de flores de pêssego, e algumas chamas azuis fantasmagóricas saltam de vez em quando nas flores...
+O monte da espada - Grande condensacao de Xuan emitiu uma luz branca, cercada por uma camada espessa de gelo e neve ja formada...
+Túmulo da Espada - Casulo da Fenix
+Monte da espada - Casulo da fenix cercado por um deslumbrante brilho dourado de tempos em tempos...
+Túmulo da Espada - Fundicao Espiritual
+Monte da espada - Alquimia do Deus Ardente, fora, todas as arvores de pessego estao cheias de flores de pessego, e algumas chamas azuis fantasmagóricas saltam de vez em quando nas flores...
 Túmulo da Espada - Alma Dracônica
-Monte da espada - resolvendo a cor da alma do dragão trágico branco, os ossos de algum tipo de gigante se espalham dentro e fora do monte da espada...
+Monte da espada - resolvendo a cor da alma do dragao tragico branco, os ossos de algum tipo de gigante se espalham dentro e fora do monte da espada...
 Túmulo da Espada - Eremita
-A grama, árvores, montanhas e pedras perto do Monte da Espada - Poeira Solúvel Oculta, aparecem e desaparecem, às vezes na frente, às vezes atrás...
-Túmulo da Espada - Prisão Infernal Acerjail
-Monte da espada - O prisioneiro da Madeira do Diabo está localizado no meio de uma floresta de bordos vermelhos ardentes, e o som de mortes pode ocasionalmente ser ouvido da floresta...
+A grama, arvores, montanhas e pedras perto do Monte da Espada - Poeira Solúvel Oculta, aparecem e desaparecem, às vezes na frente, às vezes atras...
+Túmulo da Espada - Prisao Infernal Acerjail
+Monte da espada - O prisioneiro da Madeira do Diabo esta localizado no meio de uma floresta de bordos vermelhos ardentes, e o som de mortes pode ocasionalmente ser ouvido da floresta...
 Túmulo da Espada - Brilho Maravilhoso
 O sol e a lua aparecem simultaneamente acima do monte da espada - Espírito Fantasma Xia, banhando o monte da espada com uma terra de lustre...
-Poço do Trovão
-O Dragão Branco se esconde, poder divino se espalha, trovões ecoam, nuvens negras flutuando com raios...
-Poço da Inundação
-O Dragão Negro se esconde, poder divino se espalha, névoas venenosas e vapores malignos, uma miasma penetrante cobre os céus...
-Poço do Vento
-O Dragão Verde se esconde, poder divino se espalha, ventos fortes como a remoção de montanhas, rugindo de fúria, sacudindo os céus...
-Poço das Chamas
-O Dragão Vermelho se esconde, poder divino se espalha, chamas vermelhas queimando as nuvens, a névoa quente vaporizando o céu...
-Poço da Areia
-O Dragão Amarelo se esconde, poder divino se espalha, areias se agitand o como ondas, uma névoa amarela cobrindo os céus...
+Poco do Trovao
+O Dragao Branco se esconde, poder divino se espalha, trovoes ecoam, nuvens negras flutuando com raios...
+Poco da Inundacao
+O Dragao Negro se esconde, poder divino se espalha, névoas venenosas e vapores malignos, uma miasma penetrante cobre os céus...
+Poco do Vento
+O Dragao Verde se esconde, poder divino se espalha, ventos fortes como a remocao de montanhas, rugindo de fúria, sacudindo os céus...
+Poco das Chamas
+O Dragao Vermelho se esconde, poder divino se espalha, chamas vermelhas queimando as nuvens, a névoa quente vaporizando o céu...
+Poco da Areia
+O Dragao Amarelo se esconde, poder divino se espalha, areias se agitand o como ondas, uma névoa amarela cobrindo os céus...

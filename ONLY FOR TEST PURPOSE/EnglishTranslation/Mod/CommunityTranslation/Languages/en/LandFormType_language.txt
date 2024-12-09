@@ -1,12 +1,12 @@
 Planície
-Planícies férteis e vastas se estendem até onde a vista alcança...\n<size=10> </size>\n·Recursos Produzidos: <color=#pinkyellow>Muito Alimento, Madeira e Tecido.</color>\n·Adequado para: <color=#pinkyellow>Pintura, Apreciação, Carpintaria, Tecelagem, Culinária e Conhecimento.</color>
+Planícies férteis e vastas se estendem até onde a vista alcanca...\n<size=10> </size>\n·Recursos Produzidos: <color=#pinkyellow>Muito Alimento, Madeira e Tecido.</color>\n·Adequado para: <color=#pinkyellow>Pintura, Apreciacao, Carpintaria, Tecelagem, Culinaria e Conhecimento.</color>
 Montanha
-Montanhas grandiosas e imponentes, lembrando uma floresta de pedra...\n<size=10> </size>\n·Recursos Produzidos: <color=#pinkyellow>Muito Minério, um pouco de Jade e Tecido.</color>\n·Adequado para: <color=#pinkyellow>Artes Marciais, Literatura, Astrologia, Metalurgia, Lapidação e Taoísmo.</color>
+Montanhas grandiosas e imponentes, lembrando uma floresta de pedra...\n<size=10> </size>\n·Recursos Produzidos: <color=#pinkyellow>Muito Minério, um pouco de Jade e Tecido.</color>\n·Adequado para: <color=#pinkyellow>Artes Marciais, Literatura, Astrologia, Metalurgia, Lapidacao e Taoísmo.</color>
 Floresta
-Florestas verdes repletas de vegetação luxuriante...\n<size=10> </size>\n·Recursos Produzidos: <color=#pinkyellow>Muita Madeira, um pouco de Tecido e Ervas.</color>\n·Adequado para: <color=#pinkyellow>Carpintaria, Medicina, Toxicologia, Tecelagem, Budismo e Culinária.</color>
-Pântano
-Rede densa de lagos e riachos isolados...\n<size=10> </size>\n·Recursos Produzidos: <color=#pinkyellow>Muito Alimento, Madeira e Ervas.</color>\n·Adequado para: <color=#pinkyellow>Música, Apreciação, Carpintaria, Medicina, Toxicologia e Conhecimento.</color>
+Florestas verdes repletas de vegetacao luxuriante...\n<size=10> </size>\n·Recursos Produzidos: <color=#pinkyellow>Muita Madeira, um pouco de Tecido e Ervas.</color>\n·Adequado para: <color=#pinkyellow>Carpintaria, Medicina, Toxicologia, Tecelagem, Budismo e Culinaria.</color>
+Pantano
+Rede densa de lagos e riachos isolados...\n<size=10> </size>\n·Recursos Produzidos: <color=#pinkyellow>Muito Alimento, Madeira e Ervas.</color>\n·Adequado para: <color=#pinkyellow>Música, Apreciacao, Carpintaria, Medicina, Toxicologia e Conhecimento.</color>
 Litoral
-O litoral é infinito, e as montanhas da ilha são imponentes...\n<size=10> </size>\n·Recursos Produzidos: <color=#pinkyellow>Muito Minério, Jade e Alimento.</color>\n·Adequado para: <color=#pinkyellow>Artes Marciais, Música, Apreciação, Metalurgia, Lapidação e Conhecimento.</color>
+O litoral é infinito, e as montanhas da ilha sao imponentes...\n<size=10> </size>\n·Recursos Produzidos: <color=#pinkyellow>Muito Minério, Jade e Alimento.</color>\n·Adequado para: <color=#pinkyellow>Artes Marciais, Música, Apreciacao, Metalurgia, Lapidacao e Conhecimento.</color>
 Montanhas Nevadas
-Montanhas cobertas de neve há anos, que ainda não congelaram...\n<size=10> </size>\n·Recursos Produzidos: <color=#pinkyellow>Muita Jade, um pouco de Minério e Ervas.</color>\n·Adequado para: <color=#pinkyellow>Artes Marciais, Xadrez, Literatura, Astrologia, Lapidação e Taoísmo.</color>
+Montanhas cobertas de neve ha anos, que ainda nao congelaram...\n<size=10> </size>\n·Recursos Produzidos: <color=#pinkyellow>Muita Jade, um pouco de Minério e Ervas.</color>\n·Adequado para: <color=#pinkyellow>Artes Marciais, Xadrez, Literatura, Astrologia, Lapidacao e Taoísmo.</color>

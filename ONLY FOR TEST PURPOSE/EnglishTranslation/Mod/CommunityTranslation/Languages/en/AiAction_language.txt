@@ -1,13 +1,13 @@
 Ataque
 Executar um ataque normal
-Mudança de Estilo
-Executar uma mudança de estilo, usando a técnica memorizada {0} com o movimento e o tipo de carga
+Mudanca de Estilo
+Executar uma mudanca de estilo, usando a técnica memorizada {0} com o movimento e o tipo de carga
 Brecha de Estilo
 Executar uma brecha de estilo, usando a técnica memorizada {0} com o movimento e o tipo de carga
 Selar Meridiano com Estilo
 Executar selamento de meridiano {1}, usando a técnica memorizada {0} com o tipo de carga
 Alterar Atributo com Estilo
-Executar alteração de atributo interno, usando a técnica memorizada {0} com o tipo de carga
+Executar alteracao de atributo interno, usando a técnica memorizada {0} com o tipo de carga
 Habilidades
 Usar a técnica específica {0}
 Melhor Técnica Ofensiva
@@ -19,17 +19,17 @@ Usar uma técnica defensiva para restaurar a guarda
 Aprimorar Movimento
 Usar uma técnica de aprimoramento de movimento
 Acelerar Movimento
-Usar a técnica de movimento mais rápida
+Usar a técnica de movimento mais rapida
 Ampliar Efeito
-Executar ampliação de efeito
+Executar ampliacao de efeito
 Mover para Alcance de Ataque
-Ajustar a distância do alvo para o centro do alcance de ataque + {0}
+Ajustar a distancia do alvo para o centro do alcance de ataque + {0}
 Fugir do Alcance de Ataque
-Ajustar a distância do alvo para a borda do alcance de ataque do oponente
+Ajustar a distancia do alvo para a borda do alcance de ataque do oponente
 Mover para Local Específico
-Ajustar a distância do alvo para {0}
-Mover para a Distância Máxima
-Ajustar a distância do alvo para o limite do campo de batalha
+Ajustar a distancia do alvo para {0}
+Mover para a Distancia Maxima
+Ajustar a distancia do alvo para o limite do campo de batalha
 Memorizar Texto
 Definir {0} na memória como {1}
 Memorizar Valor Booleano
@@ -37,9 +37,9 @@ Memorizar Inteiro
 Comando de Aliado
 Executar o comando {0}
 Trocar Arma
-Trocar para a arma na distância atual do índice {0} - {1}
-Agendar Ação
-Agendar a ação {0}
+Trocar para a arma na distancia atual do índice {0} - {1}
+Agendar Acao
+Agendar a acao {0}
 Usar Medicamento de Cura
 Usar antídoto
 Usar medicamento interno
@@ -56,9 +56,9 @@ Trocar para a arma {0}
 Trocar para Tipo de Arma
 Trocar para arma do tipo {0}
 Adicionar à Memória
-Adicionar {1} ao valor correspondente a {0} na memória, iniciando com zero se o valor não existir
+Adicionar {1} ao valor correspondente a {0} na memória, iniciando com zero se o valor nao existir
 Interromper Técnica
-Interromper a técnica em execução, sem efeito sobre Taiwu
+Interromper a técnica em execucao, sem efeito sobre Taiwu
 Interromper Defesa
 Interromper a técnica defensiva ativa, sem efeito sobre Taiwu
 Atribuir Texto na Memória
@@ -77,18 +77,18 @@ Memorizar Marcadores de Selamento
 Definir {0} na memória como o total de marcadores de selamento em {1}
 Memorizar Marcadores de Veneno
 Definir {0} na memória como o total de marcadores de veneno em {1}
-Memorizar Marcadores de Confusão
-Definir {0} na memória como o total de marcadores de confusão em {1}
+Memorizar Marcadores de Confusao
+Definir {0} na memória como o total de marcadores de confusao em {1}
 Memorizar Marcadores de Trauma
 Definir {0} na memória como o total de marcadores de trauma em {1}
 Memorizar Usos de Brechas
-Definir {0} na memória como o número atual de usos de brechas com estilo em {1} (para finalização)
+Definir {0} na memória como o número atual de usos de brechas com estilo em {1} (para finalizacao)
 Memorizar Técnica Específica
 Definir {0} na memória como a técnica {1}
 Mover para a Borda do Alcance de Ataque
-Ajustar a distância do alvo para a borda do alcance de ataque {0} + {1}
+Ajustar a distancia do alvo para a borda do alcance de ataque {0} + {1}
 Memorizar Técnica Usada
-Definir {0} na memória como a técnica {1} atualmente usada ou usada por último, com valor padrão -1
+Definir {0} na memória como a técnica {1} atualmente usada ou usada por último, com valor padrao -1
 Definir Alta Prioridade
 Definir a técnica correspondente a {0} como alta prioridade na memória
 Definir Baixa Prioridade
@@ -96,7 +96,7 @@ Definir a técnica correspondente a {0} como baixa prioridade na memória
 Redefinir Prioridade
 Redefinir a prioridade da técnica correspondente a {0} na memória
 Memorizar Melhor Técnica Ofensiva
-Definir {0} na memória como a melhor técnica ofensiva disponível, com valor padrão -1
+Definir {0} na memória como a melhor técnica ofensiva disponível, com valor padrao -1
 Usar Técnica Memorizada
 Usar a técnica memorizada {0}
 Interromper Movimento

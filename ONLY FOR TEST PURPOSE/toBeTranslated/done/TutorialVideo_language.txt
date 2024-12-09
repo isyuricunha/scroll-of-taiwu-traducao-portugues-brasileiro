@@ -1,170 +1,170 @@
 Movimento do mapa
 Controles do mouse
 Controles do teclado
-Clique com o botão esquerdo do mouse para selecionar um tile, e depois clique novamente para mover para lá. (Mover custa <color=#orange>Tempo</color>, e você pode ver quanto <color=#orange>Tempo</color> você tem restante na parte inferior da tela)
-Você pode usar as teclas <color=#orange>WASD</color> no teclado para mover. (Mover custa <color=#orange>Tempo</color>, e você pode ver quanto <color=#orange>Tempo</color> você tem restante na parte inferior da tela)
-Prática de Taiwu - Parte 1
-Vá até o tile onde o Pai Adotivo está
+Clique com o botao esquerdo do mouse para selecionar um tile, e depois clique novamente para mover para la. (Mover custa <color=#orange>Tempo</color>, e voce pode ver quanto <color=#orange>Tempo</color> voce tem restante na parte inferior da tela)
+Voce pode usar as teclas <color=#orange>WASD</color> no teclado para mover. (Mover custa <color=#orange>Tempo</color>, e voce pode ver quanto <color=#orange>Tempo</color> voce tem restante na parte inferior da tela)
+Pratica de Taiwu - Parte 1
+Va até o tile onde o Pai Adotivo esta
 Equipe um montaria
 Visualizar Menu de Personagem
 Clique no retrato do personagem no canto inferior esquerdo para entrar no Menu de Personagem
-Clique em um item que você deseja equipar, ele será automaticamente equipado no slot de equipamento correspondente
+Clique em um item que voce deseja equipar, ele sera automaticamente equipado no slot de equipamento correspondente
 Equipe um cavalo magro
 Restaurar peso
 Limite de peso aumentado
 Movimento normal é retomado
 Após equipar uma montaria, o limite de peso aumenta
 Mobilidade de volta ao normal
-Começar novamente
+Comecar novamente
 Abrindo Indústria
 Acessar o menu da Indústria
-Clique no botão <color=#orange>Indústria</color> acima do tile da cidade para entrar no menu de Indústria
-Prática de Taiwu - Parte 2
+Clique no botao <color=#orange>Indústria</color> acima do tile da cidade para entrar no menu de Indústria
+Pratica de Taiwu - Parte 2
 Abrir o Menu da Indústria
-Atribuir Construção
-Vá para o menu de Construção
+Atribuir Construcao
+Va para o menu de Construcao
 Selecione os construtores
 Selecione onde construir
-Clique no botão <color=#orange>Construir</color> no canto inferior direito para entrar no menu de construção
-Clique nos botões <color=#orange>+</color> para acessar a lista de trabalhadores disponíveis
+Clique no botao <color=#orange>Construir</color> no canto inferior direito para entrar no menu de construcao
+Clique nos botoes <color=#orange>+</color> para acessar a lista de trabalhadores disponíveis
 Clique no ícone da pessoa para atribuir ao trabalho
 Posicionamento de edifícios no mapa industrial
 Construir uma cabana de bambu
-Iniciar Construção
-Construção concluída
-Os edifícios são construídos ao longo de <color=#orange>Meses</color>. Para passar um mês, clique no <color=#orange>Calendário</color> na parte inferior da tela.
-Edifícios industriais concluídos são mostrados na tela de <color=#orange>Avaliação do Último Mês</color>
-Ir para o próximo mês
+Iniciar Construcao
+Construcao concluída
+Os edifícios sao construídos ao longo de <color=#orange>Meses</color>. Para passar um mes, clique no <color=#orange>Calendario</color> na parte inferior da tela.
+Edifícios industriais concluídos sao mostrados na tela de <color=#orange>Avaliacao do Último Mes</color>
+Ir para o próximo mes
 Procurar um tile
-Visualizar Informações do Tile
-Caminho automático
-Quanto maior o valor dos recursos em um tile, mais recursos você pode coletar dele, e maior é a probabilidade de obter materiais.
-Clicar em um tile gerará automaticamente o caminho mais rápido até ele, e ao clicar novamente você começará a se mover para lá imediatamente
-Prática de Taiwu - Parte 3
+Visualizar Informacoes do Tile
+Caminho automatico
+Quanto maior o valor dos recursos em um tile, mais recursos voce pode coletar dele, e maior é a probabilidade de obter materiais.
+Clicar em um tile gerara automaticamente o caminho mais rapido até ele, e ao clicar novamente voce comecara a se mover para la imediatamente
+Pratica de Taiwu - Parte 3
 Aprender sobre recursos
 Coletar Recursos
 Selecione o tile atual
-A coleta de recursos será sempre feita no tile onde seu personagem está atualmente.
-Clique no botão <color=#orange>Coletar</color> no canto inferior direito da tela, e pressione no tipo de recurso que deseja coletar.
+A coleta de recursos sera sempre feita no tile onde seu personagem esta atualmente.
+Clique no botao <color=#orange>Coletar</color> no canto inferior direito da tela, e pressione no tipo de recurso que deseja coletar.
 Coletar Madeira
 Entrar no menu de Artesanato
 Menu de Indústria
 Menu de Artesanato
-Clique no botão Indústria para entrar no menu Industrial
+Clique no botao Indústria para entrar no menu Industrial
 Clique em <color=#orange>Carpintaria</color> e entre no menu de artesanato
 Artesanato de itens
 Menu de itens de artesanato
 Escolher ferramenta
 Selecionar Materiais
 Adicionar recursos
-Para fazer itens, você precisa de <color=#orange>Ferramenta</color>, <color=#orange>Material</color> e <color=#orange>Recursos</color>
+Para fazer itens, voce precisa de <color=#orange>Ferramenta</color>, <color=#orange>Material</color> e <color=#orange>Recursos</color>
 Troque para a aba <color=#orange>Armazenamento</color> no painel de Ferramentas à esquerda e toque na <color=#orange>Caixa de Ferramenta·Carpintaria</color>
-Troque para a aba <color=#orange>Armazenamento</color> à direita e toque no <color=#orange>Pedaço de Bambu</color>
-Adicione os <color=#orange>Recursos</color> necessários, a quantidade pode ser ajustada usando os botões <color=#orange>+</color> e <color=#orange>-</color>
-Clique no botão <color=#orange>Artesanato 1</color> para criar o item.
+Troque para a aba <color=#orange>Armazenamento</color> à direita e toque no <color=#orange>Pedaco de Bambu</color>
+Adicione os <color=#orange>Recursos</color> necessarios, a quantidade pode ser ajustada usando os botoes <color=#orange>+</color> e <color=#orange>-</color>
+Clique no botao <color=#orange>Artesanato 1</color> para criar o item.
 Fazendo Estacas de Bambu
 Movimento de combate
-Durante a batalha, você pode se mover segurando o botão direito do mouse. Se vai para frente ou para trás depende de onde o mouse está em relação ao seu personagem.
+Durante a batalha, voce pode se mover segurando o botao direito do mouse. Se vai para frente ou para tras depende de onde o mouse esta em relacao ao seu personagem.
 Use as teclas <color=#orange>A</color> e <color=#orange>D</color> no teclado para se mover, tecla <color=#orange>A</color> para mover para a esquerda e tecla <color=#orange>D</color> para mover para a direita.
-Prática de Taiwu - Parte 4
-Vá até Xu Xiangong
+Pratica de Taiwu - Parte 4
+Va até Xu Xiangong
 Quebra do uso de habilidade
 Os "Estilos" que precisam ser consumidos
 Ataque Normal
-Precisão e Determinação
-Efeito da Determinação
-Para realizar uma habilidade de Quebra, você precisa consumir <color=#orange>Estilos</color>. Se a quantidade de <color=#orange>Estilos</color> disponíveis for insuficiente, você não poderá realizar a habilidade.
-Clique com o botão esquerdo do mouse ou use a tecla <color=#orange>J</color> no teclado para realizar um Ataque Normal, cada Ataque Normal exige o consumo de uma certa quantidade de <color=#orange>tokens de ataque</color> (<color=#orange>ícones de espada</color> abaixo do personagem)
-Quando o <color=#orange>Valor de Precisão</color> do atacante for menor que o <color=#orange>Valor de Determinação</color> do defensor, o defensor irá <color=#orange>Resolver</color> esse ataque.
-Após <color=#orange>Resolver</color> um ataque, o atacante não obterá <color=#orange>Estilos</color> e o defensor não sofrerá dano
-Entender Combate, Precisão e Determinação
+Precisao e Determinacao
+Efeito da Determinacao
+Para realizar uma habilidade de Quebra, voce precisa consumir <color=#orange>Estilos</color>. Se a quantidade de <color=#orange>Estilos</color> disponíveis for insuficiente, voce nao podera realizar a habilidade.
+Clique com o botao esquerdo do mouse ou use a tecla <color=#orange>J</color> no teclado para realizar um Ataque Normal, cada Ataque Normal exige o consumo de uma certa quantidade de <color=#orange>tokens de ataque</color> (<color=#orange>ícones de espada</color> abaixo do personagem)
+Quando o <color=#orange>Valor de Precisao</color> do atacante for menor que o <color=#orange>Valor de Determinacao</color> do defensor, o defensor ira <color=#orange>Resolver</color> esse ataque.
+Após <color=#orange>Resolver</color> um ataque, o atacante nao obtera <color=#orange>Estilos</color> e o defensor nao sofrera dano
+Entender Combate, Precisao e Determinacao
 Desviar
 Cargas de Desvio
 Quebra de Desvio
 Tempo de Recarga do Desvio
 Efeito do Desvio
 Cada arma tem seu próprio <color=#orange>Valor de Desvio</color>, que corresponde às <color=#orange>Cargas de Desvio</color> para o personagem em combate
-Quando você recebe um ataque normal, o <color=#orange>Desvio</color> será ativado e desviará o ataque. Cada ataque deduz uma certa quantidade de <color=#orange>Cargas de Desvio</color>, e quando as Cargas de Desvio chegarem a <color=#orange>0</color>, você começará a receber dano.
-Após o <color=#orange>Desvio</color> ser quebrado, o Tempo de Recarga do Desvio começará, e somente quando terminar você recuperará suas Cargas de Desvio.
-Após o <color=#orange>Desvio</color> ser bem-sucedido, o atacante ainda obterá <color=#orange>Estilos</color>, mas o defensor não será ferido.
+Quando voce recebe um ataque normal, o <color=#orange>Desvio</color> sera ativado e desviara o ataque. Cada ataque deduz uma certa quantidade de <color=#orange>Cargas de Desvio</color>, e quando as Cargas de Desvio chegarem a <color=#orange>0</color>, voce comecara a receber dano.
+Após o <color=#orange>Desvio</color> ser quebrado, o Tempo de Recarga do Desvio comecara, e somente quando terminar voce recuperara suas Cargas de Desvio.
+Após o <color=#orange>Desvio</color> ser bem-sucedido, o atacante ainda obtera <color=#orange>Estilos</color>, mas o defensor nao sera ferido.
 Entender Desvio
 Usando uma habilidade de Quebra
-Tempo de lançamento da habilidade de Quebra 1
-Quando a quantidade de <color=#orange>Estilos</color> necessária para lançar uma habilidade de Quebra for suficiente, ela poderá ser usada.
+Tempo de lancamento da habilidade de Quebra 1
+Quando a quantidade de <color=#orange>Estilos</color> necessaria para lancar uma habilidade de Quebra for suficiente, ela podera ser usada.
 Clique no ícone da habilidade de Quebra para realizar a habilidade de Quebra. A habilidade de Quebra precisa ser carregada antes de ser executada
 Cultivo
 Abrindo o menu de Cultivo
 Selecionando Artes Internas
 Ativando o Cultivo
-Clique no botão <color=#orange>Cultivo</color> para entrar no menu de Cultivo
-Clique na Arte Interna que você deseja Cultivar
-As Artes Internas colocadas no <color=#orange>Cultivo</color> serão automaticamente cultivadas a cada mês
-Prática de Taiwu - Parte 5
+Clique no botao <color=#orange>Cultivo</color> para entrar no menu de Cultivo
+Clique na Arte Interna que voce deseja Cultivar
+As Artes Internas colocadas no <color=#orange>Cultivo</color> serao automaticamente cultivadas a cada mes
+Pratica de Taiwu - Parte 5
 Progresso de Cultivo
 Dantian
-Ao selecionar uma Arte Interna que ainda não foi completamente cultivada, sua Energia Interna será aumentada em uma certa quantidade a cada mês.
+Ao selecionar uma Arte Interna que ainda nao foi completamente cultivada, sua Energia Interna sera aumentada em uma certa quantidade a cada mes.
 Visualizando energia interna
 Ativando Estudo
 Entrando no menu de Estudo
 Selecionar Livros
-Clique no botão <color=#orange>Estudo</color> para entrar no menu de Estudo
-Clique em um livro que você deseja Estudar. Cada página de um livro tem um progresso de estudo separado. Quando o progresso de estudo de uma página atingir 100%, o estudo dessa página será concluído.
-O livro selecionado no menu <color=#orange>Estudo</color> será automaticamente lido no início de cada mês.
-Prática de Taiwu - Parte 6
+Clique no botao <color=#orange>Estudo</color> para entrar no menu de Estudo
+Clique em um livro que voce deseja Estudar. Cada pagina de um livro tem um progresso de estudo separado. Quando o progresso de estudo de uma pagina atingir 100%, o estudo dessa pagina sera concluído.
+O livro selecionado no menu <color=#orange>Estudo</color> sera automaticamente lido no início de cada mes.
+Pratica de Taiwu - Parte 6
 Estudar livros
-Percepção Repentina
-Pop-up de Percepção Repentina
-Acessando o menu de Percepção Repentina
-<color=#orange>Todo mês</color> você tem a chance de ativar a <color=#orange>Percepção Repentina</color>. Você será notificado sobre isso no menu de <color=#orange>Avaliação de Eventos</color>.
-Clique no botão <color=#orange>Estudo</color> e pressione o botão <color=#orange>Percepção Repentina</color> para acessar o menu de Percepção Repentina.
+Percepcao Repentina
+Pop-up de Percepcao Repentina
+Acessando o menu de Percepcao Repentina
+<color=#orange>Todo mes</color> voce tem a chance de ativar a <color=#orange>Percepcao Repentina</color>. Voce sera notificado sobre isso no menu de <color=#orange>Avaliacao de Eventos</color>.
+Clique no botao <color=#orange>Estudo</color> e pressione o botao <color=#orange>Percepcao Repentina</color> para acessar o menu de Percepcao Repentina.
 Estratégias de Estudo
-Usando a Percepção Repentina
-Saindo da Percepção Repentina
-Existem <color=#orange>Estratégias de Estudo</color> no canto superior direito do menu de Percepção Repentina. Ao usar as <color=#orange>Estratégias de Estudo</color>, você pode aumentar muito a velocidade de leitura dos livros. Usar as <color=#orange>Estratégias de Estudo</color> requer consumir uma certa quantidade de <color=#orange>Estatísticas de Compreensão</color>
-Após usar as <color=#orange>Estratégias de Estudo</color>, o progresso da página do livro mudará imediatamente. Após selecionar ativamente outra página ou preencher todas as Estratégias de Estudo em uma página, você irá para a próxima página.
-Após concluir a seleção das Estratégias de Estudo na última página do livro, fechar o menu de Percepção Repentina encerrará a Percepção Repentina.
-Avançar Percepção Repentina
+Usando a Percepcao Repentina
+Saindo da Percepcao Repentina
+Existem <color=#orange>Estratégias de Estudo</color> no canto superior direito do menu de Percepcao Repentina. Ao usar as <color=#orange>Estratégias de Estudo</color>, voce pode aumentar muito a velocidade de leitura dos livros. Usar as <color=#orange>Estratégias de Estudo</color> requer consumir uma certa quantidade de <color=#orange>Estatísticas de Compreensao</color>
+Após usar as <color=#orange>Estratégias de Estudo</color>, o progresso da pagina do livro mudara imediatamente. Após selecionar ativamente outra pagina ou preencher todas as Estratégias de Estudo em uma pagina, voce ira para a próxima pagina.
+Após concluir a selecao das Estratégias de Estudo na última pagina do livro, fechar o menu de Percepcao Repentina encerrara a Percepcao Repentina.
+Avancar Percepcao Repentina
 Praticando habilidades
-Entrando no menu de Prática
+Entrando no menu de Pratica
 Como Praticar
-Clique no retrato do personagem no canto inferior esquerdo para acessar o painel do personagem, depois clique na aba <color=#orange>Artes Marciais</color>, e selecione a aba <color=#orange>Prática</color> para entrar no menu de prática
-Clique em (ou segure) <color=#orange>Prática</color>, para aumentar sua porcentagem de prática consumindo <color=#orange>Experiência</color>, quando a porcentagem de prática atingir 100%, ela será completada.
-Avançar prática de habilidade
-Superação de Habilidade de Combate
-Preparação para a Superação
-Selecionando as Páginas de Superação
-Uma superação exige que você tenha lido 6 páginas: 1 página <color=#white>Branca</color> que é um resumo geral, e 5 páginas de qualquer combinação de páginas <color=#red>Vermelhas</color> (Heterodoxas) ou <color=#darkcyan>Azuis</color> (Ortodoxas)
-Quando o progresso de estudo de uma página atingir 100% em um livro, você poderá selecionar essa página antes da superação daquela técnica. Você deve escolher 1 página de resumo geral (Branca) e 5 páginas Ortodoxas/Heterodoxas (Azul/Vermelha) para um total de 6 páginas antes de poder realizar a superação.
-Avançar superação de habilidade
-Regras de Superação
-Sucesso na Superação
-Consumo da Superação
-Células Normais na Superação
-Células Especiais na Superação
-Células Douradas na Superação
-Falha na Conexão
-Superação Falhou
-A superação precisa começar pela <color=#orange>Célula Inicial</color> e terminar na <color=#orange>Célula Final</color> para ser bem-sucedida
-<color=#orange>Limite de Talento</color> determina o número de vezes que você pode conectar células. Cada tentativa de conexão consome 1 ponto de talento, e se você ultrapassar o <color=#orange>Limite de Talento</color>, entrará no estado <color=#orange>Obcecado</color>.
-<color=#orange>Células Comuns</color> são células normais que não fornecem efeitos especiais
-<color=#orange>Células Especiais</color> são células que fornecem vários efeitos de conexão.
-<color=#orange>Células Douradas</color> farão com que a técnica ganhe efeitos permanentes. Conecte o maior número possível de Células Douradas para maximizar os benefícios das superações.
-Se a conexão falhar, a célula será fechada e seu efeito não será ativado
-Quando todas as células adjacentes falharem na conexão, a superação falhará
-Entenda as regras da superação de habilidade
+Clique no retrato do personagem no canto inferior esquerdo para acessar o painel do personagem, depois clique na aba <color=#orange>Artes Marciais</color>, e selecione a aba <color=#orange>Pratica</color> para entrar no menu de pratica
+Clique em (ou segure) <color=#orange>Pratica</color>, para aumentar sua porcentagem de pratica consumindo <color=#orange>Experiencia</color>, quando a porcentagem de pratica atingir 100%, ela sera completada.
+Avancar pratica de habilidade
+Superacao de Habilidade de Combate
+Preparacao para a Superacao
+Selecionando as Paginas de Superacao
+Uma superacao exige que voce tenha lido 6 paginas: 1 pagina <color=#white>Branca</color> que é um resumo geral, e 5 paginas de qualquer combinacao de paginas <color=#red>Vermelhas</color> (Heterodoxas) ou <color=#darkcyan>Azuis</color> (Ortodoxas)
+Quando o progresso de estudo de uma pagina atingir 100% em um livro, voce podera selecionar essa pagina antes da superacao daquela técnica. Voce deve escolher 1 pagina de resumo geral (Branca) e 5 paginas Ortodoxas/Heterodoxas (Azul/Vermelha) para um total de 6 paginas antes de poder realizar a superacao.
+Avancar superacao de habilidade
+Regras de Superacao
+Sucesso na Superacao
+Consumo da Superacao
+Células Normais na Superacao
+Células Especiais na Superacao
+Células Douradas na Superacao
+Falha na Conexao
+Superacao Falhou
+A superacao precisa comecar pela <color=#orange>Célula Inicial</color> e terminar na <color=#orange>Célula Final</color> para ser bem-sucedida
+<color=#orange>Limite de Talento</color> determina o número de vezes que voce pode conectar células. Cada tentativa de conexao consome 1 ponto de talento, e se voce ultrapassar o <color=#orange>Limite de Talento</color>, entrara no estado <color=#orange>Obcecado</color>.
+<color=#orange>Células Comuns</color> sao células normais que nao fornecem efeitos especiais
+<color=#orange>Células Especiais</color> sao células que fornecem varios efeitos de conexao.
+<color=#orange>Células Douradas</color> farao com que a técnica ganhe efeitos permanentes. Conecte o maior número possível de Células Douradas para maximizar os benefícios das superacoes.
+Se a conexao falhar, a célula sera fechada e seu efeito nao sera ativado
+Quando todas as células adjacentes falharem na conexao, a superacao falhara
+Entenda as regras da superacao de habilidade
 Atribuir Qi Verdadeiro
 Entrar no menu de Dantian
 Limite de Qi
 Clique no retrato do personagem no canto inferior esquerdo para acessar o menu de Detalhes
-Clique em (ou segure) os botões <color=#orange>+</color> e <color=#orange>-</color> ao lado dos botões <color=#orange>Quebra</color>, <color=#orange>Rápido</color>, <color=#orange>Aegis</color> e <color=#orange>Nadis</color> para ajustar o Qi Verdadeiro. Aumentar o Qi Verdadeiro consumirá <color=#orange>Energia Interna</color>
-O número total das quatro estatísticas de Qi Verdadeiro não pode exceder o Limite de Qi
-Prática de Taiwu - Parte 7
+Clique em (ou segure) os botoes <color=#orange>+</color> e <color=#orange>-</color> ao lado dos botoes <color=#orange>Quebra</color>, <color=#orange>Rapido</color>, <color=#orange>Aegis</color> e <color=#orange>Nadis</color> para ajustar o Qi Verdadeiro. Aumentar o Qi Verdadeiro consumira <color=#orange>Energia Interna</color>
+O número total das quatro estatísticas de Qi Verdadeiro nao pode exceder o Limite de Qi
+Pratica de Taiwu - Parte 7
 Postura e Inalar
-Tempo de lançamento da habilidade de Quebra 2
-Além de <color=#orange>Estilos</color>, você também precisará consumir <color=#orange>Valor de Postura</color> e <color=#orange>Valor de Inalação</color> para realizar habilidades de Quebra
-Os oponentes podem atacá-lo durante o tempo de lançamento da habilidade
-Entenda Postura e Inalação
-Mudança de Mês
-Ir para o Próximo Mês
-Clique no botão <color=#orange>Mudança de Mês</color> na parte inferior da tela e selecione consumir todos os dias restantes do mês para avançar para o próximo mês
+Tempo de lancamento da habilidade de Quebra 2
+Além de <color=#orange>Estilos</color>, voce também precisara consumir <color=#orange>Valor de Postura</color> e <color=#orange>Valor de Inalacao</color> para realizar habilidades de Quebra
+Os oponentes podem ataca-lo durante o tempo de lancamento da habilidade
+Entenda Postura e Inalacao
+Mudanca de Mes
+Ir para o Próximo Mes
+Clique no botao <color=#orange>Mudanca de Mes</color> na parte inferior da tela e selecione consumir todos os dias restantes do mes para avancar para o próximo mes
 

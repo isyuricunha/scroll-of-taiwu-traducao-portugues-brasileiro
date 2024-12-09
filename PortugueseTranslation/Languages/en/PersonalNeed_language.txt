@@ -1,6 +1,6 @@
 Restaurar Humor
 Restaurar Saúde
-Estabilizar o Respiração Interna
+Estabilizar o Respiracao Interna
 Restaurar Qi
 Curar
 Desintoxicar
@@ -8,20 +8,20 @@ Restaurar Propriedades
 Eliminar os parasitas
 Obter Recursos
 Gastar Recursos
-Itens necessários
+Itens necessarios
 Reparar itens
 Temperar itens
 Gastar itens
 Aprender Arte Marcial
 Aprendendo Habilidades de Vida
-Necessário passar por experiências
+Necessario passar por experiencias
 Por favor, ensine e estude
-Pedir um avanço
-Mostrar Afeição
+Pedir um avanco
+Mostrar Afeicao
 Formar uma equipe
-Buscar vingança
+Buscar vinganca
 Prestar homenagens aos falecidos
 Passar a noite juntos
 Encontrar o tesouro
-Formação de relações
-Ingressar na organização
+Formacao de relacoes
+Ingressar na organizacao

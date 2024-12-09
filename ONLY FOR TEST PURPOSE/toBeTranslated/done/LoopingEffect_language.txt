@@ -5,7 +5,7 @@ Controle dos Cinco Qis
 Mova os Cinco Elementos Internos equivalente a 100% do Cultivo mensal.
 
 Limpeza dos Meridianos
-Ganhe Qi Verdadeiro de Circulação equivalente a 100% do Cultivo mensal.
+Ganhe Qi Verdadeiro de Circulacao equivalente a 100% do Cultivo mensal.
 
 Abrir o Mar de Qi
 Ganhe Energia Interna variando de 50% a 150% do Cultivo mensal.
@@ -13,8 +13,8 @@ Ganhe Energia Interna variando de 50% a 150% do Cultivo mensal.
 Ajustar a Forma para Despertar Qi
 Mova os Cinco Elementos Internos variando de 50% a 150% do Cultivo mensal.
 
-Qi Passa pela Cabeça
-Ganhe Qi Verdadeiro de Circulação variando de 50% a 150% do Cultivo mensal.
+Qi Passa pela Cabeca
+Ganhe Qi Verdadeiro de Circulacao variando de 50% a 150% do Cultivo mensal.
 
 Preencher os Oito Canais
 Consuma Energia Interna extra para ganhar Energia Interna equivalente a 200% do Cultivo mensal.
@@ -22,65 +22,65 @@ Consuma Energia Interna extra para ganhar Energia Interna equivalente a 200% do 
 Lavar Músculos e Ossos
 Consuma Energia Interna extra para mover os Cinco Elementos Internos equivalente a 200% do Cultivo mensal.
 
-Qi Verdadeiro em Erupção
-Consuma Energia Interna extra para ganhar Qi Verdadeiro de Circulação equivalente a 200% do Cultivo mensal.
+Qi Verdadeiro em Erupcao
+Consuma Energia Interna extra para ganhar Qi Verdadeiro de Circulacao equivalente a 200% do Cultivo mensal.
 
 Fluxo Infinito
 Aumenta a quantidade de Energia Interna adquirida com o Cultivo.
 
 Limpeza dos Meridianos
-Aumenta a quantidade de movimentação dos Cinco Elementos Internos no Cultivo.
+Aumenta a quantidade de movimentacao dos Cinco Elementos Internos no Cultivo.
 
-Nutrição de Qi através do Espírito
-Aumenta a quantidade de Qi Verdadeiro de Circulação adquirido no Cultivo.
+Nutricao de Qi através do Espírito
+Aumenta a quantidade de Qi Verdadeiro de Circulacao adquirido no Cultivo.
 
-Respiração Contínua
+Respiracao Contínua
 Aumenta aleatoriamente a quantidade de Energia Interna adquirida no Cultivo.
 
-Respiração Relaxante
-Aumenta aleatoriamente a quantidade de movimentação dos Cinco Elementos Internos no Cultivo.
+Respiracao Relaxante
+Aumenta aleatoriamente a quantidade de movimentacao dos Cinco Elementos Internos no Cultivo.
 
 Usando Meridianos
-Aumenta aleatoriamente a quantidade de Qi Verdadeiro de Circulação adquirido no Cultivo.
+Aumenta aleatoriamente a quantidade de Qi Verdadeiro de Circulacao adquirido no Cultivo.
 
 Nuvens Ascendentes
 Consuma Energia Interna extra para aumentar consideravelmente a quantidade de Energia Interna adquirida no Cultivo.
 
 Harmonia Celestial
-Consuma Energia Interna extra para aumentar consideravelmente a quantidade de movimentação dos Cinco Elementos Internos no Cultivo.
+Consuma Energia Interna extra para aumentar consideravelmente a quantidade de movimentacao dos Cinco Elementos Internos no Cultivo.
 
 Mente Clara
-Consuma Energia Interna extra para aumentar consideravelmente a quantidade de Qi Verdadeiro de Circulação adquirido no Cultivo.
+Consuma Energia Interna extra para aumentar consideravelmente a quantidade de Qi Verdadeiro de Circulacao adquirido no Cultivo.
 
 Qi Metal
-Se durante o Cultivo o Elemento Interno do praticante for "Metal" sem conflitos, o Elemento Interno do praticante não mudará mais.
+Se durante o Cultivo o Elemento Interno do praticante for "Metal" sem conflitos, o Elemento Interno do praticante nao mudara mais.
 
 Qi Madeira
-Se durante o Cultivo o Elemento Interno do praticante for "Madeira" sem conflitos, o Elemento Interno do praticante não mudará mais.
+Se durante o Cultivo o Elemento Interno do praticante for "Madeira" sem conflitos, o Elemento Interno do praticante nao mudara mais.
 
-Qi Água
-Se durante o Cultivo o Elemento Interno do praticante for "Água" sem conflitos, o Elemento Interno do praticante não mudará mais.
+Qi Agua
+Se durante o Cultivo o Elemento Interno do praticante for "Agua" sem conflitos, o Elemento Interno do praticante nao mudara mais.
 
 Qi Fogo
-Se durante o Cultivo o Elemento Interno do praticante for "Fogo" sem conflitos, o Elemento Interno do praticante não mudará mais.
+Se durante o Cultivo o Elemento Interno do praticante for "Fogo" sem conflitos, o Elemento Interno do praticante nao mudara mais.
 
 Qi Terra
-Se durante o Cultivo o Elemento Interno do praticante for "Terra" sem conflitos, o Elemento Interno do praticante não mudará mais.
+Se durante o Cultivo o Elemento Interno do praticante for "Terra" sem conflitos, o Elemento Interno do praticante nao mudara mais.
 
 Qi Hunyuan
-Se durante o Cultivo o Elemento Interno do praticante for "Hunyuan" sem conflitos, o Elemento Interno do praticante não mudará mais.
+Se durante o Cultivo o Elemento Interno do praticante for "Hunyuan" sem conflitos, o Elemento Interno do praticante nao mudara mais.
 
 Terra para Metal
 Consuma Energia Interna extra para substituir o movimento original dos Cinco Elementos Internos no Cultivo por um movimento fixo de "Terra" para "Metal".
 
-Água para Metal
-Consuma Energia Interna extra para substituir o movimento original dos Cinco Elementos Internos no Cultivo por um movimento fixo de "Água" para "Metal".
+Agua para Metal
+Consuma Energia Interna extra para substituir o movimento original dos Cinco Elementos Internos no Cultivo por um movimento fixo de "Agua" para "Metal".
 
 Madeira para Metal
 Consuma Energia Interna extra para substituir o movimento original dos Cinco Elementos Internos no Cultivo por um movimento fixo de "Madeira" para "Metal".
 
-Água para Madeira
-Consuma Energia Interna extra para substituir o movimento original dos Cinco Elementos Internos no Cultivo por um movimento fixo de "Água" para "Madeira".
+Agua para Madeira
+Consuma Energia Interna extra para substituir o movimento original dos Cinco Elementos Internos no Cultivo por um movimento fixo de "Agua" para "Madeira".
 
 Fogo para Madeira
 Consuma Energia Interna extra para substituir o movimento original dos Cinco Elementos Internos no Cultivo por um movimento fixo de "Fogo" para "Madeira".
@@ -88,14 +88,14 @@ Consuma Energia Interna extra para substituir o movimento original dos Cinco Ele
 Terra para Madeira
 Consuma Energia Interna extra para substituir o movimento original dos Cinco Elementos Internos no Cultivo por um movimento fixo de "Terra" para "Madeira".
 
-Metal para Água
-Consuma Energia Interna extra para substituir o movimento original dos Cinco Elementos Internos no Cultivo por um movimento fixo de "Metal" para "Água".
+Metal para Agua
+Consuma Energia Interna extra para substituir o movimento original dos Cinco Elementos Internos no Cultivo por um movimento fixo de "Metal" para "Agua".
 
-Madeira para Água
-Consuma Energia Interna extra para substituir o movimento original dos Cinco Elementos Internos no Cultivo por um movimento fixo de "Madeira" para "Água".
+Madeira para Agua
+Consuma Energia Interna extra para substituir o movimento original dos Cinco Elementos Internos no Cultivo por um movimento fixo de "Madeira" para "Agua".
 
-Fogo para Água
-Consuma Energia Interna extra para substituir o movimento original dos Cinco Elementos Internos no Cultivo por um movimento fixo de "Fogo" para "Água".
+Fogo para Agua
+Consuma Energia Interna extra para substituir o movimento original dos Cinco Elementos Internos no Cultivo por um movimento fixo de "Fogo" para "Agua".
 
 Madeira para Fogo
 Consuma Energia Interna extra para substituir o movimento original dos Cinco Elementos Internos no Cultivo por um movimento fixo de "Madeira" para "Fogo".
@@ -112,12 +112,12 @@ Consuma Energia Interna extra para substituir o movimento original dos Cinco Ele
 Metal para Terra
 Consuma Energia Interna extra para substituir o movimento original dos Cinco Elementos Internos no Cultivo por um movimento fixo de "Metal" para "Terra".
 
-Água para Terra
-Consuma Energia Interna extra para substituir o movimento original dos Cinco Elementos Internos no Cultivo por um movimento fixo de "Água" para "Terra".
+Agua para Terra
+Consuma Energia Interna extra para substituir o movimento original dos Cinco Elementos Internos no Cultivo por um movimento fixo de "Agua" para "Terra".
 
 Estabilizar Mente
-Remova os efeitos já ativos durante o Cultivo e restaure uma certa quantidade de Vontade com base no número de efeitos eliminados.
+Remova os efeitos ja ativos durante o Cultivo e restaure uma certa quantidade de Vontade com base no número de efeitos eliminados.
 
 Voltar à Origem
-Remova os efeitos já ativos durante o Cultivo.
+Remova os efeitos ja ativos durante o Cultivo.
 

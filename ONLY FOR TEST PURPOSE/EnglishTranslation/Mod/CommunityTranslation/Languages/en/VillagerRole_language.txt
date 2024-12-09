@@ -1,47 +1,47 @@
 Recursos obtidos na coleta
 Probabilidade de recuperar recursos do terreno
 Probabilidade de obter um Guia na coleta
-Probabilidade de cozinhar uma segunda vez por mês
-Sucesso de Migração
-Probabilidade de fabricar/reparar/desmontar uma segunda vez por mês
-Probabilidade de realizar um trabalho extra por mês
+Probabilidade de cozinhar uma segunda vez por mes
+Sucesso de Migracao
+Probabilidade de fabricar/reparar/desmontar uma segunda vez por mes
+Probabilidade de realizar um trabalho extra por mes
 Probabilidade de usar “Perfeccionismo”
-Probabilidade de reparar itens de aldeões
+Probabilidade de reparar itens de aldeoes
 Probabilidade de obter itens refinados ao desmontar
-Probabilidade de curar uma segunda vez por mês
-Probabilidade de preparar/remover/aplicar veneno uma segunda vez por mês
-Favor obtido na área ao curar
+Probabilidade de curar uma segunda vez por mes
+Probabilidade de preparar/remover/aplicar veneno uma segunda vez por mes
+Favor obtido na area ao curar
 Probabilidade de fabricar pílulas perfeitas
 Probabilidade de usar “Extrair Veneno”
 Probabilidade de usar “Purificar Veneno”
 Receita obtida ao curar
-Probabilidade de vender/comprar mercadorias uma segunda vez por mês
-Eficiência ao elevar/reduzir preços
+Probabilidade de vender/comprar mercadorias uma segunda vez por mes
+Eficiencia ao elevar/reduzir precos
 Favor da guilda
-Preço de venda dos itens
-Preço de compra dos itens
-Limite para elevar/reduzir preços
+Preco de venda dos itens
+Preco de compra dos itens
+Limite para elevar/reduzir precos
 Taxa de sucesso ao aprender habilidades
-Mudança de humor ao demonstrar talentos
-Mudança de favor ao conversar no mercado
-Mudança de cultura ao reformar costumes
+Mudanca de humor ao demonstrar talentos
+Mudanca de favor ao conversar no mercado
+Mudanca de cultura ao reformar costumes
 Probabilidade de descobrir segredos ao conversar no mercado
-Probabilidade de aprender habilidades uma segunda vez por mês
+Probabilidade de aprender habilidades uma segunda vez por mes
 Quantidade de pessoas influenciadas ao demonstrar talentos
 Quantidade de pessoas influenciadas ao conversar no mercado
 Prestígio obtido ao reformar costumes
 Taxa de sucesso ao aprender artes marciais
-Probabilidade de obter informações ao guardar a Tumba da Espada
-Mudança de favor ao interagir com personagens sectários
-Mudança de estabilidade ao estabelecer autoridade marcial
+Probabilidade de obter informacoes ao guardar a Tumba da Espada
+Mudanca de favor ao interagir com personagens sectarios
+Mudanca de estabilidade ao estabelecer autoridade marcial
 Probabilidade de expulsar os hereges ao estabelecer autoridade marcial
 Probabilidade de reunir os hereges ao estabelecer autoridade marcial
-Probabilidade de aprender artes marciais uma segunda vez por mês
-Probabilidade de se ferir ao resistir a invasões da Tumba da Espada
-Quantidade de pessoas influenciadas ao interagir com personagens sectários
+Probabilidade de aprender artes marciais uma segunda vez por mes
+Probabilidade de se ferir ao resistir a invasoes da Tumba da Espada
+Quantidade de pessoas influenciadas ao interagir com personagens sectarios
 Prestígio obtido ao estabelecer autoridade marcial
-Proporção de aumento nos atributos dos aldeões pelo chefe da vila
-Probabilidade de resolver inimizades entre aldeões
-Probabilidade de aumentar o favor entre aldeões
-Probabilidade de promover boas relações entre aldeões
-Proporção de aumento nas habilidades dos aldeões pelo chefe da vila
+Proporcao de aumento nos atributos dos aldeoes pelo chefe da vila
+Probabilidade de resolver inimizades entre aldeoes
+Probabilidade de aumentar o favor entre aldeoes
+Probabilidade de promover boas relacoes entre aldeoes
+Proporcao de aumento nas habilidades dos aldeoes pelo chefe da vila

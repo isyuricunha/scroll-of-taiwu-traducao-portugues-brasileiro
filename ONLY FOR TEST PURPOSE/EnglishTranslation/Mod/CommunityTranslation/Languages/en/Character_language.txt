@@ -139,15 +139,15 @@ Comércio dos Cinco Lagos
 
 
 
-Loja do Campeão
+Loja do Campeao
 
 
 
-Salão da Rejuvenescência
+Salao da Rejuvenescencia
 
 
 
-Praça do Mestre
+Praca do Mestre
 
 
 
@@ -602,7 +602,7 @@ Macaco
 
 
 
-Águia
+Aguia
 
 
 
@@ -626,7 +626,7 @@ Leopardo
 
 
 
-Leão
+Leao
 
 
 
@@ -662,7 +662,7 @@ Pantera Negra
 
 
 
-Leão Dourado
+Leao Dourado
 
 
 
@@ -690,11 +690,11 @@ Líder dos Mendigos
 
 
 
-Pequeno Ladrão
+Pequeno Ladrao
 
 
 
-Ladrão Habitual
+Ladrao Habitual
 
 
 
@@ -702,11 +702,11 @@ Pervertido
 
 
 
-Ladrão de Gatos
+Ladrao de Gatos
 
 
 
-Grande Ladrão
+Grande Ladrao
 
 
 
@@ -750,7 +750,7 @@ Exilado do Yuanshan
 
 
 
-Exilado do Rosto de Leão
+Exilado do Rosto de Leao
 
 
 
@@ -762,7 +762,7 @@ Exilado do Xuannyu
 
 
 
-Exilado do Mansão da Espada
+Exilado do Mansao da Espada
 
 
 
@@ -822,7 +822,7 @@ Viúva Negra
 
 
 
-Fada de Acácia
+Fada de Acacia
 
 
 
@@ -838,7 +838,7 @@ Refinador de Corpos
 
 
 
-Cadáver com Garras
+Cadaver com Garras
 
 
 
@@ -870,7 +870,7 @@ Sem Futuro
 
 
 
-Aberração Exótica
+Aberracao Exótica
 
 
 
@@ -906,7 +906,7 @@ Fantasma Vestido de Sangue
 
 
 
-Refinador de Corações
+Refinador de Coracoes
 
 
 
@@ -926,7 +926,7 @@ Mensageiro do Inferno
 
 
 
-Venerável Gautama
+Veneravel Gautama
 
 
 
@@ -934,7 +934,7 @@ Pessoa Desesperada
 
 
 
-Não-humano
+Nao-humano
 
 
 
@@ -946,7 +946,7 @@ Monge Sem Nome
 
 
 
-Ancião Falecido
+Anciao Falecido
 
 
 
@@ -962,11 +962,11 @@ Cultista
 
 
 
-Coração Demoníaco
+Coracao Demoníaco
 
 
 
-Encarnação do Mal
+Encarnacao do Mal
 
 
 
@@ -1006,7 +1006,7 @@ Escolta Famoso
 
 
 
-Vagante Excêntrico
+Vagante Excentrico
 
 
 
@@ -1022,7 +1022,7 @@ Eremita Famoso
 
 
 
-Sênior Shaolin Aposentado
+Senior Shaolin Aposentado
 
 
 
@@ -1038,7 +1038,7 @@ Preceptor
 
 
 
-Salão Bodhi
+Salao Bodhi
 
 
 
@@ -1046,7 +1046,7 @@ Prajna·H
 
 
 
-Salão Arhat
+Salao Arhat
 
 
 
@@ -1054,7 +1054,7 @@ Bhikkhu
 
 
 
-Sênior Emei Aposentado
+Senior Emei Aposentado
 
 
 
@@ -1074,7 +1074,7 @@ Formal·N
 
 
 
-Noviço
+Novico
 
 
 
@@ -1082,19 +1082,19 @@ Formal·A
 
 
 
-Audiência
+Audiencia
 
 
 
-Sênior Aposentado do Vale das Flores
+Senior Aposentado do Vale das Flores
 
 
 
-Emissário do Cervo
+Emissario do Cervo
 
 
 
-Boa Mão
+Boa Mao
 
 
 
@@ -1118,7 +1118,7 @@ Pastor de Cervos
 
 
 
-Sênior Aposentado de Wudang
+Senior Aposentado de Wudang
 
 
 
@@ -1148,7 +1148,7 @@ Amador
 
 
 
-Sênior Aposentado de YuanShan
+Senior Aposentado de YuanShan
 
 
 
@@ -1172,7 +1172,7 @@ Guarda
 
 
 
-Noviço
+Novico
 
 
 
@@ -1180,27 +1180,27 @@ Seguidor
 
 
 
-Sênior Aposentado da Face de Leão
+Senior Aposentado da Face de Leao
 
 
 
-Ás Furioso
+As Furioso
 
 
 
-Ás Orgulhoso
+As Orgulhoso
 
 
 
-Ás Adormecido
+As Adormecido
 
 
 
-Leão Furioso
+Leao Furioso
 
 
 
-Leão Orgulhoso
+Leao Orgulhoso
 
 
 
@@ -1212,11 +1212,11 @@ Filhote
 
 
 
-Sênior Aposentado de RanShan
+Senior Aposentado de RanShan
 
 
 
-Guardião
+Guardiao
 
 
 
@@ -1244,7 +1244,7 @@ Errante
 
 
 
-Sênior Aposentado de XuanNyu
+Senior Aposentado de XuanNyu
 
 
 
@@ -1252,7 +1252,7 @@ Pena·E
 
 
 
-Emissário de Seda
+Emissario de Seda
 
 
 
@@ -1275,7 +1275,7 @@ Servo
 
 
 
-Sênior Aposentado da Mansão da Espada
+Senior Aposentado da Mansao da Espada
 
 
 
@@ -1291,7 +1291,7 @@ Tesouro·S
 
 
 
-Estação·S
+Estacao·S
 
 
 
@@ -1307,7 +1307,7 @@ Carvoeiro
 
 
 
-Sênior Aposentado de KongSong
+Senior Aposentado de KongSong
 
 
 
@@ -1326,11 +1326,11 @@ Forja·H
 
 
 
-Salão do Dragão
+Salao do Dragao
 
 
 
-Salão de Sondagem
+Salao de Sondagem
 
 
 
@@ -1338,15 +1338,15 @@ Aprendiz
 
 
 
-Sênior Aposentado de Vajrayana
+Senior Aposentado de Vajrayana
 
 
 
-Ancião
+Anciao
 
 
 
-Guardião
+Guardiao
 
 
 
@@ -1354,11 +1354,11 @@ Lutador
 
 
 
-Salão Silencioso
+Salao Silencioso
 
 
 
-Salão Vajra
+Salao Vajra
 
 
 
@@ -1370,7 +1370,7 @@ Trabalhador
 
 
 
-Sênior Aposentado dos 5 Imortais
+Senior Aposentado dos 5 Imortais
 
 
 
@@ -1386,7 +1386,7 @@ Incubador
 
 
 
-Emissário de Veneno
+Emissario de Veneno
 
 
 
@@ -1402,7 +1402,7 @@ Cultista
 
 
 
-Sênior Aposentado de JieQing
+Senior Aposentado de JieQing
 
 
 
@@ -1430,15 +1430,15 @@ Guia
 
 
 
-Portão Externo
+Portao Externo
 
 
 
-Sênior Aposentado de FuLong
+Senior Aposentado de FuLong
 
 
 
-Dragão Ancião
+Dragao Anciao
 
 
 
@@ -1465,7 +1465,7 @@ Ilhéu
 
 
 
-Sênior Aposentado de Blood Hou
+Senior Aposentado de Blood Hou
 
 
 
@@ -1525,7 +1525,7 @@ O Espadachim Branco
 
 
 Huan Xin
-Moça
+Moca
 
 
 
@@ -1550,11 +1550,11 @@ Necromante
 
 
 Shi Shufu
-Monge Ancião
+Monge Anciao
 
 
 “Pai Adotivo”
-Um ancião sem nome
+Um anciao sem nome
 
 
 “Idoso”
@@ -1565,7 +1565,7 @@ Boneco de Madeira Antigo
 
 
 
-Mãos de Bambu
+Maos de Bambu
 Boneco de Madeira
 
 
@@ -1603,7 +1603,7 @@ Rapaz
 Situ
 Huanyue
 
-Ancião
+Anciao
 Taoísta
 
 
@@ -1612,7 +1612,7 @@ Túmulos
 
 
 Sem Nome
-Mãe e filho sem nome
+Mae e filho sem nome
 
 
 Pais desconhecidos
@@ -1673,7 +1673,7 @@ Pessoa de Wanqu
 
 
 
-Cortina de Coração Cortina do Céu
+Cortina de Coracao Cortina do Céu
 
 
 
@@ -1761,7 +1761,7 @@ Monge Sombrio
 
 
 Hong Yi
-Ancião
+Anciao
 
 
 
@@ -1824,7 +1824,7 @@ Cobra de Fogo Mercúrio
 
 
 
-Besouro de Distorção
+Besouro de Distorcao
 
 
 
@@ -1932,7 +1932,7 @@ He
 Youyuan
 
 
-Ilusão no Espelho
+Ilusao no Espelho
 
 
 Demônio Celestial
@@ -1996,10 +1996,10 @@ Demônios Humanos
 
 Lei
 Kun
-Mestre do Salão
-Mestre do Salão do Leão Voador
+Mestre do Salao
+Mestre do Salao do Leao Voador
 
-Discípulos do Salão do Leão Voador
+Discípulos do Salao do Leao Voador
 
 
 
@@ -2087,7 +2087,7 @@ Gorila Branco
 
 Houjiu
 Pessoa Misteriosa
-Ancião em Reclusão
+Anciao em Reclusao
 Bai
 Ao Tian
 Jovem Cavalheiro
@@ -2113,15 +2113,15 @@ Velho Bondoso
 
 
 Xuan Huangzi
-Ancião Carrancudo
-Fundador da Seita do Talismã de Jade
+Anciao Carrancudo
+Fundador da Seita do Talisma de Jade
 
 Kun Wuzi
-Ancião Languido
+Anciao Languido
 Fundador da Seita da Espada Divina
 
 You Mingzi
-Ancião Sombrio
+Anciao Sombrio
 Fundador da Seita Yin-Yang
 
 Huaju
@@ -2138,7 +2138,7 @@ Mulher Sem Nome
 
 Imortal da Cadeira
 
-Os Três Ancestrais
+Os Tres Ancestrais
 
 
 
@@ -2148,7 +2148,7 @@ Serpente do Rio Sombrio
 
 
 
-Caldeirão Antigo da Família Liao
+Caldeirao Antigo da Família Liao
 
 
 
@@ -2166,7 +2166,7 @@ Pequena Cobra Negra
 
 
 
-Árvore Divina
+Arvore Divina
 
 
 
@@ -2209,43 +2209,43 @@ Sombra de Taiwu
 
 
 
-Dragão Branco
+Dragao Branco
 
 
 
-Dragão Negro
+Dragao Negro
 
 
 
-Dragão Verde
+Dragao Verde
 
 
 
-Dragão Vermelho
+Dragao Vermelho
 
 
 
-Dragão Amarelo
+Dragao Amarelo
 
 
 
-Pequeno Dragão Branco
+Pequeno Dragao Branco
 
 
 
-Pequeno Dragão Negro
+Pequeno Dragao Negro
 
 
 
-Pequeno Dragão Verde
+Pequeno Dragao Verde
 
 
 
-Pequeno Dragão Vermelho
+Pequeno Dragao Vermelho
 
 
 
-Pequeno Dragão Amarelo
+Pequeno Dragao Amarelo
 
 
 
@@ -2277,7 +2277,7 @@ Jiao de Raio Voador
 
 
 
-Jiao de Fogo e Trovão
+Jiao de Fogo e Trovao
 
 
 
@@ -2285,7 +2285,7 @@ Jiao de Olho Dourado
 
 
 
-Jiao de Poço Verde
+Jiao de Poco Verde
 
 
 
@@ -2293,7 +2293,7 @@ Jiao de Nuvem Queimada
 
 
 
-Jiao de Poço de Argila
+Jiao de Poco de Argila
 
 
 
@@ -2321,7 +2321,7 @@ Jiao de Profundidade Profunda
 
 
 
-Jiao de Trovão Celestial
+Jiao de Trovao Celestial
 
 
 
@@ -2333,7 +2333,7 @@ Jiao de Qilin
 
 
 
-Jiao de Prisão Fantasma
+Jiao de Prisao Fantasma
 
 
 
@@ -2341,7 +2341,7 @@ Jiao de Montanha Imortal
 
 
 
-Jiao de Poço Flamejante
+Jiao de Poco Flamejante
 
 
 
@@ -2349,7 +2349,7 @@ Jiao de Colina Ardente
 
 
 
-Jiao das Quatro Mudanças
+Jiao das Quatro Mudancas
 
 
 
@@ -2409,7 +2409,7 @@ Chiwen
 
 
 
-Clã Huanlong
+Cla Huanlong
 
 
 
@@ -2473,7 +2473,7 @@ Monge Confuso
 
 
 
-Monge Cortês
+Monge Cortes
 
 
 
@@ -2481,7 +2481,7 @@ Monge Rude
 
 
 
-Monge Fanático
+Monge Fanatico
 
 
 
@@ -2489,7 +2489,7 @@ Monge Obstinado
 
 
 
-Monge Apático
+Monge Apatico
 
 
 
@@ -2516,7 +2516,7 @@ Bandido Estrangeiro
 
 
 
-Ancião·A
+Anciao·A
 
 
 

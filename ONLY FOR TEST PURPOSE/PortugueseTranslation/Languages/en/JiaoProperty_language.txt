@@ -1,9 +1,9 @@
 Velocidade de Viagem
 Velocidade de Viagem Aumentada
 Velocidade de Viagem Reduzida
-Peso Máximo de Inventário
-Peso Máximo de Inventário Aumentado
-Peso Máximo de Inventário Reduzido
+Peso Maximo de Inventario
+Peso Maximo de Inventario Aumentado
+Peso Maximo de Inventario Reduzido
 Saques
 Saques Aumentados
 Saques Reduzidos
@@ -13,9 +13,9 @@ Exorcismo Reduzido
 Limite de Cativos
 Limite de Cativos Aumentado
 Limite de Cativos Reduzido
-Preço
-Preço Aumentado
-Preço Reduzido
+Preco
+Preco Aumentado
+Preco Reduzido
 Valor
 Valor Aumentado
 Valor Reduzido
@@ -25,7 +25,7 @@ Bônus de Presente Reduzido
 Bônus de Favor
 Bônus de Favor Aumentado
 Bônus de Favor Reduzido
-Duração
+Duracao
 
 
 Peso

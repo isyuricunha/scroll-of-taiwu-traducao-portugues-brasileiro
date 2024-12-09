@@ -1,21 +1,21 @@
 Poder Atual
 Limite de Poder
-Tempo de Execução
-Custo de Postura/Inalação
-Razão Ext/Int
-Taxa de Conversação Interna
-Força Interna Total
-Ganho de Força Interna
-Conversão Elemental
+Tempo de Execucao
+Custo de Postura/Inalacao
+Razao Ext/Int
+Taxa de Conversacao Interna
+Forca Interna Total
+Ganho de Forca Interna
+Conversao Elemental
 Vagas Universais
 Custo de Mobilidade
 MOV·Vel
-Aumentar Força
+Aumentar Forca
 Aumentar Agilidade
 Aumentar Velocidade
 Aumentar BRE
-Enfraquecer Movimentação
-Custo de Movimentação
+Enfraquecer Movimentacao
+Custo de Movimentacao
 Aumentar Def. Ext.
 Aumentar Def. Int.
 Aumentar Desvio
@@ -23,20 +23,20 @@ Aumentar Defesa
 Aumentar Esquiva
 Aumentar Foco
 Poder de Contraataque
-Reflexão de PH
-Reflexão de Qi
-Alcance de Reflexão
-Duração
+Reflexao de PH
+Reflexao de Qi
+Alcance de Reflexao
+Duracao
 Aumentar ATK
-Aumentar Precisão
-Razão de Força
-Razão de Agilidade
-Razão de Velocidade
+Aumentar Precisao
+Razao de Forca
+Razao de Agilidade
+Razao de Velocidade
 Alcance de Ataque
 Ataque no Peito
 Ataque na Cintura
-Ataque na Cabeça
-Ataque nos Braços
+Ataque na Cabeca
+Ataque nos Bracos
 Ataque nas Pernas
 Gravidade dos pontos acupunturais selados
 Gravidade das falhas
@@ -48,10 +48,10 @@ Aplicar Necrtoxina
 Aplicar Oneirotoxina
 Requisitos
 Quebrar Linha
-Linha Rápida
+Linha Rapida
 Linha de Aegis
 Linha de Nadis
-Requer Estilo de Lançamento
+Requer Estilo de Lancamento
 Requer Estilo de Disparo
 Requer Estilo de Impulso
 Requer Estilo de Golpe
@@ -62,13 +62,13 @@ Requer Estilo de Ponto
 Requer Estilo de Segurar
 Requer Estilo Sonoro
 Requer Estilo de Envolver
-Requer Estilo de Feitiço
+Requer Estilo de Feitico
 Requer Estilo de Arma
 Requer Estilo de Droga
 Requer Estilo Tóxico
 Requer Estilo de Varredura
 Progresso de Acúmulo
 Chance de Selamento
-Duração de Selamento
+Duracao de Selamento
 Aumentar ATK
-Aumentar Precisão
+Aumentar Precisao

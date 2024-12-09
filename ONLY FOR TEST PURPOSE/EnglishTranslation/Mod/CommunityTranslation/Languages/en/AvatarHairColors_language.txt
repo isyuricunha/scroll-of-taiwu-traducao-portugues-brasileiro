@@ -1,5 +1,5 @@
 Ouro Rosé
-Pêssego Escuro
+Pessego Escuro
 Espresso
 Marrom Rosado
 Castanho Profundo
@@ -8,7 +8,7 @@ Marfim
 Cogumelo
 Castanho
 Amarelo Escuro
-Água-marinha
+Agua-marinha
 Verde Cipreste
 Verde Escuro
 Azul Céu

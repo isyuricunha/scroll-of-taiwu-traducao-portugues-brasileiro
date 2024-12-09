@@ -1,6 +1,6 @@
 Arremesso
 Disparo
-Empurrão
+Empurrao
 Corte Profundo
 Estocada
 Corte
@@ -9,7 +9,7 @@ Apontar
 Segurar
 Som
 Embrulhar
-Feitiço
+Feitico
 Armazenar
 Droga
 Tóxico

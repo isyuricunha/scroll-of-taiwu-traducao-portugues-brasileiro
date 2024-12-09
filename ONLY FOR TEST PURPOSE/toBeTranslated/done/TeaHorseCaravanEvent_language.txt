@@ -1,21 +1,21 @@
 Encontrar um miragem
-Encontrando uma miragem, Reputação aumentada
+Encontrando uma miragem, Reputacao aumentada
 Descobrir Selvagens
-Selvagens descobertos, Reputação aumentada
+Selvagens descobertos, Reputacao aumentada
 Descobrir Animais
-Animais raros descobertos, Reputação aumentada
+Animais raros descobertos, Reputacao aumentada
 Descobrir Plantas
-Plantas raras descobertas, Reputação aumentada
+Plantas raras descobertas, Reputacao aumentada
 Relatar de volta
-As experiências foram relatadas, Reputação aumentada
+As experiencias foram relatadas, Reputacao aumentada
 Descobrir um assentamento
-Um assentamento foi descoberto, Reputação aumentada
+Um assentamento foi descoberto, Reputacao aumentada
 Ler o clima
-Encontrou um clima raro, Reputação aumentada
+Encontrou um clima raro, Reputacao aumentada
 Perder-se
-Perdeu-se, Reputação diminuída
-Encontrar ladrões
-Encontrou ladrões, algumas mercadorias foram perdidas
+Perdeu-se, Reputacao diminuída
+Encontrar ladroes
+Encontrou ladroes, algumas mercadorias foram perdidas
 Cair em um buraco
 Caiu em um buraco, algumas mercadorias foram perdidas
 Encontrar os restos de uma caravana
@@ -24,10 +24,10 @@ Ajudar alguns viajantes
 Ajudou alguns viajantes, resultando em suprimentos diminuídos
 Mau tempo
 Encontrou mau tempo, resultando em suprimentos diminuídos
-Obter Assistência
-Recebeu assistência e suprimentos aumentados
-Caça Selvagem Ocasional
-Caça foi encontrada e suprimentos aumentados
+Obter Assistencia
+Recebeu assistencia e suprimentos aumentados
+Caca Selvagem Ocasional
+Caca foi encontrada e suprimentos aumentados
 Descobrir frutas da floresta
 Encontrou a floresta de frutas e suprimentos puderam ser colhidos
 Descobrir uma vila
