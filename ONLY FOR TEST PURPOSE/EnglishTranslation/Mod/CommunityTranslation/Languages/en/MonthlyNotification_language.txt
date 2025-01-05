@@ -1,1013 +1,1014 @@
-Início de Fevereiro
-O cabo da Ursa retornou ao Yin. Os recursos de Metal e Jade em algumas localidades de \n se recuperaram até certo ponto.
+Early February
+The bucket handle returned to Yin. Metal and Jade resources in some locations in \n have recovered to some extent.
 
-Início de Marco
-No mes de Jian Mao, Yang e Bu Qi. Os recursos de 'comida', 'madeira' e 'ervas medicinais' em \n algumas localidades se recuperaram até certo ponto.
+Early March
+In the month of Jian Mao, Yang and Bu Qi. The resources of 'food', 'wood' and 'medicinal herbs' in \n some locations have recovered to some extent.
 
-Início de Abril
-No mes de Jianchen, o cabo da Ursa aponta para o leste. \nAlgumas localidades tiveram certa recuperacao dos recursos de "comida", "madeira" e "ervas medicinais".
+Early April
+In the month of Jianchen, the bucket handle points east. \nSome locations have some degree of recovery of "food", "wood" and "medicinal herbs" resources.
 
-Início de Maio
-No mes de Jian Si, a grama e as arvores estao em plena floracao. \nOs recursos de "comida", "madeira" e "ervas medicinais" em algumas localidades se recuperaram até certo ponto.
+Early May
+In the month of Jian Si, the grass and trees are in full bloom. \nFood", "wood" and "medicinal herbs" resources in some locations have recovered to some extent.
 
-Início de Junho
-No mes de Jianwu, os brotos de arroz estao sendo colhidos. \nOs recursos de "comida", "madeira" e "tecido" em algumas localidades se recuperaram até certo ponto.
+Early June
+In the month of Jianwu, the rice seedlings are firstly gathered. \nFood", "wood" and "fabric" resources in some places have recovered to some extent.
 
-Início de Julho
-No mes de Jianwei, o cabo da Ursa aponta para o sul. \nAlgumas localidades tiveram certa recuperacao dos recursos de "comida", "madeira" e "tecido".
+Early July
+In the month of Jianwei, the bucket handle points south. \nSome locations have some degree of recovery of "food," "wood," and "fabric" resources.
 
-Início de Agosto
-No mes de Jian Shen, as cigarras estao estridentes. \nOs recursos de "comida", "madeira" e "tecido" em algumas localidades se recuperaram até certo ponto.
+Early August
+In the month of Jian Shen, the cicadas are shrill. \nResources of "food", "wood" and "fabric" in some locations have recovered to some extent.
 
-Início de Setembro
-No mes de Jian You, a estrela de Shang flui para o oeste. \nAlgumas localidades tiveram recuperacao dos recursos de "comida", "madeira", "tecido" e "ervas medicinais" até certo ponto.
+Early September
+In the month of Jian You, the star of Shang flows westward. \n Some locations have recovered their "food", "wood", "fabric" and "medicinal" resources to some extent.
 
-Início de Outubro
-No mes de Jianxu, o cabo da Ursa aponta para o oeste. Os recursos de "comida", "madeira", "tecido" e "ervas medicinais" em \n algumas localidades se recuperaram até certo ponto.
+Early October
+In the month of Jianxu, the bucket handle points west. The resources of "food", "wood", "fabric" and "medicinal herbs" in \n some locations have recovered to some extent.
 
-Início de Novembro
-No mes de Jianhai, os salgueiros murcham e os vales aparecem. \nOs recursos de "ouro e pedra" e "tecido" em algumas localidades se recuperaram até certo ponto.
+Early November
+In the month of Jianhai, the willow declines and the valley shows. \nThe resources of "gold and stone" and "fabric" in some locations have recovered to some extent.
 
-Início de Dezembro
-No mes de Kenshi, todas as coisas sao recolhidas. \nAlgumas localidades tiveram certa recuperacao dos recursos de "ouro e pedra".
+Early December
+In the month of Kenshi, all things are collected. \n Some locations have a certain degree of recovery of "gold stone" resources.
 
-Início de Janeiro
-No mes de Jian Chou, o cabo da Ursa aponta para o norte. \nAlgumas localidades tiveram certa recuperacao dos recursos de "ouro e pedra".
+Early January
+In the month of Jian Chou, the bucket handle points north. \n Some locations have a certain degree of recovery of "gold stone" resources.
 
-Túmulo Destruído
-O túmulo de {0} foi completamente danificado e desapareceu por nao ter sido cuidado por muito tempo.
+Grave Withered
+The grave of {0} was completely damaged and disappeared because it had not been taken care of for a long time.
 
-Oferta Fora da Lei
-{0} recebeu as ofertas de {3} em {1} em nome de {2}...
+Outlaw Offering
+{0} received the offerings of {3} at {1} on behalf of {2}...
 
-Armazenamento Excedido
-O {0} no armazém foi perdido devido ao limite de armazenamento ter sido excedido.
+Storage Overweight
+The {0} in the warehouse was lost due to exceeding the storage limit.
 
-Assassinato
-{0} foi assassinado em {1} pelo Portao JieQing...
+Assassination
+{0} has been assassinated in {1} by JieQing Gate...
 
-Morte Sem Sombra
-{0} morreu em {1} apos ser assassinado pelo Portao Jieqing por possuir a Ordem Apagadora de Sombras...
+No Shadow to Kill
+{0} died in {1} after being assassinated by the Jieqing Gate for holding the Shadow Erasing Order...
 
-A Grande Separacao
-{0} partiu desta vida em {1}.
+The Great Divide
+{0} departed from this life in {1}
 
-XS·Enfeiticado
-{0} em {1} foi perturbado pelos pensamentos malignos de XiangShu e nao pode ser ele mesmo.
+XS·Enthralled
+{0} in {1} has been disturbed by XiangShu's evil thoughts and cannot be themselves.
 
-Possuído por XiangShu
-{0} em {1} sucumbiu a corrupcao de XiangShu e ficou possuído.
+Possessed by XiangShu
+{0} in {1} has succumbed to the corruption of XiangShu and has become possessed.
 
-Inimizade por Prisao
-{0} em {1} comecou a ressentir {2} por ter sido aprisionado por {2}...
+Imprisonment Enmity
+{0} in {1} started resenting {2} because of being imprisoned by {2}...
 
-Fuga da Prisao
-{0} em {1} escapou do cativeiro de {2}...
+Prison Escape
+{0} in {1} broke away from {2}'s imprisonment and escaped...
 
-Grilo Morreu
-{0} morreu de velhice...
+Cricket Died
+{0} has died of old age...
 
-Recursos Excedidos
-Recursos excederam a capacidade, causando a perda de {0} em {1}.
+Resource Overfilled
+Resources are over-capacity, causing the loss of {0} in {1}
 
-Inventario Excedido
-Recursos excederam a capacidade, causando a perda de {0} em {1}.
+Inventory Overweight
+Resources are over-capacity, causing the loss of {0} in {1}
 
-Inimizade Formada
-{0} tornou-se inimigo de {2} em {1}.
+Enmity Bred
+{0} has become enemies with {2} in {1}
 
-Odio Dissolvido
-{0} dissolveu sua inimizade com {2} em {1} e nao sao mais inimigos.
+Rancor Melted
+{0} dissolved their hatred for {2} in {1} and are no longer enemies.
 
-Declaracao de Amor
-Em {1}, {0} declarou seu amor por {2}, e finalmente se impressionaram mutuamente, agora possuem amor e afeto mútuos.
+Adore Confession
+In {1}, {0} confessed to {2} and finally impressed each other, the two have mutual love and affection.
 
-Separacao de Casal
-Em {1}, {0} e {2} romperam o relacionamento...
+Couple Broken Up
+In {1}, {0} and {2} broke up with each other...
 
-Casamento de Casal
-Em {1}, {0} e {2} prometeram-se para a vida e se casaram.
+Couple Married
+In {1}, {0} and {2} promised to each other for life and were married.
 
-Amizade Florescendo
-{0} e {2} tiveram uma boa conversa em {1}, sentiram-se proximos e decidiram se tornar grandes amigos.
+Budding Friendship
+{0} and {2} had a good conversation in {1}, and both felt very close to each other, so they decided to become close friends.
 
-Afastamento
-{0} e {2} se afastaram em {1}. Os dois nao sao mais grandes amigos.
+Estrangement
+The {0} and {2} are separated in {1}. The two drifted apart and are no longer close friends.
 
-Novos Irmaos de Juramento
-Em {1}, {0} e {2} tornaram-se irmaos jurados, prometendo nao buscar o mesmo ano, mes e dia de nascimento, mas o mesmo ano, mes e dia de morte.
+New Sworn-Siblings
+In {1}, {0} and {2} became sworn-siblings, not seeking the same year and the same month and the same day, but seeking the same year and the same month and the same day to die.
 
-Ruptura Fraternal
-{0} em {1} e {2} cortaram os lacos de irmandade e nao sao mais amigos, como diz o ditado: antes do rio amarelo, nunca se verao novamente.
+Fraternal Rupture
+{0} in {1} and {2} cut off the righteousness of the robe, and then no longer friendship, as the saying goes: less than the yellow spring, no see each other also.
 
-Adotar como Filho
-Em {1}, {0} adotou {2} como seu Filho Adotivo.
+Adopting as Son
+In {1}, {0} adopted {2} as their Adopted Son
 
-Adotando uma Filha
-Em {1}, {0} adotou {2} como sua Filha Adotiva.
+Adopting a Daughter
+In {1}, {0} adopted {2} as their Adopted Daughter
 
-Reconhecendo Pai Adotivo
-{0} aceitou {2} como seu Pai Adotivo em {1}.
+Acknowledge Adoptive Father
+{0} has accepted {2} as his Adoptive Father in {1}.
 
-Reconhecendo Mae Adotiva
-{0} aceitou {2} como sua Mae Adotiva em {1}.
+Acknowledge Adoptive Mother
+{0} has accepted {2} as his Adoptive Mother in {1}.
 
-Noite Abencoada
-{0} passou a noite com {2} em {1}. Os dois se amam profundamente, e seu amor é infinito.
+Blessed Night
+{0} spent the night with {2} in {1}. The two love each other endlessly, and their love is infinite.
 
-Desejo Irrefreavel
-Em {1}, {0}, tomado por um desejo avassalador, tentou forcar {2}, mas foi descoberto por {2} e falhou.
+Craving No-Holds-Barred
+At {1}, {0} and with an overwhelming desire, attempted to rape {2}, but was seen through by {2} and failed
 
-Abencoado com um Filho
-{0} deu a luz um filho em {1}.
+Blessed with a Son
+{0} gave birth to a son in {1}
 
-Abencoado com uma Filha
-{0} deu a luz uma filha em {1}.
+Blessed with a Daughter
+{0} gave birth to a daughter in {1}
 
-O filho de {0} nasceu!
+{0}'s son is born!
 
-A filha de {0} nasceu!
+{0}'s daughter is born!
 
-Nascimento Anormal
-O filho de {0} finalmente nasceu apos tres anos e seis meses de gravidez...
+Abnormal Neonatus
+{0}'s child was finally born after three years and six months of pregnancy...
 
-Luto Materno
-Em {1}, {0} nao se sentiu bem e perdeu o bebe.
+A Mother’s Bereavement
+In {1}, {0} felt unwell and miscarried the fetus.
 
-Aprendendo com um Mestre
-{0} foi até {1} para aprender artes marciais.
+Learning from a Master
+{0} went to {1} to learn martial arts.
 
-Ingressou em uma Seita
-{0} ingressou em {1} como discípulo.
+Joined A Sect
+{0} has joined {1} as a disciple.
 
-Indo para um Compromisso
-{0} esta indo para {1} para um compromisso...
+Going to an appointment
+{0} is heading to {1} for an appointment...
 
-Aguardando
-{0} esta {1} esperando {2} para um compromisso...
+Expecting
+{0} is {1} waiting {2} for an appointment...
 
-Compromisso Quebrado
-Em {1}, {0} esperou por muito tempo por {2}, mas {2} nunca apareceu...
+Appointment Broken
+In {1}, {0} waited for {2} for a long time, {2} but never came to the appointment...
 
-Compromisso Cancelado
-{0} cancelou o compromisso em {1} com {2}...
+Appointment Cancelled
+{0} cancelled the appointment in {1} with {2}...
 
-Ao Resgate
-{0} soube que {1} esta sendo mantido prisioneiro por {2} e decidiu resgata-lo...
+To the rescue
+{0} learns that {1} is being held prisoner by {2} and decides to go to the rescue...
 
-Prisioneiros Resgatados
-{0} libertou {1} do cativeiro de {2}.
+Captives Rescued
+{0} freed {1} from the imprisonment of {2}
 
-Liberacao
-{0} libertou {2} em {1}.
+Release
+{0} has released {2} at {1}.
 
-Pessoa Desaparecida
-Visto pela última vez em {1}, {0} esta desaparecido...
+Missing Persons
+Last see in {1}, {0} is nowhere to be found...
 
-Vinganca
-{0} decidiu buscar vinganca contra {1}...
+Revenge
+{0} decided to seek revenge on {1}...
 
-Protecao
-{0} decidiu proteger {1} contra ataques...
+Protection
+{0} decided to go to protect {1} from an attack...
 
-Protegendo Amigos e Família
-{0} lutara contra {2} em nome de {1}...
+Protecting friends and family
+{0} will fight against {2} on behalf of {1}...
 
-Nova Posicao na Seita
-{0} tornou-se um {2} de {1}.
+New Sect Position
+{0} became a {2} of {1}
 
-Novo Oficial da Cidade
+New Town Official
 
-Novo Líder de Faccao
-{0} tornou-se líder de uma faccao em {1}.
+New Faction Leader
+{0} became a leader of a faction in {1}
 
-Recursos Roubados
-Em {1}, {0} tentou roubar {3} de {2}, mas nao teve sucesso.
+Stolen Resources
+In {1}, {0} tried stealing {3} from {2}, but was unsuccessful.
 
-Em {1}, {0} conseguiu roubar alguns {3} de {2}.
+In {1}, {0} successfully stole some {3} from {2}.
 
-Recursos Trapaceados
-Em {1}, {0} tentou trapacear {3} de {2}, mas falhou.
+Scamming Resources
+In {1}, {0} tried scamming {3} from {2}, but was unsuccessful.
 
-Recursos Roubados
-Em {1}, {0} tentou roubar {3} de {2}, mas nao teve sucesso.
+Robbed Resources
+In {1}, {0} tried robbing {3} from {2}, but was unsuccessful.
 
-Roubo de Túmulos
-{0} roubou {3} do túmulo de {2} em {1}.
+Grave Robbing
+{0} stole {3} from the grave of {2} in {1}.
 
-Roubando Itens
+Stealing Items
 
-Em {1}, {0} conseguiu roubar {3} de {2}.
+In {1}, {0} successfully stole {3} from {2}.
 
-Trapaceando Itens
+Scamming items
 
-Roubando Itens
+Robbing Items
 
-Roubo de Itens de Túmulos
-{0} roubou {3} do túmulo de {2} em {1}.
+Grave Robbing Items
+{0} stole {3} from the grave of {2} in {1}
 
-Habilidade de Vida Roubada
-Em {1}, {0} tentou roubar {3} de {2}, mas nao teve sucesso.
+Stole Life Skill
+In {1}, {0} tried stealing {3} from {2}, but was unsuccessful.
 
-Em {1}, {0} furtivamente aprendeu {3} de {2}.
+In {1}, {0} stealthily learned {3} from {2}.
 
-Trapaceando Habilidades de Vida
-Em {1}, {0} tentou trapacear {3} de {2}, mas nao teve sucesso.
+Scamming Life Skills
+In {1}, {0} tried scamming {3} from {2}, but was unsuccessful.
 
-Roubando Artes Marciais
+Steal Martial Arts
 
-Trapaceando Artes Marciais
 
-Um Símbolo de Boa Vontade
-Em {1}, {0} apresentou {2} como presente para {3}.
+Swindling Martial Arts
 
-Pequeno Presente, Amizade Verdadeira
+A Token of Goodwill
+In {1}, {0} presented {2} as a gift to {3}.
 
-Ensinando Habilidades de Vida
-Em {1}, {0} ensinou {2} sobre estudos de {3}.
+Trifling Gift, Genuine Friendship
 
-Em {1}, {0} tentou ensinar {2} sobre estudos de {3}, mas nao teve resultados.
+Tutoring Life Skills
+In {1}, {0} has tutored {2} in {3} studies.
 
-Ensinando Artes Marciais
-Em {1}, {0} ensinou {2} sobre estudos de {3}.
+In {1}, {0} tried tutored {2} in {3} studies, but didn't get any results.
 
-Em {1}, {0} tentou ensinar {2} sobre estudos de {3}, mas nao teve resultados.
+Tutoring Martial Arts
+In {1}, {0} has tutored {2} in {3} studies.
 
-Performance Musical
-{0} ouviu a música tocada por {2} em {1}.
+In {1}, {0} tried tutored {2} in {3} studies, but didn't get any results.
 
-Jogo de Xadrez
-{0} jogou uma partida de xadrez contra {2} em {1}.
+Music Performance
+{0} listened to the music played by {2} at {1}.
 
-Leitura de Poesias
-{0} leu os poemas escritos por {2} em {1}.
+Game Of Chess
+{0} played a game of Chess against {2} in {1}.
 
-Exposicao de Pinturas
-{0} viu as pinturas feitas por {2} em {1}.
+Poetry Reading
+{0} read the poems written by {2} at {1}
 
-Tesouros Criados
-{0} criou o lendario {2} em {1}, e sua fama se espalhou pelo mundo.
+Painting Showcase
+{0} viewed the paintings painted by {2} at {1}
 
-Iluminacao Taoísta
-{0} falou para {2} sobre os mistérios do Tao em {1}, iluminando {2} e aprimorando o talento de {3}.
+Crafted Treasures
+{0} has created the fabled {2} in {1} and the fame has spread all over the world.
 
-Iluminacao Budista
-{0} conversou com {2} em {1} sobre as sutilezas do Budismo, o que iluminou {2} e aprimorou o talento de {3}.
+Taoist Enlightenment
+{0} told {2} about the mysteries of the Tao in {1}, which enlightened {2} and enhanced {3}'s talent.
 
-Adivinhacao
-{0} descobriu em {1} um segredo possuído por {2}.
+Buddhist Enlightenment
+{0} spoke to {2} in {1} about the subtleties of Buddhism, which led to {2}'s enlightenment and enhanced {3}'s talent.
 
-Valiosos Sortudos
-Em {1}, {0} encontrou um raro {2} por acaso.
+Divination
+{0} divined in {1} a certain secret story possessed by {2}.
 
-Em {1}, {0} encontrou {2} {3} por acaso.
+Lucky Valuables
+In {1}, {0} obtained a very rare {2} by chance.
 
-Encontro Fortuito
-Em {1}, {0} encontrou um livro de artes marciais {2} por acaso.
+In {1}, {0} obtained {2} {3} by chance.
 
-Em {1}, {0} encontrou um livro de belas artes {2} por acaso.
+Fortuitous Encounter
+In {1}, {0} obtained a {2} martial art book by chance.
 
-Milagre Celestial
-Em {1}, {0} sonhou com um cervo branco místico, recuperando {2} pontos de sua Saúde.
+In {1}, {0} obtained a {2} fine art book by chance.
 
-Em {1}, {0} sonhou com um cervo branco místico, recuperando {2} pontos de Ferimentos Externos.
+Heavenly Miracle
+In {1}, {0} dreamed about a mystical white deer, recovering {2} points of their Health.
 
-Em {1}, {0} sonhou com um cervo branco místico, recuperando {2} pontos de Ferimentos Internos.
+In {1}, {0} dreamed about a mystical white deer, recovering {2} points of their External Injuries.
 
-Em {1}, {0} sonhou com um cervo branco místico, e {2} em seu corpo foi reduzido.
+In {1}, {0} dreamed about a mystical white deer, recovering {2} points of their Internal Injuries.
 
-Em {1}, {0} sonhou com um cervo branco místico, e sua Respiracao Interna foi estabilizada.
+In {1}, {0} dreamed about a mystical white deer, and {2} in their body was reduced.
 
-Grande Desgraca
-Em {1}, {0} perdeu um(a) {2} muito raro(a) por acaso.
+In {1}, {0} dreamed about a mystical white deer, and their Inner Breath was calmed down.
 
-Em {1}, {0} perdeu {2} {3} por acaso.
+Great Misfortune
+In {1}, {0} lost a very rare {2} by chance.
 
-Livro Perdido
-Em {1}, {0} perdeu um livro de artes marciais {2} por acaso.
+In {1}, {0} lost {2} {3} by chance.
 
-Em {1}, {0} perdeu um livro de belas artes {2} por acaso.
+Lost Book
+In {1}, {0} lost a {2} martial art book by chance.
 
-Punicao Celestial
-Em {1}, {0} sonhou com demonios horríveis e espíritos malignos, perdendo {2} pontos de Saúde.
+In {1}, {0} lost a {2} fine art book by chance.
 
-Em {1}, {0} sonhou com demonios horríveis e espíritos malignos, perdendo {2} pontos de Ferimentos Externos.
+Heavenly Punishment
+In {1}, {0} dreamed about horrible demons and evil spirits, losing {2} points of their Health.
 
-Em {1}, {0} sonhou com demonios horríveis e espíritos malignos, perdendo {2} pontos de Ferimentos Internos.
+In {1}, {0} dreamed about horrible demons and evil spirits, losing {2} points of their External Injuries.
 
-Em {1}, {0} sonhou com demonios horríveis e espíritos malignos, e {2} em seu corpo aumentou.
+In {1}, {0} dreamed about horrible demons and evil spirits, losing {2} points of their Internal Injuries.
 
-Em {1}, {0} sonhou com demonios horríveis e espíritos malignos, e sua Respiracao Interna ficou desordenada.
+In {1}, {0} dreamed about horrible demons and evil spirits, and {2} in their body was increased.
 
-Crescimento de Recursos
-{1} em {0} cresceu.
-{0}的{1}规模等级上升了{2}次。
-Expansao de Recursos
-{0} de {1} expandiu-se para a area ao redor.
-{0}的{1}向周边地区扩张了{2}次。
-Dano a Construcao
-{0} em {1} esta sendo comprometido, e o nível da escala esta diminuindo.
+In {1}, {0} dreamed about horrible demons and evil spirits, and their Inner Breath became disordered.
 
-Colapso da Construcao
-{1}’s {0} desmoronou em escombros.
+Resource Growth
+{1} in {0} has grown bigger.
+{0}'s {1} scale level has increased {2} times.
+Resource Expansion
+{0} of {1} has expanded to the surrounding area.
+{0}'s {1} expanded to surrounding areas {2} times.
+Construction Damage
+{0} in {1} is being compromised and the scale level is decreasing.
 
-Construcao Concluída
-{1} foi construída em {0}.
-{0}的诸多建筑建造完毕了。
-Expansao Concluída
-{1} foi ampliada em {0}.
-{0}的诸多建筑扩建完毕了。
-Remocao Concluída
-{1} foi removida de {0}.
-{0}的诸多建筑拆除完毕了。
-Colheita da Construcao
-{1} de {0} concluiu uma colheita.
+Construction Collapse
+{1}’s {0} crumbled into debris.
 
-Chegada de Envio
-O envio {1} para {0} chegou a {0}.
+Construction Complete
+{1} has been constructed in {0}
+The construction of many buildings in {0} has been completed.
+Expansion Complete
+{1} has been upgraded in {0}
+The expansion of many buildings in {0} has been completed.
+Removal Complete
+{1} have been removed from {0}
+The removal of many buildings in {0} has been completed.
+Building Harvest
+{0}'s {1} had completed a harvest.
 
-Ninho de Mendigos
-Ouvi dizer que ha um grupo de mendigos perversos reunidos em {0}...
+Dispatch Arrived
+The {1} dispatched to {0} has arrived at {0}.
 
-Acampamento de Ladroes
-Ouvi dizer que ha ladroes acampando em {0} e causando danos...
+Nest of Beggars
+Heard that {0} there is a gathering of evil beggars...
 
-Fortaleza de Assaltantes
-Ouvi dizer que ha bandidos em {0}, bloqueando a estrada para roubar...
+Camp of Thieves
+I heard that {0} there are thieves camping and causing harm...
 
-Gangue de Traidores
-听闻一伙叛徒在{0}聚集…
+Fortress of Robbers
+I heard that {0} there are bandits out there, stopping the road to rob...
 
-Vale dos Viloes
-Ouvi dizer que muitos malfeitores do jianghu estao escondidos em {0}...
+Traitor Gang
+I heard that a group of traitors gathered in {0}...
 
-Matriz de Aroma
-Ouvi dizer que de tempos em tempos ha sons de decadencia em {0}, e varios homens desapareceram no local...
+Villain Valley
+I heard that many evil people in the jianghu are hiding in {0}...
 
-Cemitério
-Ouvi dizer que ha um lugar estranho e caotico cheio de túmulos perto de {0}...
+Aroma Array
+Heard {0} from time to time, the sound of decadence, there are several men missing in the...
 
-Residencia dos Talentos
-Ouvi falar sobre um grupo de estrangeiros excentricos reunidos em {0}...
+Mass Grave
+I heard that {0} near the eerie, chaotic graves...
 
-Cultos de Outro Mundo
-Ouvi falar de cultos estrangeiros na fronteira sendo explorados em {1}, mas depois se perdeu o rastro deles...
+Talents Residence
+Heard about a group of eccentric foreigners gathered at {0}...
 
-Provacao de Asura
-Ouvi falar de estranhas manchas de sangue sendo investigadas em {1}, mas depois se perdeu o rastro delas...
+Otherworldly Cults
+Heard {0} in {1} scouting for foreign frontier cults, but then lost track of them...
 
-Reuniao de Demonios
-Ouvi dizer que varias pessoas que seguiram o caminho demoníaco de Xiangshu se reuniram repentinamente em {0}, mas depois desapareceram...
+Asura Trial
+Heard {0} in {1} scouting for weird bloodstains, but then lost track of them...
 
-Traicao a Seita
-Ouvi dizer que {0} repentinamente desobedeceu e traiu sua seita, aparecendo em {1}...
+The Gathering of Demons
+I heard that several people who had fallen into the demonic path of the Xiangshu suddenly gathered at {0}, and then they were nowhere to be found...
 
-Feira de Primavera
-Comemorando o Ano Novo e despedindo-se do ano velho, comerciantes de todas as partes estao realizando uma feira movimentada, com pessoas lotando todos os cantos.
+Sect Betrayal
+Heard that {0} suddenly disobeyed and betrayed their sect and appeared in {1}...
 
-Torneio da Cidade
-O verao esta escaldante, e os treinos de verao estao monotonos. {0} esta realizando um evento de {1}. As tres religioes e nove correntes se reúnem, e a competicao de artes marciais esta cheia de entusiasmo.
+Spring Fair
+Ringing the New Year in and the old year out, merchants from every quarter are running a bustling fair, with the folks coming for it filling every corner
 
-Vibracao de Grilos
-Na temporada dourada, o canto dos grilos ecoa por toda parte, como no poema “Sob a janela e entre os arbustos, nos coracoes saudosos e ouvidos entristecidos”.
+Town Tournament
+The summer is scorching hot, and summer practice is in the doldrums. {0} is holding a {1} event. The three religions and nine streams gather together, and the high-level martial arts competition is full of enthusiasm.
 
-Congresso Mundial de Grilos
-O Congresso Mundial de Grilos esta sendo realizado em {0}!
+Cricket Vibrancy
+Attending the golden season, the chirping of crickets pervades hither and thither, as goes the poem“Under the window and among the tussock, into the yearning hearts and the sorrowful ears”
 
-Conferencia de Artes
-O inverno esta frio, o vento é gélido, e para trazer vida e alento, {0} esta sediando uma conferencia mais artística de {1}.
+Cricket Conference
+The triennial Cricket Conference is being held in {0} with great fanfare!
 
-Competicao de Pequena Seita
-Ha rumores de que {0} esta realizando uma competicao de pequena seita onde discípulos de baixa hierarquia se reúnem...
+Art Conference
+The snow is cold, the wind is cold, and for the people to live and breathe, {0} is hosting a {1} more artistic conference.
 
-Ha rumores de que {0} esta realizando uma competicao de pequena seita onde discípulos de alta hierarquia se reúnem...
+Small Sect Competition
+Rumor has it that {0} is holding a small sect competition where low ranking disciples gather...
 
-Competicao de Grande Seita
-Ha rumores de que {0} esta realizando uma competicao de grande seita, e todos os membros seniores da seita estao participando...
+Rumor has it that {0} is holding a small sect competition where high ranking disciples gather...
 
-Concurso de Casamento
-Uma nobre decadente esta organizando um grande Concurso de Casamento para encontrar um conjuge para sua filha em {0}...
+Large Sect Competition
+Rumor has it that {0} is holding a large sect competition, and all the senior members of the sect are participating in it...
 
-Cerimonia de Casamento
-A cerimonia de casamento de {0} e {1} esta sendo realizada em {2}...
+Matchmaking Contest
+A declining noble is holding a grand Matchmaking Contest to find a spouse for their daughter in {0}...
 
-Fuga do Túmulo da Espada
-Um inimigo poderoso, autodenominado "Encarnacao de Xiangshu", emergiu do Túmulo da Espada "{0}" perto da Vila Taiwu! Eles estao vindo diretamente para a Vila Taiwu!
+Wedding Ceremony
+{0} and {1}'s wedding ceremony is being held in {2}...
 
-Mo Nyu Traz Desastres
-Devido a passagem de Mo Nyu por perto, {1} pessoas proximas a {0} foram afetadas por seu desastre, sofrendo ferimentos e envenenamento!
+Break Out from Sword Tomb
+A powerful enemy calling themselves "Xiangshu Incarnation" came out of the "{0}" Sword Tomb near the Taiwu Village! They are coming straight to the Taiwu Village!
 
-Yaochang Traz Desastres
-Devido a passagem de Dayue Yaochang por perto, {1} pessoas proximas a {0} foram afetadas por seu desastre, causando suas mortes!
+Mo Nyu Brings Disaster
+Because of Mo Nyu passing nearby, {1} people near the {0} are affected by her disaster, causing them to suffer injuries and poison!
 
-Jiu Han Traz Desgraca
-Devido a passagem de Jiu Han por perto, as terras proximas a {0} foram danificadas!
+Yaochang Brings Disaster
+Because of Dayue Yaochang passing nearby, {1} people near the {0} are affected by her disaster, causing them to die!
 
-Huang'er Traz Desgraca
-Devido a passagem de Jin Huang'er por perto, {1} pessoas proximas a {0} sofreram uma calamidade inesperada!
+Jiu Han Brings Disaster
+Because of Jiu Han passing nearby, lands near the {0} have been damaged!
 
-Yihou Traz Desgraca
-Devido a passagem de Yi Yihou por perto, as mentes das pessoas proximas a {0} ficaram cheias de tristeza.
+Huang'er Brings Disaster
+Because of Jin Huang'er passing nearby, {1} people near the {0} suffered an unexpected calamity!
 
-Wei Qi Traz Desgraca
-Wei Qi transferiu todas as suas feridas para {1} proximo a {0}!
+Yihou Brings Disaster
+Because of Yi Yihou passing nearby, people's mind near the {0} was filled with grief and sorrow.
 
-Yi Xiang Traz Desgraca
-Devido a passagem de Yi Xiang por perto, os pontos de vista das pessoas proximas a {0} mudaram!
+Wei Qi Brings Disaster
+Wei Qi transferred all his injuries to {1} near the {0}!
 
-Xue Feng Traz Desgraca
-Devido a passagem de Xue Feng por perto, mais lacaios de Xiangshu apareceram proximos a {0}!
+Yi Xiang Brings Disaster
+Because of Yi Xiang passing nearby, standpoint of people near the {0} has changed!
 
-Shu Fang Traz Desgraca
-Devido a passagem de Shu Fang por perto, {1} pessoas proximas a {0} envelheceram!
+Xue Feng Brings Disaster
+Because of Xue Feng passing nearby, more Xiangshu Minions appeared near the {0}!
 
-Mo Nyu Salva os Sofredores
-{0} foi tratado por uma pessoa misteriosa que se autodenominava Mo Nyu em {1}.
+Shu Fang Brings Disaster
+Because of Shu Fang passing nearby, {1} people near the {0} has aged!
 
-Yaochang Salva os Sofredores
-{0} que caiu no caminho demoníaco de Xiangshu foi capturado em {1} por um homem misterioso chamado Dayue Yaochang e finalmente foi morto...
+Mo Nyu Saves the Suffering
+{0} was treated by a mysterious person who called herself Mo Nyu at {1}.
 
-Jiu Han Salva os Sofredores
-Terras proximas a {0} foram cuidadas por um homem misterioso que se autodenominava Jiu Han, restaurando todos os recursos locais.
+Yaochang Saves the Suffering
+{0} who fell into the demonic path of the Xiangshu was captured in the {1} by a mysterious man who called himself Dayue Yaochang and was finally put to death...
 
-Huang'er Salva os Sofredores
-{0} viu a fenix dourada em {1} e recebeu boa sorte.
+Jiu Han Saves the Suffering
+Lands near the {0} was under the care of a mysterious man who called himself Jiu Han, restoring all the nearby resources.
 
-Yihou Salva os Sofredores
-Pessoas proximas a {0} estao mais propensas a se apaixonar por outras apos encontrarem um homem misterioso que se autodenomina Yi Yihou.
+Huang'er Saves the Suffering
+{0} saw the golden phoenix at the {1} and received good fortune.
 
-Wei Qi Salva os Sofredores
-{0} foi resgatado por um homem misterioso que se autodenominava Wei Qi em {1} e transferiu os ferimentos para {2}.
+Yihou Saves the Suffering
+People near the {0} are more likely to fall in love with others after meeting a mysterious person who calls himself Yi Yihou.
 
-Yi Xiang Salva os Sofredores
-Pessoas proximas a {0} tiveram seus pontos de vista temporariamente mudados para Bondade por um homem misterioso que se autodenomina Yi Xiang.
+Wei Qi Saves the Suffering
+{0} was rescued by a mysterious man who called himself Wei Qi in the {1} and transferred the injuries to {2}.
 
-Xue Feng Salva os Sofredores
-{0} foi atacado por um homem misterioso que se autodenomina Xue Feng em {1}.
+Yi Xiang Saves the Suffering
+People near the {0} have their standpoint temporarily be changed to Kind by a mysterious man who calls himself Yi Xiang.
 
-Shu Fang Salva os Sofredores
-{0} encontrou um homem misterioso em {1} que se autodenomina Shu Fang, e entao pareceu rejuvenescer!
+Xue Feng Saves the Suffering
+{0} was attacked by a mysterious man calling himself Xue Feng at {1}.
 
-Desaparecimento Civil
-{0} se perdeu em {1} e foi posteriormente confirmado como morto.
+Shu Fang Saves the Suffering
+{0} stumbled upon a mysterious man in the {1} who called himself Shu Fang, and then seemed to get younger!
 
-Partida da Caravana
-A caravana <color=#ffea8d>{1}</color> em {0} partiu.
-A caravana <color=#ffea8d>{1}</color> em {0} partiu, com um total de {2} grupos.
-Coracao Partido e Desesperado
-{0} esta de coracao partido ao deixar a Vila Taiwu...
+Civilian Disappearance
+{0} was lost at {1} and was later confirmed dead.
 
-Desastre Natural Impiedoso
-Ha rumores de um terrível desastre natural em {0}, <color=#red> {1} </color> pessoas morreram e <color=#red> {2} </color> locais foram destruídos pelo desastre!
+Caravan Departure
+The <color=#ffea8d>{1}</color> caravan at {0} has set off.
+The <color=#ffea8d>{1}</color> caravan at {0} has set off, with a total of {2}.
+Heart Broken and Desperate
+{0} is feeling heart-broken leaving Taiwu Village...
 
-Última Despedida
-{0} vagamente, em um sonho, viu o falecido {1} apontando na direcao de {2}, como se tivesse muito a dizer a {0}, mas yin e yang estao separados, vida e morte sao diferentes, a voz nao se comunica. Apos um longo tempo, {1} apenas se afastou na direcao apontada.
+Ruthless Natural Disaster
+There are rumors of a terrible natural disaster in {0} <color=#red> {1} </color> people died and <color=#red> {2} </color> locations were destroyed by the disaster!
 
-Dissipacao de Poder
-O poder acumulado da técnica de {0} dissipou-se completamente...
+Last Farewell
+{0} vaguely in a dream, I saw the late {1} pointing in the direction of {2}, as if he had many words to tell {0}, but the yin and yang are separated, life and death are different, the voice can not communicate, after a long time, {1} only towards the direction pointed to drift away.
 
-Devastacao
-{0} em {1} desabou em ruínas, e um enorme demonio emergiu das ruínas da Vila Taiwu!
+Power Dissipation
+The accumulated power of {0} technique has completely dissipated...
 
-Bambu Misterioso
-Um bambu roxo apareceu proximo a Vila Taiwu, crescendo sobre uma pedra negra. Ninguém sabe de onde veio a pedra negra, nem de onde veio o bambu roxo...
+Devastation
+{0} in {1} collapsed into ruins, and a huge demon emerged from the ruins of Taiwu Village!
 
-Classico Precioso Apareceu
-{0} em {1} obteve o tesouro perdido {2}.
+Mysterious bamboo
+A purple bamboo appeared near Taiwu Village, growing on a black stone. No one knows where the black stone came from, and no one knows where the purple bamboo came from either...
 
-Fracasso da Alianca
-Devido a incapacidade das figuras-chave das varias seitas de se reunirem, o Torneio Mundial de Artes Marciais nao foi realizado com sucesso no final...
+Precious classic appeared
+{0} at {1} to obtain the long-lost {2} treasure trove.
 
-Preparativos para a Alianca
-Todos se unem com o objetivo comum de ajudar Taiwu! As seitas de jianghu estao ativamente se preparando para o Torneio Mundial de Artes Marciais...
+Alliance Failure
+Due to the fact that the key figures of various sects could not gather together, The World Martial Arts Tournament was not successfully held in the end...
 
-O Torneio Mundial de Artes Marciais
-O Torneio Mundial de Artes Marciais esta sendo realizado em {0} com grande entusiasmo, e figuras importantes de varias seitas estao se reunindo para participar do grandioso evento...
+Preparing for the Alliance
+All people unite with common goal of assisting Taiwu! Sects in jianghu are actively preparing for The World Martial Arts Tournament...
 
-Aikikawa Tira Vidas
-Em {0}, {1} pessoas morreram lutando contra os demonios e o caos...
+The World Martial Arts Tournament
+The World Martial Arts Tournament is being held in {0} with great fanfare, and important figures from various sects are gathering together to participate in the grand event...
 
-Notícias Obtidas
-Ouvi Novas Notícias: {0}
+Aikikawa Takes Life
+In {0} there are {1} people who died fighting against the demons and chaos...
 
-Segredos Obtidos
-Ouvi Novo Segredo: {0}
+Obtained News
+Heard New News: {0}
 
-Segredo Expirara em Breve
-O segredo expirara em: {0}...
+Obtained Secrets
+Heard New Secret: {0}
 
-Segredo Expirado
-Segredo Expirado: {0}...
+Secret will expire soon
+Secret will expire in: {0}...
 
-Pessoa Estranha Apareceu
-Chamando Taiwu: Uma pessoa estranha apareceu no mundo, todos estao chamando {0} para retornar a Vila Taiwu...
+Secret Expired
+Secret Expired: {0}...
 
-Retorno com Festival
-O tempo nao tem arrependimentos. Apos trinta anos de provacoes e tribulacoes, o bando de cha e cavalos surpreendentemente retornou a Vila Taiwu...
+Strange Person Appeared
+Calling Taiwu: Strange person appeared in the world, everyone is calling {0} to return to the Taiwu Village...
 
-Notícias Nebulosas
-Por algum motivo, as caravanas de cha perderam contato com a Vila Taiwu...
+Returning with a Festival
+Time has no regrets, after thirty years of trials and tribulations, the tea and horse gang has surprisingly returned to Taiwu Village...
 
-Retorno do Oeste
-A gangue de cha e cavalos retornou a Vila Taiwu sem incidentes...
+Hazy News
+For some reason, the Tea Caravans lost contact with Taiwu Village...
 
-Ganhar prestígio
-A medida que as notícias secretas de {0} se espalhavam, {0} ganhou {1} de prestígio...
+Return from the West
+The tea and horse gang returned to Taiwu Village without incident...
 
-Voce esta em {0} se preparando para uma partida prestigiada que reuniu convidados!
+Gain prestige
+As the secret news from {0} got spread, {0} gained {1} prestige...
 
-Competicao da Seita
-Rumores dizem que {0} esta organizando uma reuniao de discípulos para uma competicao de seitas...
+You are in {0} preparing for a prestigious match that has gathered guests!
 
-Ir para longe
-Ouvi dizer que {0} ha uma disputa entre seitas, e parece estar relacionada a "Taiwu"...
+Sect Competition
+Rumor has it that {0} is holding a disciples gathering for a sect competition...
 
-Tesouro da Natureza
-Apos ouvir sobre um desastre natural, {0} um tesouro estrangeiro desce...
+Go far away
+I heard that {0} there is a sect dispute, and the dispute seems to be related to "Taiwu"...
 
-Os Guerreiros Defendem o Caminho
-Ao ouvir que {0} ha pessoas de coracoes perdidos que caíram no caminho demoníaco de XiangShu, muitos justos no jianghu estao tentando livrar-se dessa praga!
+Treasure From Nature
+After hearing about a natural disaster, {0} a foreign treasure descends...
 
-O grupo de mendigos para ver e ouvir
-{0} em {1} em nome de {2} registrou {3} bisbilhotando para obter os insights... 
+The Warriors Defend the Way
+Hearing that {0} there are people with lost hearts who have fallen into the demonic path of the XiangShu, many righteous people in the jianghu are trying to get rid of this scourge!
 
-Receita do acampamento
-{0} coletou {3} receita recente de {4} prata em {1} em nome de {2}...
+The group of beggars to see and hear
+{0} in {1} on behalf of {2} recorded {3} poking around to get the insights...
 
-Parada na Montanha
-Em {2}, {0} recebeu {4} fornecido por {3} em nome de {1}...
+Camp revenue
+{0} collected {3} recent {4} silver money income in {1} behalf of {2}...
 
-O Mal Levanta o Tiranete
-{0} supervisiona {3} para proclamar prestígio em {1}, de modo que {2} ganhe {4} de prestígio...
+Mountain Halt
+In {2}, {0} received {4} provided by {3} on behalf of {1}...
 
-Reuniao da retidao para eliminar o mal
-{0} ajudou {3} em {1} a lidar com os viloes, de modo que {2} ganhou {4} de experiencia...
+The Evil One Raises the Bully
+{0} oversees {3} to proclaim prestige in {1}, so that {2} gains {4} prestige...
 
-Ajudando os necessitados
-{0} ajudou {3} em {1} a lidar com a disputa na selva, de modo que {2} ganhou {4}% de favor regional...
+Gathering of righteousness to eliminate evil
+{0} assisted {3} in {1} disposing of the villains, so that {2} gained {4} experience...
 
-Vagas na equipe
-{0} infelizmente morreu enquanto gerenciava {2} de {1} e nao pode mais continuar trabalhando para {3}...
+Helping those in need
+{0} assisted {3} in {1} dealing with the jungle strife, so that {2} gained {4}% regional favor...
 
-Resgate da Casa de Pedra
-Ouvi dizer que {1} que havia caído no caminho demoníaco foi enviado para {0} para ser aprisionado na Casa de Pedra...
-Ouvi dizer que muitos que caíram no caminho demoníaco foram enviados para a Casa de Pedra em {0} para serem aprisionados...
-A caravana esta perdida
-A caravana de cha partiu da Vila Taiwu, mas se perdeu, levando a uma queda na Reputacao...
+Staffing Vacancies
+{0} unfortunately died while managing {2} of {1} and is no longer able to continue working for {3}...
 
-Miragem
-A caravana de cha partiu da Vila Taiwu e testemunhou uma miragem, aumentando a Reputacao...
+Stone House Rescue
+I heard that {1} who had fallen into the devil's way had been sent to {0} to be imprisoned in the Stone House...
+I heard that many people who have fallen into the devil's way have been sent to the Stone House in {0} for imprisonment...
+The caravan is lost
+Tea Caravan has departed from Taiwu Village but got lost, leading to a decrease in Reputation...
 
-Descobrir Selvagem
-A caravana de cha partiu da Vila Taiwu e descobriu um selvagem, aumentando a Reputacao...
+Mirage
+Tea Caravan has departed from Taiwu Village and witnessed a mirage, leading to an increase in Reputation...
 
-Descobrir Plantas
-A caravana de cha partiu da Vila Taiwu e descobriu uma planta rara, aumentando a Reputacao...
+Discover Savage
+Tea Caravan has departed from Taiwu Village and discovered a savage, leading to an increase in Reputation...
 
-Descobrir Animais
-A caravana de cha partiu da Vila Taiwu e descobriu um animal raro, aumentando a Reputacao...
+Discover Plants
+Tea Caravan has departed from Taiwu Village and discovered a rare plant, leading to an increase in Reputation...
 
-Relatar de Volta
-A caravana de cha partiu da Vila Taiwu e relatou suas experiencias, aumentando a Reputacao...
+Discover Animals
+Tea Caravan has departed from Taiwu Village and discovered a rare animal, leading to an increase in Reputation...
 
-Descobrir um assentamento
-A caravana de cha partiu da Vila Taiwu e descobriu um assentamento, aumentando a Reputacao...
+Report Back
+Tea Caravan has departed from Taiwu Village and reported back about their experiences, leading to an increase in Reputation...
 
-Ler o clima
-A caravana de cha partiu da Vila Taiwu e encontrou um clima raramente visto, aumentando a Reputacao...
+Discover a settlement
+Tea Caravan has departed from Taiwu Village and discovered a settlement, leading to an increase in Reputation...
 
-Destrocos da Caravana
-A gangue de cha e cavalos da Vila Taiwu encontrou os restos da caravana e obteve alguns bens...
+Read the weather
+Tea Caravan has departed from Taiwu Village and ran into a rarely seen weather, leading to an increase in Reputation...
 
-Ajudar alguns viajantes
-As gangues de cha e cavalos da Vila Taiwu ajudaram os viajantes, resultando na reducao de suprimentos...
+Caravan Wreckage
+The tea and horse gang from Taiwu Village found the remains of the caravan and obtained some goods...
 
-Obter assistencia
-As gangues de cha e cavalos da Vila Taiwu receberam assistencia e aumentaram os suprimentos...
+Assist some travelers
+The tea and horse gangs from Taiwu Village aided the roadies, resulting in reduced supplies...
 
-Jogo Selvagem Ocasional
-As gangues de cha e cavalos da Vila Taiwu encontraram caca e aumentaram os suprimentos...
+Get Assistance
+The tea and horse gangs from Taiwu Village received assistance and increased supplies...
 
-Descobrir frutas da floresta
-A gangue de cha e cavalos da Vila Taiwu encontrou uma floresta frutífera e pode buscar suprimentos...
+Occasional Wild Game
+The tea and horse gangs from Taiwu Village found game and increased supplies...
 
-Descobrir uma vila
-A gangue de cha e cavalos da Vila Taiwu encontrou a vila e pode trocar suprimentos...
+Discover forest fruit
+The tea and horse gang from Taiwu Village found the fruit forest and could search for supplies...
 
-Encontrar uma caravana
-As gangues de cha e cavalos da Vila Taiwu encontram comerciantes na estrada e podem trocar suprimentos...
+Discover a village
+The tea and horse gang from Taiwu village found the village and could exchange supplies...
 
-Encontrar ladroes
-A gangue de cha e cavalos da Vila Taiwu encontrou ladroes e perdeu alguns de seus bens...
+Meet a caravan
+The tea and horse gangs from Taiwu Village meet merchants on the road and can exchange supplies...
 
-Bater em um buraco
-A gangue de cha e cavalos da Vila Taiwu teve um caminho acidentado e perdeu uma pequena quantidade de bens...
+Meet the thieves
+The tea and horse gang from Taiwu Village encountered thieves and lost some of their goods...
 
-Mau tempo
-As gangues de cha e cavalos da Vila Taiwu ficaram submersas, resultando na reducao de suprimentos...
+Hit a pothole
+The tea horse gang from Taiwu Village had a bumpy road and lost a small amount of goods...
 
-Falta de reabastecimento
-Chegou notícia de longe que a gangue de cha e cavalos da Vila Taiwu nao tinha mais suprimentos suficientes para completar a viagem e o grupo estava morrendo...
+Bad weather
+The tea and horse gangs from Taiwu Village were underwater, resulting in reduced supplies...
 
-No fim da vida
-{0} esta ficando cada vez mais magro e parece estar a beira da morte...
+Lack of resupply
+News came from afar that the tea and horse gang from Taiwu Village no longer had enough supplies to complete the trip and the group was dying out...
 
-Desaparecimento da Toca
-O {1} de {0} foi extinto...
+At the end of lifespan
+{0} is getting thinner and thinner, and seems to be running out of life...
 
-Notícia Secreta Pública
-Descontinuado
+Lair demise
+{0}'s {1} went extinct...
 
-Insight Repentino
-Enquanto lia {0}, inesperadamente teve um Insight Repentino...
+Secret News Public
+Deprecated
 
-Covil fortalecido
-Um Manual Lendario apareceu, levando pessoas a obsessao. O covil de fora-da-lei {0} parece ter se expandido enormemente devido a mudanca significativa na mente do possuidor do Manual Lendario, enquanto eles buscam desvendar os mistérios do livro, revelando alguns de seus segredos...
+Sudden Insight
+While reading {0}, unexpectedly experienced Sudden Insight...
 
-Inimigos fortes crescem
-Um Manual Lendario apareceu, levando pessoas a obsessao. Os fora-da-lei e guerreiros justos de {0} parecem ter aumentado significativamente sua forca devido a mudanca profunda na mente do possuidor do Manual Lendario, enquanto eles buscam desvendar os mistérios do livro, revelando alguns de seus segredos...
+Lair strong
+A Legendary Manual has appeared, leading people to become obsessed by it. The {0} outlaw's lair seems to have expanded greatly due to the significant change in the mind of Legendary Manual's possessor, as they search for insights into the mysteries of the book, revealing some of its secrets…
 
-Decadencia do inimigo forte
-Os rastros do Manual Lendario mudaram com o tempo. Desde que ele mudou de maos, os fora-da-lei e guerreiros justos de {0} nao parecem mais ser afetados pelo manual, retornando a forca normal.
+Strong enemies grow
+A Legendary Manual has appeared, leading people to become obsessed by it. The outlaws and righteous warriors of {0} seem to have significantly increased their strength due to the profound change in the mind of Legendary Manual's possessor as they search for insights into the mysteries of the book, revealing some of its secrets…
 
-fase pivot furiosa
-Obcecado pelo Manual Lendario, alguém eventualmente cai no mal. Devido a completa perda de sanidade, nao apenas perderam o manual, mas também caíram no reino da Pedra Negra, deixando os segredos do manual completamente expostos ao Xiangshu...
+Strong enemy decay
+The traces of the Legendary Manual have shifted over time. Since it has changed hands, the outlaws and righteous warriors of {0} no longer seem to be affected by the manual, their strength returning to normal
 
-LM·Enfeiticado
-{0} ficou intoxicado pelo Manual Lendario {2}, bastou um pensamento errado para se tornar Enfeiticado em {1}...
+phase pivot raging
+Obsessed with the Legendary Manual, one eventually falls into evil. Due to the person completely losing their mind, not only did they lose the manual, but they also fell into the realm of Black Stone, leaving the secrets of the manual entirely exposed to Xiangshu...
 
-Possuído por um Livro
-{0} ficou intoxicado pelo Manual Lendario {2}, uma divindade desviou seu coracao e espírito para o mal, e eles foram Possuídos em {1}...
+LM·Enthralled
+{0} was intoxicated by the {2} Legendary Manual, it only took one wrong thought to become Enthralled in {1}...
 
-Caídos
-{0} ficou profundamente intoxicado pelo Manual Lendario {2}, incapaz de retornar de sua obsessao. Ficou enlouquecido e, por fim, foi devorado pelo Xiangshu em {1}, transformando-se em um demonio que traz caos a humanidade...
+Possessed by a Book
+{0} was intoxicated by the {2} Legendary Manual, a deity swayed their heart and spirit towards evil, and they became Possessed in {1}...
 
-Fluxo do Livro Curioso
-O portador {0} de {2} perdeu {2} em {1}, fazendo com que o Manual Lendario se perdesse no mundo, seu paradeiro desconhecido...
+Fallen Ones
+{0} was deeply intoxicated by the {2} Legendary Manual, unable to return from their obsession. They became crazed and ultimately devoured by Xiangshu in {1}, transforming into a demon that wreaks havoc on humanity…
 
-Manual Lendario aparece
-Os rastros de {1} apareceram, causando a reuniao de inúmeros especialistas das faccoes justas e malignas em {0}, todos com o proposito de capturar o Manual Lendario que caiu no mundo...
+Curious Book Flow
+{2}'s holder {0} has lost {2} in {1}, causing Legendary Manual to get lost in the world, its whereabouts unknown...
 
-Abandonado por {0}, os rastros de {2} ressurgiram, causando a reuniao de inúmeros especialistas das faccoes justas e malignas em {1}, todos com o proposito de capturar o Manual Lendario que ficou sem dono...
+Legendary Manual appears
+{1}'s traces have appeared, causing numerous experts from both the righteous and evil factions to gather around in {0}, all for the purpose of seizing the Legendary Manual that has fallen into the world...
 
-Devido a morte de {0}, os rastros de {2} ressurgiram, causando a reuniao de inúmeros especialistas das faccoes justas e malignas em {1}, todos com o proposito de capturar o Manual Lendario que ficou sem dono...
+Abandoned by {0}, {2}'s traces resurfaced, causing numerous experts from both the righteous and evil factions to gather around in {1}, all for the purpose of seizing the Legendary Manual that became ownerless...
 
-Porque {0} foi Possuído, os rastros de {2} ressurgiram, causando a reuniao de inúmeros especialistas das faccoes justas e malignas em {1}, todos com o proposito de capturar o Manual Lendario que ficou sem dono...
+Because of {0}'s death, {2}'s traces resurfaced, causing numerous experts from both the righteous and evil factions to gather around in {1}, all for the purpose of seizing the Legendary Manual that became ownerless...
 
-O Manual Lendario apareceu, mas seu paradeiro é difícil de rastrear. Rumores dizem que {0} em {1} obteve um {2} Manual Lendario ha muito perdido e esta prestes a explorar seus mistérios...
+Because {0} got Possessed, {2}'s traces resurfaced, causing numerous experts from both the righteous and evil factions to gather around in {1}, all for the purpose of seizing the Legendary Manual that became ownerless...
 
-Desafio do Livro Curioso
-{0} desafiou {2} para ganhar {3} em suas maos em {1}.
+The Legendary Manual has appeared, but its whereabouts are hard to trace. It's rumored that {0} in {1} obtained a long-lost {2} Legendary Manual and is about to explore its mysteries…
 
-Capturar o Livro Curioso
-{0} tomou {3} de {2} em {1}.
+Odd Book Challenge
+{0} challenged {2} to win {3} in its hand at {1}.
 
-partir sem se despedir
-{0} deixou uma carta com apenas 16 palavras: "O Manual Lendario tem sua propria vontade, meu coracao esta inquieto, partirei por enquanto..." antes de partir...
+Capture the Curious Book
+{0} took {3} from {2} in {1}
 
-Comemorando Aniversarios
-{0} chegou, o que coincide com o mes de nascimento de {1}, talvez seja hora de comemorar...
+leave without saying goodbye
+{0} left a letter with only 16 words on it "Legendary Manual has its own will, my heart is difficult to calm, I'll leave for now..." before leaving...
 
-Descartar Veneno
-{0} esta sofrendo de Tendao Rasgado, o veneno invadiu o corpo, e a dor é insuportavel. Em {1}, {2} foi descartado da bolsa...
+Celebrating Birthdays
+{0} has arrived, which coincides with the birth month of {1}, perhaps it's time to celebrate…
 
-Veneno Feroz Prejudica Pessoas
-{0} esta sofrendo de Sangue Corrompido, e a Necrotoxina nele se espalha para outros ao redor de {1}...
+Poison Discard
+{0} is suffering from Mangled Tendon, the poison invaded the body, and the pain is unbearable. At {1}, {2} in the bag was discarded...
 
-Desfiguracao por Veneno
-{0} esta sofrendo de Úlceras Osseas, sua aparencia foi devastada, e agora estao desfigurados...
+Ferocious Poison Harms People
+{0} is suffering from Corrupted Blood, and the Necrotoxin in it spreads to others around {1}...
 
-Veneno Feroz Confunde Pessoas
-{0} esta sofrendo de Sofrimento Amargo, e a Oneirotoxina nele se espalha para outros ao redor de {1}...
+Poison Disfiguration
+{0} is suffering from Bone Ulcers, their appearance has been devastated, and now they are disfigured...
 
-Veneno Enlouquecedor
-{0} esta sofrendo de Coracao Ardente, perdendo sua sanidade, causando estragos em {1}, e até atacando {2}...
+Ferocious Poison Confuses People
+{0} is suffering from Bitter Suffering, and the Oneirotoxin in it spreads to others around {1}...
 
-{0} esta sofrendo de Coracao Ardente, perdeu a sanidade, causando destruicao em {1}, e até envenenou {2}...
+Poison Mad
+{0} is suffering from Burning Heart, losing their mind, wrecking havoc in {1}, and even attacking {2}...
 
-{0} esta sofrendo de Coracao Ardente, perdeu a sanidade, causando destruicao em {1}, e até feriu {2} em segredo...
+{0} is suffering from Burning Heart, losing their mind, wrecking havoc in {1}, and even poisoning {2}...
 
-{0} esta sofrendo de Coracao Ardente, perdeu a sanidade, causando destruicao em {1}, e até humilhou {2}...
+{0} is suffering from Burning Heart, losing their mind, wrecking havoc in {1}, and even secretly harming {2}...
 
-{0} esta sofrendo de Coracao Ardente, perdeu a sanidade, causando destruicao em {1}, e tentou atacar {2}, mas falhou...
+{0} is suffering from Burning Heart, losing their mind, wrecking havoc in {1}, and even humiliated {2}...
 
-{0} esta sofrendo de Coracao Ardente, perdeu a sanidade, causando destruicao em {1}, e tentou envenenar {2}, mas falhou...
+{0} is suffering from Burning Heart, lost their mind, wrecked havoc in {1}, and even tried attacking {2}, but failed...
 
-{0} esta sofrendo de Coracao Ardente, perdeu a sanidade, causando destruicao em {1}, e tentou ferir {2} em segredo, mas falhou...
+{0} is suffering from Burning Heart, lost their mind, wrecked havoc in {1}, and even tried poisoning {2}, but failed...
 
-{0} esta sofrendo de Coracao Ardente, perdeu a sanidade, causando destruicao em {1}, e tentou humilhar {2}, mas falhou...
+{0} is suffering from Burning Heart, lost their mind, wrecked havoc in {1}, and even tried to secretly hurt {2}, but failed...
 
-Ji Xi Fere Pessoas
-Ji Xi vagou até {0} e bebeu sangue humano devido a fome, resultando na morte de {1} pessoas...
+{0} is suffering from Burning Heart, lost their mind, wrecked havoc in {1}, and even tried humiliating {2}, but failed...
 
-Absorvendo Natureza Demoníaca
+Ji Xi Hurts People
+Ji Xi wandered to {0} and drank human blood due to hunger, resulting in death of {1} people...
 
-Arte Suprema de Rosto de Leao
-Ouvi rumores de que o Cla Rosto de Leao parece estar organizando uma competicao de "Arte Suprema Secreta"...
+Absorbing Demonic Nature
 
-Despedida de Ji Xi
-Os vivos sao passageiros, e os mortos sao regressos. Ji Xi parece entender a partida dos falecidos, nao se preocupa com seu corpo e ninguém sabe para onde ela foi...
+Ultimate Art of Lion Face
+I've heard rumors that Lion-Face Clan seems to be holding a "Secret Ultimate Art" competition...
 
-Vencedor do Torneio Mundial
-{0} é o vencedor do Torneio Mundial de Artes Marciais deste ano!
+Ji Xi's Farewell
+The living are passers-by, and the dead are returnees. Ji Xi seems to know about the passing of the deceased, and she has no worries about her body, and she doesn't know where she has gone...
 
-Confrades Matando-se
-Ouvi dizer que {0} da Seita Emei, por algum motivo, entrou em uma grande luta com um companheiro da seita em {1}...
+World Tournament's Winner
+{0} is the winner of this year's World Martial Arts Tournament!
 
-Retorno do Macaco Branco
-O macaco branco que busca explorar artes marciais parece ter retornado ao seu antigo local. Voce pode ir ao sopé da Seita Emei para explorar...
+Fellow clansmen killing each other
+I heard that Emei Sect's {0} for some reason got into a big fight with a fellow sect member at {1}...
 
-Apos despertar do sonho ao fim da noite, as coisas permanecem, mas as pessoas se foram. Desde que a alma do velho mudou, Ji Xi parece ter sentido isso, mas ninguém sabe para onde ele foi...
+Return of the White Ape
+The white ape who is waiting to explore martial arts seems to have returned to his old place. You can go to the foot of the Emei Sect to explore...
 
-Ji Xi ao Resgate
-{0} esta fraco. Ji Xi finalmente nao conseguiu suportar ve-lo assim, entao o resgatou, restaurou sua Saúde e voltou a ser crianca...
+After waking up from the dream at the end of the night, things are right and people are no longer, and since the soul of the old man has changed, Ji Xi seems to have sensed it, but she doesn't know where he has gone...
 
-Ji Xi Esta Desaparecida
-Antes disso, Ji Ling estava desaparecida e ainda nao retornou. {0} nao conseguiu encontra-la em lugar algum, entao sabe que ela partiu sem se despedir, e ninguém sabe para onde ela foi...
+Ji Xi to the Rescue
+{0} is weak. Ji Xi finally couldn't bear to see him, so she rescued him and restored his Health, and turned into a child again...
 
-Caldeirao Antigo Cura Pessoas
-O Caldeirao Antigo da Família Liao foi para {0} conforme ordenado e curou Lesoes Internas e Externas de todos os personagens daquela area...
+Ji Xi is missing
+Before that, Ji Ling was nowhere to be found, and she has not yet returned. {0} can't find her everywhere, so I know she has left without saying goodbye, and I don't know where she went...
 
-O Caldeirao Antigo da Família Liao foi para {0} conforme ordenado e removeu os Venenos de todos os personagens daquela area...
+Ancient Cauldron Treats People
+Liao Family's Ancient Cauldron went to {0} according to the order, and healed Internal and External Injuries of all characters in that area...
 
-O Caldeirao Antigo da Família Liao foi para {0} conforme ordenado e eliminou o Desarranjo de Qi de todos os personagens daquela area...
+Liao Family's Ancient Cauldron went to {0} according to the order, and detoxed Poisons of all characters in that area...
 
-O Caldeirao Antigo da Família Liao foi para {0} conforme ordenado e restaurou a Saúde de todos os personagens daquela area...
+Liao Family's Ancient Cauldron went to {0} according to the order, and eliminated Qi Disorder of all characters in that area...
 
+Liao Family's Ancient Cauldron went to {0} according to the order, and restored Health of all characters in that area...
 
-Aldeoes Feridos
-Durante a semana da Arvore Divina, os fantasmas foram ferozes, e os aldeoes de Taiwu defenderam a Arvore Divina com suas vidas. {0} aldeoes ficaram feridos enquanto defendiam a Arvore Divina este mes!
 
-Aldeoes Mortos
-Durante a semana da Arvore Divina, os fantasmas foram ferozes, e os aldeoes de Taiwu defenderam a Arvore Divina com suas vidas. {0} aldeoes em {1} morreram enquanto defendiam a Arvore Divina!
+Villagers Injured
+During the week of the Divine Tree, the ghosts are ferocious, and Taiwu villagers defended Divine Tree with their lives. {0} villagers were injured while defending Divine Tree this month!
 
-Varredura de Monstros
-{0} em {1} derrotou {2}, eliminando o mal do jianghu...
+Villagers Died
+During the week of the Divine Tree, the ghosts are ferocious, and Taiwu villagers defended Divine Tree with their lives. {0} villagers in {1} died while defending Divine Tree!
 
-Ataque de Monstro
-{0} em {1} sofreu um ataque surpresa de {2}, ficando gravemente ferido no processo...
+Sweep Monsters
+{0} at {1} defeated {2}, getting rid of evil in jianghu...
 
-Derrotado pelos Justos
-{0} em {1} foi derrotado por {2}, ficando com o sangue dos justos em suas maos...
+Monster attacks People
+{0} at {1} received a surprise attack from {2}, receiving heavy wounds in process... 
 
-Punicao dos Justos
-{0} em {1} foi punido por {2}, ficando gravemente ferido no processo...
+Defeated Righteous
+{0} at {1} defeated {2}, getting the blood of the righteous on their hands...
 
-Dominacao de um Animal
-{0} em {1} dominou um {2} e o baniu de volta a natureza...
+Righteous Punishment
+{0} at {1} was punished by {2}, receiving heavy wounds in process... 
 
-Ataque de Animal
-{0} em {1} foi atacado por {2}, quase encontrando a morte prematura...
+Overpower an Animal
+{0} at {1} overpowered a {2}, and banished it back to the wilderness...
 
-Morte em um Covil
-Ouvi dizer que {0} em {1} foi capturado por {2} e acabou morrendo la...
+Animal Attack
+{0} at {1} was attacked by {2}, almost meeting early death...
 
+Death in a Lair
+Heard that {0} in {1} was captured by {2}, and eventually died there...
 
-Texto Temporario Ícone Temporario: Ouvi dizer que os Tres Demonios absorveram a demonizacao de {0} e foram fortalecidos
 
+Temporary Text Temporary Icon: I heard that the Three Devils have absorbed the demonization of {0} and have been strengthened
 
-Reentrando na Reencarnacao
-Como {0} perdeu sua carne e sangue em {1}, {2}, que originalmente iria se reencarnar aqui, nao teve para onde ir e precisou encontrar outro lugar para reencarnar...
 
-Como {0} sofreu um acidente durante o parto de {1}, {2}, que originalmente iria se reencarnar aqui, nao teve para onde ir e precisou encontrar outro lugar para reencarnar...
+Re-entering Reincarnation
+Because {0} lost their flesh and blood in {1}, {2}, who was originally going to be reincarnated here, had nowhere to go and had to find someone else to reincarnate again...
 
-Como {0} morreu em {1}, {2}, que originalmente iria se reencarnar aqui, nao teve para onde ir e precisou encontrar outro lugar para reencarnar...
+Because {0} had an accident during {1}'s childbirth, {2}, who was originally going to be reincarnated here, had nowhere to go and had to find someone else to reincarnate again...
 
-Promessa da Pequena Rocha
-Shi Houjiu parece ter retornado ao seu antigo lugar. Voce pode explorar ao pé da Seita Emei...
+Because {0} died in {1}, {2}, who was originally going to be reincarnated here, had nowhere to go and had to find someone else to reincarnate again...
 
-Tomando a Emei
-A "disputa de artes marciais autenticas" da Seita Emei chegou a um momento crítico. Se ignorada, pode estar condenada...
+Little Rock Promise
+Shi Houjiu seems to have returned to his old place. You can go to the foot of the Emei Sect to explore...
 
-Fugiu do Covil
-Soube que {0} foi aprisionado por {2} em {1}, mas finalmente conseguiu escapar da morte, salvo do desastre...
+Seizing Emei
+The Emei Sect's "authentic martial arts dispute" has reached a critical moment. If ignored, they might be doomed...
 
-Soube que {0} foi aprisionado por {2} em {1}. Felizmente, foi resgatado por {3} e finalmente ficou fora de perigo...
+Escaped from Lair
+Heard that {0} was trapped by {2} in {1}, and finally managed to come back from death's door, saved from disaster...
 
-Empobrecimento
-A Cultura local de {0} foi reduzida, suas indústrias empobrecidas, e nao é mais capaz de fornecer assistencia de recursos {2} a {1}...
+Heard that {0} was trapped by {2} in {1}. Fortunately, he was rescued by {3} and was finally out of danger...
 
-Primeira Aparicao do Dragao Divino
-Em {0}, um fenomeno {1} se manifesta no reino mortal, com nuvens subindo e neblina se espalhando, o poder divino se expandindo, causando mudancas no terreno ao redor...
+Destitution
+{0}'s local Culture has been reduced, it's industries impoverished, and it is no longer able to provide {1} with {2} resource assistance...
 
-Estanque Empobrecido
-Em {0}, chegou a notícia do Estanque Jiao: Devido a falta de recursos, {1} nao esta mais crescendo...
+Divine Dragon's First Appearance
+In {0}, there is a {1} phenomenon manifesting in the mortal realm, clouds rising and mist spreading, divine power extending, causing changes in the surrounding terrain...
 
-Jiao Crescente Resiste
-Em {0}, chegou a notícia do Estanque Jiao: Um Jiao nao foi feito para ser confinado. Hoje, {1} finalmente resistiu a domesticacao, escapando do Estanque Jiao e se ocultando perto da Vila Taiwu...
+Jiao Pond Impoverished
+In {0}, received news from Jiao Pond: Due to the lack of resources in the Jiao Pond, {1} is no longer growing...
 
-Jiao Crescente Quebra a Casca
-Em {0}, chegou a notícia do Estanque Jiao: Apos meses de cuidado meticuloso, {1} finalmente rompeu sua casca, rugindo nas nuvens e dancando com as ondas, exibindo uma postura adoravel...
+Growing Jiao Resists
+In {0}, received news from Jiao Pond: A Jiao is not meant to be confined to a pond. Today, {1} has finally resisted domestication, escaping from the Jiao Pond and lurking near the Taiwu Village...
 
-Jiao Crescente Matura
-Em {0}, chegou a notícia do Estanque Jiao: Apos meses de cuidado diligente, {1} finalmente cresceu plenamente, rugindo nas nuvens e dancando com as ondas, exibindo uma postura majestosa e heroica...
+Growing Jiao Breaks Shell
+In {0}, received news from Jiao Pond: After months of careful nurturing, {1} has finally hatched from its shell, roaring into the clouds and dancing with the waves, displaying an adorable demeanor...
 
-Música de Qiuniu
-{2} compos uma música para {0} em {1}, tocando com emocao profunda. Os transeuntes pararam para ouvir...
+Growing Jiao Matures
+In {0}, received news from Jiao Pond: After months of diligent care, {1} has finally grown into its own, roaring into the clouds and dancing with the waves, displaying a majestic and heroic posture...
 
-Vinganca de Yazi
-{2} em {1} atacou {0}...
+Qiuniu's Music
+{2} composed a song for {0} in {1}, playing it with deep emotions. Passersby stopped in their tracks to listen...
 
-Relatorio Secreto de Chaofeng
-Soube do segredo de {1} através de {0}...
+Yazi's Revenge
+{2} in {1} attacked {0}...
 
-Som Grandioso de Pulao
-Obteve {1} de {0}...
+Chaofeng's Secret Report
+Learned {1}'s secret from {0}...
 
-Diversao de Suanni
-{1} em {0} soprou uma fumaca suave e decifrou o capítulo {3} de {2}...
+Pulao's Huge Sound
+Obtained {1} from {0}'s mouth...
 
-Caca ao Tesouro de Baxia
-{2} descobriu um tesouro em {1} e o trouxe de volta, escavando-o para {0}...
+Suanni's Amusement
+{1} in {0} blew gentle smoke, and deciphered {2}'s {3} chapter...
 
-Olhar Pesado de Bian
-Por causa do olhar de {1}, {0} confessou algo que havia feito antes...
+Baxia's Treasure Hunt
+{2} discovers a treasure in {1} and returns with it, having excavated it for {0}...
 
-Danca de Fuxi
-{1} em {0} teve uma inspiracao repentina e decifrou o capítulo {3} de {2}...
+Bian's Heavy Gaze
+Because of {1}'s gaze, {0} confessed something they had done before...
 
-Apoio Interno de Chiwen
-Por brincar livremente com {1} em {0}, a energia interna foi restaurada...
+Fuxi's Dance
+{1} in {0} had a flash of inspiration, and deciphered {2}'s {3} chapter...
 
-Ovo de Jiao Posto
-Em {0}, chegou a notícia do Estanque Jiao: Enquanto o sol e a lua giram, todas as coisas prosperam. Hoje, {1} e {2} puseram um Ovo de Jiao no Estanque Jiao...
+Chiwen's Internal Support
+Because of playing freely with {1} in {0}, internal energy has been restored...
 
-Pensamento Oculto de Jiao
-Em {0}, chegou a notícia do Estanque Jiao: {1} nao quer treinar e até mostra sinais de tentar escapar do Estanque Jiao. Talvez seja uma boa ideia tentar acalma-lo um pouco...
+Jiao Egg Laid
+In {0}, received news from Jiao Pond: As the sun and moon revolve, all things flourish. On this day, {1} and {2} have laid a Jiao Egg in the Jiao Pond...
 
-Morreu de Velhice
-A vida de {0} chegou ao fim, falecendo pacificamente em {1}...
+Jiao's Concealed Thought
+In {0}, received news from Jiao Pond: {1} doesn't want to train, and even shows signs of trying to escape the Jiao Pond. Perhaps it would be a good idea to try appeasing it in a bit...
 
-Vida Encerrada
-{0} esgotou sua Saúde e partiu deste mundo em {1}...
+Died of old age
+{0}'s lifespan has come to an end, peacefully passing away in {1}...
 
-Morte Violenta
-{0} teve sua vida tirada por {2} em {1}...
+Lifespan cut short
+{0} exhausted their Health and departed from this world in {1}...
 
-Espírito Maligno Envolvendo o Corpo
-{0} esta livre de doencas, mas sente-se sonolento todos os dias, com fraqueza nos membros e ombros pesando como mil quilos...
+Violent Death
+{0} had their life taken by {2} in {1}...
 
-Sombra Fantasma Acompanhando
-{0} esta livre de doencas, mas sente-se sonolento todos os dias, com fraqueza nos membros. Parece que a alma de um monge eminente o acompanha, lancando uma sombra que se recusa a se dissipar...
+Evil Spirit Wrapping Body
+{0} is free from illness, yet feels drowsy every day, with weakness in limbs and shoulders as heavy as a thousand pounds...
 
-Vajrayana Demoníaco
-A Seita Vajrayana esta cacando e saqueando monges das Regioes Ocidentais sem piedade. Qualquer um que abrigue monges ou esconda seu paradeiro é capturado e morto. As Regioes Ocidentais estao em caos, e o medo domina os coracoes das pessoas...
+Ghost Shadow Follows
+{0} is free from illness, yet feels drowsy every day, with weakness in limbs. It seems that the soul of the eminent monk accompanies them, casting a shadow that refuses to dissipate...
 
-Adorando Buda
-Enquanto os rumores se espalham entre as pessoas, a reputacao dos monges eminentes das Regioes Ocidentais tornou-se amplamente conhecida, e a admiracao por eles aumenta a cada dia...
+Demonic Vajrayana
+The Vajrayana Sect is ruthlessly hunting down and plundering monks from the Western Regions. Anyone who harbors monks or conceals their whereabouts is captured and killed. The Western Regions are engulfed in chaos, and fear grips the hearts of the people...
 
-Monge Eminente Propaga o Budismo
-Os monges eminentes das Regioes Ocidentais, gratos pela bondade de {0}, montaram um altar de pregacao em {1}, espalhando os ensinamentos e promovendo os atos virtuosos de {0}...
+Worshiping Buddha
+As rumors spread among the people, the reputation of the Western Regions' eminent monks has become widely known and admiration for them is increasing day by day...
 
-Anfitriao Morreu
-Como o anfitriao de {0} morreu em {1}, ele escapou do corpo de {2} e adormeceu no túmulo. Talvez voce possa desenterra-lo...
+Eminent Monk Propagates Buddhism
+The eminent monks of the Western Regions, being grateful for {0}'s kindness, have set up a preaching altar at {1}, spreading the teachings and promoting {0}'s virtuous deeds...
 
-Rei Gu Morreu
-O {1} no corpo de {0} chegou ao fim de sua vida e morreu, tendo seus restos digeridos pelos cinco orgaos internos, prejudicando os atributos do anfitriao...
+Host Died
+Because {0}'s host has died in the {1}, it escaped from the {2}'s body and fell asleep in the grave. Perhaps you could dig it up...
 
-O {1} no corpo de {0} chegou ao fim de sua vida e morreu...
+Gu King Died
+The {1} in {0}'s body reached the end of its lifespan and died, causing its remains to be digested by the five internal organs, damaging host's traits...
 
-Monge Desconhecido Fica Famoso
-Um monge desconhecido interpretou mal as escrituras e saiu pregando por todos os lados, inesperadamente ganhando muitos seguidores. Nao apenas sua reputacao disparou, mas ele também coletou uma quantia consideravel de ofertas e doacoes...
+The {1} in {0}'s body reached the end of its lifespan and died...
 
-Alma Divina
-Um monge usando vestes emprestadas apareceu na Vila Taiwu, vagando perto da plataforma de reencarnacao, e desde entao passou a residir na vila...
+Dull Monk Becomes Famous
+An unknown monk misinterpreted the scriptures and set out to preach everywhere, unexpectedly gaining a large following. Not only did his reputation soar, but he also collected a considerable amount of offerings and donations...
 
-Veneno do Coracao dos Cinco Santos
-{0} praticou o Veneno do Coracao dos Cinco Santos, abrigando uma tristeza profunda, que acabou permitindo a infiltracao da toxicidade no corpo...
+Divine Soul
+A monk wearing borrowed robes appeared in Taiwu Village, wandering back and forth near the reincarnation platform, and has since taken up residence in the village...
 
-Povo Comum Foge
-Os moradores que sofrem na Montanha Kunlun, incapazes de suportar a opressao da Seita Vajrayana, fugiram um apos o outro, profundamente gratos pela bondade de {0} em aliviar seu sofrimento...
+Five Saints Heart Poison
+{0} practiced the Five Saints Heart Poison, harboring deep sorrow within, ultimately leading to the infiltration of toxicity into the body...
 
-Competicao das Tres Seitas
-Depois de muitos anos, a Competicao das Tres Seitas finalmente sera realizada novamente em Ranshan...
+Common People Flee
+The villagers suffering in Kunlun Mountain, unable to bear the oppression of the Vajrayana Sect, have fled one after another, all deeply grateful for {0}'s kindness in relieving their suffering...
 
-Abandonou o Manual Lendario
-{0} e Huaju discutiram sobre o passado e o presente, conversando sobre diversos assuntos e definindo grandes ambicoes. Eles tomaram a decisao de abandonar {1} em {2}, nao mais se apegando a ele. Como resultado, o Manual Lendario voltou ao mundo, com seu paradeiro desconhecido...
+Three Sects Competition
+After many years, the Three Sects Competition is finally held again in the Ranshan...
 
-{0} seguiu Xuanzhi, atravessando montanhas e rios, mergulhando na poesia, vinho e no mundo dos herois. Logo depois, eles abandonaram {1} em {2}, nao mais se apegando a ele. Como resultado, o Manual Lendario voltou ao mundo, com seu paradeiro desconhecido...
+Gave up Legendary Manual
+{0} and Huaju discussed past and present, talking idly about various matters and setting great ambitions. They made a grand decision to abandon {1} in {2}, no longer obsessing over it. As a result, the Legendary Manual once again fell into the world, its whereabouts unknown...
 
-O coracao de {0} estava completamente encantado, devotado inteiramente a Yingjiao, arriscando tudo por ela. Por acaso, eles abandonaram {1} em {2}, nao mais se apegando a ele. Como resultado, o Manual Lendario voltou ao mundo, com seu paradeiro desconhecido...
+{0} followed Xuanzhi galloping across the mountains and rivers, indulging in poetry, wine, and the world of heroes. Immediately after, they abandoned {1} in {2}, no longer obsessing over it. As a result, the Legendary Manual once again fell into the world, its whereabouts unknown...
 
-{0} passou varios dias com Huaju, mas nao largava {1}. Huaju teve que retornar de maos vazias em pouco tempo...
+{0}'s heart was completely infatuated, and devoted solely to Yingjiao, risking life and limb for her. By chance, they abandoned {1} in {2}, no longer obsessing over it. As a result, the Legendary Manual once again fell into the world, its whereabouts unknown...
 
-{0} passou varios dias com Xuanzhi, mas nao largava {1}. Xuanzhi teve que retornar de maos vazias em pouco tempo...
+{0} spent several days with Huaju, but wouldn't let go of {1}. Huaju had to return empty-handed before long…
 
-{0} passou varios dias com Yingjiao, mas nao largava {1}. Yingjiao teve que retornar de maos vazias em pouco tempo...
+{0} spent several days with Xuanzhi, but wouldn't let go of {1}. Xuanzhi had to return empty-handed before long…
 
-Huaju notou que {0} nao estava mais obcecado por {1} e, apos uma breve conversa, voltou...
+{0} spent several days with Yingjiao, but wouldn't let go of {1}. Yingjiao had to return empty-handed before long…
 
-Xuanzhi notou que {0} nao estava mais obcecado por {1} e, apos uma breve conversa, voltou...
+Huaju noticed that {0} wasn't obsessed with {1} anymore, and after a little chat, returned back...
 
-Yingjiao notou que {0} nao estava mais obcecado por {1} e, apos uma breve conversa, voltou...
+Xuanzhi noticed that {0} wasn't obsessed with {1} anymore, and after a little chat, returned back...
 
-Huaju notou que o paradeiro de {0} era desconhecido e nao teve escolha senao voltar...
+Yingjiao noticed that {0} wasn't obsessed with {1} anymore, and after a little chat, returned back...
 
-Xuanzhi notou que o paradeiro de {0} era desconhecido e nao teve escolha senao voltar...
+Huaju noticed that {0}'s whereabouts were unknown, so he had no choice but to return...
 
-Yingjiao notou que o paradeiro de {0} era desconhecido e nao teve escolha senao voltar...
+Xuanzhi noticed that {0}'s whereabouts were unknown, so he had no choice but to return...
 
-Oito Vidas e Oito Mortes
-Devido ao efeito da técnica Oito Vidas e Oito Mortes, a Saúde de {0} foi restaurada...
+Yingjiao noticed that {0}'s whereabouts were unknown, so she had no choice but to return...
 
-Devido ao efeito da técnica Oito Vidas e Oito Mortes, a Saúde de {0} foi prejudicada...
+Eight Lives and Eight Deaths
+Due to the effect of the Eight Lives and Eight Deaths technique, {0}'s Health was restored...
 
-Arrancando Coracoes
-Diz-se que crimes violentos estao ocorrendo frequentemente em varias regioes. O culpado estaria ativo em {0}, atacando vítimas e tentando mata-las enquanto rouba seus coracoes, deixando todos aterrorizados...
+Due to the effect of the Eight Lives and Eight Deaths technique, {0}'s Health was damaged...
 
-Destruindo Mentes
-Rumores dizem que acontecimentos estranhos estao ocorrendo em varias regioes. Ninguém sabe qual monstro maligno esta causando esses incidentes, destruindo mentes em {0}, deixando todos aterrorizados...
+Heart Ripping
+It's rumored that violent crimes are occurring frequently across various regions. The culprit is said to be active in {0}, targeting victims and attempting to kill them while stealing their hearts, causing everyone to be living in fear...
 
-Ataque de Aguia Gigante
-Recentemente, os céus proximos a Vila Taiwu estao cheios de aguias planando. Parece que passaros ferozes estao causando problemas repetidamente, ferindo a Coruja Negra...
+Mind Destroying
+It's rumored that strange occurrences are happening across various regions. No one knows what evil monster is causing these incidents, as they have been destroying people's minds in {0}, causing everyone to be living in fear...
 
-Uivos de Feras
-Recentemente, perto da Vila Taiwu, é possível ouvir uivos assustadores e gritos fantasmagoricos. Parece que ha feras ferozes vagando por la, assustando os Cervos Brancos e os deixando vivendo em constante medo…
+Large Eagle Attack
+Recently, the skies near Taiwu Village have been filled with soaring eagles. It seems there are fierce birds repeatedly circling and causing trouble for the Black Owl, who have suffered injuries…
 
-Doenca em Todos os Lugares
-De repente, uma estranha fumaca negra apareceu em {0}. Dizem que qualquer um que entrar em contato com a fumaca negra logo sofrera de uma misteriosa doenca de loucura. O Vale das Cem Flores soube disso e ja enviou seus discípulos para investigar e fornecer tratamento médico...
+Beasts Howling
+Recently, near Taiwu Village, one can often hear eerie howling and ghostly screams. It appears there are fierce beasts wandering about, causing the White Deer to be frightened, leading them to live in constant fear…
 
-Invasao de Qi da Morte
-De repente, uma fumaca negra densa e pesada apareceu em {0}. Dizem que qualquer um que entrar em contato com a fumaca negra logo sofrera de uma misteriosa doenca de loucura. O Vale das Cem Flores soube disso e ja enviou seus discípulos para investigar e fornecer tratamento médico...
+Disease in All Places
+Suddenly, a weird black gas appeared in {0}. It is said that anyone who makes contact with the black gas soon will suffer from a mysterious madness disease. Hundred Flowers Valley learned about this, and have already sent their disciples to investigate it and provide medical treatment...
 
-Harmonia Celestial
-Ao operar {0}, inesperadamente experimentou uma súbita conexao entre o céu e o homem...
+Death Qi Invasion
+Suddenly, a deep and heavy black gas appeared in {0}. It is said that anyone who makes contact with the black gas soon will suffer from a mysterious madness disease. Hundred Flowers Valley learned about this, and have already sent their disciples to investigate it and provide medical treatment...
 
-Qi Vital dos Cinco Elementos
-As transformacoes da essencia vital dos cinco elementos resultantes da técnica Oito Vidas e Oito Mortes ja ocorreram. Isso levou a mudancas nos atributos daqueles envolvidos…
+Heavenly Harmony
+While operating {0}, unexpectedly experienced sudden connection between heaven and man...
 
-Coleta de Recursos
-A coleta de {0} de {1} foi concluída.
+Five Element Life Qi
+The transformations of the five elements' life essence that result from the Eight Lives and Eight Deaths technique have already taken place. This has led to changes in the traits of those involved…
 
-Ritual do Dragao Submisso
-Recentemente, a Ilha Chiming tem sido assolada por desastres naturais estranhos. No altar do Dragao Submisso, todos dizem que é um sinal celestial de boa sorte, e para convocar o verdadeiro dragao para o mundo, comecaram a preparar um grande ritual…
+Resource Gathering
+Gathering of {0}'s {1} has been completed.
 
-Penas Caindo
-{0} esta triste, pois perdeu uma das penas mais belas…
+Fulong Sacrifice
+Chiming Island has been hit by strange natural disasters recently. Everyone in the Fulong Altar said it was a sign of good fortune from heaven. In order to invite the true dragon to descend, preparations have begun for the Dragon Sacrifice Ceremony...
 
-Preparando o Mercado de Primavera
-O ano velho se foi, e o novo festival se aproxima. Daqui a {0} meses, sera a reuniao de Ano Novo, e os comerciantes de todas as regioes estao se preparando para o evento…
+Feather Fallen
+{0} is secretly sad because they lost their most beautiful feather...
 
-Preparando o Torneio de Artes Marciais
-O dia encurta e a energia solar aumenta. Herois das artes marciais de todo o mundo se reunirao em {0}, e em {1} meses, o {2} sera realizado aqui…
+Preparations for Spring Fair
+The old year has ended, the festive season is approaching. In {0} months a gathering to celebrate the beginning of Spring will happen, and merchants from all over the country are preparing for it...
 
-Preparando o Torneio de Grilos
-Com o som dos grilos, o tempo passa rapidamente, e o Torneio de Grilos, que acontece a cada tres anos, sera realizado em {0} daqui a {1} meses!
+Preparations for Martial Arts Tournament
+The days are getting longer and the nights are getting shorter. As the Yang energy grows stronger, all the martial art heroes gather at {0}. In {1} months, the {2} will start...
 
-Preparando o Torneio de Habilidades
-O calor da lugar ao frio, e a vida se renova. Os melhores artistas se reunirăo em {0}, e em {1} meses, o {2} sera realizado aqui…
+Preparations for Cricket Conference
+Time flies amid the sound of insects chirping. The triennial Cricket Conference will be held at {0} in {1} months!
 
-Preparando a Competicao de Artes Marciais entre Faccoes
-Dizem que {0} realizara a competicao de artes marciais entre faccoes em {1} meses, onde os discípulos das faccoes testarao o que aprenderam…
+Preparations for Art Conference
+As summer turns to winter, all things come to life. The leading artists from all over the world gather here at {0}. In {1} months, {2} will be held there...
 
-Preparando o Torneio de Artes Marciais para Casamento
-Ouvi dizer que {0} tem uma família nobre decadente procurando por um bom genro. Daqui a {1} meses, sera realizado um torneio de artes marciais para casamento na cidade…
+Preparations for Sect Competition
+Rumor has it that {0} will hold a martial arts competition in {1} months to test the disciples' daily training...
 
-Pessoa a Beira da Morte
-A pessoa {0} esta a beira da morte…
+Preparations for Matchmaking Contest
+I heard that in {0} a fallen noble is looking for a good son-in-law, and will hold a martial arts competition in the city in {1} months...
 
-Pessoa Gravemente Ferida
-A condicao de {0} nao esta boa…
+Followed Nearing Death
+The {0} you are following is on the verge of death...
 
-Pessoa Presa
-A pessoa {0} esta presa em algum lugar, aguardando resgate…
+Followed Heavily Injured
+The {0} you are following is struggling with injuries...
 
-Eliminando os Loucos
-{0} foi interceptado por bandidos do Dragao Submisso em {1}, que tentaram extorquir oferendas, mas {0} os eliminou rapidamente…
+Followed Trapped
+The {0} you are following has been trapped somewhere and is awaiting rescue...
 
-Sofrendo um Roubo
-{0} foi interceptado por bandidos do Dragao Submisso em {1}, que tentaram extorquir oferendas. Como nao conseguiu resistir, foi roubado…
+Mad Disciple Defeated
+{0} encountered a Mad Disciple of Fulong who blocked the road and extorted offerings at {1}, but they defeated them...
 
+Got Robbed
+{0} encountered a Mad Disciple of Fulong who blocked the road and extorted offerings at {1}, and were unable to resist, getting robbed...
 
-{0} foi interceptado por bandidos do Dragao Submisso em {1}, que tentaram roubar suas oferendas. Ele se entregou e entregou o tributo…
 
+{0} encountered a Mad Disciple of Fulong who blocked the road and extorted offerings at {1}, and surrendered, handing over the offerings...
 
-Separacao de Família
-{0} deu a luz uma crianca na prisao de {1}, mas, sem condicoes de cuidar dela, teve que entrega-la ao parente {2}. Foi um momento de grande dor: separacao de sangue e lagrimas de sofrimento…
 
-{0} deu a luz uma crianca na prisao de {1}, mas, sem condicoes de cuidar dela, teve que entrega-la para {2} criar. Foi um momento de grande dor: separacao de sangue e lagrimas de sofrimento…
+Separation from Family
+{0} gave birth to a baby in {1}'s prison, but because she was unable to raise the baby, she had to entrust the baby to her closest relative {2}. Separation with one's flesh and blood, tearful eyes and broken heart...
 
-Falecimento
-{0} faleceu enquanto estava preso em {1}…
+{0} gave birth to a baby in {1}'s prison, but because she was unable to raise the baby, she had to entrust the baby to {2} for nurturing. Separation with one's flesh and blood, tearful eyes and broken heart...
 
-{0} faleceu durante sua prisao em {1}, apos ser assassinado pela seita Jueqing com um golpe traicoeiro…
+Leaving this World
+{0} passed away while imprisoned in {1} prison...
 
-{0} faleceu durante sua prisao em {1}, apos ser atacado pela seita Jueqing…
+While serving their sentence in {1} prison, {0} was assassinated by Jieqing Gate due to holding the Shadow Erasing Order...
 
-Como {0} estava preso e nao podia cuidar de {1}, teve que entrega-lo ao parente {2}, em um momento de grande dor: separacao de sangue e lagrimas de sofrimento…
+{0} passed away while serving their sentence in {1} prison due to being assassinated by Jieqing Gate...
 
-Como {0} estava preso e nao podia cuidar de {1}, teve que entrega-lo para {2} criar, em um momento de grande dor: separacao de sangue e lagrimas de sofrimento…
+Because {0} was imprisoned and was unable to raise {1}, they had no choice but to entrust them their closest relative {2}. Separation with one's flesh and blood, tearful eyes and broken heart...
 
-Migracao de Recursos
-{0} conseguiu completar a migracao apos realizar trabalho arduo em {1}, e agora retorna a Taiwu com {2}…
+Because {0} was imprisoned and was unable to raise {1}, they had no choice but to entrust them to {2} for nurturing. Separation with one's flesh and blood, tearful eyes and broken heart...
 
-O galinaceo de {0} enviou uma mensagem: durante uma conversa casual em {1}, ele soube de um segredo que {2} conhecia…
+Resource Migrated
+{0} has finally completed the migration by knocking stones and digging soil at {1}, and returned to Taiwu Village with {2}...
 
-Durante a guarda de {1}, {0} investigou discretamente e descobriu a situacao de {2}…
+The Chicken carried by {0} sent back a message: While {1} was chatting with everyone, they accidentally learned a secret known to {2}...
 
-Chamas Celestiais se Apagam
-As chamas celestiais da Ilha Chiming finalmente se extinguiram…
+While {0} was guarding {1}, they investigated carefully and finally learned about {2}'s situation...
 
-Saque do Dragao Submisso
-Para garantir o nascimento do verdadeiro dragao, o altar do Dragao Submisso enviou emissarios para espalhar o poder do dragao e forcar os moradores a oferecerem tesouros para adora-lo…
+Fiery Heaven Ends
+The continuous fire on Chiming Island has finally been extinguished...
+
+Fulong's Plunder
+In order to pray for the arrival of a true dragon, the Fulong Altar sent envoys to spread the power of the true dragon and force the people to offer their treasures in worship of the true dragon...
 

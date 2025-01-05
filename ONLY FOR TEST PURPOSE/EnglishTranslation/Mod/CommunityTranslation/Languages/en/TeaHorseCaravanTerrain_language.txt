@@ -1,12 +1,12 @@
-Planície
+Plain
 
-Terras Altas
+Highland
 
-Floresta
+Woodland
 
-Deserto
+Desert
 
-Beira-mar
+Waterfront
 
-Cidade
+Town
 

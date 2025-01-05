@@ -1,36 +1,36 @@
-Encontrar um miragem
-Encontrando uma miragem, Reputacao aumentada
-Descobrir Selvagens
-Selvagens descobertos, Reputacao aumentada
-Descobrir Animais
-Animais raros descobertos, Reputacao aumentada
-Descobrir Plantas
-Plantas raras descobertas, Reputacao aumentada
-Relatar de volta
-As experiencias foram relatadas, Reputacao aumentada
-Descobrir um assentamento
-Um assentamento foi descoberto, Reputacao aumentada
-Ler o clima
-Encontrou um clima raro, Reputacao aumentada
-Perder-se
-Perdeu-se, Reputacao diminuída
-Encontrar ladroes
-Encontrou ladroes, algumas mercadorias foram perdidas
-Cair em um buraco
-Caiu em um buraco, algumas mercadorias foram perdidas
-Encontrar os restos de uma caravana
-Encontrou os restos de uma caravana e obteve algumas mercadorias
-Ajudar alguns viajantes
-Ajudou alguns viajantes, resultando em suprimentos diminuídos
-Mau tempo
-Encontrou mau tempo, resultando em suprimentos diminuídos
-Obter Assistencia
-Recebeu assistencia e suprimentos aumentados
-Caca Selvagem Ocasional
-Caca foi encontrada e suprimentos aumentados
-Descobrir frutas da floresta
-Encontrou a floresta de frutas e suprimentos puderam ser colhidos
-Descobrir uma vila
-Vila foi encontrada e suprimentos puderam ser trocados
-Encontrar uma caravana
-Quando as duas caravanas se encontraram, suprimentos puderam ser trocados
+Encounter a mirage
+Encountering a mirage, Reputation increased
+Discover Savage
+Savage discovered, Reputation increased
+Discover Animals
+Rare animals discovered, Reputation increased
+Discover Plants
+Rare plants discovered, Reputation increased
+Report Back
+The experiences were reported back, Reputation increased
+Discover a settlement
+A settlement was discovered, Reputation increased
+Read the weather
+Encountered rare weather, Reputation increased
+Got Lost
+Got lost, Reputation decreased
+Encounter thieves
+Encountered thieves, some goods were lost
+Hit a pothole
+Hit a pothole, some goods were lost
+Found the remains of a caravan
+Found the remains of a caravan, and obtained some goods
+Assist some travelers
+Assisted some travelers, resulting in decreased supplies
+Bad weather
+Encountered bad weather, resulting in decreased supplies
+Get Assistance
+Received assistance and increased supplies
+Occasional Wild Game
+Game was found and supplies increased
+Discover forest fruit
+Found the fruit forest and supplies could be foraged
+Discover a village
+Villages was found and supplies could be exchanged
+Meet a caravan
+When the two caravans met, supplies could be exchanged

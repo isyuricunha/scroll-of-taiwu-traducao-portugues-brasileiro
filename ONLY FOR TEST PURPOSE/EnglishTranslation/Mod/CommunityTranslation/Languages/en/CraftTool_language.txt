@@ -1,110 +1,110 @@
-Ferramenta·Caixa de Marcenaria
-Uma pequena caixa carregada pelo marceneiro comum, contendo ferramentas comuns de marcenaria, como serra, plaina, tinteiro e furadeira manual.
-Ferramenta·Caixa do Artesao
-O carpinteiro habilidoso carregava consigo uma pequena caixa com um conjunto mais completo de ferramentas do que a caixa de marcenaria, como um cinzel pequeno, martelo, esquadro, lima e machado, para trabalhos de marcenaria mais delicados.
-Ferramenta·Plaina de Asa
-É uma plaina engenhosamente projetada com uma lamina dura que pode ser suavizada independentemente da qualidade da madeira, permitindo que até os marceneiros novatos a usem com facilidade.
-Ferramenta·Cassete de Prata
-Feita de prata e coberta com verniz vermelhao, a caixa é pequena e facil de carregar, e o interior é bem organizado para acomodar uma ampla gama de ferramentas de marcenaria, tornando-a muito pratica.
-Ferramenta·Plaina de Âmbar
-A lamina da plaina de ambar é feita de um ferro especial que nao enferruja quando imerso em agua; o corpo da plaina é de ambar, amarelo e translúcido, e quando usada na madeira, ela exala o aroma de pinho e cipreste.
-Ferramenta·Cassete de Quebra-Cabeca
-Esta caixa é feita de ouro e ferro, e sua construcao é tao precisa que a caixa pode ser transformada na forma de uma variedade de ferramentas, daí o nome 'Caixa do Tesouro das Mil Maquinas'. Diz-se que foi inventada por um sabio antigo da marcenaria e é muito facil de carregar.
-Ferramenta·Plaina Maravilhosa
-No Zhuangzi, é dito que "Zixing cortou a madeira para instrumentos". Diz-se que a plaina de madeira foi feita imitando a plaina feita pelo famoso artesao Zixing no Período das Primaveras e Outonos no Estado de Lu, e se a concentracao do ar for cuidadosamente mantida ao usa-la, pode-se criar uma ferramenta de madeira requintada pela mao de um espírito.
-Ferramenta·Caixa Misteriosa
-Esta caixa parece ser extremamente pequena por fora, mas tem muito espaco por dentro, assim como o "grao de mostarda nano-soumi" budista, que é "do tamanho do Yi, oculto por dentro", daí o nome "Caixa Yi Qiankun".
-Ferramenta·Caixa GongShu
-Diz-se que é uma caixa de tesouro inventada por Gongluo Ban, contendo apenas algumas ferramentas simples, mas sua ideia única faz com que até os iniciantes sintam facilidade em usa-la, podendo ser descrita como uma mudanca infinita; a estrutura da caixa é a uniao do coracao e da alma do fabricante, cada vez que se olha para ela, pode-se encontrar uma nova inspiracao.
-Ferramenta·Forno de Bronze
-Um forno feito de bronze, quando combinado com moldes, pode ser usado para fundir e moldar materiais comuns de ouro e ferro. Embora a técnica seja antiga, ainda pode lidar tanto com processos simples quanto intrincados.
-Ferramenta·Forno de Rubi
-Refino de graos vermelhos feito de ouro vulcanico, que tem uma textura vermelha, ao fundir e moldar ouro e ferro, o fogo e as linhas vermelhas aparecem a cada vez, cintilando e encantando.
-Ferramenta·Forno YinYang
-Este forno é feito de aco, sua cor é branco acinzentado, o fogo Yin é verde, o fogo Yang é vermelho, o ouro e o ferro no forno precisam ser repetidamente queimados pelos dois fogos Yin e Yang, por isso é chamado de "refino Yin e Yang do aco".
-Ferramenta·Forno de Obsidiana
-O forno feito de ouro, duro e pesado, resistente a alta temperatura; tem forma quadrada, pode ser martelado mil vezes sem sofrer desgaste, embora nao seja facil de carregar, é muito utilizado pelos ferreiros.
-Ferramenta·Forno HunYuan
-Forno de fundicao de elementos misturados em um so, fundindo ouro e ferro derretido, com os dois vapores Yin e Yang presentes sobre ele, como o início do caos, o Qi primordial nascendo, é: "os elementos misturados surgem com seu primeiro julgamento, a mudanca dos dois vapores e o infinito".
-Ferramenta·Forno da Alma
-Como diz o provérbio: "o coracao da essencia do frio, é chamado de alma", diz-se que os tesouros tem espírito, permitindo que permanecam por mil anos sem perder sua essencia; este forno, feito com dispositivos que tem luz espiritual fluindo, flutuando de maneira nao convencional, recebe o nome de "refino do espírito estranho".
-Ferramenta·Forno Arco-Íris
-O fogo verdadeiro é o fogo mais forte do mundo, este forno tem uma chama com sete névoas, como o fogo da alquimia taoista, capaz de remover impurezas e tornar a ferramenta mais resistente, ninguém pode se opor a ele.
-Ferramenta·Forno Glacial
-Nove pessoas frias, extremamente frias também. Este forno é extremamente quente por dentro e extremamente frio por fora, as pessoas ao seu redor nao sentem calor algum; quanto mais intensa a sua chama, mais intenso é o seu frio, nada sob o sol pode ser refinado.
-Ferramenta·Forno Maligno
-"Se o riacho do mal, secar e sair de cobre, Ouye forjou para a espada de puro Jun", diz-se que este forno é uma imitacao do processo de refinamento de puro Jun feito por Ouye Zi, quando o forno de fundicao foi criado, pois o cobre do riacho do mal foi fundido para a famosa espada, daí o nome "refinamento do mal", seu fogo possui tres cores: verde, branco e vermelho, e quando a espada entra no fogo, ouve-se um rugido de dragao, divino e incomparavel.
-Ferramenta·Polidor de Pedra
-Um dos comuns areais de jade, sua cor escura e textura aspera podem ser usadas para polir e cortar jade. É produzido em varios lugares, mas o de Yan e Zhao é o melhor.
-Ferramenta·Polidor de Obsidiana
-Feito de partículas de diamante, o areal de jade é transparente na cor e de textura dura, adequado para decomposicao e corte de jade. Este material nao tem origem fixa e é geralmente encontrado pelo povo por acaso.
-Ferramenta·Polidor de Pérola
-Este areal é feito de pedra dura dicromatica verde e branca, textura dura, partículas finas, brilho como jade, e como pérolas, daí o nome "areal de jade e pérola".
-Ferramenta·Polidor de Âmbar
-Este areal é feito de pedra amarela do sul, com padroes em forma de dragao na areia, por isso é chamado de "areal do dragao amarelo", e ao ser usado para moer jade, o jade também apresenta padroes bonitos.
-Ferramenta·Polidor de Gemas Tricolores
-Este areal é feito de gemas verdes, vermelhas e amarelas para resolver o areal de jade.
-Ferramenta·Polidor de Neve
-Este areal vem das montanhas nevadas, sua cor é branca, delicada como a neve, e ao tratar o jade com este areal, é como uma brisa fresca, o verao nao é quente, daí o nome "areal da neve da cortina".
-Ferramenta·Polidor de Ametista
-Este areal é feito de pedra exotica dourado-roxa, é duro, e o jade do mundo nao pode ser resolvido; seu espírito também é para moer o jade, quente e fragrante, e quanto mais voce usar, mais fragrante ele fica.
-Ferramenta·Polidor de Rubi Gelado
-Diz-se que uma antiga besta morreu no iceberg, seu sangue por cem anos nao se condensa, mil anos e nao se decompoe, tornando-se entao névoa de sangue cristalina; este areal, entrelacado em vermelho e branco, tem uma luz divina oculta, ao atacar o jade, o jade também ganha espírito.
-Ferramenta·Polidor de Dragao
-Este areal é feito de uma pedra estranha do Mar da China Oriental, e nao é necessario entrar na agua ao resolver jade, mas a agua nasce da areia. O poema "A Donzela Dragao, que é inocente de longas lagrimas, joga a pedra para o resolvedor de jade."
-Ferramenta·Kit de Costura
-Bolsos do tamanho da palma de uma crianca, com bolsos laterais para agulhas de diferentes comprimentos; bolsos com linha de varias cores para costura simples de roupas.
-Ferramenta·Tecelagem de Bambu
-O tear feito de bambu verde é facil de obter e amplamente utilizado, mas sua textura é mais macia e precisa ser enrolado no chao ao ser usado.
-Ferramenta·Tecer Borboleta
-Este shuttle é um equipamento tradicional de tecelagem antiga, de estrutura simples, o shuttle sobe e desce como uma borboleta, também pode ser usado com dois shuttles, por isso o nome "shuttle borboleta".
-Ferramenta·Tecer Nuvem
-O corpo do shuttle de nuvem fluente é branco, se movendo como nuvens através da trama, sua velocidade é extremamente rapida, em um dia pode-se fazer um tecido.
-Ferramenta·Tear de Marfim
-O tear jacquard feito de marfim, que pode suportar as intempéries e é extremamente valioso, mas é grande e exige que se sente diante da maquina ao usa-lo, diz-se que foi um tributo oferecido ao imperador por um pequeno país na fronteira.
-Ferramenta·Tecer Flor
-Este shuttle tem um padrao com cem flores, o shuttle é curto, frequentemente usado para tecer padroes, a seda tecida captura as cem flores, daí o nome "tecelagem de flores".
-Ferramenta·Tear Eclíptico
-Mae Amarela, também conhecida como Huang Dao Po, havia melhorado o tear quando vivia no exterior, e finalmente se tornou o Tear da Mae Amarela. Esta maquina é facil de programar, tece muito rapidamente, depois que a velha Huang atravessou o mar para retornar a sua terra natal, o tecelado de Jiangnan cresceu devido a ela.
-Ferramenta·Tecer Arco-Íris
-O shuttle de sete cores com fragrancia fluente é feito de madeira exotica, a cor é como o neon do arco-íris, com fragrancia oculta, os itens tecidos também ficam impregnados com fragrancia, como uma névoa de luz fluindo por cima.
-Ferramenta·Tecer das Fadas
-Segundo a lenda, é o estranho shuttle usado pelo tecelao no céu, com o fluxo de névoa, as roupas tecidas com este shuttle sao como roupas celestiais sem costura, tudo em um, sem nenhum traco de fio.
-Ferramenta·Pote de Pedra
-Potes feitos de pedra, faceis de carregar, nao esquentam facilmente, mas o efeito de isolamento é excelente, frequentemente usados para cozimento lento e assados, diz-se que foram usados pelos sabios desde os tempos antigos.
-Ferramenta·Pote de Cobre Binaural
-O pote é feito de latao e tem duas orelhas na borda para facilitar o levantamento, por isso é chamado de "pote de cobre com duas orelhas". Este pote aquece rapidamente, tornando facil o processo de fritura, e tem uma camada fina de ferro para evitar corrosao.
-Ferramenta·Pote FuLu
-Este pote é fundido em ferro fundido, com seis orelhas, pode ser usado para apoio, transmitido desde a dinastia Liao, frequentemente utilizado por soldados, adequado para cozimento, com um padrao de cabaca no corpo do pote, simbolizando harmonia e boa sorte dobrada.
-Ferramenta·Pote do Rei da Cozinha
-Diz-se que o rei da cozinha é responsavel pelo fogo, e este pote foi feito para imitar o que o rei da cozinha usava antes de se tornar imortal, para que o aroma da comida agradasse os deuses e abencoasse o ano vindouro com grande sucesso.
-Ferramenta·Pote com Padrao Mítico
-Conta a lenda que Taotie é uma besta antiga, a mais glutona, que ao ver comida deliciosa ria e se chamava de Taotie; este pote é gravado com o padrao de Taotie, simbolizando a busca por comida deliciosa e duradoura.
-Ferramenta·Pote de Fragrancia
-O pote é fundido com ouro e ferro, com poros internos, contendo especiarias, o aroma pode durar mais de dez anos sem dissipar, ao cozinhar com ele, o prato também ganha aroma.
-Ferramenta·Pote do Gourmet
-Ele tem uma forma hexagonal, duas orelhas e seis pés, e é inscrito com a figura de oito tesouros, dizendo-se que pode cozinhar todos os sabores do mundo.
-Ferramenta·Pote de Siderita Dourada
-Pote de ferro Xuan revestido com ouro, fundido com ferro verde e preto, a superfície revestida com ouro, originalmente um objeto usado por uma família rica para mostrar sua riqueza, nao gruda, nao enferruja e é extremamente leve, podendo ser levantado facilmente por uma crianca.
-Ferramenta·Pote de Balde Kilo
-Pote de mil baldes chamado "mil baldes de comida, nao sao melhores que uma wok", diz-se que foi criado pelo famoso chef Yiya do Período dos Reinos Combatentes, um milagre da culinaria, adequado para os cinco sabores, os comensais so sentem a temperanca da comida, governando o mundo é como ajustar o sal de ameixa; ou pensando no passado, com muitas emocoes... assim por diante. A comida é muito boa.
-Ferramenta·Tigela de Barro
-A tigela de ceramica feita de barro, leve em tamanho, consiste de uma pequena tigela e um almofariz e pilao, podendo ser usada para triturar ervas e extrair sucos.
-Ferramenta·Ding de Ervas Omni
-O tripé de tres pés usado para refinar medicamentos, feito de bronze e gravado com um padrao de cem ervas para comemorar o teste das cem ervas de Shennong e seu sacrifício para ajudar o povo.
-Ferramenta·Forno do Imortal
-Forno usado na alquimia taoísta, com formato de tripé e cabeca pontuda, corpo arredondado, fundido em ouro e ferro, com a figura de Laojun Dengxian; e uma tampa, porque é usado para reunir o ar do elixir.
-Ferramenta·Tigela de Bodhi Esmeralda
-Esta tigela é feita de jaspe exotico que pode aquecer a medicina, e é decorada com folhas de limeira, simbolizando a suprema bodhichitta que pode transformar todos os seres sencientes, e o fundo da tigela fica vermelho quando usada para medicina, e verde quando usada para veneno.
-Ferramenta·Forno do Rei dos Fantasmas
-Diz-se que o rei dos fantasmas é o mensageiro do mundo inferior, pessoas que ainda nao viveram para ve-lo, o forno quando esta fazendo a medicina, o fogo deve ser negro, é o fogo conduzido pelo rei dos fantasmas, e quando os mortais o usam, ele se torna um milagre da medicina.
-Ferramenta·Forno do Rei das Drogas
-Segundo a lenda, o Senhor das Drogas é o deus da saúde e bem-estar, e este tripé foi feito da madeira sagrada retirada do Grande Pantano a oeste quando o Senhor das Drogas pendurou um pote para ajudar o mundo, que nao pega fogo quando encontra chamas.
-Ferramenta·Tigela de Jade Sangue
-Diz-se que o jade de sangue é criado com sangue fresco, a seda vermelha, esta tigela pode fazer com que as ervas preciosas nao apodrecam, coisas venenosas se tornem como vida, ao se tornar um remédio, a luz vermelha se eleva, divina, como se tivesse um espírito.
-Ferramenta·Ding de Cristal
-Segundo a lenda, Liuli é uma pedra de cinco cores, tao brilhante quanto cristal e tao colorida quanto o por do sol, sendo uma pedra estranha deixada por Nuwa ao reparar o céu, e tem um cheiro peculiar.
-Ferramenta·Forno de Osso de Jade
-Diz-se que os ossos dos nove ossos afundados de jade sao feitos a partir dos ossos de bestas espirituais através das vicissitudes do mar, afundando e se agitando, e sua textura é como jade, fria ao toque; quando esta tigela é usada para fazer remédio, o líquido de jade se forma e se torna pílulas em um momento.
-Feito a Mao
+Tool·Carpentry Box
+A small box carried by the average woodworker, containing common woodworking tools such as a saw, wood planer, inkwell and corded drill.
+Tool·Artisan Box
+The handy carpenter carried with him a small box loaded with a fuller range of tools than a woodworking box, such as a small chisel, hammer, angle ruler, file and axe, for more delicate woodworking work.
+Tool·Wing Plane
+It is a cleverly designed plane with a hard blade that can be smoothed out regardless of the quality of the wood, so that even novice woodworkers can use it with ease.
+Tool·Silver Cassette
+Made of silver and covered with vermilion lacquer, the box is small and easy to carry, and the interior is well organised to accommodate a wide range of woodworking tools, making it very handy.
+Tool·Amber Plane
+The blade of the amber plane is made of a special iron that does not rust when immersed in water; the body of the plane is amber, yellow and translucent, and when it is used on wood, the wood has the fragrance of pine and cypress.
+Tool·Puzzle Cassette
+This box is made of gold and iron, and its construction is so precise that the box can be transformed into the shape of a variety of tools, hence the name 'Thousand Machine Treasure Box'. It is said to have been invented by an ancient sage of carpentry and is very easy to carry.
+Tool·Amazing Plane
+In Zhuangzi, it is said that "Zixing cut the wood for instr. It is said that the wood planer was made by imitating the wood planer made by the famous craftsman Zixing in the Spring and Autumn Period in the State of Lu, and if the air is carefully concentrated when using it, it can be made into an exquisite wooden tool by the hand of a ghost.
+Tool·Mysterious Box
+This box seems to be extremely small on the outside, but there is a lot of space inside, just like the Buddhist "mustard seed nano-soumi" said, it is "the size of the Yi, hidden inside", so the name "Yi Qiankun box".
+Tool·\nGongShu Cassette
+It is rumored to be a treasure box invented by Gongluo Ban, containing only a few simple tools, but its unique idea, even beginners feel like using it, can be described as a million changes; box body structure cohesion of the maker's heart and soul, each time you look at it can give people a different inspiration.
+Tool·Bronze Forge
+A bronze-made furnace, when paired with molds, can be used to cast and mold common gold and iron materials. Although the craftsmanship is ancient, it can still handle both simple and intricate processes.
+Tool·Ruby Furnace
+Red grain refining is made of volcanic gold, which has a red texture, when smelting and casting gold and iron, fire and red lines every time, glittering and lovely.
+Tool·YinYang Furnace
+This furnace is made of steel, its color is grayish white, Yin fire color green, Yang fire color red, gold and iron in the furnace refining need to be repeatedly burned by Yin and Yang two fire, so called "steel Yin and Yang refining".
+Tool·Obsidian Forge
+The furnace made of gold, hard and heavy, high temperature resistance; square shape, can be a thousand hammers and not a little wear and tear, although not easy to carry, but also blacksmiths love to use the object.
+Tool·HunYuan Forge
+Mixed elements casting furnace in one piece, pin molten gold and iron, there are yin and yang two gas born on it, such as the beginning of chaos, the yuan qi from the birth, it is: "mixed elements out of its first judgment, two gas change and infinite".
+Tool·Soul Furnace
+As the saying goes: "the heart of the essence of the cool, is called the soul", it is said that the treasures have a spirit, so that a thousand years without loss; this furnace made by the apparatus are spiritual light flowing, floating unconventional, so the name "strange spirit refining".
+Tool·\nRainbow Furnace
+True fire is the world's most fire, this furnace flame has as seven haze, such as the Taoist alchemy fire, can remove impurities, get the tool hard, so no one can be.
+Tool·Glacial Forge
+Nine cold people, extremely cold also. This furnace is extremely hot inside and extremely cold outside, people on the left, do not feel a little hot; the more intense its fire, the more its cold, everything under the sun, nothing is refined.
+Tool·Evillike Furnace
+"if the creek of evil, dried up and out of copper, Ouye cast for the sword of pure Jun", it is said that this furnace is an imitation of Ouye Zi refining pure Jun when the casting furnace made, because the copper from the creek of evil cast into the famous sword, so the name "if the evil refining", its fire has green, white, red three colors, the sword into the time when there are Dragon roar, divine incomparable.
+Tool·Stone Polisher
+One of the common jade solving sands, its dark color and coarse texture can be used for polishing and cutting jade. It is produced in various places, but the one from Yan and Zhao is the best.
+Tool·\nObsidian Polisher
+Made of diamond particles, the jade solving sand is transparent in color and hard in texture, suitable for jade decomposition and cutting. This material has no fixed origin and is mostly found by the people by chance.
+Tool·Pearl Polisher
+This sand is made of green, white dichroic hard stone, hard texture, fine particles, luster like jade, and like pearls, so the name "jade pearl sand".
+Tool·Amber Polisher
+This sand is made of yellow stone from the south, and there are dragon-shaped patterns on the sand, so it is called "yellow dragon sand", and when it is used to grind jade, the jade also has beautiful patterns.
+Tool·\nTricolor Gem Polisher
+This sand is made of green, red and yellow gemstones to solve the jade sand.
+Tool·Snow Polisher
+This sand out of the snowy mountains, it's color is white, delicate as snow, this sand treatment jade, such as a cool breeze, the summer is not hot, so the name "curtain snow sand".
+Tool·\nAmethyst Polisher
+This sand is made of purple-golden exotic stone, its hard, the world's jade, can not be solved; it's spirit is also to grind the jade, warm and fragrant, and the more you play, the more fragrant.
+Tool·\nIcy Ruby Polisher
+Rumor has it that an ancient beast died in the iceberg, its blood for a hundred years and does not condense, a thousand years and does not decay, and then become ice crystal blood dew; this sand red and white intertwined, there is a hidden divine light, to attack the jade, the jade also has a spirit.
+Tool·Dragon Polisher
+This sand is made of a strange stone from the East China Sea, and it is not necessary to enter the water when solving jade, but the water is born from the sand. The poem "The Dragon Maiden, who is innocent of long tears, throws the stone to the jade solver."
+Tool·Sewing Kit
+Pockets the size of a child's palm, with side pockets for needles of varying lengths; pockets with thread in various colors for simple clothing sewing.
+Tool·Bamboo Loom
+The loom made of green bamboo is easy to obtain and widely used, but the texture is softer and needs to be coiled on the ground when used.
+Tool·Butterfly Woven
+This shuttle is an ancient tradition of weaving equipment, simple structure, shuttle like a butterfly up and down, can also be used with two shuttles, so the name "butterfly shuttle".
+Tool·Cloud Woven
+Flowing clouds shuttle body white, moving, such as clouds through the warp and woof, its speed is extremely fast, a day can be a cloth.
+Tool·Ivory Loom
+The jacquard loom made of ivory, which can withstand the weather and is extremely valuable, but is large in size and requires sitting in front of the machine when using it, is said to be a tribute offered to the emperor by a small country on the frontier.
+Tool·Blossom Woven
+This shuttle has a hundred flowers on the pattern, the shuttle is short, often used to weave on the pattern, the silk, woven as the capture of the hundred flowers, so the name "Blossom Woven".
+Tool·Ecliptic Loom
+Yellow Mother, also known as Huang Dao Po, had improved the loom when she was living abroad, and finally became the Yellow Mother Loom. This machine is easy to program, weaving very fast, after the old age of Huang mother crossed the sea to return to his hometown, Jiangnan weaving because of it and rise.
+Tool·Rainbow Woven
+The seven-color flowing fragrance shuttle is made of exotic wood, the color is like rainbow neon, hidden fragrance, woven items will therefore also be tainted with fragrance, such as a haze of light flowing over.
+Tool·Fairy's Woven
+According to legend, it is the strange shuttle used by the weaver in the sky, with the flow of haze, the clothes woven with this shuttle is just like seamless heavenly clothes, all in one, without a trace of thread foot.
+Tool·Stone Pot
+Take everywhere made of stone pots, not easy to heat, but the insulation effect is outstanding, often used for stewing, roasting, rumored to have been used by the sages as early as the ancient times.
+Tool·\nBinaural Copper Pot
+The pot is made of brass and has two ears on the edge of the pot for easy lifting, so it is called "copper pot with two ears". This pot heats up very quickly, making it easy to stir-fry food, and has a thin layer of iron on it to prevent corrosion.
+Tool·FuLu Pot
+This pot is cast in pig iron, under six ears, can be used for support, is passed down from Liao, often used by soldiers, suitable for cooking, pot body with gourd pattern, is to take the harmonious sound, pray for good fortune and double.
+Tool·\nKitchenKing's Pot
+It is said that the king of the stove is in charge of the fire, and this pot is made to imitate what the king of the stove used before he became immortal, so that the fragrance of the food can please the gods and bless the coming year with great success.
+Tool·\nMythical Pattern Pot
+Legend has it that Taotie is an ancient beast, the most gluttonous, delicious people see the matter and laugh, calling themselves Taotie; this pot is engraved with the pattern of Taotie, is to take the meaning of delicious food, lingering.
+Tool·Fragrance Pot
+The pot is cast with gold and iron, with pores inside, with spices, the aroma can last for more than ten years and not dissipate, cooking with it, the dish also has aroma.
+Tool·Foodie's Pot
+It has a hexagonal shape, two ears and six feet, and is inscribed with the figure of eight treasures, which is said to be able to cook all the flavors of the world.
+Tool·\nGilded Siderite Pot
+Xuan iron rolling gold pot with green and black iron cast, the surface rolled with gold, the original is a rich family to show the wealth of things, non-stick, non-rust, and extremely light weight, is a child can easily lift.
+Tool·Kilo-bucket Pot
+Thousand buckets of pot called "a thousand buckets of food, not as good as a wok", it is said to be a famous chef Yiya of the Warring States made the wonders of the food, the five flavors are suitable, diners only feel the temperament of the steep, ruling the world is also like adjusting the salt plum; or thinking about the past, a lot of emotions... so on and so forth, and so on and so forth. The food is very good.
+Tool·Clay Bowl
+The pottery bowl made of clay, light in size, consists of a small bowl and a mortar and pestle, which can be used to crush herbs and grind out the juice.
+Tool·Omni-herb Ding
+The three-legged tripod used for refining medicines is made of bronze and engraved with a pattern of a hundred herbs to commemorate Shennong's tasting of a hundred herbs and his sacrifice to help the people.
+Tool·Immortal's Stove
+Taoist alchemy with the furnace, shaped like a tripod and the head pointed body round, cast in gold and iron, on the figure of Laojun Dengxian; and a cover, because it is used to gather Dan gas.
+Tool·\nEmerald Bodhi Bowl
+This bowl is made of exotic jasper that can warm the medicine, and is decorated with linden leaves, symbolizing the supreme bodhichitta that can transform all sentient beings, and the heart of the bowl is red if it is used for medicine, and green if it is used for poison.
+Tool·\nGhostKing's Stove
+Rumor has it that the ghost king is the messenger of the nether world, people who have not yet lived to see it, the furnace when the medicine, the fire must be black, is the fire driven by the ghost king, mortals use it, it is a miracle of medicine.
+Tool·\nDrugKing's Stove
+According to the legend, the Lord of Medicine is the god of health and well-being, and this tripod is made of the sacred wood taken from the Great Swamp in the west when the Lord of Medicine was hanging a pot to help the world, which does not burn when it encounters fire.
+Tool·BloodJade Bowl
+Rumor has it that the blood jade is raised with fresh blood, the red silk, this bowl can make the precious herbs do not decay, poisonous things such as life, into a medicine when the red light steep, divine as if there is a spirit.
+Tool·Crystal Ding
+According to legend, Liuli is a five-color stone, as bright as crystal and as colorful as the sunset, which is a strange stone left by Nuwa when mending the sky, and has a strange fragrance.
+Tool·JadeBone Stove
+It is said that the bones of the nine sunken jade bones are made from the bones of spiritual beasts through the vicissitudes of the sea, sinking and tossing, and their texture is like jade, cold to the touch; when this bowl is used to make medicine, the jade liquid will come into being and become pills in a moment.
+By Hand
 

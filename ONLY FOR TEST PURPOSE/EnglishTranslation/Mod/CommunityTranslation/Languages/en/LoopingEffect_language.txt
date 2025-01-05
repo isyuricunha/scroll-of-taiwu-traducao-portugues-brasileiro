@@ -1,123 +1,123 @@
-Afundar Qi no Dantian
-Ganhe Energia Interna equivalente a 100% do Cultivo mensal.
+Sink Qi to Dantian
+Gain Internal Energy equivalent to 100% of the monthly Cultivation.
 
-Controle dos Cinco Qis
-Mova os Cinco Elementos Internos equivalente a 100% do Cultivo mensal.
+Five Qi Control
+Shift Five Internal Elements equivalent to 100% of the monthly Cultivation.
 
-Limpeza dos Meridianos
-Ganhe Qi Verdadeiro de Circulacao equivalente a 100% do Cultivo mensal.
+Clearing Meridians
+Gain Circulation True Qi equivalent to 100% of the monthly Cultivation.
 
-Abrir o Mar de Qi
-Ganhe Energia Interna variando de 50% a 150% do Cultivo mensal.
+Opening Sea of Qi
+Gain Internal Energy ranging from 50% to 150% of the monthly Cultivation.
 
-Ajustar a Forma para Despertar Qi
-Mova os Cinco Elementos Internos variando de 50% a 150% do Cultivo mensal.
+Adjust Form to Awaken Qi
+Shift Five Internal Elements ranging from 50% to 150% of the monthly Cultivation.
 
-Qi Passa pela Cabeca
-Ganhe Qi Verdadeiro de Circulacao variando de 50% a 150% do Cultivo mensal.
+Qi Passes Head
+Gain Circulation True Qi ranging from 50% to 150% of the monthly Cultivation.
 
-Preencher os Oito Canais
-Consuma Energia Interna extra para ganhar Energia Interna equivalente a 200% do Cultivo mensal.
+Filling Eight Veins
+Consume extra Internal Energy to gain Internal Energy equivalent to 200% of the monthly Cultivation.
 
-Lavar Músculos e Ossos
-Consuma Energia Interna extra para mover os Cinco Elementos Internos equivalente a 200% do Cultivo mensal.
+Washing Muscles and Bones
+Consume extra Internal Energy to shift Five Internal Elements equivalent to 200% of the monthly Cultivation.
 
-Qi Verdadeiro em Erupcao
-Consuma Energia Interna extra para ganhar Qi Verdadeiro de Circulacao equivalente a 200% do Cultivo mensal.
+True Qi Surging
+Consume extra Internal Energy to gain Circulation True Qi equivalent to 200% of the monthly Cultivation.
 
-Fluxo Infinito
-Aumenta a quantidade de Energia Interna adquirida com o Cultivo.
+Unending Flow
+Increases the amount of Internal Energy gained from Cultivation.
 
-Limpeza dos Meridianos
-Aumenta a quantidade de movimentacao dos Cinco Elementos Internos no Cultivo.
+Clearing Meridians
+Increases the amount of Five Internal Elements shifting from Cultivation.
 
-Nutricao de Qi através do Espírito
-Aumenta a quantidade de Qi Verdadeiro de Circulacao adquirido no Cultivo.
+Nourish Qi Through Spirit
+Increases the amount of Circulation True Qi gained from Cultivation.
 
-Respiracao Contínua
-Aumenta aleatoriamente a quantidade de Energia Interna adquirida no Cultivo.
+Continuous Breath
+Randomly increases the amount of Internal Energy gained from Cultivation.
 
-Respiracao Relaxante
-Aumenta aleatoriamente a quantidade de movimentacao dos Cinco Elementos Internos no Cultivo.
+Relaxing Breath
+Randomly increases the amount of Five Internal Elements shifting from Cultivation.
 
-Usando Meridianos
-Aumenta aleatoriamente a quantidade de Qi Verdadeiro de Circulacao adquirido no Cultivo.
+Using Meridians
+Randomly increases the amount of Circulation True Qi gained from Cultivation.
 
-Nuvens Ascendentes
-Consuma Energia Interna extra para aumentar consideravelmente a quantidade de Energia Interna adquirida no Cultivo.
+Clouds Rising
+Consume extra Internal Energy to greatly increase the amount of Internal Energy gained from Cultivation.
 
-Harmonia Celestial
-Consuma Energia Interna extra para aumentar consideravelmente a quantidade de movimentacao dos Cinco Elementos Internos no Cultivo.
+Heavenly Harmony
+Consume extra Internal Energy to greatly increase the amount of Five Internal Elements shifting from Cultivation.
 
-Mente Clara
-Consuma Energia Interna extra para aumentar consideravelmente a quantidade de Qi Verdadeiro de Circulacao adquirido no Cultivo.
+Clear Mind
+Consume extra Internal Energy to greatly increase the amount of Circulation True Qi gained from Cultivation.
 
-Qi Metal
-Se durante o Cultivo o Elemento Interno do praticante for "Metal" sem conflitos, o Elemento Interno do praticante nao mudara mais.
+Metal Qi
+If during Cultivation practitioner's Internal Element is a non-conflicting "Metal", the practitioner's Internal Element will no longer change.
 
-Qi Madeira
-Se durante o Cultivo o Elemento Interno do praticante for "Madeira" sem conflitos, o Elemento Interno do praticante nao mudara mais.
+Wood Qi
+If during Cultivation practitioner's Internal Element is a non-conflicting "Wood", the practitioner's Internal Element will no longer change.
 
-Qi Agua
-Se durante o Cultivo o Elemento Interno do praticante for "Agua" sem conflitos, o Elemento Interno do praticante nao mudara mais.
+Water Qi
+If during Cultivation practitioner's Internal Element is a non-conflicting "Water", the practitioner's Internal Element will no longer change.
 
-Qi Fogo
-Se durante o Cultivo o Elemento Interno do praticante for "Fogo" sem conflitos, o Elemento Interno do praticante nao mudara mais.
+Fire Qi
+If during Cultivation practitioner's Internal Element is a non-conflicting "Fire", the practitioner's Internal Element will no longer change.
 
-Qi Terra
-Se durante o Cultivo o Elemento Interno do praticante for "Terra" sem conflitos, o Elemento Interno do praticante nao mudara mais.
+Earth Qi
+If during Cultivation practitioner's Internal Element is a non-conflicting "Earth", the practitioner's Internal Element will no longer change.
 
-Qi Hunyuan
-Se durante o Cultivo o Elemento Interno do praticante for "Hunyuan" sem conflitos, o Elemento Interno do praticante nao mudara mais.
+Hunyuan Qi
+If during Cultivation practitioner's Internal Element is a non-conflicting "Hunyuan", the practitioner's Internal Element will no longer change.
 
-Terra para Metal
-Consuma Energia Interna extra para substituir o movimento original dos Cinco Elementos Internos no Cultivo por um movimento fixo de "Terra" para "Metal".
+Earth to Metal
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Earth" to "Metal" shift.
 
-Agua para Metal
-Consuma Energia Interna extra para substituir o movimento original dos Cinco Elementos Internos no Cultivo por um movimento fixo de "Agua" para "Metal".
+Water to Metal
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Water" to "Metal" shift.
 
-Madeira para Metal
-Consuma Energia Interna extra para substituir o movimento original dos Cinco Elementos Internos no Cultivo por um movimento fixo de "Madeira" para "Metal".
+Wood to Metal
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Wood" to "Metal" shift.
 
-Agua para Madeira
-Consuma Energia Interna extra para substituir o movimento original dos Cinco Elementos Internos no Cultivo por um movimento fixo de "Agua" para "Madeira".
+Water to Wood
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Water" to "Wood" shift.
 
-Fogo para Madeira
-Consuma Energia Interna extra para substituir o movimento original dos Cinco Elementos Internos no Cultivo por um movimento fixo de "Fogo" para "Madeira".
+Fire to Wood
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Fire" to "Wood" shift.
 
-Terra para Madeira
-Consuma Energia Interna extra para substituir o movimento original dos Cinco Elementos Internos no Cultivo por um movimento fixo de "Terra" para "Madeira".
+Earth to Wood
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Earth" to "Wood" shift.
 
-Metal para Agua
-Consuma Energia Interna extra para substituir o movimento original dos Cinco Elementos Internos no Cultivo por um movimento fixo de "Metal" para "Agua".
+Metal to Water
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Metal" to "Water" shift.
 
-Madeira para Agua
-Consuma Energia Interna extra para substituir o movimento original dos Cinco Elementos Internos no Cultivo por um movimento fixo de "Madeira" para "Agua".
+Wood to Water
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Wood" to "Water" shift.
 
-Fogo para Agua
-Consuma Energia Interna extra para substituir o movimento original dos Cinco Elementos Internos no Cultivo por um movimento fixo de "Fogo" para "Agua".
+Fire to Water
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Fire" to "Water" shift.
 
-Madeira para Fogo
-Consuma Energia Interna extra para substituir o movimento original dos Cinco Elementos Internos no Cultivo por um movimento fixo de "Madeira" para "Fogo".
+Wood to Fire
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Wood" to "Fire" shift.
 
-Terra para Fogo
-Consuma Energia Interna extra para substituir o movimento original dos Cinco Elementos Internos no Cultivo por um movimento fixo de "Terra" para "Fogo".
+Earth to Fire
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Earth" to "Fire" shift.
 
-Metal para Fogo
-Consuma Energia Interna extra para substituir o movimento original dos Cinco Elementos Internos no Cultivo por um movimento fixo de "Metal" para "Fogo".
+Metal to Fire
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Metal" to "Fire" shift.
 
-Fogo para Terra
-Consuma Energia Interna extra para substituir o movimento original dos Cinco Elementos Internos no Cultivo por um movimento fixo de "Fogo" para "Terra".
+Fire to Earth
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Fire" to "Earth" shift.
 
-Metal para Terra
-Consuma Energia Interna extra para substituir o movimento original dos Cinco Elementos Internos no Cultivo por um movimento fixo de "Metal" para "Terra".
+Metal to Earth
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Metal" to "Earth" shift.
 
-Agua para Terra
-Consuma Energia Interna extra para substituir o movimento original dos Cinco Elementos Internos no Cultivo por um movimento fixo de "Agua" para "Terra".
+Water to Earth
+Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Water" to "Earth" shift.
 
-Estabilizar Mente
-Remova os efeitos ja ativos durante o Cultivo e restaure uma certa quantidade de Vontade com base no número de efeitos eliminados.
+Stabilize Mind
+Remove the effects that were already active during Cultivation, and restore a certain amount of Willpower based on the number of eliminated effects.
 
-Voltar a Origem
-Remova os efeitos ja ativos durante o Cultivo.
+Return to Origin
+Remove the effects that were already active during Cultivation.
 

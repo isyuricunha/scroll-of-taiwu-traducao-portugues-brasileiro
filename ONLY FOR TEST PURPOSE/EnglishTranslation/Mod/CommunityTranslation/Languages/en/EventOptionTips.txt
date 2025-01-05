@@ -1,46 +1,46 @@
-A quantidade de companheiros de Taiwu é menor que {0}
-A quantidade de companheiros de Taiwu nao é menor que {0}
-Tempo necessario: {0}
-{0} nao é companheiro de Taiwu
-Tempo de recarga apos o uso: {0} meses
-Favor necessario: {0}
-O Favor Regional de {0} esta em: {1}%
-Dinheiro necessario: {0}
-Prestígio necessario: {0}
-Taiwu tem menos de {0} irmaos jurados
-Quando a notícia secreta aconteceu, a Fama de {0} estava positiva.
-Quando a notícia secreta aconteceu, a Fama de {0} estava negativa.
-Quando a notícia secreta aconteceu, {0} e {1} eram proximos
-Quando a notícia secreta aconteceu, {0} e {1} eram amantes
-Quando a notícia secreta aconteceu, {0} foi uma vítima
-A posicao de Taiwu é {0}
-O Favor Regional de {0} esta em: {1}%
-Experiencia necessaria: {0}
-A pureza de {0} nao é menor que a de Taiwu
-A quantidade de companheiros de Taiwu é menor que {0}
-{0} nao é um morador de Taiwu
-{0} precisa ser membro da seita
-A senioridade de Aspiracao é alta o suficiente para usar a habilidade de Aspiracao
-A senioridade de Aspiracao deve atingir a identidade de {0} para usar essa habilidade
-{0} nao Despreza Taiwu
-Taiwu tem os recursos necessarios para usar a habilidade de Aspiracao e nao esta em recarga
-{0} precisa estar Enfeiticado por Xiangshu
-Taiwu precisa ter {0}
-A Desordem de Qi de {0} precisa ser menor que {1}
-A Desordem de Qi de Taiwu precisa ser menor que {0}
-A posicao de {0} deve ser {1} ou {2}
-Favor necessario: {0}
-{0} nao pode ser um monge
-{0} deve ser um senhor da cidade
-{0} nao pode ser Possuído ou Enfeiticado por Xiangshu
-{0} nao pode ser dono de um Manual Lendario
-{0} nao pode ser afetado por um efeito que muda temporariamente sua posicao
-Experiencia necessaria: {0}
-{0} deve estar ferido, envenenado ou ter uma Desordem de Qi
-{0} precisa ser adulto
-{0} precisa ter um espaco livre para consumo
-Taiwu precisa ter um espaco livre para consumo
-Obteve o apoio dos tres maiores níveis do Shaolin
-O {0} de Taiwu nao é menor que {1}
-Tempo de recarga apos o uso: {0} meses
-Este Jiao pode ser domado apenas uma vez por mes
+Amount of Taiwu's teammates is less than {0}
+Amount of Taiwu's teammates is not less than {0}
+Time required: {0}
+{0} is not Taiwu's teammate
+Cooldown after using: {0} months
+Favor required: {0}
+{0}'s Regional Favor is at: {1}%
+Money required: {0}
+Prestige required: {0}
+Taiwu has less than {0} sworn siblings
+When the secret news happened, {0}'s Fame was positive.
+When the secret news happened, {0}'s Fame was negative.
+When the secret news happened, {0} and {1} were close
+When the secret news happened, {0} and {1} were lovers
+When the secret news happened, {0} was a victim
+Taiwu's standpoint is {0}
+{0}'s Regional Favor is at: {1}%
+Experience required: {0}
+{0}'s purity is not lower than Taiwu's
+Amount of Taiwu's teammates is less than {0}
+{0} isn't a Taiwu villager
+{0} needs to be a member of the sect
+Aspiration's Seniority is high enough to use aspiration's skill
+Aspiration's Seniority has to reach {0}'s identity to use this skill
+{0} doesn't Despise Taiwu
+Taiwu has the resources needed to use aspiration's skill and it's not on cooldown
+{0} needs to be Enthralled by Xiangshu
+Taiwu needs to have {0}
+{0} Qi Disorder needs to be lower than {1}
+Taiwu's Qi Disorder needs to be lower than {0}
+{0}'s standpoint has to be {1} or {2}
+Favor required: {0}
+{0} cannot be a monk
+{0} must be a city lord
+{0} can't be Possessed or Enthralled by Xiangshu
+{0} can't be an owner of a Legendary Manual
+{0} can't be affected by an effect that temporarily changes their standpoint
+Experience required: {0}
+{0} has to be either injured, poisoned, or have a Qi Disorder
+{0} needs to be an adult
+{0} needs to have a free consumption slot
+Taiwu needs to have a free consumption slot
+Obtained support of upper three tiers of Shaolin
+Taiwu's {0} is not less than {1}
+Cooldown after using: {0} months
+This Jiao can be tamed only once per month

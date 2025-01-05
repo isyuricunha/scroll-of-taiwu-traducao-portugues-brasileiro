@@ -1,48 +1,48 @@
-Início
-Início deste Avanco.
-Fim
-Fim deste Avanco.\nTodo progresso sera perdido se voce nao alcancar esta célula.
-Resumo
-Sem descricao.
+Start
+Start of this Breakthrough.
+End
+End of this Breakthrough.\nAll progress will be lost if you cannot reach this cell.
+Summary
+No Description
 Normal
-Sem efeito especial.
-Sucessao
-Apos conectar a esta célula, <color=#brightblue>a Taxa de Sucesso de todas as células ao redor sera aumentada em 30%</color>.
-Flexibilidade
-Para cada célula ao redor conectada com sucesso, <color=#brightblue>a Taxa de Sucesso desta célula sera aumentada em 30%</color>.
-Perseveranca
-Para cada conexao falha ao redor desta célula, <color=#brightblue>a Taxa de Sucesso desta célula sera aumentada em 60%</color>.
-Fundacao
-A <color=#brightred>Taxa de Sucesso desta célula é reduzida em 100%</color>.\n<color=#brightblue>A Taxa de Sucesso de todas as células ao redor sera aumentada em 60%</color>.
-Transicao
-Apos conectar a esta célula, <color=#brightblue>1 proxima conexao sera sempre bem-sucedida</color>.
-Inspiracao
-Conectar a esta célula <color=#brightblue>nao aumentara a contagem de tentativas</color>.
-Revigoramento
-A <color=#brightred>Taxa de Sucesso desta célula é reduzida em 30%</color>.\nConectar a esta célula <color=#brightblue>reduzira a contagem de tentativas em 1</color>.
-Reversao
-A <color=#brightred>Taxa de Sucesso desta célula é reduzida em 60%</color>.\nConectar a esta célula <color=#brightblue>reduzira a contagem de tentativas em 2</color>.
-Estabilidade
-A <color=#brightblue>Taxa de Sucesso desta célula é aumentada em 60%</color>.\nConectar a esta célula <color=#brightred>aumentara a contagem de tentativas em 1</color>.
-Esforco
-A <color=#brightblue>Taxa de Sucesso desta célula é aumentada em 100%</color>.\nConectar a esta célula <color=#brightred>aumentara a contagem de tentativas em 2</color>.
-Clareza
-Conectar a esta célula <color=#brightblue>revelara varias células nao descobertas</color>.
-Desafio
-A <color=#brightred>Taxa de Sucesso desta célula é reduzida em 60%</color>.\nConectar a esta célula <color=#brightblue>restaura todas as células falhas ao redor</color>.
-Simplificar
-A <color=#brightred>Taxa de Sucesso desta célula é reduzida em 30%</color>.\nConectar a esta célula transformara todas as "células especiais" ao redor em "células basicas".
-Suporte
-Ao conectar a esta célula, 1 "célula dourada" nao conectada sera transferida para uma das "células basicas" ao redor.
-Culminacao
-Conectar a esta célula <color=#brightblue>reduzira a contagem de tentativas em 3</color>.\nMas <color=#brightred>1 "célula dourada" nao conectada sera transformada em uma "célula basica"</color>.
-Humildade
-Quanto maior for a contagem de tentativas em relacao a metade do limite de Talento, maior sera o <color=#brightblue>aumento na Taxa de Sucesso desta célula e de todas as células ao redor</color>.
-Ambicao
-Quanto menor for a contagem de tentativas em relacao a metade do limite de Talento, maior sera o <color=#brightblue>aumento na Taxa de Sucesso desta célula e de todas as células ao redor</color>.
-Conselho
-Conectar a esta célula <color=#brightred>aumentara a contagem de tentativas em 1</color>.\nConectar a esta célula <color=#brightblue>conectara imediatamente 1 "célula dourada" nao conectada</color>.
-Completo
-Voce ja esta familiarizado com os pontos-chave desta técnica.\nEsta célula <color=#brightblue>sera sempre conectada com sucesso</color>.
-Erro
-Ja sofreu contratempos nesta célula.\nA <color=#brightblue>Taxa de Sucesso desta célula sera aumentada em 100%</color>.\nMas <color=#brightred>voce sempre perdera Saúde ao conectar a esta célula, independentemente do sucesso ou falha</color>.
+No special effect.
+Succession
+After connecting to this cell, <color=#brightblue>Success Rate of all surrounding cells will be increased by 30%</color>.
+Flexibility
+For every successfully connected cell around this cell, <color=#brightblue>this cell's Success Rate will be increased by 30%</color>.
+Perseverence
+For every failed connection around this cell, <color=#brightblue>this cell's Success Rate will be increased by 60%</color>.
+Foundation
+This cell's <color=#brightred>Success Rate is decreased by 100%</color>.\n<color=#brightblue>Success Rate of all cells surrounding this cell will be increased by 60%</color>.
+Transition
+After connecting to this cell, <color=#brightblue>1 next connection will always be successful</color>.
+Inspiration
+Connecting to this cell <color=#brightblue>won't increase attempt count</color>.
+Refreshment
+This cell's <color=#brightred>Success Rate is decreased by 30%</color>.\nConnecting to this cell <color=#brightblue>will reduce attempt count by 1</color>.
+Reversal
+This cell's <color=#brightred>Success Rate is decreased by 60%</color>.\nConnecting to this cell <color=#brightblue>will reduce attempt count by 2</color>.
+Steady
+This cell's <color=#brightblue>Success Rate is increased by 60%</color>.\nConnecting to this cell <color=#brightred>will increase attempt count by 1</color>.
+Hard Work
+This cell's <color=#brightblue>Success Rate is increased by 100%</color>.\nConnecting to this cell <color=#brightred>will increase attempt count by 2</color>.
+Clarity
+Connecting to this cell <color=#brightblue>will reveal multiple undiscovered cells</color>.
+Challenge
+This cell's <color=#brightred>Success Rate is decreased by 60%</color>.\nConnecting to this cell <color=#brightblue>restores all failed surrounding cells</color>.
+Simplify
+This cell's <color=#brightred>Success Rate is decreased by 30%</color>.\nConnecting to this cell will turn all "special cells" around this cell into "basic cells"
+Support
+When you connect to this cell, 1 unconnected "golden" cell will be transferred to one of the "basic" cells around it.
+Culmination
+Connecting to this cell <color=#brightblue>will reduce attempt count by 3</color>.\nBut <color=#brightred>1 unconnected "golden cell" will turn into a "basic cell"</color>.
+Humility
+The higher the attempt count is than half of the Talent limit, the more <color=#brightblue>Success Rate of this cell and all surrounding cells will increase</color>.
+Ambition
+The lower the attempt count is than half of the Talent limit, the more <color=#brightblue>Success Rate of this cell and all surrounding cells will increase</color>.
+Advice
+Connecting to this cell <color=#brightred>will increase attempt count by 1</color>.\nConnecting to this cell <color=#brightblue>will immediately connect 1 unconnected "golden cell"</color>.
+Complete
+You are already familiar with the key points of this technique.\nThis cell <color=#brightblue>will always connect successfully</color>.
+Mistake
+Already suffered setbacks on this cell.\nThis cell's <color=#brightblue>Success Rate will be increased by 100%</color>.\nBut <color=#brightred>you will always lose Health when connecting to this cell, regardless of it's success or failure</color>.

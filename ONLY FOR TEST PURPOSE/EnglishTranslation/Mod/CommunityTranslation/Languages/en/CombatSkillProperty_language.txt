@@ -1,74 +1,74 @@
-Poder Atual
-Limite de Poder
-Tempo de Execucao
-Custo de Postura/Inalacao
-Razao Ext/Int
-Taxa de Conversacao Interna
-Forca Interna Total
-Ganho de Forca Interna
-Conversao Elemental
-Vagas Universais
-Custo de Mobilidade
-MOV·Vel
-Aumentar Forca
-Aumentar Agilidade
-Aumentar Velocidade
-Aumentar BRE
-Enfraquecer Movimentacao
-Custo de Movimentacao
-Aumentar Def. Ext.
-Aumentar Def. Int.
-Aumentar Desvio
-Aumentar Defesa
-Aumentar Esquiva
-Aumentar Foco
-Poder de Contraataque
-Reflexao de PH
-Reflexao de Qi
-Alcance de Reflexao
-Duracao
-Aumentar ATK
-Aumentar Precisao
-Razao de Forca
-Razao de Agilidade
-Razao de Velocidade
-Alcance de Ataque
-Ataque no Peito
-Ataque na Cintura
-Ataque na Cabeca
-Ataque nos Bracos
-Ataque nas Pernas
-Gravidade dos pontos acupunturais selados
-Gravidade das falhas
-Aplicar Acritoxina
-Aplicar Umbritoxina
-Aplicar Criotoxina
-Aplicar Pirotoxina
-Aplicar Necrtoxina
-Aplicar Oneirotoxina
-Requisitos
-Quebrar Linha
-Linha Rapida
-Linha de Aegis
-Linha de Nadis
-Requer Estilo de Lancamento
-Requer Estilo de Disparo
-Requer Estilo de Impulso
-Requer Estilo de Golpe
-Requer Estilo de Estocada
-Requer Estilo de Corte
-Requer Estilo de Soco
-Requer Estilo de Ponto
-Requer Estilo de Segurar
-Requer Estilo Sonoro
-Requer Estilo de Envolver
-Requer Estilo de Feitico
-Requer Estilo de Arma
-Requer Estilo de Droga
-Requer Estilo Toxico
-Requer Estilo de Varredura
-Progresso de Acúmulo
-Chance de Selamento
-Duracao de Selamento
-Aumentar ATK
-Aumentar Precisao
+Current Power
+Power Cap
+Cast Time
+Stance/Inhale Cost
+Ext/Int Ratio
+Inner Conversation Rate
+Total Internal Force
+Gain Internal Force
+Elemental Convertion
+Universal Slots
+Mobility Cost
+MOV·Spd
+Increase Might
+Increase Finesse
+Increase Swiftness
+Increase BRE
+Footwork Consumption
+Footwork Cost
+Increase Ext. Def.
+Increase Int. Def.
+Increase Diversion
+Increase Parry
+Increase Evasion
+Increase Focus
+Counterattack Power
+Ph Reflect
+Qi Reflect
+Reflect Range
+Duration
+Increase ATK
+Increase Accuracies
+Might Ratio
+Finesse Ratio
+Swiftness Ratio
+Attack Range
+Attack Chest
+Attack Waist
+Attack Head
+Attack Arms
+Attack Legs
+Severity of sealed acupoints
+Severity of flaws
+Apply Acritoxin
+Apply Umbritoxin
+Apply Cryotoxin
+Apply Pyrotoxin
+Apply Necrotoxin
+Apply Oneirotoxin
+Requirements
+Break Row
+Quick Row
+Aegis Row
+Nadis Row
+Requires Throw Style
+Requires Shot Style
+Requires Drive Style
+Requires Hack Style
+Requires Stab Style
+Requires Slash Style
+Requires Punch Style
+Requires Point Style
+Requires Hold Style
+Requires Sound Style
+Requires Wrap Style
+Requires Spell Style
+Requires Ware Style
+Requires Drug Style
+Requires Toxic Style
+Requires Sweep Style
+Accumulation Speed
+Sealing Chance
+Sealing Duration
+Increase ATK
+Increase Accuracy

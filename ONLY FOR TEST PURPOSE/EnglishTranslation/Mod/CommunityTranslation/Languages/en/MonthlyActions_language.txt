@@ -1,83 +1,83 @@
-Aventura - Recrutamento da Capital - Preparacao
-Aventura - Recrutamento de Chengdu - Preparacao
-Aventura - Recrutamento de Guizhou - Preparacao
-Aventura - Recrutamento de Xiangyang - Preparacao
-Aventura - Recrutamento de Taiyuan - Preparacao
-Aventura - Recrutamento de Guangzhou - Preparacao
-Aventura - Recrutamento de Qingzhou - Preparacao
-Aventura - Recrutamento de Jiangling - Preparacao
-Aventura - Recrutamento de Fuzhou - Preparacao
-Aventura - Recrutamento de Liaoyang - Preparacao
-Aventura - Recrutamento de Qinzhou - Preparacao
-Aventura - Recrutamento de Dali - Preparacao
-Aventura - Recrutamento de Shouchun - Preparacao
-Aventura - Recrutamento de Hangzhou - Preparacao
-Aventura - Recrutamento de Yangzhou - Preparacao
-Aventura - Covil do Mendigo Maligno - Preparacao
-Aventura - Acampamento de Ladroes - Preparacao
-Aventura - Vale dos Viloes - Preparacao
-Aventura - Vila dos Bandidos - Preparacao
-Aventura - Acampamento dos Traidores - Preparacao
-Aventura - Formacao de Batalha de Incenso - Preparacao
-Aventura - Casa do Erudito Estranho - Preparacao
-Aventura - Túmulos Nao Marcados - Preparacao
-Aventura - Cena do Massacre Sangrento - Preparacao
-Aventura - Danca Demoníaca - Preparacao
-Aventura - Lugar Abandonado - Preparacao
-Aventura - Armadilha da Morte Maligna - Preparacao
-Aventura - Salao da Justica - Preparacao
-Aventura - Alianca Cavalheiresca - Preparacao
-Aventura - Mundo Secreto - Preparacao
-Aventura - Assembleia Wulin - Preparacao
-Aventura - Recrutamento Feminino da Capital - Preparacao
-Aventura - Recrutamento Feminino de Chengdu - Preparacao
-Aventura - Recrutamento Feminino de Guizhou - Preparacao
-Aventura - Recrutamento Feminino de Xiangyang - Preparacao
-Aventura - Recrutamento Feminino de Taiyuan - Preparacao
-Aventura - Recrutamento Feminino de Guangzhou - Preparacao
-Aventura - Recrutamento Feminino de Qingzhou - Preparacao
-Aventura - Mulher Inscrita em Jiangling - Preparacao
-Aventura - Recrutamento Feminino de Fuzhou - Preparacao
-Aventura - Recrutamento Feminino de Liaoyang - Preparacao
-Aventura - Recrutamento Feminino de Qinzhou - Preparacao
-Aventura - Recrutamento Feminino de Dali - Preparacao
-Aventura - Recrutamento Feminino de Shouchun - Preparacao
-Aventura - Recrutamento Feminino de Hangzhou - Preparacao
-Aventura - Recrutamento Feminino de Yangzhou - Preparacao
-Aventura - Competicao da Seita Shaolin - Preparacao
-Aventura - Competicao da Seita Emei - Preparacao
-Aventura - Competicao do Vale das Cem Flores - Preparacao
-Aventura - Competicao da Seita Wudang - Preparacao
-Aventura - Competicao da Seita Yuanshan - Preparacao
-Aventura - Competicao da Seita Face de Leao - Preparacao
-Aventura - Competicao da Seita Ranshan - Preparacao
-Aventura - Competicao da Seita Xuannyu - Preparacao
-Aventura - Competicao do Jardim da Espada - Preparacao
-Aventura - Competicao da Seita Kongsang - Preparacao
-Aventura - Competicao da Seita Vajrayana - Preparacao
-Aventura - Competicao da Seita dos Cinco Imortais - Preparacao
-Aventura - Competicao da Seita Jieqing - Preparacao
-Aventura - Competicao do Altar Fu Long - Preparacao
-Aventura - Competicao da Seita Cao de Caca - Preparacao
-Aventura - Feira da Primavera - Preparacao
-Aventura - Torneio·Soco - Preparacao
-Aventura - Torneio - Técnica de Dedo - Preparacao
-Aventura - Torneio - Técnica de Chute - Preparacao
-Aventura - Torneio - Armas Secretas - Preparacao
-Aventura - Torneio - Técnica de Espada - Preparacao
-Aventura - Torneio - Técnica de Lamina - Preparacao
-Aventura - Torneio - Arma Longa - Preparacao
-Aventura - Torneio - Armas Exoticas - Preparacao
-Aventura - Torneio - Armas Flexíveis - Preparacao
-Aventura - Torneio - Armas a Distancia - Preparacao
-Aventura - Torneio - Melodia - Preparacao
-Aventura - Torneio de Grilos - Preparacao
-Aventura - Competicao de Arte - Forjamento - Preparacao
-Aventura - Competicao de Arte - Carpintaria - Preparacao
-Aventura - Competicao de Arte - Tecelagem - Preparacao
-Aventura - Competicao de Arte - Lapidacao de Gemas - Preparacao
-Aventura - Competicao de Arte - Medicina - Preparacao
-Aventura - Competicao de Arte - Toxicologia - Preparacao
-Aventura - Competicao de Arte - Artes Culinarias - Preparacao
-Aventura - O que é Ortodoxo - Preparacao
-Aventura - Competicao das Tres Seitas - Preparacao
+Adventure - Capital Recruitment - Preparation
+Adventure - Chengdu Recruitment - Preparation
+Adventure - Guizhou Recruitment - Preparation
+Adventure - Xiangyang Recruitment - Preparation
+Adventure - Taiyuan Recruitment - Preparation
+Adventure - Guangzhou Recruitment - Preparation
+Adventure - Qingzhou Recruitment - Preparation
+Adventure - Jiangling Recruitment - Preparation
+Adventure - Fuzhou Recruitment - Preparation
+Adventure - Liaoyang Recruitment - Preparation
+Adventure - Qinzhou Recruitment - Preparation
+Adventure - Dali Recruitment - Preparation
+Adventure - Shouchun Recruitment - Preparation
+Adventure - Hangzhou Recruitment - Preparation
+Adventure - Yangzhou Recruitment - Preparation
+Adventure - Evil Beggar's Den - Preparation
+Adventure - Thief Camp - Preparation
+Adventure - Villain's Valley - Preparation
+Adventure - Bandit Village - Preparation
+Adventure - Traitor Camp - Preparation
+Adventure - Incense Battle Array - Preparation
+Adventure - Strange Scholar's Home - Preparation
+Adventure - Unmarked Graves - Preparation
+Adventure - Scene Of Bloody Slaughter - Preparation
+Adventure - Demon Dance - Preparation 
+Adventure - Abandoned Place - Preparation
+Adventure - Evil Deathtrap - Preparation
+Adventure - Righteous Hall - Preparation
+Adventure - Chivalrous Alliance - Preparation
+Adventure - Secret World - Preparation
+Adventure - Wulin Assembly - Preparation
+Adventure - Capital City Recruiting Female - Preparation
+Adventure - Chengdu recruiting Female - Preparation
+Adventure - Guizhou recruiting Female - Preparation
+Adventure - Xiangyang Recruiting Female - Preparation
+Adventure - Taiyuan Recruiting Female - Preparation
+Adventure - Guangzhou recruiting Female - Preparation
+Adventure - Qingzhou Recruiting Female - Preparation
+Adventure - Enrolled Female in Jiangling - Preparation
+Adventure - Fuzhou recruiting Female - Preparation
+Adventure - Liaoyang recruiting Female - Preparation
+Adventure - Qinzhou Recruiting Female - Preparation
+Adventure - Dali Recruiting Female - Preparation
+Adventure - Shouchun Recruiting Female - Preparation
+Adventure - Hangzhou recruiting Female - Preparation
+Adventure - Yangzhou recruiting Female - Preparation
+Adventure - Shaolin Sect competition - Preparation
+Adventure - Emei Sect competition - Preparation
+Adventure - Hundred Flowers Valley competition - Preparation
+Adventure - Wudang Sect competition - Preparation
+Adventure - Yuanshan Sect competition - Preparation
+Adventure - Lion Face Sect competition - Preparation
+Adventure - Ranshan Sect competition - Preparation
+Adventure - Xuannyu Sect competition - Preparation
+Adventure - Sword Manor competition - Preparation
+Adventure - Kongsang Sect competition - Preparation
+Adventure - Vajrayana Sect competition - Preparation
+Adventure - Five Immortals Sect competition - Preparation
+Adventure - Jieqing Sect competition - Preparation
+Adventure - Fu Long Altar competition - Preparation
+Adventure - Bloodhound Cult competition - Preparation
+Adventure-Spring Fair-Preparation
+Adventure-Tournament·Fist-Preparation
+Adventure - Tournament - Finger Technique - Preparation
+Adventure - Tournament - Kick Technique - Preparation
+Adventure - Tournament - Hidden Weapons - Preparation
+Adventure - Tournament - Sword Technique - Preparation
+Adventure - Tournament - Blade Technique - Preparation
+Adventure - Tournament - Polearm - Preparation
+Adventure-Tournament-Exotic Weapons-Preparation
+Adventure - Tournament - Soft Weapons - Preparation
+Adventure - Tournament - Ranged Weapons - Preparation
+Adventure - Tournament - Melody - Preparation
+Adventure - Cricket Tournament - Preparation
+Adventure - Art Competition - Smithing - Preparation
+Adventure - Art Competition - Carpentry - Preparation
+Adventure - Art Competition - Weaving - Preparation
+Adventure - Art Competition - Gemcutting - Preparation
+Adventure - Art Competition - Medicine - Preparation
+Adventure - Art Competition - Toxicology - Preparation
+Adventure-Competition-Culinary Arts-Preparation
+Adventure - What is Orthodox - Preparation
+Adventure - Three Sects Competition - Preparation
