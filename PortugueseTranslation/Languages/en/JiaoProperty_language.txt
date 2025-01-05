@@ -19,12 +19,12 @@ Preco Reduzido
 Valor
 Valor Aumentado
 Valor Reduzido
-Bônus de Presente
-Bônus de Presente Aumentado
-Bônus de Presente Reduzido
-Bônus de Favor
-Bônus de Favor Aumentado
-Bônus de Favor Reduzido
+Bonus de Presente
+Bonus de Presente Aumentado
+Bonus de Presente Reduzido
+Bonus de Favor
+Bonus de Favor Aumentado
+Bonus de Favor Reduzido
 Duracao
 
 

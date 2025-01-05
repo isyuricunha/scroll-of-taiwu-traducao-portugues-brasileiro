@@ -161,9 +161,9 @@ Técnica da Boneca de Sangue
 
 
 Boneca de Sangue
-Ignorar os próximos {0} de dano direto
+Ignorar os proximos {0} de dano direto
 
-Ignorar os próximos {0} de dano por ferimento interno
+Ignorar os proximos {0} de dano por ferimento interno
 
 Salto Celestial
 
@@ -273,7 +273,7 @@ Tremor
 
 
 Coracao Puro
-Devido ao mistério do livro, o poder das próprias técnicas aumenta ou diminui conforme os cinco elementos do poder interno
+Devido ao mistério do livro, o poder das proprias técnicas aumenta ou diminui conforme os cinco elementos do poder interno
 
 Viagem de Roupagem Leve
 Devido ao mistério do estranho livro, o consumo de Valor de Movimentacao em batalha é grandemente reduzido.
@@ -282,10 +282,10 @@ Lei Abrangente
 Devido ao mistério do estranho livro, o poder das habilidades de Aegis e Nadis é multiplicado
 
 Pintura Imitando Dragao
-Devido ao mistério do estranho livro, em batalha, ao quebrar a Defesa do inimigo com Punho, o inimigo soltara suas armas, e quanto mais próximo voce estiver, maior sera o dano da habilidade de Punho
+Devido ao mistério do estranho livro, em batalha, ao quebrar a Defesa do inimigo com Punho, o inimigo soltara suas armas, e quanto mais proximo voce estiver, maior sera o dano da habilidade de Punho
 
 Olho da Mente Pergaminho Rasgado
-Devido aos segredos do estranho livro, em batalha, após perseguir o inimigo 5 vezes em 1 rodada de ataques com Punho, uma habilidade aleatória do inimigo sera bloqueada por um curto tempo, e quanto mais Pontos de Acupuntura selados, maior o dano da Técnica de Dedo
+Devido aos segredos do estranho livro, em batalha, apos perseguir o inimigo 5 vezes em 1 rodada de ataques com Punho, uma habilidade aleatoria do inimigo sera bloqueada por um curto tempo, e quanto mais Pontos de Acupuntura selados, maior o dano da Técnica de Dedo
 
 Escritura dos Oito Limites
 Devido ao mistério do estranho livro, em batalha, as armas usadas substituem as Roupas Inferiores ao usar Técnica de Chute, e quanto menor a Resistencia do inimigo, maior sera o dano da Técnica de Chute
@@ -294,16 +294,16 @@ Livro do Movimento Sombrio
 Devido ao mistério do estranho livro, em batalha, ao atacar com Armas Ocultas, ignora-se a protecao do inimigo, e quanto mais longe do inimigo, maior sera o dano das técnicas de Armas Ocultas
 
 Espada Divina Sem Nome
-Devido aos segredos do estranho livro, em batalha, ao atingir um inimigo sem Defesa com Espada, ha 50% de chance de recuperar o ataque gasto, e quanto menos Estilo o inimigo tiver, maior sera o dano da própria Técnica de Espada
+Devido aos segredos do estranho livro, em batalha, ao atingir um inimigo sem Defesa com Espada, ha 50% de chance de recuperar o ataque gasto, e quanto menos Estilo o inimigo tiver, maior sera o dano da propria Técnica de Espada
 
-Extermínio dos Dez Demônios
+Extermínio dos Dez Demonios
 Devido ao mistério do estranho livro, em batalha, o tempo de recarga da Defesa do inimigo causado pela Lamina é triplicado, e quanto mais Pontos Fracos o inimigo tiver, maior sera o dano das Técnicas de Lamina
 
 Golpe Único Parte Céus
 Devido ao mistério do estranho livro, em batalha, a Arma de Haste usada pode refletir mais marcas de derrota, e quanto mais marcas de derrota voce tiver, maior sera o dano das Técnicas de Arma de Haste
 
 Origem Primordial
-Devido ao mistério do estranho livro, em batalha, ao atacar com Armas Exóticas, a Defesa do inimigo é quebrada mais facilmente, e quanto menor a Postura do inimigo, maior sera o dano das Técnicas de Armas Exóticas
+Devido ao mistério do estranho livro, em batalha, ao atacar com Armas Exoticas, a Defesa do inimigo é quebrada mais facilmente, e quanto menor a Postura do inimigo, maior sera o dano das Técnicas de Armas Exoticas
 
 Nove Imitacoes Manuscrito Verdadeiro
 Devido ao mistério do estranho livro, em batalha, o alcance de ataque de suas Armas Flexíveis aumenta, e quanto menor a Inalacao do inimigo, maior sera o dano das Técnicas de Armas Flexíveis
@@ -312,7 +312,7 @@ Técnica Divina da Comunicacao Celestial
 Devido ao mistério do estranho livro, em batalha, ao Mudar de Estilo ao atacar com Armas de Longo Alcance, a chance de perseguir o inimigo é multiplicada, e quanto mais vezes voce Mudar de Estilo, maior sera o dano das Técnicas de Armas de Longo Alcance
 
 Voz Absoluta da Deusa
-Devido ao mistério do estranho livro, em batalha, ao atingir o inimigo com Melodia, ela danificara o Qi Verdadeiro do inimigo, e quanto mais Estilos de Som possuir, maior sera o dano de suas próprias Técnicas de Melodia
+Devido ao mistério do estranho livro, em batalha, ao atingir o inimigo com Melodia, ela danificara o Qi Verdadeiro do inimigo, e quanto mais Estilos de Som possuir, maior sera o dano de suas proprias Técnicas de Melodia
 
 Rei da Colina
 Velocidade de recuperacao de tokens de ataque aumentada em 50%
@@ -345,8 +345,8 @@ Afundar no Pantano
 Quantidade de toxinas aplicadas ao inimigo aumentada em 100% e nível de toxina aumentado em um nível
 <color=#lightgrey>Quando localizado em <color=#brightblue>Pantanos</color>, a quantidade de veneno aplicado ao inimigo na batalha aumenta significativamente, e o nível de veneno aumenta em um nível</color>
 A Flor de Pessego
-Recupere toda a energia interna consumida após a batalha
-<color=#lightgrey>Quando localizado em <color=#brightblue>Paraíso</color>, toda a energia interna consumida sera restaurada após a batalha</color>
+Recupere toda a energia interna consumida apos a batalha
+<color=#lightgrey>Quando localizado em <color=#brightblue>Paraíso</color>, toda a energia interna consumida sera restaurada apos a batalha</color>
 Veneno Mítico de Wuming
 Devido ao Veneno Mítico, o poder de Wuming aumentou drasticamente
 
@@ -367,8 +367,8 @@ Controlando Aguia
 Devido ao controle de uma Aguia, quanto mais longe o inimigo estiver do usuario, maior sera a chance de acertar os pontos vitais do inimigo.
 Controlando Aguia: <color=#brightblue>Quanto mais longe o inimigo estiver do usuario, maior sera a chance de acertar os pontos vitais do inimigo</color>.
 Controlando Javali
-Devido ao controle de um Javali, quanto mais próximo o inimigo estiver do usuario, maior sera a chance de acertar os pontos vitais do inimigo.
-Controlando Javali: <color=#brightblue>Quanto mais próximo o inimigo estiver do usuario, maior sera a chance de acertar os pontos vitais do inimigo</color>.
+Devido ao controle de um Javali, quanto mais proximo o inimigo estiver do usuario, maior sera a chance de acertar os pontos vitais do inimigo.
+Controlando Javali: <color=#brightblue>Quanto mais proximo o inimigo estiver do usuario, maior sera a chance de acertar os pontos vitais do inimigo</color>.
 Controlando Urso Marrom
 Devido ao controle de um Urso Marrom, o dano direto causado por Feridas Fatais pelo usuario sera aumentado; o dano direto causado por Feridas Fatais pelo inimigo sera reduzido.
 Controlando Urso Marrom: <color=#brightblue>O dano direto causado por Feridas Fatais pelo usuario sera aumentado; o dano direto causado por Feridas Fatais pelo inimigo sera reduzido</color>.
@@ -394,8 +394,8 @@ Controlando Roc Dourado
 Devido ao controle de um Roc Dourado, quanto mais longe o inimigo estiver do usuario, maior sera a chance de acertar os pontos vitais do inimigo.
 Controlando Roc Dourado: <color=#brightblue>Quanto mais longe o inimigo estiver do usuario, maior sera a chance de acertar os pontos vitais do inimigo</color>.
 Controlando Porco Preto
-Devido ao controle de um Porco Preto, quanto mais próximo o inimigo estiver do usuario, maior sera a chance de acertar os pontos vitais do inimigo.
-Controlando Porco Preto: <color=#brightblue>Quanto mais próximo o inimigo estiver do usuario, maior sera a chance de acertar os pontos vitais do inimigo</color>.
+Devido ao controle de um Porco Preto, quanto mais proximo o inimigo estiver do usuario, maior sera a chance de acertar os pontos vitais do inimigo.
+Controlando Porco Preto: <color=#brightblue>Quanto mais proximo o inimigo estiver do usuario, maior sera a chance de acertar os pontos vitais do inimigo</color>.
 Controlando Urso Branco
 Devido ao controle de um Urso Branco, o dano direto de Ferida Fatal causado pelo usuario sera aumentado; O dano direto de Ferida Fatal causado pelo inimigo sera reduzido.
 Controlando Urso Branco: <color=#brightblue>O dano direto de Ferida Fatal causado pelo usuario sera aumentado; O dano direto de Ferida Fatal causado pelo inimigo sera reduzido</color>.
@@ -409,15 +409,15 @@ Controlando Pantera Negra
 Devido ao controle de uma Pantera Negra, o poder de Contra-ataque do usuario é aumentado.
 Controlando Pantera Negra: <color=#brightblue>O poder de Contra-ataque do usuario é aumentado</color>.
 Controlando Leao Dourado
-Devido ao controle de um Leao Dourado, o efeito de esgotamento do usuario sobre o Jogo de Pés, Energia, Fôlego e Posicao do inimigo sera aumentado; O efeito de esgotamento do inimigo sobre o usuario sera reduzido.
-Controlando Leao Dourado: <color=#brightblue>O efeito de esgotamento do usuario sobre o Jogo de Pés, Energia, Fôlego e Posicao do inimigo sera aumentado; O efeito de esgotamento do inimigo sobre o usuario sera reduzido</color>.
+Devido ao controle de um Leao Dourado, o efeito de esgotamento do usuario sobre o Jogo de Pés, Energia, Folego e Posicao do inimigo sera aumentado; O efeito de esgotamento do inimigo sobre o usuario sera reduzido.
+Controlando Leao Dourado: <color=#brightblue>O efeito de esgotamento do usuario sobre o Jogo de Pés, Energia, Folego e Posicao do inimigo sera aumentado; O efeito de esgotamento do inimigo sobre o usuario sera reduzido</color>.
 Controlando Tigre Branco
 Devido ao controle de um Tigre Branco, o dano dos ataques de acompanhamento do usuario aumentara gradualmente até o fim do ataque.
 Controlando Tigre Branco: <color=#brightblue>O dano dos ataques de acompanhamento do usuario aumentara gradualmente até o fim do ataque</color>.
 7 Inducoes de Roda
-Aumenta lentamente e continuamente tipos aleatórios de Qi Verdadeiro
+Aumenta lentamente e continuamente tipos aleatorios de Qi Verdadeiro
 
-Reduz lentamente e continuamente tipos aleatórios de Qi Verdadeiro
+Reduz lentamente e continuamente tipos aleatorios de Qi Verdadeiro
 
 Controlando Jiao Branco
 Devido ao controle de um Jiao Branco, a "Compostura" do usuario é aumentada.
@@ -516,8 +516,8 @@ Controlando Qiuniu
 Ao controlar um Qiuniu: "Poder", "Destreza" e "Velocidade" do usuario aumentam com a "Respiracao"; "Diversao", "Defesa" e "Evasao" aumentam com o "Foco".
 Controlando Qiuniu: <color=#brightblue>"Poder", "Destreza" e "Velocidade" aumentam com a "Respiracao"; "Diversao", "Defesa" e "Evasao" aumentam com o "Foco".</color>
 Controlando Yazi
-Ao controlar um Yazi, parte do dano direto recebido do inimigo sera adicionado ao próximo ataque do usuario.
-Controlando Yazi: <color=#brightblue>Parte do dano direto recebido do inimigo sera adicionado ao próximo ataque do usuario</color>.
+Ao controlar um Yazi, parte do dano direto recebido do inimigo sera adicionado ao proximo ataque do usuario.
+Controlando Yazi: <color=#brightblue>Parte do dano direto recebido do inimigo sera adicionado ao proximo ataque do usuario</color>.
 Controlando Chaofeng
 Por controlar Chaofeng: A velocidade de recuperacao do vigor do usuario aumenta.
 Controlando Chaofeng: <color=#brightblue>A velocidade de recuperacao do vigor do usuario aumenta</color>
@@ -580,10 +580,10 @@ Suspiro das Flores
 
 
 Qi da Morte no Peito
-Devido ao caótico qi da morte no peito, eles sentem como se tivessem sido atingidos por um raio, a dor é insuportavel, tornando extremamente difícil tentar mobilizar o próprio poder.
+Devido ao caotico qi da morte no peito, eles sentem como se tivessem sido atingidos por um raio, a dor é insuportavel, tornando extremamente difícil tentar mobilizar o proprio poder.
 
 Qi da Morte Conquista a Alma
-Por causa da agitacao da energia da morte no peito, era como ser esfaqueado por milhares de facas. Nao apenas a dor era insuportavel, mas também era difícil ativar o poder, e os órgaos internos também foram destruídos...
+Por causa da agitacao da energia da morte no peito, era como ser esfaqueado por milhares de facas. Nao apenas a dor era insuportavel, mas também era difícil ativar o poder, e os orgaos internos também foram destruídos...
 
 Shaolin perde poder
 O poder das técnicas de Shaolin aumentou; O poder das técnicas de Shaolin da Pessoa Ressuscitada diminuiu...
@@ -631,7 +631,7 @@ Bloodhound perde poder
 O poder das técnicas de Bloodhound aumentou; O poder das técnicas de Bloodhound da Pessoa Ressuscitada diminuiu...
 
 Sino da Alma Caída
-Ao ser capturado pelo Sino da Alma Caída, todos os atributos secundarios sao reduzidos à metade. Se for possível ferir gravemente seu mestre, esta batalha ainda pode ter uma chance de vitória...
+Ao ser capturado pelo Sino da Alma Caída, todos os atributos secundarios sao reduzidos a metade. Se for possível ferir gravemente seu mestre, esta batalha ainda pode ter uma chance de vitoria...
 
-Sino da Alma Caída se volta contra o usuario, todos os atributos secundarios sao reduzidos à metade, a mente se dispersa, e nao ha forcas para resistir ao inimigo...
+Sino da Alma Caída se volta contra o usuario, todos os atributos secundarios sao reduzidos a metade, a mente se dispersa, e nao ha forcas para resistir ao inimigo...
 

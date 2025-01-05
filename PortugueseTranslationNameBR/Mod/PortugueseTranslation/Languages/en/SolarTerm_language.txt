@@ -4,8 +4,8 @@ Início da Primavera, as flores de ameixa estao especialmente belas.
 Agua das Chuvas, as flores de ameixa florescem na chuva.
 3: Despertar dos Insetos
 Despertar dos Insetos, as florestas de juncos despertam com o trovao.
-4: Equinócio da Primavera
-Equinócio da Primavera, borboletas dancam entre as flores.
+4: Equinocio da Primavera
+Equinocio da Primavera, borboletas dancam entre as flores.
 5: Pureza e Clareza
 Pureza e Clareza, pipas voam com linhas soltas.
 6: Chuva dos Graos
@@ -21,15 +21,15 @@ O arroz floresce como sempre no Solstício de Verao.
 11: Calor Moderado
 Calor Moderado, os ventos quentes amadurecem os feijoes.
 12: Grande Calor
-Grande Calor, apreciando as flores de lótus vermelhas no lago.
+Grande Calor, apreciando as flores de lotus vermelhas no lago.
 13: Início do Outono
 Início do Outono, recolhendo e indo dormir.
 14: Limite do Calor
-Limite do Calor, os girassóis comecam a sorrir.
+Limite do Calor, os girassois comecam a sorrir.
 15: Orvalho Branco
 Orvalho Branco, andorinhas e gansos voltam para casa.
-16: Equinócio de Outono
-Equinócio de Outono, jardins cheios de aroma de canela.
+16: Equinocio de Outono
+Equinocio de Outono, jardins cheios de aroma de canela.
 17: Orvalho Frio
 Orvalho Frio, vegetais amadurecem nos campos com o frio.
 18: Queda da Geada

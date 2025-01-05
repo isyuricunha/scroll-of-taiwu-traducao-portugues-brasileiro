@@ -1,17 +1,17 @@
 Troca
-Pode usar a ordem「Troca」para aumentar os stats de ATK, Defesa, Precisão e Determinação e trocar com o lutador principal por um curto período de tempo.
+Pode usar a ordem「Troca」para aumentar os stats de ATK, Defesa, Precisão e Determinacão e trocar com o lutador principal por um curto período de tempo.
 Estou totalmente preparado, deixe-me assumir seu lugar!
 Ataque
 Defesa
-Precisão
-Determinação
-Aceleração
-Pode usar a ordem「Aceleração」para aumentar o progresso de lançamento da habilidade do lutador principal.
+Precisao
+Determinacao
+Aceleracao
+Pode usar a ordem「Aceleracao」para aumentar o progresso de lancamento da habilidade do lutador principal.
 Deixe-me emprestar meu poder para você realizá-la!
-Progresso de Lançamento
+Progresso de Lancamento
 Empurrar
 Pode usar a ordem「Empurrar」para aproximar o lutador principal do oponente.
-Siga seu coração e avance rapidamente!
+Siga seu coracao e avance rapidamente!
 MOV·Dist
 Puxar
 Pode usar a ordem「Puxar」para afastar o lutador principal do oponente.
@@ -23,28 +23,28 @@ Deixe-me bloquear isso por você!
 Poder da Habilidade
 Curar
 Pode usar a ordem「Curar」para curar o lutador principal.
-Suas feridas são urgentes, deixe-me tratá-lo rapidamente!
+Suas feridas sao urgentes, deixe-me tratá-lo rapidamente!
 Desintoxicar
 Pode usar a ordem「Desintoxicar」para desintoxicar o lutador principal.
 O veneno está afetando você, deixe-me desintoxicá-lo rapidamente!
 Reparar
 Pode usar a ordem「Reparar」para remover Pontos Fracos do lutador principal.
-Com meus cuidados, seus Pontos Fracos serão resolvidos!
+Com meus cuidados, seus Pontos Fracos serao resolvidos!
 Remove Pontos Fracos
 Liberar
 Pode usar a ordem「Liberar」para remover Pontos de Acupuntura Selados do lutador principal.
 Use meu qi para desbloquear seus Pontos de Acupuntura Selados!
 Remove Pontos de Acupuntura Selados
 Guiar
-Pode usar a ordem「Guiar」para aumentar o Poder, Finura, Rapidez e Respiração do lutador principal por um curto período de tempo.
-Deixe-me proteger o flanco, e você apenas faça o seu melhor para atacar!
+Pode usar a ordem「Guiar」para aumentar o Poder, Finura, Rapidez e Respiracao do lutador principal por um curto período de tempo.
+Deixe-me proteger o flanco, e você apenas faca o seu melhor para atacar!
 POD
 FIN
 RAP
 RES
 Alerta
-Pode usar a ordem「Alerta」para aumentar a Diversão, Parar, Esquiva e Foco do lutador principal por um curto período de tempo.
-Ficarei de guarda no flanco, não dando chance ao inimigo de atacar!
+Pode usar a ordem「Alerta」para aumentar a Diversao, Parar, Esquiva e Foco do lutador principal por um curto período de tempo.
+Ficarei de guarda no flanco, nao dando chance ao inimigo de atacar!
 DIV
 PAR
 ESQ
@@ -58,52 +58,52 @@ Pode usar a ordem「Sacrifício」para compartilhar Ferimentos e Feridas Fatais 
 
 Restringir
 Pode usar a ordem「Restringir」para impedir que os companheiros do inimigo usem Ordens por um curto período de tempo.
-Deixe-me segurá-los para que você não seja distraído!
-Duração
+Deixe-me segurá-los para que você nao seja distraído!
+Duracao
 Quebrar
 Pode usar a ordem「Quebrar」para atacar o inimigo com uma técnica "Quebrar" de poder aumentado.
 Preparei minha técnica, agora veja esse movimento!
-Pode usar a ordem「Troca」para aumentar os stats de ATK, Defesa, Precisão e Determinação e trocar com o lutador principal por um curto período de tempo. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leão, os aumentos de ATK, Defesa, Precisão e Determinação serão maiores.</color>
-Pode usar a ordem「Aceleração」para aumentar o progresso de lançamento da habilidade do lutador principal. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leão, o aumento no progresso de lançamento será maior.</color>
-Pode usar a ordem「Empurrar」para aproximar o lutador principal do oponente. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leão, só entrará em cooldown a cada 2º uso,</color></color> <color=#brightred>mas seu cooldown será aumentado.</color>
+Pode usar a ordem「Troca」para aumentar os stats de ATK, Defesa, Precisao e Determinacao e trocar com o lutador principal por um curto período de tempo. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leao, os aumentos de ATK, Defesa, Precisao e Determinacao serao maiores.</color>
+Pode usar a ordem「Aceleracao」para aumentar o progresso de lancamento da habilidade do lutador principal. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leao, o aumento no progresso de lancamento será maior.</color>
+Pode usar a ordem「Empurrar」para aproximar o lutador principal do oponente. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leao, só entrará em cooldown a cada 2º uso,</color></color> <color=#brightred>mas seu cooldown será aumentado.</color>
 Contagem de Uso
 Cooldown de Uso
-Pode usar a ordem「Puxar」para afastar o lutador principal do oponente. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leão, só entrará em cooldown a cada 2º uso,</color> <color=#brightred>mas seu cooldown será aumentado.</color>
-Pode usar a ordem「Ataque」para atacar o inimigo. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leão, causará dano extra ao Deflect do inimigo.</color>
+Pode usar a ordem「Puxar」para afastar o lutador principal do oponente. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leao, só entrará em cooldown a cada 2º uso,</color> <color=#brightred>mas seu cooldown será aumentado.</color>
+Pode usar a ordem「Ataque」para atacar o inimigo. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leao, causará dano extra ao Deflect do inimigo.</color>
 Dano de Deflect
-Pode usar a ordem「Defesa」para proteger o lutador principal usando a técnica "Égide" com poder aumentado contra os ataques inimigos. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leão, o aumento de poder da técnica Égide será maior.</color>
-Pode usar a ordem「Curar」para usar Cura no lutador principal. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leão, essa ordem será concluída muito mais rápido.</color>
+Pode usar a ordem「Defesa」para proteger o lutador principal usando a técnica "Égide" com poder aumentado contra os ataques inimigos. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leao, o aumento de poder da técnica Égide será maior.</color>
+Pode usar a ordem「Curar」para usar Cura no lutador principal. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leao, essa ordem será concluída muito mais rápido.</color>
 Velocidade de Cura
-Pode usar a ordem「Desintoxicar」para usar Desintoxicação no lutador principal. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leão, essa ordem será concluída muito mais rápido.</color>
-Velocidade de Desintoxicação
-Pode usar a ordem「Reparar」para remover Pontos Fracos do lutador principal. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leão, removerá mais Pontos Fracos.</color>
-Pode usar a ordem「Liberar」para remover Pontos de Acupuntura Selados do lutador principal. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leão, removerá mais Pontos de Acupuntura Selados.</color>
-Pode usar a ordem「Guiar」para aumentar o Poder, Finura, Rapidez e Respiração do lutador principal por um curto período de tempo. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leão, seu efeito será mais forte,</color> <color=#brightred>mas sua duração será mais curta.</color>
-Pode usar a ordem「Alerta」para aumentar a Diversão, Parar, Esquiva e Foco do lutador principal por um curto período de tempo. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leão, seu efeito será mais forte,</color> <color=#brightred>mas sua duração será mais curta.</color>
-Pode usar a ordem「Verdadeiro Qi」para transferir seu próprio Verdadeiro Qi ao lutador principal. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leão, seu efeito será mais forte.</color>
-Pode usar a ordem「Restringir」para impedir que os companheiros do inimigo usem Ordens por um curto período de tempo. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leão, sua duração será muito aumentada.</color>
-Pode usar a ordem「Quebrar」para atacar o inimigo com uma técnica "Quebrar" de poder aumentado. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leão, o aumento de poder da técnica Quebrar será maior.</color>
+Pode usar a ordem「Desintoxicar」para usar Desintoxicacao no lutador principal. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leao, essa ordem será concluída muito mais rápido.</color>
+Velocidade de Desintoxicacao
+Pode usar a ordem「Reparar」para remover Pontos Fracos do lutador principal. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leao, removerá mais Pontos Fracos.</color>
+Pode usar a ordem「Liberar」para remover Pontos de Acupuntura Selados do lutador principal. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leao, removerá mais Pontos de Acupuntura Selados.</color>
+Pode usar a ordem「Guiar」para aumentar o Poder, Finura, Rapidez e Respiracao do lutador principal por um curto período de tempo. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leao, seu efeito será mais forte,</color> <color=#brightred>mas sua duracao será mais curta.</color>
+Pode usar a ordem「Alerta」para aumentar a Diversao, Parar, Esquiva e Foco do lutador principal por um curto período de tempo. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leao, seu efeito será mais forte,</color> <color=#brightred>mas sua duracao será mais curta.</color>
+Pode usar a ordem「Verdadeiro Qi」para transferir seu próprio Verdadeiro Qi ao lutador principal. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leao, seu efeito será mais forte.</color>
+Pode usar a ordem「Restringir」para impedir que os companheiros do inimigo usem Ordens por um curto período de tempo. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leao, sua duracao será muito aumentada.</color>
+Pode usar a ordem「Quebrar」para atacar o inimigo com uma técnica "Quebrar" de poder aumentado. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leao, o aumento de poder da técnica Quebrar será maior.</color>
 Interromper
 Devido a um rancor, eles podem esperar uma oportunidade para interromper a técnica do lutador principal.
 Isso fará com que sua técnica falhe!
 Arranjar
-Devido a um rancor, eles podem esperar uma oportunidade para empurrar ou puxar o lutador principal para o alcance de ataque do inimigo quando o lutador principal não estiver mais no alcance de ataque do inimigo.
+Devido a um rancor, eles podem esperar uma oportunidade para empurrar ou puxar o lutador principal para o alcance de ataque do inimigo quando o lutador principal nao estiver mais no alcance de ataque do inimigo.
 Deixe-me colocá-lo em perigo!
 Ataque Surpresa
-Devido a um rancor, eles podem esperar uma oportunidade para lançar um ataque surpresa no lutador principal usando suas armas, causando Pontos Fracos e Pontos de Acupuntura Selados.
-Como você não está em guarda, não me culpe por aproveitar a oportunidade para atacá-lo!
-Dispersão de Qi
+Devido a um rancor, eles podem esperar uma oportunidade para lancar um ataque surpresa no lutador principal usando suas armas, causando Pontos Fracos e Pontos de Acupuntura Selados.
+Como você nao está em guarda, nao me culpe por aproveitar a oportunidade para atacá-lo!
+Dispersao de Qi
 Devido a um rancor, eles podem esperar uma oportunidade para dispersar o qi do lutador principal para remover sua técnica Égide ou Passo.
-Aqui estão todas as suas fraquezas!
+Aqui estao todas as suas fraquezas!
 Dano Insidioso
 Devido a um rancor, eles podem esperar uma oportunidade para usar Medicina ou Toxicologia para causar dano ou envenenar o lutador principal.
-Você e eu temos um ódio profundo, então não me culpe por ser implacável!
-Distração
-Devido a um rancor, eles podem esperar uma oportunidade para reduzir o Poder, Finura, Rapidez, Respiração, Diversão, Parar, Esquiva e Foco do lutador principal por um período de tempo.
+Você e eu temos um ódio profundo, entao nao me culpe por ser implacável!
+Distracao
+Devido a um rancor, eles podem esperar uma oportunidade para reduzir o Poder, Finura, Rapidez, Respiracao, Diversao, Parar, Esquiva e Foco do lutador principal por um período de tempo.
 Deixe-me distraí-lo e você será derrotado sem nem mesmo lutar!
 Perturbar
 Devido a um rancor, eles podem esperar uma oportunidade para interromper o lutador principal enquanto ele usa itens, Cura, Desintoxica, faz Ataque de Montaria ou Escapa.
 Espere até eu jogar você em desordem!
-Dispersão de Qi
+Dispersao de Qi
 Devido a um rancor, eles podem esperar uma oportunidade para dispersar o Verdadeiro Qi do lutador principal.
 Disperse seu Verdadeiro Qi e veja como pode resistir ao inimigo!

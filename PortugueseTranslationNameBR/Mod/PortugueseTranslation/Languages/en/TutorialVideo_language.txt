@@ -13,7 +13,7 @@ Equipe um cavalo magro
 Restaurar peso
 Limite de peso aumentado
 Movimento normal é retomado
-Após equipar uma montaria, o limite de peso aumenta
+Apos equipar uma montaria, o limite de peso aumenta
 Mobilidade de volta ao normal
 Comecar novamente
 Abrindo Indústria
@@ -34,7 +34,7 @@ Iniciar Construcao
 Construcao concluída
 Os edifícios sao construídos ao longo de <color=#orange>Meses</color>. Para passar um mes, clique no <color=#orange>Calendario</color> na parte inferior da tela.
 Edifícios industriais concluídos sao mostrados na tela de <color=#orange>Avaliacao do Último Mes</color>
-Ir para o próximo mes
+Ir para o proximo mes
 Procurar um tile
 Visualizar Informacoes do Tile
 Caminho automatico
@@ -58,8 +58,8 @@ Escolher ferramenta
 Selecionar Materiais
 Adicionar recursos
 Para fazer itens, voce precisa de <color=#orange>Ferramenta</color>, <color=#orange>Material</color> e <color=#orange>Recursos</color>
-Troque para a aba <color=#orange>Armazenamento</color> no painel de Ferramentas à esquerda e toque na <color=#orange>Caixa de Ferramenta·Carpintaria</color>
-Troque para a aba <color=#orange>Armazenamento</color> à direita e toque no <color=#orange>Pedaco de Bambu</color>
+Troque para a aba <color=#orange>Armazenamento</color> no painel de Ferramentas a esquerda e toque na <color=#orange>Caixa de Ferramenta·Carpintaria</color>
+Troque para a aba <color=#orange>Armazenamento</color> a direita e toque no <color=#orange>Pedaco de Bambu</color>
 Adicione os <color=#orange>Recursos</color> necessarios, a quantidade pode ser ajustada usando os botoes <color=#orange>+</color> e <color=#orange>-</color>
 Clique no botao <color=#orange>Artesanato 1</color> para criar o item.
 Fazendo Estacas de Bambu
@@ -76,17 +76,17 @@ Efeito da Determinacao
 Para realizar uma habilidade de Quebra, voce precisa consumir <color=#orange>Estilos</color>. Se a quantidade de <color=#orange>Estilos</color> disponíveis for insuficiente, voce nao podera realizar a habilidade.
 Clique com o botao esquerdo do mouse ou use a tecla <color=#orange>J</color> no teclado para realizar um Ataque Normal, cada Ataque Normal exige o consumo de uma certa quantidade de <color=#orange>tokens de ataque</color> (<color=#orange>ícones de espada</color> abaixo do personagem)
 Quando o <color=#orange>Valor de Precisao</color> do atacante for menor que o <color=#orange>Valor de Determinacao</color> do defensor, o defensor ira <color=#orange>Resolver</color> esse ataque.
-Após <color=#orange>Resolver</color> um ataque, o atacante nao obtera <color=#orange>Estilos</color> e o defensor nao sofrera dano
+Apos <color=#orange>Resolver</color> um ataque, o atacante nao obtera <color=#orange>Estilos</color> e o defensor nao sofrera dano
 Entender Combate, Precisao e Determinacao
 Desviar
 Cargas de Desvio
 Quebra de Desvio
 Tempo de Recarga do Desvio
 Efeito do Desvio
-Cada arma tem seu próprio <color=#orange>Valor de Desvio</color>, que corresponde às <color=#orange>Cargas de Desvio</color> para o personagem em combate
+Cada arma tem seu proprio <color=#orange>Valor de Desvio</color>, que corresponde as <color=#orange>Cargas de Desvio</color> para o personagem em combate
 Quando voce recebe um ataque normal, o <color=#orange>Desvio</color> sera ativado e desviara o ataque. Cada ataque deduz uma certa quantidade de <color=#orange>Cargas de Desvio</color>, e quando as Cargas de Desvio chegarem a <color=#orange>0</color>, voce comecara a receber dano.
-Após o <color=#orange>Desvio</color> ser quebrado, o Tempo de Recarga do Desvio comecara, e somente quando terminar voce recuperara suas Cargas de Desvio.
-Após o <color=#orange>Desvio</color> ser bem-sucedido, o atacante ainda obtera <color=#orange>Estilos</color>, mas o defensor nao sera ferido.
+Apos o <color=#orange>Desvio</color> ser quebrado, o Tempo de Recarga do Desvio comecara, e somente quando terminar voce recuperara suas Cargas de Desvio.
+Apos o <color=#orange>Desvio</color> ser bem-sucedido, o atacante ainda obtera <color=#orange>Estilos</color>, mas o defensor nao sera ferido.
 Entender Desvio
 Usando uma habilidade de Quebra
 Tempo de lancamento da habilidade de Quebra 1
@@ -121,8 +121,8 @@ Estratégias de Estudo
 Usando a Percepcao Repentina
 Saindo da Percepcao Repentina
 Existem <color=#orange>Estratégias de Estudo</color> no canto superior direito do menu de Percepcao Repentina. Ao usar as <color=#orange>Estratégias de Estudo</color>, voce pode aumentar muito a velocidade de leitura dos livros. Usar as <color=#orange>Estratégias de Estudo</color> requer consumir uma certa quantidade de <color=#orange>Estatísticas de Compreensao</color>
-Após usar as <color=#orange>Estratégias de Estudo</color>, o progresso da pagina do livro mudara imediatamente. Após selecionar ativamente outra pagina ou preencher todas as Estratégias de Estudo em uma pagina, voce ira para a próxima pagina.
-Após concluir a selecao das Estratégias de Estudo na última pagina do livro, fechar o menu de Percepcao Repentina encerrara a Percepcao Repentina.
+Apos usar as <color=#orange>Estratégias de Estudo</color>, o progresso da pagina do livro mudara imediatamente. Apos selecionar ativamente outra pagina ou preencher todas as Estratégias de Estudo em uma pagina, voce ira para a proxima pagina.
+Apos concluir a selecao das Estratégias de Estudo na última pagina do livro, fechar o menu de Percepcao Repentina encerrara a Percepcao Repentina.
 Avancar Percepcao Repentina
 Praticando habilidades
 Entrando no menu de Pratica
@@ -165,6 +165,6 @@ Além de <color=#orange>Estilos</color>, voce também precisara consumir <color=
 Os oponentes podem ataca-lo durante o tempo de lancamento da habilidade
 Entenda Postura e Inalacao
 Mudanca de Mes
-Ir para o Próximo Mes
-Clique no botao <color=#orange>Mudanca de Mes</color> na parte inferior da tela e selecione consumir todos os dias restantes do mes para avancar para o próximo mes
+Ir para o Proximo Mes
+Clique no botao <color=#orange>Mudanca de Mes</color> na parte inferior da tela e selecione consumir todos os dias restantes do mes para avancar para o proximo mes
 

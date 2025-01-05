@@ -1,6 +1,6 @@
-Metal·Vajra Subjugador de Demônios
-"Vajra subjulga demônios, limpando pagodas de sua sujeira".\n\nO limite de poder das técnicas de "Metal" é aumentado em 30%.\nO limite de poder das técnicas de "Madeira" é <color=#brightred>reduzido em 30%.</color>\nAo usar técnicas de "Fogo", voce sofrera dano de retaliacao e ganhara Desordem de Qi.
-"Vajra subjulga demônios, limpando pagodas de sua sujeira"
+Metal·Vajra Subjugador de Demonios
+"Vajra subjulga demonios, limpando pagodas de sua sujeira".\n\nO limite de poder das técnicas de "Metal" é aumentado em 30%.\nO limite de poder das técnicas de "Madeira" é <color=#brightred>reduzido em 30%.</color>\nAo usar técnicas de "Fogo", voce sofrera dano de retaliacao e ganhara Desordem de Qi.
+"Vajra subjulga demonios, limpando pagodas de sua sujeira"
 O limite de poder das técnicas de <color=#fiveelementtype_jingang>"Metal"</color> <color=#brightblue>é aumentado em 30%</color>;\nO limite de poder das técnicas de <color=#fiveelementtype_zixia>"Madeira"</color> <color=#brightred>é reduzido em 30%</color>;\n<color=#brightred>Ao usar técnicas de <color=#fiveelementtype_chunyang>"Fogo"</color>, voce sofrera dano de retaliacao e ganhara Desordem de Qi.</color>
 Madeira·Nuvens Púrpuras do Leste
 "Nuvens Púrpuras vem do Leste, eliminando espíritos malignos".\n\nO limite de poder das técnicas de "Madeira" é aumentado em 30%.\nO limite de poder das técnicas de "Terra" é <color=#brightred>reduzido em 30%.</color>\nAo usar técnicas de "Metal", voce sofrera dano de retaliacao e ganhara Desordem de Qi.
@@ -14,9 +14,9 @@ Fogo·Chama Yang Pura
 "Yang Puro é como uma chama, criancas inocentes nao tem dúvidas".\n\nO limite de poder das técnicas de "Fogo" é aumentado em 30%.\nO limite de poder das técnicas de "Metal" é <color=#brightred>reduzido em 30%.</color>\nAo usar técnicas de "Agua", voce sofrera dano de retaliacao e ganhara Desordem de Qi.
 "Yang Puro é como uma chama, criancas inocentes nao tem dúvidas"
 O limite de poder das técnicas de <color=#fiveelementtype_chunyang>"Fogo"</color> <color=#brightblue>é aumentado em 30%</color>;\nO limite de poder das técnicas de <color=#fiveelementtype_jingang>"Metal"</color> <color=#brightred>é reduzido em 30%</color>;\n<color=#brightred>Ao usar técnicas de <color=#fiveelementtype_xuanyin>"Agua"</color>, voce sofrera dano de retaliacao e ganhara Desordem de Qi.</color>
-Terra·Retorno à Origem
-"Retorne à origem para encontrar forca interior, e voce sera capaz de carregar o céu".\n\nO limite de poder das técnicas de "Terra" é aumentado em 30%.\nO limite de poder das técnicas de "Agua" é <color=#brightred>reduzido em 30%.</color>\nAo usar técnicas de "Madeira", voce sofrera dano de retaliacao e ganhara Desordem de Qi.
-"Retorne à origem para encontrar forca interior, e voce sera capaz de carregar o céu"
+Terra·Retorno a Origem
+"Retorne a origem para encontrar forca interior, e voce sera capaz de carregar o céu".\n\nO limite de poder das técnicas de "Terra" é aumentado em 30%.\nO limite de poder das técnicas de "Agua" é <color=#brightred>reduzido em 30%.</color>\nAo usar técnicas de "Madeira", voce sofrera dano de retaliacao e ganhara Desordem de Qi.
+"Retorne a origem para encontrar forca interior, e voce sera capaz de carregar o céu"
 O limite de poder das técnicas de <color=#fiveelementtype_guiyuan>"Terra"</color> <color=#brightblue>é aumentado em 30%</color>;\nO limite de poder das técnicas de <color=#fiveelementtype_xuanyin>"Agua"</color> <color=#brightred>é reduzido em 30%</color>;\n<color=#brightred>Ao usar técnicas de <color=#fiveelementtype_zixia>"Madeira"</color>, voce sofrera dano de retaliacao e ganhara Desordem de Qi.</color>
 Hunyuan·Homem e Céu como Um
 "Homem e Céu como Um, Origem de todo Qi"\n\nOs requisitos de uso de todas as técnicas do usuario sao reduzidos em 20%.
@@ -61,9 +61,9 @@ Madeira·Terra Drenada
 "Quando a Terra fraca encontra a Madeira, ela sera drenada de nutrientes."\n\nO limite de poder das técnicas de "Terra" é reduzido em 20%.\nAo usar técnicas de "Terra", voce sofrera dano de retrocesso e ganhara Desordem de Qi.
 "Quando a Terra fraca encontra a Madeira, ela sera drenada de nutrientes"
 O limite de poder das técnicas de <color=#fiveelementtype_guiyuan>"Terra"</color> <color=#brightred>é reduzido em 20%</color>;\n<color=#brightred>Ao usar técnicas de <color=#fiveelementtype_guiyuan>"Terra"</color>, voce sofrera dano de retrocesso e ganhara Desordem de Qi.</color>
-Madeira·Floresta Próspera
-"A Agua gera Madeira, tornando-a em uma floresta próspera."\n\nO limite de poder das técnicas de "Madeira" e "Agua" é aumentado em 20%.\nO limite de poder das técnicas de "Terra" e "Fogo" é reduzido em 20%.
-"A Agua gera Madeira, tornando-a em uma floresta próspera"
+Madeira·Floresta Prospera
+"A Agua gera Madeira, tornando-a em uma floresta prospera."\n\nO limite de poder das técnicas de "Madeira" e "Agua" é aumentado em 20%.\nO limite de poder das técnicas de "Terra" e "Fogo" é reduzido em 20%.
+"A Agua gera Madeira, tornando-a em uma floresta prospera"
 O limite de poder das técnicas de <color=#fiveelementtype_zixia>"Madeira"</color> e <color=#fiveelementtype_xuanyin>"Agua"</color> <color=#brightblue>é aumentado em 20%</color>;\nO limite de poder das técnicas de <color=#fiveelementtype_guiyuan>"Terra"</color> e <color=#fiveelementtype_chunyang>"Fogo"</color> <color=#brightred>é reduzido em 20%</color>
 Madeira·Ramos Umedecidos
 "Quando a Madeira forte encontra a Agua, seus ramos serao umedecidos."\n\nO limite de poder das técnicas de "Madeira" é aumentado em 20%.\nO limite de poder das técnicas de "Terra" é reduzido em 20%.\nAo usar técnicas de "Metal", voce sofrera dano de retrocesso e ganhara Desordem de Qi.

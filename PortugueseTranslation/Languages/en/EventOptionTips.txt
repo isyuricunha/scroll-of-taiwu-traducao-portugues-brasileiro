@@ -2,7 +2,7 @@ A quantidade de companheiros de Taiwu é menor que {0}
 A quantidade de companheiros de Taiwu nao é menor que {0}
 Tempo necessario: {0}
 {0} nao é companheiro de Taiwu
-Tempo de recarga após o uso: {0} meses
+Tempo de recarga apos o uso: {0} meses
 Favor necessario: {0}
 O Favor Regional de {0} esta em: {1}%
 Dinheiro necessario: {0}
@@ -10,7 +10,7 @@ Prestígio necessario: {0}
 Taiwu tem menos de {0} irmaos jurados
 Quando a notícia secreta aconteceu, a Fama de {0} estava positiva.
 Quando a notícia secreta aconteceu, a Fama de {0} estava negativa.
-Quando a notícia secreta aconteceu, {0} e {1} eram próximos
+Quando a notícia secreta aconteceu, {0} e {1} eram proximos
 Quando a notícia secreta aconteceu, {0} e {1} eram amantes
 Quando a notícia secreta aconteceu, {0} foi uma vítima
 A posicao de Taiwu é {0}
@@ -42,5 +42,5 @@ Experiencia necessaria: {0}
 Taiwu precisa ter um espaco livre para consumo
 Obteve o apoio dos tres maiores níveis do Shaolin
 O {0} de Taiwu nao é menor que {1}
-Tempo de recarga após o uso: {0} meses
+Tempo de recarga apos o uso: {0} meses
 Este Jiao pode ser domado apenas uma vez por mes

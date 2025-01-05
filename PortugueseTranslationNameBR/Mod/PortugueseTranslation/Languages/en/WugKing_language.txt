@@ -10,8 +10,8 @@ O nível de Pontos Fracos e Acupontos Selados recebidos pelo anfitriao aumentara
 O nível de Pontos Fracos e Acupontos Selados recebidos pelo anfitriao sera reduzido em 1 nível.
 A Respiracao Interna do anfitriao se tornara desordenada com base no nível de Ferimentos que possui.
 Certamente sera gerado quando o consumo de <SpName=sp_icon_poison_4><color=#rottenpoison>Necrotoxina</color> alcancar 40%.
-Quando a Energia Interna do anfitriao diminuir, a Energia Interna de um tipo aleatório também sera reduzida em 2 pontos.
-Quando a Energia Interna do anfitriao aumentar, a Energia Interna de um tipo aleatório também sera aumentada em 2 pontos.
+Quando a Energia Interna do anfitriao diminuir, a Energia Interna de um tipo aleatorio também sera reduzida em 2 pontos.
+Quando a Energia Interna do anfitriao aumentar, a Energia Interna de um tipo aleatorio também sera aumentada em 2 pontos.
 Todo mes, o valor de demonizacao do anfitriao sera aumentado 10 vezes.
 Certamente sera gerado se todos os tipos de consumo de veneno estiverem dentro de 10% um do outro.
 Se a Saúde do anfitriao nao for inferior a 50%, o dano de Ferida Fatal recebido sera adicionalmente aumentado, e sempre que esse dano for aumentado, a Saúde do anfitriao também sera reduzida.
@@ -24,7 +24,7 @@ A Energia Interna do anfitriao nao sera restaurada todo mes e, em vez disso, ser
 Certamente sera gerado quando o consumo de <SpName=sp_icon_poison_2><color=#coldpoison>Criotoxina</color> alcancar 40%.
 Os efeitos de supressao da essencia pura das habilidades Limpar Impurezas, Passo Divino e Naturalizacao do anfitriao serao reduzidos.
 Os efeitos de supressao da essencia pura das habilidades Limpar Impurezas, Passo Divino e Naturalizacao do anfitriao serao aumentados.
-O Rei do Gu do Bicho-da-Seda Dourado devorara 1 Gu Maduro aleatório no corpo do anfitriao todo mes para aplicar uma grande quantidade de Venenos ao anfitriao.
+O Rei do Gu do Bicho-da-Seda Dourado devorara 1 Gu Maduro aleatorio no corpo do anfitriao todo mes para aplicar uma grande quantidade de Venenos ao anfitriao.
 Certamente sera gerado quando o consumo de <SpName=sp_icon_poison_0><color=#hotpoison>Acritoxina</color> alcancar 40%.
 Os efeitos positivos nas Estatísticas Principais, Estatísticas Secundarias, Precisao, Determinacao, Ataque, Defesa e Talento das "Características" positivas do anfitriao se transformarao temporariamente em efeitos negativos.
 Os efeitos negativos nas Estatísticas Principais, Estatísticas Secundarias, Precisao, Determinacao, Ataque, Defesa e Talento das "Características" negativas do anfitriao se transformarao temporariamente em efeitos positivos.

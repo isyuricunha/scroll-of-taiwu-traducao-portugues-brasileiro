@@ -65,7 +65,7 @@ Requer Estilo de Envolver
 Requer Estilo de Feitico
 Requer Estilo de Arma
 Requer Estilo de Droga
-Requer Estilo Tóxico
+Requer Estilo Toxico
 Requer Estilo de Varredura
 Progresso de Acúmulo
 Chance de Selamento

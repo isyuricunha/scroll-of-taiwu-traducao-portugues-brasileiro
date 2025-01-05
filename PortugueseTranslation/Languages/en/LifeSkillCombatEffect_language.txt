@@ -11,7 +11,7 @@ Sempre que voce responder a uma Pergunta ou Dúvida do oponente, aumenta o valor
 Implementacao
 Seu argumento aumenta o valor de todos os seus argumentos nas casas horizontais ou verticais (pode ser bloqueado por argumentos do oponente).
 Equilíbrio
-Se o oponente escolher responder à própria Pergunta ou Dúvida, reduza o valor do argumento do oponente para essa resposta.
+Se o oponente escolher responder a propria Pergunta ou Dúvida, reduza o valor do argumento do oponente para essa resposta.
 Surpresa
 Seu argumento pode reduzir o valor de todas as casas do oponente a 1 casa de distancia nas horizontais, verticais e diagonais.
 Golpe Lateral
@@ -35,9 +35,9 @@ Quando sua Pergunta ou Dúvida se torna seu argumento, elimina todas as estraté
 Compreensao
 Quando sua Pergunta ou Dúvida se torna seu argumento, elimina todas as estratégias do oponente nas casas horizontais e verticais a partir dela.
 Reflexivo
-Reduz o tempo de recarga de 3 livros aleatórios em 1 turno.
+Reduz o tempo de recarga de 3 livros aleatorios em 1 turno.
 Enfurecer
-Aumenta o tempo de recarga de 3 livros aleatórios do oponente em 1 turno.
+Aumenta o tempo de recarga de 3 livros aleatorios do oponente em 1 turno.
 Inspiracao
 Voce pode selecionar um livro em recarga para restaurar completamente seu tempo de recarga.
 Citacao
@@ -51,4 +51,4 @@ Voce pode substituir seu argumento e recuperar todas as estratégias usadas nele
 Conclusao
 Os livros nao entram em recarga quando usados.
 Teoria
-Voce pode Questionar argumentos do oponente de valor menor e transforma-los diretamente em seu próprio argumento.
+Voce pode Questionar argumentos do oponente de valor menor e transforma-los diretamente em seu proprio argumento.

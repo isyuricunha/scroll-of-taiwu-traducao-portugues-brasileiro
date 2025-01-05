@@ -17,7 +17,7 @@ Scamming Techniques
 Técnicas de Fraude
 Troca de Livros
 Convidar para Alianca
-Convidar para Voltar à Vila
+Convidar para Voltar a Vila
 Obtained Support
 Adotar como Pai
 Adotar como Mae
@@ -30,7 +30,7 @@ Romper Relacoes
 Became Sworn Siblings
 Romper Juramento de Amizade
 Recomendar Amigos
-Semear Discórdia
+Semear Discordia
 Mediar Conflitos
 Casamento Arranjado
 Scamming items
@@ -73,7 +73,7 @@ Banho Secreto dos Cinco Santos
 Contratar Assassinato
 Servidor Leal
 Método do Poco de Sangue
-Diagnóstico
+Diagnostico
 Reviver
 Conferir Título
 Coletar Tributos
