@@ -37,7 +37,7 @@ Digite qualquer valor booleano, True representa interno, False representa extern
 Interno
 Externo
 Veneno
-Digite o tipo de veneno, como veneno forte, veneno ilusório
+Digite o tipo de veneno, como veneno forte, veneno ilusorio
 Crescimento do inseto de veneno
 Digite qualquer valor booleano, True representa o inseto ja crescido, False representa o inseto nao crescido
 Ja crescido
@@ -47,11 +47,11 @@ Digite qualquer valor booleano, True representa o inseto reconheceu o mestre, Fa
 Reconheceu o mestre
 Nao reconheceu o mestre
 Tipo de inseto de veneno
-Digite o tipo de inseto de veneno, como Olho Vermelho, Fantasma, Sangue Negro, Demônio Mental, Serpente Morta, Vermes de Gelo, Bicho de Seda Dourada, Essencia Verde, também pode digitar de 0 a 7 para representar
+Digite o tipo de inseto de veneno, como Olho Vermelho, Fantasma, Sangue Negro, Demonio Mental, Serpente Morta, Vermes de Gelo, Bicho de Seda Dourada, Essencia Verde, também pode digitar de 0 a 7 para representar
 Olho Vermelho
 Fantasma
 Sangue Negro
-Demônio Mental
+Demonio Mental
 Serpente Morta
 Vermes de Gelo
 Vermes de Seda Dourada

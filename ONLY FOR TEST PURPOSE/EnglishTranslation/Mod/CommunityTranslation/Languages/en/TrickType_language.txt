@@ -12,7 +12,7 @@ Embrulhar
 Feitico
 Armazenar
 Droga
-Tóxico
+Toxico
 Varredura
 Colidir
 Agarra

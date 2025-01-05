@@ -67,9 +67,9 @@ Aventura - Torneio - Armas Secretas - Preparacao
 Aventura - Torneio - Técnica de Espada - Preparacao
 Aventura - Torneio - Técnica de Lamina - Preparacao
 Aventura - Torneio - Arma Longa - Preparacao
-Aventura - Torneio - Armas Exóticas - Preparacao
+Aventura - Torneio - Armas Exoticas - Preparacao
 Aventura - Torneio - Armas Flexíveis - Preparacao
-Aventura - Torneio - Armas à Distancia - Preparacao
+Aventura - Torneio - Armas a Distancia - Preparacao
 Aventura - Torneio - Melodia - Preparacao
 Aventura - Torneio de Grilos - Preparacao
 Aventura - Competicao de Arte - Forjamento - Preparacao

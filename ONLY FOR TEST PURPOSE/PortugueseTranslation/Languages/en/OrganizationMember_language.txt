@@ -90,7 +90,7 @@ Inferno
 
 
 
-Senhor Demônio
+Senhor Demonio
 
 
 
@@ -609,7 +609,7 @@ Rei das Ervas
 
 
 
-Dragônico
+Dragonico
 
 
 
@@ -749,7 +749,7 @@ ArquiCulpado
 
 
 
-Jurado à Morte
+Jurado a Morte
 
 
 

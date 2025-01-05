@@ -1,7 +1,7 @@
 Aldeia Taiwu
 A Aldeia Taiwu é o centro da regiao, residencia de Taiwu e seu povo.
 Capital
-A Capital é o centro econômico e político do Reino Central, repleta de ricos e poderosos.
+A Capital é o centro economico e político do Reino Central, repleta de ricos e poderosos.
 Noroeste da Capital
 Norte da Capital
 Nordeste da Capital
@@ -89,7 +89,7 @@ Sudoeste de Jiangling
 Sul de Jiangling
 Sudeste de Jiangling
 Fuzhou
-Fuzhou esta florescendo devido ao seu próspero comércio marítimo e grande populacao. Como as arvores de Ficus podem ser encontradas por toda parte, Fuzhou também é chamada de "Cidade das Figueiras".
+Fuzhou esta florescendo devido ao seu prospero comércio marítimo e grande populacao. Como as arvores de Ficus podem ser encontradas por toda parte, Fuzhou também é chamada de "Cidade das Figueiras".
 Noroeste de Fuzhou
 Norte de Fuzhou
 Nordeste de Fuzhou
@@ -100,7 +100,7 @@ Sudoeste de Fuzhou
 Sul de Fuzhou
 Sudeste de Fuzhou
 Liaoyang
-Liaoyang, a joia do norte, domina uma grande area. É a capital antiga mais famosa do norte e foi reconquistada varias vezes pelos reinos do norte devido à sua extrema importancia estratégica.
+Liaoyang, a joia do norte, domina uma grande area. É a capital antiga mais famosa do norte e foi reconquistada varias vezes pelos reinos do norte devido a sua extrema importancia estratégica.
 Noroeste de Liaoyang
 Norte de Liaoyang
 Nordeste de Liaoyang
@@ -144,7 +144,7 @@ Shouchun Sudoeste
 Shouchun Sul
 Shouchun Sudeste
 Hangzhou
-O estado mais importante do sudeste é dito ser Hangzhou, que tem sido próspero desde os tempos antigos.
+O estado mais importante do sudeste é dito ser Hangzhou, que tem sido prospero desde os tempos antigos.
 Hangzhou Noroeste
 Hangzhou Norte
 Hangzhou Nordeste
@@ -155,7 +155,7 @@ Hangzhou Sudoeste
 Hangzhou Sul
 Hangzhou Sudeste
 Yangzhou
-As tres cidades de Yangzhou sao repletas de barcos de lazer e cancoes à noite. Tao boas que um poeta declarou que dois tercos da beleza da noite pertencem a este lugar.
+As tres cidades de Yangzhou sao repletas de barcos de lazer e cancoes a noite. Tao boas que um poeta declarou que dois tercos da beleza da noite pertencem a este lugar.
 Yangzhou Noroeste
 Yangzhou Norte
 Yangzhou Nordeste
@@ -195,7 +195,7 @@ Salao Verdadeiro da Seita Wudang
 Pico Tianzhu da Seita Wudang
 Floresta de Bambu da Seita Wudang
 Seita YuanShan
-A Seita YuanShan tem muitos discípulos e assume a responsabilidade de manter a justica no mundo das artes marciais. A grande Seita YuanShan tem um monte de espadas, e a pequena Seita YuanShan tem um monte de espadas. As grandes e pequenas seitas YuanShan estao unidas no mesmo espírito e usam a habilidade magica de combinar espadas e facas para eliminar o demônio e defender o caminho, com sua fama se espalhando por todo o mundo.\n<color=#lightgrey>(YuanShan é uma seita <color=#lightblue>Justa</color>; Posicao principal é <color=#yellow>Justa</color>, a maioria das pessoas na seita é <color=#yellow>Justa</color>; Nao passarao seu conhecimento para pessoas com Fama negativa.)</color>
+A Seita YuanShan tem muitos discípulos e assume a responsabilidade de manter a justica no mundo das artes marciais. A grande Seita YuanShan tem um monte de espadas, e a pequena Seita YuanShan tem um monte de espadas. As grandes e pequenas seitas YuanShan estao unidas no mesmo espírito e usam a habilidade magica de combinar espadas e facas para eliminar o demonio e defender o caminho, com sua fama se espalhando por todo o mundo.\n<color=#lightgrey>(YuanShan é uma seita <color=#lightblue>Justa</color>; Posicao principal é <color=#yellow>Justa</color>, a maioria das pessoas na seita é <color=#yellow>Justa</color>; Nao passarao seu conhecimento para pessoas com Fama negativa.)</color>
 Grande Wonsan da Seita YuanShan
 Floresta de Monumentos da Seita YuanShan
 Casa de Pedra da Seita YuanShan
@@ -207,7 +207,7 @@ Salao do Leao Dourado do Cla Face de Leao
 Salao do Leao Dormindo do Cla Face de Leao
 Campo da Escola do Cla Face de Leao
 Seita Ranshan
-A Seita Ranshan se especializa na doutrina de viajar e aprender a deixar o mundo. Estudo: memória e conhecimento extensivos, raciocínio claro e exame da situacao, argumentos sem fim, mil bocas nao podem se opor. O mundo: cultivar a verdade e nutrir a natureza, tomar alimento e orientacao, afastar doencas e prolongar a vida, e estar pronto para agir.\n<color=#lightgrey>(Ranshan é uma seita <color=#white>Neutra</color>; Posicao principal é <color=#white>Neutra</color>, a maioria das pessoas na seita é <color=#white>Neutra</color>.)</color>
+A Seita Ranshan se especializa na doutrina de viajar e aprender a deixar o mundo. Estudo: memoria e conhecimento extensivos, raciocínio claro e exame da situacao, argumentos sem fim, mil bocas nao podem se opor. O mundo: cultivar a verdade e nutrir a natureza, tomar alimento e orientacao, afastar doencas e prolongar a vida, e estar pronto para agir.\n<color=#lightgrey>(Ranshan é uma seita <color=#white>Neutra</color>; Posicao principal é <color=#white>Neutra</color>, a maioria das pessoas na seita é <color=#white>Neutra</color>.)</color>
 Cliff Qinglang da Seita Ranshan
 Templo Taoísta da Seita Ranshan
 Meilin Genji da Seita Ranshan
@@ -219,13 +219,13 @@ Pavilhao Tian Yin da Seita XuanNyu
 Piscina Fria da Seita XuanNyu
 Degraus de Jade da Seita XuanNyu
 Mansao da Espada
-A Mansao da Espada esta localizada na Montanha Zhanlu, que se diz ter sido fundada por Ou Ye Zi, o ancestral da forja de espadas. A Mansao da Espada tem uma longa história, e a maioria das armas do mundo vem de la, sendo altamente admirada pelos artistas marciais.\n<color=#lightgrey>(Mansao da Espada é uma seita <color=#white>Neutra</color>; Posicao principal é <color=#white>Neutra</color>, a maioria das pessoas na seita é <color=#white>Neutra</color>.)</color>
+A Mansao da Espada esta localizada na Montanha Zhanlu, que se diz ter sido fundada por Ou Ye Zi, o ancestral da forja de espadas. A Mansao da Espada tem uma longa historia, e a maioria das armas do mundo vem de la, sendo altamente admirada pelos artistas marciais.\n<color=#lightgrey>(Mansao da Espada é uma seita <color=#white>Neutra</color>; Posicao principal é <color=#white>Neutra</color>, a maioria das pessoas na seita é <color=#white>Neutra</color>.)</color>
 Pico Traseiro da Mansao da Espada
 Plataforma de Treinamento da Mansao da Espada
 Patio da Mansao da Espada
 Oficina da Mansao da Espada
 Seita Kongsang
-A Seita Kongsang também é conhecida como 'Escola de Toxicologia Kongsang'. Embora a Montanha Kongsang seja uma montanha coberta de neve, ela possui um local especial onde podem ser encontradas plantas exóticas. Os discípulos da Seita Kongsang podem trazer os mortos de volta à vida e criar toxinas mortais incomparaveis.\n<color=#lightgrey>(Kongsang é uma seita <color=#white>Neutra</color>; O ponto de vista principal é <color=#red>Egoísta</color>, a maioria das pessoas na seita sao <color=#red>Egoístas</color>.)</color>
+A Seita Kongsang também é conhecida como 'Escola de Toxicologia Kongsang'. Embora a Montanha Kongsang seja uma montanha coberta de neve, ela possui um local especial onde podem ser encontradas plantas exoticas. Os discípulos da Seita Kongsang podem trazer os mortos de volta a vida e criar toxinas mortais incomparaveis.\n<color=#lightgrey>(Kongsang é uma seita <color=#white>Neutra</color>; O ponto de vista principal é <color=#red>Egoísta</color>, a maioria das pessoas na seita sao <color=#red>Egoístas</color>.)</color>
 Reino Secreto da Seita Kongsang
 Covil Kongsang
 Jardim de Medicina Kongsang
@@ -243,7 +243,7 @@ Vale das Cobras da Igreja Cinco Imortais
 Fonte do Veneno da Igreja Cinco Imortais
 Aldeia Miao da Igreja Cinco Imortais
 JieQing
-O Portao Jieqing é comumente conhecido como o lugar onde pessoas e fantasmas viajam juntos, e costuma aceitar viloes de todo o Jianghu. Os discípulos da seita agem secretamente e raramente mostram suas pistas. Os discípulos sao especialistas em Armas Exóticas e na técnica de agulhas voadoras e lancamento de pedras. Se mostrarem uma intencao de matar, certamente havera alguém que morrera sem deixar rastros.\n<color=#lightgrey>(Jieqing é uma seita <color=#red>Maligna</color>; O ponto de vista principal é <color=#darkpurple>Rebelde</color>, a maioria das pessoas na seita sao <color=#darkpurple>Rebeldes</color>; Eles nao irao passar seu conhecimento para pessoas com Fama positiva.)</color>
+O Portao Jieqing é comumente conhecido como o lugar onde pessoas e fantasmas viajam juntos, e costuma aceitar viloes de todo o Jianghu. Os discípulos da seita agem secretamente e raramente mostram suas pistas. Os discípulos sao especialistas em Armas Exoticas e na técnica de agulhas voadoras e lancamento de pedras. Se mostrarem uma intencao de matar, certamente havera alguém que morrera sem deixar rastros.\n<color=#lightgrey>(Jieqing é uma seita <color=#red>Maligna</color>; O ponto de vista principal é <color=#darkpurple>Rebelde</color>, a maioria das pessoas na seita sao <color=#darkpurple>Rebeldes</color>; Eles nao irao passar seu conhecimento para pessoas com Fama positiva.)</color>
 Penhasco da Observacao das Estrelas da Seita JieQing
 Caverna dos Fantasmas da Seita JieQing
 Abismo do Portao da Seita JieQing
@@ -271,9 +271,9 @@ Voce pode usar a rota postal para viajar pelo mundo em areas onde existem estaco
 Estagios Abandonados
 É possível viajar pelo mundo usando a rota postal em areas com estacoes de correios. No entanto, esta estacao de correios esta deserta e nao funciona...
 Terreno Agricola
-A terra agrícola recuperada pelas pessoas locais tem suas próprias regras e regulamentos para cada família. Trigo, arroz e outros produtos agrícolas crescem na terra, entre outros.
+A terra agrícola recuperada pelas pessoas locais tem suas proprias regras e regulamentos para cada família. Trigo, arroz e outros produtos agrícolas crescem na terra, entre outros.
 Jardim
-Este lugar é cercado por montanhas e agua, com uma paisagem infinita, florestas planas e indiferenca, e aguas correntes, formando um deserto por si só.
+Este lugar é cercado por montanhas e agua, com uma paisagem infinita, florestas planas e indiferenca, e aguas correntes, formando um deserto por si so.
 Floresta de Pedras
 Aqui as pedras estao em um fluxo contínuo, com mil formas e formatos, verticais e horizontais formando uma floresta. Nao ha grama ou arvores na floresta de pedras, apenas ouro e pedras por toda parte.
 Jardim de Amoreiras
@@ -285,7 +285,7 @@ Este lugar é conectado aos picos de pedra, com jade por toda parte, a montanha 
 Montanha
 Esta cadeia de montanhas é contínua, ondulada, e o pico se eleva nas nuvens e no céu. A grama e as arvores nas montanhas sao raras, e os penhascos e minérios sao predominantes.
 Montanhas
-Esta area é conectada às montanhas, as montanhas ondulam como uma veia, atravessando a terra. O clima nas montanhas é muito variavel, e as pessoas sao raras.
+Esta area é conectada as montanhas, as montanhas ondulam como uma veia, atravessando a terra. O clima nas montanhas é muito variavel, e as pessoas sao raras.
 Desfiladeiro
 As montanhas de ambos os lados do rio estao cercadas pela agua, e as paredes do rio estao rolando. O desfiladeiro é rico em plantas, talvez algumas difíceis de ver.
 Perigos Naturais
@@ -293,7 +293,7 @@ Medo da forma como o vento e as pedras se comportam, alto e inacessível, as ave
 Colinas
 As colinas aqui sao onduladas, sinuosas e suaves, com caminhos irregulares. Existem algumas arvores frutíferas e arroz crescendo nas colinas, que parecem vibrantes.
 Planalto
-Uma colina que cobre uma vasta area e tem mais de 30 metros de altura, com terreno sinuoso e caminhos acidentados. Alguns arbustos e flores comuns crescem no alto, e às vezes animais como lebres e cabras podem ser vistos.
+Uma colina que cobre uma vasta area e tem mais de 30 metros de altura, com terreno sinuoso e caminhos acidentados. Alguns arbustos e flores comuns crescem no alto, e as vezes animais como lebres e cabras podem ser vistos.
 Deserto
 O terreno plano é aberto e plano, sem fim, com muitas flores e plantas crescendo nele, e ha paisagens a serem vistas em todas as estacoes.
 Planície
@@ -315,15 +315,15 @@ Cavernas naturalmente formadas, o terreno é acidentado, canais ondulados, os ac
 Pantano
 O lamacal do pantano é pegajoso, com plantas rasteiras, é difícil andar, se voce encontrar lama e lugares pesados, ha mais perigo de ficar preso no pantano.
 Terra das Maravilhas
-Pessegos e ameixas nas margens, flores caindo pela agua, ocasionalmente um peixe pula, disputando para comer as pétalas. Ao entrar neste lugar, voce nao sente que suas preocupacoes desapareceram e só consegue sentir o aroma do pessego.
+Pessegos e ameixas nas margens, flores caindo pela agua, ocasionalmente um peixe pula, disputando para comer as pétalas. Ao entrar neste lugar, voce nao sente que suas preocupacoes desapareceram e so consegue sentir o aroma do pessego.
 Desfiladeiro
-A agua do riacho flui para a montanha. O vale esta cheio de musgo e cipós, por isso as pessoas precisam ter cuidado ao caminhar por ele.
+A agua do riacho flui para a montanha. O vale esta cheio de musgo e cipos, por isso as pessoas precisam ter cuidado ao caminhar por ele.
 Deserto
 Lugar coberto de vegetacao...
 Terra Destruída
 O lugar horrível e abominavel, cheio de sangue, cinzas e basalto...
 Abismo Escuro
-Um abismo insondavel que é extremamente difícil de atravessar.\n\n<color=#red>Atencao! Nao só atravessar o Abismo Profundo leva muito tempo, como também causa ferimentos a todos que o atravessam. Voce deve evitar viajar por ele se possível.</color>
+Um abismo insondavel que é extremamente difícil de atravessar.\n\n<color=#red>Atencao! Nao so atravessar o Abismo Profundo leva muito tempo, como também causa ferimentos a todos que o atravessam. Voce deve evitar viajar por ele se possível.</color>
 Bloqueando
 
 
@@ -342,11 +342,11 @@ O monte da espada - Grande condensacao de Xuan emitiu uma luz branca, cercada po
 Túmulo da Espada - Casulo da Fenix
 Monte da espada - Casulo da fenix cercado por um deslumbrante brilho dourado de tempos em tempos...
 Túmulo da Espada - Fundicao Espiritual
-Monte da espada - Alquimia do Deus Ardente, fora, todas as arvores de pessego estao cheias de flores de pessego, e algumas chamas azuis fantasmagóricas saltam de vez em quando nas flores...
-Túmulo da Espada - Alma Dracônica
+Monte da espada - Alquimia do Deus Ardente, fora, todas as arvores de pessego estao cheias de flores de pessego, e algumas chamas azuis fantasmagoricas saltam de vez em quando nas flores...
+Túmulo da Espada - Alma Draconica
 Monte da espada - resolvendo a cor da alma do dragao tragico branco, os ossos de algum tipo de gigante se espalham dentro e fora do monte da espada...
 Túmulo da Espada - Eremita
-A grama, arvores, montanhas e pedras perto do Monte da Espada - Poeira Solúvel Oculta, aparecem e desaparecem, às vezes na frente, às vezes atras...
+A grama, arvores, montanhas e pedras perto do Monte da Espada - Poeira Solúvel Oculta, aparecem e desaparecem, as vezes na frente, as vezes atras...
 Túmulo da Espada - Prisao Infernal Acerjail
 Monte da espada - O prisioneiro da Madeira do Diabo esta localizado no meio de uma floresta de bordos vermelhos ardentes, e o som de mortes pode ocasionalmente ser ouvido da floresta...
 Túmulo da Espada - Brilho Maravilhoso

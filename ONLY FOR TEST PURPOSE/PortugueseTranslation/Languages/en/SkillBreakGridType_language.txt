@@ -7,7 +7,7 @@ Sem descricao.
 Normal
 Sem efeito especial.
 Sucessao
-Após conectar a esta célula, <color=#brightblue>a Taxa de Sucesso de todas as células ao redor sera aumentada em 30%</color>.
+Apos conectar a esta célula, <color=#brightblue>a Taxa de Sucesso de todas as células ao redor sera aumentada em 30%</color>.
 Flexibilidade
 Para cada célula ao redor conectada com sucesso, <color=#brightblue>a Taxa de Sucesso desta célula sera aumentada em 30%</color>.
 Perseveranca
@@ -15,7 +15,7 @@ Para cada conexao falha ao redor desta célula, <color=#brightblue>a Taxa de Suc
 Fundacao
 A <color=#brightred>Taxa de Sucesso desta célula é reduzida em 100%</color>.\n<color=#brightblue>A Taxa de Sucesso de todas as células ao redor sera aumentada em 60%</color>.
 Transicao
-Após conectar a esta célula, <color=#brightblue>1 próxima conexao sera sempre bem-sucedida</color>.
+Apos conectar a esta célula, <color=#brightblue>1 proxima conexao sera sempre bem-sucedida</color>.
 Inspiracao
 Conectar a esta célula <color=#brightblue>nao aumentara a contagem de tentativas</color>.
 Revigoramento
@@ -37,9 +37,9 @@ Ao conectar a esta célula, 1 "célula dourada" nao conectada sera transferida p
 Culminacao
 Conectar a esta célula <color=#brightblue>reduzira a contagem de tentativas em 3</color>.\nMas <color=#brightred>1 "célula dourada" nao conectada sera transformada em uma "célula basica"</color>.
 Humildade
-Quanto maior for a contagem de tentativas em relacao à metade do limite de Talento, maior sera o <color=#brightblue>aumento na Taxa de Sucesso desta célula e de todas as células ao redor</color>.
+Quanto maior for a contagem de tentativas em relacao a metade do limite de Talento, maior sera o <color=#brightblue>aumento na Taxa de Sucesso desta célula e de todas as células ao redor</color>.
 Ambicao
-Quanto menor for a contagem de tentativas em relacao à metade do limite de Talento, maior sera o <color=#brightblue>aumento na Taxa de Sucesso desta célula e de todas as células ao redor</color>.
+Quanto menor for a contagem de tentativas em relacao a metade do limite de Talento, maior sera o <color=#brightblue>aumento na Taxa de Sucesso desta célula e de todas as células ao redor</color>.
 Conselho
 Conectar a esta célula <color=#brightred>aumentara a contagem de tentativas em 1</color>.\nConectar a esta célula <color=#brightblue>conectara imediatamente 1 "célula dourada" nao conectada</color>.
 Completo

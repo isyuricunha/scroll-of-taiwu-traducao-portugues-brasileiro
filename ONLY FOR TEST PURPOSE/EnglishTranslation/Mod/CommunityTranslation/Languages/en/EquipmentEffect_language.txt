@@ -12,7 +12,7 @@ Anti-Objeto Flexível
 Se o inimigo usar um Pincel, atacar ou usar uma habilidade de Quebra, a Diversao, Parada, Evasao e Foco do inimigo sao reduzidos em 20%.
 Anti-Arma Oculta
 Se o inimigo usar uma Arma Oculta, Passaro Mecanico ou realizar uma habilidade de Quebra, a Diversao, Parada, Evasao e Foco do inimigo sao reduzidos em 20%.
-Anti-Arma Exótica
+Anti-Arma Exotica
 Se o inimigo usar uma Adaga, Talisma ou Maca, atacar ou usar uma habilidade de Quebra, a Diversao, Parada, Evasao e Foco do inimigo sao reduzidos em 20%.
 Anti-Melodia
 Se o inimigo usar um instrumento musical, atacar ou usar uma habilidade de Quebra, a Diversao, Parada, Evasao e Foco do inimigo sao reduzidos em 20%.
@@ -20,7 +20,7 @@ Anti-Metal
 Se o inimigo usar uma armadura de ferro para resistir a um ataque ou realizar uma habilidade de Quebra, a Defesa Externa e Interna do inimigo sao reduzidas em 20%.
 Anti-Madeira
 Se o inimigo usar uma armadura de madeira para resistir a um ataque ou realizar uma habilidade de Quebra, a Defesa Externa e Interna do inimigo sao reduzidas em 20%.
-Anti-Jóia
+Anti-Joia
 Se o inimigo usar uma armadura de gema para resistir a um ataque ou realizar uma habilidade de Quebra, a Defesa Externa e Interna do inimigo sao reduzidas em 20%.
 Anti-Tecido
 Se o inimigo usar uma armadura de tecido para resistir a um ataque ou realizar uma habilidade de Quebra, a Defesa Externa e Interna do inimigo sao reduzidas em 20%.
@@ -58,8 +58,8 @@ Objeto Flexível Contra-ataque
 Se o inimigo usar um Objeto Flexível, a Forca, Finesse, Agilidade e Energia do inimigo sao reduzidas em 20% quando esse equipamento for usado para bloquear os ataques ou a habilidade de Quebra do inimigo.
 Arma Oculta Contra-ataque
 Se o inimigo usar uma Arma Oculta, Passaro Mecanico ou realizar uma habilidade de Quebra, a Forca, Finesse, Agilidade e Energia do inimigo sao reduzidas em 20% quando esse equipamento for usado para bloquear os ataques ou a habilidade de Quebra do inimigo.
-Arma Exótica Contra-ataque
-Se o inimigo usar uma Arma Exótica, a Forca, Finesse, Agilidade e Energia do inimigo sao reduzidas em 20% quando esse equipamento for usado para bloquear os ataques ou a habilidade de Quebra do inimigo.
+Arma Exotica Contra-ataque
+Se o inimigo usar uma Arma Exotica, a Forca, Finesse, Agilidade e Energia do inimigo sao reduzidas em 20% quando esse equipamento for usado para bloquear os ataques ou a habilidade de Quebra do inimigo.
 Melodia Contra-ataque
 Se o inimigo usar um instrumento musical, a Forca, Finesse, Agilidade e Energia do inimigo sao reduzidas em 20% quando esse equipamento for usado para bloquear os ataques ou a habilidade de Quebra do inimigo.
 Metal Contra-ataque

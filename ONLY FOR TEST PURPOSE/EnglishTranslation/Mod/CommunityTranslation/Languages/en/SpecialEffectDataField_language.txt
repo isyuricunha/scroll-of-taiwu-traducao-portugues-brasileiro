@@ -18,7 +18,7 @@ Velocidade de Lancamento
 Recuperacao Int.
 CD de Troca de Arma
 Velocidade de Ataque
-Bônus de Razao Int.
+Bonus de Razao Int.
 Respiracao Interna
 Res. a Acritoxina
 Res. a Umbritoxina

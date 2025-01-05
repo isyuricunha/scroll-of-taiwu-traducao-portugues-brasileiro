@@ -11,16 +11,16 @@ Vencer
 Batalha vencida!
 
 Treinamento
-Treine com um oponente cuja pureza nao seja inferior à sua.
+Treine com um oponente cuja pureza nao seja inferior a sua.
 
 Bloquear todos os movimentos
-Enfrente um oponente cuja pureza nao seja inferior à sua.
+Enfrente um oponente cuja pureza nao seja inferior a sua.
 
 Batalha perigosa
-Uma luta perigosa contra um oponente cuja pureza nao seja inferior à sua.
+Uma luta perigosa contra um oponente cuja pureza nao seja inferior a sua.
 
 Luta até a morte
-Uma luta até a morte com um oponente cuja pureza nao seja inferior à sua.
+Uma luta até a morte com um oponente cuja pureza nao seja inferior a sua.
 
 HoS
 Derrotou a Incarnacao de XiangShu!
@@ -52,7 +52,7 @@ Revolucao·quantidade. Derrote um inimigo que tenha mais companheiros.
 Recém-nascido
 Derrote um oponente quando voce ainda nao é adulto e ele for mais velho que voce.
 
-Equipado para a vitória
+Equipado para a vitoria
 Derrote um oponente cuja equipagem seja em geral melhor que a sua.
 
 Qi Verdadeiro supera Forca
@@ -71,8 +71,8 @@ Esta tudo em suas maos.
 Restaure a mente do indivíduo possuído por XiangShu.
 Restaure a mente daqueles que caíram no mal.
 Repelir Espíritos Malignos
-Restaurar as mentes dos que caíram no caminho demoníaco do Sangha e cuja pureza nao seja inferior à sua.
-Restaurar a mente dos que caíram no caminho maligno e cuja pureza seja nao inferior à sua.
+Restaurar as mentes dos que caíram no caminho demoníaco do Sangha e cuja pureza nao seja inferior a sua.
+Restaurar a mente dos que caíram no caminho maligno e cuja pureza seja nao inferior a sua.
 Seja Cavalheiresco e mantenha a justica
 Extermine os fora da lei que cometeram atos errados.
 
@@ -83,10 +83,10 @@ Ofender Céu e Terra
 Mate os homens justos que fizeram boas acoes.
 
 Matar os Justos
-Mate os justos cuja pureza nao seja inferior à sua.
+Mate os justos cuja pureza nao seja inferior a sua.
 
 Elogio da Face de Leao
-Vencer os oponentes traz mais prestígio devido à proclamacao do Cla Face de Leao.
+Vencer os oponentes traz mais prestígio devido a proclamacao do Cla Face de Leao.
 
 
 
@@ -108,8 +108,8 @@ Participar de batalhas de extrema dificuldade aumenta a experiencia adquirida e 
 Dez Mortes Sem Vida
 Participar de batalhas com dificuldade de morte certa aumenta consideravelmente a experiencia adquirida e as chances de obter percepcoes de combate real...
 
-Resistindo à Invasao
-Faca tudo que puder para resistir à Incarnacao de Xiangshu! A experiencia e o prestígio obtidos aumentam consideravelmente, e a probabilidade de entender o combate real também aumenta...
+Resistindo a Invasao
+Faca tudo que puder para resistir a Incarnacao de Xiangshu! A experiencia e o prestígio obtidos aumentam consideravelmente, e a probabilidade de entender o combate real também aumenta...
 
 Dar Algumas Dicas
 Treine com um oponente cuja pureza seja menor que a sua.

@@ -1,17 +1,17 @@
 CoisaEstúpida
-Cabeca dura nao é tao estranha,\npernas manchadas, barriga escura.\nPlastico até cobre as asas,\nsó serve como racao para galinha.
+Cabeca dura nao é tao estranha,\npernas manchadas, barriga escura.\nPlastico até cobre as asas,\nso serve como racao para galinha.
 AgulhaTecela
 Teu nome é agulha tecela,\nem tua boca reside um veneno mortal.\nTodos os outros insetos devem se afastar,\nse nao, cruzarem tua boca serao por ela derrotados.
 LancaBilateral
 A cauda curta é a mais prejudicial,\ne o grande inseto nao é forte.\nAs pernas sao longas e as garras afiadas, mas estao invertidas,\ne sao famosas por dizerem que tem duas armas.
 SinoSoprador
-As duas asas sao como sinos de bronze,\ne o som da boca cruzada é como uma alma.\nSinos sopradores nao precisam discutir a cor,\ntubo chamado de cem batalhas, cem vitórias no campo.
+As duas asas sao como sinos de bronze,\ne o som da boca cruzada é como uma alma.\nSinos sopradores nao precisam discutir a cor,\ntubo chamado de cem batalhas, cem vitorias no campo.
 AmareloVeloz
 O General Luz Dourada tem pernas e pés rapidos,\ncorre excepcionalmente trazendo o vento.\nCheio de basculante voando como um cavalo correndo,\nseu nome se espalha a milhas de distancia.
 EnxadaJade
-O mais famoso de todos é a enxada de jade,\nquem pode se comparar à carne branca e dentes negros.\nSe tiver um rosto negro e uma cabeca grande e pés,\nvoce vencera por tres outonos seguidos.
+O mais famoso de todos é a enxada de jade,\nquem pode se comparar a carne branca e dentes negros.\nSe tiver um rosto negro e uma cabeca grande e pés,\nvoce vencera por tres outonos seguidos.
 GeneralBlindado
-Um corpo envolto como um general,\nponta da asa afiada cortando a boca pesada.\nO envolvimento apertado torna-o mais resistente à guerra,\nsweep os insetos regulares, pode-se chamar de macho.
+Um corpo envolto como um general,\nponta da asa afiada cortando a boca pesada.\nO envolvimento apertado torna-o mais resistente a guerra,\nsweep os insetos regulares, pode-se chamar de macho.
 AntiSemNome
 Ouro e prata se cruzam com passos de dragao e cavalo,\nfrente de tigre pendendo seda fina e transparente.\nO sexo é tao forte quanto o fogo, nao pode ser parado,\nvenham insetos, enfrentem a coragem que nao se detera.
 TestaCinnabar
@@ -24,18 +24,18 @@ TentaculoVermelho
 As duas barbas sao puras vermelhas que salvam o espírito,\ncabeca verde, item verde, corpo verde por completo.\nO número das barbas de seda marrom longa sobre a cauda,\ncoluna de jade, dentes e pincas brancas como prata.
 CaudaJade
 A cabeca é redonda, o corpo é roxo, o pescoco é largo,\ne as pernas e os pés sao longos e redondos, com a cintura espessa.\nO General DenteVermelho é famoso,\npela cauda dupla branca como neve.
-LampadaÓleo
-A cabeca é redonda, as pernas sao fortes, o corpo é amarelo,\nas asas sao suaves como óleo, a carne é palida.\nPincas vermelhas como sangue,\neste inseto é o rei.
+LampadaOleo
+A cabeca é redonda, as pernas sao fortes, o corpo é amarelo,\nas asas sao suaves como oleo, a carne é palida.\nPincas vermelhas como sangue,\neste inseto é o rei.
 TresCores
 A cabeca roxa e o item verde tem cabelo longo,\nasas douradas nascem com carne palida.\nDuas pernas redondas e longas, brancas,\npincas vermelhas, uma dupla imbatível.
 TresCortes
-A cabeca cheia de pó branco e uvas roxas,\nenao tem textura como cabelo verde.\nO nome dos tres cortes,\ntambém como se fosse alto.
+A cabeca cheia de po branco e uvas roxas,\nenao tem textura como cabelo verde.\nO nome dos tres cortes,\ntambém como se fosse alto.
 RoxoAmarelo
 A cor do general em mudanca é diferente,\ncincos corpos dourados criam uma obra divina.\nGarras e pincas escarlates como sangue,\noriginalmente um centopeia transformada em inseto.
 AsasPlum
-A forma nasce como uma aranha,\nduas pecas de flores de ameixa nas costas para pôr.\nPernas e pés redondos e longos, barriga como jade,\npincas negras, uma dupla sem igual no mundo.
+A forma nasce como uma aranha,\nduas pecas de flores de ameixa nas costas para por.\nPernas e pés redondos e longos, barriga como jade,\npincas negras, uma dupla sem igual no mundo.
 AzulCéu
-Nao é verde, nem preto, nem amarelo,\nmas brilha como a luz do céu.\nNao tem cor fixa de manha e à noite,\ne é raro encontrar este rei dos insetos em mil anos.
+Nao é verde, nem preto, nem amarelo,\nmas brilha como a luz do céu.\nNao tem cor fixa de manha e a noite,\ne é raro encontrar este rei dos insetos em mil anos.
 TresBrocatos
 Cabeca de canhamo, asas azuis e douradas,\ncorpo branco, dentes longos e pés brilhantes.\\nCostas largas e cintura trazem tua fama,\ntres brocados de Shu Chuan é teu nome.
 TerceiroPríncipe
@@ -54,9 +54,9 @@ O preto deve ser como laca quando na cabeca,\ncuidadosamente parece sem outra co
 BrancoVerdadeiro
 Cabeca branca e asas de item branco como prata,\nna visao da mao, como gelo.\dentes vermelhos como agulha afiada,\ntotalmente sem ossos, carne como um general.
 CabecaPlana
-Rosto tao plano quanto cabeca de caqui,\nsó uma boca cruzada pode desmaiar.
+Rosto tao plano quanto cabeca de caqui,\nso uma boca cruzada pode desmaiar.
 CabecaRasa
-Cabeca curta, rosto plano, sem profundidade,\nsó essa aparencia ja é motivo de arrependimento.
+Cabeca curta, rosto plano, sem profundidade,\nso essa aparencia ja é motivo de arrependimento.
 CabecaRedonda
 Embora a cabeca redonda seja pequena, o lingote é suficiente,\ncorpo longo, costas arqueadas nao sao raras.
 CabecaAfiada
@@ -64,7 +64,7 @@ A testa é afiada até os dentes e a boca,\nna fase de luta, feroz e travessa, n
 CabecaQuadrada
 Cabeca quadrada, olhos altos, sexo forte,\nfaces largas, testa larga, dentes afiados escondidos.
 CabecaGrande
-Cabeca forte e ampla,\npoder próprio valente, sem discussao.
+Cabeca forte e ampla,\npoder proprio valente, sem discussao.
 CabecaAmassada
 A cabeca esta densamente empacotada com fios de luta,\no campo é conquistado em toda flor.
 RostoPreto
@@ -74,7 +74,7 @@ Quando a cabeca é um pouco vermelha como sangue,\nmordendo até matar os inseto
 TripéDourado
 Cabeca larga, olhos grandes, testa untada de ouro,\ntres entregas por dia ainda ganham.
 TresPontos
-Tres lados saindo do canto, lingote alto e nó,\nvencer completo em milhares de campos.
+Tres lados saindo do canto, lingote alto e no,\nvencer completo em milhares de campos.
 CabecaGema
 Pedra preciosa esculpida em angulo hexagonal,\nexquisita, clara e brilhante luz cristalina.
 CabecaÂmbar
@@ -96,7 +96,7 @@ As duas asas sao quadradas e grossas,\nbarriga e cauda sao vazias e insuportavei
 AsasPonta
 O corpo é leve e a ponta da asa é pontiaguda,\nfinas como se fossem duas espadas.
 AsasLargas
-Asas largas nascem semelhantes a dominós,\nasas de capa sem chifres e cauda curta à frente.
+Asas largas nascem semelhantes a dominos,\nasas de capa sem chifres e cauda curta a frente.
 CostasEscuras
 As asas estao bem fechadas como laca pontilhada,\ne nao ha outra cor ao olhar ao redor.
 AsasDistorcidas
@@ -180,7 +180,7 @@ Campainha vermelha quando cheia de cintura,\nfrequentemente vence o número pelo
 EscamaDragao
 Costas inteiras nascem com armadura de campainha vermelha,\ngeneral com brocado espinhoso de flores.
 TentaculoPatoMandarim
-Cabeca geral com cauda de faisao balancando,\nun preto e vermelho heróico.
+Cabeca geral com cauda de faisao balancando,\nun preto e vermelho heroico.
 TentaculoBambu
 Ha uma secao no meio da barba de batalha,\nindependente de esquerda ou direita, é maravilhoso.
 TentaculoBorboleta
@@ -268,7 +268,7 @@ VermelhoVioleta
 VermelhoDourado
 
 XiaHong
-VermelhoPôrDoSol
+VermelhoPorDoSol
 
 VermelhoSangue
 VermelhoGranada

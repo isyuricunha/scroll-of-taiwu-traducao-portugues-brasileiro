@@ -1,6 +1,6 @@
 Pais
 Irmaos Jurados
-Cônjuge
+Conjuge
 Filhos
 Faccao
 Inimigo

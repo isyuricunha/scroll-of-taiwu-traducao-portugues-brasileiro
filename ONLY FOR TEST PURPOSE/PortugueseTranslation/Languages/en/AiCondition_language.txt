@@ -16,18 +16,18 @@ Dentro do alcance do método de cultivo
 Retorna verdadeiro quando a distancia atual +{1} esta dentro do alcance do método de cultivo {2} de {0}
 Existe borda no alcance de ataque
 Retorna verdadeiro quando {0} possui borda de alcance de ataque valida
-Memória como texto
-Retorna verdadeiro quando o valor correspondente na memória de {0} é igual a {1}
-Memória como booleano
-Memória como inteiro
-Memória nao como texto
-Retorna verdadeiro quando nao existe valor correspondente na memória de {0} ou quando é diferente de {1}
-Memória nao como booleano
-Memória nao como inteiro
-Memória maior que
-Retorna verdadeiro quando o valor correspondente na memória de {0} for maior que {1}
-Memória menor que
-Retorna verdadeiro quando o valor correspondente na memória de {0} for menor que {1}
+Memoria como texto
+Retorna verdadeiro quando o valor correspondente na memoria de {0} é igual a {1}
+Memoria como booleano
+Memoria como inteiro
+Memoria nao como texto
+Retorna verdadeiro quando nao existe valor correspondente na memoria de {0} ou quando é diferente de {1}
+Memoria nao como booleano
+Memoria nao como inteiro
+Memoria maior que
+Retorna verdadeiro quando o valor correspondente na memoria de {0} for maior que {1}
+Memoria menor que
+Retorna verdadeiro quando o valor correspondente na memoria de {0} for menor que {1}
 Dificuldade de batalha
 Retorna verdadeiro quando o personagem for Taiwu ou a dificuldade de batalha for igual ou maior que {0}
 Distancia do alvo inclinada
@@ -155,12 +155,12 @@ Todas as marcas de vulnerabilidade
 Quando todos os locais de {0} tiverem marcas de vulnerabilidade nao menores que {1}, retorna verdadeiro
 Todas as marcas de bloqueio de pontos vitais
 Quando todos os locais de {0} tiverem marcas de bloqueio de pontos vitais nao menores que {1}, retorna verdadeiro
-Memória maior que
-Quando o valor correspondente de {0} na memória for maior que o valor correspondente de {1}, retorna verdadeiro
-Memória menor que
-Quando o valor correspondente de {0} na memória for menor que o valor correspondente de {1}, retorna verdadeiro
-Memória igual à execucao
-Quando o valor correspondente de {0} na memória for igual ao método de cultivo {1} em execucao, retorna verdadeiro
+Memoria maior que
+Quando o valor correspondente de {0} na memoria for maior que o valor correspondente de {1}, retorna verdadeiro
+Memoria menor que
+Quando o valor correspondente de {0} na memoria for menor que o valor correspondente de {1}, retorna verdadeiro
+Memoria igual a execucao
+Quando o valor correspondente de {0} na memoria for igual ao método de cultivo {1} em execucao, retorna verdadeiro
 Borda do alcance de ataque maior
 Quando a borda do alcance de ataque {1} de {0} for maior que a borda correspondente no alcance de ataque do oponente, retorna verdadeiro
 Borda do alcance de ataque menor
@@ -181,10 +181,10 @@ Intensidade do estado prejudicial
 Quando existir um estado prejudicial chamado {0} e sua intensidade total nao for menor que {2}, retorna verdadeiro
 Intensidade do estado especial
 Quando existir um estado especial chamado {0} e sua intensidade total nao for menor que {2}, retorna verdadeiro
-Dentro do alcance de memória da técnica
-Quando a distancia atual +{2} estiver dentro do alcance de execucao da técnica correspondente de {0} na memória, retorna verdadeiro
-Pode executar técnica de memória
-Quando for possível executar a técnica de memória {0}, retorna verdadeiro
+Dentro do alcance de memoria da técnica
+Quando a distancia atual +{2} estiver dentro do alcance de execucao da técnica correspondente de {0} na memoria, retorna verdadeiro
+Pode executar técnica de memoria
+Quando for possível executar a técnica de memoria {0}, retorna verdadeiro
 Distancia atual igual
 Quando a distancia atual for igual a {0}, retorna verdadeiro
 Distancia atual maior

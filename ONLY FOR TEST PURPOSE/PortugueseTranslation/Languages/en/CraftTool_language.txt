@@ -23,9 +23,9 @@ Refino de graos vermelhos feito de ouro vulcanico, que tem uma textura vermelha,
 Ferramenta·Forno YinYang
 Este forno é feito de aco, sua cor é branco acinzentado, o fogo Yin é verde, o fogo Yang é vermelho, o ouro e o ferro no forno precisam ser repetidamente queimados pelos dois fogos Yin e Yang, por isso é chamado de "refino Yin e Yang do aco".
 Ferramenta·Forno de Obsidiana
-O forno feito de ouro, duro e pesado, resistente à alta temperatura; tem forma quadrada, pode ser martelado mil vezes sem sofrer desgaste, embora nao seja facil de carregar, é muito utilizado pelos ferreiros.
+O forno feito de ouro, duro e pesado, resistente a alta temperatura; tem forma quadrada, pode ser martelado mil vezes sem sofrer desgaste, embora nao seja facil de carregar, é muito utilizado pelos ferreiros.
 Ferramenta·Forno HunYuan
-Forno de fundicao de elementos misturados em um só, fundindo ouro e ferro derretido, com os dois vapores Yin e Yang presentes sobre ele, como o início do caos, o Qi primordial nascendo, é: "os elementos misturados surgem com seu primeiro julgamento, a mudanca dos dois vapores e o infinito".
+Forno de fundicao de elementos misturados em um so, fundindo ouro e ferro derretido, com os dois vapores Yin e Yang presentes sobre ele, como o início do caos, o Qi primordial nascendo, é: "os elementos misturados surgem com seu primeiro julgamento, a mudanca dos dois vapores e o infinito".
 Ferramenta·Forno da Alma
 Como diz o provérbio: "o coracao da essencia do frio, é chamado de alma", diz-se que os tesouros tem espírito, permitindo que permanecam por mil anos sem perder sua essencia; este forno, feito com dispositivos que tem luz espiritual fluindo, flutuando de maneira nao convencional, recebe o nome de "refino do espírito estranho".
 Ferramenta·Forno Arco-Íris
@@ -47,7 +47,7 @@ Este areal é feito de gemas verdes, vermelhas e amarelas para resolver o areal 
 Ferramenta·Polidor de Neve
 Este areal vem das montanhas nevadas, sua cor é branca, delicada como a neve, e ao tratar o jade com este areal, é como uma brisa fresca, o verao nao é quente, daí o nome "areal da neve da cortina".
 Ferramenta·Polidor de Ametista
-Este areal é feito de pedra exótica dourado-roxa, é duro, e o jade do mundo nao pode ser resolvido; seu espírito também é para moer o jade, quente e fragrante, e quanto mais voce usar, mais fragrante ele fica.
+Este areal é feito de pedra exotica dourado-roxa, é duro, e o jade do mundo nao pode ser resolvido; seu espírito também é para moer o jade, quente e fragrante, e quanto mais voce usar, mais fragrante ele fica.
 Ferramenta·Polidor de Rubi Gelado
 Diz-se que uma antiga besta morreu no iceberg, seu sangue por cem anos nao se condensa, mil anos e nao se decompoe, tornando-se entao névoa de sangue cristalina; este areal, entrelacado em vermelho e branco, tem uma luz divina oculta, ao atacar o jade, o jade também ganha espírito.
 Ferramenta·Polidor de Dragao
@@ -65,9 +65,9 @@ O tear jacquard feito de marfim, que pode suportar as intempéries e é extremam
 Ferramenta·Tecer Flor
 Este shuttle tem um padrao com cem flores, o shuttle é curto, frequentemente usado para tecer padroes, a seda tecida captura as cem flores, daí o nome "tecelagem de flores".
 Ferramenta·Tear Eclíptico
-Mae Amarela, também conhecida como Huang Dao Po, havia melhorado o tear quando vivia no exterior, e finalmente se tornou o Tear da Mae Amarela. Esta maquina é facil de programar, tece muito rapidamente, depois que a velha Huang atravessou o mar para retornar à sua terra natal, o tecelado de Jiangnan cresceu devido a ela.
+Mae Amarela, também conhecida como Huang Dao Po, havia melhorado o tear quando vivia no exterior, e finalmente se tornou o Tear da Mae Amarela. Esta maquina é facil de programar, tece muito rapidamente, depois que a velha Huang atravessou o mar para retornar a sua terra natal, o tecelado de Jiangnan cresceu devido a ela.
 Ferramenta·Tecer Arco-Íris
-O shuttle de sete cores com fragrancia fluente é feito de madeira exótica, a cor é como o neon do arco-íris, com fragrancia oculta, os itens tecidos também ficam impregnados com fragrancia, como uma névoa de luz fluindo por cima.
+O shuttle de sete cores com fragrancia fluente é feito de madeira exotica, a cor é como o neon do arco-íris, com fragrancia oculta, os itens tecidos também ficam impregnados com fragrancia, como uma névoa de luz fluindo por cima.
 Ferramenta·Tecer das Fadas
 Segundo a lenda, é o estranho shuttle usado pelo tecelao no céu, com o fluxo de névoa, as roupas tecidas com este shuttle sao como roupas celestiais sem costura, tudo em um, sem nenhum traco de fio.
 Ferramenta·Pote de Pedra
@@ -87,7 +87,7 @@ Ele tem uma forma hexagonal, duas orelhas e seis pés, e é inscrito com a figur
 Ferramenta·Pote de Siderita Dourada
 Pote de ferro Xuan revestido com ouro, fundido com ferro verde e preto, a superfície revestida com ouro, originalmente um objeto usado por uma família rica para mostrar sua riqueza, nao gruda, nao enferruja e é extremamente leve, podendo ser levantado facilmente por uma crianca.
 Ferramenta·Pote de Balde Kilo
-Pote de mil baldes chamado "mil baldes de comida, nao sao melhores que uma wok", diz-se que foi criado pelo famoso chef Yiya do Período dos Reinos Combatentes, um milagre da culinaria, adequado para os cinco sabores, os comensais só sentem a temperanca da comida, governando o mundo é como ajustar o sal de ameixa; ou pensando no passado, com muitas emocoes... assim por diante. A comida é muito boa.
+Pote de mil baldes chamado "mil baldes de comida, nao sao melhores que uma wok", diz-se que foi criado pelo famoso chef Yiya do Período dos Reinos Combatentes, um milagre da culinaria, adequado para os cinco sabores, os comensais so sentem a temperanca da comida, governando o mundo é como ajustar o sal de ameixa; ou pensando no passado, com muitas emocoes... assim por diante. A comida é muito boa.
 Ferramenta·Tigela de Barro
 A tigela de ceramica feita de barro, leve em tamanho, consiste de uma pequena tigela e um almofariz e pilao, podendo ser usada para triturar ervas e extrair sucos.
 Ferramenta·Ding de Ervas Omni
@@ -95,7 +95,7 @@ O tripé de tres pés usado para refinar medicamentos, feito de bronze e gravado
 Ferramenta·Forno do Imortal
 Forno usado na alquimia taoísta, com formato de tripé e cabeca pontuda, corpo arredondado, fundido em ouro e ferro, com a figura de Laojun Dengxian; e uma tampa, porque é usado para reunir o ar do elixir.
 Ferramenta·Tigela de Bodhi Esmeralda
-Esta tigela é feita de jaspe exótico que pode aquecer a medicina, e é decorada com folhas de limeira, simbolizando a suprema bodhichitta que pode transformar todos os seres sencientes, e o fundo da tigela fica vermelho quando usada para medicina, e verde quando usada para veneno.
+Esta tigela é feita de jaspe exotico que pode aquecer a medicina, e é decorada com folhas de limeira, simbolizando a suprema bodhichitta que pode transformar todos os seres sencientes, e o fundo da tigela fica vermelho quando usada para medicina, e verde quando usada para veneno.
 Ferramenta·Forno do Rei dos Fantasmas
 Diz-se que o rei dos fantasmas é o mensageiro do mundo inferior, pessoas que ainda nao viveram para ve-lo, o forno quando esta fazendo a medicina, o fogo deve ser negro, é o fogo conduzido pelo rei dos fantasmas, e quando os mortais o usam, ele se torna um milagre da medicina.
 Ferramenta·Forno do Rei das Drogas
@@ -103,8 +103,8 @@ Segundo a lenda, o Senhor das Drogas é o deus da saúde e bem-estar, e este tri
 Ferramenta·Tigela de Jade Sangue
 Diz-se que o jade de sangue é criado com sangue fresco, a seda vermelha, esta tigela pode fazer com que as ervas preciosas nao apodrecam, coisas venenosas se tornem como vida, ao se tornar um remédio, a luz vermelha se eleva, divina, como se tivesse um espírito.
 Ferramenta·Ding de Cristal
-Segundo a lenda, Liuli é uma pedra de cinco cores, tao brilhante quanto cristal e tao colorida quanto o pôr do sol, sendo uma pedra estranha deixada por Nuwa ao reparar o céu, e tem um cheiro peculiar.
+Segundo a lenda, Liuli é uma pedra de cinco cores, tao brilhante quanto cristal e tao colorida quanto o por do sol, sendo uma pedra estranha deixada por Nuwa ao reparar o céu, e tem um cheiro peculiar.
 Ferramenta·Forno de Osso de Jade
 Diz-se que os ossos dos nove ossos afundados de jade sao feitos a partir dos ossos de bestas espirituais através das vicissitudes do mar, afundando e se agitando, e sua textura é como jade, fria ao toque; quando esta tigela é usada para fazer remédio, o líquido de jade se forma e se torna pílulas em um momento.
-Feito à Mao
+Feito a Mao
 

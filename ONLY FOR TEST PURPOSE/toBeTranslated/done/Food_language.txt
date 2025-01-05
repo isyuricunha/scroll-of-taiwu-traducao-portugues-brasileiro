@@ -5,21 +5,21 @@ Uma pera suculenta com formato de pato, tem uma parte pequena e uma base grande.
 Golden citrus
 O cítrico dourado tem uma casca lisa, parecida com cera, e sua polpa é doce, acida e bem refrescante.
 Sea otter
-"Receio que as flores adormecam tarde da noite, entao acendo velas altas para brilhar a maquiagem vermelha". Os talos de frutas de begônia sao finos e pequenos, vermelhos brilhantes, lembrando o espinheiro; a polpa é fofa e doce, sendo muito poderosa ao ser consumida.
+"Receio que as flores adormecam tarde da noite, entao acendo velas altas para brilhar a maquiagem vermelha". Os talos de frutas de begonia sao finos e pequenos, vermelhos brilhantes, lembrando o espinheiro; a polpa é fofa e doce, sendo muito poderosa ao ser consumida.
 Pentachrome grapes
-'Um bom vinho tinto brilha em um calice de jade que brilha à noite, antes de eu beber, as notas de pipa dao ordens para montar o cavalo'. As uvas pentacrômicas sao um cacho de uvas de cinco cores diferentes – verde, amarelo, laranja, roxo e preto – que possuem uma cor magnífica, além de excelente aroma e sabor.
+'Um bom vinho tinto brilha em um calice de jade que brilha a noite, antes de eu beber, as notas de pipa dao ordens para montar o cavalo'. As uvas pentacromicas sao um cacho de uvas de cinco cores diferentes – verde, amarelo, laranja, roxo e preto – que possuem uma cor magnífica, além de excelente aroma e sabor.
 Litchi
 'Uma concubina de cabelo vermelho sorri, ninguém sabe que é uma lichia'. A lichia é uma fruta rara, com casca escamosa de tom avermelhado e polpa branca, parecida com pérolas, que é doce e suave, além de altamente nutritiva.
 Pomegranate
 As flores brancas e os frutos vermelhos da roma silvestre, com suas cascas levemente espinhosas, possuem um aroma agradavel e sao tao doces quanto néctar. Sao frequentemente usadas por famílias ricas como remédio para revigorar o espírito.
 Ginseng fruit
-Dizem que é o fruto de uma arvore de ginseng plantada por um imortal. É branca com um tom amarelado, com formato de ginseng, sabor levemente amargo e um retrogosto doce. O fruto de ginseng é conhecido como um tônico para o Qi e longevidade.
+Dizem que é o fruto de uma arvore de ginseng plantada por um imortal. É branca com um tom amarelado, com formato de ginseng, sabor levemente amargo e um retrogosto doce. O fruto de ginseng é conhecido como um tonico para o Qi e longevidade.
 Immortal peach
 Dizem que esses pessegos sao do tamanho de um punho infantil, tao brilhantes quanto o sol da tarde, com um caroco em formato de coracao e polpa parecida com mel. Pode ajudar a fazer voce esquecer das suas preocupacoes.
 Boiled egg
 Se fervido por pouco tempo, o ovo é amarelo dourado por dentro, enquanto a parte externa é lisa e morna; se fervido por mais tempo, o ovo é amarelo prateado e suave no paladar, deixando um aroma persistente.
 Sunny egg
-O ovo tem a forma de um pao em formato de lótus, com uma borda crocante e uma gema macia.
+O ovo tem a forma de um pao em formato de lotus, com uma borda crocante e uma gema macia.
 Egg fried rice
 Um prato caseiro delicioso, com uma cobertura dourada de arroz e uma textura distinta dos graos.
 Yangzhou fried rice
@@ -27,7 +27,7 @@ O arroz frito de Yangzhou exige tres fritadas, uma para o ovo, outra para libera
 Egg flower soup
 Essa sopa é feita de claras de ovo e servida com folhas jovens de alfafa. A mistura elegante de cores reflete 'prata branca salpicada com brocado e esmeralda, a primavera quebrando a neve remanescente'.
 Egg roll
-Os tres ingredientes sao chamados de 'alho-poró, brotos de prata e cenouras', que podem ser usados para aquecer e nutrir o Yang, ou para aliviar o calor, e sao envoltos em uma panqueca de ovo, que é nao só refrescante e crocante, mas também boa para o corpo.
+Os tres ingredientes sao chamados de 'alho-poro, brotos de prata e cenouras', que podem ser usados para aquecer e nutrir o Yang, ou para aliviar o calor, e sao envoltos em uma panqueca de ovo, que é nao so refrescante e crocante, mas também boa para o corpo.
 Egg white
 O ovo sem gema é feito mexendo a clara de ovo até virar líquido e cozinhando com vieiras secas. O prato é brilhante como jade, fino e suave, com aromas na boca e um desejo de imortalidade, por isso existe um ditado popular que diz "um ovo sem gema com cogumelo e vieira seca nao é substituído por um primeiro-ministro".
 A scent of heaven and earth
@@ -35,7 +35,7 @@ O sabor é suave e fofo, deixando um gosto aromatico nos labios e na língua; ao
 Golden robe
 "Quem cortou uma imagem do rio Wujiang, para envolver o arroz perfumado em um manto dourado". A selecao do arroz manto dourado é simples, mas o preparo é extremamente difícil, fala-se de forca, cada grao de arroz precisa ser envolto em nove pontos de camada de ovo, sem diferenca; fala-se também do fogo, é necessario que a camada de ovo seja crocante e o arroz suave e perfumado, o mesmo grao, assim o arroz manto dourado pode ser chamado de "comida celestial".
 Beggar chicken
-O frango é envolto em folhas de lótus e assado em barro, sua cor é vermelha brilhante, seu sabor contém o gosto das folhas de lótus, é macio e fofo, podendo ser um sabor único do povo.
+O frango é envolto em folhas de lotus e assado em barro, sua cor é vermelha brilhante, seu sabor contém o gosto das folhas de lotus, é macio e fofo, podendo ser um sabor único do povo.
 Frango assado 8 vezes
 O frango assado 8 vezes é um prato popular estilo mercado, feito com frutas secas como nozes-peca, pinhoes, castanhas e castanhas-do-para, assado com frango Yunying, ficando crocante e refrescante.
 Cubos de frango ao molho
@@ -43,9 +43,9 @@ O molho e o peito de frango sao fritos em alta temperatura, combinando a riqueza
 Frango dos cinco sabores
 Segundo a lenda, o frango com cinco sabores de queijo de damasco foi feito por uma criada do palacio na antiga cozinha imperial, que, ao atrasar o cozimento do frango, fez com que ele apodrecesse. Para evitar punicoes, a criada despejou o suco de damasco com cinco sabores sobre o frango, que assim se tornou o "frango dos cinco sabores de damasco", sendo doce e nutritivo, e muito apreciado pelo Imperador Wu.
 Frango dourado
-O frango dourado é feito com frango Yunying, cortado em pedacos, coberto com gema de ovo e empanado, frito em óleo, ficando dourado e crocante na panela, crocante e aromatico por fora e delicioso por dentro.
+O frango dourado é feito com frango Yunying, cortado em pedacos, coberto com gema de ovo e empanado, frito em oleo, ficando dourado e crocante na panela, crocante e aromatico por fora e delicioso por dentro.
 Frango com hibisco fatiado
-O caldo de frango com hibisco fatiado é cristalino como gelo, decorado com pétalas brancas de hibisco, parecendo o hibisco florescendo ao vento à beira do rio no outono. Seu sabor é leve e elegante, com uma fragrancia suave e macia. Este prato é tanto bonito quanto delicioso, sendo muito apreciado pelos literatos ao longo dos tempos.
+O caldo de frango com hibisco fatiado é cristalino como gelo, decorado com pétalas brancas de hibisco, parecendo o hibisco florescendo ao vento a beira do rio no outono. Seu sabor é leve e elegante, com uma fragrancia suave e macia. Este prato é tanto bonito quanto delicioso, sendo muito apreciado pelos literatos ao longo dos tempos.
 Frango fatiado simples
 O frango cortado em fatias finas, conhecido por seu aroma peculiar, embora simples, possui um cheiro inusitado que é difícil de descrever, mas quando saboreado, o gosto permanece na garganta, e o aroma fresco é algo único.
 Frango com rizoma de Kaempferia
@@ -53,19 +53,19 @@ A nova receita de frango com maca-cravo mistura carne de fruta com o prato, util
 Pato assado
 O pato assado é uma comida famosa no mercado da capital, incluindo o famoso pato assado Li, com pele vermelha e carne gordurosa, mas sem ser enjoativo, além de ser acessível, tornando-se popular entre as pessoas.
 Pato com cabaca
-A técnica do pato com cabaca é remover os ossos do pato inteiro, deixando a pele intacta. O pato é preparado em tres etapas e é chamado de "pato com cabaca" devido à sua semelhanca com uma cabaca e ao significado de boa sorte.
+A técnica do pato com cabaca é remover os ossos do pato inteiro, deixando a pele intacta. O pato é preparado em tres etapas e é chamado de "pato com cabaca" devido a sua semelhanca com uma cabaca e ao significado de boa sorte.
 Pato de beleza
-Segundo a lenda, Zhaogun sentia falta da comida da dinastia Han após deixar a fortaleza, e foi acompanhada por um cozinheiro que preparou um prato com macarrao, vermicelli e pato gordo, que ela adorou. Mais tarde, o prato passou a ser nomeado em sua homenagem.
+Segundo a lenda, Zhaogun sentia falta da comida da dinastia Han apos deixar a fortaleza, e foi acompanhada por um cozinheiro que preparou um prato com macarrao, vermicelli e pato gordo, que ela adorou. Mais tarde, o prato passou a ser nomeado em sua homenagem.
 Sopa cremosa de pato
-A sopa de pato com a palavra "longevidade" é feita de maneira refinada, com um sabor aromatico e suave, contendo carne fresca, e, devido ao desejo de "Tianbao Jiu Ru, He Shan com longevidade", é um prato obrigatório em banquetes de aniversario.
+A sopa de pato com a palavra "longevidade" é feita de maneira refinada, com um sabor aromatico e suave, contendo carne fresca, e, devido ao desejo de "Tianbao Jiu Ru, He Shan com longevidade", é um prato obrigatorio em banquetes de aniversario.
 Macarrao de sangue de ameixa
-"Neve e vento abusivos, e comer macarrao de sangue de ameixa, seu corpo é como o verao, mas voce pode desfrutar da ameixa vermelha da neve". O macarrao de sangue de ameixa é feito com sangue de pato de Shaoxing cozido com vermicelli, e o sangue, brilhante como ameixa, da o nome ao prato. Seu sabor é picante, mas aquece o estômago, e ao comer, faz voce suar, sendo algo muito peculiar.
+"Neve e vento abusivos, e comer macarrao de sangue de ameixa, seu corpo é como o verao, mas voce pode desfrutar da ameixa vermelha da neve". O macarrao de sangue de ameixa é feito com sangue de pato de Shaoxing cozido com vermicelli, e o sangue, brilhante como ameixa, da o nome ao prato. Seu sabor é picante, mas aquece o estomago, e ao comer, faz voce suar, sendo algo muito peculiar.
 Pato de bardo
 Segundo a lenda, durante a dinastia Tang, Li Bai, para conquistar o prazer do Rei Tang, fez um prato de pato com flores de 100 anos e o ofereceu ao Imperador Xuanzong, que elogiou o prato e o nomeou em sua honra. Agora, a dinastia se foi, mas o pato ainda é famoso.
 Pato salgado
 Jinling é conhecida como "a melhor delícia de pato do mundo", e as iguarias de pato de Jinling incluem o famoso pato salgado de Jinling, que tem pele branca e oleosa, carne tenra e ligeiramente vermelha, com pele aromatica, suculenta e carne macia.
 Macarrao de ganso
-A carne de ganso é cortada rapidamente em tiras, com pequenas bolinhas, empanadas em farinha e fritas no óleo de outono. Dessa forma, a carne de ganso perde o gosto gorduroso, mas ganha o aroma do molho, resultando em um prato cheio de sabor fresco.
+A carne de ganso é cortada rapidamente em tiras, com pequenas bolinhas, empanadas em farinha e fritas no oleo de outono. Dessa forma, a carne de ganso perde o gosto gorduroso, mas ganha o aroma do molho, resultando em um prato cheio de sabor fresco.
 Ganso colorido
 O ganso bordado é famoso pela sua finura e prosperidade. Sua producao requer atencao ao vapor lento, para que a carne seja gordurosa, mas nao oleosa, aromatica e suave. O povo da época comentava sobre este prato dizendo "medo de morder e nao soltar da língua".
 Ganso crocante de 9 sabores
@@ -75,19 +75,19 @@ O broto de bambu, o melhor dos vegetais, e o ganso, o mais caro das aves, quando
 Ganso merengue
 A beleza do ganso crocante é dita ser um prato de ganso. Envolvido em farinha e assado até dourar, a pele fica crocante e a carne perfumada. O prato deve ser descrito como "fumaca profunda, ganso crocante que nao engorda".
 Ganso frito
-"Verde das mazarias profundas, ganso brinca na chuva do lago". Depois de uma chuva de primavera, é o momento ideal para comer ganso. Nesse momento, a carne do ganso esta fresca e macia, bastando ferver em agua e fritar com óleo. O sabor é suficiente para ser considerado o melhor, um prato cheio da alegria da primavera.
+"Verde das mazarias profundas, ganso brinca na chuva do lago". Depois de uma chuva de primavera, é o momento ideal para comer ganso. Nesse momento, a carne do ganso esta fresca e macia, bastando ferver em agua e fritar com oleo. O sabor é suficiente para ser considerado o melhor, um prato cheio da alegria da primavera.
 Crocante preto
-É frequentemente acompanhado de vinho. A pele crocante do frango é envolvida em massa e frita até ficar crocante. Quando o vinho chega à garganta, a língua experimenta mil sabores.
+É frequentemente acompanhado de vinho. A pele crocante do frango é envolvida em massa e frita até ficar crocante. Quando o vinho chega a garganta, a língua experimenta mil sabores.
 Sopa de frango negro com ginseng
-O livro médico diz: "O ginseng é morno e doce, pode ser um grande tônico, restaurando o pulso e firmando o corpo". Se cozido com frango negro, ele acalma a mente e repoe o sangue, sendo um raro bom tônico.
+O livro médico diz: "O ginseng é morno e doce, pode ser um grande tonico, restaurando o pulso e firmando o corpo". Se cozido com frango negro, ele acalma a mente e repoe o sangue, sendo um raro bom tonico.
 Frango negro em saco
-A pele do frango deve ser lisa e brilhante, e a carne macia e perfumada, derretendo na boca. Devido à preparacao complicada, nao é acessível às pessoas poderosas e nobres.
+A pele do frango deve ser lisa e brilhante, e a carne macia e perfumada, derretendo na boca. Devido a preparacao complicada, nao é acessível as pessoas poderosas e nobres.
 Sopa de frango negro com cordyceps
 Adicione agua e umedeca o cordyceps e o frango negro, a docura do cordyceps e a riqueza do frango negro se transformam na agua, criando uma sopa excelente. O gosto é o mais fresco da sopa e a sopa é o mais nutritivo da comida, sendo o melhor prato do caminho.
 Bola de frango suculenta
-O molho dourado é feito raspando o ouro na sopa, chamado "brilhante cor fluorescente", e o wuwan é feito cozinhando o lombo do frango wu, chamado "preto como pedra de tinta". Este prato nao é só excelente no sabor, mas também tem o efeito de rejuvenescer, sendo dito por todos: "Um grao de excelencia é realmente pesado, acredito que Penglai esta longe".
+O molho dourado é feito raspando o ouro na sopa, chamado "brilhante cor fluorescente", e o wuwan é feito cozinhando o lombo do frango wu, chamado "preto como pedra de tinta". Este prato nao é so excelente no sabor, mas também tem o efeito de rejuvenescer, sendo dito por todos: "Um grao de excelencia é realmente pesado, acredito que Penglai esta longe".
 Bolo de codorna
-O bolo de codorna é um prato famoso da residencia governamental, feito de agua-viva e carne de codorna congelada. Sua cor é manchada, exótica e transparente, agradando aos olhos e com sabor suave e macio ao paladar, uma cozinha única.
+O bolo de codorna é um prato famoso da residencia governamental, feito de agua-viva e carne de codorna congelada. Sua cor é manchada, exotica e transparente, agradando aos olhos e com sabor suave e macio ao paladar, uma cozinha única.
 Ensopado de codorna
 Quando esta frio, aqueca o fogo e frite a carne de codorna na leve fumaca até que fique dourada e crocante, deixando-a crocante e deliciosa.
 Cem aves retornando ao ninho
@@ -103,7 +103,7 @@ Durante a Dinastia Tang, o imperador oferecia sopa de orvalho matinal aos seus m
 Churrasco de coelho
 Nas florestas profundas, caca-se um coelho gordo, retira-se os pelos e limpa-se, com especiarias, colocado sobre carvao quente, o som da gordura pingando, o aroma da carne, acompanhado de vinho e pela lua bonita, criando um momento de grande felicidade.
 Coelho frio
-O coelho frio é um prato caseiro, feito com carne de coelho, pele tenra e saborosa, e pimenta frita, voltando à frigideira depois de esfriar, com um gosto fresco, perfumado e macio, ideal para acompanhar vinho.
+O coelho frio é um prato caseiro, feito com carne de coelho, pele tenra e saborosa, e pimenta frita, voltando a frigideira depois de esfriar, com um gosto fresco, perfumado e macio, ideal para acompanhar vinho.
 Coelho picante
 A cabeca de coelho picante é um sabor típico de Shu, devido ao seu formato estranho, nao é apreciada por todos, mas a carne da cabeca de coelho, com sua picancia, elimina o gosto forte e apresenta um sabor fresco e picante, sendo excelente para a medula do cérebro. Existe um ditado sobre isso: "o mais prazeroso, o mais nojento".
 Coelho frito seco
@@ -111,27 +111,27 @@ A culinaria de Sichuan mantém o sabor forte e picante, e o coelho frito fresco 
 Sopa dos cem sabores
 Este prato é feito fervendo carne de coelho e legumes até ficarem macios, e tem a riqueza tanto da carne de coelho quanto dos legumes, fazendo com que ambos se complementem.
 Coelho dos cinco sabores
-Devido à sua carne tenra, o coelho é muito facil de temperar, sendo também conhecido como "carne dos cem sabores". O preparo do coelho dos cinco sabores é refinado, com os cinco sabores bem equilibrados em um prato, sem se sobrepor, oferecendo um sabor fresco e leve, realmente digno de seu nome.
+Devido a sua carne tenra, o coelho é muito facil de temperar, sendo também conhecido como "carne dos cem sabores". O preparo do coelho dos cinco sabores é refinado, com os cinco sabores bem equilibrados em um prato, sem se sobrepor, oferecendo um sabor fresco e leve, realmente digno de seu nome.
 Teatro
-A carne de coelho é cortada em fatias finas e ordenadas, de modo que, à luz, pode projetar sombras, sendo chamada de "teatro de sombras". A carne é fina e suave, e o sabor é profundo, só podendo ser feito por quem tem boa habilidade com a faca.
+A carne de coelho é cortada em fatias finas e ordenadas, de modo que, a luz, pode projetar sombras, sendo chamada de "teatro de sombras". A carne é fina e suave, e o sabor é profundo, so podendo ser feito por quem tem boa habilidade com a faca.
 Sopa de coelho de jade
-A sopa de coelho de jade é feita com carne de coelho das pernas, engrossada com tres fervuras, sua aparencia é como jade, lisa e sem falhas, ao comer a carne é tenra e fresca, e o caldo é doce. Nao é à toa que as pessoas dizem: "uma sopa de coelho de jade, com um sabor bom que vai além do mundo".
+A sopa de coelho de jade é feita com carne de coelho das pernas, engrossada com tres fervuras, sua aparencia é como jade, lisa e sem falhas, ao comer a carne é tenra e fresca, e o caldo é doce. Nao é a toa que as pessoas dizem: "uma sopa de coelho de jade, com um sabor bom que vai além do mundo".
 Hotpot de coelho
 "Nao ha ave como a perdiz e nem besta como o coelho". Este prato usa carne de coelho selvagem de montanha cortada em fatias finas, até o caldo ferver, entao a carne entra no caldo, temperos e é servido. Seu sabor é suave e quente, ao dar a primeira mordida, a sensacao de inverno desaparece e chega a boa estacao do verao, sendo considerado o "melhor prato de coelho" da época.
 Fatias de porco cozido duas vezes
 Durante as férias de Ano Novo, ha sempre um prato de carne de porco na mesa das famílias de Shu, e quando os nativos de Shu estao com saudades de casa, um prato de carne de porco com arroz é o suficiente para aliviar a solidao da viagem.
 Carne de porco no vapor
-A carne de porco no vapor com folha de lótus nao é só macia e doce pela combinacao de arroz glutinoso e carne rica, mas também tem um toque de aroma de folha de lótus, que fica na memória por muito tempo com apenas uma mordida.
+A carne de porco no vapor com folha de lotus nao é so macia e doce pela combinacao de arroz glutinoso e carne rica, mas também tem um toque de aroma de folha de lotus, que fica na memoria por muito tempo com apenas uma mordida.
 Carne de porco com vegetais salgados
 "O ramie é verde por dez milhas, mas o repolho de ameixa de Huizhou é uma flor". A melhor maneira de preparar o repolho de ameixa é usar carne de porco com seis partes gordas e quatro magras, a carne de porco mais bonita, e entao combina-la com a docura do repolho de ameixa, resultando numa combinacao perfeita.
 Intestino de porco cozido
-Diz-se que o prato foi criado pela primeira vez por um restaurante na capital, originalmente chamado de "intestino grande queimado", um cliente elogiou o prato dizendo: "Os taoístas sao bons em alquimia, existem pílulas imortais que viram nove vezes no mundo, comer essa iguaria pode ser comparado às pílulas imortais", assim o prato ficou famoso, e o restaurante mudou seu nome para "Intestino Grande de Nove Voltadas", e o prato se tornou famoso, sendo que o restaurante depois também mudou seu nome para "Intestino Grande de Nove Voltadas".
+Diz-se que o prato foi criado pela primeira vez por um restaurante na capital, originalmente chamado de "intestino grande queimado", um cliente elogiou o prato dizendo: "Os taoístas sao bons em alquimia, existem pílulas imortais que viram nove vezes no mundo, comer essa iguaria pode ser comparado as pílulas imortais", assim o prato ficou famoso, e o restaurante mudou seu nome para "Intestino Grande de Nove Voltadas", e o prato se tornou famoso, sendo que o restaurante depois também mudou seu nome para "Intestino Grande de Nove Voltadas".
 Osso dourado
-Devido ao preparo refinado e à selecao extravagante de materiais, diz-se que "um polegar de osso é um polegar de ouro". Este prato é feito de ossos de porco jovens assados lentamente sobre fogo brando, a carne é macia e derrete na boca; os ossos sao crocantes e perfumados, podendo ser mastigados.
+Devido ao preparo refinado e a selecao extravagante de materiais, diz-se que "um polegar de osso é um polegar de ouro". Este prato é feito de ossos de porco jovens assados lentamente sobre fogo brando, a carne é macia e derrete na boca; os ossos sao crocantes e perfumados, podendo ser mastigados.
 Presunto cristal
-A carne delicada cristalina, devido à sua aparencia transparente como cristal, recebeu esse nome. Este prato é aromatico e suave, atraindo Zhang Guolao a descer dos céus para procura-lo, sua carne é macia e saborosa, impossível parar de comer, fazendo Zhang Guolao sentir falta do encontro das pessegas.
-Almôndega de carne de porco e caranguejo
-"A gordura de caranguejo é rica em creme, a carne picada é deliciosa, cabeca de boga estufada na wok, o gosto do céu e da terra". A almôndega de carne de caranguejo é um prato famoso na cidade de Yangzhou, feita com carne macia e carne de caranguejo, pegajosa e suave, rica e saborosa. O imperador Yang da dinastia Sui experimentou esse prato ao ir para Yangzhou e o chamou de "delicioso".
+A carne delicada cristalina, devido a sua aparencia transparente como cristal, recebeu esse nome. Este prato é aromatico e suave, atraindo Zhang Guolao a descer dos céus para procura-lo, sua carne é macia e saborosa, impossível parar de comer, fazendo Zhang Guolao sentir falta do encontro das pessegas.
+Almondega de carne de porco e caranguejo
+"A gordura de caranguejo é rica em creme, a carne picada é deliciosa, cabeca de boga estufada na wok, o gosto do céu e da terra". A almondega de carne de caranguejo é um prato famoso na cidade de Yangzhou, feita com carne macia e carne de caranguejo, pegajosa e suave, rica e saborosa. O imperador Yang da dinastia Sui experimentou esse prato ao ir para Yangzhou e o chamou de "delicioso".
 Carne de porco cozida de Dongpo
 A carne de Dongpo é chamada de "carne de primeira classe" pelo povo da época. Este prato é feito de carne de porco e vinho cozidos juntos, com o aroma do vinho, mas nao pesado, a carne é macia, mas nao desfeita, e seu sabor fica nos labios e na língua, satisfazendo sem cansar, digno de sua reputacao de carne de primeira classe.
 Fatias finas de cordeiro fritas cruas
@@ -139,15 +139,15 @@ Na dinastia Wei e Jin, os estudiosos adoravam comer carne de cordeiro, incluindo
 Saco de cordeiro
 Nos tempos antigos, o saco de cordeiro nao era permitido em banquetes, mas na dinastia Tang, um fornecedor de banquetes de carne de ovelha nao conseguiu resistir e usou a carne do cordeiro para preparar um prato de "saco de cordeiro", que era servido como comida miúda, com carne fresca e sopa fresca, excecionalmente delicioso, fazendo o mundo mudar sua visao sobre o prato.
 Cordeiro com cebola verde
-As setenta e duas lojas da capital tem cordeiro com cebolas verdes como prato principal, mas o restaurante da família Li é o único que tem a essencia, seu cordeiro é delicioso, suave e duradouro, sendo muito apreciado pelo povo da época, mas após a mudanca de Kyoto para o sul, a família Li perdeu sua fama, tornando-se difícil encontrar esse sabor.
-Estômago de cordeiro
+As setenta e duas lojas da capital tem cordeiro com cebolas verdes como prato principal, mas o restaurante da família Li é o único que tem a essencia, seu cordeiro é delicioso, suave e duradouro, sendo muito apreciado pelo povo da época, mas apos a mudanca de Kyoto para o sul, a família Li perdeu sua fama, tornando-se difícil encontrar esse sabor.
+Estomago de cordeiro
 "A única coisa que torna as iguarias de Qilu incomíveis é o fogo, que é bom em equilibrar os cinco sabores. O prato de cacarola é fresco e perfumado, leve e refrescante, fortalece o baco, tonifica a deficiencia e impede o suor."
 Rim de cordeiro grelhado
-O ditado popular diz: "Tire de outro lugar para complementar seu próprio corpo". Pegue o rim de ovelha, com cinco temperos assados e consumidos, fica crocante e delicioso, picante e aromatico, também com o efeito de fortalecer o corpo, muito apreciado pela aristocracia Han.
+O ditado popular diz: "Tire de outro lugar para complementar seu proprio corpo". Pegue o rim de ovelha, com cinco temperos assados e consumidos, fica crocante e delicioso, picante e aromatico, também com o efeito de fortalecer o corpo, muito apreciado pela aristocracia Han.
 Carne cozida
 "Sempre que ha comida imperial, deve-se eliminar o espírito borbulhante". A carne borbulhante é feita com a carne mais macia do cordeiro, com um método secreto de cozimento, feita de forma que a gordura e o odor desaparecam, seu aroma flutua por tres dias sem perder intensidade, é um prato raro, que na antiguidade, somente os parentes reais podiam comer.
 Peixe no vapor com quadrado de cordeiro
-Desde o Período das Primaveras e Outonos, o mundo adora a frescura da carne de cordeiro, que é a primeira das "delícias de cordeiro", com um sabor que combina a crocancia do cordeiro e a frescura e suavidade do peixe, podendo ser chamada de "primeira frescura do mundo", nao é à toa que dizem: "a beleza do cordeiro ao lado do peixe pode conquistar um país inteiro!"
+Desde o Período das Primaveras e Outonos, o mundo adora a frescura da carne de cordeiro, que é a primeira das "delícias de cordeiro", com um sabor que combina a crocancia do cordeiro e a frescura e suavidade do peixe, podendo ser chamada de "primeira frescura do mundo", nao é a toa que dizem: "a beleza do cordeiro ao lado do peixe pode conquistar um país inteiro!"
 Cozido de cobra com frango
 No campo, é possível encontrar uma comida selvagem, pegando cobras e cozinhando com frango, chamada de "cobra mordendo o passaro", a sopa é espessa e fresca. A sopa tem um sabor muito agradavel e exibe a beleza da comida selvagem.
 Cobra embriagada
@@ -156,10 +156,10 @@ Sopa de cobra
 "A brisa do outono sobe, a cobra esta gorda. É feita de frango desfiado, cogumelos e cogumelos, cozidos juntos."
 Vieira cozida com tartaruga e cobra
 O ensopado de vieira, tartaruga e cobra nao é para os ricos e famosos devido aos ingredientes caros e ao processo de cozimento complicado. Este prato é feito principalmente de cobra, complementado pela vieira e tartaruga, e cozido com vegetais da floresta, sendo rico em sabor sem perder a frescura.
-Vinho de peônia com cobra
-"Quando a estacao das chuvas quebra a geada, a peônia floresce na primavera". Durante a estacao das chuvas, a peônia é colhida para fazer vinho, embebida com carne de cobra, e depois cozida com agua limpa, combinando a docura da peônia com a riqueza e beleza da carne de cobra, criando um sabor refrescante e doce, como a última luz suave da primavera.
+Vinho de peonia com cobra
+"Quando a estacao das chuvas quebra a geada, a peonia floresce na primavera". Durante a estacao das chuvas, a peonia é colhida para fazer vinho, embebida com carne de cobra, e depois cozida com agua limpa, combinando a docura da peonia com a riqueza e beleza da carne de cobra, criando um sabor refrescante e doce, como a última luz suave da primavera.
 Duelo de dragao e tigre
-"Dragao e tigre lutam, tudo em um prato de comida". O dragao é chamado de cobra, o tigre é chamado de civeta, o duelo de dragao e tigre é feito com a essencia desses dois corpos, utilizando um método secreto de cozimento. Este prato nao só é delicioso, mas também tem um grande efeito tonificante, sendo chamado de "dois grandes" pelas pessoas.
+"Dragao e tigre lutam, tudo em um prato de comida". O dragao é chamado de cobra, o tigre é chamado de civeta, o duelo de dragao e tigre é feito com a essencia desses dois corpos, utilizando um método secreto de cozimento. Este prato nao so é delicioso, mas também tem um grande efeito tonificante, sendo chamado de "dois grandes" pelas pessoas.
 Shabu-shabu de carne de cervo
 A carne de cervo, por ter um sabor forte, é frequentemente comida com couve enrolada, chamada de "cervo claro". Este prato tem a aparencia de vermelho ameixa e verde grama, é crocante e saboroso, doce e delicioso, ideal para a primavera.
 Sopa de néctar doce
@@ -173,15 +173,15 @@ Diz-se que o Rei Mu de Zhou cacou um cervo branco e o cozinhou em um tripote de 
 Churrasco de tromba de elefante
 "Em Zhuanzhou, muitos elefantes selvagens sao cacados, e os moradores competem para comer sua tromba, que é gordurosa e crocante, especialmente boa para grelhar". A tromba de elefante é gordurosa, crocante e sem ossos, saborosa e bonita, nao precisando de métodos complicados de preparo, apenas assada na brasa, ja revela sua beleza.
 Tromba de elefante de seda dourada
-Na Dinastia Tang, uma regiao prestava tributo à tromba de elefante, e o chefe de cozinha imperial a embebia em mel de tília e selava. Após alguns meses, retirava o alimento, fritando lentamente com fogo civil. Quanto mais colorido ficava, até que a cor fosse dourada, enrolando o mel em fios. O prato parece estar coberto por la dourada, sendo chamado de "tromba de elefante de seda dourada".
+Na Dinastia Tang, uma regiao prestava tributo a tromba de elefante, e o chefe de cozinha imperial a embebia em mel de tília e selava. Apos alguns meses, retirava o alimento, fritando lentamente com fogo civil. Quanto mais colorido ficava, até que a cor fosse dourada, enrolando o mel em fios. O prato parece estar coberto por la dourada, sendo chamado de "tromba de elefante de seda dourada".
 Dragao travesso
-As trombas de elefante sao armazenadas em gelo frio para mante-las frescas e tenras. Após duas horas de cozimento, a tromba de elefante fica cozida, mas nao desfeita, crocante e deliciosa, e o caldo fica branco como a neve, fresco e suave. Este prato é entao chamado de "dragao assombrando o mar".
+As trombas de elefante sao armazenadas em gelo frio para mante-las frescas e tenras. Apos duas horas de cozimento, a tromba de elefante fica cozida, mas nao desfeita, crocante e deliciosa, e o caldo fica branco como a neve, fresco e suave. Este prato é entao chamado de "dragao assombrando o mar".
 Tromba de elefante de jade roxa
 É um dos oito tesouros, sua carne é gordurosa e crocante, com sabor doce e leve. O xarope de jade roxa é o melhor vinho, com um aroma suave e fragrante, e sabor intenso. Esses dois ingredientes sao cozidos juntos por um método secreto para fazer a "tromba de elefante de xarope de jade roxa", que tem um sabor que vai de leve a rico, e a combinacao é tao engenhosa que nao ha nada igual no mundo.
 Pata de urso assada
 "O urso, no inverno, nao come quando esta ferido, mas depois lambe a palma da mao, pois sua beleza esta na palma". A palma do urso é a melhor parte do corpo, com um sabor forte. Quando cozida com molho de carne moída, ela se torna incrivelmente saborosa, e as pessoas dizem: "Coma sua carne e nao se esqueca de sete ou oito anos".
 Pata de urso com graos inteiros
-A pata de urso dos oito tesouros é um prato frio. Cozinhe a pata de urso até que fique desfeita, adicione a erva Pat Chun e cozinhe até que fique crocante, depois coloque na camara de gelo para congelar. Quando a cobertura de gelo for retirada, seu sabor sera doce e refrescante, uma culinaria refinada que é um grande tônico, sendo o prato mais bonito entre os grandes tônicos.
+A pata de urso dos oito tesouros é um prato frio. Cozinhe a pata de urso até que fique desfeita, adicione a erva Pat Chun e cozinhe até que fique crocante, depois coloque na camara de gelo para congelar. Quando a cobertura de gelo for retirada, seu sabor sera doce e refrescante, uma culinaria refinada que é um grande tonico, sendo o prato mais bonito entre os grandes tonicos.
 Pata de urso do alto rei
 O produto da palma do rei é um tesouro da culinaria Qi Lu. Este prato usa barriga de peixe e pata de urso, cozinhados lentamente por tres horas. O suco da barriga de peixe se derrete na pata de urso, de modo que voce come sem peixe, mas pode sentir o frescor do peixe, e a beleza da pata de urso se mistura ao sabor. Pode-se dizer que é "peixe e pata de urso".
 Pao defumado
@@ -192,10 +192,10 @@ Pao cozido no vapor
 Os paes cozidos no vapor de quatro cores sao feitos de flores e vegetais sazonais, misturados com farinha. As cores sao vermelho, significando boa sorte; amarelo, significando riqueza; branco, significando longa vida; e roxo, significando sorte.
 Panqueca
 "A flor de hibisco nao é apenas uma flor, é como maquiagem de beleza". A panqueca de hibisco é feita com a flor de hibisco e farinha amassada, cozida no vapor. Quando retirada, a cor da flor de hibisco permanece, tornando-a visualmente bonita; seu aroma também permanece, e ao comer, o sabor floral preenche a boca.
-Bolo de folha de lótus
-Dizem que: "Em agosto, as tamaras exalam fragrancia e as folhas de lótus podem ser obtidas, por isso esse prato ajuda a aquecer o corpo". A producao do bolo de tamaras e folha de lótus exige um cozimento lento, permitindo que a fragrancia de lótus penetre na massa, enquanto as tamaras mantem seu sabor original. A docura das tamaras e o sabor do lótus se unem, sendo doce, mas nao enjoativo.
-Bolo de peônia ouro e prata
-Segundo a lenda, o bolo de peônia ouro e prata era uma sobremesa consumida pelas damas da corte da Dinastia Tang, com efeito de nutricao da pele e beleza. Sua forma lembra uma peônia, mas é colorido em ouro e prata, colocado em um prato com brilho radiante, como um ornamento esculpido em ouro e prata.
+Bolo de folha de lotus
+Dizem que: "Em agosto, as tamaras exalam fragrancia e as folhas de lotus podem ser obtidas, por isso esse prato ajuda a aquecer o corpo". A producao do bolo de tamaras e folha de lotus exige um cozimento lento, permitindo que a fragrancia de lotus penetre na massa, enquanto as tamaras mantem seu sabor original. A docura das tamaras e o sabor do lotus se unem, sendo doce, mas nao enjoativo.
+Bolo de peonia ouro e prata
+Segundo a lenda, o bolo de peonia ouro e prata era uma sobremesa consumida pelas damas da corte da Dinastia Tang, com efeito de nutricao da pele e beleza. Sua forma lembra uma peonia, mas é colorido em ouro e prata, colocado em um prato com brilho radiante, como um ornamento esculpido em ouro e prata.
 Rolinho primavera
 O grande é recheado com vegetais e frito, delicioso de comer; o pequeno é recheado com tiras de frutas, o que torna a refeicao mais gordurosa. Devido ao seu formato de "faixa de mae e filho", é chamado de rolinho primavera mae e filho. Este lanche reúne o sabor da primavera, feito com os vegetais e frutas mais frescos da primavera.
 Rolinho de cereja
@@ -203,9 +203,9 @@ A casca do rolinho de cereja é fina como a asa de uma cigarra, delicada e trans
 Bolo de pessego
 O bolo de pessego da tartaruga é feito com a boa intencao de "prolongar a vida", sendo um prato principal no banquete de aniversario. Tem tres pés de altura e um braco de largura, como uma tartaruga carregando pessegos. Seu sabor é suave e doce, como um pessego recém-colhido em marco, e nao ha quem consiga superar sua elaboracao e sabor.
 Tofu frito
-"O tofu é fatiado e frito em óleo quente até ficar dourado, depois é refogado com molho, retirado e polvilhado com cebolinhas". O tofu frito é comum em casa ou em restaurantes e é popular devido ao seu sabor fresco e crocante.
+"O tofu é fatiado e frito em oleo quente até ficar dourado, depois é refogado com molho, retirado e polvilhado com cebolinhas". O tofu frito é comum em casa ou em restaurantes e é popular devido ao seu sabor fresco e crocante.
 Sopa de tofu
-Se o tofu for frito em óleo, perde seu sabor original, e se for cozido diretamente, perde sua frescura. Apenas a melhor agua deve ser usada para cozinha-lo. A sopa de tofu é delicada na boca, com um sabor doce ao beber, embora seja um prato leve, tem um sabor especial.
+Se o tofu for frito em oleo, perde seu sabor original, e se for cozido diretamente, perde sua frescura. Apenas a melhor agua deve ser usada para cozinha-lo. A sopa de tofu é delicada na boca, com um sabor doce ao beber, embora seja um prato leve, tem um sabor especial.
 Tofu de peixe
 "Parece sem gosto, mas tem cem sabores escondidos." O tofu com sabor de peixe é feito de maneira inteligente, nao tem peixe no prato, mas é possível sentir o cheiro de peixe, e o tofu é crocante por fora e macio por dentro, como carne de peixe, o que é realmente impressionante.
 Sopa de tofu de jade
@@ -221,59 +221,59 @@ Nuvem da falésia
 Salada de cogumelos
 "A superfície do salario nova e fina, pressionando firme como jade. Com a faca caindo, fios de prata, cozidos na bacia de primavera fria." No verao quente, colhendo folhas de acacia verde para fazer amoy frio, com cogumelos, torna-se um amoy frio com cogumelos, refrescante e capaz de dissipar o calor do verao.
 Sopa de cogumelos
-A flor de prata e o cogumelo shiitake sao ambos tesouros das montanhas. A sopa é cozida com fogo suave, combinando a docura da flor de prata e a frescura do shiitake em um só, nao só deliciosa, mas também medicinal, e frequentemente consumida como alimento saudavel.
+A flor de prata e o cogumelo shiitake sao ambos tesouros das montanhas. A sopa é cozida com fogo suave, combinando a docura da flor de prata e a frescura do shiitake em um so, nao so deliciosa, mas também medicinal, e frequentemente consumida como alimento saudavel.
 Sopa de cores misturadas
-A sopa é feita fervendo cogumelos e varios tipos de vegetais das montanhas na sopa de arroz, sendo chamada de "sopa de cores variadas" devido à sua cor cristalina e à cor manchada da pele flutuando.
+A sopa é feita fervendo cogumelos e varios tipos de vegetais das montanhas na sopa de arroz, sendo chamada de "sopa de cores variadas" devido a sua cor cristalina e a cor manchada da pele flutuando.
 Cogumelos com mel
-"O cogumelo shiitake é doce, suave e nao tóxico." O cogumelo é doce, entao é cozido com mel até o acúcar cobrir os cogumelos e a docura se infiltrar na carne do cogumelo, tornando-se uma "sobremesa de cogumelos".
+"O cogumelo shiitake é doce, suave e nao toxico." O cogumelo é doce, entao é cozido com mel até o acúcar cobrir os cogumelos e a docura se infiltrar na carne do cogumelo, tornando-se uma "sobremesa de cogumelos".
 Sopa Tai-Chi
 A Sopa Tai-Chi é uma iguaria vegetariana para a saúde. Este prato é feito de cogumelos e claras de ovo, que é preto e branco, como um diagrama de Tai Chi.
 Lua sob o rio
 Segundo a lenda, este prato é o melhor prato vegetariano do banquete vegetariano do Templo Si Zhou, que foi uma vez apreciado pelo Imperador Tang. O cogumelo é metade do prato, e o glúten é metade do prato, e a cor do prato brilha.
 Refeicoes de Arhat
-Onde ha o aniversario de Buda, ha o jejum de Luohan. Luohanzhai é um dos alimentos vegetarianos, feito de 18 tipos de vegetais raros das montanhas e florestas, devido aos seus métodos de preparo especiais, e pode manter o gosto original das montanhas e florestas, comendo e dizendo: "Se nao houver Luohanzhai na terra, como pode o Buda descer à terra".
+Onde ha o aniversario de Buda, ha o jejum de Luohan. Luohanzhai é um dos alimentos vegetarianos, feito de 18 tipos de vegetais raros das montanhas e florestas, devido aos seus métodos de preparo especiais, e pode manter o gosto original das montanhas e florestas, comendo e dizendo: "Se nao houver Luohanzhai na terra, como pode o Buda descer a terra".
 Broto de bambu em conserva
-"Os brotos de bambu Dixie e os botoes de pimenta novos sao melhores para comer com carne fresca." Os literatos da época amavam a limpeza dos brotos de bambu, nao podendo suportar tirar seu sabor, por isso criaram os brotos de bambu recheados, este prato parece fresco e elegante, com gosto dos brotos de bambu após a chuva, comendo carne fresca nao substitui.
+"Os brotos de bambu Dixie e os botoes de pimenta novos sao melhores para comer com carne fresca." Os literatos da época amavam a limpeza dos brotos de bambu, nao podendo suportar tirar seu sabor, por isso criaram os brotos de bambu recheados, este prato parece fresco e elegante, com gosto dos brotos de bambu apos a chuva, comendo carne fresca nao substitui.
 Chopsuey
 No início do verao, os aspargos estao em plena floracao e seu sabor é fresco e crocante. O prato vegetariano acima é feito refogando os aspargos jovens no início do verao, com seu sabor crocante e doce.
 Esmeralda tricolor
-Colhendo os brotos de bambu mais frescos, aipo d'agua, alface, cortados finamente em tiras verdes, escaldados em agua e depois refogados em óleo vegetal, formando tres cores de tiras azuis e verdes. As tres cores sao semelhantes e diferentes, com uma mistura de verde e turquesa, como um prato de primavera, uma iguaria rara no verao.
+Colhendo os brotos de bambu mais frescos, aipo d'agua, alface, cortados finamente em tiras verdes, escaldados em agua e depois refogados em oleo vegetal, formando tres cores de tiras azuis e verdes. As tres cores sao semelhantes e diferentes, com uma mistura de verde e turquesa, como um prato de primavera, uma iguaria rara no verao.
 Sopa de rabanete Dongpo
-"Antigamente, quando eu era hóspede na Faculdade Yeo Tong, após cada refeicao, eu tomava sopa de vegetais, que era muito adoravel e clara. Após a refeicao, a sopa ficava como um néctar doce. Este prato é feito com grande cuidado, nao com os aspargos após a chuva, nem com as fontes das montanhas e florestas, e se for cozido com esses dois sabores, é melhor que todos os sabores do mundo."
+"Antigamente, quando eu era hospede na Faculdade Yeo Tong, apos cada refeicao, eu tomava sopa de vegetais, que era muito adoravel e clara. Apos a refeicao, a sopa ficava como um néctar doce. Este prato é feito com grande cuidado, nao com os aspargos apos a chuva, nem com as fontes das montanhas e florestas, e se for cozido com esses dois sabores, é melhor que todos os sabores do mundo."
 Sopa de 10 cores
 Segundo a lenda, a sopa de cabeca de dez cores foi criada por um eremita das montanhas durante a Dinastia Tang, que pegou cem vegetais raros da floresta e os cozinhou por um longo período com fogo brando, recebendo o nome de "sopa de cabeca de dez cores" porque sua cor parecia "uma centena de neblinas sobrepostas no início, dez cores diferentes de brocados cortados de início". Diz-se que é "a alegria do mundo".
 Torre de esmeralda
 "Brotos de bambu sao os primeiros dos vegetais, carne de carneiro gordo e javalis nao sao suficientes para comparar; medula de pedra é a primeira das pedras, para proteger criancas e restaurar o rosto sem o elixir dourado". A torre de jade de medula de pedra define a frescura dos brotos de bambu, a utilidade da medula de pedra e entra em um prato, comer para dizer suas coisas celestiais, pode fazer o cranio crescer cabelo para o rosto de uma crianca.
-Sopa de sementes de lótus
-"O lótus é doce, morno e adstringente, com um aroma claro e fragrante, com o gosto da colheita, e é o fruto do baco. As sementes de lótus devem ser fervidas em agua para remover o amargor e a adstringencia e liberar todo o aroma, o que nao só tem um bom sabor, mas também nutre o coracao e os rins."
-Lótus aquatico
-"A fragrancia do assento do Buda ainda esta distante. As novas sementes de lótus sao cozidas no vapor com arroz glutinoso até que o arroz esteja macio e pegajoso e as sementes de lótus estejam macias e perfumadas, entao sao colocadas nos cachos de lótus e fervidas em agua."
-Bolo de lótus
-Colhendo as sementes de lótus no início de maio e triturando-as em pó fino, adicionando acúcar e óleo, faz-se uma pasta de semente de lótus, que tem um sabor doce, mas nao gorduroso, e uma textura macia. Envolvida em massa e assada, a docura da pasta de semente de lótus e a crocancia do "flush" crocante podem ser obtidas, e as pessoas dizem: "Se voce nao comer pasta de semente de lótus e flush crocante, nao sabe o sabor do mundo."
-Lótus doce
-As sementes de lótus do Lago Dongting sao as melhores sementes de lótus do mundo. A docura das sementes de lótus é na intensidade certa para neutralizar o amargor das sementes de lótus sem tirar seu aroma.
+Sopa de sementes de lotus
+"O lotus é doce, morno e adstringente, com um aroma claro e fragrante, com o gosto da colheita, e é o fruto do baco. As sementes de lotus devem ser fervidas em agua para remover o amargor e a adstringencia e liberar todo o aroma, o que nao so tem um bom sabor, mas também nutre o coracao e os rins."
+Lotus aquatico
+"A fragrancia do assento do Buda ainda esta distante. As novas sementes de lotus sao cozidas no vapor com arroz glutinoso até que o arroz esteja macio e pegajoso e as sementes de lotus estejam macias e perfumadas, entao sao colocadas nos cachos de lotus e fervidas em agua."
+Bolo de lotus
+Colhendo as sementes de lotus no início de maio e triturando-as em po fino, adicionando acúcar e oleo, faz-se uma pasta de semente de lotus, que tem um sabor doce, mas nao gorduroso, e uma textura macia. Envolvida em massa e assada, a docura da pasta de semente de lotus e a crocancia do "flush" crocante podem ser obtidas, e as pessoas dizem: "Se voce nao comer pasta de semente de lotus e flush crocante, nao sabe o sabor do mundo."
+Lotus doce
+As sementes de lotus do Lago Dongting sao as melhores sementes de lotus do mundo. A docura das sementes de lotus é na intensidade certa para neutralizar o amargor das sementes de lotus sem tirar seu aroma.
 Sementes de 7 tesouros
-Os sete tesouros sao: sementes de lótus, tamaras vermelhas, arroz glutinoso, feijao vermelho, arroz preto, amendoas e nozes. Segundo a lenda, Wu Zetian era fa de jogos, e o chefe de cozinha do palacio fez o "Jogo dos Sete Tesouros" com os sete tesouros para oferecer.
+Os sete tesouros sao: sementes de lotus, tamaras vermelhas, arroz glutinoso, feijao vermelho, arroz preto, amendoas e nozes. Segundo a lenda, Wu Zetian era fa de jogos, e o chefe de cozinha do palacio fez o "Jogo dos Sete Tesouros" com os sete tesouros para oferecer.
 Ginkgo de jade
-"Cogumelo de jade, acalma e nutre a mente; fruto branco, aquece os pulmoes e beneficia o qi". Diz-se que havia um velho na Dinastia Tang que comia este mingau dia após dia e ainda nao parecia velho aos 100 anos, o que é estranho.
+"Cogumelo de jade, acalma e nutre a mente; fruto branco, aquece os pulmoes e beneficia o qi". Diz-se que havia um velho na Dinastia Tang que comia este mingau dia apos dia e ainda nao parecia velho aos 100 anos, o que é estranho.
 Mingau de ninho de passaro
-O mingau de ninho de passaro com ginkgo é feito a partir do melhor ninho de passaro e do fruto branco, cozido com fogo brando. O ninho de passaro é doce e o fruto branco é doce, fervido e comido, voce pode obter a essencia de ambos, comer, pode limpar os pulmoes e a turbidez do estômago, prolongando a vida.
+O mingau de ninho de passaro com ginkgo é feito a partir do melhor ninho de passaro e do fruto branco, cozido com fogo brando. O ninho de passaro é doce e o fruto branco é doce, fervido e comido, voce pode obter a essencia de ambos, comer, pode limpar os pulmoes e a turbidez do estomago, prolongando a vida.
 Mingau de pérola
 Sopa de pérola em uma tigela dourada para manter a beleza do palacio, nao é um nobre que pode obter. O fruto branco tem casca branca e carne amarela, cozido por muito tempo com brilho, e o amargor desaparece, com mel e colocado na tigela dourada, como o "cascarejo da pérola de jade", comer e suspirar "essa docura, mas nao é ouro, pedra, pérolas e jade podem ser comparados".
 Ginkgo poético
-Segundo a lenda, os descendentes de Confúcio construíram o Salao da Poesia e Ritos, diante do qual foram plantadas arvores de ginkgo, e no outono elas produziam frutos grandes e abundantes, tornando-os bonitos para servir. Era um prato famoso no banquete da Mansao de Confúcio, conhecido como "um dos melhores pratos de fruto branco" devido à sua cor bonita, sabor aromatico e benefícios para a saúde.
+Segundo a lenda, os descendentes de Confúcio construíram o Salao da Poesia e Ritos, diante do qual foram plantadas arvores de ginkgo, e no outono elas produziam frutos grandes e abundantes, tornando-os bonitos para servir. Era um prato famoso no banquete da Mansao de Confúcio, conhecido como "um dos melhores pratos de fruto branco" devido a sua cor bonita, sabor aromatico e benefícios para a saúde.
 Sopa Tai-Chin
-"Ha uma casa de imortal na Montanha do Sul. Quando um lenhador entrou na casa em busca de flores, ele viu uma luz espiritual na estrada sinuosa. Diz-se que a sopa é feita após a bebida do imortal e pode ser consumida para ascender à imortalidade, porque sua cor é clara e pura, por isso recebeu o nome de 'Sopa Tai Qing'."
+"Ha uma casa de imortal na Montanha do Sul. Quando um lenhador entrou na casa em busca de flores, ele viu uma luz espiritual na estrada sinuosa. Diz-se que a sopa é feita apos a bebida do imortal e pode ser consumida para ascender a imortalidade, porque sua cor é clara e pura, por isso recebeu o nome de 'Sopa Tai Qing'."
 Sopa de Cogumelo Leao de Jade
-A sopa de cabeca de macaco é feita cozinhando cogumelo fresco de cabeca de macaco e arroz. O cogumelo é aromatico e macio, e quando mastigado com arroz macio, a boca e os dentes se enchem de sabor e calor, nao é à toa que dizem: "Eu preferiria ter um impacto negativo no milho Chin-shek do que sopa de cabeca de macaco".
+A sopa de cabeca de macaco é feita cozinhando cogumelo fresco de cabeca de macaco e arroz. O cogumelo é aromatico e macio, e quando mastigado com arroz macio, a boca e os dentes se enchem de sabor e calor, nao é a toa que dizem: "Eu preferiria ter um impacto negativo no milho Chin-shek do que sopa de cabeca de macaco".
 Cogumelo Leao de Cabelos ao Molho
-"A floresta da montanha para pegar a cabeca do macaco branco, cozinhar o gosto é melhor que gelatina. A cabeca do macaco branco em gelatina é incolor, mas o aroma é intenso, e o sabor é variado, às vezes tao leve quanto a grama despertando, e outras vezes tao frio quanto a gelatina intoxicante, e a beleza disso merece a reputacao de 'o chefe da comida vegetariana'."
+"A floresta da montanha para pegar a cabeca do macaco branco, cozinhar o gosto é melhor que gelatina. A cabeca do macaco branco em gelatina é incolor, mas o aroma é intenso, e o sabor é variado, as vezes tao leve quanto a grama despertando, e outras vezes tao frio quanto a gelatina intoxicante, e a beleza disso merece a reputacao de 'o chefe da comida vegetariana'."
 Filé de peixe ao molho
-Os pescadores vivem à beira dos rios, nao ha outro gosto em casa, apenas cozinhar peixe e comer, peixe fatiado finamente, depois cozido com vegetais aquaticos, pode-se chamar esse prato de fresco.
+Os pescadores vivem a beira dos rios, nao ha outro gosto em casa, apenas cozinhar peixe e comer, peixe fatiado finamente, depois cozido com vegetais aquaticos, pode-se chamar esse prato de fresco.
 Peixe ao molho
 A carne de carpa é fina e macia, se cozida ao molho vermelho, o material penetra na carne, salgado com doce, sente-se o aroma no nariz, e ao comer, é fresco e gorduroso.
 Sashimi de duas cores
-"A bexiga do peixe é doce, plana e nao tóxica." Os tangos gostavam de comer peixe cru, e a carpa era a mais gordurosa na época de Gu Yu, todo o peixe podia ser comido, a bexiga era branca, a polpa era vermelha, as duas cores se refletiam, e seu sabor era delicioso.
+"A bexiga do peixe é doce, plana e nao toxica." Os tangos gostavam de comer peixe cru, e a carpa era a mais gordurosa na época de Gu Yu, todo o peixe podia ser comido, a bexiga era branca, a polpa era vermelha, as duas cores se refletiam, e seu sabor era delicioso.
 Churrasco de peixe
 O fogo no peixe picante de pasta é um bom prato nos registros da comida de Shu. Este prato se concentra no fogo, e em segundo lugar, em equilibrar os tres sabores, comendo a pele crocante e a carne macia, picante e aromatica, alinhado com as palavras de Su Shi "o fogo revela a beleza natural".
 Sabor estranho de Livingstoni
@@ -283,15 +283,15 @@ Segundo a lenda, quando o Imperador Song Gaozong embarcou no barco imperial para
 Peixe crocante
 Segundo a lenda, o nome original do peixe era "peixe crocante", mas o nome foi dado ao peixe porque o Imperador da Dinastia Song o comeu e emitiu um decreto imperial. O peixe é cozido de uma maneira secreta, que faz com que os ossos do peixe fiquem crocantes e as espinhas se desfacam, mas a carne do peixe é macia e suave, muito estranho.
 Peixe azedo do Lago Oeste
-É um sabor único de Jiangnan, com carne de peixe fresca, gosto agridoce, que nao pode ser esquecido, nao é à toa que o poema diz "Lago Oeste é o melhor, e pode ser feito aqui em Kyoto".
+É um sabor único de Jiangnan, com carne de peixe fresca, gosto agridoce, que nao pode ser esquecido, nao é a toa que o poema diz "Lago Oeste é o melhor, e pode ser feito aqui em Kyoto".
 Peixe embriagado
-"Em maio, a azaléia reflete o vermelho do lago, as pétalas caem sobre a superfície do lago, para que os peixes disputem a comida, os peixes comem, embriagando-se no lago, chamados de 'peixe embriagado'. O povo local cozinha este peixe com um método secreto para remover o veneno mínimo do peixe e preservar sua frescura, esse sabor ao comer é dito ser o mais bonito, só se diz: Peixe embriagado de azaléia, esse sabor embriaga a terra."
+"Em maio, a azaléia reflete o vermelho do lago, as pétalas caem sobre a superfície do lago, para que os peixes disputem a comida, os peixes comem, embriagando-se no lago, chamados de 'peixe embriagado'. O povo local cozinha este peixe com um método secreto para remover o veneno mínimo do peixe e preservar sua frescura, esse sabor ao comer é dito ser o mais bonito, so se diz: Peixe embriagado de azaléia, esse sabor embriaga a terra."
 Camaroes cozidos
 Escolha camaroes verdes e coloque-os na agua, escolha camaroes verdes e coloque-os para ferver, quando cozidos retire-os, mergulhe-os em molho e coma, saboreie todos os camaroes frescos, doces e com o sabor original, portanto o prato é facil de fazer e saboroso, sendo um prato essencial em todo banquete de camaroes.
 Camarao ao vinho assado
 "Do vinho assado com camarao verde, é adequado usar vinho forte, o vinho pode embriagar o camarao, e o camarao embriagado pode ser bebido." Camaroes verdes marinados com vinho forte, até que o sabor do vinho penetre na carne do camarao, depois assados lentamente com fogo baixo, até que a casca do camarao fique crocante, pronto para servir, delicioso.
 Camarao com mostarda
-A frescura do camarao, sem complicacao, só com o aroma picante da mostarda, é o suficiente para provar sua beleza, sua docura e o sabor picante juntos em um prato, inesquecível no primeiro gosto.
+A frescura do camarao, sem complicacao, so com o aroma picante da mostarda, é o suficiente para provar sua beleza, sua docura e o sabor picante juntos em um prato, inesquecível no primeiro gosto.
 Camarao com perilla
 O sabor da perilla, rico e aromatico, frito com camaroes, pode remover o frescor de peixe, antes de comer o prato, o aroma único da perilla e da carne de camarao, o perfume, de dar agua na boca.
 Camarao frito
@@ -299,7 +299,7 @@ O camarao de faixa real é uma iguaria na comida da família Confúcio, o sabor 
 Camarao shabu-shabu
 A maré do Rio Qiantang, joga peixe e camarao na margem, a pele do camarao verde inteira e macia, sera colocada sobre espetos de bambu, grelhada no carvao para fazer "camarao verde da maré", comendo crocante por fora e macio por dentro, pode ser um sabor celestial.
 Sopa dos imortais
-"Primavera, tudo comeca a florescer, flores de pessego, flores de pera elegantes, magnólias claras, camaroes verdes frescos", os quatro tipos de ingredientes cozidos juntos em uma sopa, é o mais belo no início da primavera, ou pode ser servido como banquete na mesa do Yao Chi, com o grupo de imortais sob a lua degustando.
+"Primavera, tudo comeca a florescer, flores de pessego, flores de pera elegantes, magnolias claras, camaroes verdes frescos", os quatro tipos de ingredientes cozidos juntos em uma sopa, é o mais belo no início da primavera, ou pode ser servido como banquete na mesa do Yao Chi, com o grupo de imortais sob a lua degustando.
 Camarao com cha Longjing
 "Longjing antes de Ming é dito ser o mais caro das montanhas". O camarao Longjing é retirado de Longjing e camaroes verdes frescos sao fritos. Este prato, camarao branco como Rangan, cha verde como jade; o sabor, fragrante junto com doce, suave e fresco, listado na mesa, pode ser chamado de "primeiras iguarias".
 Sashimi de carpa
@@ -309,13 +309,13 @@ A carpa é espessa e rica, e a carne é firme e macia, entao é cozida pelo mét
 Carpa estufada
 É um prato famoso na família Kong, pois tem a forma de "segurar um filho e um neto", por isso recebe o nome de "Carpa Huai Huai".
 Carpa agridoce
-Segundo a lenda, a carpa vinagrada com cinco salgueiros foi criada por Du Fu, nomeada após a seda de cinco cores que cobre as costas do peixe. Na margem do Rio Ruanhua, na humilde casa do Caohuatang, Du Fu encontrou seus amigos, e fez um prato de carpa vinagrada com cinco salgueiros, fresca e leve, doce e refrescante, que é a alegria da vida do deslocado, com menos sal.
+Segundo a lenda, a carpa vinagrada com cinco salgueiros foi criada por Du Fu, nomeada apos a seda de cinco cores que cobre as costas do peixe. Na margem do Rio Ruanhua, na humilde casa do Caohuatang, Du Fu encontrou seus amigos, e fez um prato de carpa vinagrada com cinco salgueiros, fresca e leve, doce e refrescante, que é a alegria da vida do deslocado, com menos sal.
 Carpa saborosa
 A carpa esquilo é um dos melhores pratos de Gusu, e sua fama se espalhou por toda parte. A carpa esquilo parece um esquilo deitado em um prato, seu aroma é doce e perfumado, seu sabor é acido e delicioso, e merece a reputacao de "cor e fragrancia, sabor e forma".
 Ventre de peixe em flor
 O ventre de peixe é branco, a comida é fresca, sem mais gosto, apenas cozida em agua, a beleza do ventre de peixe pode se destacar, seu sabor fresco, o cheiro é como ver "cem flores na ilha como um brocado", sua textura firme, comer da uma sensacao repentina de "agua cheia na boca, peixe nadando".
 Tentaculo de dragao estufado
-Ha um provérbio em Shu: "um bream, duas pedras, tres cavalas verdes". A carpa de primavera é a melhor entre os peixes escalados do Rio Sichuan, sua barba é sem espinhas e doce, sendo a carpa de pedra mais preciosa, o método secreto de Sichuan braqueado é o "tentaculo de dragao braqueado", a beleza de seu sabor só pode ser avaliada pela palavra "celestial".
+Ha um provérbio em Shu: "um bream, duas pedras, tres cavalas verdes". A carpa de primavera é a melhor entre os peixes escalados do Rio Sichuan, sua barba é sem espinhas e doce, sendo a carpa de pedra mais preciosa, o método secreto de Sichuan braqueado é o "tentaculo de dragao braqueado", a beleza de seu sabor so pode ser avaliada pela palavra "celestial".
 Caranguejo cozido no vapor
 No outono, o caranguejo esta cheio de gema e gordura, cozido no vapor, e quando sai, é um prato delicioso, retire a casca e pegue a carne, mergulhe um pouco no molho e coma.
 Vieira e caranguejo
@@ -323,11 +323,11 @@ A carne de caranguejo vermelha é gordurosa, cortada em tiras e cozida no vapor 
 Caranguejo cremoso
 Este prato é feito em oito etapas, com uma metade sendo vermelha e a outra metade sendo verde, parecendo um par de patos-mandarins no meio.
 Caranguejo laranja
-"O sabor é especialmente recomendado para vinho, e o aroma e beleza sao mais adequados para laranja". Este prato é o mais elegante, com o aroma da laranja e a beleza do caranguejo em um só sabor, sendo o mais popular entre os literatos, dizendo que é "o mais belo de todos, com a beleza no amarelo".
+"O sabor é especialmente recomendado para vinho, e o aroma e beleza sao mais adequados para laranja". Este prato é o mais elegante, com o aroma da laranja e a beleza do caranguejo em um so sabor, sendo o mais popular entre os literatos, dizendo que é "o mais belo de todos, com a beleza no amarelo".
 Caranguejo temperado
 Para preservar a frescura do caranguejo, a maioria dos caranguejos é cozida no vapor, mas o caranguejo em uma caixa de caranguejo é um prato especial entre os pratos de caranguejo. A carne do caranguejo é salteada com maca-crabapple e especiarias, e depois colocada na casca de caranguejo até a cor mudar um pouco, sendo coberta com uma camada de clara de ovo.
 Caranguejo confitado
-O caranguejo é chamado de "caranguejo lavador de maos", feito de caranguejo cru, misturado com sal, ameixa e pimenta laranja, e comido após lavar as maos. O caranguejo vermelho é cheio de gordura e rico, a carne é delicada, nao é necessario cozinhar, ja possui cinco sabores, o total de laranja e vinagre misturados com as maos pode ser saboreado, seu gosto é tao bonito quanto o pilar de madrepérola, fresco como a sala de ostras, crocante como a língua de Shi Shi.
+O caranguejo é chamado de "caranguejo lavador de maos", feito de caranguejo cru, misturado com sal, ameixa e pimenta laranja, e comido apos lavar as maos. O caranguejo vermelho é cheio de gordura e rico, a carne é delicada, nao é necessario cozinhar, ja possui cinco sabores, o total de laranja e vinagre misturados com as maos pode ser saboreado, seu gosto é tao bonito quanto o pilar de madrepérola, fresco como a sala de ostras, crocante como a língua de Shi Shi.
 Sashimi de peixe-weever
 "A brisa de outono se eleva e as folhas voam, agua do Wujiang e robalo gordo". O robalo de Wu no outono é o mais popular, sua cor é branca como jade, comer fresco e macio, esse sabor neste momento, nao é de se surpreender que Zhang Ji Ying, do Oeste Jin, tenha pensado na Ulva, o gosto do robalo e abandonou o oficial.
 Peixe-weever no vapor
@@ -335,17 +335,17 @@ O método de cozinhar no vapor é a melhor maneira de garantir a frescura dos in
 Sopa de peixe-weever
 Pegue um robalo, limpe e corte em tiras, e cozinhe com cebola e gengibre em uma panela, adicione um pouco de sal ao servir, diz-se que o sabor é fresco, uma tigela de sopa, entao o fresco do outono, pode ser transformado na primavera.
 Sopa cremosa de peixe-weever
-O peixe é branco como a neve, um tesouro no rio, acompanhado de cogumelos e brotos de bambu, que adiciona um toque de caca das montanhas à comida do rio.
+O peixe é branco como a neve, um tesouro no rio, acompanhado de cogumelos e brotos de bambu, que adiciona um toque de caca das montanhas a comida do rio.
 Siete tesoros de peixe-weever
-O robalo de quatro guelras, dito ser o primeiro alimento do rio, e as sete iguarias da montanha, os tesouros da montanha nao tiram a frescura do robalo, e o robalo nao ignora a beleza dos tesouros da montanha, os dois tem seu próprio sabor, antes de comer o prato, basta sentir seu aroma, ele vai envolver quatro assentos, sendo o mais alto prato de peixe.
+O robalo de quatro guelras, dito ser o primeiro alimento do rio, e as sete iguarias da montanha, os tesouros da montanha nao tiram a frescura do robalo, e o robalo nao ignora a beleza dos tesouros da montanha, os dois tem seu proprio sabor, antes de comer o prato, basta sentir seu aroma, ele vai envolver quatro assentos, sendo o mais alto prato de peixe.
 Abalone cru com concha
-O abalone ja era servido na antiguidade, a história diz: "Wang Mang sera derrotado, preocupando-se em nao comer arroz, apenas beber vinho e comer abalone", sua frescura é evidente, apenas fervido em agua, diz-se que tem um aroma fresco.
+O abalone ja era servido na antiguidade, a historia diz: "Wang Mang sera derrotado, preocupando-se em nao comer arroz, apenas beber vinho e comer abalone", sua frescura é evidente, apenas fervido em agua, diz-se que tem um aroma fresco.
 Abalone com gengibre
-Quando o céu esta prestes a nevar à noite, pode-se cozinhar um pote de vinho de gengibre com cassia para afastar o frio e aumentar o calor, prevenindo a febre. O gengibre, de natureza quente; a cassia de pedra, também conhecida como abalone, tem o efeito de limpar o fígado, esses dois ingredientes cozidos juntos, ao mesmo tempo que sao deliciosos, também podem ser usados para fins medicinais.
+Quando o céu esta prestes a nevar a noite, pode-se cozinhar um pote de vinho de gengibre com cassia para afastar o frio e aumentar o calor, prevenindo a febre. O gengibre, de natureza quente; a cassia de pedra, também conhecida como abalone, tem o efeito de limpar o fígado, esses dois ingredientes cozidos juntos, ao mesmo tempo que sao deliciosos, também podem ser usados para fins medicinais.
 Prato das quatro iguarias
 As quatro iguarias sao chamadas de: "barriga larga, abalone, peito de frango, barba de dragao", pegando o melhor desses quatro ingredientes, cozidos no vapor e um filé branco de quatro iguarias, salgado e aromatico, abundante, para os dignitarios como, devido aos seus ingredientes preciosos, nao é acessível aos nao ricos.
 Buda pula a parede
-"O aroma da carne no altar flutua para os quatro vizinhos, o Buda ouviu e abandonou o Zen pulando a parede". O Buda pulando a parede prepara dezenas de ingredientes caros cozidos em um pote, comendo o aroma rico da carne, o sabor no sabor, as pessoas dizem: "O número de iguarias no norte e no sul do céu, após ler todas as iguarias, ainda amam esta."
+"O aroma da carne no altar flutua para os quatro vizinhos, o Buda ouviu e abandonou o Zen pulando a parede". O Buda pulando a parede prepara dezenas de ingredientes caros cozidos em um pote, comendo o aroma rico da carne, o sabor no sabor, as pessoas dizem: "O número de iguarias no norte e no sul do céu, apos ler todas as iguarias, ainda amam esta."
 Esturjao fresco
 A carne de esturjao é macia e saborosa, cozida em agua para preservar seu sabor original. A sopa deste prato é espessa, branca e aromatica, com o sabor da carne sendo o mais delicioso, as pessoas dizem que "ao comer um pedaco, nao conseguem parar", por isso também é chamada de "inesgotavel".
 Sashimi de peixe-dragao

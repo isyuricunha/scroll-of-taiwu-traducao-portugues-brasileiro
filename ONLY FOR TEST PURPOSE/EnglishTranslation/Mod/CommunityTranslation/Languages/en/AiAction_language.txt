@@ -31,7 +31,7 @@ Ajustar a distancia do alvo para {0}
 Mover para a Distancia Maxima
 Ajustar a distancia do alvo para o limite do campo de batalha
 Memorizar Texto
-Definir {0} na memória como {1}
+Definir {0} na memoria como {1}
 Memorizar Valor Booleano
 Memorizar Inteiro
 Comando de Aliado
@@ -46,7 +46,7 @@ Usar medicamento interno
 Usar medicamento de aprimoramento
 Usar veneno
 Usar extrato de sangue
-Usar bebida alcoólica
+Usar bebida alcoolica
 Reparar Arma
 Reparar Armadura
 Trocar para Arma do Índice
@@ -55,48 +55,48 @@ Trocar para Arma Específica
 Trocar para a arma {0}
 Trocar para Tipo de Arma
 Trocar para arma do tipo {0}
-Adicionar à Memória
-Adicionar {1} ao valor correspondente a {0} na memória, iniciando com zero se o valor nao existir
+Adicionar a Memoria
+Adicionar {1} ao valor correspondente a {0} na memoria, iniciando com zero se o valor nao existir
 Interromper Técnica
 Interromper a técnica em execucao, sem efeito sobre Taiwu
 Interromper Defesa
 Interromper a técnica defensiva ativa, sem efeito sobre Taiwu
-Atribuir Texto na Memória
-Definir o texto correspondente a {0} como o de {1} na memória
-Atribuir Booleano na Memória
-Definir o valor booleano correspondente a {0} como o de {1} na memória
-Atribuir Inteiro na Memória
-Definir o valor inteiro correspondente a {0} como o de {1} na memória
+Atribuir Texto na Memoria
+Definir o texto correspondente a {0} como o de {1} na memoria
+Atribuir Booleano na Memoria
+Definir o valor booleano correspondente a {0} como o de {1} na memoria
+Atribuir Inteiro na Memoria
+Definir o valor inteiro correspondente a {0} como o de {1} na memoria
 Memorizar Total de Marcadores
-Definir {0} na memória como o total de marcadores de {1}
+Definir {0} na memoria como o total de marcadores de {1}
 Memorizar Marcadores de Ferimento
-Definir {0} na memória como o total de marcadores de ferimento em {1}
+Definir {0} na memoria como o total de marcadores de ferimento em {1}
 Memorizar Marcadores de Brechas
-Definir {0} na memória como o total de marcadores de brechas em {1}
+Definir {0} na memoria como o total de marcadores de brechas em {1}
 Memorizar Marcadores de Selamento
-Definir {0} na memória como o total de marcadores de selamento em {1}
+Definir {0} na memoria como o total de marcadores de selamento em {1}
 Memorizar Marcadores de Veneno
-Definir {0} na memória como o total de marcadores de veneno em {1}
+Definir {0} na memoria como o total de marcadores de veneno em {1}
 Memorizar Marcadores de Confusao
-Definir {0} na memória como o total de marcadores de confusao em {1}
+Definir {0} na memoria como o total de marcadores de confusao em {1}
 Memorizar Marcadores de Trauma
-Definir {0} na memória como o total de marcadores de trauma em {1}
+Definir {0} na memoria como o total de marcadores de trauma em {1}
 Memorizar Usos de Brechas
-Definir {0} na memória como o número atual de usos de brechas com estilo em {1} (para finalizacao)
+Definir {0} na memoria como o número atual de usos de brechas com estilo em {1} (para finalizacao)
 Memorizar Técnica Específica
-Definir {0} na memória como a técnica {1}
+Definir {0} na memoria como a técnica {1}
 Mover para a Borda do Alcance de Ataque
 Ajustar a distancia do alvo para a borda do alcance de ataque {0} + {1}
 Memorizar Técnica Usada
-Definir {0} na memória como a técnica {1} atualmente usada ou usada por último, com valor padrao -1
+Definir {0} na memoria como a técnica {1} atualmente usada ou usada por último, com valor padrao -1
 Definir Alta Prioridade
-Definir a técnica correspondente a {0} como alta prioridade na memória
+Definir a técnica correspondente a {0} como alta prioridade na memoria
 Definir Baixa Prioridade
-Definir a técnica correspondente a {0} como baixa prioridade na memória
+Definir a técnica correspondente a {0} como baixa prioridade na memoria
 Redefinir Prioridade
-Redefinir a prioridade da técnica correspondente a {0} na memória
+Redefinir a prioridade da técnica correspondente a {0} na memoria
 Memorizar Melhor Técnica Ofensiva
-Definir {0} na memória como a melhor técnica ofensiva disponível, com valor padrao -1
+Definir {0} na memoria como a melhor técnica ofensiva disponível, com valor padrao -1
 Usar Técnica Memorizada
 Usar a técnica memorizada {0}
 Interromper Movimento

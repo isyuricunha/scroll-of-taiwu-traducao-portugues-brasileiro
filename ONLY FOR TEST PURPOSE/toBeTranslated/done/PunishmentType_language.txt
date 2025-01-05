@@ -48,7 +48,7 @@ Item Envenenado
 Aplicar veneno em um item
 Quebra de dieta
 
-Envolvimento pelo cônjuge
+Envolvimento pelo conjuge
 Envolvido por outra pessoa
 
 Assassinato secreto de outros
@@ -99,7 +99,7 @@ Inimigo
 Pertence a uma forca ou faccao inimiga
 Inimigo dentro da faccao
 Inimigos
-Desenvolver inimizade com membros do próprio cla
+Desenvolver inimizade com membros do proprio cla
 Violar as regras do cla e ter um filho
 Ter filhos com outra pessoa
 Como discípulo monastico, ter filhos com outra pessoa
@@ -117,7 +117,7 @@ Ter encontros íntimos com outra pessoa
 Como discípulo monastico, ter encontros íntimos com outra pessoa
 Como figura importante, ter encontros íntimos com outra pessoa
 Violar as regras do cla e cometer atos indecorosos
-Cometer atos indecorosos contra outra pessoa por nao controlar os próprios desejos
+Cometer atos indecorosos contra outra pessoa por nao controlar os proprios desejos
 Como discípulo monastico, cometer atos indecorosos contra outra pessoa
 Como figura importante, cometer atos indecorosos contra outra pessoa
 Violar as regras do cla e marcar encontros
@@ -186,51 +186,51 @@ Formar lacos de irmandade com discípulos do Altar Fulong
 Firmar pacto de irmandade com membros do Altar Fulong
 Formar lacos de irmandade com discípulos da Seita Bloodhound
 Firmar pacto de irmandade com membros da Seita Bloodhound
-Tornar-se parente simbólico de discípulos de Shaolin
-Adotar membros da Escola Shaolin como pais ou maes simbólicos
-Tornar-se parente simbólico de discípulos da Escola Emei
-Adotar membros da Escola Emei como pais ou maes simbólicos
-Tornar-se parente simbólico de discípulos do Vale das Cem Flores
-Adotar membros do Vale das Cem Flores como pais ou maes simbólicos
-Tornar-se parente simbólico de discípulos da Seita Wudang
-Adotar membros da Seita Wudang como pais ou maes simbólicos
-Tornar-se parente simbólico de discípulos da Seita Yuanshan
-Adotar membros da Seita Yuanshan como pais ou maes simbólicos
-Tornar-se parente simbólico de discípulos do Cla Rosto de Leao
-Adotar membros do Cla Rosto de Leao como pais ou maes simbólicos
-Tornar-se parente simbólico de discípulos da Seita Ranshan
-Adotar membros da Seita Ranshan como pais ou maes simbólicos
-Tornar-se parente simbólico de discípulos da Seita Xuannyu
-Adotar membros da Seita Xuannyu como pais ou maes simbólicos
-Tornar-se parente simbólico de discípulos da Mansao da Espada
-Adotar membros da Mansao da Espada como pais ou maes simbólicos
-Tornar-se parente simbólico de discípulos da Seita Kongsang
-Adotar membros da Seita Kongsang como pais ou maes simbólicos
-Tornar-se parente simbólico de discípulos do Vajrayana
-Adotar membros do Vajrayana como pais ou maes simbólicos
-Tornar-se parente simbólico de discípulos da Seita dos Cinco Imortais
-Adotar membros da Seita dos Cinco Imortais como pais ou maes simbólicos
-Tornar-se parente simbólico de discípulos do Portao Jieqing
-Adotar membros do Portao Jieqing como pais ou maes simbólicos
-Tornar-se parente simbólico de discípulos do Altar Fulong
-Adotar membros do Altar Fulong como pais ou maes simbólicos
-Tornar-se parente simbólico de discípulos da Seita Bloodhound
-Adotar membros da Seita Bloodhound como pais ou maes simbólicos
-Adotar discípulos de Shaolin como filhos simbólicos
-Adotar discípulos da Escola Emei como filhos simbólicos
-Adotar discípulos do Vale das Cem Flores como filhos simbólicos
-Adotar discípulos da Seita Wudang como filhos simbólicos
-Adotar discípulos da Seita Yuanshan como filhos simbólicos
-Adotar discípulos do Cla Rosto de Leao como filhos simbólicos
-Adotar discípulos da Seita Ranshan como filhos simbólicos
-Adotar discípulos da Seita Xuannyu como filhos simbólicos
-Adotar discípulos da Mansao da Espada como filhos simbólicos
-Adotar discípulos da Seita Kongsang como filhos simbólicos
-Adotar discípulos do Vajrayana como filhos simbólicos
-Adotar discípulos da Seita dos Cinco Imortais como filhos simbólicos
-Adotar discípulos do Portao Jieqing como filhos simbólicos
-Adotar discípulos do Altar Fulong como filhos simbólicos
-Adotar discípulos da Seita Bloodhound como filhos simbólicos
+Tornar-se parente simbolico de discípulos de Shaolin
+Adotar membros da Escola Shaolin como pais ou maes simbolicos
+Tornar-se parente simbolico de discípulos da Escola Emei
+Adotar membros da Escola Emei como pais ou maes simbolicos
+Tornar-se parente simbolico de discípulos do Vale das Cem Flores
+Adotar membros do Vale das Cem Flores como pais ou maes simbolicos
+Tornar-se parente simbolico de discípulos da Seita Wudang
+Adotar membros da Seita Wudang como pais ou maes simbolicos
+Tornar-se parente simbolico de discípulos da Seita Yuanshan
+Adotar membros da Seita Yuanshan como pais ou maes simbolicos
+Tornar-se parente simbolico de discípulos do Cla Rosto de Leao
+Adotar membros do Cla Rosto de Leao como pais ou maes simbolicos
+Tornar-se parente simbolico de discípulos da Seita Ranshan
+Adotar membros da Seita Ranshan como pais ou maes simbolicos
+Tornar-se parente simbolico de discípulos da Seita Xuannyu
+Adotar membros da Seita Xuannyu como pais ou maes simbolicos
+Tornar-se parente simbolico de discípulos da Mansao da Espada
+Adotar membros da Mansao da Espada como pais ou maes simbolicos
+Tornar-se parente simbolico de discípulos da Seita Kongsang
+Adotar membros da Seita Kongsang como pais ou maes simbolicos
+Tornar-se parente simbolico de discípulos do Vajrayana
+Adotar membros do Vajrayana como pais ou maes simbolicos
+Tornar-se parente simbolico de discípulos da Seita dos Cinco Imortais
+Adotar membros da Seita dos Cinco Imortais como pais ou maes simbolicos
+Tornar-se parente simbolico de discípulos do Portao Jieqing
+Adotar membros do Portao Jieqing como pais ou maes simbolicos
+Tornar-se parente simbolico de discípulos do Altar Fulong
+Adotar membros do Altar Fulong como pais ou maes simbolicos
+Tornar-se parente simbolico de discípulos da Seita Bloodhound
+Adotar membros da Seita Bloodhound como pais ou maes simbolicos
+Adotar discípulos de Shaolin como filhos simbolicos
+Adotar discípulos da Escola Emei como filhos simbolicos
+Adotar discípulos do Vale das Cem Flores como filhos simbolicos
+Adotar discípulos da Seita Wudang como filhos simbolicos
+Adotar discípulos da Seita Yuanshan como filhos simbolicos
+Adotar discípulos do Cla Rosto de Leao como filhos simbolicos
+Adotar discípulos da Seita Ranshan como filhos simbolicos
+Adotar discípulos da Seita Xuannyu como filhos simbolicos
+Adotar discípulos da Mansao da Espada como filhos simbolicos
+Adotar discípulos da Seita Kongsang como filhos simbolicos
+Adotar discípulos do Vajrayana como filhos simbolicos
+Adotar discípulos da Seita dos Cinco Imortais como filhos simbolicos
+Adotar discípulos do Portao Jieqing como filhos simbolicos
+Adotar discípulos do Altar Fulong como filhos simbolicos
+Adotar discípulos da Seita Bloodhound como filhos simbolicos
 Marcar encontro com discípulos de Shaolin
 Marcar encontro com membros da Escola Shaolin
 Marcar encontro com discípulos da Escola Emei
@@ -261,36 +261,36 @@ Marcar um encontro com discípulos do Altar Fulong
 Participar de uma reuniao com membros do Altar Fulong
 Marcar um encontro com discípulos da Seita Xuehou
 Participar de uma reuniao com membros da Seita Xuehou
-Resgatar filhos pertencentes à Seita Shaolin
-Resgatar filhos que pertencem à Seita Shaolin
-Resgatar filhos pertencentes à Seita Emei
-Resgatar filhos que pertencem à Seita Emei
+Resgatar filhos pertencentes a Seita Shaolin
+Resgatar filhos que pertencem a Seita Shaolin
+Resgatar filhos pertencentes a Seita Emei
+Resgatar filhos que pertencem a Seita Emei
 Resgatar filhos pertencentes ao Vale das Cem Flores
 Resgatar filhos que pertencem ao Vale das Cem Flores
-Resgatar filhos pertencentes à Seita Wudang
-Resgatar filhos que pertencem à Seita Wudang
-Resgatar filhos pertencentes à Seita Yuanshan
-Resgatar filhos que pertencem à Seita Yuanshan
-Resgatar filhos pertencentes à Seita Shixiang
-Resgatar filhos que pertencem à Seita Shixiang
-Resgatar filhos pertencentes à Seita Ranshan
-Resgatar filhos que pertencem à Seita Ranshan
-Resgatar filhos pertencentes à Seita Xuannv
-Resgatar filhos que pertencem à Seita Xuannv
-Resgatar filhos pertencentes à Mansao do Forjador de Espadas
-Resgatar filhos que pertencem à Mansao do Forjador de Espadas
-Resgatar filhos pertencentes à Seita Kongsang
-Resgatar filhos que pertencem à Seita Kongsang
-Recuperar filhos pertencentes à Seita Vajra
-Recuperar filhos que pertencem à Seita Vajra
-Recuperar filhos pertencentes à Religiao dos Cinco Imortais
-Recuperar filhos que pertencem à Religiao dos Cinco Imortais
-Recuperar filhos pertencentes à Seita Jieqing
-Recuperar filhos que pertencem à Seita Jieqing
+Resgatar filhos pertencentes a Seita Wudang
+Resgatar filhos que pertencem a Seita Wudang
+Resgatar filhos pertencentes a Seita Yuanshan
+Resgatar filhos que pertencem a Seita Yuanshan
+Resgatar filhos pertencentes a Seita Shixiang
+Resgatar filhos que pertencem a Seita Shixiang
+Resgatar filhos pertencentes a Seita Ranshan
+Resgatar filhos que pertencem a Seita Ranshan
+Resgatar filhos pertencentes a Seita Xuannv
+Resgatar filhos que pertencem a Seita Xuannv
+Resgatar filhos pertencentes a Mansao do Forjador de Espadas
+Resgatar filhos que pertencem a Mansao do Forjador de Espadas
+Resgatar filhos pertencentes a Seita Kongsang
+Resgatar filhos que pertencem a Seita Kongsang
+Recuperar filhos pertencentes a Seita Vajra
+Recuperar filhos que pertencem a Seita Vajra
+Recuperar filhos pertencentes a Religiao dos Cinco Imortais
+Recuperar filhos que pertencem a Religiao dos Cinco Imortais
+Recuperar filhos pertencentes a Seita Jieqing
+Recuperar filhos que pertencem a Seita Jieqing
 Recuperar filhos pertencentes ao Pavilhao Fulong
 Recuperar filhos que pertencem ao Pavilhao Fulong
-Recuperar filhos pertencentes à Religiao do Hound de Sangue
-Recuperar filhos que pertencem à Religiao do Hound de Sangue
+Recuperar filhos pertencentes a Religiao do Hound de Sangue
+Recuperar filhos que pertencem a Religiao do Hound de Sangue
 Assassinar publicamente membros da mesma seita
 Assassinar publicamente pessoas da mesma seita
 Prender publicamente membros da mesma seita

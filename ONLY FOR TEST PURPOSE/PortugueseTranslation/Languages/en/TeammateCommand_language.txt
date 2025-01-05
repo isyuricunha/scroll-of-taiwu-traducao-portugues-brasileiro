@@ -37,7 +37,7 @@ Use meu qi para desbloquear seus Pontos de Acuponto Selado!
 Desbloquear acupontos selados
 Orientar
 Pode usar a ordem「Orientar」para aumentar a Forca, Finesse, Agilidade e Energia do lutador principal por um curto período de tempo.
-Deixe-me guardar o lado, e voce só precisa se concentrar no ataque!
+Deixe-me guardar o lado, e voce so precisa se concentrar no ataque!
 FOR 
 FIN 
 AGI 
@@ -50,7 +50,7 @@ PAR
 EVA 
 FOC 
 Qi Verdadeiro
-Pode usar a ordem「Qi Verdadeiro」para transferir seu próprio Qi Verdadeiro para o lutador principal.
+Pode usar a ordem「Qi Verdadeiro」para transferir seu proprio Qi Verdadeiro para o lutador principal.
 Vou transferir meu Qi Verdadeiro para o seu corpo e ajuda-lo a lutar contra o inimigo!
 Aumento de Qi Verdadeiro
 Sacrifício
@@ -65,10 +65,10 @@ Pode usar a ordem「Quebra」para atacar o inimigo com uma técnica de "Quebra" 
 Preparei minha técnica, agora veja esse movimento!
 Pode usar a ordem「Troca」para aumentar suas estatísticas de ATK, Defesa, Precisao e Resolucao e trocar com o lutador principal por um curto período de tempo. <color=#brightblue>Quando aumentado pelo Tambor de Guerra do Leao, o aumento nas estatísticas de ATK, Defesa, Precisao e Resolucao sera maior.</color>
 Pode usar a ordem「Aceleracao」para aumentar o progresso de lancamento da habilidade do lutador principal. <color=#brightblue>Quando aumentado pelo Tambor de Guerra do Leao, o aumento no progresso de lancamento sera maior.</color>
-Pode usar a ordem「Empurrar」para aproximar o lutador principal do oponente. <color=#brightblue>Quando aumentado pelo Tambor de Guerra do Leao, só ficara em recarga a cada 2ª utilizacao,</color></color> <color=#brightred>mas seu tempo de recarga sera maior.</color>
+Pode usar a ordem「Empurrar」para aproximar o lutador principal do oponente. <color=#brightblue>Quando aumentado pelo Tambor de Guerra do Leao, so ficara em recarga a cada 2ª utilizacao,</color></color> <color=#brightred>mas seu tempo de recarga sera maior.</color>
 Número de usos
 Tempo de recarga
-Pode usar a ordem「Puxar」para afastar o lutador principal do oponente. <color=#brightblue>Quando aumentado pelo Tambor de Guerra do Leao, só ficara em recarga a cada 2ª utilizacao,</color> <color=#brightred>mas seu tempo de recarga sera maior.</color>
+Pode usar a ordem「Puxar」para afastar o lutador principal do oponente. <color=#brightblue>Quando aumentado pelo Tambor de Guerra do Leao, so ficara em recarga a cada 2ª utilizacao,</color> <color=#brightred>mas seu tempo de recarga sera maior.</color>
 Pode usar a ordem「Atacar」para atacar o inimigo. <color=#brightblue>Quando aumentado pelo Tambor de Guerra do Leao, causara dano extra na Defesa do inimigo.</color>
 Quebra de defesa
 Pode usar a ordem「Defender」para proteger o lutador principal com a técnica "Aegis", com poder aumentado contra os ataques do inimigo. <color=#brightblue>Quando aumentado pelo Tambor de Guerra do Leao, o aumento de poder da técnica Aegis sera maior.</color>
@@ -80,7 +80,7 @@ Pode usar a ordem「Restaurar Defesa」para remover os Pontos Fracos do lutador 
 Pode usar a ordem「Desselar Acupontos」para desbloquear os Pontos de Acuponto Selado do lutador principal. <color=#brightblue>Quando aumentado pelo Tambor de Guerra do Leao, a ordem「Desselar Acupontos」removera mais Pontos Selados.</color>
 Pode usar a ordem「Orientar」para aumentar a Forca, Finesse, Agilidade e Energia do lutador principal por um curto período de tempo. <color=#brightblue>Quando aumentado pelo Tambor de Guerra do Leao, seu efeito sera mais forte,</color> <color=#brightred>mas sua duracao sera menor.</color>
 Pode usar a ordem「Avisar」para aumentar a Diversao, Parada, Evasao e Foco do lutador principal por um curto período de tempo. <color=#brightblue>Quando aumentado pelo Tambor de Guerra do Leao, seu efeito sera mais forte,</color> <color=#brightred>mas sua duracao sera menor.</color>
-Pode usar a ordem「Qi Verdadeiro」para transferir seu próprio Qi Verdadeiro para o lutador principal. <color=#brightblue>Quando aumentado pelo Tambor de Guerra do Leao, a ordem「Qi Verdadeiro」transferira mais Qi Verdadeiro.</color>
+Pode usar a ordem「Qi Verdadeiro」para transferir seu proprio Qi Verdadeiro para o lutador principal. <color=#brightblue>Quando aumentado pelo Tambor de Guerra do Leao, a ordem「Qi Verdadeiro」transferira mais Qi Verdadeiro.</color>
 Pode usar a ordem「Contencao」para impedir que os companheiros do inimigo usem Ordens por um curto período de tempo. <color=#brightblue>Quando aumentado pelo Tambor de Guerra do Leao, sua duracao sera significativamente maior.</color>
 Pode usar a ordem「Quebra」para atacar o inimigo com uma técnica de "Quebra" com poder aumentado. <color=#brightblue>Quando aumentado pelo Tambor de Guerra do Leao, o aumento de poder da técnica Quebra sera maior.</color>
 Interrupcao
@@ -97,7 +97,7 @@ Por conta de uma rixa, o inimigo pode esperar uma oportunidade para dispersar o 
 Aqui estao todas as suas fraquezas!
 Dano Insidioso
 Por conta de uma rixa, o inimigo pode esperar uma oportunidade para usar Medicina ou Toxicologia para causar dano ou envenenar o lutador principal.
-Voce e eu temos um ódio profundo, entao nao me culpe por ser implacavel!
+Voce e eu temos um odio profundo, entao nao me culpe por ser implacavel!
 Distracao
 Por conta de uma rixa, o inimigo pode esperar uma oportunidade para reduzir a Forca, Finesse, Agilidade, Energia, Diversao, Parada, Evasao e Foco do lutador principal por um tempo.
 Deixe-me distraí-lo, e voce sera derrotado sem nem lutar!

@@ -49,9 +49,9 @@ Protecao
 Sacar
 <color=#brightblue>Quando uma arma colocada aqui quebra a Deflexao do inimigo, ele imediatamente perde sua arma, se possível, e passa a usar as Maos Nuas.</color>
 Explosao
-<color=#brightblue>O dano das habilidades de Soco ativas colocadas aqui sera aumentado quanto mais perto voce estiver do inimigo,</color> <color=#brightred>mas essas habilidades serao bloqueadas até o final da batalha após 1 uso.</color>
+<color=#brightblue>O dano das habilidades de Soco ativas colocadas aqui sera aumentado quanto mais perto voce estiver do inimigo,</color> <color=#brightred>mas essas habilidades serao bloqueadas até o final da batalha apos 1 uso.</color>
 Contra-ataque
-<color=#brightblue>Se voce atacar o inimigo com uma habilidade de Soco colocada aqui enquanto ele estiver usando sua própria habilidade de Soco, a habilidade dele sera interrompida,</color> <color=#brightred>mas o tempo de cast dessas habilidades é aumentado em 50%.</color>
+<color=#brightblue>Se voce atacar o inimigo com uma habilidade de Soco colocada aqui enquanto ele estiver usando sua propria habilidade de Soco, a habilidade dele sera interrompida,</color> <color=#brightred>mas o tempo de cast dessas habilidades é aumentado em 50%.</color>
 
 
 
@@ -61,10 +61,10 @@ Contra-ataque
 
 
 Perseguir
-<color=#brightblue>A arma colocada aqui bloqueara 1 técnica inimiga por um curto período de tempo após seu ataque com a arma perseguir o inimigo 5 vezes.</color>
+<color=#brightblue>A arma colocada aqui bloqueara 1 técnica inimiga por um curto período de tempo apos seu ataque com a arma perseguir o inimigo 5 vezes.</color>
 Cutucar
-<color=#brightblue>O dano das habilidades de Dedo ativas colocadas aqui sera aumentado quanto mais pontos de acupuntura bloqueados o inimigo tiver,</color> <color=#brightred>mas essas habilidades serao bloqueadas até o final da batalha após 1 uso.</color>
-<color=#brightblue>Se voce atacar o inimigo com uma habilidade de Dedo colocada aqui enquanto ele estiver usando sua própria habilidade de Dedo, a habilidade dele sera interrompida,</color> <color=#brightred>mas o tempo de cast dessas habilidades é aumentado em 50%.</color>
+<color=#brightblue>O dano das habilidades de Dedo ativas colocadas aqui sera aumentado quanto mais pontos de acupuntura bloqueados o inimigo tiver,</color> <color=#brightred>mas essas habilidades serao bloqueadas até o final da batalha apos 1 uso.</color>
+<color=#brightblue>Se voce atacar o inimigo com uma habilidade de Dedo colocada aqui enquanto ele estiver usando sua propria habilidade de Dedo, a habilidade dele sera interrompida,</color> <color=#brightred>mas o tempo de cast dessas habilidades é aumentado em 50%.</color>
 
 
 
@@ -76,8 +76,8 @@ Cutucar
 Pé
 <color=#brightblue>A arma colocada aqui substituira o calcado para os calculos ao usar habilidades de Chute.</color>
 Explosao
-<color=#brightblue>O dano das habilidades de Chute ativas colocadas aqui sera aumentado quanto menos Energia o inimigo tiver,</color> <color=#brightred>mas essas habilidades serao bloqueadas até o final da batalha após 1 uso.</color>
-<color=#brightblue>Se voce atacar o inimigo com uma habilidade de Chute colocada aqui enquanto ele estiver usando sua própria habilidade de Chute, a habilidade dele sera interrompida,</color> <color=#brightred>mas o tempo de cast dessas habilidades é aumentado em 50%.</color>
+<color=#brightblue>O dano das habilidades de Chute ativas colocadas aqui sera aumentado quanto menos Energia o inimigo tiver,</color> <color=#brightred>mas essas habilidades serao bloqueadas até o final da batalha apos 1 uso.</color>
+<color=#brightblue>Se voce atacar o inimigo com uma habilidade de Chute colocada aqui enquanto ele estiver usando sua propria habilidade de Chute, a habilidade dele sera interrompida,</color> <color=#brightred>mas o tempo de cast dessas habilidades é aumentado em 50%.</color>
 
 
 
@@ -89,8 +89,8 @@ Explosao
 Perfuracao
 <color=#brightblue>A arma colocada aqui ignorara o equipamento inimigo ao atacar.</color>
 Explosao
-<color=#brightblue>O dano das habilidades de Arma Oculta ativas colocadas aqui sera aumentado quanto mais longe o usuario estiver do inimigo,</color> <color=#brightred>mas essas habilidades serao bloqueadas até o final da batalha após 1 uso.</color>
-<color=#brightblue>Se voce atacar o inimigo com uma habilidade de Arma Oculta colocada aqui enquanto ele estiver usando sua própria habilidade de Arma Oculta, a habilidade dele sera interrompida,</color> <color=#brightred>mas o tempo de cast dessas habilidades é aumentado em 50%.</color>
+<color=#brightblue>O dano das habilidades de Arma Oculta ativas colocadas aqui sera aumentado quanto mais longe o usuario estiver do inimigo,</color> <color=#brightred>mas essas habilidades serao bloqueadas até o final da batalha apos 1 uso.</color>
+<color=#brightblue>Se voce atacar o inimigo com uma habilidade de Arma Oculta colocada aqui enquanto ele estiver usando sua propria habilidade de Arma Oculta, a habilidade dele sera interrompida,</color> <color=#brightred>mas o tempo de cast dessas habilidades é aumentado em 50%.</color>
 
 
 
@@ -102,8 +102,8 @@ Explosao
 Reembolso
 <color=#brightblue>A arma colocada aqui tem 50% de chance de devolver os tokens de ataque usados ao atacar um inimigo sem Deflexao.</color>
 Explosao
-<color=#brightblue>O dano das habilidades de Espada ativas colocadas aqui sera aumentado quanto menos Estilos o inimigo tiver,</color> <color=#brightred>mas essas habilidades serao bloqueadas até o final da batalha após 1 uso.</color>
-<color=#brightblue>Se voce atacar o inimigo com uma habilidade de Espada colocada aqui enquanto ele estiver usando sua própria habilidade de Espada, a habilidade dele sera interrompida,</color> <color=#brightred>mas o tempo de cast dessas habilidades é aumentado em 50%.</color>
+<color=#brightblue>O dano das habilidades de Espada ativas colocadas aqui sera aumentado quanto menos Estilos o inimigo tiver,</color> <color=#brightred>mas essas habilidades serao bloqueadas até o final da batalha apos 1 uso.</color>
+<color=#brightblue>Se voce atacar o inimigo com uma habilidade de Espada colocada aqui enquanto ele estiver usando sua propria habilidade de Espada, a habilidade dele sera interrompida,</color> <color=#brightred>mas o tempo de cast dessas habilidades é aumentado em 50%.</color>
 
 
 
@@ -115,8 +115,8 @@ Explosao
 Atraso
 <color=#brightblue>A arma colocada aqui aumenta o tempo de recarga da Deflexao do inimigo em 3 vezes.</color>
 Explosao
-<color=#brightblue>O dano das habilidades de Lamina ativas colocadas aqui sera aumentado quanto mais Pontos Fracos o inimigo tiver,</color> <color=#brightred>mas essas habilidades serao bloqueadas até o final da batalha após 1 uso.</color>
-<color=#brightblue>Se voce atacar o inimigo com uma habilidade de Lamina colocada aqui enquanto ele estiver usando sua própria habilidade de Lamina, a habilidade dele sera interrompida,</color> <color=#brightred>mas o tempo de cast dessas habilidades é aumentado em 50%.</color>
+<color=#brightblue>O dano das habilidades de Lamina ativas colocadas aqui sera aumentado quanto mais Pontos Fracos o inimigo tiver,</color> <color=#brightred>mas essas habilidades serao bloqueadas até o final da batalha apos 1 uso.</color>
+<color=#brightblue>Se voce atacar o inimigo com uma habilidade de Lamina colocada aqui enquanto ele estiver usando sua propria habilidade de Lamina, a habilidade dele sera interrompida,</color> <color=#brightred>mas o tempo de cast dessas habilidades é aumentado em 50%.</color>
 
 
 
@@ -128,8 +128,8 @@ Explosao
 Defesa
 <color=#brightblue>A arma colocada aqui tera 30% a mais de cargas de Deflexao.</color>
 Explosao
-<color=#brightblue>O dano das habilidades de Arma Longa ativas colocadas aqui sera aumentado quanto mais Marcadores de Dano o inimigo tiver,</color> <color=#brightred>mas essas habilidades serao bloqueadas até o final da batalha após 1 uso.</color>
-<color=#brightblue>Se voce atacar o inimigo com uma habilidade de Arma Longa colocada aqui enquanto ele estiver usando sua própria habilidade de Arma Longa, a habilidade dele sera interrompida,</color> <color=#brightred>mas o tempo de cast dessas habilidades é aumentado em 50%.</color>
+<color=#brightblue>O dano das habilidades de Arma Longa ativas colocadas aqui sera aumentado quanto mais Marcadores de Dano o inimigo tiver,</color> <color=#brightred>mas essas habilidades serao bloqueadas até o final da batalha apos 1 uso.</color>
+<color=#brightblue>Se voce atacar o inimigo com uma habilidade de Arma Longa colocada aqui enquanto ele estiver usando sua propria habilidade de Arma Longa, a habilidade dele sera interrompida,</color> <color=#brightred>mas o tempo de cast dessas habilidades é aumentado em 50%.</color>
 
 
 
@@ -141,8 +141,8 @@ Explosao
 Ardiloso
 <color=#brightblue>A arma colocada aqui consumira 2 vezes mais cargas de Deflexao ao atacar o inimigo.</color>
 Explosao
-<color=#brightblue>O dano das habilidades de Arma Exótica ativas colocadas aqui sera aumentado quanto menos Postura o inimigo tiver,</color> <color=#brightred>mas essas habilidades serao bloqueadas até o final da batalha após 1 uso.</color>
-<color=#brightblue>Se voce atacar o inimigo com uma habilidade de Arma Exótica colocada aqui enquanto ele estiver usando sua própria habilidade de Arma Exótica, a habilidade dele sera interrompida,</color> <color=#brightred>mas o tempo de cast dessas habilidades é aumentado em 50%.</color>
+<color=#brightblue>O dano das habilidades de Arma Exotica ativas colocadas aqui sera aumentado quanto menos Postura o inimigo tiver,</color> <color=#brightred>mas essas habilidades serao bloqueadas até o final da batalha apos 1 uso.</color>
+<color=#brightblue>Se voce atacar o inimigo com uma habilidade de Arma Exotica colocada aqui enquanto ele estiver usando sua propria habilidade de Arma Exotica, a habilidade dele sera interrompida,</color> <color=#brightred>mas o tempo de cast dessas habilidades é aumentado em 50%.</color>
 
 
 
@@ -154,8 +154,8 @@ Explosao
 Alcance
 <color=#brightblue>A arma colocada aqui tera 1 de alcance a mais.</color>
 Explosao
-<color=#brightblue>O dano das habilidades de Arma Macia ativas colocadas aqui sera aumentado quanto menos Inalar o inimigo tiver,</color> <color=#brightred>mas essas habilidades serao bloqueadas até o final da batalha após 1 uso.</color>
-<color=#brightblue>Se voce atacar o inimigo com uma habilidade de Arma Macia colocada aqui enquanto ele estiver usando sua própria habilidade de Arma Macia, a habilidade dele sera interrompida,</color> <color=#brightred>mas o tempo de cast dessas habilidades é aumentado em 50%.</color>
+<color=#brightblue>O dano das habilidades de Arma Macia ativas colocadas aqui sera aumentado quanto menos Inalar o inimigo tiver,</color> <color=#brightred>mas essas habilidades serao bloqueadas até o final da batalha apos 1 uso.</color>
+<color=#brightblue>Se voce atacar o inimigo com uma habilidade de Arma Macia colocada aqui enquanto ele estiver usando sua propria habilidade de Arma Macia, a habilidade dele sera interrompida,</color> <color=#brightred>mas o tempo de cast dessas habilidades é aumentado em 50%.</color>
 
 
 
@@ -165,10 +165,10 @@ Explosao
 
 
 Troca
-<color=#brightblue>A arma colocada aqui aumenta a chance de perseguicao em 2 vezes após voce mudar de Estilo.</color>
+<color=#brightblue>A arma colocada aqui aumenta a chance de perseguicao em 2 vezes apos voce mudar de Estilo.</color>
 Explosao
-<color=#brightblue>O dano das habilidades de Arma de Longo Alcance ativas colocadas aqui sera aumentado quanto mais cargas de Mudanca de Estilo o usuario tiver,</color> <color=#brightred>mas essas habilidades serao bloqueadas até o final da batalha após 1 uso.</color>
-<color=#brightblue>Se voce atacar o inimigo com uma habilidade de Arma de Longo Alcance colocada aqui enquanto ele estiver usando sua própria habilidade de Arma de Longo Alcance, a habilidade dele sera interrompida,</color> <color=#brightred>mas o tempo de cast dessas habilidades é aumentado em 50%.</color>
+<color=#brightblue>O dano das habilidades de Arma de Longo Alcance ativas colocadas aqui sera aumentado quanto mais cargas de Mudanca de Estilo o usuario tiver,</color> <color=#brightred>mas essas habilidades serao bloqueadas até o final da batalha apos 1 uso.</color>
+<color=#brightblue>Se voce atacar o inimigo com uma habilidade de Arma de Longo Alcance colocada aqui enquanto ele estiver usando sua propria habilidade de Arma de Longo Alcance, a habilidade dele sera interrompida,</color> <color=#brightred>mas o tempo de cast dessas habilidades é aumentado em 50%.</color>
 
 
 
@@ -180,8 +180,8 @@ Explosao
 Drenar
 <color=#brightblue>A arma colocada aqui remove 1 ponto de Verdadeira Energia do inimigo ao atacar.</color>
 Explosao
-<color=#brightblue>O dano das habilidades de Melodia ativas colocadas aqui sera aumentado quanto mais Estilos Sonoros o usuario tiver,</color> <color=#brightred>mas essas habilidades serao bloqueadas até o final da batalha após 1 uso.</color>
-<color=#brightblue>Se voce atacar o inimigo com uma habilidade de Melodia colocada aqui enquanto ele estiver usando sua própria habilidade de Melodia, a habilidade dele sera interrompida,</color> <color=#brightred>mas o tempo de cast dessas habilidades é aumentado em 50%.</color>
+<color=#brightblue>O dano das habilidades de Melodia ativas colocadas aqui sera aumentado quanto mais Estilos Sonoros o usuario tiver,</color> <color=#brightred>mas essas habilidades serao bloqueadas até o final da batalha apos 1 uso.</color>
+<color=#brightblue>Se voce atacar o inimigo com uma habilidade de Melodia colocada aqui enquanto ele estiver usando sua propria habilidade de Melodia, a habilidade dele sera interrompida,</color> <color=#brightred>mas o tempo de cast dessas habilidades é aumentado em 50%.</color>
 
 
 

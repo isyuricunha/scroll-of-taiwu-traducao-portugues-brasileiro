@@ -870,7 +870,7 @@ Sem Futuro
 
 
 
-Aberracao Exótica
+Aberracao Exotica
 
 
 
@@ -894,7 +894,7 @@ Guerreiro Caído
 
 
 
-Demônio
+Demonio
 
 
 
@@ -910,15 +910,15 @@ Refinador de Coracoes
 
 
 
-Demônio Louco
+Demonio Louco
 
 
 
-Demônio das Chamas
+Demonio das Chamas
 
 
 
-Demônio Congelado
+Demonio Congelado
 
 
 
@@ -970,7 +970,7 @@ Encarnacao do Mal
 
 
 
-Demônio Infernal
+Demonio Infernal
 
 
 
@@ -994,7 +994,7 @@ Guerreiro Patrulheiro
 
 
 
-Jovem Herói
+Jovem Heroi
 
 
 
@@ -1010,11 +1010,11 @@ Vagante Excentrico
 
 
 
-Herói Sem Nome
+Heroi Sem Nome
 
 
 
-Herói Famoso
+Heroi Famoso
 
 
 
@@ -1622,7 +1622,7 @@ Cocheiro
 
 
 Feng
-Avó
+Avo
 Velha senhora
 
 
@@ -1935,35 +1935,19 @@ Youyuan
 Ilusao no Espelho
 
 
-Demônio Celestial
+Demonio Celestial
 
 
 
-Demônio da Terra
+Demonio da Terra
 
 
 
-Demônio Humano
+Demonio Humano
 
 
 
-Demônios Celestiais
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Demônios da Terra
+Demonios Celestiais
 
 
 
@@ -1979,7 +1963,23 @@ Demônios da Terra
 
 
 
-Demônios Humanos
+Demonios da Terra
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Demonios Humanos
 
 
 

@@ -118,6 +118,6 @@ Consuma Energia Interna extra para substituir o movimento original dos Cinco Ele
 Estabilizar Mente
 Remova os efeitos ja ativos durante o Cultivo e restaure uma certa quantidade de Vontade com base no número de efeitos eliminados.
 
-Voltar à Origem
+Voltar a Origem
 Remova os efeitos ja ativos durante o Cultivo.
 

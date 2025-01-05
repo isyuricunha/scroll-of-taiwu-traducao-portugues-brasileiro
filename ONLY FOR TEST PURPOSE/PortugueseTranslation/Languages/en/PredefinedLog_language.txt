@@ -1,5 +1,5 @@
 Limpando dados secretos
-Devido à deteccao de dados secretos ilegais, eles foram deletados
+Devido a deteccao de dados secretos ilegais, eles foram deletados
 Falha ao carregar a configuracao do MOD
 Falha ao carregar o arquivo de configuracao do Mod - {0} Mod em {1}, ignorado.\nMensagem de erro: {2}
 Falha ao carregar o arquivo de configuracao do mod em {0}, ignorado. \nMensagem de erro: {1}
@@ -20,11 +20,11 @@ Devido a problemas do sistema, este vídeo nao pode ser reproduzido temporariame
 Anomalias nos dados da missao
 Excecao encontrada no ID da Tarefa. {0}
 Excecao de tempo de execucao do mapa
-O mapa esta rodando em uma condicao anormal, estamos cientes do problema e tentamos permitir que o jogo continue com o processamento de compatibilidade.\nSe esse log aparecer, por favor, va ao site oficial para enviar o log e ajudar na resolucao do problema. \nMensagem Anômala: {0}
+O mapa esta rodando em uma condicao anormal, estamos cientes do problema e tentamos permitir que o jogo continue com o processamento de compatibilidade.\nSe esse log aparecer, por favor, va ao site oficial para enviar o log e ajudar na resolucao do problema. \nMensagem Anomala: {0}
 Excecao de tempo de execucao do personagem
-O personagem esta rodando em uma condicao anormal, estamos cientes do problema e tentamos permitir que o jogo continue com o processamento de compatibilidade.\nSe esse log aparecer, por favor, va ao site oficial para enviar o log e ajudar a resolver o problema. \nMensagem Anômala: {0}
+O personagem esta rodando em uma condicao anormal, estamos cientes do problema e tentamos permitir que o jogo continue com o processamento de compatibilidade.\nSe esse log aparecer, por favor, va ao site oficial para enviar o log e ajudar a resolver o problema. \nMensagem Anomala: {0}
 Anomalias na operacao das facanhas
-As facanhas estao rodando em uma condicao anormal, estamos cientes do problema e tentamos permitir que o jogo continue com o processamento de compatibilidade.\nSe esse log aparecer, por favor, va ao site oficial para enviar o log e ajudar a resolver o problema. \nMensagem Anômala: {0}
+As facanhas estao rodando em uma condicao anormal, estamos cientes do problema e tentamos permitir que o jogo continue com o processamento de compatibilidade.\nSe esse log aparecer, por favor, va ao site oficial para enviar o log e ajudar a resolver o problema. \nMensagem Anomala: {0}
 Excecao de tempo de execucao de comunicacao
 Ocorreu uma anomalia durante a execucao da comunicacao. Estamos cientes do problema e tentando fazer o jogo continuar com o processamento de compatibilidade.\nSe esse log aparecer, por favor, va ao site oficial para enviar o log e ajudar a resolver o problema. \nInformacoes da excecao: {0}
 Operacao de debate expirada
@@ -32,7 +32,7 @@ O sistema recebeu anormalmente a operacao expirada {0} (timestamp: {1}) e a inva
 Arquivo de mundo do Sonho de Volta nao corresponde
 Observe que o mundo que voce esta atravessando no seu sonho nao corresponde ao mundo salvo original, e varios erros desconhecidos podem ocorrer se voce continuar o jogo!
 Anomalia de atualizacao dos elementos da interface de Transformacao do Dragao
-Uma condicao anômala foi detectada enquanto a interface de Chemtrail estava rodando, estamos cientes do problema e tentamos permitir que o jogo continue com o processamento de compatibilidade.\nSe esse log aparecer, por favor, va ao site oficial para enviar o log e ajudar a resolver o problema.
+Uma condicao anomala foi detectada enquanto a interface de Chemtrail estava rodando, estamos cientes do problema e tentamos permitir que o jogo continue com o processamento de compatibilidade.\nSe esse log aparecer, por favor, va ao site oficial para enviar o log e ajudar a resolver o problema.
 Excecao de atualizacao de elementos gerais da interface
 Estamos cientes das condicoes anormais atuais e tentamos continuar o jogo com o processamento de compatibilidade.\nAs anomalias registradas quando este log aparece podem nao ser as mesmas, sempre que esse log aparecer, por favor, va ao site oficial para enviar o log e ajudar a resolver o problema.\nInformacoes da excecao: {0}
 Excecao de tempo de execucao do mundo
