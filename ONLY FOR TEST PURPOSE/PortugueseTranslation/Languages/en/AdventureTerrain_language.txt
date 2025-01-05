@@ -1,46 +1,46 @@
-Desconhecido  
-Lugar desconhecido...  
-Colinas  
-Este é um local onde as montanhas sao contínuas e as cordilheiras se estendem, oferecendo vistas para os picos ao longe.  
-Canion  
-Os penhascos se erguem em ambos os lados da garganta, tornando-a majestosa e imponente, enquanto o caminho no vale é tao íngreme que veículos e cavalos tem dificuldade para passar.  
-Caverna  
-Cavernas formadas naturalmente no solo, em penhascos e rochas, com passagens tao estreitas que apenas uma pessoa pode passar inclinando o corpo de lado.  
-Rio  
-Os rios sao barrentos, com depósitos de sedimentos, e suas aguas correm de leste a oeste, de norte a sul, percorrendo até milhares de milhas.  
-Lago  
-O lago tem aguas claras e correntes suaves, onde crescem muitas formas de vida, como plantas aquaticas, peixes e camaroes.  
-Lagoa  
-As lagoas sao claras, estreitas e profundas, escuras e misteriosas, com poucos peixes e camaroes nelas.  
-Cabana  
-Uma cabana de palha comum, feita de colmo, bambu e barro, usada apenas para se abrigar do vento e da chuva.  
-Aldeia  
-Um assentamento formado por varias famílias. Os habitantes trabalham ao nascer do sol e descansam ao anoitecer, vivendo de agricultura, tecelagem, pesca e caca.  
-Cidade  
-Um mercado populoso. Ha encontros regulares na cidade, com muitas mercadorias circulando, além de apresentacoes de malabarismo e reunioes.  
-Flores  
-Os campos estao cobertos de flores. Elas estao em plena floracao, como um mar de cores, mudando de tempos em tempos, exalando fragrancia por dez milhas, com abelhas e borboletas ao redor.  
-Floresta  
-Uma terra cheia de arvores. Entre elas ha arvores e arbustos com folhagem exuberante, brisas frescas, frutos doces e galhos altos onde passaros e animais frequentemente se alimentam.  
-Floresta  
-Campos dispersos de grama e arvores. O terreno é aberto, verde e contínuo, onde passaros e animais frequentemente descansam.  
-Acampamento  
-Um lugar onde artistas marciais estao estacionados. É cercado por cercas e paredes, oferecendo alguma capacidade defensiva.  
-Templo  
-Templos comuns, na maioria das vezes doados por moradores próximos, contendo estatuas de Buda, Bodhisattvas, Reis Celestiais e Luohan.  
-Templo Taoísta  
-Um local onde monges taoístas praticam ou onde sao venerados os ancestrais dos deuses taoístas, frequentemente visitado para oracoes pelo povo.  
-Ruína  
-Uma construcao ou endereco remanescente de tempos antigos. É possível vislumbrar a existencia dos povos antigos e encontrar alguns artefatos raros deixados para tras.  
-Selva  
-Um deserto desolado, amplo e vazio. Sua terra é arida, com poucos gramíneos, arvores, passaros e animais que crescem com dificuldade, enquanto pessoas sao raras.  
-Ruínas  
-Nao sei o que aconteceu aqui, mas o prédio agora é um monte de ruínas, inutilizavel, com apenas os corvos circulando no céu como companhia.  
-Deserto  
-O deserto é uma vasta extensao de areia amarela sem vegetacao, tornando a navegacao difícil sem preparacao, embora ocasionalmente se encontrem oasis ricos em agua e vegetacao.  
-Tumba  
-As antigas tumbas escondidas deixadas pelos antecessores podem conter armadilhas, segredos e tesouros, além de ossos.  
-Penhasco  
-Os penhascos extremamente íngremes e altos sao quase impossíveis de escalar, com ocasionais pinheiros e ciprestes exóticos crescendo no topo, criando uma paisagem única.  
-Abismo  
-O abismo sem fundo é tao profundo que ninguém ousa olhar para ele, entao ninguém sabe quais perigos se escondem em seu interior.  
+Desconhecido
+Lugar desconhecido...
+Colinas
+Este é um local onde as montanhas sao contínuas e as cordilheiras se estendem, oferecendo vistas para os picos ao longe.
+Canion
+Os penhascos se erguem em ambos os lados da garganta, tornando-a majestosa e imponente, enquanto o caminho no vale é tao íngreme que veículos e cavalos tem dificuldade para passar.
+Caverna
+Cavernas formadas naturalmente no solo, em penhascos e rochas, com passagens tao estreitas que apenas uma pessoa pode passar inclinando o corpo de lado.
+Rio
+Os rios sao barrentos, com depósitos de sedimentos, e suas aguas correm de leste a oeste, de norte a sul, percorrendo até milhares de milhas.
+Lago
+O lago tem aguas claras e correntes suaves, onde crescem muitas formas de vida, como plantas aquaticas, peixes e camaroes.
+Lagoa
+As lagoas sao claras, estreitas e profundas, escuras e misteriosas, com poucos peixes e camaroes nelas.
+Cabana
+Uma cabana de palha comum, feita de colmo, bambu e barro, usada apenas para se abrigar do vento e da chuva.
+Aldeia
+Um assentamento formado por varias famílias. Os habitantes trabalham ao nascer do sol e descansam ao anoitecer, vivendo de agricultura, tecelagem, pesca e caca.
+Cidade
+Um mercado populoso. Ha encontros regulares na cidade, com muitas mercadorias circulando, além de apresentacoes de malabarismo e reunioes.
+Flores
+Os campos estao cobertos de flores. Elas estao em plena floracao, como um mar de cores, mudando de tempos em tempos, exalando fragrancia por dez milhas, com abelhas e borboletas ao redor.
+Floresta
+Uma terra cheia de arvores. Entre elas ha arvores e arbustos com folhagem exuberante, brisas frescas, frutos doces e galhos altos onde passaros e animais frequentemente se alimentam.
+Floresta
+Campos dispersos de grama e arvores. O terreno é aberto, verde e contínuo, onde passaros e animais frequentemente descansam.
+Acampamento
+Um lugar onde artistas marciais estao estacionados. É cercado por cercas e paredes, oferecendo alguma capacidade defensiva.
+Templo
+Templos comuns, na maioria das vezes doados por moradores próximos, contendo estatuas de Buda, Bodhisattvas, Reis Celestiais e Luohan.
+Templo Taoísta
+Um local onde monges taoístas praticam ou onde sao venerados os ancestrais dos deuses taoístas, frequentemente visitado para oracoes pelo povo.
+Ruína
+Uma construcao ou endereco remanescente de tempos antigos. É possível vislumbrar a existencia dos povos antigos e encontrar alguns artefatos raros deixados para tras.
+Selva
+Um deserto desolado, amplo e vazio. Sua terra é arida, com poucos gramíneos, arvores, passaros e animais que crescem com dificuldade, enquanto pessoas sao raras.
+Ruínas
+Nao sei o que aconteceu aqui, mas o prédio agora é um monte de ruínas, inutilizavel, com apenas os corvos circulando no céu como companhia.
+Deserto
+O deserto é uma vasta extensao de areia amarela sem vegetacao, tornando a navegacao difícil sem preparacao, embora ocasionalmente se encontrem oasis ricos em agua e vegetacao.
+Tumba
+As antigas tumbas escondidas deixadas pelos antecessores podem conter armadilhas, segredos e tesouros, além de ossos.
+Penhasco
+Os penhascos extremamente íngremes e altos sao quase impossíveis de escalar, com ocasionais pinheiros e ciprestes exóticos crescendo no topo, criando uma paisagem única.
+Abismo
+O abismo sem fundo é tao profundo que ninguém ousa olhar para ele, entao ninguém sabe quais perigos se escondem em seu interior.

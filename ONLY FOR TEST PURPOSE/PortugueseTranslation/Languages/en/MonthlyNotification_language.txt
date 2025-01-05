@@ -1,618 +1,618 @@
-Início de Fevereiro  
-O cabo da Ursa retornou ao Yin. Os recursos de Metal e Jade em algumas localidades de \n se recuperaram até certo ponto.  
+Início de Fevereiro
+O cabo da Ursa retornou ao Yin. Os recursos de Metal e Jade em algumas localidades de \n se recuperaram até certo ponto.
 
-Início de Marco  
-No mes de Jian Mao, Yang e Bu Qi. Os recursos de 'comida', 'madeira' e 'ervas medicinais' em \n algumas localidades se recuperaram até certo ponto.  
+Início de Marco
+No mes de Jian Mao, Yang e Bu Qi. Os recursos de 'comida', 'madeira' e 'ervas medicinais' em \n algumas localidades se recuperaram até certo ponto.
 
-Início de Abril  
-No mes de Jianchen, o cabo da Ursa aponta para o leste. \nAlgumas localidades tiveram certa recuperacao dos recursos de "comida", "madeira" e "ervas medicinais".  
+Início de Abril
+No mes de Jianchen, o cabo da Ursa aponta para o leste. \nAlgumas localidades tiveram certa recuperacao dos recursos de "comida", "madeira" e "ervas medicinais".
 
-Início de Maio  
-No mes de Jian Si, a grama e as arvores estao em plena floracao. \nOs recursos de "comida", "madeira" e "ervas medicinais" em algumas localidades se recuperaram até certo ponto.  
+Início de Maio
+No mes de Jian Si, a grama e as arvores estao em plena floracao. \nOs recursos de "comida", "madeira" e "ervas medicinais" em algumas localidades se recuperaram até certo ponto.
 
-Início de Junho  
-No mes de Jianwu, os brotos de arroz estao sendo colhidos. \nOs recursos de "comida", "madeira" e "tecido" em algumas localidades se recuperaram até certo ponto.  
+Início de Junho
+No mes de Jianwu, os brotos de arroz estao sendo colhidos. \nOs recursos de "comida", "madeira" e "tecido" em algumas localidades se recuperaram até certo ponto.
 
-Início de Julho  
-No mes de Jianwei, o cabo da Ursa aponta para o sul. \nAlgumas localidades tiveram certa recuperacao dos recursos de "comida", "madeira" e "tecido".  
+Início de Julho
+No mes de Jianwei, o cabo da Ursa aponta para o sul. \nAlgumas localidades tiveram certa recuperacao dos recursos de "comida", "madeira" e "tecido".
 
-Início de Agosto  
-No mes de Jian Shen, as cigarras estao estridentes. \nOs recursos de "comida", "madeira" e "tecido" em algumas localidades se recuperaram até certo ponto.  
+Início de Agosto
+No mes de Jian Shen, as cigarras estao estridentes. \nOs recursos de "comida", "madeira" e "tecido" em algumas localidades se recuperaram até certo ponto.
 
-Início de Setembro  
-No mes de Jian You, a estrela de Shang flui para o oeste. \nAlgumas localidades tiveram recuperacao dos recursos de "comida", "madeira", "tecido" e "ervas medicinais" até certo ponto.  
+Início de Setembro
+No mes de Jian You, a estrela de Shang flui para o oeste. \nAlgumas localidades tiveram recuperacao dos recursos de "comida", "madeira", "tecido" e "ervas medicinais" até certo ponto.
 
-Início de Outubro  
-No mes de Jianxu, o cabo da Ursa aponta para o oeste. Os recursos de "comida", "madeira", "tecido" e "ervas medicinais" em \n algumas localidades se recuperaram até certo ponto.  
+Início de Outubro
+No mes de Jianxu, o cabo da Ursa aponta para o oeste. Os recursos de "comida", "madeira", "tecido" e "ervas medicinais" em \n algumas localidades se recuperaram até certo ponto.
 
-Início de Novembro  
-No mes de Jianhai, os salgueiros murcham e os vales aparecem. \nOs recursos de "ouro e pedra" e "tecido" em algumas localidades se recuperaram até certo ponto.  
+Início de Novembro
+No mes de Jianhai, os salgueiros murcham e os vales aparecem. \nOs recursos de "ouro e pedra" e "tecido" em algumas localidades se recuperaram até certo ponto.
 
-Início de Dezembro  
-No mes de Kenshi, todas as coisas sao recolhidas. \nAlgumas localidades tiveram certa recuperacao dos recursos de "ouro e pedra".  
+Início de Dezembro
+No mes de Kenshi, todas as coisas sao recolhidas. \nAlgumas localidades tiveram certa recuperacao dos recursos de "ouro e pedra".
 
-Início de Janeiro  
-No mes de Jian Chou, o cabo da Ursa aponta para o norte. \nAlgumas localidades tiveram certa recuperacao dos recursos de "ouro e pedra".  
+Início de Janeiro
+No mes de Jian Chou, o cabo da Ursa aponta para o norte. \nAlgumas localidades tiveram certa recuperacao dos recursos de "ouro e pedra".
 
-Túmulo Destruído  
-O túmulo de {0} foi completamente danificado e desapareceu por nao ter sido cuidado por muito tempo.  
+Túmulo Destruído
+O túmulo de {0} foi completamente danificado e desapareceu por nao ter sido cuidado por muito tempo.
 
-Oferta Fora da Lei  
-{0} recebeu as ofertas de {3} em {1} em nome de {2}...  
+Oferta Fora da Lei
+{0} recebeu as ofertas de {3} em {1} em nome de {2}...
 
-Armazenamento Excedido  
-O {0} no armazém foi perdido devido ao limite de armazenamento ter sido excedido.  
+Armazenamento Excedido
+O {0} no armazém foi perdido devido ao limite de armazenamento ter sido excedido.
 
-Assassinato  
-{0} foi assassinado em {1} pelo Portao JieQing...  
+Assassinato
+{0} foi assassinado em {1} pelo Portao JieQing...
 
-Morte Sem Sombra  
-{0} morreu em {1} após ser assassinado pelo Portao Jieqing por possuir a Ordem Apagadora de Sombras...  
+Morte Sem Sombra
+{0} morreu em {1} após ser assassinado pelo Portao Jieqing por possuir a Ordem Apagadora de Sombras...
 
-A Grande Separacao  
-{0} partiu desta vida em {1}.  
+A Grande Separacao
+{0} partiu desta vida em {1}.
 
-XS·Enfeiticado  
-{0} em {1} foi perturbado pelos pensamentos malignos de XiangShu e nao pode ser ele mesmo.  
+XS·Enfeiticado
+{0} em {1} foi perturbado pelos pensamentos malignos de XiangShu e nao pode ser ele mesmo.
 
-Possuído por XiangShu  
-{0} em {1} sucumbiu à corrupcao de XiangShu e ficou possuído.  
+Possuído por XiangShu
+{0} em {1} sucumbiu à corrupcao de XiangShu e ficou possuído.
 
-Inimizade por Prisao  
-{0} em {1} comecou a ressentir {2} por ter sido aprisionado por {2}...  
+Inimizade por Prisao
+{0} em {1} comecou a ressentir {2} por ter sido aprisionado por {2}...
 
-Fuga da Prisao  
-{0} em {1} escapou do cativeiro de {2}...  
+Fuga da Prisao
+{0} em {1} escapou do cativeiro de {2}...
 
-Grilo Morreu  
-{0} morreu de velhice...  
+Grilo Morreu
+{0} morreu de velhice...
 
-Recursos Excedidos  
-Recursos excederam a capacidade, causando a perda de {0} em {1}.  
+Recursos Excedidos
+Recursos excederam a capacidade, causando a perda de {0} em {1}.
 
-Inventario Excedido  
-Recursos excederam a capacidade, causando a perda de {0} em {1}.  
+Inventario Excedido
+Recursos excederam a capacidade, causando a perda de {0} em {1}.
 
-Inimizade Formada  
-{0} tornou-se inimigo de {2} em {1}.  
+Inimizade Formada
+{0} tornou-se inimigo de {2} em {1}.
 
-Ódio Dissolvido  
-{0} dissolveu sua inimizade com {2} em {1} e nao sao mais inimigos.  
+Ódio Dissolvido
+{0} dissolveu sua inimizade com {2} em {1} e nao sao mais inimigos.
 
-Declaracao de Amor  
-Em {1}, {0} declarou seu amor por {2}, e finalmente se impressionaram mutuamente, agora possuem amor e afeto mútuos.  
+Declaracao de Amor
+Em {1}, {0} declarou seu amor por {2}, e finalmente se impressionaram mutuamente, agora possuem amor e afeto mútuos.
 
-Separacao de Casal  
-Em {1}, {0} e {2} romperam o relacionamento...  
+Separacao de Casal
+Em {1}, {0} e {2} romperam o relacionamento...
 
-Casamento de Casal  
-Em {1}, {0} e {2} prometeram-se para a vida e se casaram.  
+Casamento de Casal
+Em {1}, {0} e {2} prometeram-se para a vida e se casaram.
 
-Amizade Florescendo  
-{0} e {2} tiveram uma boa conversa em {1}, sentiram-se próximos e decidiram se tornar grandes amigos.  
+Amizade Florescendo
+{0} e {2} tiveram uma boa conversa em {1}, sentiram-se próximos e decidiram se tornar grandes amigos.
 
-Afastamento  
-{0} e {2} se afastaram em {1}. Os dois nao sao mais grandes amigos.  
+Afastamento
+{0} e {2} se afastaram em {1}. Os dois nao sao mais grandes amigos.
 
-Novos Irmaos de Juramento  
-Em {1}, {0} e {2} tornaram-se irmaos jurados, prometendo nao buscar o mesmo ano, mes e dia de nascimento, mas o mesmo ano, mes e dia de morte.  
+Novos Irmaos de Juramento
+Em {1}, {0} e {2} tornaram-se irmaos jurados, prometendo nao buscar o mesmo ano, mes e dia de nascimento, mas o mesmo ano, mes e dia de morte.
 
-Ruptura Fraternal  
-{0} em {1} e {2} cortaram os lacos de irmandade e nao sao mais amigos, como diz o ditado: antes do rio amarelo, nunca se verao novamente.  
+Ruptura Fraternal
+{0} em {1} e {2} cortaram os lacos de irmandade e nao sao mais amigos, como diz o ditado: antes do rio amarelo, nunca se verao novamente.
 
-Adotar como Filho  
-Em {1}, {0} adotou {2} como seu Filho Adotivo.  
+Adotar como Filho
+Em {1}, {0} adotou {2} como seu Filho Adotivo.
 
-Adotando uma Filha  
-Em {1}, {0} adotou {2} como sua Filha Adotiva.  
+Adotando uma Filha
+Em {1}, {0} adotou {2} como sua Filha Adotiva.
 
-Reconhecendo Pai Adotivo  
-{0} aceitou {2} como seu Pai Adotivo em {1}.  
+Reconhecendo Pai Adotivo
+{0} aceitou {2} como seu Pai Adotivo em {1}.
 
-Reconhecendo Mae Adotiva  
-{0} aceitou {2} como sua Mae Adotiva em {1}.  
+Reconhecendo Mae Adotiva
+{0} aceitou {2} como sua Mae Adotiva em {1}.
 
-Noite Abencoada  
-{0} passou a noite com {2} em {1}. Os dois se amam profundamente, e seu amor é infinito.  
+Noite Abencoada
+{0} passou a noite com {2} em {1}. Os dois se amam profundamente, e seu amor é infinito.
 
-Desejo Irrefreavel  
-Em {1}, {0}, tomado por um desejo avassalador, tentou forcar {2}, mas foi descoberto por {2} e falhou.  
+Desejo Irrefreavel
+Em {1}, {0}, tomado por um desejo avassalador, tentou forcar {2}, mas foi descoberto por {2} e falhou.
 
-Abencoado com um Filho  
-{0} deu à luz um filho em {1}.  
+Abencoado com um Filho
+{0} deu à luz um filho em {1}.
 
-Abencoado com uma Filha  
-{0} deu à luz uma filha em {1}.  
+Abencoado com uma Filha
+{0} deu à luz uma filha em {1}.
 
-O filho de {0} nasceu!  
+O filho de {0} nasceu!
 
-A filha de {0} nasceu!  
+A filha de {0} nasceu!
 
-Nascimento Anormal  
-O filho de {0} finalmente nasceu após tres anos e seis meses de gravidez...  
+Nascimento Anormal
+O filho de {0} finalmente nasceu após tres anos e seis meses de gravidez...
 
-Luto Materno  
-Em {1}, {0} nao se sentiu bem e perdeu o bebe.  
+Luto Materno
+Em {1}, {0} nao se sentiu bem e perdeu o bebe.
 
-Aprendendo com um Mestre  
-{0} foi até {1} para aprender artes marciais.  
+Aprendendo com um Mestre
+{0} foi até {1} para aprender artes marciais.
 
-Ingressou em uma Seita  
-{0} ingressou em {1} como discípulo.  
+Ingressou em uma Seita
+{0} ingressou em {1} como discípulo.
 
-Indo para um Compromisso  
-{0} esta indo para {1} para um compromisso...  
+Indo para um Compromisso
+{0} esta indo para {1} para um compromisso...
 
-Aguardando  
-{0} esta {1} esperando {2} para um compromisso...  
+Aguardando
+{0} esta {1} esperando {2} para um compromisso...
 
-Compromisso Quebrado  
-Em {1}, {0} esperou por muito tempo por {2}, mas {2} nunca apareceu...  
+Compromisso Quebrado
+Em {1}, {0} esperou por muito tempo por {2}, mas {2} nunca apareceu...
 
-Compromisso Cancelado  
-{0} cancelou o compromisso em {1} com {2}...  
+Compromisso Cancelado
+{0} cancelou o compromisso em {1} com {2}...
 
-Ao Resgate  
-{0} soube que {1} esta sendo mantido prisioneiro por {2} e decidiu resgata-lo...  
+Ao Resgate
+{0} soube que {1} esta sendo mantido prisioneiro por {2} e decidiu resgata-lo...
 
-Prisioneiros Resgatados  
-{0} libertou {1} do cativeiro de {2}.  
+Prisioneiros Resgatados
+{0} libertou {1} do cativeiro de {2}.
 
-Liberacao  
-{0} libertou {2} em {1}.  
+Liberacao
+{0} libertou {2} em {1}.
 
-Pessoa Desaparecida  
-Visto pela última vez em {1}, {0} esta desaparecido...  
+Pessoa Desaparecida
+Visto pela última vez em {1}, {0} esta desaparecido...
 
-Vinganca  
-{0} decidiu buscar vinganca contra {1}...  
+Vinganca
+{0} decidiu buscar vinganca contra {1}...
 
-Protecao  
-{0} decidiu proteger {1} contra ataques...  
+Protecao
+{0} decidiu proteger {1} contra ataques...
 
-Protegendo Amigos e Família  
-{0} lutara contra {2} em nome de {1}...  
+Protegendo Amigos e Família
+{0} lutara contra {2} em nome de {1}...
 
-Nova Posicao na Seita  
-{0} tornou-se um {2} de {1}.  
+Nova Posicao na Seita
+{0} tornou-se um {2} de {1}.
 
-Novo Oficial da Cidade  
+Novo Oficial da Cidade
 
-Novo Líder de Faccao  
-{0} tornou-se líder de uma faccao em {1}.  
+Novo Líder de Faccao
+{0} tornou-se líder de uma faccao em {1}.
 
-Recursos Roubados  
-Em {1}, {0} tentou roubar {3} de {2}, mas nao teve sucesso.  
+Recursos Roubados
+Em {1}, {0} tentou roubar {3} de {2}, mas nao teve sucesso.
 
-Em {1}, {0} conseguiu roubar alguns {3} de {2}.  
+Em {1}, {0} conseguiu roubar alguns {3} de {2}.
 
-Recursos Trapaceados  
-Em {1}, {0} tentou trapacear {3} de {2}, mas falhou.  
+Recursos Trapaceados
+Em {1}, {0} tentou trapacear {3} de {2}, mas falhou.
 
-Recursos Roubados  
-Em {1}, {0} tentou roubar {3} de {2}, mas nao teve sucesso.  
+Recursos Roubados
+Em {1}, {0} tentou roubar {3} de {2}, mas nao teve sucesso.
 
-Roubo de Túmulos  
-{0} roubou {3} do túmulo de {2} em {1}.  
+Roubo de Túmulos
+{0} roubou {3} do túmulo de {2} em {1}.
 
-Roubando Itens  
+Roubando Itens
 
-Em {1}, {0} conseguiu roubar {3} de {2}.  
+Em {1}, {0} conseguiu roubar {3} de {2}.
 
-Trapaceando Itens  
+Trapaceando Itens
 
-Roubando Itens  
+Roubando Itens
 
-Roubo de Itens de Túmulos  
-{0} roubou {3} do túmulo de {2} em {1}.  
+Roubo de Itens de Túmulos
+{0} roubou {3} do túmulo de {2} em {1}.
 
-Habilidade de Vida Roubada  
-Em {1}, {0} tentou roubar {3} de {2}, mas nao teve sucesso.  
+Habilidade de Vida Roubada
+Em {1}, {0} tentou roubar {3} de {2}, mas nao teve sucesso.
 
-Em {1}, {0} furtivamente aprendeu {3} de {2}.  
+Em {1}, {0} furtivamente aprendeu {3} de {2}.
 
-Trapaceando Habilidades de Vida  
-Em {1}, {0} tentou trapacear {3} de {2}, mas nao teve sucesso.  
+Trapaceando Habilidades de Vida
+Em {1}, {0} tentou trapacear {3} de {2}, mas nao teve sucesso.
 
-Roubando Artes Marciais  
+Roubando Artes Marciais
 
-Trapaceando Artes Marciais  
+Trapaceando Artes Marciais
 
-Um Símbolo de Boa Vontade  
-Em {1}, {0} apresentou {2} como presente para {3}.  
+Um Símbolo de Boa Vontade
+Em {1}, {0} apresentou {2} como presente para {3}.
 
-Pequeno Presente, Amizade Verdadeira  
+Pequeno Presente, Amizade Verdadeira
 
-Ensinando Habilidades de Vida  
-Em {1}, {0} ensinou {2} sobre estudos de {3}.  
+Ensinando Habilidades de Vida
+Em {1}, {0} ensinou {2} sobre estudos de {3}.
 
-Em {1}, {0} tentou ensinar {2} sobre estudos de {3}, mas nao teve resultados.  
+Em {1}, {0} tentou ensinar {2} sobre estudos de {3}, mas nao teve resultados.
 
-Ensinando Artes Marciais  
-Em {1}, {0} ensinou {2} sobre estudos de {3}.  
+Ensinando Artes Marciais
+Em {1}, {0} ensinou {2} sobre estudos de {3}.
 
-Em {1}, {0} tentou ensinar {2} sobre estudos de {3}, mas nao teve resultados.  
+Em {1}, {0} tentou ensinar {2} sobre estudos de {3}, mas nao teve resultados.
 
-Performance Musical  
-{0} ouviu a música tocada por {2} em {1}.  
+Performance Musical
+{0} ouviu a música tocada por {2} em {1}.
 
-Jogo de Xadrez  
-{0} jogou uma partida de xadrez contra {2} em {1}.  
+Jogo de Xadrez
+{0} jogou uma partida de xadrez contra {2} em {1}.
 
-Leitura de Poesias  
-{0} leu os poemas escritos por {2} em {1}.  
+Leitura de Poesias
+{0} leu os poemas escritos por {2} em {1}.
 
-Exposicao de Pinturas  
-{0} viu as pinturas feitas por {2} em {1}.  
+Exposicao de Pinturas
+{0} viu as pinturas feitas por {2} em {1}.
 
-Tesouros Criados  
-{0} criou o lendario {2} em {1}, e sua fama se espalhou pelo mundo.  
+Tesouros Criados
+{0} criou o lendario {2} em {1}, e sua fama se espalhou pelo mundo.
 
-Iluminacao Taoísta  
-{0} falou para {2} sobre os mistérios do Tao em {1}, iluminando {2} e aprimorando o talento de {3}.  
+Iluminacao Taoísta
+{0} falou para {2} sobre os mistérios do Tao em {1}, iluminando {2} e aprimorando o talento de {3}.
 
-Iluminacao Budista  
-{0} conversou com {2} em {1} sobre as sutilezas do Budismo, o que iluminou {2} e aprimorou o talento de {3}.  
+Iluminacao Budista
+{0} conversou com {2} em {1} sobre as sutilezas do Budismo, o que iluminou {2} e aprimorou o talento de {3}.
 
-Adivinhacao  
-{0} descobriu em {1} um segredo possuído por {2}.  
+Adivinhacao
+{0} descobriu em {1} um segredo possuído por {2}.
 
-Valiosos Sortudos  
-Em {1}, {0} encontrou um raro {2} por acaso.  
+Valiosos Sortudos
+Em {1}, {0} encontrou um raro {2} por acaso.
 
-Em {1}, {0} encontrou {2} {3} por acaso.  
+Em {1}, {0} encontrou {2} {3} por acaso.
 
-Encontro Fortuito  
-Em {1}, {0} encontrou um livro de artes marciais {2} por acaso.  
+Encontro Fortuito
+Em {1}, {0} encontrou um livro de artes marciais {2} por acaso.
 
-Em {1}, {0} encontrou um livro de belas artes {2} por acaso.  
+Em {1}, {0} encontrou um livro de belas artes {2} por acaso.
 
-Milagre Celestial  
-Em {1}, {0} sonhou com um cervo branco místico, recuperando {2} pontos de sua Saúde.  
+Milagre Celestial
+Em {1}, {0} sonhou com um cervo branco místico, recuperando {2} pontos de sua Saúde.
 
-Em {1}, {0} sonhou com um cervo branco místico, recuperando {2} pontos de Ferimentos Externos.  
+Em {1}, {0} sonhou com um cervo branco místico, recuperando {2} pontos de Ferimentos Externos.
 
-Em {1}, {0} sonhou com um cervo branco místico, recuperando {2} pontos de Ferimentos Internos.  
+Em {1}, {0} sonhou com um cervo branco místico, recuperando {2} pontos de Ferimentos Internos.
 
-Em {1}, {0} sonhou com um cervo branco místico, e {2} em seu corpo foi reduzido.  
+Em {1}, {0} sonhou com um cervo branco místico, e {2} em seu corpo foi reduzido.
 
-Em {1}, {0} sonhou com um cervo branco místico, e sua Respiracao Interna foi estabilizada.  
+Em {1}, {0} sonhou com um cervo branco místico, e sua Respiracao Interna foi estabilizada.
 
-Grande Desgraca  
-Em {1}, {0} perdeu um(a) {2} muito raro(a) por acaso.  
+Grande Desgraca
+Em {1}, {0} perdeu um(a) {2} muito raro(a) por acaso.
 
-Em {1}, {0} perdeu {2} {3} por acaso.  
+Em {1}, {0} perdeu {2} {3} por acaso.
 
-Livro Perdido  
-Em {1}, {0} perdeu um livro de artes marciais {2} por acaso.  
+Livro Perdido
+Em {1}, {0} perdeu um livro de artes marciais {2} por acaso.
 
-Em {1}, {0} perdeu um livro de belas artes {2} por acaso.  
+Em {1}, {0} perdeu um livro de belas artes {2} por acaso.
 
-Punicao Celestial  
-Em {1}, {0} sonhou com demônios horríveis e espíritos malignos, perdendo {2} pontos de Saúde.  
+Punicao Celestial
+Em {1}, {0} sonhou com demônios horríveis e espíritos malignos, perdendo {2} pontos de Saúde.
 
-Em {1}, {0} sonhou com demônios horríveis e espíritos malignos, perdendo {2} pontos de Ferimentos Externos.  
+Em {1}, {0} sonhou com demônios horríveis e espíritos malignos, perdendo {2} pontos de Ferimentos Externos.
 
-Em {1}, {0} sonhou com demônios horríveis e espíritos malignos, perdendo {2} pontos de Ferimentos Internos.  
+Em {1}, {0} sonhou com demônios horríveis e espíritos malignos, perdendo {2} pontos de Ferimentos Internos.
 
-Em {1}, {0} sonhou com demônios horríveis e espíritos malignos, e {2} em seu corpo aumentou.  
+Em {1}, {0} sonhou com demônios horríveis e espíritos malignos, e {2} em seu corpo aumentou.
 
-Em {1}, {0} sonhou com demônios horríveis e espíritos malignos, e sua Respiracao Interna ficou desordenada.  
+Em {1}, {0} sonhou com demônios horríveis e espíritos malignos, e sua Respiracao Interna ficou desordenada.
 
-Crescimento de Recursos  
-{1} em {0} cresceu.  
-{0}的{1}规模等级上升了{2}次。  
-Expansao de Recursos  
-{0} de {1} expandiu-se para a area ao redor.  
-{0}的{1}向周边地区扩张了{2}次。  
-Dano à Construcao  
-{0} em {1} esta sendo comprometido, e o nível da escala esta diminuindo.  
+Crescimento de Recursos
+{1} em {0} cresceu.
+{0}的{1}规模等级上升了{2}次。
+Expansao de Recursos
+{0} de {1} expandiu-se para a area ao redor.
+{0}的{1}向周边地区扩张了{2}次。
+Dano à Construcao
+{0} em {1} esta sendo comprometido, e o nível da escala esta diminuindo.
 
-Colapso da Construcao  
-{1}’s {0} desmoronou em escombros.  
+Colapso da Construcao
+{1}’s {0} desmoronou em escombros.
 
-Construcao Concluída  
-{1} foi construída em {0}.  
-{0}的诸多建筑建造完毕了。  
-Expansao Concluída  
-{1} foi ampliada em {0}.  
-{0}的诸多建筑扩建完毕了。  
-Remocao Concluída  
-{1} foi removida de {0}.  
-{0}的诸多建筑拆除完毕了。  
-Colheita da Construcao  
-{1} de {0} concluiu uma colheita.  
+Construcao Concluída
+{1} foi construída em {0}.
+{0}的诸多建筑建造完毕了。
+Expansao Concluída
+{1} foi ampliada em {0}.
+{0}的诸多建筑扩建完毕了。
+Remocao Concluída
+{1} foi removida de {0}.
+{0}的诸多建筑拆除完毕了。
+Colheita da Construcao
+{1} de {0} concluiu uma colheita.
 
-Chegada de Envio  
-O envio {1} para {0} chegou a {0}.  
+Chegada de Envio
+O envio {1} para {0} chegou a {0}.
 
-Ninho de Mendigos  
-Ouvi dizer que ha um grupo de mendigos perversos reunidos em {0}...  
+Ninho de Mendigos
+Ouvi dizer que ha um grupo de mendigos perversos reunidos em {0}...
 
-Acampamento de Ladroes  
-Ouvi dizer que ha ladroes acampando em {0} e causando danos...  
+Acampamento de Ladroes
+Ouvi dizer que ha ladroes acampando em {0} e causando danos...
 
-Fortaleza de Assaltantes  
-Ouvi dizer que ha bandidos em {0}, bloqueando a estrada para roubar...  
+Fortaleza de Assaltantes
+Ouvi dizer que ha bandidos em {0}, bloqueando a estrada para roubar...
 
-Gangue de Traidores  
-听闻一伙叛徒在{0}聚集…  
+Gangue de Traidores
+听闻一伙叛徒在{0}聚集…
 
-Vale dos Viloes  
-Ouvi dizer que muitos malfeitores do jianghu estao escondidos em {0}...  
+Vale dos Viloes
+Ouvi dizer que muitos malfeitores do jianghu estao escondidos em {0}...
 
-Matriz de Aroma  
-Ouvi dizer que de tempos em tempos ha sons de decadencia em {0}, e varios homens desapareceram no local...  
+Matriz de Aroma
+Ouvi dizer que de tempos em tempos ha sons de decadencia em {0}, e varios homens desapareceram no local...
 
-Cemitério  
-Ouvi dizer que ha um lugar estranho e caótico cheio de túmulos perto de {0}...  
+Cemitério
+Ouvi dizer que ha um lugar estranho e caótico cheio de túmulos perto de {0}...
 
-Residencia dos Talentos  
-Ouvi falar sobre um grupo de estrangeiros excentricos reunidos em {0}...  
+Residencia dos Talentos
+Ouvi falar sobre um grupo de estrangeiros excentricos reunidos em {0}...
 
-Cultos de Outro Mundo  
-Ouvi falar de cultos estrangeiros na fronteira sendo explorados em {1}, mas depois se perdeu o rastro deles...  
+Cultos de Outro Mundo
+Ouvi falar de cultos estrangeiros na fronteira sendo explorados em {1}, mas depois se perdeu o rastro deles...
 
-Provacao de Asura  
-Ouvi falar de estranhas manchas de sangue sendo investigadas em {1}, mas depois se perdeu o rastro delas...  
+Provacao de Asura
+Ouvi falar de estranhas manchas de sangue sendo investigadas em {1}, mas depois se perdeu o rastro delas...
 
-Reuniao de Demônios  
-Ouvi dizer que varias pessoas que seguiram o caminho demoníaco de Xiangshu se reuniram repentinamente em {0}, mas depois desapareceram...  
+Reuniao de Demônios
+Ouvi dizer que varias pessoas que seguiram o caminho demoníaco de Xiangshu se reuniram repentinamente em {0}, mas depois desapareceram...
 
-Traicao à Seita  
-Ouvi dizer que {0} repentinamente desobedeceu e traiu sua seita, aparecendo em {1}...  
+Traicao à Seita
+Ouvi dizer que {0} repentinamente desobedeceu e traiu sua seita, aparecendo em {1}...
 
-Feira de Primavera  
-Comemorando o Ano Novo e despedindo-se do ano velho, comerciantes de todas as partes estao realizando uma feira movimentada, com pessoas lotando todos os cantos.  
+Feira de Primavera
+Comemorando o Ano Novo e despedindo-se do ano velho, comerciantes de todas as partes estao realizando uma feira movimentada, com pessoas lotando todos os cantos.
 
-Torneio da Cidade  
-O verao esta escaldante, e os treinos de verao estao monótonos. {0} esta realizando um evento de {1}. As tres religioes e nove correntes se reúnem, e a competicao de artes marciais esta cheia de entusiasmo.  
+Torneio da Cidade
+O verao esta escaldante, e os treinos de verao estao monótonos. {0} esta realizando um evento de {1}. As tres religioes e nove correntes se reúnem, e a competicao de artes marciais esta cheia de entusiasmo.
 
-Vibracao de Grilos  
-Na temporada dourada, o canto dos grilos ecoa por toda parte, como no poema “Sob a janela e entre os arbustos, nos coracoes saudosos e ouvidos entristecidos”.  
+Vibracao de Grilos
+Na temporada dourada, o canto dos grilos ecoa por toda parte, como no poema “Sob a janela e entre os arbustos, nos coracoes saudosos e ouvidos entristecidos”.
 
-Congresso Mundial de Grilos  
-O Congresso Mundial de Grilos esta sendo realizado em {0}!  
+Congresso Mundial de Grilos
+O Congresso Mundial de Grilos esta sendo realizado em {0}!
 
-Conferencia de Artes  
-O inverno esta frio, o vento é gélido, e para trazer vida e alento, {0} esta sediando uma conferencia mais artística de {1}.  
+Conferencia de Artes
+O inverno esta frio, o vento é gélido, e para trazer vida e alento, {0} esta sediando uma conferencia mais artística de {1}.
 
-Competicao de Pequena Seita  
-Ha rumores de que {0} esta realizando uma competicao de pequena seita onde discípulos de baixa hierarquia se reúnem...  
+Competicao de Pequena Seita
+Ha rumores de que {0} esta realizando uma competicao de pequena seita onde discípulos de baixa hierarquia se reúnem...
 
-Ha rumores de que {0} esta realizando uma competicao de pequena seita onde discípulos de alta hierarquia se reúnem...  
+Ha rumores de que {0} esta realizando uma competicao de pequena seita onde discípulos de alta hierarquia se reúnem...
 
-Competicao de Grande Seita  
-Ha rumores de que {0} esta realizando uma competicao de grande seita, e todos os membros seniores da seita estao participando...  
+Competicao de Grande Seita
+Ha rumores de que {0} esta realizando uma competicao de grande seita, e todos os membros seniores da seita estao participando...
 
-Concurso de Casamento  
-Uma nobre decadente esta organizando um grande Concurso de Casamento para encontrar um cônjuge para sua filha em {0}...  
+Concurso de Casamento
+Uma nobre decadente esta organizando um grande Concurso de Casamento para encontrar um cônjuge para sua filha em {0}...
 
-Cerimônia de Casamento  
-A cerimônia de casamento de {0} e {1} esta sendo realizada em {2}...  
+Cerimônia de Casamento
+A cerimônia de casamento de {0} e {1} esta sendo realizada em {2}...
 
-Fuga do Túmulo da Espada  
-Um inimigo poderoso, autodenominado "Encarnacao de Xiangshu", emergiu do Túmulo da Espada "{0}" perto da Vila Taiwu! Eles estao vindo diretamente para a Vila Taiwu!  
+Fuga do Túmulo da Espada
+Um inimigo poderoso, autodenominado "Encarnacao de Xiangshu", emergiu do Túmulo da Espada "{0}" perto da Vila Taiwu! Eles estao vindo diretamente para a Vila Taiwu!
 
-Mo Nyu Traz Desastres  
-Devido à passagem de Mo Nyu por perto, {1} pessoas próximas a {0} foram afetadas por seu desastre, sofrendo ferimentos e envenenamento!  
+Mo Nyu Traz Desastres
+Devido à passagem de Mo Nyu por perto, {1} pessoas próximas a {0} foram afetadas por seu desastre, sofrendo ferimentos e envenenamento!
 
-Yaochang Traz Desastres  
+Yaochang Traz Desastres
 Devido à passagem de Dayue Yaochang por perto, {1} pessoas próximas a {0} foram afetadas por seu desastre, causando suas mortes!
 
-Jiu Han Traz Desgraca  
-Devido à passagem de Jiu Han por perto, as terras próximas a {0} foram danificadas!  
+Jiu Han Traz Desgraca
+Devido à passagem de Jiu Han por perto, as terras próximas a {0} foram danificadas!
 
-Huang'er Traz Desgraca  
-Devido à passagem de Jin Huang'er por perto, {1} pessoas próximas a {0} sofreram uma calamidade inesperada!  
+Huang'er Traz Desgraca
+Devido à passagem de Jin Huang'er por perto, {1} pessoas próximas a {0} sofreram uma calamidade inesperada!
 
-Yihou Traz Desgraca  
-Devido à passagem de Yi Yihou por perto, as mentes das pessoas próximas a {0} ficaram cheias de tristeza.  
+Yihou Traz Desgraca
+Devido à passagem de Yi Yihou por perto, as mentes das pessoas próximas a {0} ficaram cheias de tristeza.
 
-Wei Qi Traz Desgraca  
-Wei Qi transferiu todas as suas feridas para {1} próximo a {0}!  
+Wei Qi Traz Desgraca
+Wei Qi transferiu todas as suas feridas para {1} próximo a {0}!
 
-Yi Xiang Traz Desgraca  
-Devido à passagem de Yi Xiang por perto, os pontos de vista das pessoas próximas a {0} mudaram!  
+Yi Xiang Traz Desgraca
+Devido à passagem de Yi Xiang por perto, os pontos de vista das pessoas próximas a {0} mudaram!
 
-Xue Feng Traz Desgraca  
-Devido à passagem de Xue Feng por perto, mais lacaios de Xiangshu apareceram próximos a {0}!  
+Xue Feng Traz Desgraca
+Devido à passagem de Xue Feng por perto, mais lacaios de Xiangshu apareceram próximos a {0}!
 
-Shu Fang Traz Desgraca  
-Devido à passagem de Shu Fang por perto, {1} pessoas próximas a {0} envelheceram!  
+Shu Fang Traz Desgraca
+Devido à passagem de Shu Fang por perto, {1} pessoas próximas a {0} envelheceram!
 
-Mo Nyu Salva os Sofredores  
-{0} foi tratado por uma pessoa misteriosa que se autodenominava Mo Nyu em {1}.  
+Mo Nyu Salva os Sofredores
+{0} foi tratado por uma pessoa misteriosa que se autodenominava Mo Nyu em {1}.
 
-Yaochang Salva os Sofredores  
-{0} que caiu no caminho demoníaco de Xiangshu foi capturado em {1} por um homem misterioso chamado Dayue Yaochang e finalmente foi morto...  
+Yaochang Salva os Sofredores
+{0} que caiu no caminho demoníaco de Xiangshu foi capturado em {1} por um homem misterioso chamado Dayue Yaochang e finalmente foi morto...
 
-Jiu Han Salva os Sofredores  
-Terras próximas a {0} foram cuidadas por um homem misterioso que se autodenominava Jiu Han, restaurando todos os recursos locais.  
+Jiu Han Salva os Sofredores
+Terras próximas a {0} foram cuidadas por um homem misterioso que se autodenominava Jiu Han, restaurando todos os recursos locais.
 
-Huang'er Salva os Sofredores  
-{0} viu a fenix dourada em {1} e recebeu boa sorte.  
+Huang'er Salva os Sofredores
+{0} viu a fenix dourada em {1} e recebeu boa sorte.
 
-Yihou Salva os Sofredores  
-Pessoas próximas a {0} estao mais propensas a se apaixonar por outras após encontrarem um homem misterioso que se autodenomina Yi Yihou.  
+Yihou Salva os Sofredores
+Pessoas próximas a {0} estao mais propensas a se apaixonar por outras após encontrarem um homem misterioso que se autodenomina Yi Yihou.
 
-Wei Qi Salva os Sofredores  
-{0} foi resgatado por um homem misterioso que se autodenominava Wei Qi em {1} e transferiu os ferimentos para {2}.  
+Wei Qi Salva os Sofredores
+{0} foi resgatado por um homem misterioso que se autodenominava Wei Qi em {1} e transferiu os ferimentos para {2}.
 
-Yi Xiang Salva os Sofredores  
-Pessoas próximas a {0} tiveram seus pontos de vista temporariamente mudados para Bondade por um homem misterioso que se autodenomina Yi Xiang.  
+Yi Xiang Salva os Sofredores
+Pessoas próximas a {0} tiveram seus pontos de vista temporariamente mudados para Bondade por um homem misterioso que se autodenomina Yi Xiang.
 
-Xue Feng Salva os Sofredores  
-{0} foi atacado por um homem misterioso que se autodenomina Xue Feng em {1}.  
+Xue Feng Salva os Sofredores
+{0} foi atacado por um homem misterioso que se autodenomina Xue Feng em {1}.
 
-Shu Fang Salva os Sofredores  
-{0} encontrou um homem misterioso em {1} que se autodenomina Shu Fang, e entao pareceu rejuvenescer!  
+Shu Fang Salva os Sofredores
+{0} encontrou um homem misterioso em {1} que se autodenomina Shu Fang, e entao pareceu rejuvenescer!
 
-Desaparecimento Civil  
-{0} se perdeu em {1} e foi posteriormente confirmado como morto.  
+Desaparecimento Civil
+{0} se perdeu em {1} e foi posteriormente confirmado como morto.
 
-Partida da Caravana  
-A caravana <color=#ffea8d>{1}</color> em {0} partiu.  
-A caravana <color=#ffea8d>{1}</color> em {0} partiu, com um total de {2} grupos.  
-Coracao Partido e Desesperado  
-{0} esta de coracao partido ao deixar a Vila Taiwu...  
+Partida da Caravana
+A caravana <color=#ffea8d>{1}</color> em {0} partiu.
+A caravana <color=#ffea8d>{1}</color> em {0} partiu, com um total de {2} grupos.
+Coracao Partido e Desesperado
+{0} esta de coracao partido ao deixar a Vila Taiwu...
 
-Desastre Natural Impiedoso  
-Ha rumores de um terrível desastre natural em {0}, <color=#red> {1} </color> pessoas morreram e <color=#red> {2} </color> locais foram destruídos pelo desastre!  
+Desastre Natural Impiedoso
+Ha rumores de um terrível desastre natural em {0}, <color=#red> {1} </color> pessoas morreram e <color=#red> {2} </color> locais foram destruídos pelo desastre!
 
-Última Despedida  
-{0} vagamente, em um sonho, viu o falecido {1} apontando na direcao de {2}, como se tivesse muito a dizer a {0}, mas yin e yang estao separados, vida e morte sao diferentes, a voz nao se comunica. Após um longo tempo, {1} apenas se afastou na direcao apontada.  
+Última Despedida
+{0} vagamente, em um sonho, viu o falecido {1} apontando na direcao de {2}, como se tivesse muito a dizer a {0}, mas yin e yang estao separados, vida e morte sao diferentes, a voz nao se comunica. Após um longo tempo, {1} apenas se afastou na direcao apontada.
 
-Dissipacao de Poder  
-O poder acumulado da técnica de {0} dissipou-se completamente...  
+Dissipacao de Poder
+O poder acumulado da técnica de {0} dissipou-se completamente...
 
-Devastacao  
-{0} em {1} desabou em ruínas, e um enorme demônio emergiu das ruínas da Vila Taiwu!  
+Devastacao
+{0} em {1} desabou em ruínas, e um enorme demônio emergiu das ruínas da Vila Taiwu!
 
-Bambu Misterioso  
-Um bambu roxo apareceu próximo à Vila Taiwu, crescendo sobre uma pedra negra. Ninguém sabe de onde veio a pedra negra, nem de onde veio o bambu roxo...  
+Bambu Misterioso
+Um bambu roxo apareceu próximo à Vila Taiwu, crescendo sobre uma pedra negra. Ninguém sabe de onde veio a pedra negra, nem de onde veio o bambu roxo...
 
-Classico Precioso Apareceu  
-{0} em {1} obteve o tesouro perdido {2}.  
+Classico Precioso Apareceu
+{0} em {1} obteve o tesouro perdido {2}.
 
-Fracasso da Alianca  
-Devido à incapacidade das figuras-chave das varias seitas de se reunirem, o Torneio Mundial de Artes Marciais nao foi realizado com sucesso no final...  
+Fracasso da Alianca
+Devido à incapacidade das figuras-chave das varias seitas de se reunirem, o Torneio Mundial de Artes Marciais nao foi realizado com sucesso no final...
 
-Preparativos para a Alianca  
-Todos se unem com o objetivo comum de ajudar Taiwu! As seitas de jianghu estao ativamente se preparando para o Torneio Mundial de Artes Marciais...  
+Preparativos para a Alianca
+Todos se unem com o objetivo comum de ajudar Taiwu! As seitas de jianghu estao ativamente se preparando para o Torneio Mundial de Artes Marciais...
 
-O Torneio Mundial de Artes Marciais  
-O Torneio Mundial de Artes Marciais esta sendo realizado em {0} com grande entusiasmo, e figuras importantes de varias seitas estao se reunindo para participar do grandioso evento...  
+O Torneio Mundial de Artes Marciais
+O Torneio Mundial de Artes Marciais esta sendo realizado em {0} com grande entusiasmo, e figuras importantes de varias seitas estao se reunindo para participar do grandioso evento...
 
-Aikikawa Tira Vidas  
-Em {0}, {1} pessoas morreram lutando contra os demônios e o caos...  
+Aikikawa Tira Vidas
+Em {0}, {1} pessoas morreram lutando contra os demônios e o caos...
 
-Notícias Obtidas  
-Ouvi Novas Notícias: {0}  
+Notícias Obtidas
+Ouvi Novas Notícias: {0}
 
-Segredos Obtidos  
-Ouvi Novo Segredo: {0}  
+Segredos Obtidos
+Ouvi Novo Segredo: {0}
 
-Segredo Expirara em Breve  
-O segredo expirara em: {0}...  
+Segredo Expirara em Breve
+O segredo expirara em: {0}...
 
-Segredo Expirado  
-Segredo Expirado: {0}...  
+Segredo Expirado
+Segredo Expirado: {0}...
 
-Pessoa Estranha Apareceu  
-Chamando Taiwu: Uma pessoa estranha apareceu no mundo, todos estao chamando {0} para retornar à Vila Taiwu...  
+Pessoa Estranha Apareceu
+Chamando Taiwu: Uma pessoa estranha apareceu no mundo, todos estao chamando {0} para retornar à Vila Taiwu...
 
-Retorno com Festival  
-O tempo nao tem arrependimentos. Após trinta anos de provacoes e tribulacoes, o bando de cha e cavalos surpreendentemente retornou à Vila Taiwu...  
+Retorno com Festival
+O tempo nao tem arrependimentos. Após trinta anos de provacoes e tribulacoes, o bando de cha e cavalos surpreendentemente retornou à Vila Taiwu...
 
-Notícias Nebulosas  
+Notícias Nebulosas
 Por algum motivo, as caravanas de cha perderam contato com a Vila Taiwu...
 
-Retorno do Oeste  
-A gangue de cha e cavalos retornou à Vila Taiwu sem incidentes...  
+Retorno do Oeste
+A gangue de cha e cavalos retornou à Vila Taiwu sem incidentes...
 
-Ganhar prestígio  
-A medida que as notícias secretas de {0} se espalhavam, {0} ganhou {1} de prestígio...  
+Ganhar prestígio
+A medida que as notícias secretas de {0} se espalhavam, {0} ganhou {1} de prestígio...
 
-Voce esta em {0} se preparando para uma partida prestigiada que reuniu convidados!  
+Voce esta em {0} se preparando para uma partida prestigiada que reuniu convidados!
 
-Competicao da Seita  
+Competicao da Seita
 Rumores dizem que {0} esta organizando uma reuniao de discípulos para uma competicao de seitas...
 
-Ir para longe  
-Ouvi dizer que {0} ha uma disputa entre seitas, e parece estar relacionada a "Taiwu"...  
+Ir para longe
+Ouvi dizer que {0} ha uma disputa entre seitas, e parece estar relacionada a "Taiwu"...
 
-Tesouro da Natureza  
-Após ouvir sobre um desastre natural, {0} um tesouro estrangeiro desce...  
+Tesouro da Natureza
+Após ouvir sobre um desastre natural, {0} um tesouro estrangeiro desce...
 
-Os Guerreiros Defendem o Caminho  
-Ao ouvir que {0} ha pessoas de coracoes perdidos que caíram no caminho demoníaco de XiangShu, muitos justos no jianghu estao tentando livrar-se dessa praga!  
+Os Guerreiros Defendem o Caminho
+Ao ouvir que {0} ha pessoas de coracoes perdidos que caíram no caminho demoníaco de XiangShu, muitos justos no jianghu estao tentando livrar-se dessa praga!
 
-O grupo de mendigos para ver e ouvir  
+O grupo de mendigos para ver e ouvir
 {0} em {1} em nome de {2} registrou {3} bisbilhotando para obter os insights... 
 
-Receita do acampamento  
-{0} coletou {3} receita recente de {4} prata em {1} em nome de {2}...  
+Receita do acampamento
+{0} coletou {3} receita recente de {4} prata em {1} em nome de {2}...
 
-Parada na Montanha  
+Parada na Montanha
 Em {2}, {0} recebeu {4} fornecido por {3} em nome de {1}...
 
-O Mal Levanta o Tiranete  
-{0} supervisiona {3} para proclamar prestígio em {1}, de modo que {2} ganhe {4} de prestígio...  
+O Mal Levanta o Tiranete
+{0} supervisiona {3} para proclamar prestígio em {1}, de modo que {2} ganhe {4} de prestígio...
 
-Reuniao da retidao para eliminar o mal  
+Reuniao da retidao para eliminar o mal
 {0} ajudou {3} em {1} a lidar com os viloes, de modo que {2} ganhou {4} de experiencia...
 
-Ajudando os necessitados  
-{0} ajudou {3} em {1} a lidar com a disputa na selva, de modo que {2} ganhou {4}% de favor regional...  
+Ajudando os necessitados
+{0} ajudou {3} em {1} a lidar com a disputa na selva, de modo que {2} ganhou {4}% de favor regional...
 
-Vagas na equipe  
+Vagas na equipe
 {0} infelizmente morreu enquanto gerenciava {2} de {1} e nao pode mais continuar trabalhando para {3}...
 
-Resgate da Casa de Pedra  
+Resgate da Casa de Pedra
 Ouvi dizer que {1} que havia caído no caminho demoníaco foi enviado para {0} para ser aprisionado na Casa de Pedra...
 Ouvi dizer que muitos que caíram no caminho demoníaco foram enviados para a Casa de Pedra em {0} para serem aprisionados...
-A caravana esta perdida  
+A caravana esta perdida
 A caravana de cha partiu da Vila Taiwu, mas se perdeu, levando a uma queda na Reputacao...
 
-Miragem  
-A caravana de cha partiu da Vila Taiwu e testemunhou uma miragem, aumentando a Reputacao...  
+Miragem
+A caravana de cha partiu da Vila Taiwu e testemunhou uma miragem, aumentando a Reputacao...
 
-Descobrir Selvagem  
-A caravana de cha partiu da Vila Taiwu e descobriu um selvagem, aumentando a Reputacao...  
+Descobrir Selvagem
+A caravana de cha partiu da Vila Taiwu e descobriu um selvagem, aumentando a Reputacao...
 
-Descobrir Plantas  
-A caravana de cha partiu da Vila Taiwu e descobriu uma planta rara, aumentando a Reputacao...  
+Descobrir Plantas
+A caravana de cha partiu da Vila Taiwu e descobriu uma planta rara, aumentando a Reputacao...
 
-Descobrir Animais  
-A caravana de cha partiu da Vila Taiwu e descobriu um animal raro, aumentando a Reputacao...  
+Descobrir Animais
+A caravana de cha partiu da Vila Taiwu e descobriu um animal raro, aumentando a Reputacao...
 
-Relatar de Volta  
-A caravana de cha partiu da Vila Taiwu e relatou suas experiencias, aumentando a Reputacao...  
+Relatar de Volta
+A caravana de cha partiu da Vila Taiwu e relatou suas experiencias, aumentando a Reputacao...
 
-Descobrir um assentamento  
-A caravana de cha partiu da Vila Taiwu e descobriu um assentamento, aumentando a Reputacao...  
+Descobrir um assentamento
+A caravana de cha partiu da Vila Taiwu e descobriu um assentamento, aumentando a Reputacao...
 
-Ler o clima  
-A caravana de cha partiu da Vila Taiwu e encontrou um clima raramente visto, aumentando a Reputacao...  
+Ler o clima
+A caravana de cha partiu da Vila Taiwu e encontrou um clima raramente visto, aumentando a Reputacao...
 
-Destrocos da Caravana  
-A gangue de cha e cavalos da Vila Taiwu encontrou os restos da caravana e obteve alguns bens...  
+Destrocos da Caravana
+A gangue de cha e cavalos da Vila Taiwu encontrou os restos da caravana e obteve alguns bens...
 
-Ajudar alguns viajantes  
-As gangues de cha e cavalos da Vila Taiwu ajudaram os viajantes, resultando na reducao de suprimentos...  
+Ajudar alguns viajantes
+As gangues de cha e cavalos da Vila Taiwu ajudaram os viajantes, resultando na reducao de suprimentos...
 
-Obter assistencia  
-As gangues de cha e cavalos da Vila Taiwu receberam assistencia e aumentaram os suprimentos...  
+Obter assistencia
+As gangues de cha e cavalos da Vila Taiwu receberam assistencia e aumentaram os suprimentos...
 
-Jogo Selvagem Ocasional  
-As gangues de cha e cavalos da Vila Taiwu encontraram caca e aumentaram os suprimentos...  
+Jogo Selvagem Ocasional
+As gangues de cha e cavalos da Vila Taiwu encontraram caca e aumentaram os suprimentos...
 
-Descobrir frutas da floresta  
-A gangue de cha e cavalos da Vila Taiwu encontrou uma floresta frutífera e pôde buscar suprimentos...  
+Descobrir frutas da floresta
+A gangue de cha e cavalos da Vila Taiwu encontrou uma floresta frutífera e pôde buscar suprimentos...
 
-Descobrir uma vila  
-A gangue de cha e cavalos da Vila Taiwu encontrou a vila e pôde trocar suprimentos...  
+Descobrir uma vila
+A gangue de cha e cavalos da Vila Taiwu encontrou a vila e pôde trocar suprimentos...
 
-Encontrar uma caravana  
-As gangues de cha e cavalos da Vila Taiwu encontram comerciantes na estrada e podem trocar suprimentos...  
+Encontrar uma caravana
+As gangues de cha e cavalos da Vila Taiwu encontram comerciantes na estrada e podem trocar suprimentos...
 
-Encontrar ladroes  
-A gangue de cha e cavalos da Vila Taiwu encontrou ladroes e perdeu alguns de seus bens...  
+Encontrar ladroes
+A gangue de cha e cavalos da Vila Taiwu encontrou ladroes e perdeu alguns de seus bens...
 
-Bater em um buraco  
-A gangue de cha e cavalos da Vila Taiwu teve um caminho acidentado e perdeu uma pequena quantidade de bens...  
+Bater em um buraco
+A gangue de cha e cavalos da Vila Taiwu teve um caminho acidentado e perdeu uma pequena quantidade de bens...
 
-Mau tempo  
-As gangues de cha e cavalos da Vila Taiwu ficaram submersas, resultando na reducao de suprimentos...  
+Mau tempo
+As gangues de cha e cavalos da Vila Taiwu ficaram submersas, resultando na reducao de suprimentos...
 
-Falta de reabastecimento  
-Chegou notícia de longe que a gangue de cha e cavalos da Vila Taiwu nao tinha mais suprimentos suficientes para completar a viagem e o grupo estava morrendo...  
+Falta de reabastecimento
+Chegou notícia de longe que a gangue de cha e cavalos da Vila Taiwu nao tinha mais suprimentos suficientes para completar a viagem e o grupo estava morrendo...
 
-No fim da vida  
-{0} esta ficando cada vez mais magro e parece estar à beira da morte...  
+No fim da vida
+{0} esta ficando cada vez mais magro e parece estar à beira da morte...
 
-Desaparecimento da Toca  
+Desaparecimento da Toca
 O {1} de {0} foi extinto...
 
 Notícia Secreta Pública
@@ -856,158 +856,158 @@ A Seita Vajrayana esta cacando e saqueando monges das Regioes Ocidentais sem pie
 Adorando Buda
 Enquanto os rumores se espalham entre as pessoas, a reputacao dos monges eminentes das Regioes Ocidentais tornou-se amplamente conhecida, e a admiracao por eles aumenta a cada dia...
 
-Monge Eminente Propaga o Budismo  
-Os monges eminentes das Regioes Ocidentais, gratos pela bondade de {0}, montaram um altar de pregacao em {1}, espalhando os ensinamentos e promovendo os atos virtuosos de {0}...  
+Monge Eminente Propaga o Budismo
+Os monges eminentes das Regioes Ocidentais, gratos pela bondade de {0}, montaram um altar de pregacao em {1}, espalhando os ensinamentos e promovendo os atos virtuosos de {0}...
 
-Anfitriao Morreu  
-Como o anfitriao de {0} morreu em {1}, ele escapou do corpo de {2} e adormeceu no túmulo. Talvez voce possa desenterra-lo...  
+Anfitriao Morreu
+Como o anfitriao de {0} morreu em {1}, ele escapou do corpo de {2} e adormeceu no túmulo. Talvez voce possa desenterra-lo...
 
-Rei Gu Morreu  
-O {1} no corpo de {0} chegou ao fim de sua vida e morreu, tendo seus restos digeridos pelos cinco órgaos internos, prejudicando os atributos do anfitriao...  
+Rei Gu Morreu
+O {1} no corpo de {0} chegou ao fim de sua vida e morreu, tendo seus restos digeridos pelos cinco órgaos internos, prejudicando os atributos do anfitriao...
 
-O {1} no corpo de {0} chegou ao fim de sua vida e morreu...  
+O {1} no corpo de {0} chegou ao fim de sua vida e morreu...
 
-Monge Desconhecido Fica Famoso  
-Um monge desconhecido interpretou mal as escrituras e saiu pregando por todos os lados, inesperadamente ganhando muitos seguidores. Nao apenas sua reputacao disparou, mas ele também coletou uma quantia consideravel de ofertas e doacoes...  
+Monge Desconhecido Fica Famoso
+Um monge desconhecido interpretou mal as escrituras e saiu pregando por todos os lados, inesperadamente ganhando muitos seguidores. Nao apenas sua reputacao disparou, mas ele também coletou uma quantia consideravel de ofertas e doacoes...
 
-Alma Divina  
-Um monge usando vestes emprestadas apareceu na Vila Taiwu, vagando perto da plataforma de reencarnacao, e desde entao passou a residir na vila...  
+Alma Divina
+Um monge usando vestes emprestadas apareceu na Vila Taiwu, vagando perto da plataforma de reencarnacao, e desde entao passou a residir na vila...
 
-Veneno do Coracao dos Cinco Santos  
-{0} praticou o Veneno do Coracao dos Cinco Santos, abrigando uma tristeza profunda, que acabou permitindo a infiltracao da toxicidade no corpo...  
+Veneno do Coracao dos Cinco Santos
+{0} praticou o Veneno do Coracao dos Cinco Santos, abrigando uma tristeza profunda, que acabou permitindo a infiltracao da toxicidade no corpo...
 
-Povo Comum Foge  
-Os moradores que sofrem na Montanha Kunlun, incapazes de suportar a opressao da Seita Vajrayana, fugiram um após o outro, profundamente gratos pela bondade de {0} em aliviar seu sofrimento...  
+Povo Comum Foge
+Os moradores que sofrem na Montanha Kunlun, incapazes de suportar a opressao da Seita Vajrayana, fugiram um após o outro, profundamente gratos pela bondade de {0} em aliviar seu sofrimento...
 
-Competicao das Tres Seitas  
-Depois de muitos anos, a Competicao das Tres Seitas finalmente sera realizada novamente em Ranshan...  
+Competicao das Tres Seitas
+Depois de muitos anos, a Competicao das Tres Seitas finalmente sera realizada novamente em Ranshan...
 
-Abandonou o Manual Lendario  
-{0} e Huaju discutiram sobre o passado e o presente, conversando sobre diversos assuntos e definindo grandes ambicoes. Eles tomaram a decisao de abandonar {1} em {2}, nao mais se apegando a ele. Como resultado, o Manual Lendario voltou ao mundo, com seu paradeiro desconhecido...  
+Abandonou o Manual Lendario
+{0} e Huaju discutiram sobre o passado e o presente, conversando sobre diversos assuntos e definindo grandes ambicoes. Eles tomaram a decisao de abandonar {1} em {2}, nao mais se apegando a ele. Como resultado, o Manual Lendario voltou ao mundo, com seu paradeiro desconhecido...
 
-{0} seguiu Xuanzhi, atravessando montanhas e rios, mergulhando na poesia, vinho e no mundo dos heróis. Logo depois, eles abandonaram {1} em {2}, nao mais se apegando a ele. Como resultado, o Manual Lendario voltou ao mundo, com seu paradeiro desconhecido...  
+{0} seguiu Xuanzhi, atravessando montanhas e rios, mergulhando na poesia, vinho e no mundo dos heróis. Logo depois, eles abandonaram {1} em {2}, nao mais se apegando a ele. Como resultado, o Manual Lendario voltou ao mundo, com seu paradeiro desconhecido...
 
-O coracao de {0} estava completamente encantado, devotado inteiramente a Yingjiao, arriscando tudo por ela. Por acaso, eles abandonaram {1} em {2}, nao mais se apegando a ele. Como resultado, o Manual Lendario voltou ao mundo, com seu paradeiro desconhecido...  
+O coracao de {0} estava completamente encantado, devotado inteiramente a Yingjiao, arriscando tudo por ela. Por acaso, eles abandonaram {1} em {2}, nao mais se apegando a ele. Como resultado, o Manual Lendario voltou ao mundo, com seu paradeiro desconhecido...
 
-{0} passou varios dias com Huaju, mas nao largava {1}. Huaju teve que retornar de maos vazias em pouco tempo...  
+{0} passou varios dias com Huaju, mas nao largava {1}. Huaju teve que retornar de maos vazias em pouco tempo...
 
-{0} passou varios dias com Xuanzhi, mas nao largava {1}. Xuanzhi teve que retornar de maos vazias em pouco tempo...  
+{0} passou varios dias com Xuanzhi, mas nao largava {1}. Xuanzhi teve que retornar de maos vazias em pouco tempo...
 
-{0} passou varios dias com Yingjiao, mas nao largava {1}. Yingjiao teve que retornar de maos vazias em pouco tempo...  
+{0} passou varios dias com Yingjiao, mas nao largava {1}. Yingjiao teve que retornar de maos vazias em pouco tempo...
 
-Huaju notou que {0} nao estava mais obcecado por {1} e, após uma breve conversa, voltou...  
+Huaju notou que {0} nao estava mais obcecado por {1} e, após uma breve conversa, voltou...
 
-Xuanzhi notou que {0} nao estava mais obcecado por {1} e, após uma breve conversa, voltou...  
+Xuanzhi notou que {0} nao estava mais obcecado por {1} e, após uma breve conversa, voltou...
 
-Yingjiao notou que {0} nao estava mais obcecado por {1} e, após uma breve conversa, voltou...  
+Yingjiao notou que {0} nao estava mais obcecado por {1} e, após uma breve conversa, voltou...
 
-Huaju notou que o paradeiro de {0} era desconhecido e nao teve escolha senao voltar...  
+Huaju notou que o paradeiro de {0} era desconhecido e nao teve escolha senao voltar...
 
-Xuanzhi notou que o paradeiro de {0} era desconhecido e nao teve escolha senao voltar...  
+Xuanzhi notou que o paradeiro de {0} era desconhecido e nao teve escolha senao voltar...
 
-Yingjiao notou que o paradeiro de {0} era desconhecido e nao teve escolha senao voltar...  
+Yingjiao notou que o paradeiro de {0} era desconhecido e nao teve escolha senao voltar...
 
-Oito Vidas e Oito Mortes  
-Devido ao efeito da técnica Oito Vidas e Oito Mortes, a Saúde de {0} foi restaurada...  
+Oito Vidas e Oito Mortes
+Devido ao efeito da técnica Oito Vidas e Oito Mortes, a Saúde de {0} foi restaurada...
 
-Devido ao efeito da técnica Oito Vidas e Oito Mortes, a Saúde de {0} foi prejudicada...  
+Devido ao efeito da técnica Oito Vidas e Oito Mortes, a Saúde de {0} foi prejudicada...
 
-Arrancando Coracoes  
-Diz-se que crimes violentos estao ocorrendo frequentemente em varias regioes. O culpado estaria ativo em {0}, atacando vítimas e tentando mata-las enquanto rouba seus coracoes, deixando todos aterrorizados...  
+Arrancando Coracoes
+Diz-se que crimes violentos estao ocorrendo frequentemente em varias regioes. O culpado estaria ativo em {0}, atacando vítimas e tentando mata-las enquanto rouba seus coracoes, deixando todos aterrorizados...
 
-Destruindo Mentes  
-Rumores dizem que acontecimentos estranhos estao ocorrendo em varias regioes. Ninguém sabe qual monstro maligno esta causando esses incidentes, destruindo mentes em {0}, deixando todos aterrorizados...  
+Destruindo Mentes
+Rumores dizem que acontecimentos estranhos estao ocorrendo em varias regioes. Ninguém sabe qual monstro maligno esta causando esses incidentes, destruindo mentes em {0}, deixando todos aterrorizados...
 
-Ataque de Aguia Gigante  
+Ataque de Aguia Gigante
 Recentemente, os céus próximos à Vila Taiwu estao cheios de aguias planando. Parece que passaros ferozes estao causando problemas repetidamente, ferindo a Coruja Negra...
 
-Uivos de Feras  
-Recentemente, perto da Vila Taiwu, é possível ouvir uivos assustadores e gritos fantasmagóricos. Parece que ha feras ferozes vagando por la, assustando os Cervos Brancos e os deixando vivendo em constante medo…  
+Uivos de Feras
+Recentemente, perto da Vila Taiwu, é possível ouvir uivos assustadores e gritos fantasmagóricos. Parece que ha feras ferozes vagando por la, assustando os Cervos Brancos e os deixando vivendo em constante medo…
 
-Doenca em Todos os Lugares  
-De repente, uma estranha fumaca negra apareceu em {0}. Dizem que qualquer um que entrar em contato com a fumaca negra logo sofrera de uma misteriosa doenca de loucura. O Vale das Cem Flores soube disso e ja enviou seus discípulos para investigar e fornecer tratamento médico...  
+Doenca em Todos os Lugares
+De repente, uma estranha fumaca negra apareceu em {0}. Dizem que qualquer um que entrar em contato com a fumaca negra logo sofrera de uma misteriosa doenca de loucura. O Vale das Cem Flores soube disso e ja enviou seus discípulos para investigar e fornecer tratamento médico...
 
-Invasao de Qi da Morte  
-De repente, uma fumaca negra densa e pesada apareceu em {0}. Dizem que qualquer um que entrar em contato com a fumaca negra logo sofrera de uma misteriosa doenca de loucura. O Vale das Cem Flores soube disso e ja enviou seus discípulos para investigar e fornecer tratamento médico...  
+Invasao de Qi da Morte
+De repente, uma fumaca negra densa e pesada apareceu em {0}. Dizem que qualquer um que entrar em contato com a fumaca negra logo sofrera de uma misteriosa doenca de loucura. O Vale das Cem Flores soube disso e ja enviou seus discípulos para investigar e fornecer tratamento médico...
 
-Harmonia Celestial  
-Ao operar {0}, inesperadamente experimentou uma súbita conexao entre o céu e o homem...  
+Harmonia Celestial
+Ao operar {0}, inesperadamente experimentou uma súbita conexao entre o céu e o homem...
 
-Qi Vital dos Cinco Elementos  
+Qi Vital dos Cinco Elementos
 As transformacoes da essencia vital dos cinco elementos resultantes da técnica Oito Vidas e Oito Mortes ja ocorreram. Isso levou a mudancas nos atributos daqueles envolvidos…
 
-Coleta de Recursos  
-A coleta de {0} de {1} foi concluída.  
+Coleta de Recursos
+A coleta de {0} de {1} foi concluída.
 
-Ritual do Dragao Submisso  
-Recentemente, a Ilha Chiming tem sido assolada por desastres naturais estranhos. No altar do Dragao Submisso, todos dizem que é um sinal celestial de boa sorte, e para convocar o verdadeiro dragao para o mundo, comecaram a preparar um grande ritual…  
+Ritual do Dragao Submisso
+Recentemente, a Ilha Chiming tem sido assolada por desastres naturais estranhos. No altar do Dragao Submisso, todos dizem que é um sinal celestial de boa sorte, e para convocar o verdadeiro dragao para o mundo, comecaram a preparar um grande ritual…
 
-Penas Caindo  
-{0} esta triste, pois perdeu uma das penas mais belas…  
+Penas Caindo
+{0} esta triste, pois perdeu uma das penas mais belas…
 
-Preparando o Mercado de Primavera  
-O ano velho se foi, e o novo festival se aproxima. Daqui a {0} meses, sera a reuniao de Ano Novo, e os comerciantes de todas as regioes estao se preparando para o evento…  
+Preparando o Mercado de Primavera
+O ano velho se foi, e o novo festival se aproxima. Daqui a {0} meses, sera a reuniao de Ano Novo, e os comerciantes de todas as regioes estao se preparando para o evento…
 
-Preparando o Torneio de Artes Marciais  
-O dia encurta e a energia solar aumenta. Heróis das artes marciais de todo o mundo se reunirao em {0}, e em {1} meses, o {2} sera realizado aqui…  
+Preparando o Torneio de Artes Marciais
+O dia encurta e a energia solar aumenta. Heróis das artes marciais de todo o mundo se reunirao em {0}, e em {1} meses, o {2} sera realizado aqui…
 
-Preparando o Torneio de Grilos  
-Com o som dos grilos, o tempo passa rapidamente, e o Torneio de Grilos, que acontece a cada tres anos, sera realizado em {0} daqui a {1} meses!  
+Preparando o Torneio de Grilos
+Com o som dos grilos, o tempo passa rapidamente, e o Torneio de Grilos, que acontece a cada tres anos, sera realizado em {0} daqui a {1} meses!
 
-Preparando o Torneio de Habilidades  
-O calor da lugar ao frio, e a vida se renova. Os melhores artistas se reunirăo em {0}, e em {1} meses, o {2} sera realizado aqui…  
+Preparando o Torneio de Habilidades
+O calor da lugar ao frio, e a vida se renova. Os melhores artistas se reunirăo em {0}, e em {1} meses, o {2} sera realizado aqui…
 
-Preparando a Competicao de Artes Marciais entre Faccoes  
-Dizem que {0} realizara a competicao de artes marciais entre faccoes em {1} meses, onde os discípulos das faccoes testarao o que aprenderam…  
+Preparando a Competicao de Artes Marciais entre Faccoes
+Dizem que {0} realizara a competicao de artes marciais entre faccoes em {1} meses, onde os discípulos das faccoes testarao o que aprenderam…
 
-Preparando o Torneio de Artes Marciais para Casamento  
-Ouvi dizer que {0} tem uma família nobre decadente procurando por um bom genro. Daqui a {1} meses, sera realizado um torneio de artes marciais para casamento na cidade…  
+Preparando o Torneio de Artes Marciais para Casamento
+Ouvi dizer que {0} tem uma família nobre decadente procurando por um bom genro. Daqui a {1} meses, sera realizado um torneio de artes marciais para casamento na cidade…
 
-Pessoa à Beira da Morte  
+Pessoa à Beira da Morte
 A pessoa {0} esta à beira da morte…
 
-Pessoa Gravemente Ferida  
-A condicao de {0} nao esta boa…  
+Pessoa Gravemente Ferida
+A condicao de {0} nao esta boa…
 
-Pessoa Presa  
-A pessoa {0} esta presa em algum lugar, aguardando resgate…  
+Pessoa Presa
+A pessoa {0} esta presa em algum lugar, aguardando resgate…
 
-Eliminando os Loucos  
-{0} foi interceptado por bandidos do Dragao Submisso em {1}, que tentaram extorquir oferendas, mas {0} os eliminou rapidamente…  
+Eliminando os Loucos
+{0} foi interceptado por bandidos do Dragao Submisso em {1}, que tentaram extorquir oferendas, mas {0} os eliminou rapidamente…
 
-Sofrendo um Roubo  
-{0} foi interceptado por bandidos do Dragao Submisso em {1}, que tentaram extorquir oferendas. Como nao conseguiu resistir, foi roubado…  
-
-
-{0} foi interceptado por bandidos do Dragao Submisso em {1}, que tentaram roubar suas oferendas. Ele se entregou e entregou o tributo…  
+Sofrendo um Roubo
+{0} foi interceptado por bandidos do Dragao Submisso em {1}, que tentaram extorquir oferendas. Como nao conseguiu resistir, foi roubado…
 
 
-Separacao de Família  
-{0} deu à luz uma crianca na prisao de {1}, mas, sem condicoes de cuidar dela, teve que entrega-la ao parente {2}. Foi um momento de grande dor: separacao de sangue e lagrimas de sofrimento…  
+{0} foi interceptado por bandidos do Dragao Submisso em {1}, que tentaram roubar suas oferendas. Ele se entregou e entregou o tributo…
 
-{0} deu à luz uma crianca na prisao de {1}, mas, sem condicoes de cuidar dela, teve que entrega-la para {2} criar. Foi um momento de grande dor: separacao de sangue e lagrimas de sofrimento…  
 
-Falecimento  
-{0} faleceu enquanto estava preso em {1}…  
+Separacao de Família
+{0} deu à luz uma crianca na prisao de {1}, mas, sem condicoes de cuidar dela, teve que entrega-la ao parente {2}. Foi um momento de grande dor: separacao de sangue e lagrimas de sofrimento…
 
-{0} faleceu durante sua prisao em {1}, após ser assassinado pela seita Jueqing com um golpe traicoeiro…  
+{0} deu à luz uma crianca na prisao de {1}, mas, sem condicoes de cuidar dela, teve que entrega-la para {2} criar. Foi um momento de grande dor: separacao de sangue e lagrimas de sofrimento…
 
-{0} faleceu durante sua prisao em {1}, após ser atacado pela seita Jueqing…  
+Falecimento
+{0} faleceu enquanto estava preso em {1}…
 
-Como {0} estava preso e nao podia cuidar de {1}, teve que entrega-lo ao parente {2}, em um momento de grande dor: separacao de sangue e lagrimas de sofrimento…  
+{0} faleceu durante sua prisao em {1}, após ser assassinado pela seita Jueqing com um golpe traicoeiro…
 
-Como {0} estava preso e nao podia cuidar de {1}, teve que entrega-lo para {2} criar, em um momento de grande dor: separacao de sangue e lagrimas de sofrimento…  
+{0} faleceu durante sua prisao em {1}, após ser atacado pela seita Jueqing…
 
-Migracao de Recursos  
-{0} conseguiu completar a migracao após realizar trabalho arduo em {1}, e agora retorna a Taiwu com {2}…  
+Como {0} estava preso e nao podia cuidar de {1}, teve que entrega-lo ao parente {2}, em um momento de grande dor: separacao de sangue e lagrimas de sofrimento…
 
-O galinaceo de {0} enviou uma mensagem: durante uma conversa casual em {1}, ele soube de um segredo que {2} conhecia…  
+Como {0} estava preso e nao podia cuidar de {1}, teve que entrega-lo para {2} criar, em um momento de grande dor: separacao de sangue e lagrimas de sofrimento…
 
-Durante a guarda de {1}, {0} investigou discretamente e descobriu a situacao de {2}…  
+Migracao de Recursos
+{0} conseguiu completar a migracao após realizar trabalho arduo em {1}, e agora retorna a Taiwu com {2}…
 
-Chamas Celestiais se Apagam  
-As chamas celestiais da Ilha Chiming finalmente se extinguiram…  
+O galinaceo de {0} enviou uma mensagem: durante uma conversa casual em {1}, ele soube de um segredo que {2} conhecia…
 
-Saque do Dragao Submisso  
+Durante a guarda de {1}, {0} investigou discretamente e descobriu a situacao de {2}…
+
+Chamas Celestiais se Apagam
+As chamas celestiais da Ilha Chiming finalmente se extinguiram…
+
+Saque do Dragao Submisso
 Para garantir o nascimento do verdadeiro dragao, o altar do Dragao Submisso enviou emissarios para espalhar o poder do dragao e forcar os moradores a oferecerem tesouros para adora-lo…
 

@@ -435,7 +435,7 @@ Grande Beta
 
 
 Madame·B
-Senhor·Beta  
+Senhor·Beta
 Alfa Furioso
 
 
@@ -449,7 +449,7 @@ Senhor·PA
 Alfa Adormecido
 
 
-Madame·SA  
+Madame·SA
 Senhor·SA
 Leao Furioso
 
@@ -557,7 +557,7 @@ Manor·M
 
 
 Madame·M
-Senhor·Manor  
+Senhor·Manor
 M·Ferreiro
 
 
