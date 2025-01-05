@@ -10,27 +10,27 @@ EVA
 FOC
 Def. Ext.
 Def. Int.
-Recuperacao de Posicao
-Recuperacao de Inalacao
-MOV·Vel
-Recuperacao Ext.
-Velocidade de Lancamento
-Recuperacao Int.
+Recuperação de Postura
+Recuperação de Inspiração
+Vel. MOV
+Recuperação Ext.
+Velocidade de Conjuração
+Recuperação Int.
 CD de Troca de Arma
 Velocidade de Ataque
-Bonus de Razao Int.
-Respiracao Interna
-Res. a Acritoxina
-Res. a Umbritoxina
-Res. a Criotoxina
-Res. a Pirotoxina
-Res. a Necrotoxina
-Res. a Oneirotoxina
-Lesao Externa
-Lesao Interna
+Bônus de Proporção Int.
+Alma Interna
+Res. Acritoxina
+Res. Umbritoxina
+Res. Criotoxina
+Res. Pirot toxina
+Res. Necrotoxina
+Res. Onirotoxina
+Lesão Externa
+Lesão Interna
 Humor
-Quantidade de Verdadeira Qi Obtida
-Taxa de Recuperacao de Stamina
-Alcance de Ataque Mínimo
-Alcance de Ataque Maximo
+Quantidade de Qi Verdadeiro Obtido
+Taxa de Recuperação de Energia
+Alcance Mínimo de Ataque
+Alcance Máximo de Ataque
 Sete Instintos
