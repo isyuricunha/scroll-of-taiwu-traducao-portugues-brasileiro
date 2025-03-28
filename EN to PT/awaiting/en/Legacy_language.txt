@@ -1,0 +1,1049 @@
+Goddess Returns the Sword
+With the help of the divine power of <color=#orange>「Weaving of Mo Nyu」</color>, your heir will become <color=#lightblue>not afraid of poisons!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Suppressing Evil
+With the help of the divine power of <color=#orange>「Vanquish Evil」</color>, your heir's <color=#lightblue>Willpower will become greatly increased!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Chilling Qi
+With the help of the divine power of <color=#orange>「Glacial Vassal」</color>, your heir's <color=#lightblue>Vitality will become greatly increased!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Seven Wenceslas
+With the help of the divine power of <color=#orange>「Phoenix Cocoon」</color>, your heir's <color=#lightblue>Comprehension will become greatly increased!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Matchless Beauty
+With the help of the divine power of <color=#orange>「Spirit Smelting」</color>, your heir's <color=#lightblue>Charm will become greatly increased!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Dragonborn
+With the help of the divine power of <color=#orange>「Draconic Anima」</color>, your heir's <color=#lightblue>Constitution will become greatly increased!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Animator of Jade
+With the help of the divine power of <color=#orange>「Anchorite」</color>, your heir's <color=#lightblue>Agility will become greatly increased!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Eight-armed
+With the help of the divine power of <color=#orange>「Infernal Acerjail」</color>, your heir's <color=#lightblue>Strength will become greatly increased!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Celestial Edict
+With the help of the divine power of <color=#orange>「Wonderglow」</color>, your heir's <color=#lightblue>Lifespan will become greatly increased!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Inner Arts Stimulation
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Inner Arts talent by 1!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Footwork Stimulation
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Footwork talent by 1!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Stunt Stimulation
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Stunt talent by 1!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Fist Stimulation
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Fist talent by 1!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Finger Stimulation
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Finger talent by 1!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Kick Stimulation
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Kick talent by 1!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Hidden Weapons Stimulation
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Hidden Weapons talent by 1!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Sword Stimulation
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Sword talent by 1!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Blade Stimulation
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Blade talent by 1!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Polearm Stimulation
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Polearm talent by 1!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Exotic Weapons Stimulation
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Exotic Weapons talent by 1!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Soft Weapons Stimulation
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Soft Weapons talent by 1!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Ranged Weapons Stimulation
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Ranged Weapons talent by 1!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Melody Stimulation
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Melody talent by 1!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Music Stimulation
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Music talent by 1!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Chess Stimulation
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Chess talent by 1!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Literature Stimulation
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Literature talent by 1!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Painting Stimulation
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Painting talent by 1!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Astrology Stimulation
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Astrology talent by 1!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Appreciation Stimulation
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Appreciation talent by 1!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Smithing Stimulation
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Smithing talent by 1!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Carpentry Stimulation
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Carpentry talent by 1!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Medicine Stimulation
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Medicine talent by 1!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Toxicology Stimulation
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Toxicology talent by 1!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Weaving Stimulation
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Weaving talent by 1!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Gemcutting Stimulation
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Gemcutting talent by 1!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Taoism Stimulation
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Taoism talent by 1!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Buddhism Stimulation
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Buddhism talent by 1!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Culinary Arts Stimulation
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Culinary Arts talent by 1!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Lore Stimulation
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Lore talent by 1!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Inner Arts talent by 2!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Footwork talent by 2!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Stunt talent by 2!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Fist talent by 2!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Finger talent by 2!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Kick talent by 2!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Hidden Weapons talent by 2!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Sword talent by 2!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Blade talent by 2!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Polearm talent by 2!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Exotic Weapons talent by 2!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Soft Weapons talent by 2!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Ranged Weapons talent by 2!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Melody talent by 2!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Music talent by 2!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Chess talent by 2!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Literature talent by 2!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Painting talent by 2!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Astrology talent by 2!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Appreciation talent by 2!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Smithing talent by 2!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Carpentry talent by 2!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Medicine talent by 2!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Toxicology talent by 2!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Weaving talent by 2!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Gemcutting talent by 2!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Taoism talent by 2!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Buddhism talent by 2!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Culinary Arts talent by 2!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Lore talent by 2!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Inner Arts talent by 3!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Footwork talent by 3!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Stunt talent by 3!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Fist talent by 3!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Finger talent by 3!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Kick talent by 3!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Hidden Weapons talent by 3!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Sword talent by 3!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Blade talent by 3!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Polearm talent by 3!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Exotic Weapons talent by 3!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Soft Weapons talent by 3!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Ranged Weapons talent by 3!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Melody talent by 3!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Music talent by 3!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Chess talent by 3!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Literature talent by 3!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Painting talent by 3!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Astrology talent by 3!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Appreciation talent by 3!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Smithing talent by 3!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Carpentry talent by 3!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Medicine talent by 3!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Toxicology talent by 3!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Weaving talent by 3!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Gemcutting talent by 3!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Taoism talent by 3!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Buddhism talent by 3!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Culinary Arts talent by 3!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Lore talent by 3!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Inner Arts talent by 4!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Footwork talent by 4!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Stunt talent by 4!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Fist talent by 4!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Finger talent by 4!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Kick talent by 4!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Hidden Weapons talent by 4!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Sword talent by 4!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Blade talent by 4!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Polearm talent by 4!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Exotic Weapons talent by 4!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Soft Weapons talent by 4!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Ranged Weapons talent by 4!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Melody talent by 4!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Music talent by 4!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Chess talent by 4!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Literature talent by 4!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Painting talent by 4!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Astrology talent by 4!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Appreciation talent by 4!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Smithing talent by 4!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Carpentry talent by 4!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Medicine talent by 4!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Toxicology talent by 4!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Weaving talent by 4!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Gemcutting talent by 4!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Taoism talent by 4!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Buddhism talent by 4!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Culinary Arts talent by 4!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Lore talent by 4!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Inner Arts talent by 5!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Footwork talent by 5!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Stunt talent by 5!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Fist talent by 5!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Finger talent by 5!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Kick talent by 5!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Hidden Weapons talent by 5!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Sword talent by 5!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Blade talent by 5!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Polearm talent by 5!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Exotic Weapons talent by 5!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Soft Weapons talent by 5!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Ranged Weapons talent by 5!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Melody talent by 5!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Music talent by 5!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Chess talent by 5!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Literature talent by 5!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Painting talent by 5!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Astrology talent by 5!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Appreciation talent by 5!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Smithing talent by 5!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Carpentry talent by 5!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Medicine talent by 5!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Toxicology talent by 5!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Weaving talent by 5!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Gemcutting talent by 5!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Taoism talent by 5!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Buddhism talent by 5!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Culinary Arts talent by 5!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Lore talent by 5!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Abandon Inner Arts
+Decrease your heir's <color=#brightred>Inner Arts talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Abandon Footwork
+Decrease your heir's <color=#brightred>Footwork talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Abandon Stunt
+Decrease your heir's <color=#brightred>Stunt talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Abandon Fist
+Decrease your heir's <color=#brightred>Fist talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Abandon Finger
+Decrease your heir's <color=#brightred>Finger talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Abandon Kick
+Decrease your heir's <color=#brightred>Kick talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Abandon Hidden Weapons
+Decrease your heir's <color=#brightred>Hidden Weapons talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Abandon Sword
+Decrease your heir's <color=#brightred>Sword talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Abandon Blade
+Decrease your heir's <color=#brightred>Blade talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Abandon Polearm
+Decrease your heir's <color=#brightred>Polearm talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Abandon Exotic Weapons
+Decrease your heir's <color=#brightred>Exotic Weapons talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Abandon Soft Weapons
+Decrease your heir's <color=#brightred>Soft Weapons talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Abandon Ranged Weapons
+Decrease your heir's <color=#brightred>Ranged Weapons talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Abandon Melody
+Decrease your heir's <color=#brightred>Melody talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Abandon Music
+Decrease your heir's <color=#brightred>Music talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Abandon Chess
+Decrease your heir's <color=#brightred>Chess talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Abandon Literature
+Decrease your heir's <color=#brightred>Literature talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Abandon Painting
+Decrease your heir's <color=#brightred>Painting talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Abandon Astrology
+Decrease your heir's <color=#brightred>Astrology talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Abandon Appreciation
+Decrease your heir's <color=#brightred>Appreciation talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Abandon Smithing
+Decrease your heir's <color=#brightred>Smithing talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Abandon Carpentry
+Decrease your heir's <color=#brightred>Carpentry talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Abandon Medicine
+Decrease your heir's <color=#brightred>Medicine talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Abandon Toxicology
+Decrease your heir's <color=#brightred>Toxicology talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Abandon Weaving
+Decrease your heir's <color=#brightred>Weaving talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Abandon Gemcutting
+Decrease your heir's <color=#brightred>Gemcutting talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Abandon Taoism
+Decrease your heir's <color=#brightred>Taoism talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Abandon Buddhism
+Decrease your heir's <color=#brightred>Buddhism talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Abandon Culinary Arts
+Decrease your heir's <color=#brightred>Culinary Arts talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Abandon Lore
+Decrease your heir's <color=#brightred>Lore talent by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Inner Arts talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Footwork talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Stunt talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Fist talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Finger talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Kick talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Hidden Weapons talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Sword talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Blade talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Polearm talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Exotic Weapons talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Soft Weapons talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Ranged Weapons talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Melody talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Music talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Chess talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Literature talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Painting talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Astrology talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Appreciation talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Smithing talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Carpentry talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Medicine talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Toxicology talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Weaving talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Gemcuttingtalent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Taoism talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Buddhism talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Culinary Arts talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Lore talent by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Inner Arts talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Footwork talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Stunt talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Fist talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Finger talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Kick talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Hidden Weapons talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Sword talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Blade talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Polearm talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Exotic Weapons talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Soft Weapons talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Ranged Weapons talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Melody talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Music talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Chess talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Literature talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Painting talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Astrologytalent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Appreciation talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Smithing talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Carpentry talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Medicine talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Toxicology talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Weaving talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Gemcuttingtalent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Taoism talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Buddhism talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Culinary Arts talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Lore talent by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Inner Arts talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Footwork talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Stunt talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Fist talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Finger talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Kick talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Hidden Weapons talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Sword talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Blade talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Polearm talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Exotic Weapons talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Soft Weaponstalent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Ranged Weaponstalent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Melody talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Music talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Chess talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Literature talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Painting talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Astrology talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Appreciation talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Smithing talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Carpentry talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Medicine talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Toxicology talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Weavingtalent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Gemcutting talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Taoism talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Buddhismtalent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Culinary Arts talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Lore talent by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Inner Arts talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Footwork talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Stunt talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Fist talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Finger talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Kick talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Hidden Weapons talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Sword talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Blade talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Polearm talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Exotic Weapons talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Soft Weapons talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Ranged Weapons talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Melody talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Music talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Chess talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Literature talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Paintingtalent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Astrology talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Appreciation talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Smithing talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Carpentry talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Medicine talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Toxicology talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Weaving talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Gemcutting talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Taoism talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Buddhism talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Culinary Arts talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Lore talent by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Strength Stimulation
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Strength by 1!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Agility Stimulation
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Agility by 1!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Constitution Stimulation
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Constitution by 1!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Vitality Stimulation
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Vitality by 1!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Comprehension Stimulation
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Comprehension by 1!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Willpower Stimulation
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Willpower by 1!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Strength by 2!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Agility by 2!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Constitution by 2!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Vitality by 2!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Comprehension by 2!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Willpower by 2!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Strength by 3!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Agility by 3!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Constitution by 3!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Vitality by 3!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Comprehension by 3!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Willpower by 3!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Strength by 4!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Agility by 4!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Constitution by 4!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Vitality by 4!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Comprehension by 4!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Willpower by 4!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Strength by 5!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Agility by 5!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Constitution by 5!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Vitality by 5!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Comprehension by 5!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their Willpower by 5!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Abandon Strength
+Decrease your heir's <color=#brightred>Strength by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Abandon Agility
+Decrease your heir's <color=#brightred>Agility by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Abandon Constitution
+Decrease your heir's <color=#brightred>Constitution by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Abandon Vitality
+Decrease your heir's <color=#brightred>Vitality by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Abandon Comprehension
+Decrease your heir's <color=#brightred>Comprehension by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Abandon Willpower
+Decrease your heir's <color=#brightred>Willpower by 2</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Strength by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Agility by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Constitution by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Vitality by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Comprehension by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Willpower by 4</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Strength by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Agility by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Constitution by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Vitality by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Comprehension by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Willpower by 6</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Strength by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Agility by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Constitution by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Vitality by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Comprehension by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Willpower by 8</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Strength by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Agility by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Constitution by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Vitality by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Comprehension by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Willpower by 10</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Charm Stimulation
+Spend your Legacy to improve your heir's complexion, and <color=#lightblue>increase their Charm by 2%!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Lifespan Stimulation
+Spend your Legacy to improve your heir's longevity, and <color=#lightblue>increase their Lifespan by 2%!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to improve your heir's complexion, and <color=#lightblue>increase their Charm by 3%!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to improve your heir's longevity, and <color=#lightblue>increase their Lifespan by 3%!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to improve your heir's complexion, and <color=#lightblue>increase their Charm by 4%!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to improve your heir's longevity, and <color=#lightblue>increase their Lifespan by 4%!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to make your heir's complexion be full of vigor, and <color=#lightblue>increase their Charm by 6%!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to improve your heir's longevity, and <color=#lightblue>increase their Lifespan by 6%!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to make your heir's complexion be full of vigor, and <color=#lightblue>increase their Charm by 8%!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to improve your heir's longevity, and <color=#lightblue>increase their Lifespan by 8%!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to make your heir's complexion be full of vigor, and <color=#lightblue>increase their Charm by 10%!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to improve your heir's longevity, and <color=#lightblue>increase their Lifespan by 10%!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to completely change your heir's appearance, and <color=#lightblue>increase their Charm by 12%!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to improve your heir's longevity, and <color=#lightblue>increase their Lifespan by 12%!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to completely change your heir's appearance, and <color=#lightblue>increase their Charm by 15%!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to improve your heir's longevity, and <color=#lightblue>increase their Lifespan by 15%!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Abandon Charm
+Decrease your heir's <color=#brightred>Charm by 2%</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Abandon Lifespan
+Decrease your heir's <color=#brightred>Lifespan by 2%</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Charm by 3%</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Lifespan by 3%</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Charm by 4%</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Lifespan by 4%</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Charm by 6%</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Lifespan by 6%</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Charm by 8%</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Lifespan by 8%</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Charm by 10%</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Lifespan by 10%</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Charm by 12%</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Lifespan by 12%</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Charm by 15%</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Decrease your heir's <color=#brightred>Lifespan by 15%</color>, in order to obtain more <color=#lightblue>Legacy!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Open Meridians
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Internal Energy by 50!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Internal Energy by 100!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Internal Energy by 150!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Internal Energy by 200!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Internal Energy by 250!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Internal Energy by 300!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Internal Energy by 350!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Spend your Legacy to stimulate your heir's potential, and <color=#lightblue>increase their maximum Internal Energy by 400!</color>\n<color=#yellow>This Legacy will influence Fuyu Hilt...</color>
+Muscular
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Muscular" trait!</color>
+Robust as a beast
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Robust as a beast" trait!</color>
+Mountainous Strength
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Mountainous Strength" trait!</color>
+Weak and Feeble
+Make your heir obtain the <color=#brightred>"Weak and Feeble" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Extremely Feeble
+Make your heir obtain the <color=#brightred>"Extremely Feeble" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Feeble as an Ant
+Make your heir obtain the <color=#brightred>"Feeble as an Ant" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Physically Healthy
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Physically Healthy" trait!</color>
+Vigorous as a Horse
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Vigorous as a Horse" trait!</color>
+Godlike Constitution
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Godlike Constitution" trait!</color>
+Thin as a willow
+Make your heir obtain the <color=#brightred>"Thin as a willow" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Extremely Frail
+Make your heir obtain the <color=#brightred>"Extremely Frail" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Fated Early Death
+Make your heir obtain the <color=#brightred>"Fated Early Death" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Excellent Senses
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Excellent Senses" trait!</color>
+As Swift as Running Water
+Spend your Legacy to make your heir obtain the <color=#lightblue>"As Swift as Running Water" trait!</color>
+Traceless
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Traceless" trait!</color>
+Awkward Limbs
+Make your heir obtain the <color=#brightred>"Awkward Limbs" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Clumsy and Inarticular
+Make your heir obtain the <color=#brightred>"Clumsy and Inarticular" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Dull as a Doll
+Make your heir obtain the <color=#brightred>"Dull as a Doll" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Miraculous Skeletal Structure
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Miraculous Skeletal Structure" trait!</color>
+Spiritual Pure Essence
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Spiritual Pure Essence" trait!</color>
+Immortal Vitality
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Immortal Vitality" trait!</color>
+Weak Qi Flow
+Make your heir obtain the <color=#brightred>"Weak Qi Flow" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Obstruction of Seven Orifices
+Make your heir obtain the <color=#brightred>"Obstruction of Seven Orifices" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Qi Turbid as a Dog
+Make your heir obtain the <color=#brightred>"Qi Turbid as a Dog" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Shrewd
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Shrewd" trait!</color>
+Sagacious
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Sagacious" trait!</color>
+Unrivalled Wisdom
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Unrivaled Wisdom" trait!</color>
+Silly Mind
+Make your heir obtain the <color=#brightred>"Silly Mind" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Dumb as a Chicken
+Make your heir obtain the <color=#brightred>"Dumb as a Chicken" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Stupid as a Pig
+Make your heir obtain the <color=#brightred>"Stupid as a Pig" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Indomitable Will
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Indomitable Will" trait!</color>
+Serene Mind
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Serene Mind" trait!</color>
+Exquisite Jade of Autumn Frost
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Exquisite Jade of Autumn Forest" trait!</color>
+Loose-minded
+Make your heir obtain the <color=#brightred>"Loose-minded" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Irresolute
+Make your heir obtain the <color=#brightred>"Irresolute" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Destined Loneliness
+Make your heir obtain the <color=#brightred>"Destined Loneliness" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Talented
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Talented" trait!</color>
+Unparalleled Talent
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Unparalleled Talent" trait!</color>
+Heavenly Qi
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Heavenly Qi" trait!</color>
+Impure Root
+Make your heir obtain the <color=#brightred>"Impure Root" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Misshapen limbs
+Make your heir obtain the <color=#brightred>"Misshapen limbs" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Heavenly Disability
+Make your heir obtain the <color=#brightred>"Heavenly Disability" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Understanding
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Understanding" trait!</color>
+Smooth and Slick
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Smooth and Slick" trait!</color>
+Transcendental
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Transcendental" trait!</color>
+Fickle and Inconstant
+Make your heir obtain the <color=#brightred>"Fickle and Inconstant" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Sarcastic and Annoying
+Make your heir obtain the <color=#brightred>"Sarcastic and Annoying" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Arrogant and Cruel
+Make your heir obtain the <color=#brightred>"Arrogant and Cruel" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Blessed by a Lucky Star
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Blessed by a Lucky Star" trait!</color>
+Lucky as a Horse
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Lucky as a Horse" trait!</color>
+Heavenly Bestowed Fortune
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Heavenly Bestowed Fortune" trait!</color>
+Jinx
+Make your heir obtain the <color=#brightred>"Jinx" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Cursed Divination
+Make your heir obtain the <color=#brightred>"Cursed Divination" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Disastrous Destiny
+Make your heir obtain the <color=#brightred>"Disastrous Destiny" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Tough Bones and Skin
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Tough Bones and Skin" trait!</color>
+Steel Muscles and Bones
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Steel Muscles and Bones" trait!</color>
+Unbreakable
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Unbreakable" trait!</color>
+Lustreless Face
+Make your heir obtain the <color=#brightred>"Lustreless Face" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Refractory Wound
+Make your heir obtain the <color=#brightred>"Refractory Wound" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Tenuous Hold on Life
+Make your heir obtain the <color=#brightred>"Tenuous Hold on Life" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Harmony of Six Meridians
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Harmony of Six Meridians" trait!</color>
+Everlasting Circulation of Qi
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Everlasting Circulation of Qi" trait!</color>
+Heaven and Man as One
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Godlike Constitution" trait!</color>
+Blockage of Meridians
+Make your heir obtain the <color=#brightred>"Blockage of Meridians" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Yin Deficiency and Qi Shortage
+Make your heir obtain the <color=#brightred>"Yin Deficiency and Qi Shortage" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Dead Pulse
+Make your heir obtain the <color=#brightred>"Dead Pulse" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Lustrous Complexion
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Lustrous Complexion" trait!</color>
+Lively as a Tiger
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Lively as a Tiger" trait!</color>
+Immune to Diseases
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Immune to Diseases" trait!</color>
+Sickly
+Make your heir obtain the <color=#brightred>"Sickly" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Seven Injuries of Entrails
+Make your heir obtain the <color=#brightred>"Seven Injuries of Entrails" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Haunted by Hundreds of Diseases
+Make your heir obtain the <color=#brightred>"Haunted by Hundreds of Diseases" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Self-possessed
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Self-possessed" trait!</color>
+Calm and Decisive
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Calm and Decisive" trait!</color>
+Stable as a Mountain
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Stable as a Mountain" trait!</color>
+Impulsive and Emotional
+Make your heir obtain the <color=#brightred>"Impulsive and Emotional" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Rampageous
+Make your heir obtain the <color=#brightred>"Rampageous" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Presumptuous
+Make your heir obtain the <color=#brightred>"Presumptuous" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Confluence of Triple Sources
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Confluence of Triple Sources" trait!</color>
+Innate Qi
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Innate Qi" trait!</color>
+Shone by Marvelous Light
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Shone by Marvelous Light" trait!</color>
+Disharmony of Fire and Water
+Make your heir obtain the <color=#brightred>"Disharmony of Fire and Water" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Mutual Restraint of Five Qi
+Make your heir obtain the <color=#brightred>"Mutual Restraint of Five Qi" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Crumbling Source
+Make your heir obtain the <color=#brightred>"Crumbling Source" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Peaceful Mind
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Peaceful Mind" trait!</color>
+Unity of Qi and Mind
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Unity of Qi and Mind" trait!</color>
+Unobstructed Eight Meridians
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Unobstructed Eight Meridians" trait!</color>
+Irritable
+Make your heir obtain the <color=#brightred>"Irritable" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Anxious and Depressed
+Make your heir obtain the <color=#brightred>"Anxious and Depressed" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Rebellious San Jiao
+Make your heir obtain the <color=#brightred>"Rebellious San Jiao" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Calm and Silent
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Calm and Silent" trait!</color>
+Unaffected by Dilemma
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Unaffected by Dilemma" trait!</color>
+Carefree and Graceful
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Carefree and Graceful" trait!</color>
+Stressed
+Make your heir obtain the <color=#brightred>"Stressed" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Indiscreet
+Make your heir obtain the <color=#brightred>"Indiscreet" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Hyperactive
+Make your heir obtain the <color=#brightred>"Hyperactive" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Meticulous
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Meticulous" trait!</color>
+Insightful
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Insightful" trait!</color>
+Piercing Eyes
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Piercing Eyes" trait!</color>
+Hesitant
+Make your heir obtain the <color=#brightred>"Hesitant" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Paranoid
+Make your heir obtain the <color=#brightred>"Paranoid" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Upside Down Dressed
+Make your heir obtain the <color=#brightred>"Upside Down Dressed" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Quick eyes and hands
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Quick eyes and hands" trait!</color>
+Whisper from Wind
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Whisper from Wind" trait!</color>
+Elusive as Shadow
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Elusive as Shadow" trait!</color>
+Slow Reaction Time
+Make your heir obtain the <color=#brightred>"Slow Reaction Time" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Confuses Left with Right
+Make your heir obtain the <color=#brightred>"Confuses Left with Right" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Discord of Mind and Body
+Make your heir obtain the <color=#brightred>"Discord of Mind and Body" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Adventurous
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Adventurous" trait!</color>
+Dauntless
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Dauntless" trait!</color>
+Risking Life Unhesitatingly
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Risking Life Unhesitatingly" trait!</color>
+Weak-willed
+Make your heir obtain the <color=#brightred>"Weak-willed" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Discouraged and Depressed
+Make your heir obtain the <color=#brightred>"Discouraged and Depressed" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Cowardly as a Rat
+Make your heir obtain the <color=#brightred>"Cowardly as a Rat" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Man of Means
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Man of Means" trait!</color>
+Observing before Acting
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Observing before Acting" trait!</color>
+Master of Strategy
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Master of Strategy" trait!</color>
+Frank but Dull
+Make your heir obtain the <color=#brightred>"Frank but Dull" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Incautious and Impetuous
+Make your heir obtain the <color=#brightred>"Incautious and Impetuous" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Reckless as a Tiger
+Make your heir obtain the <color=#brightred>"Reckless as a Tiger" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Quick as a Rabbit
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Quick as a Rabbit" trait!</color>
+Swift as Lightning
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Swift as Lightning" trait!</color>
+Swift as an Immortal
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Swift as an Immortal" trait!</color>
+Lazy and Sluggish
+Make your heir obtain the <color=#brightred>"Lazy and Sluggish" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Worships Laziness
+Make your heir obtain the <color=#brightred>"Worships Laziness" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Heavy Spirit and Body
+Make your heir obtain the <color=#brightred>"Heavy Spirit and Body" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Filled with Murderous Qi
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Filled with Murderous Qi" trait!</color>
+Merciless
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Merciless" trait!</color>
+Fierce as a Raksha
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Fierce as a Raksha" trait!</color>
+Tenderhearted
+Make your heir obtain the <color=#brightred>"Tenderhearted" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Merciful to Enemies
+Make your heir obtain the <color=#brightred>"Merciful to Enemies" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Sympathetic to Flowers
+Make your heir obtain the <color=#brightred>"Sympathetic to Flowers" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Strong Pulse
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Strong Pulse" trait!</color>
+Full Sea of Qi
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Full Sea of Qi" trait!</color>
+Pure True Qi
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Pure True Qi" trait!</color>
+Floating Pulse
+Make your heir obtain the <color=#brightred>"Floating Pulse" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Empty Sea of Qi
+Make your heir obtain the <color=#brightred>"Empty Sea of Qi" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Impure True Qi
+Make your heir obtain the <color=#brightred>"Impure True Qi" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Complete Five Elements
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Complete Five Elements" trait!</color>
+Supreme Harmony of Qi
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Supreme Harmony of Qi" trait!</color>
+Unity of Nadis
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Unity of Nadis" trait!</color>
+Disorder of Spirit
+Make your heir obtain the <color=#brightred>"Disorder of Spirit" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Obstruction of Life Gate
+Make your heir obtain the <color=#brightred>"Obstruction of Life Gate" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Iron Embryo
+Make your heir obtain the <color=#brightred>"Iron Embryo" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Flying Pace
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Flying Pace" trait!</color>
+Mighty Stride
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Mighty Stride" trait!</color>
+Leap as a Dragon
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Leap as a Dragon" trait!</color>
+Tottering
+Make your heir obtain the <color=#brightred>"Tottering" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Teetering
+Make your heir obtain the <color=#brightred>"Teetering" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Slow as a Snail
+Make your heir obtain the <color=#brightred>"Slow as a Snail" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Distinctive Constitution
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Distinctive Constitution" trait!</color>
+Jade Bone and Clear Heart
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Jade Bone and Clear Heart" trait!</color>
+Immune to Toxins
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Immune to Toxins" trait!</color>
+Invaded by Evil Qi
+Make your heir obtain the <color=#brightred>"Invaded by Evil Qi" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Chaos of Qi and Blood
+Make your heir obtain the <color=#brightred>"Chaos of Qi and Blood" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Congenital Diseases
+Make your heir obtain the <color=#brightred>"Congenital Diseases" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Long-limbed
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Long-limbed" trait!</color>
+Very Long-limbed
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Very Long-limbed" trait!</color>
+Extremely Long-limbed
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Extremely Long-limbed" trait!</color>
+Top-heavy
+Make your heir obtain the <color=#brightred>"Top-heavy" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Odd-looking
+Make your heir obtain the <color=#brightred>"Odd-looking" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Deformed
+Make your heir obtain the <color=#brightred>"Deformed" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Faithful
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Faithful" trait!</color>
+Extremely Faithful
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Extremely Faithful" trait!</color>
+Completely Faithful
+Spend your Legacy to make your heir obtain the <color=#lightblue>"Completely Faithful" trait!</color>
+Faithless
+Make your heir obtain the <color=#brightred>"Faithless" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Extremely Faithless
+Make your heir obtain the <color=#brightred>"Extremely Faithless" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Completely Faithless
+Make your heir obtain the <color=#brightred>"Completely Faithless" trait</color>, in order to obtain more <color=#lightblue>Legacy!</color>
+Upright and Plainspoken
+Spend your Legacy to make your heir's standpoint change to <color=#ffe78f>Just</color>!
+Kind and Helpful
+Spend your Legacy to make your heir's standpoint change to <color=#9fe0dc>Kind</color>!
+The Middle Way
+Spend your Legacy to make your heir's standpoint change to <color=#ffffff>Even</color>!
+Rebel against Normality
+Spend your Legacy to make your heir's standpoint change to <color=#b975ff>Rebel</color>!
+I am the Only One
+Spend your Legacy to make your heir's standpoint change to <color=#c6272e>Egoist</color>!
+Change to Metal
+Spend your Legacy to change your heir's internal element to <color=#c6272e>Metal</color>!
+Change to Wood
+Spend your Legacy to change your heir's internal element to <color=#c682ff>Wood</color>!
+Change to Water
+Spend your Legacy to change your heir's internal element to <color=#acd5ff>Water</color>!
+Change to Fire
+Spend your Legacy to change your heir's internal element to <color=#fc514c>Fire</color>!
+Change to Earth
+Spend your Legacy to change your heir's internal element to <color=#68eb6b>Earth</color>!
+Celestial Harmony
+Spend your Legacy to change your heir's internal element to <color=#e3edff>Hunyuan</color>!
+Jingji Geniuses
+Spend your Legacy to cause <color=#orange>「Jingji」</color> region to <color=#lightblue>produce a number of geniuses!</color>
+Bashu Geniuses
+Spend your Legacy to cause <color=#orange>「Bashu」</color> region to <color=#lightblue>produce a number of geniuses!</color>
+Guangnan Geniuses
+Spend your Legacy to cause <color=#orange>「Guangnan」</color> region to <color=#lightblue>produce a number of geniuses!</color>
+Jingbei Geniuses
+Spend your Legacy to cause <color=#orange>「Jingbei」</color> region to <color=#lightblue>produce a number of geniuses!</color>
+Shanxi Geniuses
+Spend your Legacy to cause <color=#orange>「Shanxi」</color> region to <color=#lightblue>produce a number of geniuses!</color>
+Guangdong Geniuses
+Spend your Legacy to cause <color=#orange>「Guangdong」</color> region to <color=#lightblue>produce a number of geniuses!</color>
+Shandong Geniuses
+Spend your Legacy to cause <color=#orange>「Shandong」</color> region to <color=#lightblue>produce a number of geniuses!</color>
+Jingnan Geniuses
+Spend your Legacy to cause <color=#orange>「Jingnan」</color> region to <color=#lightblue>produce a number of geniuses!</color>
+Fujian Geniuses
+Spend your Legacy to cause <color=#orange>「Fujian」</color> region to <color=#lightblue>produce a number of geniuses!</color>
+Liaodong Geniuses
+Spend your Legacy to cause <color=#orange>「Liaodong」</color> region to <color=#lightblue>produce a number of geniuses!</color>
+West Geniuses
+Spend your Legacy to cause <color=#orange>「West」</color> region to <color=#lightblue>produce a number of geniuses!</color>
+Yunnan Geniuses
+Spend your Legacy to cause <color=#orange>「Yunnan」</color> region to <color=#lightblue>produce a number of geniuses!</color>
+Huainan Geniuses
+Spend your Legacy to cause <color=#orange>「Huainan」</color> region to <color=#lightblue>produce a number of geniuses!</color>
+Jiangnan Geniuses
+Spend your Legacy to cause <color=#orange>「Jiangnan」</color> region to <color=#lightblue>produce a number of geniuses!</color>
+Jiangbei Geniuses
+Spend your Legacy to cause <color=#orange>「Jiangbei」</color> region to <color=#lightblue>produce a number of geniuses!</color>
+Jingji's Favor
+Spend your Legacy to immediately cause <color=#orange>「Jingji」</color> region's <color=#lightblue>Regional Favor to increase by 30%!</color>
+Bashu's Favor
+Spend your Legacy to immediately cause <color=#orange>「Bashu」</color> region's <color=#lightblue>Regional Favor to increase by 30%!</color>
+Guangnan's Favor
+Spend your Legacy to immediately cause <color=#orange>「Guangnan」</color> region's <color=#lightblue>Regional Favor to increase by 30%!</color>
+Jingbei's Favor
+Spend your Legacy to immediately cause <color=#orange>「Jingbei」</color> region's <color=#lightblue>Regional Favor to increase by 30%!</color>
+Shanxi's Favor
+Spend your Legacy to immediately cause <color=#orange>「Shanxi」</color> region's <color=#lightblue>Regional Favor to increase by 30%!</color>
+Guangdong's Favor
+Spend your Legacy to immediately cause <color=#orange>「Guangdong」</color> region's <color=#lightblue>Regional Favor to increase by 30%!</color>
+Shandong's Favor
+Spend your Legacy to immediately cause <color=#orange>「Shandong」</color> region's <color=#lightblue>Regional Favor to increase by 30%!</color>
+Jingnan's Favor
+Spend your Legacy to immediately cause <color=#orange>「Jingnan」</color> region's <color=#lightblue>Regional Favor to increase by 30%!</color>
+Fujian's Favor
+Spend your Legacy to immediately cause <color=#orange>「Fujian」</color> region's <color=#lightblue>Regional Favor to increase by 30%!</color>
+Liaodong's Favor
+Spend your Legacy to immediately cause <color=#orange>「Liaodong」</color> region's <color=#lightblue>Regional Favor to increase by 30%!</color>
+West's Favor
+Spend your Legacy to immediately cause <color=#orange>「West」</color> region's <color=#lightblue>Regional Favor to increase by 30%!</color>
+Yunnan's Favor
+Spend your Legacy to immediately cause <color=#orange>「Yunnan」</color> region's <color=#lightblue>Regional Favor to increase by 30%!</color>
+Huainan's Favor
+Spend your Legacy to immediately cause <color=#orange>「Huainan」</color> region's <color=#lightblue>Regional Favor to increase by 30%!</color>
+Jiangnan's Favor
+Spend your Legacy to immediately cause <color=#orange>「Jiangnan」</color> region's <color=#lightblue>Regional Favor to increase by 30%!</color>
+Jiangbei's Favor
+Spend your Legacy to immediately cause <color=#orange>「Jiangbei」</color> region's <color=#lightblue>Regional Favor to increase by 30%!</color>
+Spend your Legacy to immediately cause <color=#orange>「Jingji」</color> region's <color=#lightblue>Regional Favor to increase by 60%!</color>
+Spend your Legacy to immediately cause <color=#orange>「Bashu」</color> region's <color=#lightblue>Regional Favor to increase by 60%!</color>
+Spend your Legacy to immediately cause <color=#orange>「Guangnan」</color> region's <color=#lightblue>Regional Favor to increase by 60%!</color>
+Spend your Legacy to immediately cause <color=#orange>「Jingbei」</color> region's <color=#lightblue>Regional Favor to increase by 60%!</color>
+Spend your Legacy to immediately cause <color=#orange>「Shanxi」</color> region's <color=#lightblue>Regional Favor to increase by 60%!</color>
+Spend your Legacy to immediately cause <color=#orange>「Guangdong」</color> region's <color=#lightblue>Regional Favor to increase by 60%!</color>
+Spend your Legacy to immediately cause <color=#orange>「Shandong」</color> region's <color=#lightblue>Regional Favor to increase by 60%!</color>
+Spend your Legacy to immediately cause <color=#orange>「Jingnan」</color> region's <color=#lightblue>Regional Favor to increase by 60%!</color>
+Spend your Legacy to immediately cause <color=#orange>「Fujian」</color> region's <color=#lightblue>Regional Favor to increase by 60%!</color>
+Spend your Legacy to immediately cause <color=#orange>「Liaodong」</color> region's <color=#lightblue>Regional Favor to increase by 60%!</color>
+Spend your Legacy to immediately cause <color=#orange>「West」</color> region's <color=#lightblue>Regional Favor to increase by 60%!</color>
+Spend your Legacy to immediately cause <color=#orange>「Yunnan」</color> region's <color=#lightblue>Regional Favor to increase by 60%!</color>
+Spend your Legacy to immediately cause <color=#orange>「Huainan」</color> region's <color=#lightblue>Regional Favor to increase by 60%!</color>
+Spend your Legacy to immediately cause <color=#orange>「Jiangnan」</color> region's <color=#lightblue>Regional Favor to increase by 60%!</color>
+Spend your Legacy to immediately cause <color=#orange>「Jiangbei」</color> region's <color=#lightblue>Regional Favor to increase by 60%!</color>
+Spend your Legacy to immediately cause <color=#orange>「Jingji」</color> region's <color=#lightblue>Regional Favor to increase by 90%!</color>
+Spend your Legacy to immediately cause <color=#orange>「Bashu」</color> region's <color=#lightblue>Regional Favor to increase by 90%!</color>
+Spend your Legacy to immediately cause <color=#orange>「Guangnan」</color> region's <color=#lightblue>Regional Favor to increase by 90%!</color>
+Spend your Legacy to immediately cause <color=#orange>「Jingbei」</color> region's <color=#lightblue>Regional Favor to increase by 90%!</color>
+Spend your Legacy to immediately cause <color=#orange>「Shanxi」</color> region's <color=#lightblue>Regional Favor to increase by 90%!</color>
+Spend your Legacy to immediately cause <color=#orange>「Guangdong」</color> region's <color=#lightblue>Regional Favor to increase by 90%!</color>
+Spend your Legacy to immediately cause <color=#orange>「Shandong」</color> region's <color=#lightblue>Regional Favor to increase by 90%!</color>
+Spend your Legacy to immediately cause <color=#orange>「Jingnan」</color> region's <color=#lightblue>Regional Favor to increase by 90%!</color>
+Spend your Legacy to immediately cause <color=#orange>「Fujian」</color> region's <color=#lightblue>Regional Favor to increase by 90%!</color>
+Spend your Legacy to immediately cause <color=#orange>「Liaodong」</color> region's <color=#lightblue>Regional Favor to increase by 90%!</color>
+Spend your Legacy to immediately cause <color=#orange>「West」</color> region's <color=#lightblue>Regional Favor to increase by 90%!</color>
+Spend your Legacy to immediately cause <color=#orange>「Yunnan」</color> region's <color=#lightblue>Regional Favor to increase by 90%!</color>
+Spend your Legacy to immediately cause <color=#orange>「Huainan」</color> region's <color=#lightblue>Regional Favor to increase by 90%!</color>
+Spend your Legacy to immediately cause <color=#orange>「Jiangnan」</color> region's <color=#lightblue>Regional Favor to increase by 90%!</color>
+Spend your Legacy to immediately cause <color=#orange>「Jiangbei」</color> region's <color=#lightblue>Regional Favor to increase by 90%!</color>
+Shaolin Order
+花费生平遗惠，立即获得<color=#orange>「少林派」</color>部分<color=#lightblue>低阶弟子的门派支持！</color></color>
+Emei Order
+花费生平遗惠，立即获得<color=#orange>「峨眉派」</color>部分<color=#lightblue>低阶弟子的门派支持！</color>
+Hundred Flowers Order
+花费生平遗惠，立即获得<color=#orange>「百花谷」</color>部分<color=#lightblue>低阶弟子的门派支持！</color>
+Wudang Order
+花费生平遗惠，立即获得<color=#orange>「武当派」</color>部分<color=#lightblue>低阶弟子的门派支持！</color>
+Yuanshan Order
+花费生平遗惠，立即获得<color=#orange>「元山派」</color>部分<color=#lightblue>低阶弟子的门派支持！</color>
+Lion Face Order
+花费生平遗惠，立即获得<color=#orange>「狮相门」</color>部分<color=#lightblue>低阶弟子的门派支持！</color>
+Ranshan Order
+Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of low-ranked disciples</color> in the <color=#orange>「Ranshan Sect」</color>!
+Xuannyu Order
+Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of low-ranked disciples</color> in the <color=#orange>「Xuannyu Sect」</color>!
+Sword Manor Order
+Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of low-ranked disciples</color> in the <color=#orange>「Sword Manor」</color>!
+Kongsang Order
+Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of low-ranked disciples</color> in the <color=#orange>「Kongsang Sect」</color>!
+Vajrayana Order
+Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of low-ranked disciples</color> in the <color=#orange>「Vajrayana」</color>!
+Five Immortals' Order
+Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of low-ranked disciples</color> in the <color=#orange>「Five Immortals Cult」</color>!
+Jieqing Order
+Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of low-ranked disciples</color> in the <color=#orange>「Jieqing Gate」</color>!
+Fulong Order
+Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of low-ranked disciples</color> in the <color=#orange>「Fulong Altar」</color>!
+Bloodhound Order
+Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of low-ranked disciples</color> in the <color=#orange>「Bloodhound Cult」</color>!
+Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of middle-ranked disciples</color> in the <color=#orange>「Shaolin」</color>!
+Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of middle-ranked disciples</color> in the <color=#orange>「Emei Sect」</color>!
+Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of middle-ranked disciples</color> in the <color=#orange>「Hundred Flowers Valley」</color>!
+Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of middle-ranked disciples</color> in the <color=#orange>「Wudang Sect」</color>!
+Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of middle-ranked disciples</color> in the <color=#orange>「Yuanshan Sect」</color>!
+Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of middle-ranked disciples</color> in the <color=#orange>「Lion-Face Clan」</color>!
+Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of middle-ranked disciples</color> in the <color=#orange>「Ranshan Sect」</color>!
+Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of middle-ranked disciples</color> in the <color=#orange>「Xuannyu Sect」</color>!
+Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of middle-ranked disciples</color> in the <color=#orange>「Sword Manor」</color>!
+Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of middle-ranked disciples</color> in the <color=#orange>「Kongsang Sect」</color>!
+Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of middle-ranked disciples</color> in the <color=#orange>「Vajrayana」</color>!
+Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of middle-ranked disciples</color> in the <color=#orange>「Five Immortals Cult」</color>!
+Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of middle-ranked disciples</color> in the <color=#orange>「Jieqing Gate」</color>!
+Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of middle-ranked disciples</color> in the <color=#orange>「Fulong Altar」</color>!
+Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of middle-ranked disciples</color> in the <color=#orange>「Bloodhound Cult」</color>!
+Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of high-ranked members</color> in the <color=#orange>「Shaolin」</color>!
+Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of high-ranked members</color> in the <color=#orange>「Emei Sect」</color>!
+Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of high-ranked members</color> in the <color=#orange>「Hundred Flowers Valley」</color>!
+Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of high-ranked members</color> in the <color=#orange>「Wudang Sect」</color>!
+Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of high-ranked members</color> in the <color=#orange>「Yuanshan Sect」</color>!
+Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of high-ranked members</color> in the <color=#orange>「Lion-Face Clan」</color>!
+Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of high-ranked members</color> in the <color=#orange>「Ranshan Sect」</color>!
+Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of high-ranked members</color> in the <color=#orange>「Xuannyu Sect」</color>!
+Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of high-ranked members</color> in the <color=#orange>「Sword Manor」</color>!
+Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of high-ranked members</color> in the <color=#orange>「Kongsang Sect」</color>!
+Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of high-ranked members</color> in the <color=#orange>「Vajrayana」</color>!
+Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of high-ranked members</color> in the <color=#orange>「Five Immortals Cult」</color>!
+Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of high-ranked members</color> in the <color=#orange>「Jieqing Gate」</color>!
+Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of high-ranked members</color> in the <color=#orange>「Fulong Altar」</color>!
+Spend your Legacy to immediately obtain <color=#lightblue>Sect Support of high-ranked members</color> in the <color=#orange>「Bloodhound Cult」</color>!
+Discover Weeds
+Spend your Legacy to immediately discover <color=#orange>「Weeds」</color> in the Taiwu Village!\n<color=#yellow>You will have to build it yourself using Building menu...</color>
+Discover Stones
+Spend your Legacy to immediately discover <color=#orange>「Stones」</color> in the Taiwu Village!\n<color=#yellow>You will have to build it yourself using Building menu...</color>
+Discover Ruins
+Spend your Legacy to immediately discover <color=#orange>「Ruins」</color> in the Taiwu Village!\n<color=#yellow>You will have to build it yourself using Building menu...</color>
+Discover Reservoir
+Spend your Legacy to immediately obtain the Core Material for constructing <color=#orange>「Reservoir」</color>!
+Discover Stone Hills
+Spend your Legacy to immediately obtain the Core Material for constructing <color=#orange>「Stone Hills」</color>!
+Discover Woodlands
+Spend your Legacy to immediately obtain the Core Material for constructing <color=#orange>「Woodlands」</color>!
+Discover Skyward Mountain
+Spend your Legacy to immediately obtain the Core Material for constructing <color=#orange>「Skyward Mountain」</color>!
+Discover Herb Paradise
+Spend your Legacy to immediately obtain the Core Material for constructing <color=#orange>「Herb Paradise」</color>!
+Discover Poison Swamp
+Spend your Legacy to immediately obtain the Core Material for constructing <color=#orange>「Poison Swamp」</color>!
+Discover Flower Valley
+Spend your Legacy to immediately obtain the Core Material for constructing <color=#orange>「Flower Valley」</color>!
+Discover Gem Deposit
+Spend your Legacy to immediately obtain the Core Material for constructing <color=#orange>「Gem Deposit」</color>!
+Discover Fertile Plain
+Spend your Legacy to immediately obtain the Core Material for constructing <color=#orange>「Fertile Plain」</color>!
+Discover Wild Habitat
+Spend your Legacy to immediately obtain the Core Material for constructing <color=#orange>「Wild Habitat」</color>!
+Discover Lava Pond
+Spend your Legacy to immediately discover <color=#orange>「Lava Pond」</color> in the Taiwu Village!\n<color=#yellow>You will have to build it yourself using Building menu...</color>
+Discover Meteor Crater
+Spend your Legacy to immediately discover <color=#orange>「Meteor Crater」</color> in the Taiwu Village!\n<color=#yellow>You will have to build it yourself using Building menu...</color>
+Discover Primeval Jungle
+Spend your Legacy to immediately discover <color=#orange>「Primeval Jungle」</color> in the Taiwu Village!\n<color=#yellow>You will have to build it yourself using Building menu...</color>
+Discover Taishi Forest
+Spend your Legacy to immediately discover <color=#orange>「Taishi Forest」</color> in the Taiwu Village!\n<color=#yellow>You will have to build it yourself using Building menu...</color>
+Discover Everspring Ravine
+Spend your Legacy to immediately discover <color=#orange>「Everspring Ravine」</color> in the Taiwu Village!\n<color=#yellow>You will have to build it yourself using Building menu...</color>
+Discover Snake Pit
+Spend your Legacy to immediately discover <color=#orange>「Snake Pit」</color> in the Taiwu Village!\n<color=#yellow>You will have to build it yourself using Building menu...</color>
+Discover Fragrance Land
+Spend your Legacy to immediately discover <color=#orange>「Fragrance Land」</color> in the Taiwu Village!\n<color=#yellow>You will have to build it yourself using Building menu...</color>
+Discover Dragon Vein
+Spend your Legacy to immediately discover <color=#orange>「Dragon Vein」</color> in the Taiwu Village!\n<color=#yellow>You will have to build it yourself using Building menu...</color>
+Discover Ley Line
+Spend your Legacy to immediately discover <color=#orange>「Ley Line」</color> in the Taiwu Village!\n<color=#yellow>You will have to build it yourself using Building menu...</color>
+Discover Eternal Ice
+Spend your Legacy to immediately discover <color=#orange>「Eternal Ice」</color> in the Taiwu Village!\n<color=#yellow>You will have to build it yourself using Building menu...</color>

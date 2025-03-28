@@ -1,0 +1,19 @@
+Parents
+Sworn Siblings
+Spouse
+Children
+Faction
+Enemy
+Friend
+Adore
+Master
+Siblings
+Parents
+Children
+Siblings
+Step-parents
+Step-children
+Step-siblings
+Adoptive Parents
+Adoptive Children
+Adoptive Siblings

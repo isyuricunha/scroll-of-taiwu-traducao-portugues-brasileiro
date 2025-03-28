@@ -1,0 +1,82 @@
+Number
+Enter any integer, but not greater than or equal to one billion or less than or equal to negative one billion
+Boolean
+Enter any Boolean, such as True, False
+True
+False
+Skill
+Enter the skill name, which must be exactly the same as the skill name in the configuration table. If a skill with the same name exists, a warning will be displayed and the first skill with the same name will be applied
+You and Enemy
+Enter any Boolean, True represents you, False represents the enemy
+You
+Enemy
+Text
+Enter any text, such as "abc123", "example"
+Fight Difficulty
+Enter the combat difficulty, such as Normal, Difficult, Very Hard, or Deadly
+Teammate Order
+Enter the name of a teammate order, such as Attack, Defend, Restrain, etc. Negative orders cannot be entered
+Active Skill Type
+Enter the type of active skill, such as Break, Quick, and Aegis
+Other Action Type
+Enter other behavior types, such as Healing, Detox, and Escape
+Front and Back
+Enter any Boolean, True represents the front, False represents the back
+Front
+Back
+Body Part
+Enter the name of the body part, such as Head, Left Arm, Right Leg
+Expression
+Enter an expression with a Seven Instinct, such as 20 + Cleverness × 40 ÷ 100
+Ortho/Hetero
+Enter any Boolean value, True represents Orthodox training, False represents Heterodox training
+Orthodox
+Heterodox
+Int/Ext
+Enter any Boolean, True for Internal, False for External
+Internal
+External
+Poison
+Enter the Poison type, such as Acritoxin, Oneirotoxin
+Gu Maturity
+Enter any Boolean value, True represents mature, False represents premature
+Mature
+Premature
+Gu Owner
+Enter any Boolean value, True represents the tamed Gu, False represents the untamed Gu
+Tamed
+Untamed
+Gu Type
+Enter the type of Gu, such as Red Eye, Demon, Black Blood, Heart Demon, Corpse Chi, Ice Silkworm, Golden Silkworm, Green Marrow. You can also simply enter 0~7 to refer to it.
+Red-eyed Gu
+Chi Demon Gu
+Sinister Blood Gu
+Internal Demon Gu
+Chi Corpse Gu
+Ice Silkworm Gu
+Golden Silkworm Gu
+Azure Marrow Gu
+True Qi Type
+Enter the True Qi type, such as Break, Quick, Aegis, or Nadis. You can also simply enter 0~3 to indicate
+Break
+Quick
+Aegis
+Nadis
+Style
+Enter the Style name, such as Hack, Stab, Slash
+Weapon
+Enter the Weapon name, such as Sword·ZhanLu, Sword·JuQue
+Weapon Type
+Enter the Weapon type, such as Needle Box, Dagger, Sword, Blade
+Five Elements
+Enter the five elements type, such as Metal, Wood, Water, Fire, Earth, Hunyuan, or simply enter 0~5 to refer to them
+Metal
+Wood
+Water
+Fire
+Earth
+Hunyuan
+Combat Type
+Enter the combat type, such as Sparring, Vicious Fight, Death Match, Receiving Moves
+Combat State Name
+Enter the name of the combat state, such as Lighten Body, Controlling Fuxi

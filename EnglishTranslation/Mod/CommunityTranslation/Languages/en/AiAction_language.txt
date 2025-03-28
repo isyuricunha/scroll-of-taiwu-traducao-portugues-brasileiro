@@ -1,0 +1,107 @@
+Attack
+Do weapon attack once
+Style Change
+Do a Style Change attack using the memorized technique {0}'s position and stored styles
+Style Change Weak Point
+Do a Style Change attack that will cause a Weak Point using the memorized technique {0}'s position and stored styles
+Style Change Sealed Acupoint
+Do a Style Change attack that will cause a Sealed Acupoint {1} using the memorized technique {0}'s position and stored styles
+Style Change Element
+Do a Style Change attack that will change opponents internal element using the memorized technique {0}'s position and stored styles
+Skills
+Use specified technique {0}
+Optimal Break
+Use an optimal Break technique
+Optimal Aegis
+Use an optimal Aegis technique
+Aegis Deflect
+Use a Deflect-restoring Aegis technique
+Buff Footwork
+Use a buffing Footwork technique
+Speed Footwork
+Use a speed Footwork technique
+Cast Increase
+Do cast increase
+Move into Attack Range
+Sets the target distance to the center of the Attack Range + {0}
+Move out of Attack Range
+Sets the target distance to the edge of the opponent's Attack Range
+Set Target Distance
+Sets target distance to {0}
+Furthest Target Distance
+Sets furthest target distance in combat
+Recall Script
+Sets {0} in memory as {1}
+Recall Boolean
+Recall Integer
+Teammate Order
+Implement {0} order
+Switch Weapon
+Switch to the current range weapon from index {0} - {1}
+Reserve Action
+Reserve action {0}
+Use Healing Drug
+Use Detox Drug
+Use Inner Breath Drug
+Use Buff Drug
+Use Poison Drug
+Use Blood Dew
+Use Wine
+Repair Weapon
+Repair Armor
+Switch Index Weapon
+Switch to weapon with index {0}
+Switch Special Weapon
+Switch to weapon {0}
+Switch Weapon Type
+Switch to {0} type of weapon
+Recall Addition
+The corresponding value of {0} in memory plus {1}. If the value does not exist in memory, the value is zero
+Interrupt Use
+中断正在施展的功法
+Interrupt Aegis
+中断当前运起的护体
+Assign Text to Memory
+Set the text corresponding to {0} in memory to the text corresponding to {1}
+Assign Boolean to Memory
+Set the boolean value of {0} in memory to the boolean value of {1}
+Assign Integer to Memory
+Set the integer corresponding to {0} in memory to the integer corresponding to {1}
+Assign Markers to Memory
+Set the number of all markers in memory {0} to {1}
+Assign Injury Markers to Memory
+Set the number of injury markers in memory {0} to {1}
+Assign Weak Points to Memory
+Set the number of Weak Points in memory {0} to {1}
+Assign Sealed Acupoints to Memory
+Set the number of Sealed Acupoints in memory {0} to {1}
+Assign Poison Markers to Memory
+Set the number of poison markers in memory {0} to {1}
+Assign Daze Markers to Memory
+Set the number of daze markers in memory {0} to {1}
+Assign Fatal Wound Markers to Memory
+Set the number of Fatal Wound markers in memory {0} to {1}
+Assign Style Change Weak Point Count
+Set the current Style Change Weak Point count in memory from {0} to {1} (for killing)
+Assign Special Technique
+Set {0} in memory as technique {1}
+Move into Attack Range's Edge
+Set target distance to attack range {0} edge + {1}
+Assign Already Used Techniques
+Set {0} in memory to {1} the current or last performed technique. The default setting is -1
+Set Top Priority
+Set the corresponding skill of {0} in memory to high priority
+Set Low Priority
+Set the corresponding skill of {0} in memory to low priority
+Reset Priority Level
+Reset the priority of the corresponding skill {0} in memory 
+Assign Optimal Break
+Set {0} in memory to the best Break technique that can be performed currently. The default setting is -1
+Use Assigned Skill
+Use assigned technique {0}
+Interrupt Footwork
+中断当前运起的身法
+解封兵器
+使用兵器 {0} 执行一次解封
+解封兵器类型
+使用兵器类型 {0} 执行一次解封

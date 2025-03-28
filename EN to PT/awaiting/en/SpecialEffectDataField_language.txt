@@ -1,0 +1,36 @@
+MIG
+FIN
+SWI
+BRE
+Ext. Pen.
+Int. Pen.
+DIV
+PAR
+EVA
+FOC
+Ext. Def.
+Int. Def.
+Stance Recovery
+Inhale Recovery
+MOV·Spd
+Ext. Recovery
+Cast Speed
+Int. Recovery
+武具运用
+Attack Speed
+Int Ratio Bonus
+Internal Breath
+Acritoxin Res
+Umbritoxin Res
+Cryotoxin Res
+Pyrotoxin Res
+Necrotoxin Res
+Oneirotoxin Res
+External Injury
+Internal Injury
+Mood
+Amount of True Qi Obtained
+Stamina Recovery Rate
+Minimal Attack Range
+Maximum Attack Range
+Seven Instincts

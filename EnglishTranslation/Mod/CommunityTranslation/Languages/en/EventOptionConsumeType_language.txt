@@ -1,0 +1,11 @@
+Food
+Wood
+Ore
+Jade
+Fabric
+Herbs
+Money
+Prestige
+Turns
+Regional Favor of Target's affiliation
+Current area's Regional Favor

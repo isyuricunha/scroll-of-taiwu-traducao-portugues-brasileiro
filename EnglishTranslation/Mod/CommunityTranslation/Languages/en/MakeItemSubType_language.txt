@@ -1,0 +1,455 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Qiao
+Hand guards made in "Qiao" style are highly focused on Might and Finesse, leaving Swiftness unwieldy...
+Zhuo
+Hand guards made in "Zhuo" style are extremely focused on Might, leaving Finesse very unwieldy...
+
+
+
+
+Qian
+Hand guards made in "Qian" style are highly focused on Swiftness and Might, leaving Finesse unwieldy...
+Kun
+Hand guards made in "Kun" style are highly focused on Finesse and Swiftness, leaving Might unwieldy...
+Hand guards made in "Qiao" style are extremely focused on Swiftness, leaving Might very unwieldy...
+Hand guards made in "Zhuo" style are extremely focused on Finesse, leaving Swiftness very unwieldy...
+
+
+
+
+Hand guards made in "Qian" style are extremely focused on Swiftness, leaving Might very unwieldy...
+Hand guards made in "Kun" style are extremely focused on Finesse, leaving Might very unwieldy...
+
+
+
+
+
+
+
+
+
+
+
+
+Feng
+Swords made in "Feng" style are highly focused on Finesse and Swiftness, leaving Might unwieldy...
+Zhong
+Swords made in "Zhong" style are extremely focused on Might, leaving Swiftness very unwieldy...
+Cang
+Swords made in "Cang" style are highly focused on Might and Finesse, leaving Swiftness unwieldy...
+
+
+
+
+Rui
+Swords made in "Rui" style are extremely focused on Swiftness, leaving Finesse very unwieldy...
+Rong
+Swords made in "Rong" style are highly focused on Might and Swiftness, leaving Finesse unwieldy...
+Ling
+Swords made in "Ling" style are extremely focused on Finesse, leaving Might very unwieldy...
+
+
+
+
+Blades made in "Feng" style are highly focused on Might and Swiftness, leaving Finesse very unwieldy...
+Blades made in "Zhong" style are extremely focused on Might, leaving Swiftness very unwieldy...
+Blades made in "Cang" style are highly focused on Might and Finesse, leaving Swiftness very unwieldy...
+
+
+
+
+Blades made in "Rui" style are extremely focused on Might, leaving Finesse very unwieldy...
+Blades made in "Rong" style focus on Might, leaving Finesse unwieldy...
+Blades made in "Ling" style focus on Might, leaving Swiftness unwieldy...
+
+
+
+
+Chi
+Polearms made in "Chi" style are extremely focused on Might, leaving Finesse very unwieldy...
+Fa
+Polearms made in "Fa" style focus on Might, leaving Finesse unwieldy...
+Yong
+Polearms made in "Yong" style are highly focused on Might and Swiftness, leaving Finesse unwieldy...
+Xiu
+Polearms made in "Xiu" style are highly focused on Might and Finesse, leaving Swiftness unwieldy...
+
+
+Polearms made in "Chi" style are extremely focused on Might, leaving Swiftness very unwieldy...
+Polearms made in "Fa" style focus on Might, leaving Swiftness unwieldy...
+Polearms made in "Yong" style focus on Swiftness, leaving Might unwieldy...
+Polearms made in "Xiu" style focus on Finesse, leaving Might unwieldy...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pi
+Accessories made in "Pi" style help to resist against Acritoxin...
+Hua
+Accessories made in "Hua" style help to resist against Cryotoxin...
+Sheng
+Accessories made in "Sheng" style help to resist against Necrotoxin...
+Li
+Accessories made in "Li" style help to increase Strength...
+Gu
+Accessories made in "Gu" style help to increase Constitution...
+Shen
+Accessories made in "Shen" style help to increase Agility...
+Feng
+Accessories made in "Feng" style help to increase Int. Recovery...
+Zhu
+Accessories made in "Zhu" style help to increase Swiftness...
+Huan
+Accessories made in "Huan" style help to increase Finesse...
+Long
+Accessories made in "Long" style help to increase Might...
+
+
+
+
+Shu
+Accessories made in "Shu" style help to resist against Umbritoxin...
+Huo
+Accessories made in "Huo" style help to resist against Pyrotoxin...
+Ning
+Accessories made in "Ning" style help to resist against Oneirotoxin...
+Wu
+Accessories made in "Wu" style help to increase Comprehension...
+Fa
+Accessories made in "Fa" style help to increase Vitality...
+He
+Accessories made in "He" style help to increase Willpower...
+Dao
+Accessories made in "Dao" style help to increase Equipment Efficiency...
+Na
+Accessories made in "Na" style help to increase Internal Breath...
+Accessories made in "Shen" style help to increase Internal Penetration...
+Kong
+Accessories made in "Kong" style help to increase Int Ratio Bonus...
+
+
+
+
+
+
+
+
+Feng
+Helmets made in "Feng" style help to increase Evasion...
+Yu
+Helmets made in "Yu" style help to increase Diversion...
+Wu
+Helmets made in "Feng" style help to increase Parry...
+Yun
+Helmets made in "Yun" style help to reduce External Damage...
+
+
+
+
+
+
+Helmets made in "Yun" style help to reduce Internal Damage...
+
+
+
+
+
+
+Legwear made in "Feng" style helps to increase Evasion...
+Legwear made in "Yu" style helps to increase Diversion...
+Legwear made in "Wu" style helps to increase Parry...
+Legwear made in "Yun" style helps to reduce External Damage...
+
+
+
+
+
+
+Legwear made in "Yun" style helps to reduce Internal Damage...
+Gang
+Armor made in "Gang" style is extremely focused on External Defense, and will greatly reduce External Damage...
+Rou
+Armor made in "Rou" style is extremely focused on Internal Defense, and will greatly reduce Internal Damage...
+
+
+
+
+Armor made in "Feng" style helps to increase Evasion...
+Armor made in "Yu" style helps to increase Diversion...
+Armor made in "Wu" style helps to increase Parry...
+Armor made in "Yun" style helps to reduce External Damage...
+Armor made in "Gang" style slightly increases both Ext. and Int. Defenses, and also helps to reduce Ext. and Int. Damage...
+Armor made in "Rou" style is highly focused on Internal Defense, and helps to reduce Internal Damage...
+
+
+
+
+Armor made in "Yun" style helps to reduce Internal Damage...
+
+
+
+
+
+
+Armguards made in "Feng" style help to increase Evasion...
+Armguards made in "Yu" style help to increase Diversion
+Armguards made in "Wu" style help to increase Parry...
+Armguards made in "Yun" style help to reduce External Damage...
+
+
+
+
+
+
+Armguards made in "Yun" style help to reduce Internal Damage...
+
+
+Zhi
+Clothes made in "Zhi" style help to grow Aspirations...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+True
+Master Zheng Jin's formula, helps to heal External Injuries...
+Master Zheng Jin's formula, helps to cure Pyrotoxin...
+Master Zheng Jin's formula, helps to increase External Defense...
+Master Zheng Jin's formula, helps to increase Might...
+Master Zheng Jin's formula, helps to heal Internal Injuries...
+Master Zheng Jin's formula, helps to cure Umbritoxin...
+Master Zheng Jin's formula, helps to increase Internal Defense...
+Master Zheng Jin's formula, helps to increase Attack Speed and Equip. Efficiency...
+Master Zheng Jin's formula, helps to regulate Inner Breath...
+Master Zheng Jin's formula, helps to cure Cryotoxin...
+Master Zheng Jin's formula, helps to increase Diversion...
+Master Zheng Jin's formula, helps to increase Finesse...
+Master Zheng Jin's formula, helps to restore Health...
+Master Zheng Jin's formula, helps to cure Oneirotoxin...
+Master Zheng Jin's formula, helps to increase Parry...
+Master Zheng Jin's formula, helps to increase Movement Speed and Ext. Recovery...
+Master Zheng Jin's formula, helps to increase Inhale and Stance Recovery...
+Master Zheng Jin's formula, helps to cure Necrotoxin...
+Master Zheng Jin's formula, helps to increase Evasion...
+Master Zheng Jin's formula, helps to increase Swiftness...
+Master Zheng Jin's formula, helps to increase Internal Penetration...
+Master Zheng Jin's formula, helps to cure Acritoxin...
+Master Zheng Jin's formula, helps to increase Cast Speed and Int. Recovery...
+Master Zheng Jin's formula, helps to increase External Penetration...
+Odd
+Formula based on an odd folk remedy, helps to increase Might...
+Formula based on an odd folk remedy, helps to heal External Injuries...
+Formula based on an odd folk remedy, helps to cure Pyrotoxin...
+Formula based on an odd folk remedy, helps to increase External Defense...
+Formula based on an odd folk remedy, helps to increase Attack Speed and Equipment Efficiency...
+Formula based on an odd folk remedy, helps to heal Internal Injuries...
+Formula based on an odd folk remedy, helps to cure Umbritoxin...
+Formula based on an odd folk remedy, helps to increase Internal Defense...
+Formula based on an odd folk remedy, helps to increase Finesse...
+Formula based on an odd folk remedy, helps to regulate Inner Breath...
+Formula based on an odd folk remedy, helps to cure Cryotoxin...
+Formula based on an odd folk remedy, helps to increase Diversion...
+Formula based on an odd folk remedy, helps to increase Movement Speed and Ext. Recovery...
+Formula based on an odd folk remedy, helps to restore lost Health...
+Formula based on an odd folk remedy, helps to cure Oneirotoxin...
+Formula based on an odd folk remedy, helps to increase Parry...
+Formula based on an odd folk remedy, helps to increase Swiftness...
+Formula based on an odd folk remedy, helps to increase Inhale and Stance Recovery...
+Formula based on an odd folk remedy, helps to cure Necrotoxin...
+Formula based on an odd folk remedy, helps to increase Evasion...
+Formula based on an odd folk remedy, helps to increase External Penetration...
+Formula based on an odd folk remedy, helps to increase Internal Penetration...
+Formula based on an odd folk remedy, helps to cure Acritoxin...
+Formula based on an odd folk remedy, helps to increase Cast Speed and Int. Recovery...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Min
+Clothes made in "Min" style will show villager's roles...
+
+

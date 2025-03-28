@@ -1,0 +1,47 @@
+Collected Resources
+Resource Restoration Chance
+Item Chance
+Double Cooking Chance
+Migration Success
+Double Craft/Repair/Disassemble Chance
+Extra Progress Chance
+「Perfecting」 Chance
+Villager Repair Chance
+Refinement Mat. Chance
+Double Medicine Chance
+Double Manufacture/Detox/Envenom Chance
+Reg. Favor Gained
+True Formula Chance
+「Extraction」 Chance
+「Condensation」 Chance
+Revenue Gained
+Double Sell/Buy Chance
+Price Inc./Dec. Efficiency
+Merchant Favor
+Selling Price
+Buying Price
+Price Inc./Dec. Limit
+Fine Art Consult Chance
+Talent Show Mood Change
+Town Chat Favor Change
+Reform CUL Change
+Town Chat Secret Chance
+Double Consult Chance
+Talent Show Influences
+Town Chat Influences
+Reform Prestige Gain
+Martial Art Consult Chance
+Guard Recon Chance
+Discuss Favor Change
+Roaming SEC Change
+Outlaws Kill Chance
+Outlaws Gather Chance
+Double Consult Chance
+Invasion Injury Chance
+Discuss Influences
+Roaming Prestige Gain
+Villager Instinct Inc.
+Resolve Hatred Chance
+Increase Favor Chance
+Promote Relationships Chance
+Villager Attainment Inc.
