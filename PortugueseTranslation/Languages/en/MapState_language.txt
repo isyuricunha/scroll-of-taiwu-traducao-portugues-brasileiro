@@ -1,4 +1,4 @@
-Lugar Sem Nome
+Nameless place
 Jingji
 Bashu
 Guangnan
@@ -6,10 +6,10 @@ Jingbei
 Shanxi
 Guangdong
 Shandong
-Jingnan
+Jīngnan
 Fujian
-Liaodong
-Oeste
+LiaoDong
+West
 Yunnan
 Huainan
 Jiangnan

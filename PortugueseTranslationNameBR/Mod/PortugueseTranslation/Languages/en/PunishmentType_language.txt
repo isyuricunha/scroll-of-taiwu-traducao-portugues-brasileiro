@@ -1,312 +1,312 @@
-Outros
-Envio Forcado para Supervisao
+Other
+Forced Imprisonment
 
-Matar uma pessoa de reputacao neutra
-Assassinato de Inocentes
-Assassinar publicamente uma pessoa com reputacao de "Desconhecido" ou "Neutro"
-Matar pessoas de ma reputacao
-Assassinato de Viloes
-Assassinar publicamente uma pessoa com reputacao inferior a "Desconhecido"
-Matar pessoas de boa reputacao
-Assassinato de Virtuosos
-Assassinar publicamente uma pessoa com reputacao superior a "Desconhecido"
-Prisao de pessoas de ma reputacao
-Prisao de Inocentes
-Prender publicamente uma pessoa com reputacao de "Desconhecido" ou "Neutro"
-Prisao de pessoas de ma reputacao
-Prisao de Viloes
-Prender publicamente uma pessoa com reputacao inferior a "Desconhecido"
-Prisao de pessoas de boa reputacao
-Prisao de Virtuosos
-Prender publicamente uma pessoa com reputacao superior a "Desconhecido"
-Assassinato de colegas discípulos
+Killing a fameless person
+Injuring innocent
+Publicly killing a person with an Unknown Fame
+Killing a notorious person
+Killing a villain
+Publicly killing a person with a negative Fame
+Killing a respectable person
+Killing a virtuous person
+Publicly killing a person with a positive Fame
+Imprisoning a fameless person
+Imprisoning innocent
+Publicly imprisoning a person with an Unknown Fame
+Imprisoning a notorious person
+Imprisoning a villain
+Publicly imprisoning a person with a negative Fame
+Imprisoning a respectable person
+imprisoning a virtuous person
+Publicly imprisoning a person with a positive Fame
+Killing members of your sect
 
-Prisao de colegas discípulos
+Imprisoning members of your sect
 
-Caso amoroso
+Male-female love affair
 
-Saquear tumbas
-Roubar itens ou recursos de um túmulo
-Furto de propriedades
-Roubar itens ou recursos de outra pessoa
-Enganar outros
-Fraudar para obter itens ou recursos de outra pessoa
-Roubo de propriedades
-Tomar itens ou recursos de outra pessoa
-Envenenar outros
-Aplicar veneno em outra pessoa
-Assassinar outros
-Ferir secretamente outra pessoa
-Envenenar colegas discípulos
-Aplicar veneno em membros do mesmo cla
-Ferir colegas discípulos
-Ferir secretamente membros do mesmo cla
-Roubo de técnicas
+Grave robbing
+Robbing a grave to steal items or resources
+Stealing property
+Stealing another person's items or resources
+Scamming people
+Scamming another person's items or resources
+Robbing property
+Robbing another person's items or resources
+Poisoning people
+Poisoning other people
+Secretly injuring people
+Secretly injuring people
+Poisoning members of your sect
+Poisoning members of your sect
+Secretly injuring members of your sect
+Secretly injuring members of your sect
+Stealing skills
 
-Fortificacao de itens
-Item Envenenado
-Aplicar veneno em um item
-Quebra de dieta
+Envenoming items
+Envenoming items
+Envenoming items
+Violating the diet
 
-Envolvimento pelo conjuge
-Envolvido por outra pessoa
+Being implicated by a spouse
+Being implicated by others
 
-Assassinato secreto de outros
-Assassinar em segredo
-Detencao secreta de outros
-Prender em segredo
-Fazer amizade com discípulos de Shaolin
-Fazer amizade com inimigos
-Tornar-se amigo de membros da Escola Shaolin
-Fazer amizade com discípulos da Escola Emei
-Tornar-se amigo de membros da Escola Emei
-Fazer amizade com discípulos do Vale das Cem Flores
-Tornar-se amigo de membros do Vale das Cem Flores
-Fazer amizade com discípulos da Seita Wudang
-Tornar-se amigo de membros da Seita Wudang
-Fazer amizade com discípulos da Seita Yuanshan
-Tornar-se amigo de membros da Seita Yuanshan
-Fazer amizade com discípulos do Cla Rosto de Leao
-Tornar-se amigo de membros do Cla Rosto de Leao
-Fazer amizade com discípulos da Seita Ranshan
-Tornar-se amigo de membros da Seita Ranshan
-Fazer amizade com discípulos da Seita Xuannyu
-Tornar-se amigo de membros da Seita Xuannyu
-Fazer amizade com discípulos da Mansao da Espada
-Tornar-se amigo de membros da Mansao da Espada
-Fazer amizade com discípulos da Seita Kongsang
-Tornar-se amigo de membros da Seita Kongsang
-Fazer amizade com discípulos do Vajrayana
-Tornar-se amigo de membros do Vajrayana
-Fazer amizade com discípulos da Seita dos Cinco Imortais
-Tornar-se amigo de membros da Seita dos Cinco Imortais
-Fazer amizade com discípulos do Portao Jieqing
-Tornar-se amigo de membros do Portao Jieqing
-Fazer amizade com discípulos do Altar Fulong
-Tornar-se amigo de membros do Altar Fulong
-Fazer amizade com discípulos da Seita Bloodhound
-Tornar-se amigo de membros da Seita Bloodhound
-Forcado a pular turno durante debates
-Forcado a pular turno
-Usar "Forcar Silencio" durante um duelo
-XS·Possuído
-Possui a característica "Transformacao Xiangshu"
-Fuga durante a prisao
-Fuga da Prisao
-Escapar da prisao enquanto esta detido
-Membro de cla inimigo
-Inimigo
-Pertence a uma forca ou faccao inimiga
-Inimigo dentro da faccao
-Inimigos
-Desenvolver inimizade com membros do proprio cla
-Violar as regras do cla e ter um filho
-Ter filhos com outra pessoa
-Como discípulo monastico, ter filhos com outra pessoa
-Como figura importante, ter filhos com outra pessoa
-Violar as regras do cla e apaixonar-se
-Apaixonar-se por outra pessoa
-Como discípulo monastico, apaixonar-se por outra pessoa
-Como figura importante, apaixonar-se por outra pessoa
-Violar as regras do cla e casar-se
-Casar-se com outra pessoa
-Como discípulo monastico, casar-se com outra pessoa
-Como figura importante, casar-se com outra pessoa
-Violar as regras do cla e ter encontros íntimos
-Ter encontros íntimos com outra pessoa
-Como discípulo monastico, ter encontros íntimos com outra pessoa
-Como figura importante, ter encontros íntimos com outra pessoa
-Violar as regras do cla e cometer atos indecorosos
-Cometer atos indecorosos contra outra pessoa por nao controlar os proprios desejos
-Como discípulo monastico, cometer atos indecorosos contra outra pessoa
-Como figura importante, cometer atos indecorosos contra outra pessoa
-Violar as regras do cla e marcar encontros
-Marcar encontros com outra pessoa
-Como discípulo monastico, marcar encontros com outra pessoa
-Como figura importante, marcar encontros com outra pessoa
-Encontros íntimos ilícitos
-Desejos incontrolaveis
-Tornar-se companheiro(a) de discípulos de Shaolin
-Apaixonar-se por membros da Escola Shaolin
-Tornar-se companheiro(a) de discípulos da Escola Emei
-Apaixonar-se por membros da Escola Emei
-Tornar-se companheiro(a) de discípulos do Vale das Cem Flores
-Apaixonar-se por membros do Vale das Cem Flores
-Tornar-se companheiro(a) de discípulos da Seita Wudang
-Apaixonar-se por membros da Seita Wudang
-Tornar-se companheiro(a) de discípulos da Seita Yuanshan
-Apaixonar-se por membros da Seita Yuanshan
-Tornar-se companheiro(a) de discípulos do Cla Rosto de Leao
-Apaixonar-se por membros do Cla Rosto de Leao
-Tornar-se companheiro(a) de discípulos da Seita Ranshan
-Apaixonar-se por membros da Seita Ranshan
-Tornar-se companheiro(a) de discípulos da Seita Xuannyu
-Apaixonar-se por membros da Seita Xuannyu
-Tornar-se companheiro(a) de discípulos da Mansao da Espada
-Apaixonar-se por membros da Mansao da Espada
-Tornar-se companheiro(a) de discípulos da Seita Kongsang
-Apaixonar-se por membros da Seita Kongsang
-Tornar-se companheiro(a) de discípulos do Vajrayana
-Apaixonar-se por membros do Vajrayana
-Tornar-se companheiro(a) de discípulos da Seita dos Cinco Imortais
-Apaixonar-se por membros da Seita dos Cinco Imortais
-Tornar-se companheiro(a) de discípulos do Portao Jieqing
-Apaixonar-se por membros do Portao Jieqing
-Tornar-se companheiro(a) de discípulos do Altar Fulong
-Apaixonar-se por membros do Altar Fulong
-Tornar-se companheiro(a) de discípulos da Seita Bloodhound
-Apaixonar-se por membros da Seita Bloodhound
-Formar lacos de irmandade com discípulos de Shaolin
-Firmar pacto de irmandade com membros da Escola Shaolin
-Formar lacos de irmandade com discípulos da Escola Emei
-Firmar pacto de irmandade com membros da Escola Emei
-Formar lacos de irmandade com discípulos do Vale das Cem Flores
-Firmar pacto de irmandade com membros do Vale das Cem Flores
-Formar lacos de irmandade com discípulos da Seita Wudang
-Firmar pacto de irmandade com membros da Seita Wudang
-Formar lacos de irmandade com discípulos da Seita Yuanshan
-Firmar pacto de irmandade com membros da Seita Yuanshan
-Formar lacos de irmandade com discípulos do Cla Rosto de Leao
-Firmar pacto de irmandade com membros do Cla Rosto de Leao
-Formar lacos de irmandade com discípulos da Seita Ranshan
-Firmar pacto de irmandade com membros da Seita Ranshan
-Formar lacos de irmandade com discípulos da Seita Xuannyu
-Firmar pacto de irmandade com membros da Seita Xuannyu
-Formar lacos de irmandade com discípulos da Mansao da Espada
-Firmar pacto de irmandade com membros da Mansao da Espada
-Formar lacos de irmandade com discípulos da Seita Kongsang
-Firmar pacto de irmandade com membros da Seita Kongsang
-Formar lacos de irmandade com discípulos do Vajrayana
-Firmar pacto de irmandade com membros do Vajrayana
-Formar lacos de irmandade com discípulos da Seita dos Cinco Imortais
-Firmar pacto de irmandade com membros da Seita dos Cinco Imortais
-Formar lacos de irmandade com discípulos do Portao Jieqing
-Firmar pacto de irmandade com membros do Portao Jieqing
-Formar lacos de irmandade com discípulos do Altar Fulong
-Firmar pacto de irmandade com membros do Altar Fulong
-Formar lacos de irmandade com discípulos da Seita Bloodhound
-Firmar pacto de irmandade com membros da Seita Bloodhound
-Tornar-se parente simbolico de discípulos de Shaolin
-Adotar membros da Escola Shaolin como pais ou maes simbolicos
-Tornar-se parente simbolico de discípulos da Escola Emei
-Adotar membros da Escola Emei como pais ou maes simbolicos
-Tornar-se parente simbolico de discípulos do Vale das Cem Flores
-Adotar membros do Vale das Cem Flores como pais ou maes simbolicos
-Tornar-se parente simbolico de discípulos da Seita Wudang
-Adotar membros da Seita Wudang como pais ou maes simbolicos
-Tornar-se parente simbolico de discípulos da Seita Yuanshan
-Adotar membros da Seita Yuanshan como pais ou maes simbolicos
-Tornar-se parente simbolico de discípulos do Cla Rosto de Leao
-Adotar membros do Cla Rosto de Leao como pais ou maes simbolicos
-Tornar-se parente simbolico de discípulos da Seita Ranshan
-Adotar membros da Seita Ranshan como pais ou maes simbolicos
-Tornar-se parente simbolico de discípulos da Seita Xuannyu
-Adotar membros da Seita Xuannyu como pais ou maes simbolicos
-Tornar-se parente simbolico de discípulos da Mansao da Espada
-Adotar membros da Mansao da Espada como pais ou maes simbolicos
-Tornar-se parente simbolico de discípulos da Seita Kongsang
-Adotar membros da Seita Kongsang como pais ou maes simbolicos
-Tornar-se parente simbolico de discípulos do Vajrayana
-Adotar membros do Vajrayana como pais ou maes simbolicos
-Tornar-se parente simbolico de discípulos da Seita dos Cinco Imortais
-Adotar membros da Seita dos Cinco Imortais como pais ou maes simbolicos
-Tornar-se parente simbolico de discípulos do Portao Jieqing
-Adotar membros do Portao Jieqing como pais ou maes simbolicos
-Tornar-se parente simbolico de discípulos do Altar Fulong
-Adotar membros do Altar Fulong como pais ou maes simbolicos
-Tornar-se parente simbolico de discípulos da Seita Bloodhound
-Adotar membros da Seita Bloodhound como pais ou maes simbolicos
-Adotar discípulos de Shaolin como filhos simbolicos
-Adotar discípulos da Escola Emei como filhos simbolicos
-Adotar discípulos do Vale das Cem Flores como filhos simbolicos
-Adotar discípulos da Seita Wudang como filhos simbolicos
-Adotar discípulos da Seita Yuanshan como filhos simbolicos
-Adotar discípulos do Cla Rosto de Leao como filhos simbolicos
-Adotar discípulos da Seita Ranshan como filhos simbolicos
-Adotar discípulos da Seita Xuannyu como filhos simbolicos
-Adotar discípulos da Mansao da Espada como filhos simbolicos
-Adotar discípulos da Seita Kongsang como filhos simbolicos
-Adotar discípulos do Vajrayana como filhos simbolicos
-Adotar discípulos da Seita dos Cinco Imortais como filhos simbolicos
-Adotar discípulos do Portao Jieqing como filhos simbolicos
-Adotar discípulos do Altar Fulong como filhos simbolicos
-Adotar discípulos da Seita Bloodhound como filhos simbolicos
-Marcar encontro com discípulos de Shaolin
-Marcar encontro com membros da Escola Shaolin
-Marcar encontro com discípulos da Escola Emei
-Marcar encontro com membros da Escola Emei
-Marcar encontro com discípulos do Vale das Cem Flores
-Marcar encontro com membros do Vale das Cem Flores
-Marcar encontro com discípulos da Seita Wudang
-Participar de uma reuniao com membros da Seita Wudang
-Marcar um encontro com discípulos da Seita Yuanshan
-Participar de uma reuniao com membros da Seita Yuanshan
-Marcar um encontro com discípulos da Seita Shixiang
-Participar de uma reuniao com membros da Seita Shixiang
-Marcar um encontro com discípulos da Seita Ranshan
-Participar de uma reuniao com membros da Seita Ranshan
-Marcar um encontro com discípulos da Seita Xuannv
-Participar de uma reuniao com membros da Seita Xuannv
-Marcar um encontro com discípulos da Mansao do Forjador de Espadas
-Participar de uma reuniao com membros da Mansao do Forjador de Espadas
-Marcar um encontro com discípulos da Seita Kongsang
-Participar de uma reuniao com membros da Seita Kongsang
-Marcar um encontro com discípulos da Seita Jingang
-Participar de uma reuniao com membros da Seita Jingang
-Marcar um encontro com discípulos da Seita Wuxian
-Participar de uma reuniao com membros da Seita Wuxian
-Marcar um encontro com discípulos da Seita Jieqing
-Participar de uma reuniao com membros da Seita Jieqing
-Marcar um encontro com discípulos do Altar Fulong
-Participar de uma reuniao com membros do Altar Fulong
-Marcar um encontro com discípulos da Seita Xuehou
-Participar de uma reuniao com membros da Seita Xuehou
-Resgatar filhos pertencentes a Seita Shaolin
-Resgatar filhos que pertencem a Seita Shaolin
-Resgatar filhos pertencentes a Seita Emei
-Resgatar filhos que pertencem a Seita Emei
-Resgatar filhos pertencentes ao Vale das Cem Flores
-Resgatar filhos que pertencem ao Vale das Cem Flores
-Resgatar filhos pertencentes a Seita Wudang
-Resgatar filhos que pertencem a Seita Wudang
-Resgatar filhos pertencentes a Seita Yuanshan
-Resgatar filhos que pertencem a Seita Yuanshan
-Resgatar filhos pertencentes a Seita Shixiang
-Resgatar filhos que pertencem a Seita Shixiang
-Resgatar filhos pertencentes a Seita Ranshan
-Resgatar filhos que pertencem a Seita Ranshan
-Resgatar filhos pertencentes a Seita Xuannv
-Resgatar filhos que pertencem a Seita Xuannv
-Resgatar filhos pertencentes a Mansao do Forjador de Espadas
-Resgatar filhos que pertencem a Mansao do Forjador de Espadas
-Resgatar filhos pertencentes a Seita Kongsang
-Resgatar filhos que pertencem a Seita Kongsang
-Recuperar filhos pertencentes a Seita Vajra
-Recuperar filhos que pertencem a Seita Vajra
-Recuperar filhos pertencentes a Religiao dos Cinco Imortais
-Recuperar filhos que pertencem a Religiao dos Cinco Imortais
-Recuperar filhos pertencentes a Seita Jieqing
-Recuperar filhos que pertencem a Seita Jieqing
-Recuperar filhos pertencentes ao Pavilhao Fulong
-Recuperar filhos que pertencem ao Pavilhao Fulong
-Recuperar filhos pertencentes a Religiao do Hound de Sangue
-Recuperar filhos que pertencem a Religiao do Hound de Sangue
-Assassinar publicamente membros da mesma seita
-Assassinar publicamente pessoas da mesma seita
-Prender publicamente membros da mesma seita
-Prender publicamente pessoas da mesma seita
-Assassinar secretamente membros da mesma seita
-Assassinar secretamente pessoas da mesma seita
-Prender secretamente membros da mesma seita
-Prender secretamente pessoas da mesma seita
-Roubar habilidades
-Roubar as habilidades de outra pessoa
-Fraudar habilidades de vida
-Fraudar as habilidades de outra pessoa
-Roubar Artes Marciais
-Roubar as artes marciais de outra pessoa
-Fraudar Artes Marciais
-Fraudar as artes marciais de outra pessoa
-Consumir carne
-Consumir alcool e carne
-Como monge, consumir alcool ou carne
+Secretly killing people
+Secretly killing
+Secretly imprisoning people
+Secretly imprisoning
+Befriending a disciple of Shaolin
+Becoming friends with enemy
+Befriending a member of Shaolin
+Befriending a disciple of Emei Sect
+Befriending a member of Emei Sect
+Befriending a disciple of Hundred Flowers Valley
+Befriending a member of Hundred Flowers Valley
+Befriending a disciple of Wudang Sect
+Befriending a member of Wudang Sect
+Befriending a disciple of Yuanshan Sect
+Befriending a member of Yuanshan Sect
+Befriending a disciple of Lion-Face Clan
+Befriending a member of Lion-Face Clan
+Befriending a disciple of Ranshan Sect
+Befriending a member of Ranshan Sect
+Befriending a disciple of Xuannyu Sect
+Befriending a member of Xuannyu Sect
+Befriending a disciple of Sword Manor
+Befriending a member of Sword Manor
+Befriending a disciple of Kongsang Sect
+Befriending a member of Kongsang Sect
+Befriending a disciple of Vajrayana
+Befriending a member of Vajrayana
+Befriending a disciple of Five Immortals Cult
+Befriending a member of Five Immortals Cult
+Befriending a disciple of Jieqing Gate
+Befriending a member of Jieqing Gate
+Befriending a disciple of Fulong Altar
+Befriending a member of Fulong Altar
+Befriending a disciple of Bloodhound Cult
+Befriending a member of Bloodhound Cult
+Forcing to skip turn during Debates
+Forcing to skip turn
+Using "Force to skip turn" during Debates
+XS·Possessed
+Having a "XS·Possessed" trait
+Escaping prison while serving time
+Escaping prison
+Escaping prison while serving time
+Person of hostile sect
+Hostile person
+Be a subordinate of an opposing sect
+Becoming enemies with sect members
+Hostile members
+Becoming enemies with members of this sect
+Violating sect rule to not have children
+Having children with someone
+As a monastic disciple, having children with others
+As a prominent member of the sect, having children with others
+Violating sect rule to not be in love
+Being in love with someone
+As a monastic disciple, being in love with someone
+As a prominent member of the sect, being in love with someone
+Violating sect rule to not be married
+Getting married with someone
+As a monastic disciple, getting married with someone
+As a prominent member of the sect, getting married with someone
+Violating sect rule to not have sex
+Having sex with someone
+As a monastic disciple, having sex with someone
+As a prominent member of the sect, having sex with someone
+Violating sect rule to not rape
+Raping someone
+As a monastic disciple, raping someone
+As a prominent member of the sect, raping someone
+Violating sect rule to not arrange meetings
+Inviting others somewhere
+As a monastic disciple, inviting others somewhere
+As a prominent member of the sect, inviting others somewhere
+Sex
+Rape
+Being in love with a disciple of Shaolin
+Being in love with a member of Shaolin
+Being in love with a disciple of Emei Sect
+Being in love with a member of Emei Sect
+Being in love with a disciple of Hundred Flowers Valley
+Being in love with a member of Hundred Flowers Valley
+Being in love with a disciple of Wudang Sect
+Being in love with a member of Wudang Sect
+Being in love with a disciple of Yuanshan Sect
+Being in love with a member of Yuanshan Sect
+Being in love with a disciple of Lion-Face Clan
+Being in love with a member of Lion-Face Clan
+Being in love with a disciple of Ranshan Sect
+Being in love with a member of Ranshan Sect
+Being in love with a disciple of Xuannyu Sect
+Being in love with a member of Xuannyu Sect
+Being in love with a disciple of Sword Manor
+Being in love with a member of Sword Manor
+Being in love with a disciple of Kongsang Sect
+Being in love with a member of Kongsang Sect
+Being in love with a disciple of Vajrayana
+Being in love with a member of Vajrayana
+Being in love with a disciple of Five Immortals Cult
+Being in love with a member of Five Immortals Cult
+Being in love with a disciple of Jieqing Gate
+Being in love with a member of Jieqing Gate
+Being in love with a disciple of Fulong Altar
+Being in love with a member of Fulong Altar
+Being in love with a disciple of Bloodhound Cult
+Being in love with a member of Bloodhound Cult
+Becoming sworn siblings with a disciple of Shaolin
+Becoming sworn siblings with a member of Shaolin
+Becoming sworn siblings with a disciple of Emei Sect
+Becoming sworn siblings with a member of Emei Sect
+Becoming sworn siblings with a disciple of Hundred Flowers Valley
+Becoming sworn siblings with a member of Hundred Flowers Valley
+Becoming sworn siblings with a disciple of Wudang Sect
+Becoming sworn siblings with a member of Wudang Sect
+Becoming sworn siblings with a disciple of Yuanshan Sect
+Becoming sworn siblings with a member of Yuanshan Sect
+Becoming sworn siblings with a disciple of Lion-Face Clan
+Becoming sworn siblings with a member of Lion-Face Clan
+Becoming sworn siblings with a disciple of Ranshan Sect
+Becoming sworn siblings with a member of Ranshan Sect
+Becoming sworn siblings with a disciple of Xuannyu Sect
+Becoming sworn siblings with a member of Xuannyu Sect
+Becoming sworn siblings with a disciple of Sword Manor
+Becoming sworn siblings with a member of Sword Manor
+Becoming sworn siblings with a disciple of Kongsang Sect
+Becoming sworn siblings with a member of Kongsang Sect
+Becoming sworn siblings with a disciple of Vajrayana
+Becoming sworn siblings with a member of Vajrayana
+Becoming sworn siblings with a disciple of Five Immortals Cult
+Becoming sworn siblings with a member of Five Immortals Cult
+Becoming sworn siblings with a disciple of Jieqing Gate
+Becoming sworn siblings with a member of Jieqing Gate
+Becoming sworn siblings with a disciple of Fulong Altar
+Becoming sworn siblings with a member of Fulong Altar
+Becoming sworn siblings with a disciple of Bloodhound Cult
+Becoming sworn siblings with a member of Bloodhound Cult
+Adopting a disciple of Shaolin
+Adopting a member of Shaolin
+Adopting a disciple of Emei Sect
+Adopting a member of Emei Sect
+Adopting a disciple of Hundred Flowers Valley
+Adopting a member of Hundred Flowers Valley
+Adopting a disciple of Wudang Sect
+Adopting a member of Wudang Sect
+Adopting a disciple of Yuanshan Sect
+Adopting a member of Yuanshan Sect
+Adopting a disciple of Lion-Face Clan
+Adopting a member of Lion-Face Clan
+Adopting a disciple of Ranshan Sect
+Adopting a member of Ranshan Sect
+Adopting a disciple of Xuannyu Sect
+Adopting a member of Xuannyu Sect
+Adopting a disciple of Sword Manor
+Adopting a member of Sword Manor
+Adopting a disciple of Kongsang Sect
+Adopting a member of Kongsang Sect
+Adopting a disciple of Vajrayana
+Adopting a member of Vajrayana
+Adopting a disciple of Five Immortals Cult
+Adopting a member of Five Immortals Cult
+Adopting a disciple of Jieqing Gate
+Adopting a member of Jieqing Gate
+Adopting a disciple of Fulong Altar
+Adopting a member of Fulong Altar
+Adopting a disciple of Bloodhound Cult
+Adopting a member of Bloodhound Cult
+Being adopted by a member of Shaolin
+Being adopted by a member of Emei Sect
+Being adopted by a member of Hundred Flowers Valley
+Being adopted by a member of Wudang Sect
+Being adopted by a member of Yuanshan Sect
+Being adopted by a member of Lion-Face Clan
+Being adopted by a member of Ranshan Sect
+Being adopted by a member of Xuannyu Sect
+Being adopted by a member of Sword Manor
+Being adopted by a member of Kongsang Sect
+Being adopted by a member of Vajrayana
+Being adopted by a member of Five Immortals Cult
+Being adopted by a member of Jieqing Gate
+Being adopted by a member of Fulong Altar
+Being adopted by a member of Bloodhound Cult
+Inviting a disciple of Shaolin somewhere
+Inviting a member of Shaolin somewhere
+Inviting a disciple of Emei Sect somewhere
+Inviting a member of Emei Sect somewhere
+Inviting a disciple of Hundred Flowers Valley somewhere
+Inviting a member of Hundred Flowers Valley somewhere
+Inviting a disciple of Wudang Sect somewhere
+Inviting a member of Wudang Sect somewhere
+Inviting a disciple of Yuanshan Sect somewhere
+Inviting a member of Yuanshan Sect somewhere
+Inviting a disciple of Lion-Face Clan somewhere
+Inviting a member of Lion-Face Clan somewhere
+Inviting a disciple of Ranshan Sect somewhere
+Inviting a member of Ranshan Sect somewhere
+Inviting a disciple of Xuannyu Sect somewhere
+Inviting a member of Xuannyu Sect somewhere
+Inviting a disciple of Sword Manor somewhere
+Inviting a member of Sword Manor somewhere
+Inviting a disciple of Kongsang Sect somewhere
+Inviting a member of Kongsang Sect somewhere
+Inviting a disciple of Vajrayana somewhere
+Inviting a member of Vajrayana somewhere
+Inviting a disciple of Five Immortals Cult somewhere
+Inviting a member of Five Immortals Cult somewhere
+Inviting a disciple of Jieqing Gate somewhere
+Inviting a member of Jieqing Gate somewhere
+Inviting a disciple of Fulong Altar somewhere
+Inviting a member of Fulong Altar somewhere
+Inviting a disciple of Bloodhound Cult somewhere
+Inviting a member of Bloodhound Cult somewhere
+Returning children belonging to Shaolin
+Returning children belonging to Shaolin
+Returning children belonging to Emei Sect
+Returning children belonging to Emei Sect
+Returning children belonging to Hundred Flowers Valley
+Returning children belonging to Hundred Flowers Valley
+Returning children belonging to Wudang Sect
+Returning children belonging to Wudang Sect
+Returning children belonging to Yuanshan Sect
+Returning children belonging to Yuanshan Sect
+Returning children belonging to Lion-Face Clan
+Returning children belonging to Lion-Face Clan
+Returning children belonging to Ranshan Sect
+Returning children belonging to Ranshan Sect
+Returning children belonging to Xuannyu Sect
+Returning children belonging to Xuannyu Sect
+Returning children belonging to Sword Manor
+Returning children belonging to Sword Manor
+Returning children belonging to Kongsang Sect
+Returning children belonging to Kongsang Sect
+Returning children belonging to Vajrayana
+Returning children belonging to Vajrayana
+Returning children belonging to Five Immortals Cult
+Returning children belonging to Five Immortals Cult
+Returning children belonging to Jieqing Gate
+Returning children belonging to Jieqing Gate
+Returning children belonging to Fulong Altar
+Returning children belonging to Fulong Altar
+Returning children belonging to Bloodhound Cult
+Returning children belonging to Bloodhound Cult
+Publicly killing members of your sect
+Publicly killing members of your sect
+Publicly imprisoning members of your sect
+Publicly imprisoning members of your sect
+Secretly killing members of your sect
+Secretly killing members of your sect
+Secretly imprisoning members of your sect
+Secretly imprisoning members of your sect
+Stealing Fine Arts
+Stealing another person's Fine Arts
+Scamming Fine Arts
+Scamming another person's Fine Arts
+Steal Martial Arts
+Stealing another person's Martial Arts
+Scamming Martial Arts
+Scamming another person's Martial Arts
+Non-vegetarian Food
+Drinking Alcohol
+As a monastic person, eating non-vegetarian food or drinking alcohol

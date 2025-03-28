@@ -1,10 +1,10 @@
-Qi Verdadeiro Disperso
-As perdas de {0} <color=#brightblue>sao reduzidas em 30%</color>, e os ganhos <color=#brightblue>sao aumentados em 60%</color>；O poder das <color=#pinkyellow>técnicas</color> de {0} <color=#brightred>é reduzido em 20%</color>；O dano de retrocesso das <color=#pinkyellow>técnicas</color> de {0} <color=#brightblue>é reduzido em 50%</color>, mas a chance de retrocesso <color=#brightred>é aumentada em 100%</color>。
-Qi Verdadeiro Desperdicado
-As perdas de {0} <color=#brightblue>sao reduzidas em 15%</color>, e os ganhos <color=#brightblue>sao aumentados em 30%</color>；O poder das <color=#pinkyellow>técnicas</color> de {0} <color=#brightred>é reduzido em 20%</color>；O dano de retrocesso das <color=#pinkyellow>técnicas</color> de {0} <color=#brightblue>é reduzido em 25%</color>, mas a chance de retrocesso <color=#brightred>é aumentada em 50%</color>。
-Qi Verdadeiro Normal
-As perdas ou ganhos de {0} <color=#pinkyellow>nao sao afetados</color>；O poder das <color=#pinkyellow>técnicas</color> de {0} <color=#pinkyellow>nao é afetado</color>；A chance e o dano de retrocesso das <color=#pinkyellow>técnicas</color> de {0} <color=#pinkyellow>nao sao afetados</color>。
-Qi Verdadeiro Abundante
-As perdas de {0} <color=#brightred>sao aumentadas em 30%</color>, e os ganhos <color=#brightred>sao reduzidos em 15%</color>；O poder das <color=#pinkyellow>técnicas</color> de {0} <color=#brightblue>é aumentado em 20%</color>；O dano de retrocesso das <color=#pinkyellow>técnicas</color> de {0} <color=#brightred>é aumentado em 50%</color>, mas a chance de retrocesso <color=#brightblue>é reduzida em 25%</color>。
-Qi Verdadeiro Ascendente
-As perdas de {0} <color=#brightred>sao aumentadas em 60%</color>, e os ganhos <color=#brightred>sao reduzidos em 30%</color>；O poder das <color=#pinkyellow>técnicas</color> de {0} <color=#brightblue>é aumentado em 20%</color>；O dano de retrocesso das <color=#pinkyellow>técnicas</color> de {0} <color=#brightred>é aumentado em 100%</color>, mas a chance de retrocesso <color=#brightblue>é reduzida em 50%</color>。
+True Qi Scattered
+{0} losses <color=#brightblue>are decreased by 30%</color>, and gains <color=#brightblue>are increased by 60%</color>。；{0} <color=#pinkyellow>techniques'</color> power <color=#brightred>is decreased by 20%</color>。；{0} <color=#pinkyellow>techniques'</color> backlash damage <color=#brightblue>is decreased by 50%</color>, but the backlash chance <color=#brightred>is increased by 100%</color>。
+True Qi Wasted
+{0} losses <color=#brightblue>are decreased by 15%</color>, and gains <color=#brightblue>are increased by 30%</color>。；{0} <color=#pinkyellow>techniques'</color> power <color=#brightred>is decreased by 20%</color>。；{0} <color=#pinkyellow>techniques'</color> backlash damage <color=#brightblue>is decreased by 25%</color>, but the backlash chance <color=#brightred>is increased by 50%</color>。
+True Qi Normal
+{0} losses or gains <color=#pinkyellow>are not affected</color>。；{0} <color=#pinkyellow>techniques'</color> power <color=#pinkyellow>is not affected</color>;。；{0} <color=#pinkyellow>techniques'</color> backlash chance and damage <color=#pinkyellow>are not affected</color>。
+True Qi Abundant
+{0} losses <color=#brightred>are increased by 30%</color>, and gains <color=#brightred>are decreased by 15%</color>。；{0} <color=#pinkyellow>techniques'</color> power <color=#brightblue>is increased by 20%</color>。；{0} <color=#pinkyellow>techniques'</color> backlash damage <color=#brightred>is increased by 50%</color>, but the backlash chance <color=#brightblue>is decreased by 25%</color>。
+True Qi Surging
+{0} losses <color=#brightred>are increased by 60%</color>, and gains <color=#brightred>are decreased by 30%</color>;。；{0} <color=#pinkyellow>techniques'</color> power <color=#brightblue>is increased by 20%</color>。；{0} <color=#pinkyellow>techniques'</color> backlash damage <color=#brightred>is increased by 100%</color>, but the backlash chance <color=#brightblue>is decreased by 50%</color>。

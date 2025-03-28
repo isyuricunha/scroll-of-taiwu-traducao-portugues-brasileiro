@@ -1,1631 +1,1763 @@
-Grilo Cantador
-Pai adotivo pediu para capturar <color=#orange>Grilos</color>
-Va para um local com o ícone de <color=#orange>Grilo</color> e clique nele. Depois, use a <color=#orange>「Rede de Insetos」</color> para comecar a capturar. Nao desanime se errar. Simplesmente va para outro local com o ícone de Grilo e tente novamente.
-Eu devo pegar alguns grilos para meu Pai adotivo...
-
-Macacos do Vale Selvagem
-Va e afaste o Rei Macaco
-Va até a borda do mapa onde esta o ícone de <color=#orange>「Macaco Heroico」</color>, e clique nele para ir ao esconderijo do Rei Macaco.
-Esses macacos machucam as pessoas, entao por que nao ir até o esconderijo deles e expulsa-los...
-
-Voltar para a Cabana de Bambu
-Voltar para a <color=#orange>Cabana de Bambu</color>
-Va para <color=#orange>「Vale Profundo - Cabana de Bambu」</color> e clique no ícone para abrir a aventura <color=#orange>「Voltar para a Cabana de Bambu」</color>.
-Pai adotivo tem me esperado por muito tempo, devo voltar para a Cabana de Bambu o quanto antes...
-
-Saída do Vale
-Va até a borda do Vale Profundo para encontrar uma saída
-Va até o <color=#orange>「Saída do Vale Profundo」</color> na borda do mapa, clique no ícone da aventura e saia do Vale Profundo.
-Como Pai adotivo me instruiu, devo sair imediatamente do Vale Profundo...
-
-Descendo o rio
-Desca o rio e saia da area
-Va até a borda do mapa, encontre o ícone de <color=#orange>「Descendo o Rio」</color> e clique nele para entrar na aventura.
-Vou para o rio e sair deste lugar, como Pai adotivo me pediu...
-
-Pedir um barco
-Va até a <color=#orange>Vila Oculta</color> e peca para pegar um barco emprestado
-Procure por <color=#orange>「Vila Oculta」</color> no mapa. Sera que ha algum barco na vila que possa me ajudar a atravessar o rio escuro?
-Agora, a única maneira de sair daqui é pegar um barco emprestado de uma vila proxima...
-
-Prato Antigo
-Procure vegetais selvagens para o Velho Daoista
-Procure ao redor da vila por <color=#orange>Vegetais Selvagens</color> e entregue-os ao Velho Daoista.
-O Velho Daoista quer vegetais selvagens, so posso procurar um pouco por aí...
-
-Encontrar o Jovem
-Encontre o <color=#orange>Jovem</color>
-Encontre o <color=#orange>Jovem</color> e converse com ele.
-Felizmente posso também pedir conselhos aos moradores daqui... Mas nao sei de onde essas pessoas realmente vêm...
-
-Recolher vegetais selvagens
-Colete <color=#orange>Comida</color>
-Quando estiver em um tile de recurso, selecione <color=#orange>「Coletar」</color> e escolha o <color=#orange>「Recurso」</color> para obter uma certa quantidade de recursos. A quantidade de recursos sera afetada pelo estado do mundo e o tipo de recurso que os diferentes tiles produzem.
-Nao é difícil pegar vegetais selvagens, pegue alguns e volte...
-
-Cozinhando pratos
-Use a <color=#orange>Cozinha</color> para cozinhar alimentos
-Clique no <color=#orange>Ícone de Indústria</color> na 「Vila Oculta」 para abrir a tela de indústria. Selecione o prédio <color=#orange>「Cozinha」</color>, aperte o botao <color=#orange>「Artesanato」</color>, e adicione uma ferramenta, recursos e um ingrediente para cozinhar um prato.
-Se você cozinhar alguns vegetais selvagens para o Velho Daoista, provavelmente conseguira pegar um barco emprestado...
-
-Encontrar um Oficial
-Encontre um <color=#orange>Oficial</color>
-Encontre um <color=#orange>Oficial</color> e converse com ele.
-
-Pegar um barco a forca
-Escolha se vai pegar o barco e sair por conta propria
-Volte para a <color=#orange>「Vila Oculta」</color> e tome sua decisao.
-O que devo fazer agora? Devo simplesmente pegar o barco e sair sozinho...
-
-Roubar um barco
-Va pelo <color=#orange>Rio Escuro</color>
-Depois de obter o <color=#orange>「Barco Seguro」</color>, va até a borda do mapa onde esta o ícone do <color=#orange>「Rio Escuro」</color> para entrar em uma aventura que permitira deixar esta area.
-Como ja obtive o barco, siga rapidamente pelo rio escuro para sair e encontrar o Pai adotivo...
-
-Pegar um barco
-Volte para a Vila Oculta e pegue um barco para sair
-Volte para a <color=#orange>「Vila Oculta」</color> e pegue o item <color=#orange>「Barco Seguro」</color>.
-Tantas coisas aconteceram depois de eu sair do vale, espero que o Pai adotivo possa me explicar. Devo pegar o barco na vila e sair deste lugar...
-
-Atravessar o Rio
-Pegue o <color=#orange>Barco Seguro</color> e saia deste lugar
-Va para a aventura <color=#orange>「Rio Escuro」</color> e use o item <color=#orange>「Barco Seguro」</color> para entrar nela.
-Tantas coisas aconteceram depois de eu sair do vale, espero que o Pai adotivo possa me explicar. Ja obtive o barco, agora devo sair deste lugar...
-
-Encontrar o Jovem Ourico
-Encontre o <color=#orange>Jovem Ourico</color>
-Encontre o <color=#orange>Jovem Ourico</color> e converse com ele.
-
-Encontrar Huanyue
-Encontre <color=#orange>Huanyue</color>
-Encontre <color=#orange>Huanyue</color> e converse com ela.
-
-Mudancas na vila
-Corra de volta para a <color=#orange>Pequena Vila</color>
-Va até o tile da 「Vila Oculta」 e clique no ícone da aventura para entrar na aventura <color=#orange>「Mudancas na Vila」</color>.
-Parece que ainda tem gente na pequena vila! Va até la e descubra!
-
-Expulso da vila
-Nesse caso, basta pegar o barco e sair...
-
-Estacao de Exílio
-Encontre uma estacao que leva a <color=#orange>Vila Taiwu</color>
-Explore o mapa e encontre uma <color=#orange>「Estacao」</color> para encontrar uma maneira de chegar a <color=#orange>「Vila Taiwu」</color>.
-Deve haver uma estacao aqui que leva a Vila Taiwu, preciso visita-la assim que possível...
+Chirping Cricket
+Adoptive Father asked to capture <color=#orange>Crickets</color> 
+Move to a tile with a <color=#orange>Cricket Icon</color> on it and click it. Then consume <color=#orange>「Bug Net」</color> to start catching it. Don't be discouraged if you miss it. Simply go to another spot with a Cricket Icon on it and try again.
+I should catch some crickets for my Adoptive Father...
+
+Ferocious Valley Monkeys
+Go and drive away the Monkey King
+Go to the edge of the map where <color=#orange>「Heroic Monkey」</color> icon is, and click on it to go to the Monkey King's hideout.
+Those monkeys hurt people, so why not go to their hideout to drive them away...
+
+Return to Bamboo Hut
+Go back to the <color=#orange>Bamboo Hut</color> 
+Go to <color=#orange> 「Deep Valley - Bamboo Hut」</color> and click on it's icon to open <color=#orange> 「Return to Bamboo Hut」</color> adventure.
+Adoptive Father has been waiting for me for a long time, i should return to Bamboo Hut as soon as possible...
+
+Valley Exit
+Go to the edge of the Deep Valley to find an exit
+Go to <color=#orange>「Deep Valley Exit」</color> at the edge of the Deep Valley map, click on the encounter icon and leave Deep Valley.
+Since Adoptive Father instructed me to, i should immediately leave Deep Valley...
+
+Down the river
+Go down the river and leave the area
+Go to the edge of the map, find the <color=#orange>「Down the river」</color> icon and click on it to enter the adventure.
+Go to the river and leave this place just like Adoptive Father has instructed me...
+
+Ask for a vessel
+Go to <color=#orange>Hidden Village</color> and ask to borrow a boat
+Look for <color=#orange>「Hidden Village」</color> on the map. I wonder if there are any boats in the village that could help me pass through the dark river?
+Now the only way to get out of here is to borrow a boat from a nearby village...
+
+Old Dish
+Search for wild vegetables for the Old Daoist
+Search around the village for <color=#orange>Wild Vegetables</color> and deliver them to the Old Daoist.
+Old Daoist wants wild vegetables, I can only search around for a bit...
+
+Find Young Man
+Find <color=#orange>Young Man</color>
+Find <color=#orange>Young Man</color> and talk to him.
+Fortunately i can also ask villagers here for advice... But i don't know where these people are actually from...
+
+Gathering wild vegetables
+Collect <color=#orange>Food</color> 
+When you are in a resource tile, select <color=#orange>「Collect」</color> and select the <color=#orange>「Resource」</color> to obtain a certain number of resources. The amount of a given resource will be affected by the status of the world and the type of resources that the different tiles produce.
+It's not difficult to pick wild vegetables, pick some and go back...
+
+Cooking dishes
+Use <color=#orange>Kitchen</color> to cook food
+Click on the <color=#orange>Industry Icon</color> in the 「Hidden Village」 to open the industry screen. Select building <color=#orange>「Kitchen」</color>, press the <color=#orange>「Crafting」</color> button, and add a tool, resources, and an ingredient to cook a dish with.
+If you cook some wild vegetables for Old Daoist, you should be able to borrow a boat...
+
+Find an Official
+Find an <color=#orange>Official</color> 
+Find an <color=#orange>Official</color> and talk to them.
+
+Take a boat by force
+Choose whether to pick up the boat and leave by yourself
+Go back to <color=#orange>「Hidden Village」</color> and make your decision.
+What should i do now? Should i just take the boat and leave on my own...
+
+Steal a boat
+Go along <color=#orange>Dark River</color>
+After obtaining <color=#orange>「A secure boat」</color>, go to the edge of the map to <color=#orange>「Dark River」</color> icon to enter an adventure that will let you leave this area.
+Since the boat has been obtained, quickly follow along the dark river to leave and find Adoptive Father...
+
+Pick up a boat
+Return to the Hidden Village and find a boat to leave
+Go back to the <color=#orange>「Hidden Village」</color> and get the <color=#orange>「A secure boat」</color> item.
+So many things happened after i've left the valley, i hope Adoptive Father will be able to explain them to me. I should pick up the boat from the village and leave this place...
+
+Cross the River
+Take <color=#orange>A Secure Boat</color> and leave this place
+Go to the adventure <color=#orange>「Dark River」</color> and use the item <color=#orange>「A secure boat」</color> to enter it.
+So many things happened after i've left the valley, i hope Adoptive Father will be able to explain them to me. I have already obtained the boat, now i should leave this place...
+
+Find Young Urchiin
+Find <color=#orange>Young Urchin</color>
+Find <color=#orange>Young Urchin</color> and talk to him.
+
+Find Huanyue
+Find <color=#orange>Huanyue</color>
+Find <color=#orange>Huanyue</color> and talk to her.
+
+Changes in the village
+Hurry back to the <color=#orange>Small village</color> 
+Go to the 「Hidden Village」 tile and click on the adventure icon to enter the <color=#orange>「Changes in the village」</color> adventure.
+It seems that someone is still in the small village! Go and get them!
+
+Expelled from the village
+In that case, just take the boat and leave...
+
+Exile Station
+Find a Station that leads to <color=#orange>Taiwu Village</color>
+Explore the map and find a <color=#orange>「Station」</color> to find a way to reach <color=#orange>「Taiwu Village」</color>.
+There must be a station here that can go to Taiwu Village, I need to visit it as soon as i can...
 
-Encontrar um caminho para Taiwu
-Va para a <color=#orange>Vila Taiwu</color>
-Explore o mapa e va para a <color=#orange>「Vila Taiwu」</color>.
-Ouvi dizer que a Vila Taiwu fica aqui, entao vamos la rapido...
+Find a path to Taiwu
+Go to <color=#orange>Taiwu Village</color>
+Explore the map and go to the <color=#orange>「Taiwu Village」</color>.
+I heard that Taiwu Village is here, so let's go there quickly...
 
-Reconstruir o Salao Ancestral
-Construa o <color=#orange>Salao Ancestral de Taiwu</color>
-No tile da 「Vila Taiwu」, clique no <color=#orange>Ícone de Indústria</color> para acessar a tela de indústria. Clique no botao <color=#orange>「Construir」</color> no canto inferior direito para entrar no modo de construcao e selecione o <color=#orange>「Salao Ancestral」</color>. Certifique-se de ter recursos suficientes para construí-lo. Para construir, você pode selecionar manualmente os trabalhadores ou clicar no botao 「Arranjo Automatico」 para definir os trabalhadores mais eficientes automaticamente. Em seguida, pressione o botao 「Iniciar Construcao」 e escolha um espaco disponível na tela de indústria para comecar a construcao. Você tera que esperar um certo tempo até que o edifício esteja pronto.
-Devo construir este Salao Ancestral enquanto espero o retorno do Pai adotivo...
+Rebuilding the Ancestral Hall
+Build the <color=#orange>Taiwu Ancestral Hall</color> 
+On 「Taiwu Village」 tile click on the <color=#orange>Industry Icon</color> to enter the industry screen. Click on the <color=#orange>「Build」</color> button on the bottom right to enter the construction mode, and select the <color=#orange>「Ancestral Hall」</color>. Make sure that you have enough resources to build it. To build it, you can either manually select workers or click on the 「Auto Arrange」 button to automatically set the most efficient workers possible. Then press the 「Start Construction」 button and select the available space on the industry screen to start building. You will have to wait a certain amount of time before that building is finished.
+I should build this Ancestral Hall while waiting for Adoptive Father to return...
 
-Revitalizar Taiwu
-Criar edifícios na vila
-Va para <color=#orange>「Indústria」</color> na 「Vila Taiwu」, depois clique em 「Construir」 para criar um edifício. Na tela de 「Estudo」, você pode clicar no botao <color=#orange>「Artesanato」</color> para estudar livros de Artesanato e desbloquear novos edifícios com base nos livros que você leu. Os recursos naturais irao crescer e se expandir nas diferentes estacoes. Alguns edifícios específicos promoverao o crescimento de recursos naturais. Edifícios e recursos naturais podem ser removidos indo para a aba <color=#orange>Remover</color> na tela de informacoes. Ao remover um edifício ou recurso, você liberara um espaco e obtera alguns recursos de volta.
-Para revitalizar a Vila Taiwu, terei que criar alguns edifícios...
+Revitalize Taiwu
+Create buildings in the village
+Go to <color=#orange>「Industry」</color> in 「Taiwu Village」, then click on 「Build」 to create a building. On the 「Study」 screen you can click on the <color=#orange>「Fine arts」</color> button to study Fine art books to unlock new buildings based on the books you read. Natural resources will grow and expand in different seasons. Some specific buildings will promote the growth of natural resources. Buildings and natural resources can be removed by going to the <color=#orange>Remove</color> tab in their info screen. When a building or resource are removed, you will empty a space and get some resources back.
+To revitalize Taiwu Village, i will have to create some buildings...
 
-Marcar Localizacao
-<color=#orange>Envie moradores</color> para coletar recursos
-Quando você estiver em um tile de recurso, clique no botao <color=#orange>「Enviar」</color> para despachar um morador da Vila Taiwu para coletar recursos daquele tile. Clique no ícone do personagem no meio da tela de envio para mandar um morador específico ou clique em <color=#orange>「Envio Automatico」</color> para enviar aleatoriamente um morador. Depois de enviar um morador, você pode selecionar um recurso específico e recebê-lo todo mês.
-Existem tantos recursos... Eles precisam ser coletados por esforco coletivo...
+Mark Location
+<color=#orange>Dispatch villagers</color> to collect resources
+When you are on a resource tile, click on <color=#orange>「Dispatch」</color> button to dispatch a villager from Taiwu Village to collect resources from that tile. Click on the character icon in the middle of the dispatch screen to manually send a specific villager, or click on <color=#orange>「Auto Dispatch」</color> to automatically send a random villager. After dispatching a villager, you can select a specific resource and earn it every month.
+There are so many resources... They have to be gathered through collective efforts...
 
-Notícias sobre um Imortal
-Encontre a aventura <color=#orange>「Tumba Antiga do Imortal」</color>
-Enquanto cuido da Vila Taiwu, estou procurando pela aventura <color=#orange>「Tumba Antiga do Imortal」</color>. Talvez eu devesse esperar um pouco...
-Nao sei onde fica essa "Tumba Antiga do Imortal"...
+News about an Immortal
+Find the <color=#orange>「Ancient Tomb of the Immortal」</color> adventure
+While taking care of Taiwu Village, I'm looking for a <color=#orange>「Ancient Tomb of the Immortal」</color> adventure. Maybe i should wait for a while...
+I don't know where this "Ancient Tomb of the Immortal" is...
 
-Tumba Antiga do Imortal
-Encontre a <color=#orange>Tumba Antiga do Imortal</color>
-A tao falada <color=#orange>Tumba Antiga do Imortal</color> realmente existe. Eu devo ir la e conferir...
-Essa "Tumba Antiga do Imortal" parece estar ligada a Taiwu, essa viagem pode responder algumas das minhas perguntas...
+Ancient Tomb of the Immortal
+Find <color=#orange>Ancient Tomb of the Immortal</color>
+The rumored <color=#orange>Ancient Tomb of the Immortal</color> really exists. I should go and check it out...
+This "Ancient Tomb of the Immortal" seems to be associated with Taiwu, this trip may be able to answer some of my questions...
 
-Mistério dos Imortais
-Voltar para a <color=#orange>Vila Taiwu</color>
-Volte para a <color=#orange>「Vila Taiwu」</color>.
-Mais e mais mistérios estao sendo resolvidos... Vamos voltar para a vila primeiro...
+Mystery of the Immortals
+Return to <color=#orange>Taiwu Village</color>
+Return to <color=#orange>「Taiwu Village」</color>.
+More and more mysteries are being solved... Let's go back to the village first...
 
-Pessoa Estranha Apareceu
-Encontre a pessoa estranha
-Encontre a pessoa estranha perto da <color=#orange>「Vila Taiwu」</color>
-Sera que essa pessoa estranha veio para a Vila Taiwu?! Se eu nao estiver na vila, ela sera destruída!
+Strange Person Appeared
+Meet the strange person
+Meet the strange person near the <color=#orange>「Taiwu Village」</color>
+Is this strange person coming for Taiwu Village?! If I am not in the village, the village will be destroyed!
 
-Pessoa Estranha Traz Desgraca
-Proteja a <color=#orange>「Vila Taiwu」</color>!
-Essa pessoa estranha esta causando caos na vila, se eu nao voltar, temo que ela esteja em grande perigo!
+Strange Person Brings Disaster
+Protect the <color=#orange>「Taiwu Village」</color>!
+This strange person is wreaking havoc in the village, if I don't return, I'm afraid it will be in a grave danger!
 
-Avatar Desastroso
-Lute contra o <color=#orange>Avatar XiangShu</color>!
-Volte para a area da <color=#orange>Vila Taiwu</color> para lutar contra o Avatar XiangShu e selar a Tumba da Espada.
-O Avatar XiangShu esta enfurecido, se eu nao voltar para a vila, temo que mais desastres acontecam!
+Disastrous Avatar
+Fight the <color=#orange>XiangShu Avatar</color>!
+Return to the <color=#orange>Taiwu Village</color> area to fight the XiangShu Avatar and unseal the Sword Tomb.
+The XiangShu Avatar is raging, if I don't go back to the village, I'm afraid there will be more disasters!
 
-Estacao de Taiwu
-Restaure a <color=#orange>Estacao</color> da Vila Taiwu
-Va para o <color=#orange>「Vila Taiwu – Carroca Abandonada」</color> e entre na aventura <color=#orange>「Carroca Abandonada」</color>.
-Por agora, a única coisa que posso fazer é tentar reconstruir a Estacao e me comunicar com varias seitas...
+Taiwu Station
+Restore the Taiwu Village's <color=#orange>Station</color>
+Go to the <color=#orange>「Taiwu Village-Derelict Stagecoach」</color> and enter the <color=#orange>「Derelict Stagecoach」</color> adventure.
+For now the only thing i can do is to try to rebuild the Station and communicate with various sects...
 
-Visitando Seitas
-Visite as <color=#orange>Seitas</color> para aprender artes marciais
-Pressione o <color=#orange>「Mapa Mundial」</color> no topo do mapa no canto inferior direito, selecione uma seita com Estacao aberta no menu do Mapa Mundial e gaste Dinheiro e tempo para viajar até a seita. O custo aumenta conforme a distância. Equipar <color=#orange>「Montarias」</color> melhores pode reduzir o custo da viagem. Se você estiver viajando por uma area sem Estacao, precisara gastar uma certa quantidade de <color=#orange>「Prestígio」</color> para abrir uma Estacao naquela area. O custo de Prestígio cresce com cada Estacao aberta.
-Va rapidamente para varias seitas para praticar artes marciais e conspirar para derrotar XiangShu!
+Visiting Sects
+Visit <color=#orange>Sects</color> to learn martial arts
+Press the <color=#orange>「World Map」</color> at the top of the map on the bottom right, select a sect that has an opened Station on the World Map menu, and spend Money and time to travel to the sect. The cost increases with the travel distance. Equipping better <color=#orange>「Mounts」</color> can reduce the cost of traveling. If you are traveling through an area that doesn't have a Station, you will need to spend a certain amount of <color=#orange>「Prestige」</color> to open a Station in that area. The Prestige cost grows with each opened Station.
+Quickly go to various sects to practice martial arts, and conspire together to defeat XiangShu!
 
-Monge Sem Rosto visita a tumba
-Converse com o <color=#orange>Shi Shufu</color> perto da Tumba da Espada
-Va até o tile onde o <color=#orange>Shi Shufu</color> esta, e converse com ele para obter informacoes.
-O mestre Shi Shufu esta explorando perto da Tumba da Espada, por que nao ir e ouvir o que ele encontrou...
+Faceless Monk visits the tomb
+Talk to the <color=#orange>Shi Shufu</color> near the Sword Tomb
+Go to the tile where <color=#orange>Shi Shufu</color> is located, and talk to him to get information.
+Master Shi Shufu is exploring near the Sword Tomb, why not go and hear what he found...
 
-Destruir os Montículos Demoníacos
-Desselar a <color=#orange>Tumba da Espada</color> e enfrentar o <color=#orange>Avatar XiangShu</color>
-Va para a <color=#orange>「Tumba da Espada」</color> para entrar na aventura. Dessele a Tumba da Espada e enfrente o inimigo. A batalha sera extremamente perigosa, entao prepare-se cuidadosamente...
-As Tombas da Espada devem ser a chave para derrotar o XiangShu! Eu desselarei as Tombas da Espada e descobrirei!
+Destroy the Demonic Mounds
+Unseal the <color=#orange>Sword Tomb</color> and meet the <color=#orange>XiangShu Avatar</color>
+Go to <color=#orange>「Sword Tomb」</color> to enter the adventure. Unseal the Sword Tomb and face the enemy. The battle will be extremely dangerous, so be sure to prepare carefully...
+The Sword Tombs must be the key to defeating the XiangShu! I will unseal the Sword Tombs and find out!
 
-Tecelagem de Mo Nyu
+Weaving of Mo Nyu
 
-Va para a <color=#orange>「Tumba da Espada “Tecelagem de Mo Nyu”」</color> e desele a Tumba da Espada para enfrentar o inimigo. Aqui, os passaros pairam, a fumaca verde persiste e é extremamente perigoso...
+Go to the <color=#orange>「Sword Tomb “Weaving of Mo Nyu”」</color> and unseal the Sword Tomb to face the enemy. Here the birds are hovering, the green smoke is lingering, and it is extremely dangerous...
 
-Vencer o Mal
+Vanquish Evil
 
-Va para a <color=#orange>「Tumba da Espada “Vencer o Mal”」</color> e desele a Tumba da Espada para enfrentar o inimigo. Nenhuma folha de grama cresce aqui, cheia de espíritos malignos, este lugar é extremamente perigoso...
+Go to the <color=#orange>「Sword Tomb “Vanquish Evil”」</color> and unseal the Sword Tomb to face the enemy. Not a single blade of grass grows here, full of evil spirits, this place is extremely dangerous...
 
-Vassalo Glacial
+Glacial Vassal
 
-Va para a <color=#orange>「Tumba da Espada “Vassalo Glacial”」</color> e desele a Tumba da Espada para enfrentar o inimigo. A agua que pinga aqui se transforma em gelo, este lugar é extremamente frio e perigoso...
+Go to the <color=#orange>「Sword Tomb “Glacial Vessel”」</color> and unseal the Sword Tomb to face the enemy. Dripping water here turns into ice, this place is extremely cold and dangerous...
 
-Casulo de Fênix
+Phoenix Cocoon
 
-Va para a <color=#orange>「Tumba da Espada “Casulo de Fênix”」</color> e desele a Tumba da Espada para enfrentar o inimigo. Aqui, a luz dourada brilha intensamente, a fênix canta, e é extremamente perigoso...
+Go to the <color=#orange>「Sword Tomb “Phoenix Cocoon”」</color> and unseal the Sword Tomb to face the enemy. Here the golden light shines brightly, the phoenix sings, and it is extremely dangerous...
 
-Fundicao Espiritual
+Spirit Smelting
 
-Va para a <color=#orange>「Tumba da Espada “Fundicao Espiritual”」</color> e desele a Tumba da Espada para enfrentar o inimigo. O fogo estranho nao se apaga aqui, e cancoes tristes sao frequentemente cantadas. O perigo aqui é anormal...
+Go to the <color=#orange>「Sword Tomb “Spirit Smelting”」</color> and unseal the Sword Tomb to face the enemy. The strange fire is not extinguished here, and sorrowful songs are often sung. The danger here is abnormal...
 
-Anima Draconica
+Draconic Anima
 
-Va para a <color=#orange>「Tumba da Espada “Anima Draconica”」</color> e desele a Tumba da Espada para enfrentar o inimigo. Dragoes inundam este lugar, ha dragoes escondidos cantando, é extremamente perigoso...
+Go to the <color=#orange>「Sword Tomb “Draconic Anima”」</color> and unseal the Sword Tomb to face the enemy. Flood dragons come and go here, there are hidden dragons singing, it is extremely dangerous...
 
-Eremita
+Anchorite
 
-Va para a <color=#orange>「Tumba da Espada “Eremita”」</color> e desele a Tumba da Espada para enfrentar o inimigo. Aqui, ha rajadas de brilho, a névoa é densa e o perigo é anormal...
+Go to the <color=#orange>「Sword Tomb “Anchorite”」</color> and unseal the Sword Tomb to face the enemy. There are bursts of brilliance here, the mist is dense, and the danger is abnormal...
 
-Acerjail Infernal
+Infernal Acerjail
 
-Va para a <color=#orange>「Tumba da Espada “Acerjail Infernal”」</color> e desele a Tumba da Espada para enfrentar o inimigo. Aqui, a floresta de bordos é vermelha brilhante, o matar é sem fim, é extremamente perigoso aqui...
+Go to the <color=#orange>「Sword Tomb “Infernal Acerjail”」</color> and unseal the Sword Tomb to face the enemy. Here, the maple forest is bright red, killing is endless, it is extremely dangerous in here...
 
-Luz Maravilhosa
+Wonderglow
 
-Va para a <color=#orange>「Tumba da Espada “Luz Maravilhosa”」</color> e desele a Tumba da Espada para enfrentar o inimigo. Aqui, o sol brilha, o sol e a lua estao no mesmo céu, e é extremamente perigoso...
+Go to the <color=#orange>「Sword Tomb “Wonderglow”」</color> and unseal the Sword Tomb to face the enemy. Here the sun is shining, the sun and the moon are in the same sky, and it is extremely dangerous...
 
-Fuga daqui
-Saia daqui rapidamente!
-A terra coberta por pedras basalticas vermelhas foi engolida pelo XiangShu... Deixe a area, clique no botao <color=#orange>「Mapa Mundial」</color> no topo do mapa no canto inferior direito, e selecione a area sem o <color=#orange>Marcador de Destruicao</color> na tela do Mapa Mundial.
-Este lugar é muito perigoso, preciso escapar rapidamente!
+Escape from here
+Get out of here quickly!
+The land covered with red basalt stones has been swallowed up by the XiangShu... Leave the area, click the <color=#orange>「World Map」</color> button on top of the map on the bottom right, and select the area without the <color=#orange>Destruction Marker</color> on the World Map screen.
+This place is very dangerous, i need to escape quickly!
 
-Habilidades Mundanas
-Peca a alguém de uma seita para <color=#orange>Consultar uma arte marcial</color>
-Depois de obter permissao para aprender habilidades de uma seita, converse com a pessoa que pertence a essa seita e peca para ensinar habilidades na aba <color=#orange>（Aprender artes...）</color>. Clique no ícone <color=#orange>「Assentamento」</color> no topo do tile da seita para ver quem pertence a seita.
-Para praticar as técnicas do mundo, destruir as Tombas da Espada e erradicar o XiangShu, sou obrigado a fazer isso como um Taiwu!
+Worldly Skills
+Ask someone from a sect to <color=#orange>Consult a martial art</color>
+Once you have obtained permission to learn skills from a sect, talk to the person who belongs to that sect and ask them to teach you skills in the <color=#orange>（Learn arts...）</color> tab. Click on the <color=#orange>「Settlement」</color> icon at the top of the sect tile to see who belongs to the sect.
+To practice the world's techniques, to destroy the Sword Tombs, and to eradicate the XiangShu, I am obliged to do so as a Taiwu!
 
-Praticando Artes Marciais
-<color=#orange>Pratique</color> habilidades e equipe-as na aba <color=#orange>Loadout</color>
-Apos obter livros, você pode lê-los clicando no botao <color=#orange>「Estudar」</color> no canto inferior esquerdo. Você pode obter aleatoriamente <color=#orange>「Visao Súbita」</color> e usar estratégias de estudo para melhorar a eficiência de leitura. Para praticar artes marciais, va para o menu <color=#orange>「Artes Marciais」</color> e selecione <color=#orange>「Praticar」</color>. La, você pode selecionar uma habilidade que deseja praticar e gastar <color=#orange>「Tempo」</color> e <color=#orange>「Experiência」</color> para pratica-la. Pratica e Estudo nao se conflitao. Quando o percentual de pratica de uma habilidade atingir 50%, a habilidade podera ser equipada no slot correspondente na tela <color=#orange>「Loadout」</color> para ser usada em combate. Quando o percentual de pratica de uma habilidade atingir 100%, você pode <color=#orange>「Superar」</color> ela no menu <color=#orange>「Pratica」</color> para aumentar seu poder e obter uma <color=#orange>「Compreensao」</color> fornecida pelas paginas que você leu.
-Praticar artes marciais é difícil, mas é o que eu preciso fazer...
+Practicing Martial Art
+<color=#orange>Practice</color> skills and equip them in <color=#orange>Loadout</color> tab
+After obtaining books, you can read them by clicking on <color=#orange>「Study」</color> button on the bottom left. You can randomly get <color=#orange>「Sudden Insight」</color> and use study strategies to improve the reading efficiency. To practice martial arts, go to the <color=#orange>「Martial Arts」</color> menu and select <color=#orange>「Practice」</color>. There you can select a skill that you want to practice, and spend <color=#orange>「Time」</color> and <color=#orange>「Experience」</color> to practice it. Practice and Study do not conflict with each other. When the practice percentage of a skill reaches 50%, the skill can be equipped to the corresponding slot in the <color=#orange>「Loadout」</color> screen to be used in battle. When the practice percentage of a skill reaches 100%, you can <color=#orange>「Breakthrough」</color> it in the <color=#orange>「Practice」</color> menu to increase it's power, and get an <color=#orange>「Understanding」</color> provided by the pages you've read.
+Practicing martial arts is hard, but that's what i have to do...
 
-Nível de Apoio da Seita
-Obter Apoio da Seita
-Você pode ver o Apoio da Seita atual no canto inferior direito da tela de 「Indústria」 ou no topo do menu de 「Seita」. O nível das habilidades e das artes finas que serao ensinadas a você depende de quao alto é o seu Apoio da Seita.
-Se você quiser praticar técnicas mais profundas, precisara de um Apoio da Seita mais alto...
+Sect Support Level
+Getting Sect Support
+You can see the current Sect Support either on the bottom right of the 「Industry」 screen, or on top of the 「Sect」 menu. The level of skills and fine arts that will be taught to you depends on how high your Sect Support is.
+If you want to practice more profound techniques, you have to get higher Sect Support...
 
-Favor Regional
-Obter Favor Regional
-Você pode ver o Favor Regional atual no canto inferior direito da tela de 「Indústria」 ou no ícone da area no 「Mapa Mundial」. Você pode obter Favor Regional derrotando os 「Foras da Lei」 e destruindo os 「Esconderijos dos Foras da Lei」 na area.
-Se você quiser obter mais Favor Regional, precisa combater pessoas malignas...
+Regional Favor
+Getting Regional Favor
+You can see the current Regional Favor on the bottom right of the 「Industry」 screen, or on the area icon on 「World Map」. You can obtain Regional Favor by defeating 「Outlaws」 and destroying the 「Outlaw Hideouts」 in the area.
+If you want to obtain more Regional Favor, you need to fight wicked people...
 
-Visitante Imortal faz uma visita
-A primeira Tumba da Espada foi destruída, você pode voltar para <color=#orange>「Vila Taiwu」</color>.
-Apos destruir a Tumba da Espada, por que nao voltar para a vila para ver o que mudou...
+Immortal guest pays a visit
+The first Sword Tomb has been destroyed, you can return back to<color=#orange>「Taiwu Village」</color>.
+After breaking Sword Tomb, why not return to the village to see what changed...
 
-Procurando Manuais Lendarios
-Procure os <color=#orange>Manuais Lendarios</color>
-Os Manuais Lendarios serao liberados na area <color=#orange>「Aventura Manual Lendario」</color>, e todo tipo de pessoa lutara por eles. Derrote todos para obter o manual, ou aproveite a pessoa que adquiri-lo primeiro com a <color=#orange>「Interacao Manual Lendario」</color>.
-Os Manuais Lendarios sem dono certamente serao disputados pelos mestres de todo o mundo... Aqueles que possuírem os Manuais Lendarios inevitavelmente atrairao todos os tipos de pessoas...
+Seeking Legendary Manuals
+Look for <color=#orange>Legendary Manuals</color>
+Legendary Manuals will be released in the area <color=#orange>「Legendary Manual Adventure」</color>, all sorts of people will fight for them. Defeat all of them to get the manual, or take advantage of the person who acquires it first with the <color=#orange>「Legendary Manual Interaction」</color>.
+The ownerless Legendary Manuals will surely be contested by the experts from all over the world... Those who hold the Legendary Manuals will inevitably attract all kinds of people...
 
-Interpretando o Classico
-Decifre o <color=#orange>Manual Lendario</color>
-Clique em <color=#orange>「Manuais Lendarios」</color> para entrar na interface. Ao adquirir um manual lendario, você pode consumir <color=#orange>「Experiência」</color> para abrir os bonus de atributos correspondentes e abrir os slots de efeitos especiais onde você pode colocar armas ou habilidades específicas para obter aprimoramentos especiais; derrotar os demonios nos manuais lendarios desbloqueara o slot de resultado da superacao para tais habilidades.
-Esses livros estranhos definitivamente nao sao deste mundo, é como se os deuses os tivessem enviado para ca...
+Interpret the classic
+Decipher the <color=#orange>Legendary Manual</color> 
+Click on <color=#orange>「Legendary Manuals」</color> to enter the interface. When acquiring a legendary manual, you can consume <color=#orange>「Experience」</color> to open the corresponding attribute bonuses and open the special effect slots where you can place specific weapons or skills to obtain special enhancements; defeating the demons in the legendary manuals will unlock the breakthrough result save slot for such skills.
+These strange books are definitely not from this world, it's as if gods sent them here...
 
-Atraindo os Mortos
-A segunda Tumba da Espada foi destruída, você deve voltar para a <color=#orange>「Vila Taiwu」</color>.
-Destruí outra Tumba da Espada, é melhor voltar para a vila para ver se alguém esta visitando...
+Attracting the dead
+The second Sword Tomb has been destroyed, you should return to the <color=#orange>「Taiwu Village」</color>.
+Destroyed another Sword Tomb, might as well go back to the village to see if anyone is visiting...
 
-Plataforma de Reencarnacao
-Construa <color=#orange>Pontes da Alma</color>
-Va para a Indústria de 「Vila Taiwu」 e clique no botao Construir para fazer as <color=#orange>「Pontes da Alma」</color> usando o material principal 「Roda dos Seis Caminhos」. Entre na tela de 「Pontes da Alma」 para enviar os falecidos para a reencarnacao. Expandir as 「Pontes da Alma」 aumentara o número de lugares onde os falecidos podem ser enviados para a reencarnacao.
-A vida e a morte sao caminhos diferentes, mas isso pode enviar almas para a reencarnacao, o que é realmente um milagre...
+Platform of Reincarnation
+Build <color=#orange>Soul Bridges</color>
+Go to the 「Taiwu Village」 Industry and click on the Build button to make <color=#orange>「Soul Bridges」</color> using the 「Wheel of Six Paths」 core material. Enter the 「Soul Bridges」 screen to send the deceased to reincarnation. Expanding the 「Soul Bridges」 will increase the number of places where the deceased can be sent to reincarnation.
+Life and death are different ways, but this thing can send souls into reincarnation, which is a real miracle...
 
-Visitante Imortal retorna
-A terceira Tumba da Espada foi destruída, você deve voltar para a <color=#orange>「Vila Taiwu」</color>.
-Outra Tumba da Espada foi destruída, talvez seja hora de informar o Mestre Daoista Ran Chenzi sobre isso...
+Immortal guest returns
+The third Sword Tomb has been destroyed, you should return to the <color=#orange>「Taiwu Village」</color>.
+Another Sword Tomb has been destroyed, maybe it's time to inform Daoist Master Ran Chenzi about it...
 
-Bambu Misterioso
-Procure o local do <color=#orange>Bambu Misterioso</color>
-Va para o <color=#orange>「Bambu Misterioso」</color> para descobrir mais.
-O Mestre Daoista disse que este é o lugar onde o Bambu Misterioso deveria estar, eu deveria verificar...
+Mysterious bamboo
+Look for <color=#orange>Mysterious bamboo's</color> location
+Go to <color=#orange>「Mysterious bamboo」</color> to find out more.
+Daoist Master said that this is where the Mysterious bamboo should be, I should check it out...
 
-Avatar de Zizhu
-Faca amizade com o <color=#orange>Avatar de Zizhu</color>
-Procure o <color=#orange>「Avatar de Zizhu」</color> vagando pelo mundo e interaja com ele para melhorar sua boa vontade e aprender a causa de sua aparicao...
-Para "Iluminar suas aspiracoes, guiar seu coracao", devo me tornar amigo desta crianca primeiro...
+Zizhu Avatar
+Befriend <color=#orange>Zizhu Avatar</color>
+Look for <color=#orange>「Zizhu Avatar」</color> wandering around the world and interact with them to improve their goodwill and to learn the cause of their appearance...
+In order to "Enlighten their aspirations, guide their heart", i must become friends with this child first...
 
-Avatar de Mo Nyu
-Faca amizade com <color=#orange>Mo Nyu</color>
-A crianca esta cercada por passaros, brincando e se divertindo, muito íntima...
-
-Avatar de Yao Chang
-Faca amizade com <color=#orange>Dayue Yao Chang</color>
-Este jovem usa equipamentos fortes e afiados, dedicado a matar demonios, e esta sempre acompanhado por soldados armados...
-
-Avatar de Jiu Han
-Faca amizade com <color=#orange>Jiu Han</color>
-O gelo tem seus proprios usos... como moldar e esculpir...
+Mo Nyu Avatar
+Befriend <color=#orange>Mo Nyu</color>
+The child is surrounded by birds, joking and playing, very intimate...
+
+Yao Chang Avatar
+Befriend <color=#orange> Dayue Yao Chang</color>
+This young man wears tough and sharp equipment, dedicated to slaying demons and demons, and is always accompanied by armored soldiers...
+
+Jiu Han Avatar
+Befriend <color=#orange>Jiu Han</color>
+Ice has its own uses... such as shaping and sculpting...
 
-Avatar de Huang'er
-Faca amizade com <color=#orange>Jin Huang'er</color>
-O espírito de uma crianca deve ser tratado com bom vinho!
+Huang'er Avatar
+Befriend <color=#orange>Jin Huang'er</color>
+The spirit of a child should be treated with good wine!
 
-Avatar de Yihou
-Faca amizade com <color=#orange>Yi Yihou</color>
-Prenda as flores e use uma coroa, saboreie o bambu e afine as cordas, a seda crua e o brocado, tudo pela paixao do amor ardente...
+Yihou Avatar
+Befriend <color=#orange>Yi Yihou</color>
+Pin the flowers and wear a crown, taste the bamboo and tune the strings, the raw silk and the brocade, all for the infatuation of burning love...
 
-Avatar de Wei Qi
-Faca amizade com <color=#orange>Wei Qi</color>
-Se você realmente nao sabe o que é o "Dao", é melhor seguir os antigos sabios e adora-los...
+Wei Qi Avatar
+Befriend <color=#orange>Wei Qi</color>
+If you really don't know what the "Dao" is, you might as well follow the former sages and worship them...
 
-Avatar de Yi Xiang
-Faca amizade com <color=#orange>Yi Xiang</color>
-O jade da família He, a pérola do Marquês da Dinastia Sui, pode nao ser impecavel...
+Yi Xiang Avatar
+Befriend <color=#orange>Yi Xiang</color>
+和氏之璧，随侯之珠，也未必无瑕……
 
-Avatar de Xue Feng
-Faca amizade com <color=#orange>Xue Feng</color>
-A imortalidade é, claro, apenas um vestido deslumbrante, e as roupas bordadas podem combina-las...
+Xue Feng Avatar
+Befriend <color=#orange>Xue Feng</color>
+Immortality is of course only a gorgeous dress, and the embroidered clothes can match it...
 
-Avatar de Shu Fang
-Faca amizade com <color=#orange>Shu Fang</color>
-Das escrituras a historia, a boca recita o coracao, esta crianca é realmente um talento incomparavel...
+Shu Fang Avatar
+Befriend <color=#orange>Shu Fang</color>
+From the scriptures to the history, the mouth recites the heart, this child is really an unparalleled talent...
 
-Mudanca na Tumba da Espada
-As Tombas da Espada estao temporariamente fechadas, você deve voltar para a <color=#orange>「Vila Taiwu」</color>.
-Como as Tombas da Espada foram seladas, nao é possível destruí-las por enquanto... vamos voltar para a vila e descansar um pouco...
+Sword Tomb Change
+Sword Tombs are temporarily closed, you should return to the <color=#orange>「Taiwu Village」</color>.
+Since the Sword Tombs have been sealed, it is impossible to destroy them for the time being... let's go back to the village and have a break...
 
-Encontre Caravanas de Cha
-Construa <color=#orange>Caravanas de Cha</color>
-Entre na Indústria de 「Vila Taiwu」 e clique no espaco de construcao, use o 「Mapa da Regiao Oeste」 para fazer o edifício <color=#orange>「Caravanas de Cha」</color>. Entre no menu de 「Caravanas de Cha」, clique em <color=#orange>「Partir」</color> depois de carregar as mercadorias, e as Caravanas de Cha seguirao para o oeste no proximo mês. Apos trocar tesouros raros das Regioes Oeste, você pode clicar em <color=#orange>「Voltar」</color>, ou retornar a Vila Taiwu por conta propria apos todas as mercadorias serem trocadas. As Caravanas de Cha consumirao suprimentos todo mês, e você pode parar no mesmo local para coletar suprimentos no caminho. Você precisa ficar atento a situacao dos suprimentos para evitar perda de mercadorias.
-Acredito que deve haver muitos tesouros raros nas Regioes Oeste que podem ser trocados aqui...
+Meet Tea Caravans
+Build <color=#orange>Tea Caravans</color>
+Enter the 「Taiwu Village」 industry and click on the construction space, use the 「Map of Western Region」 to make the <color=#orange>「Tea Caravans」</color> building. Enter the 「Tea Caravans」 menu, click <color=#orange>「Set out」</color> after carrying the goods, and the Tea Caravans will head west in the next month. After exchanging rare treasures from the Western Regions, you can click <color=#orange>「Go back」</color>, or return to Taiwu Village by yourself after all the goods have been exchanged. Tea Caravans will consume supplies every month, and you can stop at the same place to collect supplies on the way. You need to pay attention to the supply situation to prevent loss of goods.
+I think there should be many rare treasures in the Western Regions that can be exchanged here...
 
-Tesouros do Oeste
-Presenteie <color=#orange>Tesouros do Oeste</color>
-Presenteie <color=#orange>「Tesouros do Oeste」</color> para os <color=#orange>「Avatares」</color> para aumentar o Favor deles.
-Os tesouros do Oeste sao tao raros, devem ser um presente excelente... Mas nao sei quem vai gostar deles...
+Western Treasures
+Gift <color=#orange>Western Treasures</color>
+Gift <color=#orange>「Western Treasures」</color> to <color=#orange>「Avatars」</color> to increase their Favor.
+Western treasures are so rare, they must be an excellent gift... But I don't know who will like them...
 
-Preparativos para a Alianca
-Ajude nos preparativos do <color=#orange>Torniquete Mundial de Artes Marciais</color>
-Durante o processo de preparacao do <color=#orange>「Torniquete Mundial de Artes Marciais」</color>, você pode discutir essa questao com as pessoas t3-t1 de cada seita e doar recursos. Apos o período preparatorio expirar, a seita com a maior forca preparatoria realizara o <color=#orange>「Torniquete Mundial de Artes Marciais」</color>. Este evento esta relacionado ao destino das artes marciais, por isso é necessario participar...
-A conferência de artes marciais esta sendo preparada, e quando for realizada, eu vou assistir...
+Preparing for the Alliance
+Assist in the preparation of <color=#orange>The World Martial Arts Tournament</color>
+During the preparation process of <color=#orange>「The World Martial Arts Tournament」</color> you can discuss this matter with the t3-t1 people of each sect and donate resources. After the preparatory period expires, the sect with the highest preparatory strength will hold the <color=#orange>「The World Martial Arts Tournament」</color>. This matter is related to the fate of martial arts, so you must go to participate...
+The martial arts conference is being prepared, and when it is held, I will go to watch it...
 
-Torneio de Artes Marciais
-Va para o <color=#orange>Torniquete Mundial de Artes Marciais</color>
-O <color=#orange>「Torniquete Mundial de Artes Marciais」</color> trata do destino do mundo das artes marciais, entao deve-se comparecer quando for realizado.
-A conferência de artes marciais é extremamente importante, eu devo participar...
+Martial Arts Tournament
+Go to <color=#orange>The World Martial Arts Tournament</color>
+<color=#orange>「The World Martial Arts Tournament」</color> is about the fate of the martial arts world, so be sure to attend when it is held.
+The martial arts conference is extremely important, i must attend it...
 
-Visita de Yufu
-Converse com <color=#orange>Ran Chenzi</color>
-Volte para a area de <color=#orange>「Vila Taiwu」</color> e procure por <color=#orange>Ran Chenzi</color>.
-A Flor Divina na verdade conhece o Mestre Daoista Ran Chenzi... Eu preciso perguntar ao Mestre Daoista para saber mais sobre isso...
+Visit from Yufu
+Talk to <color=#orange>Ran Chenzi</color>
+Go back to <color=#orange>「Taiwu Village」</color> area and look for <color=#orange>Ran Chenzi</color>.
+Divine Flower is actually acquainted with Daoist Master Ran Chenzi... I must ask Daoist Master to learn more about it...
 
-Fornalha da Espada FuYu
-Desbloqueie a Tumba da Espada e recupere a <color=#orange>Fornalha da Espada FuYu</color>
-Va até a Tumba da Espada <color=#orange>「Nome da Tumba da Espada」</color> e entre na aventura.
-A Tumba da Espada finalmente foi reaberta, agora posso entrar la e recuperar a fornalha da espada...
+FuYu Sword Furnace
+Unseal the Sword Tomb and retrieve the <color=#orange>FuYu Sword Furnace</color>
+Go to the Sword Tomb <color=#orange>「Name of Sword Tomb」</color> and enter the adventure.
+Sword Tomb has finally reopened, now I was can go in there and retrieve the sword furnace...
 
-Encontrar a fornalha da espada
-Descubra o mistério da <color=#orange>Fornalha da Espada FuYu</color>
-Reserve um tempo para explorar as maravilhas da <color=#orange>Fornalha da Espada FuYu</color>.
-Esta fornalha sagrada deve ter um mistério...
+Find the sword furnace
+Discover the mystery of <color=#orange>Fuyu Sword Furnace</color>
+Take time to explore the wonders of<color=#orange>"Fuyu Sword Furnace"</color>.
+This sacred furnace must have a mystery...
 
-Descida do Avatar de Xuanzhu
-Explore a descida do <color=#orange>Avatar de Xuanzhu</color>
-Va para a aventura de <color=#orange>「Descida do Avatar de Xuanzhu」</color>.
-O que significa "Descida do Avatar de Xuanzhu"?...
+Xuanzhu Avatar Descent
+Scout the <color=#orange>Xuanzhu Avatar Descent</color> descent.
+Go to the <color=#orange>「Xuanzhu Avatar Descent」</color> adventure.
+What does “Xuanzhu Avatar Descent” means?...
 
-As Duas Belezas Competem
-Espere por <color=#orange>Zi Wuxiao</color>
-Espere por <color=#orange>「Zi Wuxiao」</color>
-Agora que a garota Wuxiao voltou ao mundo presente, onde ela estara agora...
+The Two Beauties Compete
+Wait for <color=#orange>Zi Wuxiao</color>
+Wait for <color=#orange>「Zi Wuxiao」</color>
+Now that Wuxiao girl has returned to the present world, where is she now...
 
-Servos Ressuscitados
-Pense sobre como lidar com isso em <color=#orange>Vila Taiwu</color>
-Fique na <color=#orange>Vila Taiwu</color> e pense cuidadosamente sobre como lidar com os "Servos de Xiangshu".
-Agora que os Servos de Xiangshu apareceram... o mundo esta em caos... temo que algo estranho aconteca...
+Servants Resurrected
+Think about how to deal with it in the <color=#orange>Taiwu Village</color>
+Stay in the <color=#orange>Taiwu Village</color> and carefully think about how to deal with "Servants of Xiangshu".
+Now that the Servants of XiangShu have appeared...the world is in chaos...I'm afraid something strange will happen...
 
-Exterminar os Servos
-Enfrente os <color=#orange>Servos de XiangShu</color>
-Va até a <color=#orange>「Terra Destruída」</color>, encontre os poderosos <color=#orange>「Servos de XiangShu」</color>, e derrote-os.
-Xu Xiangong foi roubado... Agora a única forma é enfrentar os Servos de XiangShu...
+Exterminate the Servants
+Face the <color=#orange>XiangShu Servants</color>
+Go to the <color=#orange>「Destroyed Land」</color>, meet the powerful <color=#orange>「XiangShu Servants」</color>, and defeat them.
+Xu Xiangong was stolen... Now the only way is to face the XiangShu Servants...
 
-Xu Xiangong mostra o caminho
-Volte para a <color=#orange>「Vila Taiwu」</color>.
-Como eu posso derrota-los sozinho? Vamos voltar para a Vila Taiwu e ver se alguém tem uma solucao...
+Xu Xiangong shows the way
+Go back to the <color=#orange>「Taiwu Village」</color>.
+How can I kill them all by myself? Let's go back to Taiwu Village to see if anyone has a solution...
 
-A Terra Divina
-Va para a <color=#orange>Terra Divina</color>
-Quando a aventura de <color=#orange>「Terra Divina」</color> aparecer, va e entre nela.
-Depois que Xu Xiangong me mostrar o caminho para a Terra Divina, irei imediatamente para o reino de Xuan Shi e recuperar a lâmina da espada!
+The Land of the Divine
+Go to <color=#orange>The Land of the Divine</color> 
+When <color=#orange>「The Land of the Divine」</color> adventure appears, go and enter it.
+After Xu Xiangong shows me the way to The Land of the Divine, I will immediately go to the Xuan Shi realm and retreive the sword's blade!
 
-Luz de Selamento Demoníaco
-Va para a <color=#orange>Luz de Selamento Demoníaco</color>
-Entre na aventura de <color=#orange>「Luz de Selamento Demoníaco」</color>.
-Esta sendo uma corrida contra o tempo, entao corra até a luz divina, insira as espadas divinas, e selaremos o demonio juntos!
+Demon Sealing Light
+Go to <color=#orange>Demon Sealing Light</color> 
+Enter the <color=#orange>「Demon Sealing Light」</color> adventure.
+It's a close call, so hurry to the divine light, embed the divine swords, and seal the demon together!
 
 
-Va para 「Luz de Selamento Demoníaco - Mo Nyu」 e insira a espada divina deles.
+Go to 「Demon Sealing Light - Mo Nyu」 and embed their divine sword.
 
 
 
-Va para 「Luz de Selamento Demoníaco - Erradicar o Mal」 e insira a espada divina deles.
+Go to 「Demon Sealing Light - Vanquish Evil」 and embed their divine sword.
 
 
 
-Va para 「Luz de Selamento Demoníaco - Vassalo Glacial」 e insira a espada divina deles.
+Go to 「Demon Sealing Light - Glacial Vassal」 and embed their divine sword.
 
 
 
-Va para 「Luz de Selamento Demoníaco - Casulo Fênix」 e insira a espada divina deles.
+Go to 「Demon Sealing Light - Phoenix Cocoon」 and embed their divine sword.
 
 
 
-Va para 「Luz de Selamento Demoníaco - Fundicao Espiritual」 e insira a espada divina deles.
+Go to 「Demon Sealing Light - Spirit Smelting」 and embed their divine sword.
 
 
 
-Va para 「Luz de Selamento Demoníaco - Anima Draconica」 e insira a espada divina deles.
+Go to 「Demon Sealing Light - Draconic Anima」 and embed their divine sword.
 
 
 
-Va para 「Luz de Selamento Demoníaco - Ancora」 e insira a espada divina deles.
+Go to 「Demon Sealing Light - Anchorite」 and embed their divine sword.
 
 
 
-Va para 「Luz de Selamento Demoníaco - Prisao Infernal Acerjail」 e insira a espada divina deles.
+Go to 「Demon Sealing Light - Infernal Acerjail」 and embed their divine sword.
 
 
 
-Va para 「Luz de Selamento Demoníaco - Brilho Maravilhoso」 e insira a espada divina deles.
+Go to 「Demon Sealing Light - Wonderglow」 and embed their divine sword.
 
 
-Buda Ilimitado
-Viaje pelo mundo <color=#orange>para visitar todos os templos</color>
-Va para as <color=#orange>Cidades e Vilarejos</color> nas diversas regioes do mundo para prestar homenagem aos templos. A maioria dos templos esta localizada na <color=#orange>Area da Cidade Principal</color> da regiao, e alguns templos estao espalhados por <color=#orange>outras areas</color>.
-A poeira do mundo, as areias do rio Ganges, as escrituras podem estar distantes, ou até mesmo sob seus pés...
+Boundless Buddha
+Travel the world <color=#orange>to visit all the temples</color>
+Go to the <color=#orange>Cities and Villages</color> in various regions of the world to pay homage to temples. Most of the temples are located in the <color=#orange>Main City Area</color> of the region, and some temples are scattered in <color=#orange>other areas</color>.
+The dust of the world, the sands of the Ganges River, the scriptures may be far away, or even under your feet...
 
-Templos de Jingji
+Jingji Temples
 
-Viaje para <color=#orange>Jingji</color> para visitar templos.
+Travel to <color=#orange>Jingji</color> to visit temples.
 
-Templos de Bashu
+Bashu Temples
 
-Viaje para <color=#orange>Bashu</color> para visitar templos.
+Travel to <color=#orange>Bashu</color> to visit temples.
 
-Templos de Guangnan
+Guangnan Temples
 
-Viaje para <color=#orange>Guangnan</color> para visitar templos.
+Travel to <color=#orange>Guangnan</color> to visit temples.
 
-Templos de Jingbei
+Jingbei Temples
 
-Viaje para <color=#orange>Jingbei</color> para visitar templos.
+Travel to <color=#orange>Jingbei</color> to visit temples.
 
-Templos de Shanxi
+Shanxi Temples
 
-Viaje para <color=#orange>Shanxi</color> para visitar templos.
+Travel to <color=#orange>Shanxi</color> to visit temples.
 
-Templos de Guangdong
+Guangdong Temples
 
-Viaje para <color=#orange>Guangdong</color> para visitar templos.
+Travel to <color=#orange>Guangdong</color> to visit temples.
 
-Templos de Shandong
+Shandong Temples
 
-Viaje para <color=#orange>Shandong</color> para visitar templos.
+Travel to <color=#orange>Shandong</color> to visit temples.
 
-Templos de Jingnan
+Jingnan Temples
 
-Viaje para <color=#orange>Jingnan</color> para visitar templos.
+Travel to <color=#orange>Jingnan</color> to visit temples.
 
-Templos de Fujian
+Fujian Temples
 
-Viaje para <color=#orange>Fujian</color> para visitar templos.
+Travel to <color=#orange>Fujian</color> to visit temples.
 
-Templos de Liaodong
+Liaodong Temples
 
-Viaje para <color=#orange>Liaodong</color> para visitar templos.
+Travel to <color=#orange>Liaodong</color> to visit temples.
 
-Templos do Oeste
+Western Temples
 
-Viaje para o <color=#orange>Oeste</color> para visitar templos.
+Travel to the <color=#orange>West</color> to visit temples.
 
-Templos de Yunnan
+Yunnan Temples
 
-Viaje para <color=#orange>Yunnan</color> para visitar templos.
+Travel to <color=#orange>Yunnan</color> to visit temples.
 
-Templos de Huainan
+Huainan Temples
 
-Viaje para <color=#orange>Huainan</color> para visitar templos.
+Travel to <color=#orange>Huainan</color> to visit temples.
 
-Templos de Jiangnan
+Jiangnan Temples
 
-Viaje para <color=#orange>Jiangnan</color> para visitar templos.
+Travel to <color=#orange>Jiangnan</color> to visit temples.
 
-Templos de Jiangbei
+Jiangbei Temples
 
-Viaje para <color=#orange>Jiangbei</color> para visitar templos.
+Travel to <color=#orange>Jiangbei</color> to visit temples.
 
-Teste de Veneno
-Aceite o pedido do <color=#orange>Chefe da Seita de Kongsang</color>
-Aceite o pedido do <color=#orange>Chefe da Seita de Kongsang</color> para ajudar Liao Wuming com um teste de veneno.
-Fico me perguntando o que ha de estranho nesse teste de veneno...
+Poison Test
+Accept request of the <color=#orange>Sect Master of Kongsang Sect</color>
+Accept request of the <color=#orange>Sect Master of Kongsang Sect</color> to help Liao Wuming with a poison test.
+I wonder what's so strange about this poison test...
 
-Busca de Wuming
-Converse com <color=#orange>Liao Wuming</color> depois de localiza-lo
-Converse com <color=#orange>Liao Wuming</color>, depois <color=#orange>espere</color> até que ele encontre um candidato para o teste de veneno antes de ir ajuda-lo.
-Liao Wuming precisa testar o veneno, entao ele precisa encontrar um candidato adequado...
+Wuming's Search
+Talk to <color=#orange>Liao Wuming</color> after locating him
+Talk to <color=#orange>Liao Wuming</color>,then <color=#orange>wait</color> until he finds a candidate to poison test before going to help.
+Liao Wuming wants to test the poison, so he needs to find a suitable candidate...
 
-Teste de Drogas de Wuming
-Va para <color=#orange>{0}</color> para ajudar Liao Wuming com o teste de veneno.
-Liao Wuming enviou uma carta dizendo que finalmente encontrou um sujeito para testar o veneno em <color=#orange>{0}</color>, va e ajude-o.
-Como Liao Wuming encontrou um sujeito para o teste, eu vou ajuda-lo...
+Wuming's Drug Test
+Go to <color=#orange>{0}</color> to help Liao Wuming with testing poison.
+Liao Wuming sent a letter saying that he finally found a test subject to test poison at <color=#orange>{0}</color>, go and help him.
+Since Liao Wuming has found a test subject, I will go to help...
 
-Procurar o Chefe da Seita
-Volte para <color=#orange>Kongsang Sect</color> e converse com o Chefe da Seita
-Volte para <color=#orange>Kongsang Sect</color> para falar com o Chefe da Seita e informa-lo sobre como foi o teste de veneno.
-Essa historia esta estranha, sera que o veneno estranho nao foi refinado...
+Look for the Sect Master
+Return to <color=#orange>Kongsang Sect</color> and speak with the Sect Master
+Return to <color=#orange>Kongsang Sect to speak with Sect Master</color>, and inform them about how poison test went.
+This matter is strange, could it be that the strange poison has not been refined...
 
-<color=#orange>Espere</color> enquanto Liao Wuming procura alguém.
-<color=#orange>Espere calmamente</color> até Liao Wuming terminar de encontrar um sujeito para o teste.
-Quem sera que Liao Wuming vai encontrar desta vez...
+<color=#orange>Wait</color> while Liao Wuming is looking for someone.
+<color=#orange>Calmly wait</color> for Liao Wuming to finish finding a test subject.
+I wonder who Liao Wuming will find this time...
 
 
-Volte para a <color=#orange>Seita Kongsang</color>, <color=#orange>visite seu Chefe da Seita</color> e conte o que aconteceu durante o teste de veneno.
-Fico me perguntando como a Seita Kongsang reagira ao caso de Liao Wuming...
+Return to <color=#orange>Kongsang Sect</color>,<color=#orange>visit it's Sect Master</color>, and recount what happened during the poison test.
+I wonder how Kongsang Sect will react to Liao Wuming's matter...
 
 
-Va até <color=#orange>{0}</color> para encontrar Liao Wuming
+Go to <color=#orange>{0}</color> to find Liao Wuming
 
-Volte para a <color=#orange>Seita Kongsang</color>, <color=#orange>visite seu Chefe da Seita</color> e conte a eles sobre a experiência do teste de veneno.
-O teste de veneno é realmente estranho, melhor ir perguntar ao Chefe da Seita sobre isso...
+Return to <color=#orange>Kongsang Sect</color>,<color=#orange>visit it's Sect Master</color>, and tell them about the experience of testing that poison.
+The poison test is really strange, i better go and ask Sect Master about it...
 
-Procurando por Wuming
-Converse com <color=#orange>Liao Wuming</color>
-Converse com <color=#orange>Liao Wuming</color> e pergunte a ele sobre o estranho veneno.
-"Veneno estranho" realmente é estranho, mas sera que é realmente "veneno"...
+Searching for Wuming
+Talk to <color=#orange>Liao Wuming</color>
+Talk to <color=#orange>Liao Wuming</color>, and ask him about the strange poison.
+“Strange poison” is indeed strange, but is it really “poison”...
 
-Teste do Veneno Estranho Concluído
-Volte para a <color=#orange>Seita Kongsang</color> e relate ao Chefe da Seita
-O veneno estranho foi concluído, volte para a <color=#orange>Seita Kongsang</color>, <color=#orange>visite seu Chefe da Seita</color> e relate sobre a conclusao do teste de veneno.
-Vamos nos encontrar com o chefe da Kongsang para contar sobre o ocorrido...
+Strange Poison Completed
+Return to <color=#orange>Kongsang Sect</color> and report to the Sect Master
+The strange poison has been completed, return to <color=#orange>Kongsang Sect</color>, <color=#orange>visit it's Sect Master</color>, and report about finishing the job of poison testing.
+Let's go to meet the head of Kongsang to recount the matter...
 
-Paradeiro do falecido
-Amigo antigo se vai, nunca vivenciando a preciosa vida
-「Aqueles que nao conseguem alcancar a imortalidade sao como mayflies para o mundo.」Com o desaparecimento de Liao Wuming, sua sobrevivência é incerta. Fico imaginando se poderemos nos encontrar novamente no futuro?
-Com o desaparecimento do velho amigo, fico me perguntando se poderemos nos encontrar novamente no futuro...
+Whereabouts of the deceased
+Old friend leaves, never experiencing precious life
+「Those who are unable to achieve immortality are like mayflies to the world.」With Liao Wuming's disappearance, his survival is uncertain. I wonder if we'll be able to meet again in the future?
+With old friend's disappearance, i wonder if we'll be able to meet again in the future...
 
-A Morte da Vida Eterna
-Entre na aventura <color=#orange>"A Morte da Vida Eterna"</color>
-Va até <color=#orange>「Montanha Kongsang」</color> e entre na aventura <color=#orange>「A Morte da Vida Eterna」</color>.
-Acho que o destino com o velho amigo nao acabou, ainda ha tempo para nos encontrarmos novamente...
+The Death of Eternal Life
+Enter the <color=#orange>"The Death of Eternal Life"</color> adventure
+Go to <color=#orange>「Kongsang Mountain」</color> and enter <color=#orange>「The Death of Eternal Life」</color> adventure.
+I think the fate with the old friend is not over, there is still a time to meet again...
 
-Coveiro Sanguinolento
-Va até a <color=#orange>Seita Bloodhound</color> e desenterre um túmulo
-Va até a <color=#orange>Seita Bloodhound</color> e interaja com qualquer <color=#orange>túmulo de membro da Seita Bloodhound</color> para realizar a acao de <color=#orange>「Desenterrar o túmulo」</color> e investigar o problema dos fantasmas.
-Ha rumores estranhos sobre fantasmas no Vale Blood Hou, talvez eu devesse investigar...
+Bloody Grave Digger
+Go to <color=#orange>Bloodhound Cult</color> and dig up a grave
+Go to <color=#orange>Bloodhound Cult</color>, and interact with any <color=#orange>Bloodhound Cult member's grave</color> to conduct <color=#orange>「Grave digging」</color> on it in order to investigate the ghost problem.
+There are strange rumors of ghosts in the Blood Hou Valley, maybe i should go and investigate...
 
-Sineta Quebrada
-Va até o <color=#orange>Vale Blood Hou</color>
-A <color=#orange>Sineta Quebrada</color> esta profundamente relacionada ao Vale Blood Hou, tome cuidado se decidir investiga-la.
-Essa sineta parece ser estranha, devo tomar cuidado...
+Broken Bell
+Go to <color=#orange>Blood Hou Valley</color>
+<color=#orange>Broken Bell</color> is deeply related to Blood Hou Valley, proceed with caution if you decide to investigate it.
+This bell seems to be weird, i should be careful...
 
-Velho Homem Estranho
-Fique no <color=#orange>Vale Blood Hou</color>
-Esse Velho Homem de Vermelho é bem estranho, talvez eu devesse ficar no <color=#orange>Vale Blood Hou</color> para investigar.
-O que sera que o Velho Homem de Vermelho quis dizer sobre o patriarca...
+Weird Old Man
+Stay in <color=#orange>Blood Hou Valley</color>
+This Old Man in Red is quite strange, maybe i should stay in <color=#orange>Blood Hou Valley</color> to investigate.
+What did the Old Man in Red mean when he said about the patriarch...
 
-Velho Homem de Vermelho
-Converse cautelosamente com o <color=#orange>Velho Homem de Vermelho</color>
-O <color=#orange>Velho Homem de Vermelho</color> apareceu e tive uma conversa cautelosa com ele.
-Esse Velho Homem de Vermelho realmente nao é uma pessoa comum, melhor eu tomar cuidado...
+Old Man in Red
+Cautiously talk with the <color=#orange>Old Man in Red</color>
+<color=#orange>Old Man in Red</color> appeared, and i had a cautious conversation with him.
+This Old Man in Red is really not an ordinary person, i better be careful...
 
-Investigar Luz Sanguinolenta
-Fique na <color=#orange>Luz Sanguinolenta</color> por um mês
-Fique na <color=#orange>Luz Sanguinolenta</color> e aguarde o <color=#orange>Velho Homem de Vermelho</color> aparecer.
-O Velho Homem de Vermelho seguiu a sineta, e eu precisei ficar na Luz Sanguinolenta...
+Investigate Bloody Light
+Stay at <color=#orange>Bloody Light<color=#orange> for a month
+Stay at the <color=#orange>Bloody Light</color>, and wait for <color=#orange>Old Man in Red</color> to appear.
+The Old Man in Red followed the bell, and had to stay at the Bloody Light...
 
-O Túmulo dos Mortos
-Entre na aventura <color=#orange>"O Túmulo dos Mortos"</color>
-Entre na aventura <color=#orange>"O Túmulo dos Mortos"</color>.
-Ha um túmulo antigo onde a Luz Sanguinolenta desapareceu, deixe-me explora-lo com cuidado...
+The Tomb of the Dead
+Enter the <color=#orange>"The Tomb of the Dead"</color> adventure
+Enter the <color=#orange>"The Tomb of the Dead"</color> adventure.
+There is an ancient tomb where the Blood Light disappeared, let me carefully explore it...
 
-Ji Xi Retorna
-Volte para <color=#orange>Taiwu Village</color> junto com Ji Xi
-Volte para <color=#orange>Taiwu Village</color> junto com Ji Xi. Este corpo parece ter muito a ver com Ji Xi, se você acidentalmente <color=#orange>passar a espada</color>, mais tarde isso pode causar consequências irreparaveis.
-Como Ji Xi esta sem-teto, é melhor leva-la para Taiwu Village, para que alguém possa cuidar dela...
+Ji Xi Returns
+Return to <color=#orange>Taiwu Village</color> together with Ji Xi
+Return to <color=#orange>Taiwu Village</color> together with Ji Xi. This body seems to have a lot to do with Ji Xi, if you accidentally <color=#orange>pass the sword</color>, later on it may cause irreparable consequences.
+Since Ji Xi is homeless, it is better to take her to Taiwu Village, so that someone could take care of her...
 
-Fique na Vila
-Fique na <color=#orange>Taiwu Village</color> para acompanhar Ji Xi
-Fique na <color=#orange>Taiwu Village</color> para acompanhar Ji Xi.
-Ji Xi esta sozinha, entao eu devo ficar com ela na vila e nao viajar para longe...
+Stay in the Village
+Stay in <color=#orange>Taiwu Village</color> to accompany Ji Xi
+Stay in <color=#orange>Taiwu Village</color> to accompany Ji Xi.
+Ji Xi is alone, so i should stay with her in the village and not travel far away...
 
-Mistério Complicado
-Va para <color=#orange>Mistério Complicado</color>
-Quando a aventura <color=#orange>Mistério Complicado</color> aparecer, va até la para investigar os estranhos acontecimentos na vila e fique na Taiwu Village para acompanhar Ji Xi pelo resto do tempo.
-Parece que coisas estranhas estao acontecendo na vila, eu devo ir investigar...
+Tricky Mystery
+Go to <color=#orange>Tricky Mystery</color>
+When <color=#orange>Tricky Mystery</color> adventure appears, go there to investigate the strange happenings in the village, and stay in Taiwu Village to accompany Ji Xi for the rest of the time.
+Strange things seem to happen in the village, i should go and investigate...
 
-Monstro da Vila
+Village Monster
 
-Quando apareceu tal monstro maligno na Taiwu Village...
+When did such an evil monster appear in the Taiwu Village...
 
 
-Fantasmas Canibais
+Man-eating Ghosts
 
-Os fantasmas canibalizam pessoas, poderia realmente ser coisa de Ji Xi...
+Ghosts cannibalize people, could it really be Ji Xi's doings...
 
 
-A Fantasma Feminina Guia o Caminho
+Female Ghost Leads the Way
 
-Qual é o proposito da fantasma feminina me levar até aqui...
+What is the purpose of the female ghost leading me here...
 
 
-Fantasma Feminino da Meia-noite
+Midnight Female Ghost
 
-A fantasma feminina da meia-noite, poderia realmente ser Ji Xi...
+The female ghost at the midnight, could it really be Ji Xi...
 
 
-Velha Conhecida de Vermelho
+Old Acquaintance in Red
 
-O tecido era originalmente vermelho, e parece familiar...
+The cloth was originally red, and it seems familiar...
 
 
-Ji Xi Machuca Pessoas
+Ji Xi Harms People
 
-Sera que Ji Xi realmente machucou alguém...
+Could it be that Ji Xi really harmed someone...
 
 
-Dúvidas e Tristeza
-<color=#orange>Os acontecimentos estranhos na aldeia</color> podem ser resolvidos
-Ha uma solucao para os estranhos acontecimentos na aldeia. Devo esperar alguns dias para descobrir a melhor forma de resolvê-los...
-Os estranhos acontecimentos na aldeia precisam ser resolvidos de forma adequada...
+Doubtful and Sad
+<color=#orange>Strange happenings in the village</color> can be resolved
+There is a solution to the strange happenings in the village. I should wait for a few days to figure out how to properly resolve it...
+The strange happenings in the village must be properly settled...
 
-Procurando por Ji Xi
-Va até <color=#orange>{0}</color> para encontrar Ji Xi
-Va até <color=#orange>{0}</color> para encontrar Ji Xi e converse com ela.
-Desde que Ji Xi deixou Taiwu Village, por que nao perguntar a ela sobre isso...
+Looking for Ji Xi
+Go to <color=#orange>{0}</color> to find Ji Xi
+Go to <color=#orange>{0}</color> to find Ji Xi and talk to her.
+Since Ji Xi left Taiwu Village, why not ask her about it...
 
-Colapso da Floresta da Pagoda
-Converse com as pessoas de <color=#orange>Shaolin</color>
-Converse com as pessoas de <color=#orange>Shaolin</color> e <color=#orange>pergunte</color> sobre o colapso da Floresta da Pagoda.
-A Floresta da Pagoda esta colapsando, me pergunto o motivo...
+Pagoda Forest Colapses
+Talk to people of <color=#orange>Shaolin</color>
+Talk to <color=#orange>Shaolin</color> people, and <color=#orange>ask</color> them about the collapsing Pagoda forest
+Pagoda Forest is collapsing, i wonder why...
 
-Escultura de Madeira Podre
-Segure a Escultura Suja e <color=#orange>espere pela oportunidade</color>
-Um pequeno monge confiou a você a missao de <color=#orange>devolver a Escultura Suja a Shaolin</color>; porém, o colapso da Floresta da Pagoda nao é algo comum, entao talvez você consiga encontrar uma <color=#orange>oportunidade</color>, melhor guardar a escultura por enquanto e <color=#orange>esperar calmamente</color> por uma boa chance.
-Talvez essa escultura esconda um segredo profundo, é melhor esperar e observa-la com mais cuidado...
+Rotten Wooden Sculpture
+Hold Dirty Sculpture and <color=#orange>wait for the opportunity</color>
+A little monk had entrusted you with <color=#orange>returning the Dirty Sculpture to Shaolin</color>; However, the collapses in the Pagoda Forest were anything but ordinary, so perhaps you will be able to find an <color=#orange>opportunity</color>, so why not save it for now and <color=#orange>calmly wait</color> for a golden opportunity.
+Perhaps this sculpture is hiding a profound secret, it's better to wait for now and carefully observe it...
 
-Devolver a Estatua
-Devolva a <color=#orange>Escultura Suja</color> a Shaolin
-<color=#orange>Interaja</color> com um personagem de Shaolin para devolver a <color=#orange>Escultura Suja</color> a Shaolin.
-A oportunidade no sonho acabou, e o caminho do Zen e das artes marciais foi cultivado...
+Return the Statue
+Return the <color=#orange>Dirty Sculpture</color> to Shaolin
+<color=#orange>Interact</color> with a Shaolin character to return <color=#orange>Dirty Sculpture</color> to Shaolin.
+The opportunity in the dream is over, and the way of Zen and martial arts has been cultivated...
 
-Som da Guqin a Meia-noite
-<color=#orange>Espere calmamente</color> por um tempo
-Esta situacao esta confusa, entao por que nao <color=#orange>esperar calmamente</color> por um momento mais oportuno.
-Esta melodia de Xuannyu e a palavra amor, sao realmente difíceis de entender...
+Midnight Sound of Guqin
+<color=#orange>Calmly wait</color> for a while
+This situation is confusing, so why not <color=#orange>calmly wait</color> for a better timing.
+This Xuannyu melody, and the word love, they are indeed hard to understand...
 
-Carta do Luan Azure
-<color=#orange>Espere calmamente</color> por uma carta misteriosa
-<color=#orange>Espere por uma</color> carta misteriosa carimbada com o selo do Luan Azure.
-O remetente dessa carta é bem misterioso. Você precisa prestar mais atencao ao selo do Luan Azure no futuro...
+Azure Luan's Letter
+<color=#orange>Calmly wait</color> for a mysterious letter
+<color=#orange>Wait for a</color> mysterious letter stamped with the seal of the Azure Luan.
+The sender of this letter is quite mysterious. You need to pay more attention to the Seal of Azure Luan in the future...
 
-Historia dos Velhos Amigos
-Va e <color=#orange>examine vilas e cidades proximas ao Pico Xuannyu</color>
-Va e <color=#orange>visite vilas e cidades perto do Pico Xuannyu</color>, e <color=#orange>interaja com os locais</color> para saber mais sobre a pessoa misteriosa.
-É muito triste ouvir que essa pessoa faleceu e tao pouco se sabe sobre ela...
+Old Friends' Story
+Go and <color=#orange>examine villages and cities near the Xuannyu Peak</color>
+Go and <color=#orange>visit villages and cities near the Xuannyu Peak</color>, and <color=#orange>Interact with locals</color> to learn more about the mysterious person.
+It’s really sad to hear that this person has passed away and so little is known about them...
 
-Descobrindo Mais
-<color=#orange>Encontre Yun'er</color> para saber mais
-<color=#orange>Encontre Yun'er</color> mais uma vez para saber mais sobre a situacao.
-De repente, ouvi um som triste no topo do Pico Xuannyu, nao sei se é algo bom ou ruim...
+Finding Out More
+<color=#orange>Find Yun'er</color> to find out more
+<color=#orange>Find Yun'er</color> once more to find out more about the situation
+Suddenly I heard a sad sound at the top of Xuannyu Peak, I don't know whether it is good or bad...
 
-Luan Solitario no Espelho
-Entre na aventura <color=#orange>"Luan Solitario no Espelho"</color>
-Entre na aventura <color=#orange>"Luan Solitario no Espelho"</color>. Você também pode <color=#orange>interagir com as pessoas no Xuannyu Sect</color> para perguntar sobre a pessoa misteriosa e o "Espelho da Balada do Luan Solitario".
-Ouvi dizer que essa pessoa costumava ir até o topo do Pico Xuannyu para tocar guqin, por que nao ir e prestar minhas homenagens...
+Lonely Luan in the Mirror
+Enter the <color=#orange>"Lonely Luan in the Mirror"</color> adventure
+Enter the <color=#orange>"Lonely Luan in the Mirror"</color> adventure. You can also <color=#orange>Interact with people at Xuannyu Sect</color> to ask about the mysterious person and the "Lone Luan's Ballad Mirror".
+I heard that this person often went to the top of Xuannyu Peak to play zither, so why not go and pay my respects...
 
-Procurar Yun'er
-Va até o Espelho de Jade <color=#orange>para procurar Yun'er</color>
-Se mudar de ideia, você pode ir até o Xuannyu Sect, abrir sua Indústria e clicar na peca <color=#orange>Espelho de Jade</color> <color=#orange>para procurar Yun'er</color>.
-No Espelho de Jade, Yun'er me confiou a tarefa de encontrar alguém, o que posso refletir sobre...
+Look for Yun'er
+Go to Jade Mirror <color=#orange>to look for Yun'er</color>
+If you change your mind, you can go to Xuannyu Sect, open its Industry, and click on <color=#orange>Jade Mirror</color> tile <color=#orange>to look for Yun'er</color>.
+In the Jade Mirror, Yun'er entrusted me with the task of finding someone, which i can think over...
 
-Pratica no Espelho
-Va até o Xuannyu Sect, abra sua Indústria e clique na peca <color=#orange>Espelho de Jade</color> <color=#orange>para procurar Yun'er e entrar no espelho para praticar</color>.
-A jovem Yun'er quer nos ensinar as habilidades de Xuannyu. Pode ser uma boa ideia visita-la perto do Espelho de Jade.
+Practice in the Mirror
+Go to Xuannyu Sect, open its Industry, and click on <color=#orange>Jade Mirror</color> tile <color=#orange>to look for Yun'er and enter the mirror for practice</color>.
+Young lady Yun'er wants to teach each other skills of Xuannyu. It might be a good idea to visit her near the Jade Mirror.
 
-Espelho de Jade Se Torna Espiritual
-Entre na aventura <color=#orange>"Uma Terra das Fadas Brilhante"</color>
-Entre na aventura <color=#orange>"Uma Terra das Fadas Brilhante"</color>.
-O Espelho de Jade parece estar reagindo, talvez isso possa nos ajudar a encontrar a localizacao da Irma Sênior...
+Jade Mirror Becomes Spiritual
+Enter the <color=#orange>"A Bright Fairyland"</color> adventure
+Enter the <color=#orange>"A Bright Fairyland"</color> adventure.
+Jade Mirror seems to be reacting, perhaps it could help us find Senior Sister's location...
 
-Procurando por Mil Li
-Va até <color=#orange>{0}</color>
-Va até <color=#orange>{0}</color> e procure por uma pessoa a qual a alma da Irma Sênior se ligou.
-O Espelho de Jade revelou onde a Irma Sênior esta localizada, agora é hora de procura-la...
+Looking for a Thousand Li
+Go to <color=#orange>{0}</color>
+Go to <color=#orange>{0}</color> and look for a person to whom Senior Sister's soul got attached.
+Jade Mirror revealed where the Senior Sister is located, now is the time to go and look for her...
 
-Encontro Inesperado
-<color=#orange>Espere calmamente </color> por um encontro em {0}
-<color=#orange>Espere calmamente </color> por um encontro em {0}.
-Parece que finalmente encontrei a pessoa que Yun'er estava procurando, mas por que meu coracao esta tao inquieto...
+Unexpected Meeting
+<color=#orange>Calmly wait </color> for a meeting in {0}
+<color=#orange>Calmly wait </color> for a meeting in {0}.
+It seems that I have finally found the person Yun'er was looking for, but why does my heart feel so uneasy...
 
-Treinamento Heterodoxo
-<color=#orange>Ruptura Heterodoxa</color> de uma técnica do Wudang Sect
-Faca uma <color=#orange>Ruptura Heterodoxa</color> de qualquer técnica do Wudang Sect para atrair o Taoista até você.
-Nao sei quem é esse Taoista. Se eu praticar uma versao heterodoxa da técnica do Wudang Sect, ele realmente aparecera?
+Heterodox Training
+<color=#orange>Heterodox Breakthrough</color> of a Wudang Sect technique
+Do a <color=#orange>Heterodox Breakthrough</color> of any Wudang Sect technique to lead the Taoist to you.
+I don’t know who this Taoist is. If I practice a heterodox version of Wudang Sect's technique, will he really show up?
 
-Espere pelo Taoista
-<color=#orange>Espere calmamente</color> pelo Taoista Desarrumado
-O Taoista Desarrumado é misterioso e imprevisível, entao é melhor <color=#orange>esperar calmamente</color>.
-Essa situacao é estranha, nao sei o que o Taoista Desarrumado quer...
+Wait for Daoist
+<color=#orange>Calmly wait</color> for Disheveled Daoist
+The Disheveled Daoist is mysterious and unpredictable, so it is better to <color=#orange>calmly wait</color>.
+This matter is strange, I don’t know what the Disheveled Daoist wants...
 
-Carta do Taoista
-Converse com <color=#orange>Taoista Desarrumado</color>
-Visite o <color=#orange>Wudang Sect</color> e converse com o <color=#orange>Taoista Desarrumado</color>.
-Vamos até o Wudang Sect para encontrar o Taoista Desarrumado...
+Letter from the Taoist priest
+Talk to <color=#orange>Disheveled Daoist</color>
+Visit <color=#orange>Wudang Sect</color> and talk to <color=#orange>Disheveled Daoist</color>.
+Let’s go to the Wudang Sect to meet Disheveled Daoist...
 
-Visite a Caverna
+Visit the cave
 
-Va até <color=#orange>{0}</color> para examinar as Cavernas Celestiais.
+Go to <color=#orange>{0}</color> to examine Heavenly Caves.
 
 
-Entregar o Tesouro Espiritual
+Hand over Spirit Treasure
 
-Visite o Wudang Sect e entregue o tesouro espiritual ao <color=#orange>Taoista Desarrumado</color>.
+Visit the Wudang Sect and hand over the spirit treasure to <color=#orange>Disheveled Daoist</color>.
 
 
-Informacoes no Wudang
-Interaja com um <color=#orange>membro do Wudang Sect</color>
-O caso do Taoista Desarrumado esta resolvido. Interaja com um <color=#orange>membro do Wudang Sect</color> e pergunte a opiniao do Wudang Sect sobre o assunto.
-Agora que o assunto foi resolvido, vou até o Wudang Sect para perguntar...
+Inquire in Wudang
+Interact with a <color=#orange>member of Wudang Sect</color>
+The matter of the Disheveled Daoist is over. Interact with a <color=#orange>member of Wudang Sect</color> and ask Wudang Sect for their opinion on this matter.
+Now that the matter is over, I will go to Wudang Sect to inquire...
 
-Distracoes da Prisao de Pedra
-Apos interagir com a Prisao de Pedra, pergunte ao mestre do secto de Yuanshan
+Stone Prison Distractions
+After interacting with the Stone Prison, ask the sect master of Yuanshan
 
 
 
-Diferencas na Prisao de Pedra  
-Ha um problema na Prisao de Pedra de Yuanshan  
+Stone Prison Differences
+There's a problem with Yuanshan's Stone Prison
 
 
 
-Algo Suspeito em Yuanshan  
-Ha algo suspeito em Yuanshan  
+Fishy Yuanshan
+There's something fishy about Yuanshan
 
 
 
-Procurando pelo Grande Mestre  
-Ocorreu um acidente em Yuanshan, precisamos encontrar o mestre da seita  
+Looking for the Great Master
+An accident happened in the Yuanshan, we need to find the sect master
 
 
 
-Apoiar os Três Demonios  
-Va para a aventura【Apoiar os Três Demonios】  
+Support the Three Devils
+Go to the【Support the Three Devils】adventure
 
 
 
-Conflito entre essas tarefas: Prometa ao mestre da seita apoiar os Três Demonios  
+Conflict between these tasks: Promise the sect master to support the Three Devils
 
 
 
-Informe ao mestre da seita os verdadeiros pensamentos dos Três Demonios  
+Inform the sect master of the true thoughts of the Three Devils
 
 
 
-Conspirar com um Tigre por sua Pele  
-O movimento de Yuanshan é perigoso  
+Conspire with a Tiger for its Skin
+Yuanshan's move is dangerous
 
 
 
-Em Apuros  
-Parece que ocorreu um acidente em Yuanshan  
+Dire Straits
+Yuanshan seems to have an accident
 
 
 
-Negociacao com os Três Demonios  
-Va para a aventura【Negociacao com os Três Demonios】  
+Negotiation with the Three Devils
+Go to the【Negotiation with the Three Devils】adventure
 
 
 
-Exterminar os Três Demonios  
-Os Três Demonios surgiram, extermine-os antes que seja tarde demais  
+Exterminate the Three Devils
+The Three Devils are born, exterminate them before it's too late
 
 
 
-Apos a negociacao com os Três Demonios, eles nao libertaram os espíritos malignos. Va encontrar o mestre da seita  
+After the negotiations with Three Devils, they did not let go of the evil spirits. Go and find the sect master
 
 
 
-Espíritos Malignos Estao Dormentes  
-Os espíritos malignos estao dormentes, por enquanto apenas espere  
+Evil Spirits are Dormant
+Evil spirits are dormant, for now just wait
 
 
 
-Exterminar Espíritos Malignos  
-Mate o último Demonio
+Exterminate Evil Spirits
+Kill the last Devil
 
 
 
-Movimentacao do Rosto de Leao  
-<color=#orange>Observe com calma</color> os eventos estranhos no Cla Rosto de Leao  
-O comportamento dos discípulos do Cla Rosto de Leao esta estranho, entao talvez seja melhor <color=#orange>observar com calma</color>.  
-A grande arte mencionada pelo Cla Rosto de Leao é tao misteriosa que nao sei que tipo de problema esta surgindo por la...  
+Lion Face's Movement
+<color=#orange>Calmly watch</color> the strange happenings in Lion-Face Clan
+The behavior of the Lion-Face Clan's disciples is strange, so you might as well <color=#orange>calmly watch</color>.
+The great art mentioned by Lion-Face Clan is so mysterious that I don’t know what kind of trouble is brewing in there...
 
-Arte Suprema do Rosto de Leao  
-Entre na aventura <color=#orange>"Arte Suprema do Rosto de Leao"</color>  
-Entre na aventura <color=#orange>"Arte Suprema do Rosto de Leao"</color>. Se nao conseguir participar da aventura, tera que esperar <color=#orange>3 meses</color> para ela aparecer novamente.  
-O Cla Rosto de Leao parece estar agitado, por que nao dar uma olhada...  
+Ultimate Art of Lion Face
+Enter <color=#orange>"Ultimate Art of Lion Face"</color> adventure
+Enter <color=#orange>"Ultimate Art of Lion Face"</color> adventure. If you fail to participate in the adventure, you will have to wait <color=#orange>3 months</color> for the adventure to appear again.
+The Lion-Face Clan seems to be very lively, why not go and have a look...
 
-Esperar para ver o que acontece  
-<color=#orange>Aguarde com calma</color> notícias do Cla Rosto de Leao  
-O assunto do Cla Rosto de Leao parece ter chegado ao fim, entao talvez seja melhor <color=#orange>aguardar notícias</color>. Ou aproveite o tempo livre para conversar com <color=#orange>Acadêmicos na Prefeitura de Guangdong</color> e descobrir toda a historia do Rosto de Leao.  
-Entao esta é a Arte Suprema do Cla Rosto de Leao. Me pergunto como isso vai evoluir no futuro...  
+Wait and see what happens
+<color=#orange>Calmly wait</color> for news from Lion-Face Clan
+The Lion-Face Clan's matter seems to have come to an end, so you might as well <color=#orange>wait for the news</color>. Or you can take advantage of your free time to talk to <color=#orange>Academics in Guangdong Prefecture</color> to find out the whole story of the Lion Face.
+So this is what this Ultimate Art of Lion-Face Clan is. I wonder how it will change in the future...
 
-Espionagem no Rosto de Leao  
-Va até <color=#orange>Rosto de Leao</color> para investigar  
-Algo parece ter acontecido no Cla Rosto de Leao, e fora-da-lei estao a solta na Montanha de Lotus. Va até a area <color=#orange>Rosto de Leao</color> para investigar.  
-Nao recebi nenhuma carta do Cla Rosto de Leao, o que sera que aconteceu com eles...  
+Scouting the Lion Face
+Go to <color=#orange>Lion Face</color> to investigate
+Something seems to have happened at Lion-Face Clan, and Outlaws are rampant in Lotus Mountain. Go to <color=#orange>Lion Face</color> area to investigate.
+I haven't received a letter from Lion-Face Clan, i wonder what happened to them...
 
-Investigar Fora-da-Lei  
-Va até o <color=#orange>Cla Rosto de Leao</color>  
-Va até o <color=#orange>Cla Rosto de Leao</color> para discutir o problema com os fora-da-lei.  
-Os fora-da-lei estao descontrolados, e o Cla Rosto de Leao precisara agir em breve. Esse assunto precisa ser discutido com urgência...  
+Investigate Outlaws
+Go to <color=#orange>Lion-Face Clan</color>
+Go to <color=#orange>Lion-Face Clan</color> to discuss the matter of Outlaws.
+Outlaws are rampant, and Lion-Face Clan will eventually need to take the action. This matter needs to be discussed urgently...
 
-Aguardar boas notícias  
-<color=#orange>Aguarde com calma</color> boas notícias do Cla Rosto de Leao  
-Por enquanto, <color=#orange>aguarde com calma</color> boas notícias do Cla Rosto de Leao.  
-Como o Mestre do Salao Lei Kun recebeu ordens para expulsar os fora-da-lei, devo apenas esperar por boas notícias...  
+Calmly wait for good news
+<color=#orange>Calmly wait</color> for good news from Lion-Face Clan
+For now <color=#orange>Calmly wait</color> for good news from Lion-Face Clan.
+Since Hall Master Lei Kun has been ordered to expel the outlaws, i should just wait for the good news...
 
-Rosto de Leao esta diferente  
-<color=#orange>Observe com calma</color> o que esta acontecendo no Cla Rosto de Leao  
-Muitas coisas estranhas têm acontecido no Cla Rosto de Leao ultimamente, entao <color=#orange>devo observar com calma</color>.  
-A origem de Lei Kun, o mestre do Salao Leao Voador, é desconhecida, e ele provavelmente nao é uma boa pessoa...  
+Lion Face is different
+<color=#orange>Calmly observe</color> what's happening at Lion-Face Clan
+There have been a lot of strange things happening in the Lion-Face Clan recently, so <color=#orange>i should calmly observe them</color>.
+The origin of Lei Kun, the master of the Flying Lion Hall, is unknown, and he is probably not a kind person...
 
-Eliminando Traidores  
-<color=#orange>Aniquile</color> os traidores do Cla Rosto de Leao o quanto antes  
-<color=#orange>Aniquile rapidamente</color> os <color=#orange>discípulos do Salao Leao Voador</color> nos arredores do Cla Rosto de Leao. Se demorar mais de <color=#orange>3 anos</color>, a situacao sera irreversível!  
-Os discípulos do Salao Leao Voador cometem todo tipo de maldade, o que é intoleravel!  
+Eliminating Traitors
+<color=#orange>Annihilate</color> traitors of Lion-Face Clan as soon as possible
+<color=#orange>Quickly annihilate</color> the <color=#orange>Flying Lion Hall disciples</color> in the vicinity of Lion-Face Clan. If you take longer than <color=#orange>3 years</color>, the situation will become irrevocable!
+The disciples of Flying Lion Hall do all kinds of evil, which is intolerable!
 
-Expulsar Invasores  
-Junto com o Cla Rosto de Leao, <color=#orange>expulse</color> os inimigos estrangeiros  
-Os discípulos do Cla Rosto de Leao estao eliminando os <color=#orange>especialistas estrangeiros</color> perto do cla. Você pode <color=#orange>ajudar os discípulos do Cla Rosto de Leao</color> a eliminar mais inimigos e competir com eles para ver quem mata mais.  
-Mas os generais voadores da Cidade do Dragao estao aqui, e traidores estrangeiros nao devem atravessar as Montanhas Yin!  
+Banish Foreigners
+Together with Lion-Face Clan's people, <color=#orange>expel</color> the foreign enemies
+The disciples of the Lion-Face Clan are destroying the <color=#orange>foreign experts</color> near the Lion-Face Clan. You can choose to <color=#orange>help the disciples of the Lion-Face Clan</color> to eliminate more enemies and compete with them on who kills the most.
+But the flying generals of Dragon City are here, and foreign traitors aren't taught to cross the Yin Mountains!
 
-Participar do Banquete Comemorativo  
-Va ao <color=#orange>Cla Rosto de Leao</color> e participe do banquete comemorativo.  
-O Cla Rosto de Leao me convidou para um banquete, e é difícil recusar...  
+Attending Celebratory Banquet
+Go to <color=#orange>Lion-Face Clan</color> and participate in a celebratory banquet.
+Lion-Face Clan invited me to a banquet, and naturally it's hard to refuse...
 
-Acoes Malignas do Vajrayana  
-Va até o <color=#orange>Vajrayana</color> para investigar  
-Visite <color=#orange>qualquer cidade ou vila em Vajrayana</color> para examinar os danos sofridos pelos moradores.  
-Os moradores daqui parecem ter sofrido muito nas maos do Vajrayana, mas têm medo de falar...  
+Vajrayana's Evil Actions
+Go to <color=#orange>Vajrayana</color> to investigate
+Visit <color=#orange>any city or village in Vajrayana</color> to examine the damage suffered by villagers.
+The residents here seem to have suffered greatly at the hands of the Vajrayana, yet they fear to speak out...
 
-Ir até o Vajrayana  
-Visite a <color=#orange>Seita Vajrayana</color>  
-Visite a <color=#orange>Seita Vajrayana</color> e faca uma visita ao Monge Eminente.  
-Ouvi dizer que o monge eminente das Regioes Ocidentais chegou a Vajrayana. É uma boa oportunidade para visita-lo...  
+Go to the Vajrayana
+Visit <color=#orange>Vajrayana Sect</color>
+Visit <color=#orange>Vajrayana Sect</color>, and pay a visit to the Eminent Monk.
+I heard that the eminent monk from the Western Regions has arrived at the Vajrayana. It's a good opportunity to pay a visit...
 
-Mistério da Escritura Antiga  
-Va para a aventura 「Mistério da Escritura Antiga」 em <color=#orange>Qinzhou</color>  
-Va para <color=#orange>{0}</color> e entre na aventura <color=#orange>「Mistério da Escritura Antiga」</color>.  
-Ja que eu aceitei o pedido do Vajrayana, por que nao explorar o antigo monastério...  
+Ancient Scripture Mystery
+Go to <color=#orange>Qinzhou</color>'s 「Ancient Scripture Mystery」 adventure
+Go to <color=#orange>{0}</color>, and enter the <color=#orange>「Ancient Scripture Mystery」</color> adventure.
+Since i have already agreed to the request of the Vajrayana, why not explore the ancient monastery...
 
-Assunto da Regiao Oeste  
-Va para o <color=#orange>Oeste</color> e explore todos os lugares  
-Va para o <color=#orange>Oeste</color> e <color=#orange>explore as areas dentro dele</color>.  
-Nos últimos dias, tenho me sentido tonto e sem forcas sem motivo aparente, isso é muito estranho...  
+Western Region's Matter
+Go to the <color=#orange>West</color> and explore all over the place
+Go to the <color=#orange>West</color> and <color=#orange>explore the areas within it</color>.
+In the past few days I've been feeling dizzy and powerless without any reason, that's really strange...
 
-Entre na <color=#orange>Plataforma de Reencarnacao</color> e ajude o Monge Eminente a reencarnar  
-Entre na tela de Indústria da Vila Taiwu, interaja com o edifício <color=#orange>「Plataforma de Reencarnacao」</color> e ajude o Monge Eminente a reencarnar em qualquer caminho.  
-A alma do Monge Eminente me segue o dia todo, devo ir logo até a Plataforma de Reencarnacao para ajuda-lo a reencarnar...  
+Enter the <color=#orange>Reincarnation Platform</color>, and help the Eminent Monk reincarnate
+Enter the Taiwu Village's Industry screen, interact with the <color=#orange>「Reincarnation Platform」</color> building, and help the Eminent Monk reincarnate into any path.
+The soul of the Eminent Monk keeps following me all day long, I should quickly visit Reincarnation Platform to help him reincarnate...
 
-Esperar pela Reencarnacao  
-<color=#orange>Aguarde</color> pela reencarnacao do Monge Eminente  
-Apos enviar o Monge Eminente para a Plataforma de Reencarnacao, o <color=#orange>Progresso de Reencarnacao</color> sera acumulado com o tempo. Quando estiver completo, você podera clicar no botao <color=#orange>「Reencarnacao」</color> na Plataforma para ajuda-lo a reencarnar.  
-A reencarnacao do Monge Eminente ainda levara algum tempo, talvez eu deva meditar enquanto espero...  
+Wait for Reincarnation
+<color=#orange>Wait</color> for Eminent Monk's reincarnation
+After sending the Eminent Monk into the Reincarnation Platform <color=#orange>Reincarnation Progress</color> will accumulate over time. When it's full, you will be able to click the <color=#orange>「Reincarnation」</color> button in the Reincarnation Platform to help the Eminent Monk reincarnate.
+Eminent Monk's reincarnation still requires some time, I might as well meditate while waiting...
 
-Ir até Vajrayana  
-Visite <color=#orange>Vajrayana</color> para investigar  
-Visite <color=#orange>varias cidades e vilas em Vajrayana</color> para procurar os monges eminentes e ajuda-los a sair de suas dificuldades.  
-Estou indo para Vajrayana, esperando encontrar uma forma de ajudar os monges eminentes a escaparem de seus problemas...  
+Go to Vajrayana
+Visit <color=#orange>Vajrayana</color> to investigate
+Visit <color=#orange>various cities and villages in Vajrayana</color> to look for the eminent monks and help them get out of their predicament.
+I am going to Vajrayana, hoping to find a way to help the eminent monks escape from their predicament...
 
-Assunto do Monge Eminente  
-Va até a <color=#orange>Seita Vajrayana</color> para perguntar sobre o Monge Eminente  
-Visite a <color=#orange>Seita Vajrayana</color> para perguntar sobre o Monge Eminente. Você também pode interagir com a <color=#orange>populacao local</color> para saber mais sobre os acontecimentos recentes.  
-O assunto do Monge Eminente das Regioes Ocidentais pode ser apenas um boato, entao ainda preciso encontrar alguém para investigar...  
+Eminent Monk Matter
+Go to the <color=#orange>Vajrayana Sect</color> to inquire about the Eminent Monk's matter
+Visit the <color=#orange>Vajrayana Sect</color> to inquire about the Eminent Monk's matter. You can also interact with the <color=#orange>local population</color> to inquire about recent occurrences.
+The matter of the Eminent Monk from the Western Regions is just a rumor, so i still need to find someone to investigate...
 
-Auxiliar na Pregacao da Escritura  
-<color=#orange>Espalhe Segredos</color> para ajudar o Monge Eminente a pregar as escrituras  
-Interaja com outros personagens e use o segredo <color=#orange>「Transmitir Escrituras」</color>. Como é raro que monges eminentes preguem escrituras, aqueles que ouvirem esse segredo o espalharao para outras pessoas repetidamente. Assim, basta <color=#orange>aguardar</color> que as informacoes se espalhem boca a boca e, em poucos meses, esse segredo deve se tornar público. A Seita Vajrayana é impiedosa e ja cobica essas escrituras ha muito tempo, entao pode estar <color=#orange>cautelosa</color> com esse segredo.\nEnquanto aguarda a propagacao das palavras, você também pode conversar com a alma do Monge Eminente na Plataforma de Reencarnacao.  
-Agora estou ajudando um Monge Eminente a pregar escrituras, mas ainda preciso pensar cuidadosamente sobre como agir no futuro...  
+Assist in Preaching Scripture
+<color=#orange>Spread Secrets</color> to help the Eminent Monk to spread scriptures
+Interact with other characters and use the <color=#orange>「Passing Scriptures」</color> secret. Because it is very rare for eminent monks to preach scriptures, those who hear about this secret will spread it to other people again and again. This way, you will be able to just <color=#orange>wait</color> for people to spread it by word of mouth, and within a few months this secret should become public. The Vajrayana Sect is ruthless, and has been coveting the precious scriptures for a long time, so it may be <color=#orange>cautious</color> about this secret.\nWhile waiting for the words to spread, you could also talk to the soul of the Eminent Monk at the Reincarnation Platform.
+Right now I'm helping an Eminent Monk to spread scriptures, but I still need to think carefully about how to act in the future...
 
-Assuntos de Vajrayana  
-<color=#orange>Aguarde</color> a resolucao do assunto de Vajrayana  
-Ja que nunca concordei em ajudar a Seita Vajrayana a encontrar escrituras, devo apenas <color=#orange>aguardar</color> a resolucao desse assunto.  
-A Seita Vajrayana age de forma que irrita a todos, no final sofrerao as consequências de suas proprias acoes...  
+Vajrayana Business
+<color=#orange>Wait</color> for the Vajrayana matter to settle
+Since I've never agreed to help Vajrayana Sect find scriptures, i should just <color=#orange>wait</color> for this matter to settle.
+The Vajrayana Sect behaves in a way that angers everyone, in the end they will suffer the consequences of their own actions...
 
-Onde esta o Monge Eminente?  
-Abandonado  
+Where is the Eminent Monk?
+Abandoned
 
 
 
-Entrega da Escritura  
-Visite a <color=#orange>Seita Vajrayana</color> para entregar a escritura e encerrar a busca deles pelas escrituras.  
-Agora so preciso entregar a escritura para a Seita Vajrayana para encerrar este assunto...  
+Handing Over Scrupture
+Visit <color=#orange>Vajrayana Sect</color> to hand over the scripture, in order to end their search for the scriptures.
+Now all i have to do is to hand over the scripture to the Vajrayana Sect to settle this matter...
 
-Devolver as Escrituras
+Return the Scriptures
 
 
 
-Escrituras Verdadeiras sem Palavras  
-<color=#orange>Aguarde</color> notícias da Seita Vajrayana  
-A Seita Vajrayana ja obteve a escritura, devo apenas <color=#orange>aguardar</color> notícias.  
-A Seita Vajrayana obteve a escritura, mas nao sei o que acontecera no futuro...  
+True Scriptures without words
+<color=#orange>Wait</color> for news from Vajrayana Sect
+Vajrayana Sect has already obtained the scripture, I should just <color=#orange>wait</color> for news.
+The Vajrayana Sect has obtained the scripture, but i don't know what will happen in the future...
 
-Banho Secreto dos Cinco Santos  
-Visite novamente o <color=#orange>「Banho Secreto dos Cinco Santos」</color>  
-Converse com personagens T3 da Seita dos Cinco Imortais ou entre na tela de Indústria da Seita dos Cinco Imortais, clique no prédio <color=#orange>「Vale do Banho dos Cinco Venenos」</color> e selecione Taiwu para interagir com o servico sectario <color=#orange>「Banho Secreto dos Cinco Santos」</color>.  
-O Banho Secreto dos Cinco Santos é realmente milagroso, talvez valha a pena visitar mais uma vez...  
+Secret Bath of Five Saints
+Once again visit the <color=#orange>「Secret Bath of Five Saints」</color>
+Talk to T3 characters of the Five Immortals Cult, or enter the Five Immortals Cult's Industry screen, click the <color=#orange>「Five Poisons Bath Valley」</color> building, and select Taiwu to interact with the <color=#orange>「Secret Bath of Five Saints」</color> sect service.
+The Secret Bath of Five Saints is really miraculous, you might as well go there once more...
 
-Tratamento das Cem Flores  
-Visite o <color=#orange>Vale das Cem Flores</color> em busca de um tratamento  
-Va para as <color=#orange>areas proximas ao Vale das Cem Flores</color> para buscar um tratamento para Ran Xindu.  
-As habilidades médicas das Cem Flores sao incomparaveis no mundo. Elas certamente poderao diagnosticar e curar a doenca de Ran Xindu...  
+Hundred Flowers Treatment
+Visit <color=#orange>Hundred Flowers Valley</color> in search for a treatment
+Go to the <color=#orange>areas near the Hundred Flowers Valley</color> in order to search for a treatment for Ran Xindu.
+Hundred Flowers's medical skills are unparalleled in the world, they will definitely be able to diagnose and cure Ran Xindu's illness...
 
-Procurando Ran Xindu  
-Interaja com <color=#orange>Ran Xindu</color>  
-Interaja com <color=#orange>Ran Xindu</color>, que esta localizado nas proximidades da Seita dos Cinco Imortais.  
-Agora que aceitei o pedido da Freira Sagrada, vamos ver Ran Xindu...  
+Looking for Ran Xindu
+Interact with <color=#orange>Ran Xindu</color>
+Interact with the <color=#orange>Ran Xindu</color>, who's located in the vicinity of the Five Immortals Cult.
+Now that I have agreed to the Sacren Nun's request, let's go see Ran Xindu...
 
-Tratamento em Kongsang  
-Visite a <color=#orange>Seita Kongsang</color> em busca de um tratamento  
-Va para as <color=#orange>areas proximas a Seita Kongsang</color> para buscar um tratamento para Ran Xindu.  
-Os medicamentos secretos de Kongsang sao famosos em todo o mundo. Eles certamente poderao diagnosticar e curar a doenca de Ran Xindu...  
+Kongsang Treatment
+Visit <color=#orange>Kongsang Sect</color> in search for a treatment
+Go to the <color=#orange>areas near the Kongsang Sect</color> in order to search for a treatment for Ran Xindu.
+The secret medicines of Kongsang are famous all over the world, they definitely will be able to diagnose and cure Ran Xindu's illness...
 
-Carta de Ran Xindu  
-<color=#orange>Aguarde</color> notícias de Ran Xindu  
-Ran Xindu ja retornou a Seita dos Cinco Imortais, vamos apenas <color=#orange>aguardar</color> notícias.  
-Ran Xindu voltou para os Cinco Imortais. Fico me perguntando o que acontecera no futuro...  
+Ran Xindu's Letter
+<color=#orange>Wait</color> for news from Ran Xindu
+Ran Xindu has already returned to the Five Immortals Cult, let's just <color=#orange>wait</color> for news.
+Ran Xindu has now returned to the Five Immortals. I wonder what will happen in the future...
 
-Desejo Nao Cumprido  
-<color=#orange>Aguarde</color> por Ran Xindu  
-Ainda tenho um fio de esperanca no coracao, entao devo apenas <color=#orange>aguardar</color> notícias sobre Ran Xindu.  
-Embora o assunto dos Cinco Imortais tenha sido resolvido, o relacionamento entre mim e Ran Xindu nao deveria ser rompido...  
+Unfulfilled Wish
+<color=#orange>Wait</color> for Ran Xindu
+There is still a glimmer of hope in my heart, let's just <color=#orange>wait</color> for news about Ran Xindu.
+Although the matter of the Five Immortals has been settled, the relationship between me and Ran Xindu should not be severed...
 
-Mudanca Súbita nos Cinco Imortais  
-Visite a <color=#orange>Seita dos Cinco Imortais</color>  
-Visite a <color=#orange>Seita dos Cinco Imortais</color> e entre na aventura <color=#orange>「Mudanca Súbita nos Cinco Imortais」</color>. A situacao na Seita dos Cinco Imortais é crítica, e se demorar mais de <color=#orange>12 meses</color>, sera irreparavel!  
-O assunto mencionado na carta de Ran Xindu parece ser extremamente urgente. Devo correr até a Seita dos Cinco Imortais...  
+Sudden Change in Five Immortals
+Visit <color=#orange>Five Immortals Cult</color>
+Visit <color=#orange>Five Immortals Cult</color>, and enter the <color=#orange>「Sudden Change in Five Immortals」</color> adventure. The situation at the Five Immortals Cult is critical, and if delayed for more than <color=#orange>12 months</color>, the situation will become irrepairable!
+The matter mentioned in the Ran Xindu's letter seems to be extremely urgent, i must rush to the Five Immortals Cult...
 
-Caso de Assassinato em Emei  
-Preste atencao a terrível situacao em Emei  
-<color=#orange>Dedique um tempo</color> e volte ao <color=#orange>local onde ocorreu o terrível assassinato</color> em Emei para verificar a situacao.  
-Este caso de assassinato em Emei é muito estranho e bizarro, definitivamente nao é um assassinato comum...  
+Emei's Murder Case
+Pay attention to Emei's terrible situation
+<color=#orange>Spend some time</color>, and go back to the <color=#orange>place where the terrible murder occured</color> in Emei to check the situation.
+This murder case in Emei is very strange and weird, definitely not an ordinary murder case...
 
-Procure Mais Pistas  
-Interaja com <color=#orange>membros da Seita Emei</color> para encontrar mais pistas sobre o caso  
-Interaja com <color=#orange>membros da Seita Emei</color> e pergunte sobre o <color=#orange>caso de assassinato em Emei</color> para coletar diferentes pistas.  
-Enquanto estava no fundo do penhasco, o caso de assassinato em Emei reapareceu. O verdadeiro culpado deve ser outra pessoa...  
+Look for More Clues
+Interact with <color=#orange>members of Emei Sect</color> to find out more clues about this case
+Interact with <color=#orange>members of Emei Sect</color> and ask them about the <color=#orange>Emei's murder case</color> to collect different clues.
+While I was at the bottom of the cliff, the murder case in Emei reappeared. The real culprit should be someone else...
 
-Macaco Branco no Vale  
-Interaja com o <color=#orange>Macaco Branco</color>  
-Va para <color=#orange>Emei</color> e interaja com o <color=#orange>Macaco Branco</color>.  
-O Macaco Branco no vale parece ser um mestre oculto. Talvez valha a pena perguntar sobre pistas ou até mesmo descobrir novas informacoes...  
+White Ape in the Valley
+Interact with the <color=#orange>White Ape</color>
+Go to <color=#orange>Emei</color> and Interact with the <color=#orange>White Ape</color>.
+The White Ape in the valley seems to be a hidden master. You might as well ask it about the clues, or perhaps discover new clues...
 
-Disputa pela Autenticidade  
-<color=#orange>Aguarde calmamente</color> o retorno do Macaco Branco  
-<color=#orange>Aguarde calmamente</color> o retorno do Macaco Branco. Nesse tempo, você pode interagir com os <color=#orange>membros da Seita Emei</color> para perguntar sobre o <color=#orange>Anciao Recluso</color> e suas <color=#orange>preocupacoes sobre autenticidade</color>.  
-Esse Shi Houjiu afirma ser um anciao recluso de Emei, mas seu comportamento é estranho. Sera que ele esta envolvido no assassinato...  
+Dispute over Authenticity
+<color=#orange>Calmly wait</color> for White Ape's return
+<color=#orange>Calmly wait</color> for White Ape's return. During this time you can Interact with <color=#orange>members of Emei Sect</color> to ask them about the <color=#orange>Reclusive Elder</color>, and about their <color=#orange>worries about authenticity</color>.
+This Shi Houjiu claims to be a reclusive elder of Emei, but his behavior is perverse. Could it be that he is involved in the murder...
 
-Tomada de Emei  
-Entre na aventura <color=#orange>"O que é Ortodoxia"</color>  
-Va para Emei e entre na aventura <color=#orange>"O que é Ortodoxia"</color>. Emei sera tomada em breve, e se você atrasar por <color=#orange>mais de 6 meses</color>, a situacao se tornara irreversível!  
-O conflito interno na Seita Emei esta piorando cada vez mais, e uma catastrofe é iminente. Preciso tomar uma decisao em breve...  
+Seizing Emei
+Enter the <color=#orange>"What is Orthodox"</color> adventure
+Go to the Emei and enter the <color=#orange>"What is Orthodox"</color> adventure. Emei will be seized soon, and if you delay it for <color=#orange>more than 6 months</color>, the situation will become irrevocable!
+The internal strife in the Emei Sect is getting worse and worse, and a catastrophe is imminent. I must make a decision soon...
 
-Pergunte ao Lorde das Trevas  
-Procure o Lorde das Trevas de Jieqing para pedir informacoes  
+Ask the DarkLord
+Look for the DarkLord of Jieqing to ask for information
 
 
 
-Sob o Abismo Sem Vida  
-Va para a aventura【Sob o Abismo Sem Vida】  
+Under the Lifeless Abyss
+Go to the【Under the Lifeless Abyss】adventure
 
 
 
-Matar Sete Pessoas  
-Mate um total de sete pessoas  
-Essa tarefa pode exigir terminologia de Go para ser concluída: Movimento divino?  
+Kill Seven People
+Kill Seven People in Total
+This task may require Go terminology to finish: Divine move?
 
 
 Sheng
 
-Nascido: Uma pessoa cujos pais ja faleceram  
+Born: A person whose parents have both died
 
 
-Anciao  
+Elder
 
-Idoso: Uma pessoa cujos filhos estao mortos 
+Old: A person whose children are dead
 
 
-Doenca  
+Disease
 
-Doente: menos de 1/5 da saúde  
+Sick: less than 1/5 of health
 
 
-Morte  
+Death
 
-Morte: Fama no momento da morte é Santa ou Monstruosa  
+Death: Fame at the time of death is either Saintly or Monstrous
 
 
-Amor Perdido  
+Parting Love
 
-Amor Perdido: Uma pessoa cujo conjuge morreu e atualmente nao possui conjuge 
+Parting Love: A person whose spouse has died and they currently have no spouse
 
 
-Rancor  
+Grudge
 
-Rancor: Pessoas que têm três ou mais inimigos  
+Grudge: People who have three or more enemies
 
 
-Anseio  
+Longing
 
-Anseio: O objeto de admiracao nao ama essa pessoa, mas adora outra pessoa  
+Longing: the object of admiration does not love this person but adores someone else
 
 
-Sem Vida Sob o Abismo  
-Volte para o Abismo 
+No Life Under the Abyss
+Back to the Abyss
 
 
 
-Grou de Papel da Família Imortal  
-Viaje para a Seita Ranshan  
+Immortal Family's Paper Crane
+Travel to Ranshan Sect
 
 
 
-Três Santos Ancestrais  
-A manifestacao dos santos é extraordinaria, aguarde os desdobramentos 
+Three Ancestral Saints
+The manifestation of the saints is extraordinary, wait for the follow-up
 
 
 
-Ensinando Três Pessoas  
+Teaching Three People
 
 
 
-Competicao das Três Seitas  
-Participe da Competicao das Três Seitas (Aguarde o evento mensal) 
+Three Sects Competition
+Participate in the Three Sects Competition (Wait for the monthly event)
 
 
 
-Aguardar uma Oportunidade  
-<color=#orange>Permaneca em Shaolin</color> e aguarde uma oportunidade  
-<color=#orange>Permaneca em Shaolin</color> e aguarde uma oportunidade.  
-Os desmoronamentos na Floresta da Pagoda parecem ter algumas sutilezas budistas, talvez eu deva esperar aqui por um tempo...  
+Wait for an Opportunity
+<color=#orange>Stay at Shaolin</color> and wait for an opportunity
+<color=#orange>Stay at Shaolin</color> and wait for an opportunity.
+Collapses in the Pagoda Forest seem to have some Buddhist subtleties, perhaps i should wait here for a while...
 
-Encontro com o Velho Monge  
-<color=#orange>Aguarde</color> para encontrar o Velho Monge em seus sonhos  
-<color=#orange>Aguarde</color> para encontrar o Velho Monge em seus sonhos.\nEnquanto você estiver segurando a escultura, sera possível encontra-lo em seus sonhos mesmo fora de Shaolin.  
-O Velho Monge entrou no meu sonho. Parece falso, mas também real. Ainda nao experimentei isso completamente, talvez eu deva continuar tentando...  
+Meeting Old Monk
+<color=#orange>Wait</color> to meet Old Monk in your dreams
+<color=#orange>Wait</color> to meet Old Monk in your dreams.\nAs long as you're holding the sculpture, you will be able to meet him in your dreams even outside of Shaolin.
+The Old Monk entered my dream, it seems fake and yet it's real, i haven't fully experienced it yet, so perhaps i should keep trying...
 
-Escultura Quebrada  
-Devolva a <color=#orange>Escultura Quebrada</color> para Shaolin  
-<color=#orange>Interaja</color> com um personagem de Shaolin para devolver a <color=#orange>Escultura Quebrada</color> para Shaolin.  
-A estatua esta quebrada. Acho que a oportunidade acabou, devo devolver este item...  
+Sculpture Shatters
+Return <color=#orange>Shattered Sculpture</color> to Shaolin
+<color=#orange>Interact</color> with a Shaolin character to return <color=#orange>Shattered Sculpture</color> to Shaolin.
+The statue is shattered, I think the opportunity is over, I should return this thing...
 
-Batalha entre Zen e Artes Marciais  
+Battle of Zen and Martial Arts
 
 
 
-Concentre-se na Pratica  
-Concentre-se em <color=#orange>praticar</color> as habilidades de Shaolin  
-Aumente o nível de pratica da habilidade de Shaolin <color=#orange>{0}</color> ensinada pelo Velho Monge para 100%.  
-O Velho Monge me ensinou em um sonho, entao devo honrar suas instrucoes e praticar com dedicacao...  
+Concentrate on Practice
+Concentrate on <color=#orange>practicing</color> Shaolin skills
+Increase the practice level of Shaolin skill <color=#orange>{0}</color> taught by the Old Monk to 100%
+The Old Monk taught me in my dream, so I will live up to his instructions and practice with dedication...
 
-O Velho Monge Esta de Volta  
-Medite e <color=#orange>espere</color> o Velho Monge aparecer em seus sonhos  
-Medite e <color=#orange>espere</color> para encontrar o Velho Monge em seus sonhos.\nEnquanto estiver segurando a escultura, sera possível encontra-lo em seus sonhos mesmo fora de Shaolin.  
-Agora que aprendi as artes marciais de Shaolin, fico me perguntando o que o Velho Monge me ensinara em meus sonhos nos proximos dias...  
+Old Monk is back
+Meditate and <color=#orange>wait</color> for Old Monk to appear in your dreams
+Meditate and <color=#orange>wait</color> to meet Old Monk in your dreams.\nAs long as you're holding the sculpture, you will be able to meet him in your dreams even outside of Shaolin.
+Now that I've learned martial art of Shaolin, I wonder what the Old Monk will teach me in my dreams in the coming days...
 
-Cavando por Tesouro  
-Tente <color=#orange>Cavar</color> em Shaolin  
-Tente <color=#orange>Cavar</color> em Shaolin para encontrar um tesouro secreto mencionado pelo Velho Monge.  
-Enterrado sob Shaolin, fico imaginando que tipo de tesouro pode ser...  
+Digging for Treasure
+Try <color=#orange>Digging</color> in Shaolin
+Try <color=#orange>Digging</color> in Shaolin to find a secret treasure mentioned by Old Monk.
+Buried under Shaolin, i wonder what kind of treasure it is...
 
-Ensinamentos do Velho Monge  
-<color=#orange>Aguarde {0} meses</color> para lutar com o Velho Monge novamente em um sonho  
-Estude com dedicacao e <color=#orange>aguarde {0} meses</color> para lutar com o Velho Monge novamente em um sonho.\nEnquanto estiver segurando a escultura, sera possível encontra-lo em seus sonhos mesmo fora de Shaolin.  
-A provacao ainda nao acabou, preciso continuar me esforcando e me preparar para lutar com o Velho Monge nos sonhos...  
+Teachings of Old Monk
+<color=#orange>Wait {0} months</color> to fight Old Man in a dream again
+Diligently study, and <color=#orange>wait {0} months</color> to fight Old Man in a dream again\nAs long as you're holding the sculpture, you will be able to meet him in your dreams even outside of Shaolin.
+The trial isn't over yet, i still have to work hard and prepare for a fight with the Old Monk in dreams...
 
-Classicos Budistas  
-<color=#orange>Aguarde</color> para encontrar o Velho Monge em seus sonhos  
-Você obteve os Classicos Budistas, agora so precisa <color=#orange>aguardar</color> para encontrar o Velho Monge em seus sonhos.\nEnquanto estiver segurando a escultura, sera possível encontra-lo em seus sonhos mesmo fora de Shaolin.  
-Consegui os escritos budistas mencionados pelo Velho Monge, fico curioso sobre os ensinamentos escritos neles...  
+Buddhist Classics
+<color=#orange>Wait</color> to meet Old Monk in your dreams
+You've obtained Buddhist Classics, now you just have to <color=#orange>wait</color> to meet Old Monk in your dreams.\nAs long as you're holding the sculpture, you will be able to meet him in your dreams even outside of Shaolin.
+I've obtained the Buddhist scriptures as told by the Old Monk, i wonder what teachings are written in them...
 
-Lendo Escrituras  
-<color=#orange>Estude</color> os Classicos Budistas  
-Para concluir o estudo de <color=#orange>{0}</color>, você precisa estudar <color=#orange>pelo menos 3 paginas</color>; Se ja tiver feito isso, apenas <color=#orange>aguarde</color> para encontrar o Velho Monge em seus sonhos.  
-O Dharma é vasto e infinito, devo seguir as instrucoes do Velho Monge e me concentrar totalmente nos estudos...  
+Reading Scriptures
+<color=#orange>Study</color> Buddhist Classics
+To finish studying <color=#orange>{0}</color>, you have to study <color=#orange>at least 3 pages of it</color>; If you've already done so, just <color=#orange>wait</color> to meet the Old Monk in your dreams.
+The Dharma is vast and boundless, I should follow the Old Monk's instructions and fully concentrate on studying it...
 
-Pagodas de Shaolin  
-Va para <color=#orange>Shaolin</color> e observe a Floresta da Pagoda  
-Va para <color=#orange>Shaolin</color> e clique no botao de Indústria para observar a Floresta da Pagoda.  
-Escondido no fundo da Pagoda de Shaolin, fico imaginando que tipo de tesouro pode estar la...  
+Shaolin's Pagodas
+Go to <color=#orange>Shaolin</color> and observe Pagoda Forest
+Go to <color=#orange>Shaolin</color> and click on Industry button to observe Pagoda Forest.
+Hidden on the bottom of the Shaolin's Pagoda, i wonder what kind of treasure it is...
 
-Piso do Pavilhao dos Classicos Budistas  
-Va para o <color=#orange>Pavilhao dos Classicos Budistas</color> para procurar tesouros  
-Va para <color=#orange>Shaolin</color>, clique no botao de Indústria e depois clique no <color=#orange>Pavilhao dos Classicos Budistas</color> para procurar tesouros.  
-Escondido dentro do pavilhao de escrituras de Shaolin, fico imaginando que tipo de tesouro pode estar la...  
+Buddhist Classics Pavilion's floor
+Go to <color=#orange>Buddhist Classics Pavilion</color> to look for treasures
+Go to <color=#orange>Shaolin</color>, click on Industry button, then click on <color=#orange>Buddhist Classics Pavilion</color> to look for treasures.
+Hidden inside of Shaolin's scripture pavilion, i wonder what kind of treasure it is...
 
-Historias sobre Rosto de Leao  
-Visite <color=#orange>Aldeias e Cidades</color> de Guangdong para aprender historias  
-Visite <color=#orange>Aldeias e Cidades</color> em varias areas de Guangdong para aprender historias sobre o Cla Rosto de Leao.  
-As historias sobre o Cla Rosto de Leao sao hilarias, talvez valha a pena prestar mais atencao nelas durante as viagens...  
+Stories about Lion Face
+Visit Guangdong's <color=#orange>Villages and Cities</color> to learn stories
+Visit <color=#orange>Villages and Cities</color> in various areas of Guangdong to learn stories about Lion-Face Clan.
+The stories about Lion-Face Clan are hilarious, so you might as well pay more attention to them while traveling...
 
-Va para Rosto de Leao  
-Ha inúmeros rumores, va para o <color=#orange>Cla Rosto de Leao</color> para investigar.  
-A reputacao do Cla Rosto de Leao "se espalha por toda parte", mas nao sabemos que tipo de pessoas estao nesse cla...  
+Go to Lion Face
+There are numerous rumors, go to <color=#orange>Lion-Face Clan</color> to investigate.
+The Lion-Face Clan's reputation "spreads far and wide", but we don't know what kind of people are in this sect...
 
-<color=#orange>Aguarde</color> até que o Cla Rosto de Leao expulse estrangeiros  
-<color=#orange>Aguarde</color> até que o Cla Rosto de Leao expulse inimigos estrangeiros.  
-Os membros do Cla Rosto de Leao estao cheios de espírito de luta, posso apenas sentar e observar...  
+<color=#orange>Wait</color> until Lion-Face Clan expels foreigners
+<color=#orange>Wait</color> until Lion-Face Clan expels foreign enemies.
+Members of Lion-Face Clan are full of fighting spirit, I can just sit back and watch...
 
-Estabelecendo o Salao Ancestral  
-Retorne para a <color=#orange>Aldeia Taiwu</color>.  
-O Salao Ancestral foi concluído, devo voltar para a Aldeia Taiwu para dar uma olhada...  
+Establishing Ancestral Hall
+Return to <color=#orange>Taiwu Village</color>.
+Ancestral Hall has been complete, i should return back to Taiwu Village to take a look at it...
 
-Manter a Arvore Divina  
-Cuide da Arvore Divina, entre na caverna e obtenha o tesouro espiritual  
-Selecione a <color=#orange>Semente da Arvore Divina</color> no seu inventario para plantar, e <color=#orange>cultive a Arvore Divina</color> investindo recursos, recitando escrituras taoístas e eliminando os lacaios Xiangshu proximos. Uma Arvore Divina precisa de 90000 recursos para crescer completamente, mas esse valor pode ser reduzido recitando escrituras taoístas e eliminando os lacaios proximos. Apos a conclusao do cultivo, você podera entrar na caverna através da Arvore Divina para <color=#orange>obter o tesouro espiritual e entrega-lo ao Daoísta Desleixado</color> para pratica.  
-O crescimento de uma Arvore Divina realmente exige muita dedicacao...  
+Maintain the Divine Tree
+Maintain the Divine Tree, enter the cave, and obtain the spiritual treasure
+Select <color=#orange>Divine Tree Seed</color> in your inventory to plant, and <color=#orange>raise the Divine Tree</color> by investing resources, reciting Taoist scriptures, and eliminating nearby Xiangshu minions. A Divine Tree requires 90000 resources to fully grow, and this amount can be reduced by reciting Taoist scriptures and eliminating nearby minions. After its cultivation is complete, you can enter the cave through the Divine Tree to <color=#orange>obtain the spiritual treasure and give it to the Disheveled Daoist</color> for practice.
+The growth of a Divine Tree really requires a lot of thought...
 
-Plantando Arvores Divinas  
+Planting Divine Trees
 
-Selecione a <color=#orange>Semente da Arvore Divina</color> no seu inventario para plantar. Arvores Divinas nao podem ser plantadas perto de Túmulos de Espadas, Pedras Negras ou Assentamentos. Varias Arvores Divinas podem ser plantadas ao mesmo tempo, mas nao podem ficar muito proximas umas das outras. Se uma Arvore Divina for plantada perto de um covil de Foras-da-Lei, ela sera removida, e Taiwu recebera uma quantidade correspondente de Favor.  
+Select <color=#orange>Divine Tree Seed</color> in your inventory to plant. Divine Trees cannot be planted near Sword Tombs, Black Stone, or Settlements. Multiple Divine Trees can be planted at the same time, but they can't be too close to each other. If a Divine Tree is planted near the Outlaw lair, it will be removed, and Taiwu will receive corresponding amount of Favor.
 
 
-Protegendo as Arvores Divinas
+Protecting Divine Trees
 
-Interaja com a Arvore Divina e entre no menu <color=#orange>Proteger Arvore Divina</color>. Enquanto a Arvore Divina estiver crescendo, todo mês havera uma chance de aparecerem varios <color=#orange>lacaios de Xiangshu</color> proximos a Arvore Divina. Todo mês, os lacaios de Xiangshu irao se mover uma casa em direcao a Arvore Divina pelo caminho marcado. Se eles conseguirem alcancar a casa da Arvore Divina, ela sera destruída. <color=#orange>Envie aldeoes</color> para o caminho de movimento dos lacaios para bloquear seu progresso. Um aldeao pode bloquear apenas um lacai de Xiangshu na mesma casa. O bloqueio bem-sucedido <color=#orange>reduzira a Vida do aldeao</color>.
+Interact with the Divine Tree and enter the <color=#orange>Defend Divine Tree</color> menu. While the Divine Tree is growing, every month there will be a chance of several <color=#orange>Xiangshu minions</color> appearing near the Divine Tree. Every month, Xiangshu's minions will move one tile towards the Divine Tree along the marked path. If they manage to reach Divine Tree's tile, it will be destroyed. <color=#orange>Send villagers</color> to the movement path of the minions to block their progress. A villager can only block one Xiangshu minion on the same tile. Successfuly blocking will <color=#orange>reduce villager's Health</color>.
 
 
-Estudar Taoísmo
+Study Taoism
 
-Estude os livros de Taoísmo, melhore seu <color=#orange>nível de Taoísmo</color> e abra a caverna celestial.
+Study Taoism books, improve your <color=#orange>Taoism attainment</color>, and open the heavenly cave.
 
 
-Trocar por Sementes
+Exchanging for Seeds
 
-Va até a Seita Wudang e interaja com o <color=#orange>Daoísta Desleixado</color> para trocar por Sementes de Arvore Divina.
+Go to Wudang Sect and interact with <color=#orange>Disheveled Daoist</color> to exchange for Divine Tree Seeds.
 
 
-Fofocas de Wudang
-<color=#orange>Espere calmamente</color> por notícias da Seita Wudang
-<color=#orange>Espere calmamente</color> por notícias da Seita Wudang.
-O Daoísta Desleixado praticou seu proprio caminho, me pergunto se Wudang mudara como resultado...
+Wudang Gossip
+<color=#orange>Calmly wait</color> for news from Wudang Sect
+<color=#orange>Calmly wait</color> for news from Wudang Sect.
+The Disheveled Daoist practiced his own way, i wonder whether Wudang will change as a result...
 
-Método do Daoísta
-<color=#orange>Espere calmamente</color> por notícias do Daoísta Desleixado
-<color=#orange>Espere calmamente</color> por notícias do Daoísta Desleixado.
-Eu entreguei o tesouro espiritual ao Daoísta Desleixado, mas nao sei o que ele fara com ele...
+Daoist's Method
+<color=#orange>Calmly wait</color> for news from Disheveled Daoist
+<color=#orange>Calmly wait</color> for news from Disheveled Daoist.
+I have handed the spiritual treasure to the Disheveled Daoist, but I don’t know what he will do with it...
 
-Ajudar em uma Cerimonia
-Ajude o <color=#orange>Daoísta Desleixado</color> com seu método
-Va até a Seita Wudang e interaja com o <color=#orange>Daoísta Desleixado</color> para ajuda-lo com seu método.
-Eu nao sei o que aconteceu com o Método do Daoísta, entao vamos até a Seita Wudang...
+Assist in a Ceremony
+Help <color=#orange>Disheveled Daoist</color> with his method
+Go to the Wudang Clan and interact with <color=#orange>Disheveled Daoist</color> to help him with his method.
+I don’t know what happened to Daoist's Method, so let’s go to Wudang Sect...
 
-Esperar pelo Destino Imortal
+Wait for Immortal Fate
 
-A Arvore Divina cresceu. <color=#orange>Espere</color> pela oportunidade de entrar na caverna celestial.
+The Divine Tree has grown. <color=#orange>Wait</color> for the opportunity to enter the heavenly cave.
 
 
-Discutir Rumores
-<color=#orange>Visite o Cla Lion-Face</color> e encontre o Mestre da Seita
-<color=#orange>Visite o Cla Lion-Face</color> e encontre o Mestre da Seita para discutir os rumores sobre o Cla Lion-Face.
-Os rumores sao estranhos, é melhor ir até o Cla Lion-Face e discutir com o Mestre da Seita o quanto antes...
+Discuss Rumors
+<color=#orange>Visit Lion-Face Clan</color> and find their Sect Master
+<color=#orange>Visit Lion-Face Clan</color> and find their Sect Master to discuss rumors about Lion Face.
+The rumors are strange, it is better to go to the Lion-Face Clan to discuss with the Sect Master as soon as possible...
 
-Praticar as Habilidades Xuannyu
-Apos praticar a técnica Xuannyu <color=#orange>{0}</color> ensinada por Yun'er até 100%, va até o Espelho de Jade e <color=#orange>procure Yun'er para entrar no espelho para praticar</color>.
-A Jovem Yun'er me ensinou essa técnica, entao vou pratica-la com dedicacao para corresponder as suas expectativas...
+<color=#orange>Practice</color> Xuannyu skills
+After you practice the Xuannyu technique <color=#orange>{0}</color> taught to you by Yun'er to 100%, go to the Jade Mirror and <color=#orange>look for Yun'er to enter the mirror for practice</color>.
+Young Lady Yun'er taught me this technique, so i will practice it earnestly to live up to her expectations...
 
-A Vontade Celestial é Imprevisível
-Retorne ao Pico Xuannyu <color=#orange>para procurar Yun'er</color>
-Retorne ao Pico Xuannyu e va até o Espelho de Jade <color=#orange>para procurar Yun'er</color>.
-A vontade celestial é imprevisível, desta vez a busca pela pessoa falhou, entao tive que voltar de maos vazias...
+Heaven's Will is Unpredictable
+Return to Xuannyu Peak <color=#orange>to look for Yun'er</color>
+Return to Xuannyu Peak and go to the Jade Mirror <color=#orange>to look for Yun'er</color>.
+Heaven's will is unpredictable, this time the search for the person failed, so I had to return empty-handed...
 
-Finalmente Encontrar uma Mulher Bonita
-Retorne ao <color=#orange>Cla Xuannyu</color> com Shi Weizhi
-Volte rapidamente para o Cla Xuannyu e va até o Espelho de Jade <color=#orange>para procurar Yun'er</color>.
-A vontade celestial nao me desapontou. Finalmente encontrei a pessoa. Vamos apressar o retorno ao Cla Xuannyu...
+Finally Meet a Beautiful Woman
+Return back to <color=#orange>Xuannyu Sect</color> with Shi Weizhi
+Quickly return back to Xuannyu Sect and go to the Jade Mirror <color=#orange>to look for Yun'er</color>.
+Heaven's will didn't disappoint me. I have finally found the person. Let's hurry back to Xuannyu Sect...
 
-A Jovem Yun'er finalmente realizou seu desejo de se reunir com sua Irma Sênior. Me pergunto o que acontecera a seguir...
+Young Lady Yun'er finally achieved her wish of reuniting with her Senior Sister. I wonder what will happen next...
 
-Perguntar pelo Paradeiro
-Retorne ao <color=#orange>Cla Xuannyu</color>
-Retorne ao <color=#orange>Cla Xuannyu</color> para perguntar mais sobre o paradeiro da Irma Sênior.
-Desta vez, busquei amargamente pela Irma Sênior com a orientacao de uma Mulher Celestial, mas no final acabei falhando...
+Asking for Whereabouts
+Return to <color=#orange>Xuannyu Sect</color>
+Return to <color=#orange>Xuannyu Sect</color> to ask more about Senior Sister's whereabouts.
+This time i have bitterly searched for the Senior Sister with the guidance of a Heavenly Woman, but in the end I have somehow failed...
 
-É Difícil Desatar os Fios do Amor
-Va até o Espelho de Jade <color=#orange>para procurar Yun'er</color>.
-Yun'er e sua Irma Sênior compartilham um amor profundo, o que é realmente comovente...
+It's hard to untie the threads of love
+Go to Jade Mirror <color=#orange>to look for Yun'er</color>.
+Yun'er and her Senior Sister share deep love, which is really touching...
 
-O Dao da Guqin do Amor
-Interaja com <color=#orange>membros do Cla Xuannyu</color>
-Interaja com membros do Cla Xuannyu <color=#orange>e pergunte a eles sobre sua opiniao sobre a palavra "Amor"</color>.
-As questoes do passado foram resolvidas, mas nao sei como o Cla Xuannyu vê a palavra amor...
+Dao of the Love Guqin
+Interact with <color=#orange>members of Xuannyu Sect</color>
+Interact with members of Xuannyu sect <color=#orange>and ask them about their opinion on the word "Love"</color>.
+The matters of the past have been settled, but I don’t know how the Xuannyu sect views the word love...
 
-Pratica Intensiva
-Aumente sua forca e <color=#orange>entre no Espelho de Jade para praticar</color> novamente.
-Aumente sua forca e va até o Espelho de Jade do Cla Xuannyu para encontrar Yun'er, e <color=#orange>entre no Espelho de Jade para praticar</color> mais uma vez.
-A prova ainda nao foi concluída, parece que preciso me esforcar mais, vamos procurar a Jovem Yun'er novamente...
+Intensive Practice
+Improve your strength and <color=#orange>enter the Jade Mirror to practice</color> again.
+Improve your strength and go to Xuannyu Sect's Jade Mirror to find Yun'er, and <color=#orange>enter the Jade Mirror to practice</color> once more.
+The trial has not been completed, it seems that i still need to work harder, let's look for Young Lady Yun'er again...
 
-Va até o Espelho de Jade <color=#orange>e entre nele para praticar</color>
-Va até o Espelho de Jade do Cla Xuannyu e procure Yun'er para <color=#orange>entrar no Espelho de Jade para praticar</color>.
-A Jovem Yun'er ainda tem algumas habilidades para me ensinar, devo ir até o Espelho de Jade em breve...
+Go to Jade Mirror <color=#orange>and enter it for practice</color>
+Go to Xuannyu Sect's Jade Mirror and look for Yun'er to <color=#orange>enter the Jade Mirror for practice</color>.
+Young Lady Yun'er still has some skills to teach me, i should go to the Jade Mirror soon...
 
-A Turbulência de Emei
-<color=#orange>Observe calmamente</color> o que esta acontecendo na Seita Emei
-Uma luta interna comecou na Seita Emei, <color=#orange>devo agir com calma e observar cuidadosamente</color>.
-O Macaco Branco foi gravemente ferido, e uma luta interna comecou na Seita Emei, tudo por causa de Shi Houjiu. Que caminho devo seguir...
+Emei's Turmoil
+<color=#orange>Calmly observe</color> what's happening at Emei Sect
+An internal strife has started in Emei Sect, <color=#orange>I should act calm and carefully observe it</color>.
+White Ape was seriously injured, and an internal strife started at Emei Sect, all because of Shi Houjiu. What path should i follow...
 
-Promessa da Pedra Pequena
-Interaja com <color=#orange>Shi Houjiu</color>
-Va até a <color=#orange>Seita Emei</color> e interaja com <color=#orange>Shi Houjiu</color>.
-Parece que o Macaco Branco e Shi Houjiu retornaram, devo ir investigar...
+Little Rock Promise
+Interact with <color=#orange>Shi Houjiu</color>
+Go to <color=#orange>Emei Sect</color>, and Interact with <color=#orange>Shi Houjiu</color>.
+It seems like White Ape and Shi Houjiu have returned, i should go and investigate...
 
-Espelho do Luan Solitario
-Recolha partituras de músicas famosas de todo o mundo
-Quando você chegar a qualquer <color=#orange>Seita, Cidade ou Prefeitura (Area Indestrutível)</color>, a música local sera registrada no "Espelho da Balada do Luan Solitario".\nSe você abrir seu inventario e selecionar <color=#orange>"Espelho da Balada do Luan Solitario"</color>, uma <color=#orange>Barra de Música</color> aparecera acima do botao "Nota". Clique na Barra de Música para tocar qualquer música registrada em vez da música atual.
-Ao viajar pelo mundo, qualquer música famosa ouvida de diversos lugares pode ser copiada uma a uma para esta partitura...
+Lone Luan's Mirror
+Gather sheet music of famous songs from all over the world
+When you arrive at any <color=#orange>Sect, City, or Prefecture (Undestroyed Area)</color>, their local music will be recorded into "Lone Luan's Ballad Mirror".\nIf you open your inventory and select <color=#orange>"Lone Luan's Ballad Mirror"</color>, a <color=#orange>Music Bar</color> will appear above the "Note" button. Click on the Music Bar to play any recorded music instead of the current one.
+When traveling around the world, any famous song heard from various places can be copied one by one into this score...
 
-Esperar pelo Macaco Branco
-Esperar pelo retorno do <color=#orange>Macaco Branco</color>
-O Macaco Branco nao esta no seu antigo lugar. <color=#orange>Espere</color> pelo seu retorno.
-Como o Macaco Branco foi praticar, voltarei outro dia...
+Wait for White Ape
+Wait for <color=#orange>White Ape's</color> return
+White Ape is not in its old place. <color=#orange>Wait</color> for its return.
+Since White Ape has gone to practice, I will come back another day...
 
-Esperar por Shi Pequeno
-Esperar pelo retorno de <color=#orange>Shi Houjiu</color>
-Shi Houjiu nao esta no seu antigo lugar. <color=#orange>Espere</color> pelo seu retorno.
-A atitude de Shi Houjiu parece ter mudado. Vamos verifica-lo outro dia...
+Wait for Little Shi
+Wait for <color=#orange>Shi Houjiu's</color> return
+Shi Houjiu is not in his old place. <color=#orange>Wait</color> for his return.
+Shi Houjiu's attitude seems to have changed. Let's check on him another day...
 
-Seguir Fuyu
-Alcancar a <color=#orange>Empunhadura de Fuyu</color>
-Va até a localizacao da <color=#orange>Empunhadura de Fuyu</color>.
-Nao... nao... Nao posso perder o Fuyu novamente...
+Follow Fuyu
+Catch up with the <color=#orange>Fuyu Hilt</color>
+Move to the location of <color=#orange>Fuyu Hilt</color>.
+No... no... I cannot lose the Fuyu again...
 
-Pegar a Bagagem
-Pegar a <color=#orange>Bagagem</color> abandonada
-Va até a area da Vila Taiwu, mova-se para onde o ícone <color=#orange>「Retornar ao Inventario」</color> esta localizado, e clique nele para pegar a <color=#orange>Bagagem</color> abandonada.
-Parece haver um destino nao resolvido na antiga terra de Taiwu...
+Pick up Luggage
+Pick up abandoned <color=#orange>Luggage</color>
+Go to the Taiwu Village area, move to where the <color=#orange>「Return Inventory」</color> icon is located, and click on it to pick up the abandoned <color=#orange>Luggage</color>.
+There seems to be an unresolved fate in Taiwu’s old land...
 
-Recuperar as Belas Artes
-Recuperar as <color=#orange>Belas Artes</color> dissipadas
-Va até a area da Vila Taiwu, mova-se para onde o ícone <color=#orange>「Retornar ao Inventario」</color> esta localizado, e clique nele para pegar as <color=#orange>Belas Artes</color> dissipadas.
+Retrieve Fine Arts
+Retrieve dispelled <color=#orange>Fine Arts</color>
+Go to the Taiwu Village area, move to where the <color=#orange>「Return Inventory」</color> icon is located, and click on it to pick up the dispelled <color=#orange>Fine Arts</color>.
 
-Recuperar as Artes Marciais
-Recuperar as <color=#orange>Artes Marciais</color> abolidas
-Va até a area da Vila Taiwu, mova-se para onde o ícone <color=#orange>「Retornar ao Inventario」</color> esta localizado, e clique nele para pegar as <color=#orange>Artes Marciais</color> dissipadas.
+Recover Martial Arts
+Recover abolished <color=#orange>Martial Arts</color>
+Go to the Taiwu Village area, move to where the <color=#orange>「Return Inventory」</color> icon is located, and click on it to pick up the dispelled <color=#orange>Martial Arts</color>.
 
-Estranho na Vila
-Voltar para a <color=#orange>Vila Taiwu</color>
-Retorne a <color=#orange>Vila Taiwu</color> para descobrir o que esta acontecendo.
-Ouvi dizer que uma pessoa estranha estava visitando a vila, mas nao sei de onde ela veio...
+Stranger in the Village
+Go back to the <color=#orange>Taiwu Village</color>
+Return to the <color=#orange>Taiwu Village</color> to get to the bottom of this matter.
+I heard that a strange person was visiting the village, but I don’t know where they came from...
 
-Desafiar o Dragao Divino
-Partir para <color=#orange>desafiar um Dragao Divino</color>
-Viaje pelo mundo em busca de Dragoes Divinos, e use <color=#orange>「Um Fio de Ouro」</color> para subjugar os Dragoes Divinos.
-Como atendi ao pedido do irmao e da irma do Cla Huanlong, devo explorar os rastros dos Dragoes Divinos...
+Challenge Divine Dragon
+Leave to <color=#orange>challenge a Divine Dragon</color>
+Travel around the world in search of Divine Dragons, and use <color=#orange>「A Golden Thread」</color> to subdue the Divine Dragons.
+Since I have complied with the request of the Huanlong Clan's brother and sister, I should go to explore the traces of the Divine Dragons...
 
-Nascimento do Poco Espiritual
-Criar um Jiao crescente usando o <color=#orange>Poco de Jiao</color>
-Va até a <color=#orange>「Vila Taiwu」</color>, clique no botao "Indústria" e va até o <color=#orange>「Poco de Jiao」</color> para criar um Jiao.
-Agora que o Poco de Jiao foi construído, você pode ir até a vila e tentar criar um Jiao...
+Spiritual Pond Birth
+Rear a growing Jiao using <color=#orange>Jiao Pond</color>
+Go to the <color=#orange>「Taiwu Village」</color> press the "Industry" button, and go to the <color=#orange>「Jiao Pond」</color> to rear a Jiao.
+Now that the Jiao Pond has been built, you can go to the village and try raising Jiao...
 
-Criar os Nove Filhos
+Breed Nine Sons
 
 
 
-Desafiar o Dragao Branco
+Challenge White Dragon
 
-Va até o <color=#orange>{0}</color> para desafiar o <color=#orange>Dragao Branco</color> localizado no <color=#orange>Poco do Trovao</color>.
+Go to the <color=#orange>{0}</color> to challenge the <color=#orange>White Dragon</color> located in the <color=#orange>Thunder Pond</color>.
 
 
-Desafiar o Dragao Preto
+Challenge Black Dragon
 
-Va até o <color=#orange>{0}</color> para desafiar o <color=#orange>Dragao Preto</color> localizado no <color=#orange>Poco da Inundacao</color>.
+Go to the <color=#orange>{0}</color> to challenge the <color=#orange>Black Dragon</color> located in the <color=#orange>Flood Pond</color>.
 
 
-Desafiar o Dragao Verde
+Challenge Green Dragon
 
-Va até o <color=#orange>{0}</color> para desafiar o <color=#orange>Dragao Verde</color> localizado no <color=#orange>Poco do Vento</color>.
+Go to the <color=#orange>{0}</color> to challenge the <color=#orange>Green Dragon</color> located in the <color=#orange>Wind Pond</color>.
 
 
-Desafiar o Dragao Vermelho
+Challenge Red Dragon
 
-Va até o <color=#orange>{0}</color> para desafiar o <color=#orange>Dragao Vermelho</color> localizado no <color=#orange>Poco da Chama</color>.
+Go to the <color=#orange>{0}</color> to challenge the <color=#orange>Red Dragon</color> located in the <color=#orange>Flame Pond</color>.
 
 
-Desafiar o Dragao Amarelo
+Challenge Yellow Dragon
 
-Va até o <color=#orange>{0}</color> para desafiar o <color=#orange>Dragao Amarelo</color> localizado no <color=#orange>Poco da Areia</color>.
+Go to the <color=#orange>{0}</color> to challenge the <color=#orange>Yellow Dragon</color> located in the <color=#orange>Sand Pond</color>.
 
 
-Criar e Treinar Jiao
+Raise and Train Jiao
 
-Va até o Poco de Jiao e coloque um <color=#orange>「Ovo de Jiao」</color> dentro, depois <color=#orange>Selecione um Plano de Criacao</color> para comecar a criacao.\nO tempo de criacao depende do Plano de Criacao escolhido. <color=#orange>Cada mês consumira uma certa quantidade de recursos</color>.\nSe o <color=#orange>Nível de Domesticamento</color> do Jiao ficar muito baixo, ele pode tentar escapar do Poco de Jiao; Se escapar, ele vagara pela <color=#orange>Area da Vila Taiwu</color> e você tera que <color=#orange>lutar com ele e usar uma corda para captura-lo</color> e retorna-lo ao Poco de Jiao.\nUma vez que a criacao do Jiao esteja completa, <color=#orange>ele podera sair do Poco de Jiao</color> e podera ser usado como Montaria.
+Go to the Jiao Pond and place a <color=#orange>「Jiao Egg」</color> inside, then <color=#orange>Select a Rearing Plan</color> to begin rearing.\nRearing time depends on the chosen Rearing Plan. <color=#orange>Every month it will consume a certain amount of resources</color>.\nIf the <color=#orange>Taming Level</color> of the Jiao gets too low, it is possible that it will try escaping from the Jiao Pond; If it escapes, it will wander in the <color=#orange>Taiwu Village's Area</color> and you will have to <color=#orange>fight it and use a rope to catch it</color> to return it into the Jiao Pond.\nOnce Jiao's rearing is complete, <color=#orange>it will be able to leave the Jiao Pond</color> and could be used as a Mount.
 
 
-Criacao de Jiao
+Breeding Jiao
 
-Uma vez que a criacao do Jiao esteja completa, dois Jiao de sexos opostos podem ser usados para <color=#orange>criar</color> e gerar novos <color=#orange>「Ovos de Jiao」</color>.\nAtravés da criacao e reproducao, é possível melhorar continuamente os atributos do Jiao; Se um atributo do Jiao <color=#orange>alcancar o Pinnacle</color>, e <color=#orange>os atributos restantes tiverem pelo menos dois atributos Excepcionais</color>, é possível ir ao <color=#orange>canto inferior direito do menu do Poco de Jiao</color> para tentar <color=#orange>「Transformar em Filho do Dragao」</color>.
+Once Jiao's rearing is complete, two Jiao of the opposite sex can be used to <color=#orange>breed</color> in order to give birth to new <color=#orange>「Jiao Eggs」</color>.\nThrough rearing and breeding, it is possible to continuously improve the attributes of Jiao; If one attribute of a Jiao <color=#orange>reaches Pinnacle</color>, and <color=#orange>the remaining attributes have at least two Outstanding attributes</color>, it is possible to go to the <color=#orange>bottom right corner of the Jiao Pond's menu</color> to try <color=#orange>「Transforming into a Dragon Son」</color>.
 
 
-Um Passo, Um Gu
-Va até a <color=#orange>vizinhanca do Culto dos Cinco Imortais</color> e siga com cautela
-Ha muitas coisas estranhas acontecendo no Culto dos Cinco Imortais, por isso devo <color=#orange>seguir com cautela nas proximidades</color>.
-Este lugar é cheio de colinas verdes e aguas cristalinas, mas na realidade o perigo esta em cada canto, preciso ser muito cauteloso...
+One Step, One Gu
+Go to the <color=#orange>vicinity of the Five Immortals Cult</color> and proceed with caution
+There are many strange things happening in the Five Immortals Cult, so I must <color=#orange>proceed cautiously in the vicinity</color>.
+This place is full of verdant hills and limpid water, but in reality danger lurks in every corner, I must proceed very cautiously...
 
-Método de Remocao de Gu
-Pergunte aos <color=#orange>personagens do Culto dos Cinco Imortais</color> sobre o assunto do Gu
-Interaja com os <color=#orange>personagens do Culto dos Cinco Imortais</color> e pergunte sobre o assunto do Gu.
-As técnicas de Gu dos Miao sao misteriosas e imprevisíveis. Sera que o Culto dos Cinco Imortais tem uma solucao...
+Method of Removing Gu
+Inquire <color=#orange>Five Immortals Cult characters</color> about the Gu matter
+Interact with the <color=#orange>Five Immortals Cult characters</color>, and inquire them about the Gu matter.
+Miao people's Gu techniques are mysterious and unpredictable. I wonder if the Five Immortals Cult has a solution...
 
-Visitar o <color=#orange>「Banho Secreto dos Cinco Santos」</color>
-Sera que o Banho Secreto dos Cinco Santos é realmente tao milagroso? Ainda preciso experimenta-lo para descobrir...
+Visit the <color=#orange>「Secret Bath of Five Saints」</color>
+Whether this Secret Bath of Five Saints is really that miraculous, I still need to try it in order to find out...
 
-O Verdadeiro Desejo da Santa
-O assunto do Vale do Banho dos Cinco Venenos é realmente estranho, seria melhor apenas <color=#orange>esperar</color> um tempo para ver se ha alguma mudanca.
-O que vi no Vale do Banho dos Cinco Venenos foi muito estranho. Nao sei o que aquele “desejo precioso” significava...
+Sacred Nun's True Desire
+The Five Poisons Bath Valley matter is really strange, it would be better to just <color=#orange>wait</color> for a while to see if there's any changes.
+What I saw in the Five Poisons Bath Valley was really strange. I don’t know what that “cherished desire” meant...
 
-Esperar e Ver
-<color=#orange>Esperar</color> para que tudo no Culto dos Cinco Imortais se resolva
-Como nunca aceitei o pedido da Santa, devo apenas <color=#orange>esperar</color> que este assunto se resolva.
-As coisas no territorio Miao estao tao complicadas que nao quero me envolver...
+Wait and see
+<color=#orange>Wait</color> for everything in the Five Immortals Cult to settle
+Since I've never agreed to the Sacred Nun's request, i should just <color=#orange>wait</color> for this matter to settle.
+Things in Miao territory are so complicated that I don’t want to get involved...
 
-Danca Panwang
-Entrar na aventura <color=#orange>「Danca Panwang」</color>
-Va até o <color=#orange>「Vale das Cem Flores」</color> e entre na aventura <color=#orange>「Danca Panwang」</color>.
-O Festival Panwang é um grande evento em Guangnan, você pode se juntar a Ran Xindu para participar da diversao...
+Panwang Dance
+Enter the <color=#orange>「Panwang Dance」</color> adventure
+Go to the <color=#orange>「Hundred Flowers Valley」</color>, and enter the <color=#orange>「Panwang Dance」</color> adventure.
+Panwang Festival is a grand event in Guangnan, you might as well join Ran Xindu to join in the fun...
 
-Prescricao das Cem Flores
-Converse com os <color=#orange>personagens do Vale das Cem Flores</color> para perguntar sobre a doenca
-Interaja com os <color=#orange>personagens T3 ou acima do Vale das Cem Flores</color> para perguntar sobre a doenca de Ran Xindu.
-Estou aqui ha um tempo, sera que o Vale das Cem Flores ja encontrou uma cura eficaz...
+Hundred Flowers' Prescription
+Talk with <color=#orange>Hundred Flowers Valley characters</color> to inquire about illness
+Interact with the <color=#orange>T3 or above characters from Hundred Flowers Valley</color> to inquire about Ran Xindu's illness.
+I have been here for some time, I wonder if Hundred Flowers Valley has already found an effective cure...
 
-Cerimonia das Estrelas
-Entrar na aventura <color=#orange>「Cerimonia das Estrelas」</color>
-Va até a <color=#orange>「Montanha Kongsang」</color> e entre na aventura <color=#orange>「Cerimonia das Estrelas」</color>.
-A Cerimonia das Estrelas é um ritual antigo de Liaodong. Você pode ir e visita-la com Ran Xindu...
+Star Ceremony
+Enter the <color=#orange>「Star Ceremony」</color> adventure
+Go to the <color=#orange>「Kongsang Mountain」</color>, and enter the <color=#orange>「Star Ceremony」</color> adventure.
+The Star Ceremony is an ancient ritual in Liaodong. You might as well go and visit it with Ran Xindu...
 
-Prescricao de Kongsang
-Converse com os <color=#orange>personagens do Culto de Kongsang</color> para perguntar sobre a doenca
-Interaja com os <color=#orange>personagens T3 ou acima do Culto de Kongsang</color> para perguntar sobre a doenca de Ran Xindu.
-Estou aqui ha um tempo, sera que o Culto de Kongsang ja encontrou uma cura eficaz...
+Kongsang's Prescription
+Talk with <color=#orange>Kongsang Sect characters</color> to inquire about illness
+Interact with the <color=#orange>T3 or above characters from Kongsang Sect</color> to inquire about Ran Xindu's illness.
+I have been here for some time, I wonder if Kongsang Sect has already found an effective cure...
 
-Procurando Inseto Mandarim
-Va até o <color=#orange>Culto dos Cinco Imortais</color> para procurar o inseto mandarim de Ran Xindu.
-Ran Xindu so tem esse inseto mandarim, nao posso deixar que ele se perca novamente...
+Searching Mandarin Insect
+Go to the <color=#orange>Five Immortals Cult</color> to search for Ran Xindu's mandarin insect.
+Ran Xindu only has this mandarin insect left, i can't let it get lost again...
 
-Desejo Precioso Completo
-O assunto dos Cinco Imortais esta quase resolvido, devo apenas <color=#orange>esperar</color> que se resolva completamente.
-O assunto dos Cinco Imortais foi resolvido, nao ha mais necessidade de pensar sobre isso...
+Cherished Desire Complete
+The Five Immortals' matter is almost done, i should just <color=#orange>wait</color> for it to completely settle.
+The matter of the Five Immortals has been settled, there is no need to think about it anymore...
 
-Onde esta o Antigo Templo Budista
+Where's the Old Buddhist Temple
 
 
 
-Paradeiro do Monge Eminente
-<color=#orange>Esperar</color> por uma mudanca
-A Seita Vajrayana descobriu o paradeiro do Monge Eminente, devo apenas <color=#orange>esperar</color> por uma mudanca.
-A Seita Vajrayana encontrou o paradeiro dos monges eminentes das Regioes Ocidentais, nao sei o que acontecera a seguir...
+Eminent Monk's Whereabouts
+<color=#orange>Wait</color> for a change
+Vajrayana Sect has learned about the Eminent Monk's whereabouts, i should just <color=#orange>wait</color> for a change.
+The Vajrayana Sect has found the whereabouts of the eminent monks of the Western Regions, I don't know what will happen next...
 
-Monge das Planícies Centrais
-Converse com os <color=#orange>monges das Planícies Centrais</color>
-Visite os <color=#orange>monges das Planícies Centrais</color> e converse com eles.
-Muitos monges das Planícies Centrais saem por admiracao, é uma boa oportunidade para conversar com eles...
+Central Plains Monks
+Chat with <color=#orange>monks of Central Plains</color>
+Pay a visit to <color=#orange>monks of Central Plains</color> and talk with them.
+Many monks from the Central Plains come out of admiration, it's a good opportunity to discuss with them...
 
-Confusao nos Escritos
-Converse com os <color=#orange>monges eminentes das Regioes Ocidentais</color>
-Converse com os <color=#orange>monges eminentes das Regioes Ocidentais</color> para transmitir as dúvidas dos monges das Planícies Centrais.
-Os escritos ainda têm muitos trechos difíceis de entender, precisamos buscar o conselho dos monges eminentes...
+Confusion within Scriptures
+Talk with the <color=#orange>eminent monks of Western Regions</color>
+Talk with the <color=#orange>eminent monks of Western Regions</color> to convey the questions of monks from Central Plains.
+The scriptures still have many difficult passages to understand, we still need to seek advice from the eminent monks...
 
-Monges Eminentes Esclarecem Dúvidas
-<color=#orange>Esperar</color> pelos monges eminentes para esclarecer dúvidas
-<color=#orange>Esperar</color> pelos monges eminentes das Regioes Ocidentais para explicar os significados profundos nos escritos.
-Os monges eminentes ainda precisam refletir sobre as questoes, talvez seja melhor voltar e pedir conselho depois de algum tempo...
+Eminent Monks Dispel Doubts
+<color=#orange>Wait</color> for eminent monks to dispel doubts
+<color=#orange>Wait</color> for eminent monks of Western Regions to explain deep meanings in the scriptures
+The eminent monks still need to contemplate about the questions, perhaps it would be better to come back and seek advice after some time...
 
-Assunto Estranho dos Miao
-As coisas no territorio Miao sao estranhas e difíceis de entender, seria melhor apenas <color=#orange>esperar</color> por mudancas.
-Dizem que ha muitas pessoas e eventos estranhos na regiao Miao, nao devo ser descuidado...
+Miao People's Strange Matter
+Things in Miao territory are strange and difficult to understand, it would be better to just <color=#orange>wait</color> for changes.
+People say that there are many strange people and events in the Miao region, i shouldn't be careless...
 
-Veneno do Coracao dos Cinco Santos
-Va até a <color=#orange>vizinhanca do Culto dos Cinco Imortais</color> para examinar
-Va até a <color=#orange>vizinhanca do Culto dos Cinco Imortais</color> para examinar.
-Esta garota é muito conhecedora das técnicas de Gu, mas parece nao ter intencoes malignas. Fico me perguntando quais sao suas intencoes...
+Five Saints Heart Poison
+Go to the <color=#orange>vicinity of the Five Immortals Cult</color> to examine
+Go to the <color=#orange>vicinity of the Five Immortals Cult</color> to examine.
+This girl is deeply knowledgeable about Gu techniques, but she seems to have no malicious intentions. I wonder what her intentions are...
 
-Visitar Ranshan
-Visite a <color=#orange>Seita Ranshan</color>
-Visite a <color=#orange>Seita Ranshan</color> para verificar os rumores sobre o "Portao do Dragao dos Humanos" e a "Competicao das Três Seitas".
-Como a Seita Ranshan tem a reputacao de "responder a todas as perguntas e cumprir todos os pedidos", eles podem ser capazes de responder as minhas dúvidas...
+Visit Ranshan
+Visit <color=#orange>Ranshan Sect</color>
+Visit <color=#orange>Ranshan Sect</color> to verify the rumors about the "Dragon Gate of Humans" and the "Three Sects Competition".
+Since Ranshan has the reputation of "answering every question, and fulfilling every request", they might be able to answer my questions...
 
-Sonho de Qinglang
-Entrar na aventura <color=#orange>「Sonho de Qinglang」</color>
-Entrar na aventura <color=#orange>「Sonho de Qinglang」</color>.
-Nao sei por que o Lorde Qinglang me enviou este convite...
+Dream of Qinglang
+Enter the <color=#orange>「Dream of Qinglang」</color> adventure
+前往奇遇<color=#orange>「青琅一梦」</color>。然山之事，扑朔迷离，若有意插手其中，或需<color=#orange>十数月光景</color>周旋其间，<color=#orange>无暇顾及他事</color>……
+I don't know why Lord Qinglang sent me this invitation...
 
-Refletir e Meditar
-<color=#orange>Ficar na Seita Ranshan</color> para tentar entender o que vejo na névoa
-<color=#orange>Ficar na Seita Ranshan</color> para tentar entender o que vejo na névoa.
-Os assuntos relacionados ao Pavilhao Qinglang sao realmente como um mistério dentro de outro mistério, realmente devo refletir sobre isso cuidadosamente...
+Reflect and Ruminate
+<color=#orange>Stay in the Ranshan Sect</color> to make sense of what you see in the fog
+<color=#orange>留在然山派</color>理清雾中所见之事。然山之事，扑朔迷离，若有意插手其中，或需<color=#orange>十数月光景</color>周旋其间，<color=#orange>无暇顾及他事</color>……
+The matters concerning Qinglang Pavilion are truly like a mystery within a mystery, I really should ponder about it carefully...
 
-Assuntos Mundanos Refinam a Mente
-Espere <color=#orange>{0} meses</color> antes de retornar a Ranshan
-Melhor deixar Ranshan, viajar um pouco e esperar <color=#orange>{0} meses</color> antes de responder...
-Nao adianta continuar pensando sobre isso, seria melhor deixar os assuntos de Ranshan de lado por um tempo...
+Worldly Affairs Refine Mind
+Wait for <color=#orange>{0} months</color> before returning to Ranshan
+不妨先行离开然山，继续游历，静待<color=#orange>{0}个月</color>后再作答复。三宗比武事关仙家，扑朔迷离，若要玉成其事，或可于此期间，<color=#orange>成人之美，结交善缘</color>。
+It is useless to keep thinking about it, i might as well put the matters concerning Ranshan aside for a while...
 
-Entrar na aventura <color=#orange>「Competicao das Três Seitas」</color>
-Entrar na aventura <color=#orange>「Competicao das Três Seitas」</color>. Se nao participar da aventura, a oportunidade de Ranshan sera perdida...
-A competicao de artes marciais entre os três clas de Ranshan ja comecou, por que nao ir dar uma olhada...
+Enter the <color=#orange>「Three Sects Competition」</color> adventure
+Enter the <color=#orange>「Three Sects Competition」</color> adventure. If you fail to participate in the adventure, Ranshan's opportunity will be gone...
+The martial arts competition among the three clans of Ranshan has already started, why not go check it out...
 
-Sem Perguntas sobre os Vestígios Imortais
-<color=#orange>Esperar</color> para que os assuntos de Ranshan se resolvam
-Os assuntos de Ranshan foram resolvidos, basta <color=#orange>esperar</color> que se resolvam.
-Os assuntos de Ranshan foram resolvidos, nao preciso mais pensar sobre isso...
+No Questions about Immortal Traces
+<color=#orange>Wait</color> for the matters concerning Ranshan to settle
+Matters concerning Ranshan has been sorted out, just <color=#orange>wait</color> for them to settle.
+The matters concerning Ranshan have been settled, there's no need for me to think about them anymore...
 
-Pavilhao Imortal Qinglang
-<color=#orange>Entrar no Pavilhao Qinglang</color> para descobrir a razao pela qual os discípulos foram possuídos
-<color=#orange>Entrar no Pavilhao Qinglang</color> para descobrir a razao pela qual os discípulos que participaram da Competicao das Três Seitas foram possuídos.
-Pavilhao Qinglang, aqui vou eu...
+Qinglang Immortal Pavilion
+<color=#orange>Enter the Qinglang Pavilion</color> to figure out the reason why disciples got possessed
+<color=#orange>Enter the Qinglang Pavilion</color> to figure out the reason why disciples that participated in the Three Sects Competition got possessed.
+Qinglang Pavilion, here I come...
 
-Caminho para a Imortalidade é Indistinto
-A Competicao das Três Seitas acabou, o assunto de Ranshan foi resolvido
+Road to Immortality is Indistinct
+The Three Sects Competition is over, the matter concerning Ranshan has been settled
 
-Examine a Doenca da Loucura
-Visite o <color=#orange>Vale das Cem Flores</color> para entender a estranha doenca
-Se quiser saber mais sobre a estranha doenca, deve ir ao <color=#orange>Vale das Cem Flores</color> para conversar.
-Este assunto é muito estranho, eu devo ir ao Vale das Cem Flores para entender a situacao...
+Examine the Madness Disease
+Visit <color=#orange>Hundred Flowers Valley</color> to understand the strange disease
+If you want to find out about the strange disease, you must go to the <color=#orange>Hundred Flowers Valley</color> for a chat.
+This matter is very strange, I should go to the Hundred Flowers Valley to understand the situation...
 
-Doenca Estranha da Vila
-Entre na aventura <color=#orange>「Doenca Estranha da Vila」</color>
-Entre na aventura <color=#orange>「Doenca Estranha da Vila」</color>.
-Nao sei que tipo de perigos estao escondidos dentro desta vila...
+Village's Strange Disease
+Enter the <color=#orange>「Village's Strange Disease」</color> adventure
+Enter the <color=#orange>「Village's Strange Disease」</color> adventure.
+I don't know what kind of dangers are hidden within this village...
 
-Buscando Conselho Médico
-Visite o <color=#orange>Vale das Cem Flores</color> para perguntar sobre diagnostico e tratamento
-Visite o <color=#orange>Vale das Cem Flores</color> para perguntar sobre diagnostico e tratamento.
-O Vale das Cem Flores esta cheio de médicos e curandeiros excepcionais, eles com certeza poderao me ajudar a curar essa doenca...
+Seeking Medical Advice
+Visit <color=#orange>Hundred Flowers Valley</color> to inquire about diagnosing and treating
+Visit <color=#orange>Hundred Flowers Valley</color> to inquire about diagnosing and treating.
+Hundred Flowers Valley is full of outstanding doctors and physicians, they will definitely be able to help me with curing this disease...
 
-Fundadores do Vale das Cem Flores
-<color=#orange>Esperar</color> o retorno dos dois fundadores
-Os dois fundadores do Vale das Cem Flores estao viajando e nao estao no vale. <color=#orange>Esperar</color> o retorno deles.
-Nao sei quando os dois fundadores poderao retornar...
+Hundred Flowers Founders
+<color=#orange>Wait</color> for two founders to return
+The two founders of Hundred Flowers Valley are traveling around and are not in the valley. <color=#orange>Wait</color> for their return.
+I don't know when the two founders will be able to return...
 
-Esperar por Wuyou
-<color=#orange>Esperar</color> o retorno de Xuan Wuyou
-<color=#orange>Esperar</color> o retorno de Xuan Wuyou.
-Agora so posso esperar pacientemente o retorno do Sênior Xuan Wuyou...
+Wait for Wuyou
+<color=#orange>Wait</color> for Xuan Wuyou's return
+<color=#orange>Wait</color> for Xuan Wuyou's return.
+Now I can only patiently wait for Senior Xuan Wuyou to return...
 
-Seguir os Fundadores
-Va até <color=#orange>{0}</color> para encontrar os Seniores Bai Wuyang e Xuan Wuyou.
-O que exatamente esta escondido nesta vila? Melhor ir o mais rapido possível para encontrar o Sênior Xuan e o Sênior Bai...
+Follow Founders
+Go to <color=#orange>{0}</color> to find Seniors Bai Wuyang and Xuan Wuyou.
+What exactly is hidden in this village? It's better to go and find Senior Xuan and Senior Bai as soon as possible...
 
-Esperar por Notícias
-<color=#orange>Esperar</color> por notícias sobre os fundadores do Vale das Cem Flores
-<color=#orange>Esperar</color> por notícias dos Seniores Bai Wuyang e Xuan Wuyou.
-Os dois Seniores estao obcecados em eliminar esse desastre, mas onde estarao agora...
+Wait for News
+<color=#orange>Wait</color> for news about founders of Hundred Flowers
+<color=#orange>Wait</color> for news from Seniors Bai Wuyang and Xuan Wuyou.
+The two Seniors are obsessed with eliminating this disaster, but where are they right now...
 
-Rasgamento do Coracao
+Heart Ripping
 
-Va até <color=#orange>{0}</color> para perguntar aos moradores locais e discípulos do Vale das Cem Flores que vieram ajudar sobre o incidente de <color=#orange>Rasgamento do Coracao</color>.
+Go to <color=#orange>{0}</color> to inquire local residents and disciples of Hundred Flowers Valley who came to provide assistance about the <color=#orange>Heart Ripping</color> incident.
 
 
-Emboscando o Culpado
+Ambushing Culprit
 
-Leve um companheiro adulto com um elemento interno de <color=#orange>{0}</color> e fique em <color=#orange>{1}</color> por um mês, esperando o culpado do Rasgamento do Coracao aparecer. Você ainda precisa trazer {2}...
+Bring an adult teammate with a <color=#orange>{0}</color> internal element, and stay in <color=#orange>{1}</color> for a month, waiting for the Heart Ripping culprit to show up. You still have to bring {2}...
 
-Eu trouxe um companheiro adulto com um elemento interno de <color=#orange>{0}</color>. Posso ficar em <color=#orange>{1}</color> por um mês, esperando o culpado do Rasgamento do Coracao aparecer.
-Destruicao Mental
+I have brought an adult teammate with a <color=#orange>{0}</color> internal element. I can stay in <color=#orange>{1}</color> for a month, waiting for the Heart Ripping culprit to show up.
+Mind Destroying
 
-Va até <color=#orange>{0}</color> para perguntar aos moradores locais e discípulos do Vale das Cem Flores que vieram ajudar sobre o incidente de <color=#orange>Destruicao Mental</color>.
+Go to <color=#orange>{0}</color> to inquire local residents and disciples of Hundred Flowers Valley who came to provide assistance about the <color=#orange>Mind Destroying</color> incident.
 
 
 
-Leve um companheiro adulto com um elemento interno de <color=#orange>{0}</color> e fique em <color=#orange>{1}</color> por um mês, esperando o culpado da Destruicao Mental aparecer. Você ainda precisa trazer {2}...
+Bring an adult teammate with a <color=#orange>{0}</color> internal element, and stay in <color=#orange>{1}</color> for a month, waiting for the Mind Destroying culprit to show up. You still have to bring {2}...
 
-Eu trouxe um companheiro adulto com um elemento interno de <color=#orange>{0}</color>. Posso ficar em <color=#orange>{1}</color> por um mês, esperando o culpado da Destruicao Mental aparecer.
-Levar Bai e Xuan de volta a Vila
-Leve o Cervo Branco e a Coruja Negra <color=#orange>de volta a Vila Taiwu</color>
-Como os dois anciaos nao querem retornar ao Vale das Cem Flores, nao tenho escolha a nao ser trazê-los de volta para a vila primeiro...
+I have brought an adult teammate with a <color=#orange>{0}</color> internal element. I can stay in <color=#orange>{1}</color> for a month, waiting for the Mind Destroying culprit to show up.
+Return Bai and Xuan to Village
+Bring White Deer and Black Owl <color=#orange>back to the Taiwu Village</color>
+Since the two seniors do not wish to return to the Hundred Flowers Valley, I have no choice but to bring them back to the village first...
 
-Harmonia do Yin e Yang
-<color=#orange>Resolver</color> o conflito entre os dois fundadores
-O Anciao Bai Wuyang e o Anciao Xuan Wuyou ainda têm algumas questoes nao resolvidas. Talvez eles possam <color=#orange>ficar</color> na Vila Taiwu, buscando uma oportunidade para <color=#orange>resolver</color> seus conflitos e alcancar a harmonia entre o yin e o yang.
-"Quando o yin e o yang estao equilibrados, a essência e o espírito ficam em boas condicoes; Quando o yin e o yang estao separados, a essência e o sopro se esgotam..."
+Yin Yang Harmonious
+<color=#orange>Resolve</color> conflict between two founders
+Senior Bai Wuyang and Senior Xuan Wuyou still have some unresolved issues. Perhaps they could <color=#orange>stay</color> in the Taiwu Village, seeking an opportunity to <color=#orange>resolve</color> their conflicts and achieve harmony between yin and yang.
+"When yin and yang are balanced, the essence and spirit will be in a good condition; When yin and yang are separated, the essence and breath will be exhausted..."
 
-Ervas Yang
+Yang Herbs
 
-Converse com o <color=#orange>Cervo Branco</color> e descubra sua comida favorita.
+Talk to the <color=#orange>White Deer</color> and find out its favorite food.
 
 
-Aproximar-se do Cervo Branco
+Get Close to the White Deer
 
-Use <color=#orange>Ervas Yang</color> para alimentar o Cervo Branco. Depois de alcancar o Favor "Íntimo" com ele, <color=#orange>espere uma oportunidade</color> para resolver o conflito e reconciliar o yin e o yang.
+Use <color=#orange>Yang Herbs</color> to feed the White Deer. After reaching "Intimate" Favor with it, <color=#orange>wait for an opportunity</color> to resolve the conflict and reconcile yin and yang.
 
 
-Ataque dos Aguias Gigantes
+Giant Eagles Attack
 
-Ultimamente, aguias gigantes têm atacado com frequência, causando aflicao ao Corvo Negro. No entanto, o Cervo Branco pode ser capaz de ajudar a resolver esse problema. <color=#orange>Espere uma oportunidade</color> na Vila Taiwu para resolver o conflito deles...
+Lately, giant eagles have been frequently attacking, causing distress to the Black Owl. However, White Deer might be able to help resolve this issue. <color=#orange>Wait for an opportunity</color> in the Taiwu Village to resolve their conflict...
 
 
-Ervas Yin
+Yin Herbs
 
-Converse com o <color=#orange>Corvo Negro</color> e descubra sua comida favorita.
+Talk to the <color=#orange>Black Owl</color> and find out its favorite food.
 
 
-Aproximar-se do Corvo Negro
+Get Close to the Black Owl
 
-Use <color=#orange>Ervas Yin</color> para alimentar o Corvo Negro. Apos alcancar "Intimidade" de Afinidade com ele, <color=#orange>espere uma oportunidade</color> para resolver o conflito e harmonizar o yin e yang.
+Use <color=#orange>Yin Herbs</color> to feed the Black Owl. After reaching "Intimate" Favor with it, <color=#orange>wait for an opportunity</color> to resolve the conflict and reconcile yin and yang.
 
 
-Uivos das Bestas
+Beasts Howling
 
-Ultimamente, bestas selvagens têm uivado durante a noite, causando angústia ao Veado Branco. No entanto, o Corvo Negro pode ser capaz de ajudar a resolver esse problema. <color=#orange>Espere uma oportunidade</color> na Vila Taiwu para resolver o conflito deles...
+Lately, wild beasts have been howling during the night, causing distress to the White Deer. However, Black Owl might be able to help resolve this issue. <color=#orange>Wait for an opportunity</color> in the Taiwu Village to resolve their conflict...
 
 
-Orientacao para Huaju
+Guidance to Huaju
 
-<color=#orange>Huaju</color>, que se destacou na Competicao dos Três Clas e ascendeu ao céu, agora esta visitando a montanha. Eles estao sinceramente buscando aprender mais. Se tiver algum tempo livre, considere ir até o local deles para oferecer orientacao…
+华居为于三宗比武上出人头地、入阁成仙，下山来访，诚心求学。若有闲暇，不妨前往与<color=#orange>华居互动</color>，赠予书籍，切磋指导，<color=#orange>相约同游，为其开悟</color>……
 
 
-Orientacao para Xuanzhi
+Guidance to Xuanzhi
 
-<color=#orange>Xuanzhi</color>, que se destacou na Competicao dos Três Clas e ascendeu ao céu, agora esta visitando a montanha. Eles estao sinceramente buscando aprender mais. Se tiver algum tempo livre, considere ir até o local deles para oferecer orientacao…
+玄质为于三宗比武上出人头地、入阁成仙，下山来访，诚心求学。若有闲暇，不妨前往与<color=#orange>玄质互动</color>，赠予书籍，切磋指导，<color=#orange>相约同游，为其开悟</color>……
 
 
-Orientacao para Yingjiao
+Guidance to Yingjiao
 
-<color=#orange>Yingjiao</color>, que se destacou na Competicao dos Três Clas e ascendeu ao céu, agora esta visitando a montanha. Eles estao sinceramente buscando aprender mais. Se tiver algum tempo livre, considere ir até o local deles para oferecer orientacao…
+迎娇为于三宗比武上出人头地、入阁成仙，下山来访，诚心求学。若有闲暇，不妨前往与<color=#orange>迎娇互动</color>，赠予书籍，切磋指导，<color=#orange>相约同游，为其开悟</color>……
 
 
-Retorno a Ranshan
-Retorne ao <color=#orange>「Cla Ranshan」</color> para dar uma resposta sobre a Competicao dos Três Clas
-A Competicao dos Três Clas esta prestes a comecar. Retorne ao <color=#orange>「Cla Ranshan」</color> para dar uma resposta ao Senhor Qinglang.
-Ja faz um bom tempo desde o último convite de Ranshan; esta na hora de retornar a Ranshan e dar uma resposta ao Senhor Qinglang…
+Return to Ranshan
+Return to <color=#orange>「Ranshan Sect」</color> to give a reply about Three Clan's Competition
+三宗比武即将开始，返回<color=#orange>「然山派」</color>给青琅主一个答复。战斗尤为凶险，当事先做好万全准备……
+It has been quite a while since the last invitation from Ranshan; it's time to return to Ranshan and give an answer to Lord Qinglang…
 
-Aguarde a Competicao
-Va até o Cla Ranshan e <color=#orange>aguarde</color> o início da Competicao dos Três Clas
-Va até o Cla Ranshan e <color=#orange>aguarde</color> o início da Competicao dos Três Clas.
-Tenho muitas perguntas, talvez durante a Competicao dos Três Clas eu consiga algumas respostas…
+Wait for Competition
+Go to Ranshan Sect and <color=#orange>wait</color> for the Three Sects Competition
+Go to Ranshan Sect and <color=#orange>wait</color> for Three Sects Competition to begin.
+I have many questions, maybe during Three Sects Competition I'll be able to get some answers...
 
-Proteja a Vila Taiwu
-<color=#orange>Espere</color> pela chegada da Pessoa Ressuscitada
-A Pessoa Ressuscitada, embora seu paradeiro seja desconhecido, eventualmente retornara a Vila Taiwu. Prepare tudo com cuidado e <color=#orange>espere</color> pela chegada deles.
-A névoa negra envolve a area; Os discípulos do Vale das Cem Flores ja estao se movendo de um lugar para outro, tratando os afetados…
+Protect Taiwu Village
+<color=#orange>Wait</color> for Resurrected Person's arrival
+The Resurrected Person, though their whereabouts are unknown, will eventually return to Taiwu Village. Prepare everything thoroughly and <color=#orange>wait</color> for them to arrive.
+Black mist envelops the area; The Hundred Flowers Valley disciples have already been moving from place to place, treating those affected…
 
-Protecao Cuidadosa
-<color=#orange>Espere</color> pelo retorno da Pessoa Ressuscitada
-A névoa negra esta se espalhando. Parece que a Pessoa Ressuscitada esta por perto. Prepare tudo com cuidado e <color=#orange>espere</color> em Vila Taiwu pelo retorno deles.
-A névoa negra preenche o ar, sugerindo que a Pessoa Ressuscitada realmente esta proxima…
+Careful Protection
+<color=#orange>Wait</color> for Resurrected Person's return
+The black mist is spreading. It seems that the Resurrected Person is nearby. Prepare everything thoroughly and <color=#orange>wait</color> in the Taiwu Village for their return.
+Black mist fills the air, suggesting that the Resurrected Person is indeed close by…
 
-Pessoa Ressuscitada
-Entre na aventura da <color=#orange>Pessoa Ressuscitada</color>
-Entre na aventura da <color=#orange>Pessoa Ressuscitada</color>.
-A Pessoa Ressuscitada apareceu, devo ser cauteloso…
+Resurrected Person
+Enter <color=#orange>Resurrected Person</color> adventure
+Enter <color=#orange>Resurrected Person</color> adventure.
+The Resurrected Person has appeared, i should be careful...
 
-Nao Pergunte
-<color=#orange>Espere</color> a resolucao dos assuntos do Vale das Cem Flores
-<color=#orange>Espere</color> a resolucao dos assuntos do Vale das Cem Flores.
-A Pessoa Ressuscitada concluiu seu assunto aqui, e seu coracao permanece como antes…
+Don't Ask Around
+<color=#orange>Wait</color> for the matters concerning Hundred Flowers Valley to settle
+<color=#orange>Wait</color> for the matters concerning Hundred Flowers Valley to settle.
+The Resurrected Person has concluded their matter here, and their heart remains as it was before…
 
-Desastre Celestial do Dragao Adormecido
-Va até a <color=#orange>Ilha Chiming</color> para investigar o desastre celestial
-Va até a <color=#orange>Ilha Chiming</color> para investigar o desastre celestial.
-O altar do Dragao Adormecido tem enfrentado desastres frequentemente, muitas areas foram destruídas, talvez seja possível investigar...
+Fulong's Disaster
+Visit <color=#orange>Fulong Altar</color> to investigate the natural disaster
+Visit <color=#orange>Fulong Altar</color> to investigate the natural disaster.
+There have been frequent natural disasters happening at the Chiming Island, and many places have been destroyed. I could investigate it...
 
-Cerimonia do Dragao
-Va até a <color=#orange>「Cerimonia do Dragao」</color> durante o mês {0}
-Va até a <color=#orange>「Cerimonia do Dragao」</color> durante o mês {0}.
-O altar do Dragao Adormecido vê o desastre celestial como um sinal auspicioso, talvez seja interessante ir ver...
+Sacrifices for Dragon
+Within {0} months, enter the <color=#orange>「Sacrificial Ceremony」</color> adventure
+Within {0} months, enter the <color=#orange>「Sacrificial Ceremony」</color> adventure.
+The Fulong Altar sees natural disasters as auspicious signs; perhaps it's worth visiting to see for oneself...
 
-Chuva de Meteoros
-Va até o evento <color=#orange>「Chuva de Meteoros」</color>
-Va até o evento <color=#orange>「Chuva de Meteoros」</color>.
-O fogo celeste se apagou, restando apenas os meteoritos caindo, talvez seja interessante ir ver...
+Fallen Meteor
+Enter the <color=#orange>「Fallen Meteor」</color> adventure
+Enter the <color=#orange>「Fallen Meteor」</color> adventure.
+The heavenly fire has ceased. There seems to have been a meteor that fell to the ground, perhaps it would be worth visiting to see...
 
-Visita ao Dragao Adormecido
-Retorne ao <color=#orange>Altar do Dragao Adormecido</color>
-Retorne ao <color=#orange>Altar do Dragao Adormecido</color>.
-Os meteoritos sao realmente estranhos, seria bom retornar ao Altar do Dragao Adormecido para investigar mais...
+Explore Fulong
+Return to <color=#orange>Fulong Altar</color>
+Return to <color=#orange>Fulong Altar</color>.
+The true form of the meteor is quite unusual; perhaps i should visit the Fulong Altar once more for further exploration...
 
-Fenomenos no Dragao Adormecido
-<color=#orange>Fique no Altar do Dragao Adormecido</color> para observar os fenomenos
-<color=#orange>Fique no Altar do Dragao Adormecido</color> para observar os fenomenos. Desde o retorno do “Dragao Verdadeiro”, todos no altar estao euforicos e enviaram mensageiros para <color=#orange>Shouchun, Yangzhou, Fuzhou e Vila Taiwu</color> para espalhar a forca do Dragao Verdadeiro; no entanto, ha desordeiros que querem obter recursos e perturbar os moradores, causando sofrimento aos cidadaos.
-O retorno do “Dragao Verdadeiro” gerou uma grande comocao, seria bom permanecer aqui para investigar mais...
+Strangeness in Fulong
+<color=#orange>Stay in the Fulong Altar</color> to observe the unusual happenings
+<color=#orange>Stay in the Fulong Altar</color> to observe the unusual happenings. Since the "true dragon" has returned, the people of Fulong Altar became overjoyed, sending envoys to color=#orange>Shouchun, Yangzhou, Fuzhou, and Taiwu Village</color> in order to spread the true dragon's power; Some mad disciples don't even hesitate to resort to plundering money and resources from the local residents in order to pacify dragon's might, causing people to suffer.
+The "True Dragon" has returned, and there's an intense excitement throughout the Fulong Altar. Perhaps it would be worth staying here to investigate further...
 
-Investigar os Estranhos Acontecimentos
-<color=#orange>Investigue</color> o que aconteceu com Liuli
-<color=#orange>Investigue</color> o que exatamente aconteceu com Liuli; o caso é estranho, talvez outras pessoas saibam algo, e o <color=#orange>77º</color> esta nas proximidades, talvez possa ser interrogado.
-Liuli tem enfrentado situacoes muito estranhas ultimamente, preciso investigar com mais atencao...
+Strange Occurrences
+<color=#orange>Ask</color> about Liu Li's experiences
+<<color=#orange>Ask</color> about what peculiar incidents Liu Li has encountered; This matter is suspicious, and perhaps others may have heard about it. <color=#orange>Seventy-seventh</color> is also nearby, so you could go and ask them...
+Liu Li's recent experience is really strange, I should investigate it carefully...
 
-Perguntar a Liuli
-Converse com <color=#orange>Liuli</color>
-Liuli tem enfrentado situacoes estranhas, converse novamente com <color=#orange>Liuli</color>.
-Embora Liuli esteja bem, o perigo ainda esta presente por aqui...
+Ask Liu Li
+Talk to <color=#orange>Liu Li</color>
+Liu Li has encountered something strange, go and talk to <color=#orange>Liu Li</color> once again.
+Although Liu Li seems to be fine, the danger still lurks in this place...
 
-Paisagens Humanas
-Leve Liuli para <color=#orange>viajar pelo mundo humano</color>
-Leve Liuli para viajar pelo mundo humano, visitando <color=#orange>Shouchun, Yangzhou ou Fuzhou</color>, e mostre-lhe os <color=#orange>povoados, fortalezas ou vilarejos</color> de qualquer uma dessas regioes, para que Liuli veja as maravilhas do mundo humano.
-Liuli deseja ver o mundo humano, entao vamos leva-lo a esses lugares para explorar...
+Scenes of Human World
+Take Liu Li <color=#orange>to travel the human world</color>
+Take Liu Li to travel the human world, and visit <color=#orange>Shouchun, Yangzhou, or Fuzhou</color>, and in any of those three regions, visit <color=#orange>towns, camps, and villages</color> to help Liu Li witness the prosperous scenes of human world.
+Since Liu Li wishes to go to the human world, let's take her to see various places...
 
-Retornar ao Dragao Adormecido
-Leve Liuli de volta ao <color=#orange>Altar do Dragao Adormecido</color>
-Leve Liuli de volta ao <color=#orange>Altar do Dragao Adormecido</color>.
-Agora, so podemos levar Liuli de volta ao Altar do Dragao Adormecido para acalmar a confusao gerada pelos desordeiros...
+Return to Fulong
+Take Liu Li <color=#orange>to return to Fulong Altar</color>
+Take Liu Li <color=#orange>to return to Fulong Altar</color>.
+Only by returning Liu Li to the Fulong Altar can we quell the chaos caused by the maniacs...
 
-Procurando Asas de Galo Original
-Va até diversos locais para procurar as Asas de Galo Original, ainda faltam {0} unidades
-Va até diversos locais procurar pelas penas de Galo Original, ainda falta(m) <color=#orange>{0}</color> para confeccionar o manto de penas. Ao chegar nos vilarejos ou cidades que criam Galos Originais, você vera os galos, e os que ainda nao tiveram as penas retiradas têm aparência diferente dos que ja perderam. Clique em <color=#orange>galos com penas completas e ande livremente no mapa</color> para interagir com eles e coletar as penas.
-As penas do Galo Original sao valiosas, devem ser cuidadosamente coletadas e guardadas...
+Search for Chicken Feathers
+Search for Chicken feathers around the world, {0} remaining
+Search for Chicken feathers around the world. <color=#orange>You still need to find {0} feathers</color> to sew a dress.\nWhen arriving to a town or village that has a Chicken, you will be able to see it in their Industry menu. The appearance of a Chicken that hasn't been plucked is different from a plucked Chicken. Click <color=#orange> on a fully feathered 「Chicken」 freely walking around on the Industry screen</color> to Interact with it and obtain a feather.
+Chicken Feathers are precious items. They must be collected carefully and stored with caution...
 
-Confeccionar Manto de Penas
-Apos <color=#orange>confeccionar</color> o manto de penas, retorne ao <color=#orange>Altar do Dragao Adormecido</color>
-Use os materiais <color=#orange>「Penas Coloridas de Cem Passaros」</color> e o tecido no "Ateliê de Bordado" para confeccionar o manto de penas. Depois de pronto, retorne ao Altar do Dragao Adormecido para encontrar Liuli. A situacao de Liuli no altar esta complicada, e é provavel que ao voltar a situacao de emergência seja crítica, <color=#orange>se precisar de tempo para se preparar e melhorar, talvez este seja o momento ideal</color>.
-Vamos rapido confeccionar o manto de penas, fazer os preparativos e voltar ao Altar do Dragao Adormecido...
+Sew Feathered Dress
+<color=#orange>Sew</color> the feathered dress, and return to <color=#orange>Fulong Altar</color>
+In the 「Weaving Room」, use the <color=#orange>「Colorful Bird Feather」</color> material and Fabric to 「Craft」 the feathered dress. After making it, return to the Fulong Altar and meet Liu Li. Liu Li is in a bad situation at the Fulong Altar, and once you return the situation will become extremely urgent. <color=#orange>If you need time to prepare and improve, this might be your only chance.</color>
+Quickly make the feathered dress, get ready, and return to the Fulong Altar...
 
-Infiltracao do Inimigo no Dragao Adormecido
-Va rapidamente para <color=#orange>「Infiltracao do Inimigo no Dragao Adormecido」</color> dentro do mês {0}
-A situacao é urgente, va rapidamente até o evento <color=#orange>「Infiltracao do Inimigo no Dragao Adormecido」</color> dentro do mês {0}.
-A situacao no Altar do Dragao Adormecido é crítica, va imediatamente, nao perca tempo!
+Hidden Enemy in Fulong
+Within {0} month, reach the <color=#orange>「Hidden Enemy in Fulong」</color>
+Situation is urgent, within {0} months enter the  <color=#orange>「Hidden Enemy in Fulong」</color> adventure.
+The situation at the Fulong Altar is extremely urgent. I should hurry up and not delay for a second!
 
-Chamado de Liuli
-Encontre-se com <color=#orange>Liuli</color>
-A situacao no Altar do Dragao Adormecido foi resolvida, va encontrar <color=#orange>Liuli</color>.
-A situacao no Altar do Dragao Adormecido terminou, mas nao sei para onde Liuli ira...
+Liu Li's Call
+Go and meet <color=#orange>Liu Li</color>
+The matter at the Fulong Altar has been settled, go and meet <color=#orange>Liu Li</color>.
+The matter at the Fulong Altar is settled; I wonder what Liu Li will do next...
 
-Busca pelas Penas do Galo Divino
-Encontre o Galo Divino em <color=#orange>{0}</color>
-Os Galos Divinos desta regiao estao localizados em <color=#orange>{0}</color>, va até a cidade ou vilarejo correspondente para procura-los. Faca uma longa viagem e, ao entrar na proxima regiao, use novamente o Mapa do Galo Divino para "Buscar as Penas" e vera a localizacao de outros Galos Divinos na area.
-O "Mapa do Galo Divino" ja indicou onde o Galo Divino esta, va em busca dele...
+Divine Chickens' Feathers
+Go to <color=#orange>{0}</color> to look for Chickens
+The Chicken in this area is located at <color=#orange>{0}</color>, and can be found in towns and villages of the corresponding area. After entering a different area, use the Divine Fowl Map's "Find Feather" again to see the locations of other Chickens in the area.
+Since "Divine Fowl Map" has indicated the location of the Chicken feather, i can proceed to look for it...
 
-Apagar o Fogo Celestial
-<color=#orange>Evite</color> as Espinhos de Fogo do Dragao e <color=#orange>apague</color> o Fogo Celestial
-Cada area de Fogo Celestial tem 6 Espinhos de Fogo do Dragao enterrados.\nQuando você estiver em qualquer espaco da area de fogo, aparecera uma marca numérica acima do quadrado, indicando quantos Espinhos de Fogo do Dragao estao ao redor do quadrado atual, nas posicoes acima, abaixo, a esquerda e a direita.\nCom base na marca numérica, você deve evitar os quadrados com os Espinhos de Fogo do Dragao e gastar 1 dia apagando as chamas nos quadrados seguros, até que o fogo em toda a area se apague. Se você escolher por engano um quadrado com Espinhos de Fogo do Dragao, todo o grupo sofrera ferimentos, e ferimentos graves impedirao o progresso do apagamento do fogo.\nOs recursos nos quadrados da area de fogo serao destruídos pelo fogo a cada mês, até desaparecerem completamente; se o grupo permanecer em uma area de fogo desconhecida por um mês, sofrera queimaduras severas.\nO Fogo Celestial se apagara sozinho apos 5 meses. Se você ajudar a apagar o fogo, os habitantes locais ficarao muito gratos e o receberao com grande respeito.
-Apagar o Fogo Celestial exige cuidado, evite os lugares com Espinhos de Fogo do Dragao...
+Extinguishing Heavenly Fire
+<color=#orange>Avoid</color> dragon fire thorns, and <color=#orange>extinguish</color> the heavenly fire
+There are 6 dragon fire thorns buried in each heavenly fire area.\nWhen you are on any grid in the fire area, a number mark will appear above the grid, indicating the number of grids with dragon fire thorns buried in the current grid and the surrounding grids above, below, left and right.\nYou need to exclude the grids containing dragon fire thorns according to the number mark, and spend 1 day to extinguish the flames in the safe grids until the flames in the entire fire area are extinguished. If you accidentally try to extinguish fire on a grid with buried dragon fire thorns, your whole team will suffer several layers of injuries, and the injuries will be too serious to continue to extinguish the fire.\nThe resources in the grids of the fire area will be burned by the fire every month until they disappear completely; If your team stays on an unverified fire grid for a month, it will also suffer several layers of burning damage.\nThe heavenly fire will extinguish itself after 5 months. If you help extinguish the fire, the local people will be very grateful and will treat you with courtesy.
+To extinguish the heavenly fire, one must be cautious and avoid the dragon fire thorns...
 
-Acompanhar Liuli
-Fique com Liuli em <color=#orange>Taiwu Village</color>
-Aumente o afeto de Liuli até se tornar inabalavel e converse com ela sobre a <color=#orange>busca pela flor divina</color> para poder <color=#orange>descobrir a origem de Liuli</color>; ao mesmo tempo, <color=#orange>fique em Taiwu Village acompanhando Liuli</color>.
-Liuli ja retornou a aldeia, entao passe um tempo com ela por aqui...
+Accompany Liu Li
+Stay in the <color=#orange>Taiwu Village with Liu Li</color>
+Raise Liu Li's Favor to Devoted, and talk to her about the <color=#orange>search for the divine flower</color> to <color=#orange>learn more about Liu Li's life</color>; During that time, <color=#orange>stay in the Taiwu Village to accompany Liu Li</color>.
+Since Liu Li have returned to the village, i should stay for a while in the village with her...
 
-Liuli Volta a Aldeia
-Leve Liuli de volta para <color=#orange>Taiwu Village</color>
-Leve Liuli de volta para <color=#orange>Taiwu Village</color>.
-Seria bom levar Liuli de volta para Taiwu Village e passar algum tempo por la...
+Back to Village
+Take Liu Li and bring her back to the <color=#orange>Taiwu Village</color>
+Take Liu Li and bring her back to the <color=#orange>Taiwu Village</color>.
+Perhaps i should bring Liu Li back to Taiwu Village and spend some time there...
 
-Fogo Celestial Incessante
-Va até o local de <color=#orange>Fogo Celestial Incessante</color> para investigar
-Va até o local de <color=#orange>Fogo Celestial Incessante</color> para investigar.
-O Fogo Celestial Incessante é muito peculiar, é melhor investigar com cautela...
+Unending Heavenly Fire
+Go to examine the <color=#orange>Unending Heavenly Fire</color>
+Go to examine the <color=#orange>Unending Heavenly Fire</color>.
+The unending heavenly fire is quite strange. I should proceed with caution if i want to investigate it...
+
+砸锅卖铁
+前往<color=#orange>湛卢山城镇村寨</color>
+受前任铸剑山庄弟子所托，前往<color=#orange>湛卢山城镇村寨</color>，寻找收信之人。
+那弟子说，收信之人便在湛卢删邻里的城镇村寨里，得空可前往一探……
+
+倒卖库资
+受前任铸剑山庄弟子所托，前往<color=#orange>{0}</color>，寻找收信之人。
+那收信之人长年不归，看来此番需得多跑一趟……
+
+火照长空
+前往<color=#orange>铸剑山庄</color>
+前往<color=#orange>铸剑山庄</color>，寻找收信之人。
+兜兜转转，最终还得去往铸剑山庄……
+
+烟雨湛卢
+于<color=#orange>铸剑山庄静待</color>
+铸剑山庄内外交困，不宜妄动，于<color=#orange>铸剑山庄静待</color>，思索近日听闻。
+关于试剑大典，门中众说纷纭，不如停留在山庄内再作探查……
+
+青铜开口
+为集齐青铜组件，<color=#orange>静待</color>些许时日后去往江陵。
+既已应允公输坊所托，不如留在此地做足准备，再去搜集青铜部件……
+
+奇货可居
+去往<color=#orange>江陵主城</color>购买青铜组件
+去往<color=#orange>江陵主城</color>向奇货斋掌柜购买青铜组件。
+事不宜迟，该去往江陵奇货斋总部拜访掌柜了……
+
+千里擒贼
+于<color=#orange>江陵</color>寻找奇货斋商人
+于<color=#orange>江陵</color>地图寻找掌柜以外的奇货斋商人，向其打听贼匪劫货之事。
+若欲替掌柜擒住窃取奇货斋货品的匪党，不妨先向其下商人打听一番……
+
+返回江陵
+回<color=#orange>江陵主城</color>答复奇货斋掌柜
+交代之事已然办妥，返回<color=#orange>江陵主城</color>答复奇货斋掌柜。
+诸事已毕，不妨返回江陵，答复奇货斋掌柜……
+
+文山书海
+去往<color=#orange>襄阳主城</color>购买青铜组件
+去往<color=#orange>襄阳主城</color>向文山书海阁掌柜购买青铜组件。
+事不宜迟，该去往襄阳文山书海阁总部拜访掌柜了……
+
+于<color=#orange>襄阳</color>寻找服牛帮商人
+于<color=#orange>襄阳</color>地图寻找掌柜以外的服牛帮商人，向其打听贼匪劫货之事。
+
+返回襄阳
+回<color=#orange>襄阳主城</color>答复服牛帮掌柜
+交代之事已然办妥，返回<color=#orange>襄阳主城</color>答复服牛帮掌柜。
+诸事已毕，不妨返回襄阳，答复服牛帮掌柜……
+
+整备行装
+为集齐青铜组件，<color=#orange>静待</color>些许时日后去往秦州。
+五个部件已得其三，此番去往秦州路途较远，可原地稍作歇息……
+
+Penta-Lake Commerce
+去往<color=#orange>秦州主城</color>购买青铜组件
+去往<color=#orange>秦州主城</color>向五湖商会掌柜购买青铜组件。
+事不宜迟，该去往秦州拜访五湖商会掌柜了……
+
+于<color=#orange>秦州</color>寻找五湖商会商人
+于<color=#orange>秦州</color>地图寻找掌柜以外的五湖商会商人，向其打听贡品失窃之事。
+若欲替掌柜擒住窃取监守自盗的金刚宗弟子，不妨先向邻里五湖商会商人打听一番……
+
+手足俱全
+前往奇遇<color=#orange>「手足俱全」</color>
+交代之事已然办妥，返回秦州主城进入奇遇<color=#orange>「手足俱全」</color>答复五湖商会掌柜。
+诸事已毕，该返回襄阳，向五湖商会掌柜讨要最后一个青铜组件了……
+
+铜生传艺
+前往<color=#orange>各地工坊</color>传承山庄手艺
+受铸剑山庄匠人所托，带领铜生返回铸剑山庄，于沿途<color=#orange>太原、京城、寿春主城</color>处拜访工坊，学习锻造手艺。若<color=#orange>尚未拜访全部工坊便携铜生返回铸剑山庄</color>，铜生学艺未成，或无力襄助铸剑山庄，更无力扭转其衰颓之相。
+铜生未得传承，实在出乎意料，可他毕竟还是山庄弟子，不妨带他去往太原拜师学艺……
+
+寻觅铸材
+
+与<color=#orange>铜生互动</color>，提交金铁铸材，助其完铸兵刃。此前取得的未成兵刃或与铜生有所关联，不妨将此物交付于它。
+
+
+等待器成
+
+铸材已足，与<color=#orange>铜生互动</color>，等待器成，见证铜生铸成兵刃。
+
+
+前往湛庐
+回<color=#orange>湛卢山</color>，准备参加试剑大典
+返回<color=#orange>湛泸山</color>，准备参加试剑大典。
+试剑大典将近，不妨带铜生返回湛泸山，参加大典……
+
+湛卢夜色
+试剑大典将近，前往<color=#orange>铸剑山庄</color>
+试剑大典将近，带领铜生前往<color=#orange>铸剑山庄</color>。
+既至湛卢，即刻前往铸剑山庄，赶赴试剑大典罢……
+
+试剑大典
+前往奇遇<color=#orange>「试剑大典」</color>
+于<color=#orange>铸剑山庄静待</color>试剑大典召开，并进入奇遇<color=#orange>「试剑大典」</color>参加大典，若到期未能参加奇遇，局势将会无法挽回……
+试剑大典已然召开，是非成败，皆在此举……
+
+太原传艺
+
+带领铜生前往<color=#orange>太原主城</color>拜访工坊，向工坊匠人学习锻造手艺。
+
+
+京城学艺
+
+带领铜生前往<color=#orange>京城主城</color>拜访工坊，向工坊匠人学习锻造手艺。
+
+
+寿春学艺
+
+带领铜生前往<color=#orange>寿春主城</color>拜访工坊，向工坊匠人学习锻造手艺。
+
+
+江陵擒贼
+于<color=#orange>江陵</color>抓住贼匪
+于江陵地图中，寻找<color=#orange>犬吠声</color>并移动到犬只所在地格，点击<color=#orange>犬吠图标</color>，抓住窃取奇货斋货品的贼匪
+如今只需紧随犬吠声，便可找到贼匪痕迹……
+
+襄阳擒贼
+于<color=#orange>襄阳</color>抓住贼匪
+于襄阳地图中，寻找<color=#orange>犬吠声</color>并移动到犬只所在地格，点击<color=#orange>犬吠图标</color>，抓住窃取奇货斋货品的贼匪
+
+秦州擒贼
+于<color=#orange>秦州</color>抓住贼匪
+于秦州地图中，寻找<color=#orange>犬吠声</color>并移动到犬只所在地格，点击<color=#orange>犬吠图标</color>，抓住窃取奇货斋货品的贼匪
+
+炉火还明
+<color=#orange>静待</color>铸剑山庄之事了结
+铸剑山庄诸事尘埃落定，<color=#orange>静待</color>其了结。
+铸剑山庄诸事至此已然了结，不宜再作他想……
 

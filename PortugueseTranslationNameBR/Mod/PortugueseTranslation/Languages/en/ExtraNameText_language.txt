@@ -1,6 +1,18 @@
 Taiwu
-Sacerdote
-Taoísta
-Freira
-Monge
+Priest
+Taoist
+Nun
+Monk
 ???
+Mountain Divine Tree
+Cave Divine Tree
+Canyon Divine Tree
+Swamp Divine Tree
+Hill Divine Tree
+Wonderland Divine Tree
+Plains Divine Tree
+Lake Divine Tree
+Woodland Divine Tree
+Jungle Divine Tree
+River Divine Tree
+Valley Divine Tree

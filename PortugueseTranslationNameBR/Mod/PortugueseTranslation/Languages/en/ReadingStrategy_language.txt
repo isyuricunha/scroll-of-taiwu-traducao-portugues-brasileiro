@@ -1,57 +1,57 @@
-Reflexao com Recitacao
-Aumenta o Progresso de Estudo desta pagina.
-“Foque em uma coisa, recite com a boca e o coracao”\nO que voce diz com a boca e o que pensa no coracao, nunca vai esquecer...
-Perdido na meditacao
-Aumenta a Eficiencia de Estudo desta pagina.
-Sera que é isso que o capítulo quer dizer? Bem... Ou assim? Hmm...\nHa? Como estou aqui parado?
-Percepcoes Únicas
-Aumenta aleatoriamente o Progresso de Estudo desta pagina.
-O capítulo realmente traz algumas ideias brilhantes, mas do meu ponto de vista, pode nao ser tao impecavel...
-Ideias maravilhosas
-Aumenta aleatoriamente a Eficiencia de Estudo desta pagina.
-“Um barco de pesca com duas criancas, sentadas no barco com seus barcos fechados.\nVida estranha sem chuva, o guarda-chuva esta aberto, nao para cobrir a cabeca, mas para fazer o vento.”
-Fingir entender
-Reativa as Estratégias de Estudo ja colocadas nesta pagina que aumentam o Progresso de Estudo.
-Este artigo tem um significado profundo e é bastante difícil de entender.\nMas se voce seguir os artigos anteriores para interpretacao, nada pode dar errado...
-Seguir as instrucoes
-Dobra o efeito das Estratégias de Estudo ja colocadas nesta pagina que aumentam a Eficiencia de Estudo.
-Bem... de acordo com o livro, sera que isso é o que essa frase quer dizer?\nIsso é realmente bom...
-Anotar
-Perde durabilidade adicional do livro para aumentar grandemente o Progresso de Estudo desta pagina.
-“A magia da caneta de um homem, cada palavra é uma joia”...\nIsso deve ser o toque final...
-Saborear a boa escrita
-Perde durabilidade adicional do livro para aumentar grandemente a Eficiencia de Estudo desta pagina.
-Este artigo é a essencia de todo o texto, voce tem que saborea-lo com cuidado...
-Revisar o Antigo
-Quando usado em uma pagina concluída, aumenta o Progresso de Estudo da proxima pagina que nao esta concluída ou foi Perdida.
-“Estudar e aprender ao mesmo tempo, revisar o antigo e conhecer o novo”...
-Estudo Abrangente
-Quando usado em uma pagina concluída, aumenta a Eficiencia de Estudo da proxima pagina que nao esta concluída ou foi Perdida.
-Se este artigo puder ser comparado com os outros, tenho certeza que ficara mais claro.
-Seja diligente
-Aumenta grandemente o Progresso de Estudo desta pagina.
-“A excelencia no trabalho so é possível com diligencia, nao com brincadeiras.”...\nNao seja meia boca...
-Focar na leitura
-Aumenta grandemente a Eficiencia de Estudo desta pagina.
-“Trezentas palavras de uma vez, meus olhos ainda estao claros"...
-Recitacao
-O custo de Compreensao das Estratégias de Estudo nesta pagina é diminuído em 10 pontos, mas essa pagina nao dara Experiencia.
-“Ensinar de acordo com o material, adaptar-se ao tempo do ano”...\nE voce pode obter o dobro do resultado com metade do esforco...
-Extrapolacao
-O custo de Compreensao das Estratégias de Estudo nesta pagina é diminuído em 10 pontos.
-Entao... é assim que é...\nCom isso como solucao, apesar de dar um passo a frente e dois atras, posso alcancar a iluminacao rapidamente...
-Quebrando
-Remove todas as Estratégias de Estudo usadas nesta pagina, e restaura uma certa quantidade de Compreensao com base nas Estratégias de Estudo removidas.
-As palavras nesta pagina... Sao comida para o meu cérebro!\nDeixe-me desconstruir o que esta escrito neste artigo, palavra por palavra...
-Refletir e Ruminar
-Remove todas as Estratégias de Estudo usadas nesta pagina.
-Depois de ler um livro cem vezes, seu significado fica claro para voce...
-Engolir
-Esta pagina nao sera estudada, mas a Eficiencia de Estudo da proxima pagina sera reduzida.
-Vou deixar isso de lado por enquanto e passar para a proxima...
-Sabedoria da Ignorancia
-Esta pagina nao sera estudada.
-Este capítulo parece paradoxal, difícil de interpretar de imediato\nMelhor memorizar os essenciais primeiro, ao menos ajuda na alfabetizacao, se nao na compreensao...
-Notas do Pai Adotivo
-Aumenta o Progresso de Estudo de《O Impacto》ensinado pelo meu Pai Adotivo.
-“Este artigo foi explicado em detalhes pelo meu pai adotivo, seus mistérios sao naturalmente visíveis para mim...”
+Ponder with Recital
+Increases Study Progress of this page.
+“Focus on one thing, recite it with your mouth and heart”\nWhat you say with your mouth and what you think in your heart, you will never forget...
+Lost in meditation
+Increases Study Efficiency of this page.
+Is this what the chapter means？Well...Or like this？Umm...\nHuh？How come I am standing here？
+Unique Insights
+Randomly increases Study Progress of this page.
+The chapter does give some brilliant ideas, but from my point of view it may not be that flawless...
+Wonderful ideas
+Randomly increases Study Efficiency of this page.
+“A fishing boat with two children, sitting in the boat with their boats closed。\nStrange life without rain are open umbrella, not to cover the head is to make the wind.”
+Pretend to understand
+Re-activates already placed Study Strategies on this page that increase Study Progress.
+This article has a deep meaning and is quite difficult to understand. \nBut if you follow the previous articles for interpretation, nothing can go wrong...
+Follow the instructions
+Doubles the effect of already placed Study Strategies on this page that increase Study Efficiency.
+Well... according to the book, is this what this sentence means?\nThat's really good...
+Take notes
+Lose additional book durability to greatly increase the Study Progress of this page.
+“The magic of a man's pen, every word is a gem”...\nThis should be the finishing touch...
+Savor fine writing
+Lose additional book durability to greatly increase the Study Efficiency of this page.
+This article is the essence of the whole text，you have to savor it carefully...
+Review the Old
+When used on a completed page, it increases the Study Progress of the next page that isn't completed or Lost.
+“Study and learn at the same time, review the old and know the new”...
+Comprehensive Study
+When used on a completed page, it increases the Study Efficiency of the next page that isn't completed or Lost.
+If this article can be compared with the other articles, I'm sure it'll be clearer.
+Be diligent
+Greatly increases Study Progress of this page.
+“Excellence in work is only possible with diligence, not with playfulness.”...\nDon't be half-hearted...
+Focus on reading
+Greatly increases Study Efficiency of this page.
+“Three hundred words at a glance，my eyes are still clear"...
+Recitation
+The Comprehension cost of Study Strategies on this page is decreased by 10 points, but this page won't give Experience.
+“Teach according to the material，Adapt to the time of year”...\nAnd you can get twice the result with half the effort...
+Extrapolation
+The Comprehension cost of Study Strategies on this page is decreased by 10 points.
+So... that's how it is...\nWith this as a solution，despite taking one step forward and one step back, i can achieve speedy enlightenment...
+Breaking down
+Removes all Study Strategies used on this page, and restores a certain amount of Comprehension based on the removed Study Strategies.
+The words on this page... Are food for my brain!\nLet me break down what's written in this article, word by word...
+Reflect and Ruminate
+Removes all Study Strategies used on this page.
+After reading a book a hundred times, its meaning becomes clear to you...
+Gulp Down
+This page won't be studied, but the Study Efficiency of the next page will be reduced.
+I’ll just put it aside for the moment and move on to the next one...
+Wisdom of Ignorance
+This page won't be studied.
+This chapter seems paradoxical, hard to interpret in a moment\nBetter to memorize the essentials first, as it helps with literacy at least, if not with comprehension...
+Adoptive Father's Notes
+Increases the Study Progress of《Profound Tianshu Engine》taught by my Adoptive Father.
+“This article has been explained in detail by my adoptive father, its mysteries are naturally visible to me...”

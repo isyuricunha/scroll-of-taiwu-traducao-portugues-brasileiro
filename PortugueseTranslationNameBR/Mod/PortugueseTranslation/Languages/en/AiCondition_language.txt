@@ -1,195 +1,207 @@
-Atraso
-Retorna verdadeiro a cada {0} ciclos
-Probabilidade de julgamento
-Retorna verdadeiro quando a probabilidade de julgamento de {0}% é alcancada
-Primeira vez
-Retorna verdadeiro na primeira vez que a condicao for atendida em cada batalha
-Método de cultivo montado
-Retorna verdadeiro quando a barra de cultivo {0} contém {1}
-Método de cultivo superado
-Retorna verdadeiro quando {0} superou {1} {2}
-Método de cultivo aprendido
-Retorna verdadeiro quando {0} aprendeu {1}
-Dentro do alcance de ataque
-Retorna verdadeiro quando a distancia atual +{1} esta dentro do alcance do ataque físico ou ataque destruidor de {0}
-Dentro do alcance do método de cultivo
-Retorna verdadeiro quando a distancia atual +{1} esta dentro do alcance do método de cultivo {2} de {0}
-Existe borda no alcance de ataque
-Retorna verdadeiro quando {0} possui borda de alcance de ataque valida
-Memoria como texto
-Retorna verdadeiro quando o valor correspondente na memoria de {0} é igual a {1}
-Memoria como booleano
-Memoria como inteiro
-Memoria nao como texto
-Retorna verdadeiro quando nao existe valor correspondente na memoria de {0} ou quando é diferente de {1}
-Memoria nao como booleano
-Memoria nao como inteiro
-Memoria maior que
-Retorna verdadeiro quando o valor correspondente na memoria de {0} for maior que {1}
-Memoria menor que
-Retorna verdadeiro quando o valor correspondente na memoria de {0} for menor que {1}
-Dificuldade de batalha
-Retorna verdadeiro quando o personagem for Taiwu ou a dificuldade de batalha for igual ou maior que {0}
-Distancia do alvo inclinada
-Distancia do alvo inclinada para {0}
-Distancia do alvo nao igual a
-Distancia do alvo nao igual a {0}
-Distancia do alvo nao é a maior
-Distancia do alvo nao é a distancia mais distante
-Em acao
-{0} esta realizando {1}
-Realizando método de cultivo
-{0} esta realizando o método de cultivo {1}
-Progresso do método de cultivo atingiu
-Retorna verdadeiro quando o progresso do método de cultivo {1} for igual ou maior que {0}%
-Progresso do método de cultivo nao atingiu
-Retorna verdadeiro quando o progresso do método de cultivo {1} for menor que {0}%
-Valor de defesa abaixo de
-Retorna verdadeiro quando o valor restante de defesa {1} for menor que {0}%
-Marca de derrota ultrapassada
-Retorna verdadeiro quando {0} ultrapassar a marca de derrota
-Proibicao de fuga no julgamento
-Retorna verdadeiro quando a fuga for proibida ou o julgamento para proibicao de fuga for verdadeiro
-Condicoes para fuga atendidas
-Retorna verdadeiro quando as condicoes para fuga forem atendidas
-Em perigo
-Retorna verdadeiro quando estiver em perigo
-Pode realizar ataque basico
-Pode realizar uma mudanca de movimento
-Pode explorar falha com mudanca de movimento
-Pode selar pontos com mudanca de movimento
-Pode selar pontos {0} com mudanca de movimento
-Pode alterar atributo de forca interna com mudanca de movimento
-Pode trocar de arma
-Retorna verdadeiro quando existir uma arma no índice {0} - {1} que pode ser trocada e esta dentro do alcance de ataque
-Pode realizar movimento de fuga
-Pode realizar acao
-Pode realizar acao {0}
-Existem instrucoes de aliado disponíveis
-Existem instrucoes de {0} disponíveis
-Existem métodos de cultivo disponíveis
-Existem métodos de cultivo {0} disponíveis
-Existem amplificadores de lancamento disponíveis
-Existem técnicas de defesa disponíveis
-Existem aumentos de agilidade disponíveis
-Existem remédios para cura disponíveis
-Existem antídotos disponíveis
-Existem remédios de energia interna disponíveis
-Existem remédios de aumento disponíveis
-Existem venenos disponíveis
-Existem elixires de sangue disponíveis
-Existem bebidas disponíveis
-Existem armas reparaveis
-Existem armaduras reparaveis
-Tipo de batalha
-Retorna verdadeiro quando o tipo de batalha for {0}
-Método de cultivo realizado
-Retorna verdadeiro quando {0} tiver realizado o método de cultivo
-Método de cultivo específico realizado
-Retorna verdadeiro quando {0} realizar o método de cultivo {1} {2}
-Defesa realizada
-Retorna verdadeiro quando {0} tiver ativado a defesa
-Defesa específica realizada
-Retorna verdadeiro quando {0} tiver ativado a defesa {1} {2}
+Delay
+Returns the truth value once per {0} 
+probability of judgment
+Returns true when the {0}% probability of passing is determined.
+inaugural
+Returns true the first time this condition is executed for each battle
+Kung Fu has been assembled.
+Returns true when the {0} operation field contains {1} 
+The kung fu has been broken through
+Returns true when {0} has broken through {1} {2} 
+You've learned the Kung Fu.
+Returns true when {0} has learned {1} 
+be in the area of an attack
+Current Distance + {1} Returns true if you are in range of {0} 's Punch or Mid-Destruct attack.
+It's in the range of the kung fu.
+Current Distance + {1} Returns true if {0} is within the range of {2}.
+Presence of attack range edge
+Returns true when a valid attack range edge exists for {0} 
+Memory as Text
+Returns true if the value corresponding to {0} is the same as {1} in memory.
+Memory as Boolean
+Memorize as an integer
+Memory is not a text
+Returns true if {0} has no value in memory or is not the same as {1}.
+Memory is not Boolean.
+Memory is not an integer
+memory is greater than
+Returns true when the value corresponding to {0} in memory is greater than {1}.
+Memory less than
+Returns true if the value corresponding to {0} in memory is less than {1}.
+Fight Difficulty
+Returns true when the character is Taigo or when the combat difficulty is not lower than {0} 
+Target distance bias
+Target distance bias {0}
+The target distance is not
+The target distance is not {0}
+The target distance is not the furthest
+Target distance is not the farthest distance
+It's working.
+{0} It's working. {1}
+I'm performing a technique.
+{0} I'm performing a technique. {1}
+The progress of the technique is up to
+{1} Returns true if the progress of the technique does not fall below {0}%.
+The progress of the technique has not been reached.
+{1} Returns true if the progress of the technique is less than {0}%.
+Residual stances below
+Returns true when {1} 's remaining move value is less than {0}%.
+Over half of the defeat markers
+Returns true when {0} is halfway through the defeat marker
+Decision to disable escape
+Returns true when your side is not allowed to escape or when a judgment disabling escape passes.
+Satisfying the conditions for escape
+Returns true when your side meets the escape condition
+At risk.
+Returns true when your side is in danger.
+Can perform a Punch Attack
+It's possible to make changes.
+You can change your moves and break them.
+You can change your stance and seal your points.
+You can change your stance and seal your points. {0}
+You can change your moves to change your internal attributes.
+You can switch weapons.
+Returns true if there is a switchable weapon in range between {0} - {1}.
+Escape movement is possible
+Behavior can be performed
+Behavior can be performed {0}
+Existence of available cohort commands
+The available {0} command exists
+Existence of usable feats
+Exists available at {0} skill
+Existence of a usable increase in the number of performances
+Presence Recovery Stroke Bodyguard
+Presence Gain Stance
+Existence of available healing medicines
+Existence of available repellents
+Presence of available endostatin
+Presence of available gain medicine
+Existence of usable poisons
+Presence of usable blood drops
+Existence of available wine
+Existence of repairable weapons
+Existence of repairable defense equipment
+Combat Type
+Returns true when the fight type is {0} 
+activate one's stance
+Returns true when {0} has been activated.
+I've activated a specific stance.
+Returns true when {0} has activated the body method {1} {2} 
+I've activated my shield.
+Returns true when {0} has activated the bodyguard.
+Specific body armor has been activated.
+Returns true when {0} has activated the shield {1} {2} 
 Taiwu
-Retorna verdadeiro apenas quando o personagem for Taiwu
-Marca de lesao
-Retorna verdadeiro quando {0} {2} {3} tiver marca de lesao maior ou igual a {1}
-Marca de falha
-Retorna verdadeiro quando {0} {2} falha maior ou igual a {1}
-Marca de bloqueio
-Retorna verdadeiro quando {0} {2} bloqueios maior ou igual a {1}
-Marca de veneno
-Retorna verdadeiro quando {0} {2} marcas de veneno forem maiores ou iguais a {1}
-Marca de desmaio
-Retorna verdadeiro quando {0} tiver marca de desmaio maior ou igual a {1}
-Marca de ferimento grave
-Retorna verdadeiro quando {0} tiver marca de ferimento grave maior ou igual a {1}
-Marca de morte certa
-Retorna verdadeiro quando {0} tiver marca de morte certa maior ou igual a {1}
-Marca de energia interna
-Retorna verdadeiro quando {0} tiver marca de energia interna maior ou igual a {1}
-Marca de estado
-Retorna verdadeiro quando {0} tiver marca de estado maior ou igual a {1}
-Marca de saúde
-Retorna verdadeiro quando {0} tiver marca de saúde maior ou igual a {1}
-Marca de inseto
-Retorna verdadeiro quando {0} possuir {1} e {2} do inseto {3}
-Marca de transformacao de inseto
-Retorna verdadeiro quando {0} possuir {1} transformacao de inseto
-Marca de inseto rei
-Retorna verdadeiro quando {0} possuir {1} inseto rei
-Marca de energia verdadeira
-Retorna verdadeiro quando {0} {1} de energia verdadeira for maior ou igual a {2}%
-Efeito do método de cultivo
-Retorna verdadeiro quando o método de cultivo {0} {1} {2} tiver {3} camadas de efeito
-Valor de passo
-Retorna verdadeiro quando o valor de passo {1} for maior ou igual a {0}%
-Exaustao
-Condicao desativada, sempre retornara falso
-Pureza
-Retorna verdadeiro quando o personagem for Taiwu ou {0} tiver pureza maior ou igual a {1}
-Fase
-Retorna verdadeiro quando a fase de batalha for maior ou igual a {0} (a primeira fase é zero)
-Espaco para estilo
-Retorna verdadeiro quando o número de estilos no espaco {0} for maior ou igual a {2}
-Arma alternavel por índice
-Retorna verdadeiro quando a arma no índice {0} puder ser trocada
-Arma alternavel específica
-Retorna verdadeiro quando existir uma arma alternavel {0}
-Arma alternavel por tipo
-Retorna verdadeiro quando existir uma arma do tipo {0} que possa ser trocada
-Arma atual
-Retorna verdadeiro quando a arma {0} for {1}
-Tipo de arma atual
-Retorna verdadeiro quando o tipo de arma {0} for {1}
-Tipo de energia interna
-Retorna verdadeiro quando a energia interna do atributo {0} for {1}
-Todas as marcas
-Retorna verdadeiro quando todas as marcas de {0} forem maiores ou iguais a {1}
-Todas as marcas internas e externas
-Quando todos os locais de {0} tiverem {2} marcas de ferimento nao menores que {1}, retorna verdadeiro
-Todas as marcas de ferimento
-Quando todos os locais de {0} tiverem marcas de ferimento nao menores que {1}, retorna verdadeiro
-Todas as marcas de vulnerabilidade
-Quando todos os locais de {0} tiverem marcas de vulnerabilidade nao menores que {1}, retorna verdadeiro
-Todas as marcas de bloqueio de pontos vitais
-Quando todos os locais de {0} tiverem marcas de bloqueio de pontos vitais nao menores que {1}, retorna verdadeiro
-Memoria maior que
-Quando o valor correspondente de {0} na memoria for maior que o valor correspondente de {1}, retorna verdadeiro
-Memoria menor que
-Quando o valor correspondente de {0} na memoria for menor que o valor correspondente de {1}, retorna verdadeiro
-Memoria igual a execucao
-Quando o valor correspondente de {0} na memoria for igual ao método de cultivo {1} em execucao, retorna verdadeiro
-Borda do alcance de ataque maior
-Quando a borda do alcance de ataque {1} de {0} for maior que a borda correspondente no alcance de ataque do oponente, retorna verdadeiro
-Borda do alcance de ataque menor
-Quando a borda do alcance de ataque {1} de {0} for menor que a borda correspondente no alcance de ataque do oponente, retorna verdadeiro
-Último ataque normal desviado
-Se o último ataque normal for com a arma atual e o ataque inicial ou sequencia for desviado, retorna verdadeiro
-Índice da arma atual
-Quando o índice da arma {0} for {1}, retorna verdadeiro
-Executando técnicas de cultivo regulares ou inversas
-{0} esta executando a técnica de cultivo {1} {2}
-Pode executar uma técnica específica
-Quando for possível executar a técnica de cultivo {0}, retorna verdadeiro
-Pode executar técnicas regulares ou inversas
-Quando for possível executar a técnica de cultivo {0} e a técnica for {1}, retorna verdadeiro
-Intensidade do estado benéfico
-Quando existir um estado benéfico chamado {0} e sua intensidade total nao for menor que {2}, retorna verdadeiro
-Intensidade do estado prejudicial
-Quando existir um estado prejudicial chamado {0} e sua intensidade total nao for menor que {2}, retorna verdadeiro
-Intensidade do estado especial
-Quando existir um estado especial chamado {0} e sua intensidade total nao for menor que {2}, retorna verdadeiro
-Dentro do alcance de memoria da técnica
-Quando a distancia atual +{2} estiver dentro do alcance de execucao da técnica correspondente de {0} na memoria, retorna verdadeiro
-Pode executar técnica de memoria
-Quando for possível executar a técnica de memoria {0}, retorna verdadeiro
-Distancia atual igual
-Quando a distancia atual for igual a {0}, retorna verdadeiro
-Distancia atual maior
-Quando a distancia atual for maior que {0}, retorna verdadeiro
-Distancia atual menor
-Quando a distancia atual for menor que {0}, retorna verdadeiro
-Último ataque normal falhou
-Quando o último ataque normal falhou com a arma atual e nenhum ataque foi realizado, retorna verdadeiro
+Returns true only if itself is Taiko
+Injuries
+Returns true when {0} {2} {3} has no fewer than {1} injury markers
+mistake or gap in a speech or theory
+Returns true when {0} {2} has no fewer than {1} breakage markers.
+mark a cave with a seal
+Returns true if {0} {2} has no fewer than {1} sealing markers.
+toxin labeling
+Returns true when {0} {2} markers are not less than {1} ones
+disorientation
+Returns true when {0} has no less than {1} disorientation markers.
+Fatal Wound
+Returns true when {0} has no fewer than {1} re-injury markers
+Mark of certain death
+Returns true if {0} has no fewer than {1} must-die tokens.
+internal breath marker (e.g. in Chinese medicine)
+Returns true when {0} has no less than {1} resting marks.
+status mark
+Returns true if the {0} status marker is not less than {1}.
+health marker
+Returns true when {0} health markers are no less than {1} 
+If the compulsion mark
+Returns true when {0} has {1} and {2} has a {3} comp.
+mark a person as a parasite
+Returns true when {0} compares to {1}.
+mark of a king's compulsion
+Returns true when {0} has a {1} king comp.
+mark of true qi
+Returns true when {0} {1} true qi is not less than {2}%.
+Effect of Technique
+Returns true when {0} skill {1} {2} has {3} layer effect
+foot power value
+Returns true when {1} footage value is not less than {0}%
+Weary.
+Discard condition, currently will always return false value
+pure
+Returns true if the character is Taigo or if {0} has a purity value no lower than {1}.
+point
+Returns true when the combat phase is not lower than {0} (first phase is zero)
+groove
+Returns true when the number of {1} equations in the {0} equation slot is not less than {2} equations.
+Switchable to indexed weapons
+Returns true when the weapon indexed at {0} can be toggled
+Switchable to specific weapons
+Returns true when a switchable weapon exists {0} 
+Switchable to weapon type
+Returns true when a switchable {0} class weapon exists
+Current weapons
+Returns true when {0} weapon is {1} 
+Current weapon type
+Returns true when {0} weapon type is {1} 
+Internal energy type
+Returns true when {0} internal strength attribute five rows is {1} 
+All marks
+Returns true when all tokens of {0} are not less than {1} 
+All internal and external markings
+Returns true when {0} all parts of {2} have no fewer than {1} injury markers.
+All injury markers
+Returns true when {0} has no fewer than {1} injury markers for all sites
+All breakage markers
+Returns true when {0} has no fewer than {1} all part breakage markers.
+All sealing point markers
+Returns true if {0} has no fewer than {1} sealing markers for all sites.
+(math.) memory is larger than
+Returns true when the value corresponding to {0} in memory is greater than the value corresponding to {1}.
+(math.) less than
+Returns true if the value corresponding to {0} in memory is less than the value corresponding to {1}.
+Memorization equals performance.
+Returns true when the value corresponding to {0} in memory is the same as the technique being performed by {1}.
+Attack range edge greater than
+Returns true when the {0} attack range {1} edge is greater than the same edge of the other side's attack range
+The edge of the attack range is less than
+Returns true when the {0} attack range {1} edge is smaller than the same edge of the other side's attack range.
+The last attack was neutralized.
+Returns true when the last pummel is the current weapon and the first attack or pursuit is defused
+Current Weapon Index
+Returns true when {0} weapon index is {1} 
+I'm performing the "Right and Wrong" technique.
+{0} Performing Kung Fu {1} {2}
+Can perform specific feats
+Self-executable feats {0} return true when
+Can perform positive and negative techniques
+Returns true if you can perform the technique {0} and the technique is {1}.
+Gain State Intensity
+Returns true when a gain state with the name {0} exists at {1} and the total strength is not lower than {2} 
+damage state intensity
+Returns true when {1} has a damage state with the name {0} and the total intensity is not less than {2} 
+special condition strength
+Returns true when {1} has a special state named {0} and the total strength is not less than {2} 
+It's in the range of memorized feats.
+Current distance + {2} Returns true if the value corresponding to {0} in {1} 's memory is within the range of application.
+Can perform memorization techniques
+Self-executing memories {0} return true when
+The current distance is equal to
+Returns true if the current distance is equal to {0} 
+The current distance is greater than
+Returns true if the current distance is greater than {0} 
+The current distance is less than
+Returns true if the current distance is less than {0} 
+The last attack fell short.
+Returns true if the last missed poke was the current weapon and no attack was made
+兵器可解封
+当存在可解封的兵器 {0} 时返回真值
+兵器类型可解封
+当存在可解封的兵器类型 {0} 时返回真值
+兵器解封进度
+当 {1} 有兵器 {2} 解封进度不低于 {0}% 时返回真值
+可以中断施展
+当角色正在施展功法且允许中断施展时返回真值
+可以中断护体
+当角色已运起护体且允许中断护体时返回真值
+可以中断身法
+当角色已运起身法且允许中断身法时返回真值

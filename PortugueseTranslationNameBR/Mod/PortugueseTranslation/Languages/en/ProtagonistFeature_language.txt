@@ -1,60 +1,60 @@
-Afiado como Lamina
-Voce se aprimorou ao subjugar tigres e dragoes...\nVoce frequentemente lutou contra ursos e tigres no Vale Profundo, fazendo sua Forca ser muito superior a das pessoas comuns.\nAumenta sua Forca base para pelo menos 70.
-Rapido diante do Perigo
-Voce se tornou rapido ao enfrentar questoes de vida ou morte...\nVoce aprendeu a ser vigilante contra todo tipo de perigo enquanto crescia no Vale Profundo, fazendo sua Agilidade ser muito superior a das pessoas comuns.\nAumenta sua Agilidade base para pelo menos 70.
-Conforto no Frio Intenso
-Voce encontrou conforto no frio intenso, obtendo um coracao capaz de suportar...\nUma infancia solitaria fez seu coracao ser tao calmo quanto um lago, fazendo sua Forca de Vontade ser muito superior a das pessoas comuns.\nAumenta sua Forca de Vontade base para pelo menos 70.
-Puro como a Natureza
-Puro e honesto, semelhante a propria natureza...\nVoce viveu uma vida simples e natural no Vale Profundo desde a infancia, fazendo sua Constituicao ser muito superior a das pessoas comuns.\nAumenta sua Constituicao base para pelo menos 70.
-Adaptavel as Mudancas
-Adaptavel as mudancas, abandonando seu corpo mortal...\nVoce frequentemente praticou em lugares estranhos no Vale Profundo, fazendo sua Vitalidade ser muito superior a das pessoas comuns.\nAumenta sua Vitalidade base para pelo menos 70.
-Pensar em Paz
-Pensar em paz para entender a si mesmo...\nPor causa de sua infancia solitaria, voce teve mais tempo para refletir, fazendo sua Compreensao ser muito superior a das pessoas comuns.\nAumenta sua Compreensao base para pelo menos 70.
-Um Amigo Secreto
-Amigos secretos no vale, namorados da infancia...\nVoce tem um melhor amigo secreto com quem é inseparavel.\nVoce ganha um membro leal do grupo de início, do sexo oposto, com o mesmo ponto de vista que voce e tracos positivos.
-Narciso no Sonho
-Para um visitante do mundo dos sonhos, a aparencia nao é importante...\nVoce tem um charme único. Parece que todos ja te viram em seus sonhos, fazendo sua aparencia nao ser mais importante.\nVoce recebe o traco "Narciso no Sonho", que aumenta muito seu Charme. Este traco sempre sera herdado por seus filhos.
-Cobra de Testa Branca
-Serpente espiritual com testa branca, o espiritual se torna real...\nUma vez, voce brincou com uma cobra espiritual de testa branca no Vale Profundo, e desde entao se tornou imune a todos os tipos de venenos.\nVoce recebe o traco "Cobra de Testa Branca", que aumenta muito sua Resistencia ao Veneno. Este traco sempre sera herdado por seus filhos.
-Ervas e Jade Consumidos
-Consumir ervas e jade fara voce transcender o comum...\nUma vez, voce consumiu muitas ervas imortais e jade espiritual, fazendo voce nao so ser extremamente talentoso, mas também viver muito mais que as pessoas comuns.\nVoce recebe o traco "Ervas e Jade Consumidos", que aumenta muito sua expectativa de vida maxima e lhe da 3 slots extras de Nadis. Este traco sempre sera herdado por seus filhos.
-Colecao do Leste e Oeste
-Procurar no leste e no oeste, e reunir uma colecao...\nVoce passou muitos anos coletando todos os tipos de recursos.\nVoce comeca com 1000 de cada tipo de recurso.
-Dez Pecas de Ouro
-Dez pecas de ouro, podem ser usadas para brincadeiras de crianca...\nVoce tem dez pecas de ouro que outras criancas confundiram com pedras e usaram para brincar.\nSeu Dinheiro inicial aumenta de 1000 para 10000.
-Brocado de Enfaixamento
-Roupas sao tecidas, mas ainda assim sao quentes...\nQuando bebe, voce foi enrolado em duas roupas sangrentas. Talvez essas sejam restos de seus pais. Essas roupas ainda estao bem preservadas no seu armazém.\nVoce comeca com duas roupas t5, "Camiseta" e "Roupas Bordadas".
-Vinho de Canela e Pimenta
-Vinho de canela e pimenta fica mais perfumado com o tempo...\nSeu armazém contém varios potes de vinho fino que voce encontrou uma vez em um velho celeiro nas costas de uma montanha.\nVoce comeca com varios potes de vinho t6-t5.
-Cavalgando para Testar a Espada
-Cavalgando para testar uma espada, criando um corcel imponente...\nVoce tem um cavalo que criou pessoalmente e transformou em um excelente corcel.\nVoce comeca com um cavalo montado t5.
-Pote Antigo Selado em Lama
-Pote antigo selado em lama esconde uma pérola...\nSeu armazém contém um pote de grilo selado na terra por décadas.\nVoce comeca com um pote de grilo de Jade Negro t4.
-Coisas Estranhas em uma Caverna Misteriosa
-Coisas estranhas em uma caverna misteriosa, a cor daqueles que o cheiram muda...\nSeu armazém contém varias ervas venenosas exoticas e insetos que voce encontrou em uma caverna misteriosa.\nVoce comeca com varios materiais venenosos t4.
-Drogas de um Forno empoeirado
-Drogas de um forno empoeirado, e uma bolinha verde flutuante...\nSeu armazém contém varias drogas de todos os tipos e cores que voce encontrou em um forno medicinal enterrado.\nVoce comeca com varios remédios t4.
-Tesouro de Família
-Tesouro de família de extrema importancia...\nSeu armazém contém um heranca de família passada por seus pais.\nVoce comeca com um acessorio t1 melhorado aleatorio.
-Registro de uma Idade de Ouro
-Registro de uma era dourada, muitas coisas aguardando para serem feitas...\nVoce ainda lembra das lendas sobre o mundo prospero de antigamente que ouviu quando era jovem, e nao pode deixar de desejar por isso.\nAumenta o limite de construcoes da Vila Taiwu em 20.
-As Quatro Artes
-Conhecer as quatro artes faz de voce uma pessoa multi-talentosa...\nSeu talento em Música, Xadrez, Literatura e Pintura é extraordinario.\nAumenta seu talento em Música, Xadrez, Literatura e Pintura para pelo menos 70.
-Seguindo a Natureza
-Siga a natureza e ela lhe mostrara o caminho...\nSeu talento em Budismo, Taoísmo, Apreciacao e Artes Culinarias é extraordinario.\nAumenta seu talento em Budismo, Taoísmo, Apreciacao e Artes Culinarias para pelo menos 70.
-Curar Pessoas e Divinar Estrelas
-Curar pessoas e divinar estrelas, ambos requerem conhecimento do yin yang e dos cinco elementos...\nSeu talento em Medicina, Toxicologia, Astrologia e Tradicoes é extraordinario.\nAumenta seu talento em Medicina, Toxicologia, Astrologia e Tradicoes para pelo menos 70.
-Criatividade
-O Céu cria as coisas, e o fogo do conhecimento é passado de geracao em geracao...\nSeu talento em Forja, Marcenaria, Lapidacao de Pedras e Tecelagem é extraordinario.\nAumenta seu talento em Forja, Marcenaria, Lapidacao de Pedras e Tecelagem para pelo menos 70.
-Jade Nao Polido
-Jade nao polido aguarda para ser transformado em uma pedra preciosa...\nSua eficiencia em estudar Belas Artes é muito superior a das pessoas comuns.\nMelhora muito sua Eficiencia de Leitura ao estudar livros de Belas Artes (em 30%). Voce também recebe o traco "Jade Nao Polido" que aumenta sua Forca de Vontade em 20. Este traco sempre sera herdado por seus filhos.
-Lamina Afiada Contida
-A lamina afiada é contida, o dragao escondido aguarda para se libertar...\nSua eficiencia em estudar Artes Marciais é muito superior a das pessoas comuns.\nMelhora muito sua Eficiencia de Leitura ao estudar livros de Artes Marciais (em 30%). Voce também recebe o traco "Lamina Afiada Contida" que aumenta sua Forca de Vontade em 20. Este traco sempre sera herdado por seus filhos.
-Tesouros da Natureza
-Tesouros da natureza, dados pelo Céu e pela Terra...\nVoce encontrou um lugar secreto no Vale Profundo e reuniu materiais valiosos de la.\nVoce comeca com 1-2 materiais t3 de Madeira, Minério, Jade e Tecido.
-Prepare suas Ferramentas
-Prepare suas ferramentas para fazer bem o seu trabalho...\nVoce passou varios anos de sua vida reparando algumas ferramentas complexas descartadas.\nVoce comeca com tres ferramentas t4 aleatorias.
-Ser Celestial por Natureza
-Ser celestial por natureza, um em dez mil...\nSeu talento em Artes Internas, Movimento e Truques é incomparavel.\nAumenta seu talento em Artes Internas, Movimento e Truques para pelo menos 90.
-Cova Antiga
-Esculpindo na parede de uma cova antiga, uma coisa excepcional superada pela terra...\nVoce ja encontrou uma cova desolada da antiguidade, e dentro dela transcreveu um livro de Artes Marciais e um livro de Belas Artes das inscricoes na parede.\nVoce comeca com um livro de Artes Marciais t3 da seita da area de nascimento e um livro de Belas Artes t3 aleatorio. As paginas de ambos os livros estarao completas, e suas paginas serao estudadas em 50%. A arte marcial também sera praticada em 50%.
+Sharpened Edge
+You've sharpened yourself by subduing tigers and dragons...\nYou often fought bears and tigers in the Deep Valley, causing your Strength to be far above ordinary people.\nIncreases your base Strength to at least 70.
+Rapid from Danger
+You've become fast from experiencing matters of life and death...\nYou've learned to be vigilant towards all kinds of dangers when you were growing in the Deep Valley, causing your Agility to be far above ordinary people.\nIncreases your base Agility to at least 70.
+Comfort in Bitter Cold
+You found comfort in bitter cold, obtaining heart capable of enduring...\nA lonely childhood made your heart as calm as a lake, causing your Willpower to be far above ordinary people.\nIncreases your base Willpower to at least 70.
+Pure Like Nature
+Pure and honest, resembling the nature itself...\nYou lived a simple and natural life in the Deep Valley since you were a child, causing your Constitution to be far above ordinary people.\nIncreases your base Constitution to at least 70.
+Adaptable to Change
+Adaptable to change, sheds their mortal body...\nYou often practiced in strange places in the Deep Valley, causing your Vitality to be far above ordinary people.\nIncreases your base Vitality to at least 70.
+Think in Peace
+Think in peace to understand oneself...\nBecause of your lonely childhood, you had more time to think, causing your Comprehension to be far above ordinary people.\nIncreases your base Comprehension to at least 70.
+A Secret Friend
+Secret friends in the valley, childhood sweethearts...\nYou have a secret best friend who's inseparable from you.\nYou gain a loyal starting party member of the opposite gender with the same standpoint as you and positive traits.
+Narcissus in Dream
+For a dreamland visitor, appearance is not important...\nYou have a unique charm. It seems like everyone has seen you in their dreams, causing your appearance to no longer be important.\nYou receive the "Narcissus in Dream" trait that greatly increases your Charm. This trait will always be inherited by your children.
+White Forehead Snake
+Spiritual snake with a white forehead, spiritual becomes real...\nOne time you've played with a white-headed spiritual snake in the Deep Valley, and since then you've been impervious to all kinds of poisons.\nYou receive the "White Forehead Snake" trait that greatly increases your Poison Resistance. This trait will always be inherited by your children.
+Consumed Herbs and Jade
+Consuming herbs and jade will make you transcend the ordinary...\nOne time you've consumed many immortal herbs and spiritual jades, causing you to not only be extremely talented, but also to have a much longer lifespan than ordinary people.\nYou will receive the "Consumed Herbs and Jade" trait that greatly increases your maximum Lifespan, and gives you 3 extra Nadis slots. This trait will always be inherited by your children.
+East and West Collection
+Search east and west, and gather a collection...\nYou've spent many years collecting all sorts of resources.\nYou start with 1000 of each type of resources.
+Ten Pieces Of Gold
+Ten pieces of gold, can be used for child's play...\nYou have ten pieces of gold that other children confused with stones and used them to play.\nYour starting Money increases from 1000 to 10000.
+Brocade Of Swaddle
+Clothes are woven, yet they're still warm...\nAs an infant you've been swaddled in two bloody clothes. Perhaps those are remnants of your father and mother. Those clothes are still well preserved in your warehouse.\nYou start with two t5 clothes, "Shirt" and an "Embroidery clothing".
+Cinnamon and Pepper Wine
+Cinnamon and pepper wine becomes more fragrant with age...\nYour warehouse contains several earthen jars of fine wine that you've once found in a dusty cellar at the back of a mountain.\nYou start with several jars of t6-t5 wine.
+Riding Horse to Test a Sword
+Riding horse to test a sword, raising it into a mighty steed...\nYou have a horse that you've personally raised into a fine steed.\nYou start with a t5 horse mount.
+Mud-sealed Ancient Jar
+Mud-sealed ancient jar hides a pearl...\nYour warehouse contains a cricket jar that was sealed in the dirt for decades.\nYou start with a t4 Dark Jade cricket jar.
+Weird Things in a Strange Cave
+Weird things in a strange cave, the color of those who smell it changes...\nYour warehouse contains several weird and exotic poisonous grasses and insects that you've found in a mysterious cave.\nYou start with various t4 poison materials.
+Drugs from a Dusty Furnace
+Drugs from a dusty furnace, and a floating green pellet...\nYour warehouse contains several medicines of all shapes and colors that you've found in a buried medicinal furnace.\nYou start with various t4 medicines.
+Family Treasure
+A family treasure of the utmost importance...\nYour warehouse contains a family heirloom passed on to you by your parents.\nYou start with a random improved t1 Accessory.
+Record of a Golden Age
+Record of a golden age, many things waiting to be done...\nYou still remember the legends about the once prosperous world that you heard when you were young, and you can't help but to yearn for them.\nIncreases the building limit of the Taiwu Village by 20.
+The Four Arts
+Knowing the four arts makes you multi-talented...\nYour talent in Music, Chess, Literature, and Painting is extraordinary.\nIncreases your talent in Music, Chess, Literature, and Painting to at least 70.
+Following Nature
+Follow the nature and it will show you the path...\nYour talent in Buddhism, Taoism, Appreciation, and Culinary Arts is extraordinary.\nIncreases your talent in Buddhism, Taoism, Appreciation, and Culinary Arts to at least 70.
+Curing People and Divining Stars
+Curing people and divining stars, both require knowledge of the yin yang and the five elements...\nYour talent in Medicine, Toxicology, Astrology, and Lore is extraordinary.\nIncreases your talent in Medicine, Toxicology, Astrology, and Lore to at least 70.
+Creativity
+Heaven creates things, and the fire of knowledge is passed from one generation to another...\nYour talent in Smithing, Carpentry, Gemcutting, and Weaving is extraordinary.\nIncreases your talent in Smithing, Carpentry, Gemcutting, and Weaving to at least 70.
+Unpolished Jade
+Unpolished jade awaits to be polished into a precious stone...\nYour efficiency in studying Fine Arts is far above ordinary people.\nGreatly improves your Reading Efficiency when studying Fine Art books (by 30%). You also receive the "Unpolished Jade" trait that increases your Fortitude by 20. This trait will always be inherited by your children.
+Restrained Sharp Edge
+The sharp edge is restrained, the hidden dragon awaits to break free...\nYour efficiency in studying Martial Arts is far above ordinary people.\nGreatly improves your Reading Efficiency when studying Martial Art books (by 30%). You also receive the "Restrained Sharp Edge" trait that increases your Fortitude by 20. This trait will always be inherited by your children.
+Treasures from Nature
+Treasures from nature, given by Heaven and Earth...\nYou've found a secret place in the Deep Valley, and gathered some valuable materials from it.\nYou start with 1-2 t3 Wood, Ore, Jade, and Fabric materials.
+Prepare Your Tools
+Prepare your tools to do your job well...\nYou've spent several years of your time to repair some discarded intricate tools.\nYou start with three random t4 tools.
+Celestial Being by Nature
+Celestial being by nature, one in in ten thousand...\nYour talent in Inner Arts, Footwork, and Stunt is equal to none.\nIncreases your talent in Inner Arts, Footwork, and Stunt to at least 90.
+Ancient Grave
+Carving on a wall of an ancient grave, exceptional thing overtaken by earth...\nYou've once found a desolate  grave from the ancient times, and inside of it you've transcribed a Martial Art book and a Fine Art book from the carvings on the wall.\nYou start with a random t3 Martial Art of the birth area's sect, and a random t3 Fine Art book. Both books' pages will be full, and their pages will be studied by 50%. The martial art will also be practiced to 50%.

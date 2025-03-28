@@ -1,115 +1,116 @@
 Chat about News
-Usar Segredos
-Investigar Segredos
-Elogiar
-Humilhar e Acusar
-Convite para Encontro
-Dar Presentes
+Use Secrets
+Inquire about Secrets
+Compliment
+Humiliate
+Invite to a Meeting
+Gift
 Cricket Duels
-Desafio de Habilidades
-Treinamento de Artes Marciais
-Iniciar Desafio
-Pedir Dicas de Habilidade
-Pedir Dicas de Técnica
-Stole Life Skill
-Roubo de Técnica
-Scamming Techniques
-Técnicas de Fraude
-Troca de Livros
-Convidar para Alianca
-Convidar para Voltar a Vila
-Obtained Support
-Adotar como Pai
-Adotar como Mae
-Adotar como Filho
-Adotar como Filha
-Amigos Íntimos
-Confessar Amor
-Couple Married
-Romper Relacoes
-Became Sworn Siblings
-Romper Juramento de Amizade
-Recomendar Amigos
-Semear Discordia
-Mediar Conflitos
-Casamento Arranjado
-Scamming items
-Fraudar Itens
-Fraudar Segredos
-Stealing items
-Roubar Itens
-施以毒害
-Dano Secreto
-Outras Acoes
-Atacar
-Exorcismo
-Pedido de Troca
-Adotar Frango Original
-Casamento Arranjado
-Promover Bondade e Justica
-Ganhar Coracoes
-Comércio de Elogia
-Reunioes de Cha e Bebidas
-Visualizar Mercadorias
-Cura e Remocao de Veneno
-Reparo de Itens
-Cortar Cabelos e Aparar
-Doacao de Dinheiro
-Recomendar Discípulos
-Procurar Discípulos
-Meditacao com Livros
-Regras do País
-Ressurgir
-Recuperacao Secreta de Sete Estrelas
-Meditacao na Prisao de Pedra
-Espalhar Fama
-Classicos de Wang Chan
-Reflexao do Espelho de Jade
-Ferramentas Antigas de Ou Ye
-Forjar Espada de Teste
-Pílula Secreta de Longevidade
-Colecionar Tributos
-Banho Secreto dos Cinco Santos
-Contratar Assassinato
-Servidor Leal
-Método do Poco de Sangue
-Diagnostico
-Reviver
-Conferir Título
-Coletar Tributos
-Degustacao de Cha
-Coleta de Tesouros
-Divinacao
-Alterar Destino
-Guiar para a Virtude
-Pedir Retirada
-Juras
-Apoiar e Recomendar
-Treinamento com Bebidas
-Iluminacao
-Exorcismo
-Escritor Fantasma
-Congresso Marcial Mundial
-Devolver Estatua
-Colapso da Floresta de Pagodas
-Rumores do Leao
-Farsa do Leao
-Caso de Assassinato de Emei
-Anciao em Reclusao
-Preocupacoes com a Verdade
-Devolver Bebe
-Arrancar Coracao
-Destruir a Mente
-Investigar o Misterioso
-Consultar o "Espelho da Pomba Solitaria"
-Discutir "Amor"
-Persuasao
-Rituais Fúnebres
-Reparar Túmulo
-Cacar Tesouros
-Método de Remocao de Gu
-Técnica de Feiticaria
-Capturar Criminosos
-Exigir Prisioneiros
-Dragao Verdadeiro Chega
-Dragao Divino Desce
+Debate
+Spar
+Issue a Challenge
+Consult Fine Arts
+Consult Martial Arts
+Steal Fine Arts
+Steal Martial Arts
+Scam Fine Arts
+Scam Martial Arts
+Exchange Books
+Invite to Party
+Send back to Village
+Obtain Support
+Accept as an Adoptive Father
+Accept as an Adoptive Mother
+Accept as an Adoptive Son
+Accept as an Adoptive Daughter
+Become Lovers
+Break up with them
+Get Married
+Divorce
+Become Sworn Siblings
+Repudiate Sworn Siblingship
+Recommend a Friend
+Drive a wedge between
+Mediate Grievances
+Matchmake with someone
+Scam Items
+Scam News
+Scam Secrets
+Steal Items
+Rob Items
+Poison them
+Secretly Harm
+Attack them
+Get rid of Evil
+Sincerely ask to Take
+Exchange
+Adopt a Chicken
+Conduct Matchmaking
+Pushing for Kindness and Justice
+Win Over People's Hearts
+Praise Merchant Group
+Drinking Party
+Browse goods
+Heal and Detox
+Repair Items
+Haircut
+Give money for alms
+Recommend a Disciple
+Look for a Disciple
+Isolated Study
+Manage Heavenly State
+Rise from the Dead
+Septenary Recuperation of the Big Dipper
+Stone Prison Meditation
+Spread Fame
+Ancient Book of Wang Chan
+Meditate infront of the Jade Mirror
+Tools of the Ancient Smithmaster Ou Ye
+Sword Manor's Refinement
+Extending Life by Elixir
+Collecting Tributes
+Secret Bath of Five Saints
+Hire Assassin
+Loyal Servant
+Dark Ritual of Blood Pool
+Diagnosis
+Enliven
+Confer a title
+Collect tribute
+Tea tasting
+Treasure Collecting
+Divinate Luck
+Heavenly Fate Exchange
+Lead Evil to Virtue
+Ask to retreat
+Swearing
+Sponsorship Support
+Booze sparring
+Enlightening
+Exorcism
+Ghostwriter
+World Martial Congress
+Return the Statue
+Pagoda Forest Colapses
+Lion-Face Rumors
+Lion-Face Farce
+Emei's Murder Case
+Elder in Seclusion
+Worries over Orthodoxy
+Return the baby
+Heart Ripping
+Mind Destroying
+Ask about the mysterious person
+Inquire about 《Lone Luan's Ballad Mirror》
+Write about the word “Love”
+Persuade
+Pay respects to the dead
+Repair Grave
+Grave Robbing
+Method of Removing Gu
+About being under Gu
+Arrest a Criminal
+Request a Prisoner
+True Dragon's Descent
+Divine Dragon's Descent
+Aspiration EXP

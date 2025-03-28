@@ -1,38 +1,38 @@
-Racao para Gado I
-Racao para Gado II
-Racao para Gado III
-Racao para Gado IV
-Racao para Gado V
-Racao para Gado VI
-Racao para Gado VII
-Livraria I
-Livraria II
-Livraria III
-Livraria IV
-Livraria V
-Livraria VI
-Livraria VII
-Penta-Lago I
-Penta-Lago II
-Penta-Lago III
-Penta-Lago IV
-Penta-Lago V
-Penta-Lago VI
-Penta-Lago VII
-Chefe Militar I
-Chefe Militar II
-Chefe Militar III
-Chefe Militar IV
-Chefe Militar V
-Chefe Militar VI
-Chefe Militar VII
-Rejuvenescimento I
-Rejuvenescimento II
-Rejuvenescimento III
-Rejuvenescimento IV
-Rejuvenescimento V
-Rejuvenescimento VI
-Rejuvenescimento VII
+Cattle Feed I
+Cattle Feed II
+Cattle Feed III
+Cattle Feed IV
+Cattle Feed V
+Cattle Feed VI
+Cattle Feed VII
+Bookstore I
+Bookstore II
+Bookstore III
+Bookstore IV
+Bookstore V
+Bookstore VI
+Bookstore VII
+Penta-Lake I
+Penta-Lake II
+Penta-Lake III
+Penta-Lake IV
+Penta-Lake V
+Penta-Lake VI
+Penta-Lake VII
+Military Chief I
+Military Chief II
+Military Chief III
+Military Chief IV
+Military Chief V
+Military Chief VI
+Military Chief VII
+Rejuvenation I
+Rejuvenation II
+Rejuvenation III
+Rejuvenation IV
+Rejuvenation V
+Rejuvenation VI
+Rejuvenation VII
 Kung Fu I
 Kung Fu II
 Kung Fu III
@@ -40,10 +40,13 @@ Kung Fu IV
 Kung Fu V
 Kung Fu VI
 Kung Fu VII
-Produtos Estranhos I
-Produtos Estranhos II
-Produtos Estranhos III
-Produtos Estranhos IV
-Produtos Estranhos V
-Produtos Estranhos VI
-Produtos Estranhos VII
+Odd Goods I
+Odd Goods II
+Odd Goods III
+Odd Goods IV
+Odd Goods V
+Odd Goods VI
+Odd Goods VII
+珍宝·四
+珍宝·五
+珍宝·六

@@ -1,62 +1,65 @@
-Esperanca de vida
-A duracao da vida de todos os personagens no jogo. \n<color=#E3C66DFF> (A duracao da vida de um personagem nao afeta a dificuldade do jogo.) </color>
-Curta
-Média
-Longa
-Épica
-Dificuldade
-Determina a complexidade da IA de combate. Afeta o nível de forca e estratégia dos inimigos na batalha.\n<color=#E3C66DFF>(Quanto maior a dificuldade, mais fortes serao os inimigos;\nMais inteligentes eles serao;\nMais acoes eles realizarao na batalha.\nPor exemplo: terao melhor controle da distancia e tempo para ataque e defesa.)\n(Observe que os nomes das dificuldades realmente representam o quao difíceis elas sao. Se voce é um novo jogador, é recomendado escolher a dificuldade \"Difícil\").</color>
-<color=#pinkyellow>Muito Facil</color>
-<color=#9FE0DCFF>Difícil</color>
-<color=#FFE78FFF>Muito Difícil</color>
-<color=#FF5331FF>Letal</color>
-Velocidade de Estudo
-A eficiencia basica de estudar livros.\n<color=#yellow>(Quanto maior a eficiencia de estudo, mais progresso os livros terao a cada mes, durante o estudo ativo, e pela Percepcao de Combate.)</color>
-<color=#pinkyellow>Rapido</color>
+Lifespan
+The length of life span of all characters in the game. \n<color=#E3C66DFF> (The length of a character's life span does not affect the game's difficulty rating.) </color>
+Short
+Medium
+Long
+Epic
+Difficulty
+Determines complexity of combat AI. Affects the level of strength and strategy of the enemies in battle.\n<color=#E3C66DFF>(The higher the difficulty, the stronger the enemies will be;\nThe more intelligent the enemies will be;\nThe more actions they will perform in battle.\nFor example: they will have better control of the distance and timing for attack and defense.)\n(Note that difficulty names actually represent how hard they are. If you're a new player it's recommended to choose the \"Difficult\" difficulty.)</color>
+<color=#pinkyellow>Very Easy</color>
+<color=#9FE0DCFF>Difficult</color>
+<color=#FFE78FFF>Very Hard</color>
+<color=#FF5331FF>Deadly</color>
+Study Speed
+The basic efficiency of studying books.\n<color=#yellow>(The higher the study efficiency, the more study progress books will receive every month, during active study, and from Combat Insight.)</color>
+<color=#pinkyellow>Fast</color>
 <color=#9FE0DCFF>Normal</color>
-<color=#FFE78FFF>Devagar</color>
-<color=#FF5331FF>Celestial</color>
-Avanco
-Determina a taxa de sucesso na conexao das células durante os avancos de habilidades.\n<color=#yellow>(Quanto maior a taxa de sucesso no avanco, mais facil sera escolher uma rota durante os avancos.)</color>
-<color=#pinkyellow>Facil</color>
-<color=#9FE0DCFF>Normal</color>
-<color=#FFE78FFF>Difícil</color>
-<color=#FF5331FF>Perdido</color>
-Cultivo
-A eficiencia basica do Cultivo.\n<color=#yellow>(Quanto maior a eficiencia do Cultivo, mais Energia Interna e Qi Verdadeiro serao recebidos a cada mes, e durante o cultivo ativo.)</color>
-<color=#pinkyellow>Rapido</color>
-<color=#FF5331FF>Trabalho Arduo</color>
-Foras da Lei
-O número de Viloes e Foras da Lei espalhados pelo mundo.\n<color=#E3C66DFF>(Quanto mais Viloes e Foras da Lei existirem, mais facil sera voce ser atacado.)</color>
-<color=#pinkyellow>Menos</color>
-<color=#FFE78FFF>Mais</color>
-<color=#FF5331FF>Muitos</color>
-Velocidade de Invasao
-Aumenta a velocidade de invasao da Vila Taiwu. Velocidades de invasao mais rapidas significam menos tempo de preparacao, tornando mais difícil defender a vila.\n<color=#E3C66DFF>(O jogo termina se a Vila Taiwu for destruída.)</color>
-<color=#pinkyellow>Parar</color>
-<color=#FFE78FFF>Rapido</color>
-<color=#FF5331FF>Extremo</color>
-Recursos do Mundo
-Um mundo prospero sera favoravel ao desenvolvimento de Taiwu.\nMas até o mundo mais desolado pode gradualmente voltar a vida.\n<color=#E3C66DFF>(Os Recursos do Mundo afetam diretamente a quantidade de recuperacao de recursos em diversos locais do mundo, a renda da Vila Taiwu, a renda de venda de itens, os recursos mantidos pelo mundo, etc.; Na dificuldade Wonderland, a quantidade de recursos coletados sera diferente.)</color>
-<color=#pinkyellow>Maravilhoso</color>
-<color=#FFE78FFF>Estéril</color>
-<color=#FF5331FF>Desolado</color>
-Populacao Mundial
-Controla o limite maximo de NPCs simultaneos no jogo. Quanto mais NPCs, mais diversificado sera o Mundo de Taiwu.\n<color=#E3C66DFF>(Requer maior poder de processamento para populacoes maiores)</color>\n<color=#E4504DFF>(Esta opcao nao pode ser alterada apos o início do jogo!)</color>
-Menos
-Alta
-Extrema
-Posicionamento
-Suas escolhas nos eventos serao restritas com base no seu posicionamento, para uma experiencia mais realista. (Ou seja, se voce for Bondoso, podera escolher opcoes Justas, Bondosas e até Even nos eventos.)
-Ativado
-Desativado
-Sucessor Aleatorio
-Quando o Taiwu (jogador) morre sem selecionar um sucessor, ativar esta opcao 'Ativado' designara um sucessor aleatorio para garantir que Taiwu seja herdado. Caso contrario, nao havera sucessor.\n<color=#E3C66DFF>(O jogo termina se nao houver sucessor disponível!)</color>\n<color=#E4504DFF>(Esta opcao nao pode ser alterada apos o início do jogo!)</color>
-Pratica dos Inimigos
-Determina a porcentagem de pratica de habilidades dos inimigos e quantos capítulos de um livro de habilidades eles leram.\n<color=#E3C66DFF>(Quanto maior essa configuracao, maior sera a porcentagem de pratica de habilidades e a quantidade de capítulos lidos pelos inimigos.)</color>
-<color=#9FE0DCFF>Alta</color>
-<color=#FFE78FFF>Extrema</color>
-<color=#FF5331FF>Mestra</color>
-Mudanca de Favor
-A dificuldade de mudar o Favor entre as pessoas. \n<color=#E3C66DFF>(Quanto mais difícil, mais difícil sera para os outros acumularem Favor em relacao a voce.)</color>
-<color=#FF5331FF>Severa</color>
+<color=#FFE78FFF>Slow</color>
+<color=#FF5331FF>Heavenly</color>
+Breakthrough
+Determines the success rate of connecting cells during skill breakthroughs.\n<color=#yellow>(The higher the breakthrough success rate, the easier it is to choose a route during breakthroughs.)</color>
+<color=#pinkyellow>Easy</color>
+<color=#FFE78FFF>Difficult</color>
+<color=#FF5331FF>Lost</color>
+Cultivation
+The basic efficiency of Cultivation.\n<color=#yellow>(The higher the Cultivation efficiency, the more Internal Energy and True Qi will be received every month, and during active cultivation.)</color>
+<color=#pinkyellow>Fast</color>
+<color=#FF5331FF>Hard Work</color>
+Outlaws
+The number of Villains and Outlaws scattered throughout the world.\n<color=#E3C66DFF>(The more Villains and Outlaws there are, the easier it is for you to be attacked.)</color>
+<color=#pinkyellow>Less</color>
+<color=#FFE78FFF>More</color>
+<color=#FF5331FF>A lot</color>
+Invasion Speed
+Increases the invasion speed of the Taiwu Village. Quicker invasion speeds mean less preparation time, making it harder to defend the village.\n<color=#E3C66DFF>(The game is over if the Taiwu Village is destroyed.)</color>
+<color=#pinkyellow>Stop</color>
+<color=#FFE78FFF>Fast</color>
+<color=#FF5331FF>Extreme</color>
+World's Resources
+A prosperous world will be conducive to Taiwu's development.\nBut even the most desolate world can gradually come back to life.\n<color=#E3C66DFF>(The World's Resources directly affect the recovery amount of various resources in various locations in the world, the income of Taiwu Village, the income of selling items, the resources held by the world, etc.; In Wonderland difficulty, the amount of resources gained when collecting resources will also be different.)</color>
+<color=#pinkyellow>Wonderland</color>
+<color=#FFE78FFF>Barren</color>
+<color=#FF5331FF>Desolate</color>
+World Population
+Controls the maximum limit of concurrent NPCs in the game. The more NPCs there are, the more diverse the World of Taiwu will be.\n<color=#E3C66DFF>(Higher processing power is required for larger world population)</color>\n<color=#E4504DFF>(This option cannot be changed once the game starts!)</color>
+Less
+Normal
+High
+Extreme
+Standpoint
+立场的限制将限制不同的处世立场在游戏中可选择的事件选项，以体验更为真实的太吾世界。
+On
+Off
+Random Heir
+When the Taiwu (player) dies without selecting a successor, turning this 'On' will assign a random heir to ensure the Taiwu gets inherited. Otherwise there will be no heir.\n<color=#E3C66DFF>(The game is over if there's no available heir!)</color>\n<color=#E4504DFF>(This option cannot be changed after the game has started!) </color>
+Enemies' Practice
+Determines enemies' skill practice percentage, and how many chapters of a skill book they've read.\n<color=#E3C66DFF>(The higher this setting is, the higher the enemies' skill practice percentage and amount of read chapters will be.)</color>
+<color=#9FE0DCFF>High</color>
+<color=#FFE78FFF>Extreme</color>
+<color=#FF5331FF>Master</color>
+Favor Change
+The difficulty of changing Favor between people. \n<color=#E3C66DFF>(The more difficult it is, the more difficult it is for others to accumulate Favor towards you.)</color>
+<color=#FF5331FF>Harsh</color>
+志向的成长
+志向资历的成长速度。\n<color=#E3C66DFF>（成长难度越大，志向资历的获取速度也会越慢。）</color>
+<color=#FF5331FF>艰难</color>

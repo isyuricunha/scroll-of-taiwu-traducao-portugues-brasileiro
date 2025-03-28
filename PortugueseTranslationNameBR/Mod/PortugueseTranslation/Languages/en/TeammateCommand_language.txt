@@ -1,109 +1,171 @@
-Troca
-Pode usar a ordem「Troca」para aumentar os stats de ATK, Defesa, Precisão e Determinacão e trocar com o lutador principal por um curto período de tempo.
-Estou totalmente preparado, deixe-me assumir seu lugar!
-Ataque
-Defesa
-Precisao
-Determinacao
-Aceleracao
-Pode usar a ordem「Aceleracao」para aumentar o progresso de lancamento da habilidade do lutador principal.
-Deixe-me emprestar meu poder para você realizá-la!
-Progresso de Lancamento
-Empurrar
-Pode usar a ordem「Empurrar」para aproximar o lutador principal do oponente.
-Siga seu coracao e avance rapidamente!
+Swap
+Can use「Swap」order to increase their ATK, Defense, Accuracy, and Resolve stats and swap with the main fighter for a short period of time.
+I'm fully prepared, let me take your place!
+Attack
+Defend
+Accuracy
+Resolve
+Haste
+Can use「Haste」order to increase cast progress of the main fighter's skill.
+Let me lend you my power to perform it!
+Cast Progress
+Push
+Can use「Push」order to bring main fighter closer to the opponent.
+Follow you heart, and quickly advance!
 MOV·Dist
-Puxar
-Pode usar a ordem「Puxar」para afastar o lutador principal do oponente.
-Quanto mais perto o inimigo, mais perigoso!
-Pode usar a ordem「Ataque」para atacar o inimigo.
-Tenho um movimento que pegará o inimigo desprevenido!
-Pode usar a ordem「Defesa」para proteger o lutador principal usando a técnica "Égide" com poder aumentado contra os ataques inimigos.
-Deixe-me bloquear isso por você!
-Poder da Habilidade
-Curar
-Pode usar a ordem「Curar」para curar o lutador principal.
-Suas feridas sao urgentes, deixe-me tratá-lo rapidamente!
-Desintoxicar
-Pode usar a ordem「Desintoxicar」para desintoxicar o lutador principal.
-O veneno está afetando você, deixe-me desintoxicá-lo rapidamente!
-Reparar
-Pode usar a ordem「Reparar」para remover Pontos Fracos do lutador principal.
-Com meus cuidados, seus Pontos Fracos serao resolvidos!
-Remove Pontos Fracos
-Liberar
-Pode usar a ordem「Liberar」para remover Pontos de Acupuntura Selados do lutador principal.
-Use meu qi para desbloquear seus Pontos de Acupuntura Selados!
-Remove Pontos de Acupuntura Selados
-Guiar
-Pode usar a ordem「Guiar」para aumentar o Poder, Finura, Rapidez e Respiracao do lutador principal por um curto período de tempo.
-Deixe-me proteger o flanco, e você apenas faca o seu melhor para atacar!
-POD
-FIN
-RAP
-RES
-Alerta
-Pode usar a ordem「Alerta」para aumentar a Diversao, Parar, Esquiva e Foco do lutador principal por um curto período de tempo.
-Ficarei de guarda no flanco, nao dando chance ao inimigo de atacar!
-DIV
-PAR
-ESQ
-FOC
-Verdadeiro Qi
-Pode usar a ordem「Verdadeiro Qi」para transferir seu próprio Verdadeiro Qi ao lutador principal.
-Transferirei meu Verdadeiro Qi para seu corpo para ajudá-lo a lutar contra o inimigo!
-Aumento de Verdadeiro Qi
-Sacrifício
-Pode usar a ordem「Sacrifício」para compartilhar Ferimentos e Feridas Fatais do lutador principal.
+Use Cooldown
+Pull
+Can use「Pull」order to bring main fighter away from the opponent.
+The closer the enemy, the more dangerous it is!
+Can use「Attack」order to attack the enemy.
+I have a move that will catch the enemy off guard!
+Can use「Defend」order to protect main fighter using "Aegis" technique with increased power against enemy's attacks.
+Let me block it for you!
+Skill Power
+Heal
+Can use「Heal」order to use Healing on the main fighter.
+Your injuries are urgent, let me treat you quickly!
+Detox
+Can use「Detox」order to use Detox on the main fighter.
+The poison is affecting you, let me detox you quickly!
+Mend
+Can use「Mend」order to remove Weak Points from the main fighter.
+With my care, your Weak Points will be solved!
+Removes Weak Points
+Release
+Can use「Release」order to remove Sealed Acupoints from the main fighter.
+Draw my qi to unblock your Sealed Acupoints!
+Removes Sealed Acupoints
+Guide
+Can use「Guide」order to increase main fighter's Might, Finesse, Swiftness, and Breath for a short amount of time.
+Let me guard the side, and you just do your best to attack! 
+MIG 
+FIN 
+SWI 
+BRE 
+Duration
+Warn
+Can use「Warn」order to increase main fighter's Diversion, Parry, Evasion, and Focus for a short amount of time.
+I will be on guard from the side, leaving the enemy no chance to attack!
+DIV 
+PAR 
+EVA 
+FOC 
+True Qi
+Can use「True Qi」order to transfer their own True Qi to the main fighter.
+I will transfer my True Qi into your body to help you fight the enemy!
+True Qi Increase
+Sacrifice
+Can use「Sacrifice」order to share Injuries and Fatal Wounds of the main fighter.
 
-Restringir
-Pode usar a ordem「Restringir」para impedir que os companheiros do inimigo usem Ordens por um curto período de tempo.
-Deixe-me segurá-los para que você nao seja distraído!
-Duracao
-Quebrar
-Pode usar a ordem「Quebrar」para atacar o inimigo com uma técnica "Quebrar" de poder aumentado.
-Preparei minha técnica, agora veja esse movimento!
-Pode usar a ordem「Troca」para aumentar os stats de ATK, Defesa, Precisao e Determinacao e trocar com o lutador principal por um curto período de tempo. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leao, os aumentos de ATK, Defesa, Precisao e Determinacao serao maiores.</color>
-Pode usar a ordem「Aceleracao」para aumentar o progresso de lancamento da habilidade do lutador principal. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leao, o aumento no progresso de lancamento será maior.</color>
-Pode usar a ordem「Empurrar」para aproximar o lutador principal do oponente. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leao, só entrará em cooldown a cada 2º uso,</color></color> <color=#brightred>mas seu cooldown será aumentado.</color>
-Contagem de Uso
-Cooldown de Uso
-Pode usar a ordem「Puxar」para afastar o lutador principal do oponente. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leao, só entrará em cooldown a cada 2º uso,</color> <color=#brightred>mas seu cooldown será aumentado.</color>
-Pode usar a ordem「Ataque」para atacar o inimigo. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leao, causará dano extra ao Deflect do inimigo.</color>
-Dano de Deflect
-Pode usar a ordem「Defesa」para proteger o lutador principal usando a técnica "Égide" com poder aumentado contra os ataques inimigos. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leao, o aumento de poder da técnica Égide será maior.</color>
-Pode usar a ordem「Curar」para usar Cura no lutador principal. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leao, essa ordem será concluída muito mais rápido.</color>
-Velocidade de Cura
-Pode usar a ordem「Desintoxicar」para usar Desintoxicacao no lutador principal. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leao, essa ordem será concluída muito mais rápido.</color>
-Velocidade de Desintoxicacao
-Pode usar a ordem「Reparar」para remover Pontos Fracos do lutador principal. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leao, removerá mais Pontos Fracos.</color>
-Pode usar a ordem「Liberar」para remover Pontos de Acupuntura Selados do lutador principal. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leao, removerá mais Pontos de Acupuntura Selados.</color>
-Pode usar a ordem「Guiar」para aumentar o Poder, Finura, Rapidez e Respiracao do lutador principal por um curto período de tempo. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leao, seu efeito será mais forte,</color> <color=#brightred>mas sua duracao será mais curta.</color>
-Pode usar a ordem「Alerta」para aumentar a Diversao, Parar, Esquiva e Foco do lutador principal por um curto período de tempo. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leao, seu efeito será mais forte,</color> <color=#brightred>mas sua duracao será mais curta.</color>
-Pode usar a ordem「Verdadeiro Qi」para transferir seu próprio Verdadeiro Qi ao lutador principal. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leao, seu efeito será mais forte.</color>
-Pode usar a ordem「Restringir」para impedir que os companheiros do inimigo usem Ordens por um curto período de tempo. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leao, sua duracao será muito aumentada.</color>
-Pode usar a ordem「Quebrar」para atacar o inimigo com uma técnica "Quebrar" de poder aumentado. <color=#brightblue>Quando impulsionado pelo Tambor de Guerra do Leao, o aumento de poder da técnica Quebrar será maior.</color>
-Interromper
-Devido a um rancor, eles podem esperar uma oportunidade para interromper a técnica do lutador principal.
-Isso fará com que sua técnica falhe!
-Arranjar
-Devido a um rancor, eles podem esperar uma oportunidade para empurrar ou puxar o lutador principal para o alcance de ataque do inimigo quando o lutador principal nao estiver mais no alcance de ataque do inimigo.
-Deixe-me colocá-lo em perigo!
-Ataque Surpresa
-Devido a um rancor, eles podem esperar uma oportunidade para lancar um ataque surpresa no lutador principal usando suas armas, causando Pontos Fracos e Pontos de Acupuntura Selados.
-Como você nao está em guarda, nao me culpe por aproveitar a oportunidade para atacá-lo!
-Dispersao de Qi
-Devido a um rancor, eles podem esperar uma oportunidade para dispersar o qi do lutador principal para remover sua técnica Égide ou Passo.
-Aqui estao todas as suas fraquezas!
-Dano Insidioso
-Devido a um rancor, eles podem esperar uma oportunidade para usar Medicina ou Toxicologia para causar dano ou envenenar o lutador principal.
-Você e eu temos um ódio profundo, entao nao me culpe por ser implacável!
-Distracao
-Devido a um rancor, eles podem esperar uma oportunidade para reduzir o Poder, Finura, Rapidez, Respiracao, Diversao, Parar, Esquiva e Foco do lutador principal por um período de tempo.
-Deixe-me distraí-lo e você será derrotado sem nem mesmo lutar!
-Perturbar
-Devido a um rancor, eles podem esperar uma oportunidade para interromper o lutador principal enquanto ele usa itens, Cura, Desintoxica, faz Ataque de Montaria ou Escapa.
-Espere até eu jogar você em desordem!
-Dispersao de Qi
-Devido a um rancor, eles podem esperar uma oportunidade para dispersar o Verdadeiro Qi do lutador principal.
-Disperse seu Verdadeiro Qi e veja como pode resistir ao inimigo!
+Restrain
+Can use「Restrain」order to prevent enemy's teammates from using Orders for a short amount of time.
+Let me hold them back so that you won’t be distracted!
+Break
+Can use「Break」order to attack enemy with a "Break" technique with increased power.
+I've prepared my technique, now watch this move!
+Can use「Swap」order to increase their ATK, Defense, Accuracy, and Resolve stats and swap with the main fighter for a short period of time. <color=#brightblue>When boosted by Lion War Drum, the ATK, Defense, Accuracy, and Resolve stat increases will be higher.</color>
+Can use「Haste」order to increase cast progress of the main fighter's skill. <color=#brightblue>When boosted by Lion War Drum, the increase in cast progress will be higher.</color>
+Can use「Push」order to bring main fighter closer to the opponent. <color=#brightblue>When boosted by Lion War Drum, it will only go on cooldown every 2nd use,</color></color> <color=#brightred>but its cooldown will be increased.</color>
+Use Count
+Can use「Pull」order to bring main fighter away from the opponent. <color=#brightblue>When boosted by Lion War Drum, it will only go on cooldown every 2nd use,</color> <color=#brightred>but its cooldown will be increased.</color>
+Can use「Attack」order to attack the enemy. <color=#brightblue>When boosted by Lion War Drum, will deal extra damage to enemy's Deflect.</color>
+Deflect Damage
+Can use「Defend」order to protect main fighter using "Aegis" technique with increased power against enemy's attacks. <color=#brightblue>When boosted by Lion War Drum, the power increase of the Aegis technique will be higher.</color>
+Can use「Heal」order to use Healing on the main fighter. <color=#brightblue>When boosted by Lion War Drum, this order will be finished much faster.</color>
+Heal Speed
+Can use「Detox」order to use Detox on the main fighter. <color=#brightblue>When boosted by Lion War Drum, this order will be finished much faster.</color>
+Detox Speed
+Can use「Mend」order to remove Weak Points from the main fighter. <color=#brightblue>When boosted by Lion War Drum, it will remove more Weak Points.</color>
+Can use「Release」order to remove Sealed Acupoints from the main fighter. <color=#brightblue>When boosted by Lion War Drum, it will remove more Sealed Acupoints.</color>
+Can use「Guide」order to increase main fighter's Might, Finesse, Swiftness, and Breath for a short amount of time. <color=#brightblue>When boosted by Lion War Drum, its effect will be stronger,</color> <color=#brightred>but its duration will be shorter.</color>
+Can use「Warn」order to increase main fighter's Diversion, Parry, Evasion, and Focus for a short amount of time. <color=#brightblue>When boosted by Lion War Drum, its effect will be stronger,</color> <color=#brightred>but its duration will be shorter.</color>
+Can use「True Qi」order to transfer their own True Qi to the main fighter. <color=#brightblue>When boosted by Lion War Drum, its effect will be stronger.</color>
+Can use「Restrain」order to prevent enemy's teammates from using Orders for a short amount of time. <color=#brightblue>When boosted by Lion War Drum, its duration will be greatly increased.</color>
+Can use「Break」order to attack enemy with a "Break" technique with increased power. <color=#brightblue>When boosted by Lion War Drum, the power increase of the Break technique will be higher.</color>
+Interrupt
+Because of a grudge, they might wait for an opportunity to interrupt main fighter's technique.
+This will cause your technique to fail!
+Set Up
+Because of a grudge, they might wait for an opportunity to push or pull the main fighter into the enemy's attack range when the main fighter is no longer within the enemy's attack range.
+Let me put you in danger!
+Sneak Attack
+Because of a grudge, they might wait for an opportunity to launch a surprise attack on the main fighter using their weapons, causing Weak Points and Sealed Acupoints.
+Since you are not on guard, don't blame me for taking advantage of the opportunity to attack you!
+Scattering Qi
+Because of a grudge, they might wait for an opportunity to scatter main fighter's qi to remove their Aegis or Footwork technique.
+Here are all your weaknesses!
+Insidious Harm
+Because of a grudge, they might wait for an opportunity to use Medicine or Toxicology to cause damage or poison the main fighter.
+You and I have a deep hatred, so don't blame me for being ruthless!
+Distraction
+因心生嫌隙，可能伺机在短时间内，降低主战者的力道、精妙、迅疾、动心、卸力、拆招、闪避、守心。
+Let me distract you and you will be defeated without even fighting!
+Disturb
+Because of a grudge, they might wait for an opportunity to interrupt the main fighter while they're using items, Healing, Detoxing, doing Mount Attack, or Escaping.
+Wait till I throw you into disarray!
+Dispersing Qi
+Because of a grudge, they might wait for an opportunity to disperse True Qi of the main fighter.
+Disperse your True Qi and see how you can resist the enemy! 
+能够使用「出战」指令在短时间内提高攻击、防御、命中、化解代替主战者进行战斗。持续时间与冷却时间均减少一半。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+驭使
+能够使用「驭使」指令使运用者功法威力的增加效果提高，功法威力的减少效果降低
+
+能够使用「驭使」指令使运用者距离敌人越远，运用者命中敌人要害的几率就越高
+
+能够使用「驭使」指令使运用者距离敌人越近，运用者命中敌人要害的几率就越高
+
+能够使用「驭使」指令使运用者对敌人造成的直接重创伤害提高；敌人对运用者造成的直接重创伤害降低
+
+能够使用「驭使」指令使运用者的反震威力提高
+
+能够使用「驭使」指令使运用者的疗伤、驱毒效果提高；敌人的疗伤、驱毒效果降低
+
+能够使用「驭使」指令使运用者的反击威力提高
+
+能够使用「驭使」指令使运用者损耗敌人身法、脚力、提气、架势的效果提高，运用者被敌人损耗身法、脚力、提气、架势的效果降低
+
+能够使用「驭使」指令使运用者对敌人造成的追击伤害累积提高，持续直到追击结束
+
+甲阵
+能够使用「甲阵」指令在短时间内持续攻击敌人。
+
+乙阵
+能够使用「乙阵」指令使一段时间内机关人于敌人使用摧破攻击主战者时，施展护体功法为主战者抵挡敌人的催破攻击。
+
+丙阵
+能够使用「丙阵」指令限制敌人使用铜生已运功的奇窍功法。
+
+Unblock
+能够使用「解封」指令为主战者当前兵器增加解封进度。
+
+替身
+能够使用「替身」指令为主战者分担伤势、中毒与内息紊乱。
+
+Repair
+能够使用「修理」指令为主战者修复在战斗中使用过的装备的耐久。
+

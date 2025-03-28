@@ -1,33 +1,33 @@
-Iniciar
-Cabana de Bambu no Vale Profundo - Explorar o Vale
-Cabana de Bambu no Vale Profundo - Sair do Vale
-Aldeia Oculta - Entrar na Aldeia
-Aldeia Oculta - Explorar a Aldeia
-Aldeia Oculta - Sair da Aldeia
-Area em Colapso - Entrar na Area
-Heranca de Taiwu - Entrar na Area
-Heranca de Taiwu - Herdar Taiwu
-Heranca de Taiwu - Renascer a Aldeia
-Heranca de Taiwu - Imortal do Antigo Tumba
-Aparecimento do Túmulo da Espada - Sair da Tumba Antiga
-Aparecimento do Túmulo da Espada - Mover-se como uma Incorporacao
-Aparecimento do Túmulo da Espada - Imortal em Silencio
-Monge Visitante
-Monge Partiu
-Primeiros Passos no Jianghu
-Aprendendo com um Mestre
-Mundo Aberto
-Linha Principal do Túmulo da Espada - Túmulo da Espada Um
-Linha Principal do Túmulo da Espada - Túmulo da Espada Dois
-Linha Principal do Túmulo da Espada - Túmulo da Espada Tres
-Linha Principal do Túmulo da Espada - Túmulo da Espada Quatro
-Linha Principal do Túmulo da Espada - Túmulo da Espada Cinco
-Linha Principal do Túmulo da Espada - Túmulo da Espada Seis
-Linha Principal do Túmulo da Espada - Túmulo da Espada Sete
-Retorno do Imortal
-Encontro Divino - Terra do Êxtase
-Encontro Divino - Imortal Partiu
-Batalha Decisiva - Contaminacao e Magia
-Batalha Decisiva - Reencarnacao da Contaminacao
-Batalha Decisiva - Ocultacao do Eixo
-Fim do Jogo por Falha
+Start
+Deep Valley Bamboo Hut - Exploring Deep Valley
+Deep Valley Bamboo Hut - Departing from Deep Valley
+Hidden Village - Entering Village
+Hidden Village - Exploring Village
+Hidden Village - Leaving Village
+Crumbling Area - Entering Area
+Inheritance of Taiwu - Entering Area
+Inheritance of Taiwu - Inheriting Taiwu
+Inheritance of Taiwu - Village Revival
+Inheritance of Taiwu - Immortal in the Old Tomb
+Sword Tomb Appearance - Leaving Old Tomb
+Sword Tomb Appearance - Movement of an Avatar
+Sword Tomb Appearance - Xiangong is Silent
+Buddhist Monk Pays a Visit
+Buddhist Monk Leaves
+First Experience of Jianghu
+Learning from a Master
+World Opens Up
+Sword Tomb Main Story - Sword Tomb One
+Sword Tomb Main Story - Sword Tomb Two
+Sword Tomb Main Story - Sword Tomb Three
+Sword Tomb Main Story - Sword Tomb Four
+Sword Tomb Main Story - Sword Tomb Five
+Sword Tomb Main Story - Sword Tomb Six
+Sword Tomb Main Story - Sword Tomb Seven
+Xiangong Returns
+Spirit Meets Huan Xin - The Land of the Divine
+Spirit Meets Huan Xin - Xiangong Leaves
+Decisive Battle with Xiangshu - Ran Chenzi is Possessed
+Decisive Battle with Xiangshu - Ran Chenzi's Reincarnation
+Decisive Battle with Xiangshu - Xiangshu's Hibernation
+Game Over Failure

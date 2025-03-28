@@ -127,58 +127,105 @@
 
 
 
-Caravanas de Gado
 
 
 
-Livraria WenShan
 
 
 
-Comércio dos Cinco Lagos
 
 
 
-Loja do Campeao
 
 
 
-Salao da Rejuvenescencia
 
 
 
-Praca do Mestre
 
 
 
-Casa dos Peculiares
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cattle Caravans
+
+
+
+
+WenShan Bookstore
+
+
+
+
+Penta-Lake Commerce
+
+
+
+
+Champion Shop
+
+
+
+
+Rejuvenation Hall
+
+
+
+
+Master Square
+
+
+
+
+House of Odd
+
 
 
 
 Mo Nyu
 Shao Nu
 
+
 Dayue 
 Yaochang
 Shao Nian
 
 
+
 Jiu Han
+
 
 Jin 
 Huang'er
 
+
 Yi 
 Yihou
+
 
 Wei 
 Qi
 
 
+
 Yi Xiang
 
 
+
 Xue Feng
+
 
 
 Shu Fang
@@ -598,435 +645,697 @@ Shu Fang
 
 
 
-Macaco
 
 
 
-Aguia
 
 
 
-Javali
 
 
 
-Urso Marrom
 
 
 
-Búfalo
 
 
 
-Serpente Gigante
 
 
 
-Leopardo
 
 
 
-Leao
 
 
 
-Tigre
 
 
 
-Macaco Espiritual
 
 
 
-Roc Dourado
 
 
 
-Javali Negro
 
 
 
-Urso Branco
 
 
 
-Búfalo Selvagem
 
 
 
-Píton
 
 
 
-Pantera Negra
 
 
 
-Leao Dourado
 
 
 
-Tigre Branco
 
 
 
-Mendigo Doente
 
 
 
-Mendigo Maléfico
 
 
 
-Mendigo Furioso
 
 
 
-Sopro de Cobra
 
 
 
-Líder dos Mendigos
 
 
 
-Pequeno Ladrao
 
 
 
-Ladrao Habitual
 
 
 
-Pervertido
 
 
 
-Ladrao de Gatos
 
 
 
-Grande Ladrao
 
 
 
-Matador
 
 
 
-Bandido da Montanha
 
 
 
-Vigarista
 
 
 
-Bandido
 
 
 
-Rei da Montanha
 
 
 
-Exilado do Shaolin
 
 
 
-Exilado do Emei
 
 
 
-Exilado do Vale das Flores
 
 
 
-Exilado do Wudang
 
 
 
-Exilado do Yuanshan
 
 
 
-Exilado do Rosto de Leao
 
 
 
-Exilado de Ranshan
 
 
 
-Exilado do Xuannyu
 
 
 
-Exilado do Mansao da Espada
 
 
 
-Exilado do Kongsang
 
 
 
-Exilado do Vajrayana
 
 
 
-Exilado dos Cinco Imortais
 
 
 
-Exilado de Jieqing
 
 
 
-Exilado de Fulong
 
 
 
-Exilado do Blood Hou
 
 
 
-Fugitivo
 
 
 
-Monge Estuprador
 
 
 
-Praticante Demoníaco
 
 
 
-Fantasma devorador de homens
 
 
 
-Culpado
 
 
 
-Raposa encantadora
 
 
 
-Feiticeira
 
+Monkey
 
+呜呜……嗄……
 
-Viúva Negra
 
+Eagle
 
+嘎嘎嘎嘎……
 
-Fada de Acacia
 
+Boar
 
+呼……哼……
 
-Imperatriz de Rosto de Jade
 
+Brown Bear
 
+呜——
 
-Criado Fantasma
 
+Buffalo
 
+哞……吽……
 
-Refinador de Corpos
 
+Huge Snake
 
+嘶……嘶……
 
-Cadaver com Garras
 
+Leopard
 
+呜……哈！呼……
 
-Médico Demoníaco
 
+Lion
 
+嗷呜——呜……
 
-Morto-vivo
 
+Tiger
 
+哈……嗷！
 
-Músico Demoníaco
 
+Spiritual Monkey
 
 
-Criatura Yin-Yang
 
+Golden Roc
 
 
-Escriba Escarlate
 
+Black Hog
 
 
-Pintor Maléfico
 
+White Bear
 
 
-Sem Futuro
 
+Wild Ox
 
 
-Aberracao Exotica
 
+Python
 
 
-Envenenador
 
+Black Panther
 
 
-Erudito Demoníaco
 
+Golden Lion
 
 
-Monstro idoso infantil
 
+White Tiger
 
 
-Mestre do Caminho Demoníaco
 
+Sick Beggar
 
 
-Guerreiro Caído
 
 
+Evil Beggar
 
-Demonio
 
 
 
-Alma Perdida
+Furious Beggar
 
 
 
-Fantasma Vestido de Sangue
 
+Snake Charmer
 
 
-Refinador de Coracoes
 
 
+Beggar Leader
 
-Demonio Louco
 
 
 
-Demonio das Chamas
+Small Thief
 
 
 
-Demonio Congelado
 
+Habitual Thief
 
 
-Mensageiro do Inferno
 
 
+Pervert
 
-Veneravel Gautama
 
 
 
-Pessoa Desesperada
+Cat Burglar
 
 
 
-Nao-humano
 
+Great Thief
 
 
-Monge Sem Rosto
 
 
+Ruffian
 
-Monge Sem Nome
 
 
 
-Anciao Falecido
+Mountain Bandit
 
 
 
-Corrompido
-Monstro Sem Nome
 
+Thug
 
-Demoníaco
 
 
 
-Cultista
+Bandit
 
 
 
-Coracao Demoníaco
 
+Mountain King
 
 
-Encarnacao do Mal
 
 
+Shaolin Outcast
 
-Demonio Infernal
 
 
 
-O Ser Supremo
+Emei Outcast
 
 
 
-Deus Caído
 
+Flowers Valley Outcast
 
 
-Mestre do Inferno
 
 
+Wudang Outcast
 
-Justo
 
 
 
-Guerreiro Patrulheiro
+Yuanshan Outcast
 
 
 
-Jovem Heroi
 
+Lion-Face Outcast
 
 
-Guarda-costas
 
 
+Ranshan Outcast
 
-Escolta Famoso
 
 
 
-Vagante Excentrico
+Xuannyu Outcast
 
 
 
-Heroi Sem Nome
 
+Sword Manor Outcast
 
 
-Heroi Famoso
 
 
+Kongsang Outcast
 
-Eremita Famoso
 
 
 
-Senior Shaolin Aposentado
+Vajrayana Outcast
 
 
 
-Abade
+
+Five Immortals Outcast
+
+
+
+
+Jieqing Outcast
+
+
+
+
+Fulong Outcast
+
+
+
+
+Blood Hou Outcast
+
+
+
+
+Fugitive
+
+
+
+
+Rapist Monk
+
+
+
+
+Demonic practitioner
+
+
+
+
+Man-eating ghost
+
+
+
+
+Culprit
+
+
+
+
+Charming Fox
+
+
+
+
+Witch
+
+
+
+
+Black Widow
+
+
+
+
+Acacia Fairy
+
+
+
+
+Jade-Faced Empress
+
+
+
+
+Ghost Servant
+
+
+
+
+Corpse Refiner
+
+
+
+
+Clawing Corpse
+
+
+
+
+Demon Doctor
+
+
+
+
+Living Dead
+
+
+
+
+Demonic Musician
+
+
+
+
+Yin-Yang Creature
+
+
+
+
+Scarlet Scribe
+
+
+
+
+Evil Painter
+
+
+
+
+Futureless
+
+
+
+
+Exotic Freak
+
+
+
+
+Poisoner
+
+
+
+
+Demonic Scholar
+
+
+
+
+Childlike old monster
+
+
+
+
+Demonic Path Master
+
+
+
+
+Fallen Warrior
+
+
+
+
+Fiend
+
+
+
+
+Lost Soul
+
+
+
+
+Blood-clad Ghost
+
+
+
+
+Heart Refiner
+
+
+
+
+Mad Demon
+
+
+
+
+Flame Demon
+
+
+
+
+Frozen Demon
+
+
+
+
+Hellbringer
+
+
+
+
+Venerable Gautama
+
+
+
+
+Desperate person
+
+
+
+
+Non-human
+
+
+
+
+Faceless Monk
+
+
+
+
+Nameless Monk
+
+
+
+
+Passed away Elder
+
+
+
+
+Corrupted
+Nameless Monster
+
+
+
+Demoniac
+
+
+
+
+Cultist
+
+
+
+
+Demonic Heart
+
+
+
+
+Evil Incarnate
+
+
+
+
+Hellish Demon
+
+
+
+
+The Allbeing
+
+
+
+
+Fallen God
+
+
+
+
+Hell Master
+
+
+
+
+Righteous
+
+
+
+
+Patrolling Warrior
+
+
+
+
+Young Hero
+
+
+
+
+Bodyguard
+
+
+
+
+Famous Escort
+
+
+
+
+Eccentric Vagrant
+
+
+
+
+Nameless Hero
+
+
+
+
+Famous Hero
+
+
+
+
+Famous Hermit
+
+
+
+
+Retired Shaolin senior
+
+
+
+
+Abbot
+
 
 
 
@@ -1034,11 +1343,14 @@ Abade
 
 
 
+
 Preceptor
 
 
 
-Salao Bodhi
+
+BodhiHall
+
 
 
 
@@ -1046,7 +1358,9 @@ Prajna·H
 
 
 
-Salao Arhat
+
+ArhatHall
+
 
 
 
@@ -1054,19 +1368,24 @@ Bhikkhu
 
 
 
-Senior Emei Aposentado
+
+Retired Emei senior
 
 
 
-Líder·D
+
+Head·D
 
 
 
-Direto·D
+
+Direct·D
 
 
 
-Linear·D
+
+Lineal·D
+
 
 
 
@@ -1074,7 +1393,9 @@ Formal·N
 
 
 
-Novico
+
+Novice
+
 
 
 
@@ -1082,23 +1403,29 @@ Formal·A
 
 
 
-Audiencia
+
+Audience
 
 
 
-Senior Aposentado do Vale das Flores
+
+Retired Flower Valley senior
 
 
 
-Emissario do Cervo
+
+DeerEnvoy
 
 
 
-Boa Mao
+
+GoodHand
 
 
 
-Caso Vermelho·D
+
+RedCase·D
+
 
 
 
@@ -1106,19 +1433,26 @@ Jade·CD
 
 
 
-Ouro·CD
+
+Gold·CD
 
 
 
-Flor·CD
+
+Flower·CD
 
 
 
-Pastor de Cervos
+
+Deerherd
 
 
 
-Senior Aposentado de Wudang
+
+Retired Wudang senior
+
+
+
 
 
 
@@ -1132,7 +1466,9 @@ ZhenWu·D
 
 
 
-Nuvem·D
+
+Cloud·D
+
 
 
 
@@ -1140,174 +1476,219 @@ TaiHe·D
 
 
 
-Guia·P
 
+Guide·P
 
 
-Amador
 
 
+Amateur
 
-Senior Aposentado de YuanShan
 
 
 
-Exorcista
+Retired YuanShan senior
 
 
 
-Pregador
 
+Exorciser
 
 
-Frade
 
 
+Preacher
 
-Vanguarda
 
 
 
-Guarda
+Friar
 
 
 
-Novico
 
+Vanguard
 
 
-Seguidor
 
 
+Guard
 
-Senior Aposentado da Face de Leao
 
 
 
-As Furioso
+Novice
 
 
 
-As Orgulhoso
 
+Follower
 
 
-As Adormecido
 
 
+Retired LionFace senior
 
-Leao Furioso
 
 
 
-Leao Orgulhoso
+Raging Ace
 
 
 
-Adormecido·L
 
+Proud Ace
 
 
-Filhote
 
 
+Slumbering Ace
 
-Senior Aposentado de RanShan
 
 
 
-Guardiao
+RageLion
 
 
 
-Sucessor
 
+ProudLion
 
 
-T·Patrulheiro
 
 
+Slumber·L
 
-DS·Patrulheiro
 
 
 
-YY·Patrulheiro
+Cub
 
 
 
-Portador da Espada
 
+Retired RanShan senior
 
 
-Errante
 
 
+Guardian
 
-Senior Aposentado de XuanNyu
 
 
 
-Pena·E
+Successor
 
 
 
-Emissario de Seda
 
+T·Ranger
 
 
-Guarda de Jade
 
 
+DS·Ranger
 
-Melodia Celestial
 
 
 
-Discípulo
+YY·Ranger
 
 
 
 
+SwordBearer
 
 
-Servo
 
 
+Wanderer
 
-Senior Aposentado da Mansao da Espada
 
 
 
-Céu·Ferreiro
+Retired XuanNyu senior
 
 
 
-Místico·S
 
+Feather·E
 
 
-Tesouro·S
 
 
+SilkEnvoy
 
-Estacao·S
 
 
 
-Bambu·S
+JadeGuard
 
 
 
-Novato
 
+SkyMelody
 
 
-Carvoeiro
 
 
+Disciple
 
-Senior Aposentado de KongSong
+
+
+
+
+
+
+
+Servant
+
+
+
+
+Retired Sword Manor senior
+
+
+
+
+Sky·Smith
+
+
+
+
+Mystic·S
+
+
+
+
+Treasure·S
+
+
+
+
+Season·S
+
+
+
+
+Bamboo·S
+
+
+
+
+Novice
+
+
+
+
+Stoker
+
+
+
+
+Retired KongSong senior
+
+
 
 
 
@@ -1318,47 +1699,59 @@ Dragonor
 
 
 
-Chefe·D
+
+Head·D
 
 
 
-Forja·H
+
+Furnance·H
 
 
 
-Salao do Dragao
+
+DragonHall
 
 
 
-Salao de Sondagem
+
+ProbeHall
 
 
 
-Aprendiz
+
+Apprentice
 
 
 
-Senior Aposentado de Vajrayana
+
+Retired Vajrayana senior
 
 
 
-Anciao
+
+Elder
 
 
 
-Guardiao
+
+Gardian
 
 
 
-Lutador
+
+Fighter
 
 
 
-Salao Silencioso
+
+SilentHall
 
 
 
-Salao Vajra
+
+VajraHall
+
 
 
 
@@ -1366,121 +1759,152 @@ Rakshasa·H
 
 
 
-Trabalhador
 
+Labor
 
 
-Senior Aposentado dos 5 Imortais
 
 
+Retired 5-Immotals senior
 
-Conselheiro
 
 
 
-Patriarca
+Counsellor
 
 
 
-Incubador
 
+Patriach
 
 
-Emissario de Veneno
 
 
+Brooder
 
-Equipe de Incubador
 
 
 
-Equipe de Veneno
+VenomEnvoy
 
 
 
-Cultista
 
+BrooderCrew
 
 
-Senior Aposentado de JieQing
 
 
+VenomCrew
 
-Sete Estrelas
 
 
 
-Arqui-Criminoso
+Cultist
 
 
 
-Jurado pela Morte
 
+Retired JieQing senior
 
 
-Assassino
 
 
+SevenStar
 
-Porteiro
 
 
 
-Guia
+ArchCulprit
 
 
 
-Portao Externo
 
+DeathSworn
 
 
-Senior Aposentado de FuLong
 
 
+Killer
 
-Dragao Anciao
 
 
 
-Chefe·D
+Gatekeeper
 
 
 
-Observador do Mar
 
+Guide
 
 
-Titulado·D
 
 
+OuterGate
 
 
 
 
-Externo·D
+Retired FuLong senior
 
 
 
-Ilhéu
 
+DragonElder
 
 
-Senior Aposentado de Blood Hou
 
 
+Head·D
 
 
 
 
-Mensageiro
+Seawatcher
 
 
 
-Protetor
 
+Titled·D
 
 
-Filho de Sangue
+
+
+
+
+
+
+Outer·D
+
+
+
+
+Islander
+
+
+
+
+Retired Blood Hou senior
+
+
+
+
+
+
+
+
+Messenger
+
+
+
+
+Protector
+
+
+
+
+BloodChild
+
 
 
 
@@ -1491,11 +1915,15 @@ Elite
 
 
 
-Servo
+
+
+Servant
 
 
 
-Jovem Monge
+
+Young Monk
+
 
 
 
@@ -1506,131 +1934,169 @@ XiangShu
 
 
 
-Sombra Gigante
+
+
+Giant Shadow
 
 
 
-Sombra Negra
+
+Black Shadow
+
 
 
 
 Ran Chenzi
-Estripador
+Weirdo
 
 
-O Espadachim Branco
+
+The White Swordsman
+
+
 
 
 
 
 
 Huan Xin
-Moca
+Lass
+
+
 
 
 
 
 Long
  Yufu
-Dama de Vermelho
+Lady in Red
+
 
 Zi
 Wuxiao
 
 
+
 Xu
 Xiangong
-Um boneco de madeira que pode falar
+A wooden puppet that can talk
 
 
 
-Mulher
 
-Necromante
+
+Woman
+
+
+Necromancer
+
 
 
 Shi Shufu
-Monge Anciao
-
-
-“Pai Adotivo”
-Um anciao sem nome
-
-
-“Idoso”
+Elder Monk
 
 
 
-Boneco de Madeira Antigo
+“Adoptive Father”
+A nameless elder
 
 
 
-Maos de Bambu
-Boneco de Madeira
-
-
-Cajado de Bambu
-
-
-Dardos de Bambu
-
-
-Puppet de Bronze Kua-E
-
-
-
-Macaco
+“Elderly”
 
 
 
 
+Dated Wooden Puppet
 
 
-Rei dos Macacos
+
+
+Bamboo Hands
+Wooden Puppet
+
+
+
+Bamboo Stick
+
+
+
+Bamboo Darts
+
+
+
+Kua-E Bronze Puppet
+
+
+
+
+Monkey
+
+
+
+
+
+
+
+
+King of Monkeys
+
 
 
 Guo
 Yan
-Pessoa de meia-idade
+Middle-aged person
+
 
 Xiaomao
-Jovem Urchin
+Young Urchin
+
 
 A
 Niu
-Rapaz
+Young Man
+
 
 Situ
 Huanyue
 
-Anciao
-Taoísta
+
+Elder
+Taoist
+
 
 
 Chui Xing
-Túmulos
+Graves
 
 
-Sem Nome
-Mae e filho sem nome
+
+Nameless
+Nameless mother and child
 
 
-Pais desconhecidos
+
+Unknown parent
 
 
-Cocheiro
+
+Coachman
+
 
 
 Feng
-Avo
-Velha senhora
-
-
-Velha senhora
+Granny
+Old lady
 
 
 
-Rei
+Old lady
+
+
+
+
+King
+
 
 
 
@@ -1639,41 +2105,14 @@ Hu Ji
 
 
 
+
+
 Cui E
 
 
+侍婢
 
-O Homem de Preto
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Pessoa de Wanqu
-
-
-
-Cortina de Coracao Cortina do Céu
+The Man in Black
 
 
 
@@ -1700,7 +2139,58 @@ Cortina de Coracao Cortina do Céu
 
 
 
-Traidor de Kongsang
+
+
+
+
+
+
+
+
+
+Person from Wanqu
+
+
+
+
+Heart Curtain Sky Curtain
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kongsang Traitor
 
 
 
@@ -1757,11 +2247,34 @@ Wuming
 
 
 
-Monge Sombrio
+
+
+
+
+
+Somber Monk
+
+
 
 
 Hong Yi
-Anciao
+Elder
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1796,25 +2309,16 @@ Anciao
 
 Ji
 Xi
-Menina
-Ancestral Perdido
+Girl
 
-Velho Monge
-
-Fundador
+血犼遗祖
 
 
 
+Old Monk
 
 
-Daoísta Desarrumado
-Taoísta
-
-
-
-
-
-Cobra de Fogo Mercúrio
+少林祖师
 
 
 
@@ -1822,9 +2326,10 @@ Cobra de Fogo Mercúrio
 
 
 
+Disheveled Daoist
+Taoist
 
-
-Besouro de Distorcao
+武当祖师
 
 
 
@@ -1834,7 +2339,18 @@ Besouro de Distorcao
 
 
 
-Matador do Mal
+Quicksilver Fire Snake
+
+
+异蛇
+
+
+
+
+
+
+
+Warp Beetle
 
 
 
@@ -1844,7 +2360,17 @@ Matador do Mal
 
 
 
-Alma Solar Zhu Jing
+Slayer of Evil
+
+
+
+
+
+
+
+
+
+Sun Soul Zhu Jing
 
 
 
@@ -1864,7 +2390,7 @@ Zhu Yan
 
 
 
-Cobra Dourada Xuanzhou
+Xuanzhou Golden Snake
 
 
 
@@ -1884,7 +2410,7 @@ Tian Zhu
 
 
 
-Cobra de Nove Manchas
+Nine-spotted Snake
 
 
 
@@ -1894,7 +2420,7 @@ Cobra de Nove Manchas
 
 
 
-Cobra Navalha
+Razor Snake
 
 
 
@@ -1904,7 +2430,7 @@ Cobra Navalha
 
 
 
-Cobra do Vento
+Wind Snake
 
 
 
@@ -1915,55 +2441,47 @@ Cobra do Vento
 
 
 Yun'er
-Pessoa no Espelho
+Person in the Mirror
+
+Xuannyu Immortal
 
 
 
 
-
-Oeste
+West
 Wu Fen
-Homem
+Man
+
 
 Shi
 Weizhi
+
 
 He
 Youyuan
 
 
-Ilusao no Espelho
 
-
-Demonio Celestial
-
-
-
-Demonio da Terra
+Mirrored Illusion
 
 
 
-Demonio Humano
-
-
-
-Demonios Celestiais
+Heavenly Demon
 
 
 
 
+Earth Demon
 
 
 
 
+Human Demon
 
 
 
 
-
-
-
-Demonios da Terra
+Heavenly Demons
 
 
 
@@ -1979,7 +2497,38 @@ Demonios da Terra
 
 
 
-Demonios Humanos
+
+
+
+
+
+Earth Demons
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Human Demons
+
+
+
+
+
 
 
 
@@ -1996,21 +2545,15 @@ Demonios Humanos
 
 Lei
 Kun
-Mestre do Salao
-Mestre do Salao do Leao Voador
+Hall Master
 
-Discípulos do Salao do Leao Voador
-
+Hall Master of Flying Lion Hall
 
 
 
 
 
-
-
-
-
-Mestre Estrangeiro
+Disciples of Flying Lion Hall
 
 
 
@@ -2026,7 +2569,7 @@ Mestre Estrangeiro
 
 
 
-Discípulo Procurador de Tesouros Vajrayana
+Foreign Master
 
 
 
@@ -2042,11 +2585,30 @@ Discípulo Procurador de Tesouros Vajrayana
 
 
 
-Monge Ocidental
+Vajrayana Treasure-searching Disciple
+
+
+搜宝弟子
+
+
+
+
+
+
+
+
+
+
+
+
+
+Western Monk
+
 
 
 
 GuiGu Zi
+
 
 
 Zhang
@@ -2054,9 +2616,11 @@ Ling
 
 
 
-Restos de Túmulo
+
+Tomb Remains
 
 
+古冢遗骸
 
 
 
@@ -2073,6 +2637,7 @@ Ran
 Xindu
 
 
+隐居圣女
 
 
 
@@ -2082,30 +2647,51 @@ Xindu
 
 
 
-Gorila Branco
+White Ape
+
 
 
 Houjiu
-Pessoa Misteriosa
-Anciao em Reclusao
+Mysterious Person
+
+Elder in Seclusion
+
+
+
+
 Bai
 Ao Tian
-Jovem Cavalheiro
+Young Gentleman
+
+
+
+
+
 
 
 
 
 
 Wan
-Pai Bondoso
-Velho Maligno
+Kind Father
+Evil Old Man
 
 
 
 
 
-Pai Maligno
-Velho Bondoso
+
+
+
+
+
+Evil Father
+Kind Old Man
+
+
+
+
+
 
 
 
@@ -2113,42 +2699,39 @@ Velho Bondoso
 
 
 Xuan Huangzi
-Anciao Carrancudo
-Fundador da Seita do Talisma de Jade
+Glowering Elderly
+
+Founder of Jade Talisman Sect
 
 Kun Wuzi
-Anciao Languido
-Fundador da Seita da Espada Divina
+Languid Elderly
+
+Founder of Divine Sword Sect
 
 You Mingzi
-Anciao Sombrio
-Fundador da Seita Yin-Yang
+Grim Elderly
+
+Founder of Yin-Yang Sect
 
 Huaju
 
 
+玉符宗首徒
 
 Xuanzhi
 
 
+神剑宗首徒
 
 Yingjiao
-Mulher Sem Nome
+Nameless Woman
+
+阴阳宗首徒
+
+Candle Immortal
 
 
-Imortal da Cadeira
-
-Os Tres Ancestrais
-
-
-
-
-
-Serpente do Rio Sombrio
-
-
-
-Caldeirao Antigo da Família Liao
+The Three Ancestors
 
 
 
@@ -2156,17 +2739,12 @@ Caldeirao Antigo da Família Liao
 
 
 
+Dark River Serpent
 
 
 
 
-
-
-Pequena Cobra Negra
-
-
-
-Arvore Divina
+Liao Family's Ancient Cauldron
 
 
 
@@ -2182,7 +2760,42 @@ Arvore Divina
 
 
 
-Discípulo Emei Furioso
+
+
+
+Little Black Snake
+
+
+
+
+Divine Tree
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Angry Emei Disciple
+
+
+
+
+
+
 
 
 
@@ -2205,231 +2818,194 @@ FuYu Hilt
 
 
 
-Sombra de Taiwu
 
+Taiwu Shadow
 
 
-Dragao Branco
 
 
+White Dragon
 
-Dragao Negro
 
+神龙
 
+Black Dragon
 
-Dragao Verde
 
 
+Green Dragon
 
-Dragao Vermelho
 
 
+Red Dragon
 
-Dragao Amarelo
 
 
+Yellow Dragon
 
-Pequeno Dragao Branco
 
 
+Small White Dragon
 
-Pequeno Dragao Negro
 
+神龙化身
 
+Small Black Dragon
 
-Pequeno Dragao Verde
 
 
+Small Green Dragon
 
-Pequeno Dragao Vermelho
 
 
+Small Red Dragon
 
-Pequeno Dragao Amarelo
 
 
+Small Yellow Dragon
 
-Jiao Branco
 
 
+White Jiao
 
-Jiao Negro
+嘶……嗷——
+长蛟
 
+Black Jiao
 
 
-Jiao Verde
+Green Jiao
 
 
+Red Jiao
 
-Jiao Vermelho
 
+Yellow Jiao
 
 
-Jiao Amarelo
+Yin-Yang Jiao
 
 
+Flying Lightning Jiao
 
-Jiao Yin-Yang
 
+Thunder Fire Jiao
 
 
-Jiao de Raio Voador
+Golden Eye Jiao
 
 
+Green Pool Jiao
 
-Jiao de Fogo e Trovao
 
+Burnt Cloud Jiao
 
 
-Jiao de Olho Dourado
+Clay Pool Jiao
 
 
+Flame Horn Jiao
 
-Jiao de Poco Verde
 
+Leaning Mountain Jiao
 
 
-Jiao de Nuvem Queimada
+Refined Bone Jiao
 
 
+Disturbed Ocean Jiao
 
-Jiao de Poco de Argila
 
+Draped Clouds Jiao
 
 
-Jiao de Chifre Flamejante
+Deep Depth Jiao
 
 
+Heaven Thunder Jiao
 
-Jiao de Montanha Inclinada
 
+Desolate Road Jiao
 
 
-Jiao de Osso Refinado
+Qilin Jiao
 
 
+Ghost Prison Jiao
 
-Jiao de Oceano Perturbado
 
+Immortal Mountain Jiao
 
 
-Jiao de Nuvens Envoltas
+Flaming Pond Jiao
 
 
+Burning Hill Jiao
 
-Jiao de Profundidade Profunda
 
+Four Changes Jiao
 
 
-Jiao de Trovao Celestial
+Hundred Jewels Jiao
 
 
+Calm Sea Jiao
 
-Jiao de Estrada Desolada
 
+Heaven-swallowing Jiao
 
 
-Jiao de Qilin
+Mixed Scale Jiao
 
 
-
-Jiao de Prisao Fantasma
-
-
-
-Jiao de Montanha Imortal
-
-
-
-Jiao de Poco Flamejante
-
-
-
-Jiao de Colina Ardente
-
-
-
-Jiao das Quatro Mudancas
-
-
-
-Jiao das Cem Joias
-
-
-
-Jiao do Mar Calmo
-
-
-
-Jiao Engolidor de Céus
-
-
-
-Jiao de Escamas Misturadas
-
-
-
-Jiao do Arco-Íris
-
+Rainbow Jiao
 
 
 Qiuniu
 
-
+哞——
+龙生九子
 
 Yazi
 
-
+呜……嗷！
 
 Chaofeng
 
-
+喈喈……
 
 Pulao
 
-
+咕咕咕……嗡……
 
 Suanni
 
-
+嗷！呜——
 
 Baxia
 
-
+嘶——咻……
 
 Bian
 
-
+哈——嗷——
 
 Fuxi
 
 
-
 Chiwen
 
+呜呜……嘤……
 
-
-Cla Huanlong
-
-
-
-Freira Sagrada
+Huanlong Clan
 
 
 
 
+Sacred Nun
 
 
-
-
-
-
-
-
-
-
-
-Monge Esqueleto
+隐居圣姑
 
 
 
@@ -2443,13 +3019,30 @@ Monge Esqueleto
 
 
 
+Skeleton Monk
 
 
-Monge "Emprestador de Roupas"
-Monge Misterioso
+Corpse Forest Master
 
-Monge Eminente
+
+
+
+
+
+
+
+
+
+
+
+
+"Clothes" Borrowing Monk
+Mysterious Monk
+
+
+Eminent Monk
 Hun Ling
+
 
 
 
@@ -2457,50 +3050,62 @@ Dai Fawang
 
 
 
-Monge Suspeito
+
+Suspicious Monk
 
 
 
-Monge Hesitante
+
+Hesitant Monk
 
 
 
-Monge Perturbado
+
+Disturbed Monk
 
 
 
-Monge Confuso
+
+Bewildered Monk
 
 
 
-Monge Cortes
+
+Courteous Monk
 
 
 
-Monge Rude
+
+Boorish Monk
 
 
 
-Monge Fanatico
+
+Fanatical Monk
 
 
 
-Monge Obstinado
+
+Obstinate Monk
 
 
 
-Monge Apatico
+
+Apathetic Monk
 
 
 
-Monge Calmo
+
+Calm Monk
+
 
 
 
 Zhuo Ma
 
 
-Bandido Estrangeiro
+
+Foreign Bandit
 
 
 
@@ -2516,25 +3121,31 @@ Bandido Estrangeiro
 
 
 
-Anciao·A
+Elder·A
 
 
 
 
 
 
-Portador de Caso
 
 
-
-Líder·V
-
-
+CaseHolder
 
 
 
 
-Grande Beta
+V·Leader
+
+
+
+
+
+
+
+
+GreatBeta
+
 
 
 
@@ -2542,52 +3153,81 @@ Celestial
 
 
 
-Mestre·G
+
+G·Mistress
 
 
 
-Ferreiro·M
+
+M·Smith
 
 
 
-Rei das Ervas
+
+HerbKing
 
 
 
-Rei da Sabedoria
+
+WisdomKing
 
 
 
-Santo
+
+Saint
 
 
 
-Sem Sombra
+
+Shadowless
 
 
 
-Vice-Lorde
+
+ViceLord
 
 
 
-Hierarca·V
+
+V·Hierarch
+
 
 
 Wuyang
-Garota de Roupas Brancas
+Girl in White Clothes
+
+Hundred Flowers Founders
+
+
+
+
 Xuan
 Wuyou
-Jovem de Roupas Negras
-
-Pessoa Ressuscitada
+Youngster in Black Clothes
 
 
 
 
 
 
-Pessoa Louca
-Vigilante Noturno
+Resurrected Person
+
+
+
+
+
+
+
+
+Crazy Person
+Night Watchman
+
+
+
+
+
+
+
 
 
 
@@ -2605,6 +3245,7 @@ Vigilante Noturno
 
 
 Vice Valley Lord
+
 
 
 Lu
@@ -2633,28 +3274,19 @@ Buhui
 
 
 
-Cervo Branco
 
 
-Coruja Negra
+
+White Deer
+
+
+
+Black Owl
+
 
 
 Liu Li
-Jovem Misterioso
-
-
-
-
-
-
-
-
-Septuagésimo Sétimo
-Envoy do Fulong
-
-
-
-Discípulo Desconhecido
+Mysterious Youth
 
 
 
@@ -2666,9 +3298,14 @@ Discípulo Desconhecido
 
 
 
+Seventy-seventh
+Envoy of Fulong
 
 
 
+
+
+Unknown Disciple
 
 
 
@@ -2681,7 +3318,138 @@ Discípulo Desconhecido
 
 
 
-Discípulo Louco do Fulong
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mad Disciple of Fulong
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+铜生
+
+
+
+
+
+倾尽全力，莫留遗憾……
+
+
+青铜头颅
+
+
+
+商会贼匪
+
+
+贼匪
+
+
+
+
+
+
+
+
+
+
+
+
+
+火岩机关·甲
+
+负我，欺我，谤我……
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+火岩机关·乙
+
+责我，罪我，罚我……
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+火岩机关·丙
+
+忧我，怖我，苦我……
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+偃师
 
 
 

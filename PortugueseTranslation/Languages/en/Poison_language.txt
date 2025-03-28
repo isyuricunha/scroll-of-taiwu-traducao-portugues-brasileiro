@@ -1,18 +1,18 @@
-Acritoxina
+Acritoxin
 Acri
-<color=#hotpoison>Acritoxina, um veneno feroz e desconcertante.</color>\nEla é ativada quando 6 ataques com armas sao realizados em batalha, consome uma parte de si mesma para se transformar em <color=#redpoison>Pirotoxina</color>, e causa <color=#outterinjury>Lesoes Externas</color> de acordo com a quantidade de veneno existente. Quanto mais Acritoxina o inimigo tiver, menos dela sera consumida ao se transformar em Pirotoxina.
-Umbritoxina
+<color=#hotpoison>Acritoxin, a fierce and bewildering poison.</color>\nIt activates when 6 weapon attacks are performed in battle, consumes a part of itself to change into <color=#redpoison>Pyrotoxin</color>, and causes <color=#outterinjury>External Injuries</color> according to the amount of existing poison. The more Acritoxin the enemy has, the less of it will be consumed when changing into Pyrotoxin.
+Umbritoxin
 Umbri
-<color=#gloomypoison>Umbritoxina, um veneno sombrio e depressivo.</color>\nEla é ativada quando voce se move 3 distancias em batalha, consome uma parte de si mesma para se transformar em <color=#coldpoison>Criotoxina</color>, e causa <color=#innerinjury>Lesoes Internas</color> de acordo com a quantidade de veneno existente. Quanto mais Umbritoxina o inimigo tiver, menos dela sera consumida ao se transformar em Criotoxina.
-Criotoxina
+<color=#gloomypoison>Umbritoxin, a gloomy and depressive poison.</color>\nIt activates when you move 3 distance in battle, consumes a part of itself to change into <color=#coldpoison>Cryotoxin</color>, and causes <color=#innerinjury>Internal Injuries</color> according to the amount of existing poison. The more Umbritoxin the enemy has, the less of it will be consumed when changing into Cryotoxin.
+Cryotoxin
 Cryo
-<color=#coldpoison>Criotoxina, um veneno gelado que sela coracao e veias.</color>\nEla é ativada quando 100% da Inalacao das vítimas é consumido em batalha, consome uma parte de si mesma para se transformar em <color=#illusorypoison>Onerotoxina</color>, e agrava as <color=#innerinjury>Lesoes Internas</color> existentes de acordo com a quantidade de veneno. Quanto mais Criotoxina o inimigo tiver, menos dela sera consumida ao se transformar em Onerotoxina.
-Pirotoxina
+<color=#coldpoison>Cryotoxin, an icy poison that seals heart and veins.</color>\nIt activates when a total of 100% of victims Inhale is consumed in battle, consumes a part of itself to change into <color=#illusorypoison>Oneirotoxin</color>, and worsens existing <color=#innerinjury>Internal Injuries</color> according to the amount of existing poison. The more Cryotoxin the enemy has, the less of it will be consumed when changing into Oneirotoxin.
+Pyrotoxin
 Pyro
-<color=#redpoison>Pirotoxina, um veneno torturante que queima sete orifícios.</color>\nEla é ativada quando 100% da Postura das vítimas é consumida em batalha, consome uma parte de si mesma para se transformar em <color=#rottenpoison>Necrotoxina</color>, e agrava as <color=#outterinjury>Lesoes Externas</color> existentes de acordo com a quantidade de veneno. Quanto mais Pirotoxina o inimigo tiver, menos dela sera consumida ao se transformar em Necrotoxina.
-Necrotoxina
+<color=#redpoison>Pyrotoxin, a tormenting poison that burns seven orifices.</color>\nIt activates when a total of 100% of victims Stance is consumed in battle, consumes a part of itself to change into  <color=#rottenpoison>Necrotoxin</color>, and worsens existing <color=#outterinjury>External Injuries</color> according to the amount of existing poison. The more Pyrotoxin the enemy has, the less of it will be consumed when changing into Necrotoxin.
+Necrotoxin
 Necro
-<color=#rottenpoison>Necrotoxina, um veneno erosivo e corrosivo que entra na coluna e derrete os músculos.</color>\nEla consome continuamente uma parte de si mesma para se transformar em <color=#hotpoison>Acritoxina</color> durante a batalha, e reduz a Defesa Externa de acordo com a quantidade de veneno. Quanto mais Necrotoxina o inimigo tiver, menos dela sera consumida ao se transformar em Acritoxina.
-Onerotoxina
+<color=#rottenpoison>Necrotoxin, an eroding and corrosive poison that enters spine and melts muscles.</color>\nIt continuously consumes a part of itself to change into <color=#hotpoison>Acritoxin</color> during the battle, and reduces the External Defense according to the amount of existing poison. The more Necrotoxin the enemy has, the less of it will be consumed when changing into Acritoxin.
+Oneirotoxin
 Oneiro
-<color=#illusorypoison>Onerotoxina, um veneno desconcertante que faz as pessoas alucinarem.</color>\nEla consome continuamente uma parte de si mesma para se transformar em <color=#gloomypoison>Umbritoxina</color> durante a batalha, e reduz a Defesa Interna de acordo com a quantidade de veneno. Quanto mais Onerotoxina o inimigo tiver, menos dela sera consumida ao se transformar em Umbritoxina.
+<color=#illusorypoison>Oneirotoxin, a bewildering poison that makes people hallucinate.</color>\nIt continuously consumes a part of itself to change into <color=#gloomypoison>Umbritoxin</color> during the battle, and reduces Internal Defense according to the amount of existing poison. The more Oneirotoxin the enemy has, the less of it will be consumed when changing into Umbritoxin.
